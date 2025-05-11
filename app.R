@@ -1,27 +1,23 @@
 ### packages
-library(tidyverse)
+library(dplyr)
+library(magrittr)
 library(shiny)
 library(shinyjs) # for hidden() to hide buttons
 library(leaflet) # for the map and everything on it
 library(geosphere) # for haversineDist() to calculate distances b/w guess and points
-library(httr2)
+
 
 
 ### script --------------------------------------------------------------------
 ## read ebird query of birds sighted in last ten days from csv files
-# git token for birdnerd
-myToken <- "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"
 # function to read sightings csvs from github
 readSightingsCSVs <- function(whichSighting = 1) {
-  requestURL <- paste0("https://api.github.com/repos/jsm425/BirdNerd/contents/BirdSightingLists/level",
+  requestURL <- paste0("https://raw.githubusercontent.com/jsm425/BirdNerd/refs/heads/main/BirdSightingLists/level",
                        as.character(whichSighting),
                        "Sightings.csv")
-  response <- request(requestURL) %>%
-    req_headers(Authorization = paste("token", myToken)) %>%
-    req_perform() %>%
-    resp_body_json()
+  responseCSV <- read.csv(requestURL)
   # return it as csv
-  return(read.csv(response$download_url))
+  return(responseCSV)
 }
 # read levels 1-5
 level1Sightings <- readSightingsCSVs(1)
