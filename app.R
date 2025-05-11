@@ -4,10 +4,33 @@ library(shiny)
 library(shinyjs) # for hidden() to hide buttons
 library(leaflet) # for the map and everything on it
 library(geosphere) # for haversineDist() to calculate distances b/w guess and points
+library(httr2)
 
 
 ### script --------------------------------------------------------------------
-## querying ebird for sightings (last ten days)
+## read ebird query of birds sighted in last ten days from csv files
+# git token for birdnerd
+myToken <- "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"
+# function to read sightings csvs from github
+readSightingsCSVs <- function(whichSighting = 1) {
+  requestURL <- paste0("https://api.github.com/repos/jsm425/BirdNerd/contents/BirdSightingLists/level",
+                       as.character(whichSighting),
+                       "Sightings.csv")
+  response <- request(requestURL) %>%
+    req_headers(Authorization = paste("token", myToken)) %>%
+    req_perform() %>%
+    resp_body_json()
+  # return it as csv
+  return(read.csv(response$download_url))
+}
+# read levels 1-5
+level1Sightings <- readSightingsCSVs(1)
+level2Sightings <- readSightingsCSVs(2)
+level3Sightings <- readSightingsCSVs(3)
+level4Sightings <- readSightingsCSVs(4)
+level5Sightings <- readSightingsCSVs(5)
+
+## set game params
 difficultySettings <- c("Very Common", "Common", "Uncommon", "Rare", "Very Rare")
 sightingsTables <- list(level1Sightings, level2Sightings, level3Sightings, level4Sightings, level5Sightings)
 names(sightingsTables) <- difficultySettings
@@ -68,9 +91,10 @@ server <- function(input, output) {
   ## mapping
   output$myMap <- renderLeaflet({
     leaflet() %>%
-      fitBounds(lng1 = -126, lng2 = -66, lat1 = 24, lat2 = 50) %>%
-      #$ setMaxBounds(lng1 = -126, lng2 = -66, lat1 = 24, lat2 = 50) %>%
-      addTiles(options = providerTileOptions(minZoom = 4, maxZoom = 14))
+      setView(lng = -96, lat = 37, zoom = 4) %>%
+      #$ fitBounds(lng1 = -126, lng2 = -66, lat1 = 24, lat2 = 50) %>%
+      setMaxBounds(lng1 = -180, lng2 = 180, lat1 = -90, lat2 = 90) %>%
+      addTiles(options = providerTileOptions(minZoom = 2, maxZoom = 14))
   })
   
   ## scoreout panel text
