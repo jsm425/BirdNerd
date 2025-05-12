@@ -1,5 +1,5 @@
 ### packages
-library(tidyverse)
+library(dplyr)
 library(rebird)
 
 ###
@@ -64,7 +64,7 @@ while (sum(level1Check, level2Check, level3Check, level4Check, level5Check) < 5)
 
 
 ### write these to csvs in folder
-setwd(r"{D:\~Programming\Rthings\BirdNerd}")
+#$ setwd(r"{D:\~Programming\Rthings\BirdNerd}")
 write.csv(level1Sightings, file = "BirdSightingLists\\level1Sightings.csv")
 write.csv(level2Sightings, file = "BirdSightingLists\\level2Sightings.csv")
 write.csv(level3Sightings, file = "BirdSightingLists\\level3Sightings.csv")
