@@ -17,7 +17,7 @@ jobs:
         with:
           packages: |
             any::dplyr
-            any::ebird
+            any::rebird
 
       - name: Checkout Git Repository where Script Lives
         uses: actions/checkout@v3
