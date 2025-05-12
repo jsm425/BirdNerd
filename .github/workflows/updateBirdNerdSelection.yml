@@ -5,6 +5,9 @@ on:
     - cron: '1 4 * * *' # 12:01 am eastern time
   workflow_dispatch: # manual triggering 
 
+permissions:
+  contents: write
+
 jobs:
   run-birdnerd-script:
     runs-on: ubuntu-latest
