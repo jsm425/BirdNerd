@@ -1,4 +1,3 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","corshe1","Cory's Shearwater","Calonectris borealis","L473168","Cape Hatteras NS--Cape Point","2025-05-05 09:48",1,35.2234655,-75.5286026,TRUE,FALSE,FALSE,"S233871919"
-"2","corshe1","Cory's Shearwater","Calonectris borealis","L11650972","Hatteras Pelagic - On the Shelf (Inshore of the Shelf Break)","2025-05-03 13:13",1,35.0715166,-75.6011031,TRUE,FALSE,TRUE,"S233140729"
-"3","corshe1","Cory's Shearwater","Calonectris borealis","L548893","Hatteras Pelagic--Gulf Stream","2025-05-03 08:07",1,34.8588905,-75.2453613,TRUE,FALSE,FALSE,"S232714745"
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
+"1","gretit1","Great Tit","Parus major","L4758547","Sheboygan Indian Mound Park","2025-05-10 06:40",1,43.6969906,-87.7182287,TRUE,FALSE,FALSE,"S235548659","P"
+"2","gretit1","Great Tit","Parus major","L21686975","Yard","2025-05-05 07:00",1,43.696861,-87.70827,TRUE,FALSE,TRUE,"S233380541","P"
