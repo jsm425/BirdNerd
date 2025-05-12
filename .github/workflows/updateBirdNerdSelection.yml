@@ -2,7 +2,8 @@ name: updateBirdNerdSelection
 
 on:
   schedule:
-    - cron: '0 4 * * *'
+    - cron: '1 4 * * *' # 12:01 am eastern time
+  workflow_dispatch: # manual triggering 
 
 jobs:
   run-birdnerd-script:
