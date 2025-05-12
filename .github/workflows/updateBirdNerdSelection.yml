@@ -25,14 +25,17 @@ jobs:
       - name: Run R Script
         run: Rscript ./selectionPicker.R
 
+      - name: Debug - Listing Files that Should Have Been Created
+        run: ls -R
+
       - name: Commit New CSVs to Repo
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add BirdSightingLists/level1Sightings.csv
-          git add BirdSightingLists/level2Sightings.csv
-          git add BirdSightingLists/level3Sightings.csv
-          git add BirdSightingLists/level4Sightings.csv
-          git add BirdSightingLists/level5Sightings.csv
+          git add ./BirdSightingLists/level1Sightings.csv
+          git add ./BirdSightingLists/level2Sightings.csv
+          git add ./BirdSightingLists/level3Sightings.csv
+          git add ./BirdSightingLists/level4Sightings.csv
+          git add ./BirdSightingLists/level5Sightings.csv
           git commit -m 'New Bird Selection CSVs'
           git push
