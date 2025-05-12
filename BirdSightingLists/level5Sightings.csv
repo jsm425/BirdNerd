@@ -1,2 +1,4 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","x00448","Rose-breasted x Black-headed Grosbeak (hybrid)","Pheucticus ludovicianus x melanocephalus","L5829043","AGray - El Granada Blvd","2025-05-04 14:01",1,37.5116255,-122.4641894,TRUE,TRUE,TRUE,"S233254412"
+"1","corshe1","Cory's Shearwater","Calonectris borealis","L473168","Cape Hatteras NS--Cape Point","2025-05-05 09:48",1,35.2234655,-75.5286026,TRUE,FALSE,FALSE,"S233871919"
+"2","corshe1","Cory's Shearwater","Calonectris borealis","L11650972","Hatteras Pelagic - On the Shelf (Inshore of the Shelf Break)","2025-05-03 13:13",1,35.0715166,-75.6011031,TRUE,FALSE,TRUE,"S233140729"
+"3","corshe1","Cory's Shearwater","Calonectris borealis","L548893","Hatteras Pelagic--Gulf Stream","2025-05-03 08:07",1,34.8588905,-75.2453613,TRUE,FALSE,FALSE,"S232714745"
