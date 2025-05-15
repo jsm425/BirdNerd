@@ -1,2 +1,3 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","lsspet","Least Storm-Petrel","Hydrobates microsoma","L44704175","Pelagic charter: 31.3846,-119.0463","2025-05-10 13:30",1,31.384593,-119.04629,TRUE,TRUE,TRUE,"S236269241"
+"1","x00623","Black-capped x Mountain Chickadee (hybrid)","Poecile atricapillus x gambeli","L281893","Galisteo","2025-05-10 10:56",1,35.3948964,-105.9435315,TRUE,TRUE,FALSE,"S235789141"
+"2","x00623","Black-capped x Mountain Chickadee (hybrid)","Poecile atricapillus x gambeli","L25234296","(45.249336, -112.6222661) - Laknar Lane, Dillon","2025-05-10 08:24",1,45.249336,-112.6222661,TRUE,FALSE,TRUE,"S235576894"
