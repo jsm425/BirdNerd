@@ -1,3 +1,5 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","x00623","Black-capped x Mountain Chickadee (hybrid)","Poecile atricapillus x gambeli","L281893","Galisteo","2025-05-10 10:56",1,35.3948964,-105.9435315,TRUE,TRUE,FALSE,"S235789141"
-"2","x00623","Black-capped x Mountain Chickadee (hybrid)","Poecile atricapillus x gambeli","L25234296","(45.249336, -112.6222661) - Laknar Lane, Dillon","2025-05-10 08:24",1,45.249336,-112.6222661,TRUE,FALSE,TRUE,"S235576894"
+"1","x00728","Sharp-tailed Grouse x Greater Prairie-Chicken (hybrid)","Tympanuchus phasianellus x cupido","L635868","Bluestem Prairie SNA","2025-05-14 04:53",1,46.855253,-96.473875,TRUE,TRUE,FALSE,"S237757397"
+"2","x00728","Sharp-tailed Grouse x Greater Prairie-Chicken (hybrid)","Tympanuchus phasianellus x cupido","L44271015","Hamden Slough National Wildlife Refuge, Audubon US-MN 46.96101, -95.97906","2025-05-06 05:32",1,46.961011,-95.979058,TRUE,TRUE,TRUE,"S233902187"
+"3","x00728","Sharp-tailed Grouse x Greater Prairie-Chicken (hybrid)","Tympanuchus phasianellus x cupido","L44242295","The Nature Conservancy, Glyndon US-MN 46.84168, -96.47316","2025-05-06 05:23",1,46.84168,-96.473164,TRUE,TRUE,TRUE,"S233735340"
+"4","x00728","Sharp-tailed Grouse x Greater Prairie-Chicken (hybrid)","Tympanuchus phasianellus x cupido","L44245026","The Nature Conservancy, Glyndon US-MN (46.8414,-96.4728)","2025-05-06 05:00",1,46.841423,-96.472828,TRUE,TRUE,TRUE,"S233755316"
