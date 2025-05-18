@@ -1,6 +1,2 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
-"1","burpar","Burrowing Parakeet","Cyanoliseus patagonus","L13862944","Hokulia Shoreline Park","2025-05-14 18:04",1,19.5211809,-155.9561125,TRUE,FALSE,FALSE,"S238014431","P"
-"2","burpar","Burrowing Parakeet","Cyanoliseus patagonus","L11852604","El Cajon Courthouse Parrot Roost","2025-05-10 18:23",8,32.7958708,-116.9584574,TRUE,FALSE,FALSE,"S236631242","P"
-"3","burpar","Burrowing Parakeet","Cyanoliseus patagonus","L15906817","E 2nd St. & D Ave.","2025-05-10 15:05",9,32.682196,-117.10481,TRUE,FALSE,FALSE,"S235882389","P"
-"4","burpar","Burrowing Parakeet","Cyanoliseus patagonus","L44898226","Bancroft and Juniper","2025-05-09 19:03",1,32.729645,-117.124451,TRUE,FALSE,TRUE,"S237344840","P"
-"5","burpar","Burrowing Parakeet","Cyanoliseus patagonus","L44336781","El Cajon Neighborhood Park","2025-05-07 11:16",12,32.7935424,-116.9605622,TRUE,FALSE,TRUE,"S234284865","P"
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
+"1","x00048","Glaucous x Glaucous-winged Gull (hybrid)","Larus hyperboreus x glaucescens","L44672939","North Pacific Ocean US-CA (39.4705,-123.8696)","2025-05-09 16:19",1,39.470461,-123.869622,TRUE,TRUE,TRUE,"S236899204"
