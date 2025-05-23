@@ -1,3 +1,2 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","akepa1","Hawaii Akepa","Loxops coccineus","L45287142","96725, Holualoa US-HI 19.58475, -155.41411","2025-05-17 09:58",1,19.584752,-155.414107,TRUE,TRUE,TRUE,"S239368607"
-"2","akepa1","Hawaii Akepa","Loxops coccineus","L695639","Hakalau Forest NWR--Pua Akala Tract (restricted access)","2025-05-13 10:00",7,19.7895,-155.3262,TRUE,TRUE,FALSE,"S237609013"
+"1","x00420","Gadwall x Mallard (hybrid)","Mareca strepera x Anas platyrhynchos","L159723","Ken Euers Wetland Preserve","2025-05-16 11:13",1,44.55768,-88.03675,TRUE,TRUE,FALSE,"S238823956"
