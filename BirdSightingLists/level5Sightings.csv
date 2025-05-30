@@ -1,2 +1,6 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","x00623","Black-capped x Mountain Chickadee (hybrid)","Poecile atricapillus x gambeli","L25234296","(45.249336, -112.6222661) - Laknar Lane, Dillon","2025-05-28 06:44",1,45.249336,-112.6222661,TRUE,FALSE,TRUE,"S243976023"
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
+"1","gretit1","Great Tit","Parus major","L32526474","Henry Mueller Family Conservancy","2025-05-29 15:42",1,43.697685,-87.714244,TRUE,FALSE,FALSE,"S244310124","P"
+"2","gretit1","Great Tit","Parus major","L163286","Maywood Environmental Area","2025-05-26 13:38",NA,43.77889,-87.75527,TRUE,FALSE,FALSE,"S243140075","P"
+"3","gretit1","Great Tit","Parus major","L21686975","Yard","2025-05-20 11:20",1,43.696861,-87.70827,TRUE,FALSE,TRUE,"S240643750","P"
+"4","gretit1","Great Tit","Parus major","L4758547","Sheboygan Indian Mound Park","2025-05-20 10:40",2,43.6969906,-87.7182287,TRUE,FALSE,FALSE,"S240647222","P"
+"5","gretit1","Great Tit","Parus major","L6432309","Home (private property--no access)","2025-05-20 10:05",1,43.7756135,-87.7448047,TRUE,FALSE,TRUE,"S240639798","P"
