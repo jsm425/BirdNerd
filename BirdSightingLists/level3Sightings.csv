@@ -1,382 +1,319 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","lat","lng","obsValid","obsReviewed","locationPrivate","subId","howMany"
-"1","swawar","Swainson's Warbler","Limnothlypis swainsonii","L3932246","Pisgah NF--Davidson River Campground","2025-05-30 17:00",35.2830135,-82.7256668,TRUE,FALSE,FALSE,"S244735493",NA
-"2","swawar","Swainson's Warbler","Limnothlypis swainsonii","L46407500","Santeetlah Creek SE North Carolina, US (35.261, -83.934)","2025-05-30 14:31",35.2605122,-83.9340492,TRUE,FALSE,TRUE,"S244746578",1
-"3","swawar","Swainson's Warbler","Limnothlypis swainsonii","L894430","Edisto Nature Trail","2025-05-30 12:48",32.76873,-80.45185,TRUE,FALSE,FALSE,"S244628718",2
-"4","swawar","Swainson's Warbler","Limnothlypis swainsonii","L1908491","Palmetto Trail Alston Trailhead","2025-05-30 12:03",34.2423176,-81.3225174,TRUE,FALSE,FALSE,"S244663251",1
-"5","swawar","Swainson's Warbler","Limnothlypis swainsonii","L46407335","Santeetlah Creek SE North Carolina, US (35.266, -83.934)","2025-05-30 11:50",35.2657702,-83.9340348,TRUE,FALSE,TRUE,"S244745713",2
-"6","swawar","Swainson's Warbler","Limnothlypis swainsonii","L46407316","Santeetlah Creek SE North Carolina, US (35.273, -83.925)","2025-05-30 11:44",35.2726987,-83.9252448,TRUE,FALSE,TRUE,"S244745592",1
-"7","swawar","Swainson's Warbler","Limnothlypis swainsonii","L46378553","1050 Buccaneer Dr, Hoover US-AL 33.33888, -86.83621","2025-05-30 11:40",33.338878,-86.836212,TRUE,FALSE,TRUE,"S244623552",1
-"8","swawar","Swainson's Warbler","Limnothlypis swainsonii","L167141","Brickyard Ponds","2025-05-30 11:31",33.438241,-81.95548,TRUE,FALSE,FALSE,"S244606189",1
-"9","swawar","Swainson's Warbler","Limnothlypis swainsonii","L46395072","Richlands SE- 278 Francktown Rd, Richlands US-NC 34.89466, -77.51414","2025-05-30 11:03",34.894664,-77.514142,TRUE,FALSE,TRUE,"S244687144",1
-"10","swawar","Swainson's Warbler","Limnothlypis swainsonii","L11619026","Currituck County Rest Area (US-158 Southbound)","2025-05-30 10:56",36.3047259,-75.9305179,TRUE,FALSE,FALSE,"S244586614",1
-"11","swawar","Swainson's Warbler","Limnothlypis swainsonii","L46404624","PRIVATE - Dawson Crossroads SE - (36.1522,-77.5291)","2025-05-30 10:21",36.15222,-77.52907,TRUE,FALSE,TRUE,"S244733064",1
-"12","swawar","Swainson's Warbler","Limnothlypis swainsonii","L7219479","11 Marlowe Rd, Fairview US-NC (35.5314,-82.3131)","2025-05-30 10:04",35.531415,-82.313134,TRUE,FALSE,TRUE,"S244570406",1
-"13","swawar","Swainson's Warbler","Limnothlypis swainsonii","L608545","Reelfoot NWR--Grassy Island Unit--Walnut Log Rd","2025-05-30 09:57",36.461904,-89.324341,TRUE,FALSE,FALSE,"S244717412",1
-"14","swawar","Swainson's Warbler","Limnothlypis swainsonii","L109172","Phinizy Swamp Nature Park","2025-05-30 09:32",33.3855863,-81.96069,TRUE,FALSE,FALSE,"S244570186",1
-"15","swawar","Swainson's Warbler","Limnothlypis swainsonii","L46363140","704–756 Surrey Race Rd, Springfield US-SC 33.54379, -81.43469","2025-05-30 09:08",33.543786,-81.434694,TRUE,FALSE,TRUE,"S244553940",1
-"16","swawar","Swainson's Warbler","Limnothlypis swainsonii","L9076551","North Mills River Recreation Area","2025-05-30 09:00",35.4066711,-82.6435897,TRUE,FALSE,FALSE,"S244616123",1
-"17","swawar","Swainson's Warbler","Limnothlypis swainsonii","L133038","Lake Seminole--Jim Woodruff Dam East Bank","2025-05-30 08:53",30.7097295,-84.8607481,TRUE,FALSE,FALSE,"S244592050",1
-"18","swawar","Swainson's Warbler","Limnothlypis swainsonii","L192340"," 516 Gopher Ridge Road","2025-05-30 08:35",31.057365,-86.18351,TRUE,FALSE,TRUE,"S244574748",2
-"19","swawar","Swainson's Warbler","Limnothlypis swainsonii","L46403277","Santeetlah Creek SE Big Snowbird Road, Robbinsville, North Carolina, US (35.274, -83.91)","2025-05-30 08:23",35.2741771,-83.9103847,TRUE,FALSE,TRUE,"S244726574",2
-"20","swawar","Swainson's Warbler","Limnothlypis swainsonii","L523242","Moses H. Cone Memorial Park--Trout Lake","2025-05-30 08:22",36.15305,-81.70315,TRUE,FALSE,FALSE,"S244605260",1
-"21","swawar","Swainson's Warbler","Limnothlypis swainsonii","L46403252","Santeetlah Creek SE Big Snowbird Road, Robbinsville, North Carolina, US (35.273, -83.905)","2025-05-30 08:07",35.2734887,-83.9053154,TRUE,FALSE,TRUE,"S244726473",1
-"22","swawar","Swainson's Warbler","Limnothlypis swainsonii","L23801746","my yard","2025-05-30 08:04",33.8362122,-81.3874359,TRUE,FALSE,TRUE,"S244623464",1
-"23","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45238649","Private—Delway SE—Rose Hill US-NC (34.7860,-78.1630)","2025-05-30 07:33",34.786007,-78.162995,TRUE,FALSE,TRUE,"S244662482",1
-"24","swawar","Swainson's Warbler","Limnothlypis swainsonii","L1218327","Ripshin Lake","2025-05-30 07:25",36.173697,-82.1334736,TRUE,FALSE,FALSE,"S244533355",1
-"25","swawar","Swainson's Warbler","Limnothlypis swainsonii","L46403163","Santeetlah Creek SE Big Snowbird Road, Robbinsville, North Carolina, US (35.283, -83.907)","2025-05-30 07:10",35.2834731,-83.9071835,TRUE,FALSE,TRUE,"S244726039",2
-"26","swawar","Swainson's Warbler","Limnothlypis swainsonii","L27858619","Murphy Mill","2025-05-30 07:08",31.264654,-85.4624,TRUE,FALSE,TRUE,"S244502140",1
-"27","swawar","Swainson's Warbler","Limnothlypis swainsonii","L5187732","Kiesel Park","2025-05-30 07:00",32.5847895,-85.5430698,TRUE,FALSE,FALSE,"S244548498",1
-"28","swawar","Swainson's Warbler","Limnothlypis swainsonii","L735899","Old Mine Road IBA (Warren County only)","2025-05-30 06:56",40.9993797,-75.1110234,TRUE,TRUE,FALSE,"S244599158",1
-"29","swawar","Swainson's Warbler","Limnothlypis swainsonii","L20051970","Leaf-flipper Lane","2025-05-30 06:42",33.935183,-83.336437,TRUE,FALSE,TRUE,"S244505710",1
-"30","swawar","Swainson's Warbler","Limnothlypis swainsonii","L46403019","Santeetlah Creek SE 1794 Big Snowbird Road, Robbinsville, North Carolina, US (35.287, -83.898)","2025-05-30 06:39",35.2873222,-83.8980603,TRUE,FALSE,TRUE,"S244725418",1
-"31","swawar","Swainson's Warbler","Limnothlypis swainsonii","L46402980","Santeetlah Creek SE 1637 Big Snowbird Road, Robbinsville, North Carolina, US (35.289, -83.896)","2025-05-30 06:33",35.2886145,-83.8963682,TRUE,FALSE,TRUE,"S244725261",2
-"32","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45238147","Private—Delway SE—Rose Hill US-NC (34.7907,-78.1694)","2025-05-30 06:09",34.790673,-78.169428,TRUE,FALSE,TRUE,"S244660158",1
-"33","swawar","Swainson's Warbler","Limnothlypis swainsonii","L46359551","389 Sugar Cove Rd, Franklin US-NC (35.2696,-83.5373) Wesser SE","2025-05-30 05:59",35.269552,-83.537327,TRUE,FALSE,TRUE,"S244536592",1
-"34","swawar","Swainson's Warbler","Limnothlypis swainsonii","L46357555","214 McKenzie Way, Black Mountain US-NC 35.54035, -82.19459","2025-05-30 05:30",35.54035,-82.194593,TRUE,FALSE,TRUE,"S244526468",1
-"35","swawar","Swainson's Warbler","Limnothlypis swainsonii","L35877012","Marion Road","2025-05-30 05:17",33.0938497,-80.4659272,TRUE,FALSE,TRUE,"S244469423",1
-"36","swawar","Swainson's Warbler","Limnothlypis swainsonii","L6945688","Atoka, TN (wetland/floodplain)","2025-05-29 17:20",35.408594,-89.8086981,TRUE,FALSE,TRUE,"S244362507",1
-"37","swawar","Swainson's Warbler","Limnothlypis swainsonii","L370457","Pearl River WMA--Honey Island Swamp","2025-05-29 17:11",30.3980862,-89.7006226,TRUE,FALSE,FALSE,"S244368891",1
-"38","swawar","Swainson's Warbler","Limnothlypis swainsonii","L1000300","Gum Swamp Road","2025-05-29 16:43",33.3857296,-81.9185257,TRUE,FALSE,FALSE,"S244398854",2
-"39","swawar","Swainson's Warbler","Limnothlypis swainsonii","L693507","Great Dismal Swamp NWR--Railroad Ditch","2025-05-29 15:07",36.61911,-76.5273285,TRUE,FALSE,FALSE,"S244399238",2
-"40","swawar","Swainson's Warbler","Limnothlypis swainsonii","L1287709","Lake Powhatan","2025-05-29 14:25",35.4824091,-82.6256418,TRUE,FALSE,FALSE,"S244287796",2
-"41","swawar","Swainson's Warbler","Limnothlypis swainsonii","L17726603","Dismal Swamp Canal Trail--Cornland Road Access","2025-05-29 13:53",36.6535771,-76.368624,TRUE,FALSE,FALSE,"S244275996",3
-"42","swawar","Swainson's Warbler","Limnothlypis swainsonii","L1248659","Dupont SF","2025-05-29 13:32",35.1913017,-82.6226377,TRUE,FALSE,FALSE,"S244243437",1
-"43","swawar","Swainson's Warbler","Limnothlypis swainsonii","L44198597","3115 Little Benton Road, Mansfield, Tennessee, US (36.144, -88.197)","2025-05-29 12:49",36.1439252,-88.1967828,TRUE,FALSE,TRUE,"S244249354",1
-"44","swawar","Swainson's Warbler","Limnothlypis swainsonii","L15218711","Summersville Lake SP","2025-05-29 12:36",38.2457618,-80.8560303,TRUE,FALSE,FALSE,"S244227276",1
-"45","swawar","Swainson's Warbler","Limnothlypis swainsonii","L46293998","Marble SE 756 Long Branch Road, Marble, North Carolina, US (35.144, -83.935)","2025-05-29 11:02",35.1443108,-83.9352056,TRUE,FALSE,TRUE,"S244211354",1
-"46","swawar","Swainson's Warbler","Limnothlypis swainsonii","L46326270","KAYAKING - Ensfield SE - Fishing Creek (36.1377,-77.6557)","2025-05-29 10:33",36.137695,-77.65568,TRUE,FALSE,TRUE,"S244372691",2
-"47","swawar","Swainson's Warbler","Limnothlypis swainsonii","L46291157","11085 County Road 365, Louise, Texas, US (29.233, -96.497) Swainson's Warbler","2025-05-29 10:18",29.2333079,-96.4973145,TRUE,TRUE,TRUE,"S244198836",1
-"48","swawar","Swainson's Warbler","Limnothlypis swainsonii","L46326210","KAYAKING - ENSFIELD SE - Fishing Creek, (36.1377,-77.6597)","2025-05-29 09:47",36.137675,-77.659651,TRUE,FALSE,TRUE,"S244372367",2
-"49","swawar","Swainson's Warbler","Limnothlypis swainsonii","L44902719","River Park & Boat Ramp, Bridgeport","2025-05-29 09:39",34.9274425,-85.6965422,TRUE,FALSE,TRUE,"S244189294",1
-"50","swawar","Swainson's Warbler","Limnothlypis swainsonii","L443923","Bear Run Nature Reserve/Fallingwater","2025-05-29 09:18",39.9054369,-79.4604528,TRUE,TRUE,FALSE,"S244231416",1
-"51","swawar","Swainson's Warbler","Limnothlypis swainsonii","L12654860","Cape Fear Shiner Park","2025-05-29 09:04",35.4178117,-78.8180657,TRUE,FALSE,FALSE,"S244330549",2
-"52","swawar","Swainson's Warbler","Limnothlypis swainsonii","L46286771","4132–4968 Fort Branch Rd, Oak City US-NC (35.9229,-77.1461)","2025-05-29 09:00",35.922872,-77.146096,TRUE,FALSE,TRUE,"S244179719",1
-"53","swawar","Swainson's Warbler","Limnothlypis swainsonii","L3644999","New River Gorge NP--Keeney Creek","2025-05-29 08:59",38.0306533,-81.0179172,TRUE,FALSE,TRUE,"S244282041",1
-"54","swawar","Swainson's Warbler","Limnothlypis swainsonii","L5385992","BREC Sandy Creek Community Park","2025-05-29 08:38",30.668158,-90.957825,TRUE,FALSE,FALSE,"S244189520",2
-"55","swawar","Swainson's Warbler","Limnothlypis swainsonii","L46273198","Marble SE 1866 Vengeance Creek Road, Marble, North Carolina, US (35.152, -83.895)","2025-05-29 07:50",35.1517155,-83.8953533,TRUE,FALSE,TRUE,"S244112547",1
-"56","swawar","Swainson's Warbler","Limnothlypis swainsonii","L780761","Kendall Rec. Area","2025-05-29 07:41",36.8778945,-85.1426538,TRUE,TRUE,FALSE,"S244131347",1
-"57","swawar","Swainson's Warbler","Limnothlypis swainsonii","L40299606","2–98 Blake Rd, Seabrook US-SC 32.59645, -80.76215","2025-05-29 07:40",32.596454,-80.762149,TRUE,FALSE,TRUE,"S244109647",1
-"58","swawar","Swainson's Warbler","Limnothlypis swainsonii","L46325919","KAYAKING - Ensfield SE - Fishing Creek(36.1506,-77.6764)","2025-05-29 07:31",36.15059,-77.676415,TRUE,FALSE,TRUE,"S244370613",2
-"59","swawar","Swainson's Warbler","Limnothlypis swainsonii","L736229","Old Mine Road IBA:Worthington State Forest","2025-05-29 07:09",41.0108379,-75.0669107,TRUE,TRUE,FALSE,"S244188889",1
-"60","swawar","Swainson's Warbler","Limnothlypis swainsonii","L46325714","KAYAK SURVEY - Ensfield SE - Fishing Creek (36.1533,-77.6819)","2025-05-29 06:58",36.153291,-77.681852,TRUE,FALSE,TRUE,"S244369426",1
-"61","swawar","Swainson's Warbler","Limnothlypis swainsonii","L46325670","KAYAKING - Ensfield SE (36.1516,-77.6851)","2025-05-29 06:19",36.151645,-77.68515,TRUE,FALSE,TRUE,"S244369170",3
-"62","swawar","Swainson's Warbler","Limnothlypis swainsonii","L3677016","New River Gorge NP--Meadow Fork","2025-05-29 06:18",37.9454553,-81.0928602,TRUE,FALSE,TRUE,"S244279405",1
-"63","swawar","Swainson's Warbler","Limnothlypis swainsonii","L655272","Great Dismal Swamp NWR--Jericho Ditch Lane","2025-05-29 06:05",36.7154946,-76.542778,TRUE,FALSE,FALSE,"S244136806",4
-"64","swawar","Swainson's Warbler","Limnothlypis swainsonii","L3389644","Leon Co- Home (Private)","2025-05-29 06:01",31.2831538,-96.0226268,TRUE,FALSE,TRUE,"S244366865",1
-"65","swawar","Swainson's Warbler","Limnothlypis swainsonii","L15511554","905 Indian Ridge Trail, Hendersonville US-NC 35.27736, -82.60931","2025-05-29 05:49",35.277364,-82.609307,TRUE,FALSE,TRUE,"S244126579",NA
-"66","swawar","Swainson's Warbler","Limnothlypis swainsonii","L867919","Great Dismal Swamp NWR--Jericho Ditch","2025-05-28 18:58",36.7108159,-76.5235519,TRUE,FALSE,FALSE,"S244004527",1
-"67","swawar","Swainson's Warbler","Limnothlypis swainsonii","L36972654","Colonel Kolb’s Tomb","2025-05-28 17:53",34.5368942,-79.8273039,TRUE,FALSE,TRUE,"S243968217",1
-"68","swawar","Swainson's Warbler","Limnothlypis swainsonii","L46240262","308–340 Gooseneck Rd, Aiken US-SC 33.68640, -81.57023","2025-05-28 17:06",33.686405,-81.570232,TRUE,FALSE,TRUE,"S243950074",1
-"69","swawar","Swainson's Warbler","Limnothlypis swainsonii","L461485","Bond Swamp NWR","2025-05-28 15:31",32.7386456,-83.5639215,TRUE,FALSE,FALSE,"S243960946",1
-"70","swawar","Swainson's Warbler","Limnothlypis swainsonii","L46233357","30545, Helen US-GA (34.7488,-83.7707)","2025-05-28 15:07",34.748849,-83.770701,TRUE,FALSE,TRUE,"S243917110",1
-"71","swawar","Swainson's Warbler","Limnothlypis swainsonii","L9634426","Nantahala NF--Bartram Trail Access Area","2025-05-28 14:31",35.272025,-83.6789456,TRUE,FALSE,FALSE,"S243916197",1
-"72","swawar","Swainson's Warbler","Limnothlypis swainsonii","L46222437","42–152 Hale Ridge Rd, Clayton US-GA 34.91978, -83.24039","2025-05-28 10:58",34.91978,-83.240392,TRUE,FALSE,TRUE,"S243865130",2
-"73","swawar","Swainson's Warbler","Limnothlypis swainsonii","L2744159","Walker County Public Lake","2025-05-28 10:50",33.8039461,-87.2310127,TRUE,FALSE,FALSE,"S244019319",NA
-"74","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45590213","Oak Ridge Preserve (private), LaGrange US-GA 33.00972, -85.09617","2025-05-28 10:44",33.009723,-85.096172,TRUE,FALSE,TRUE,"S243844361",1
-"75","swawar","Swainson's Warbler","Limnothlypis swainsonii","L2341649","Moccasin Creek SP","2025-05-28 10:39",34.8446056,-83.5884261,TRUE,FALSE,FALSE,"S243830815",1
-"76","swawar","Swainson's Warbler","Limnothlypis swainsonii","L46215949","255 Dan Cotton Road, Porterville, Mississippi, US (32.63, -88.493)","2025-05-28 10:15",32.6295084,-88.4932641,TRUE,FALSE,TRUE,"S243835882",1
-"77","swawar","Swainson's Warbler","Limnothlypis swainsonii","L445873","Devils Fork SP","2025-05-28 10:02",34.9567994,-82.952528,TRUE,FALSE,FALSE,"S244411724",1
-"78","swawar","Swainson's Warbler","Limnothlypis swainsonii","L1288199","Aiken State Natural Area","2025-05-28 10:00",33.5493613,-81.4894152,TRUE,FALSE,FALSE,"S244597004",2
-"79","swawar","Swainson's Warbler","Limnothlypis swainsonii","L13424592","760–1190 Pleasant Grove Church Rd, Hendersonville US-NC 35.28405, -82.59877","2025-05-28 09:54",35.284054,-82.598771,TRUE,FALSE,TRUE,"S243803024",NA
-"80","swawar","Swainson's Warbler","Limnothlypis swainsonii","L389216","Gorges SP","2025-05-28 09:41",35.0972291,-82.9454041,TRUE,FALSE,FALSE,"S243878142",1
-"81","swawar","Swainson's Warbler","Limnothlypis swainsonii","L5872484","Browns Mill Pond_Hwy 27","2025-05-28 09:24",32.0533056,-84.0983033,TRUE,FALSE,TRUE,"S243809930",1
-"82","swawar","Swainson's Warbler","Limnothlypis swainsonii","L18121294","Blue Ridge Parkway--Visitor Center","2025-05-28 09:21",35.5656007,-82.4865717,TRUE,FALSE,FALSE,"S243796475",1
-"83","swawar","Swainson's Warbler","Limnothlypis swainsonii","L46235670","Nantahala National Forest, Franklin US-NC (35.0317,-83.5053) Rainbow Springs SE","2025-05-28 09:19",35.031734,-83.505315,TRUE,FALSE,TRUE,"S243927660",1
-"84","swawar","Swainson's Warbler","Limnothlypis swainsonii","L46223101","PRIVATE- Catherine Lake SE- 28540, Jacksonville US-NC 34.77006, -77.55904","2025-05-28 09:02",34.770064,-77.559042,TRUE,FALSE,TRUE,"S243868182",1
-"85","swawar","Swainson's Warbler","Limnothlypis swainsonii","L13235854","Ivan K. Hill Park","2025-05-28 09:00",33.935759,-87.810171,TRUE,FALSE,FALSE,"S244018425",NA
-"86","swawar","Swainson's Warbler","Limnothlypis swainsonii","L46208748","401–477 Dead Hollow Rd S, Harpersville US-AL 33.28771, -86.44896","2025-05-28 08:37",33.287705,-86.44896,TRUE,FALSE,TRUE,"S243800365",1
-"87","swawar","Swainson's Warbler","Limnothlypis swainsonii","L46223479","2442–2578 Buck Creek Rd, Hayesville US-NC 35.09427, -83.62494","2025-05-28 08:24",35.09427,-83.624941,TRUE,FALSE,TRUE,"S243869883",1
-"88","swawar","Swainson's Warbler","Limnothlypis swainsonii","L24306286","151 Woods Rd, Clayton US-GA 34.83935, -83.33595","2025-05-28 08:24",34.83935,-83.335953,TRUE,FALSE,TRUE,"S243768482",1
-"89","swawar","Swainson's Warbler","Limnothlypis swainsonii","L20350849","The Vineyards entry fields  (Private) Vineyards Parkway, Wallace, North Carolina, US (34.765, -77.949)","2025-05-28 08:23",34.7645761,-77.9492898,TRUE,FALSE,TRUE,"S243778346",1
-"90","swawar","Swainson's Warbler","Limnothlypis swainsonii","L1458291","Kellys Creek Rd., Dillard","2025-05-28 08:16",34.9578585,-83.373968,TRUE,FALSE,FALSE,"S243791456",1
-"91","swawar","Swainson's Warbler","Limnothlypis swainsonii","L3535711","Great Smoky Mountains NP--Townsend Wye","2025-05-28 08:14",35.6599881,-83.7079817,TRUE,FALSE,FALSE,"S243827972",1
-"92","swawar","Swainson's Warbler","Limnothlypis swainsonii","L46271114","5341 Oak Crest Ln, Lenoir US-NC 35.91397, -81.67181","2025-05-28 08:02",35.913967,-81.671813,TRUE,FALSE,TRUE,"S244101789",2
-"93","swawar","Swainson's Warbler","Limnothlypis swainsonii","L34029267","Planted pines (private)","2025-05-28 08:00",30.5127556,-83.9407728,TRUE,FALSE,TRUE,"S243836861",2
-"94","swawar","Swainson's Warbler","Limnothlypis swainsonii","L4966526","Nantahala NF--Buck Creek Pine Barrens","2025-05-28 07:57",35.0833761,-83.6221415,TRUE,FALSE,FALSE,"S244010257",1
-"95","swawar","Swainson's Warbler","Limnothlypis swainsonii","L4762096","Old Mine Road IBA:Worthington SF--HQ","2025-05-28 06:41",41.0051183,-75.1039121,TRUE,TRUE,FALSE,"S243764832",1
-"96","swawar","Swainson's Warbler","Limnothlypis swainsonii","L46200518","1469–1919 Tanyard Rd, Harpersville US-AL 33.30475, -86.42676","2025-05-28 06:17",33.304745,-86.426761,TRUE,FALSE,TRUE,"S243754963",1
-"97","swawar","Swainson's Warbler","Limnothlypis swainsonii","L34653709","Golf Course Loop","2025-05-28 06:12",35.139038,-82.336528,TRUE,FALSE,TRUE,"S243802448",1
-"98","swawar","Swainson's Warbler","Limnothlypis swainsonii","L43170501","Puncheon Camp Branch, Indian Creek, Menifee, KY (Private Property)","2025-05-28 05:45",37.9188062,-83.6863176,TRUE,FALSE,TRUE,"S244009069",1
-"99","swawar","Swainson's Warbler","Limnothlypis swainsonii","L131171","Meeman-Shelby Forest SP","2025-05-28 03:34",35.3481162,-90.0630341,TRUE,FALSE,FALSE,"S244025535",2
-"100","swawar","Swainson's Warbler","Limnothlypis swainsonii","L46163628","39702, Columbus US-MS (33.4551,-88.3317)","2025-05-27 13:58",33.455107,-88.331719,TRUE,FALSE,TRUE,"S243568110",NA
-"101","swawar","Swainson's Warbler","Limnothlypis swainsonii","L19276679","Richmond Hill WMA - Oak Level tract","2025-05-27 11:57",31.871822,-81.205699,TRUE,FALSE,TRUE,"S243493568",1
-"102","swawar","Swainson's Warbler","Limnothlypis swainsonii","L2487093","US-KY-Murray-364-598 Navigator Dr","2025-05-27 11:40",36.577865,-88.149755,TRUE,FALSE,TRUE,"S243545723",1
-"103","swawar","Swainson's Warbler","Limnothlypis swainsonii","L46142198","99-97 Old Mine Road, Hardwick Township, New Jersey, US (41.004, -75.102)","2025-05-27 10:56",41.0035881,-75.1020608,TRUE,TRUE,TRUE,"S243471946",1
-"104","swawar","Swainson's Warbler","Limnothlypis swainsonii","L732978","Natchez Trace SP","2025-05-27 10:45",35.721536,-88.3055189,TRUE,FALSE,FALSE,"S243658348",1
-"105","swawar","Swainson's Warbler","Limnothlypis swainsonii","L23198991","Cliffside Trail","2025-05-27 10:33",34.896576,-82.829757,TRUE,FALSE,TRUE,"S243473541",1
-"106","swawar","Swainson's Warbler","Limnothlypis swainsonii","L21101089","Chattahoochee WMA","2025-05-27 10:07",34.74155,-83.7743,TRUE,FALSE,FALSE,"S243498985",2
-"107","swawar","Swainson's Warbler","Limnothlypis swainsonii","L46145610","Bryson City SE 1589 State Road 1166, Bryson City, North Carolina, US (35.416, -83.409)","2025-05-27 10:05",35.4155736,-83.4089957,TRUE,FALSE,TRUE,"S243488088",2
-"108","swawar","Swainson's Warbler","Limnothlypis swainsonii","L2394283","Old Santee Canal Park","2025-05-27 09:53",33.1926591,-79.970727,TRUE,FALSE,FALSE,"S243476268",2
-"109","swawar","Swainson's Warbler","Limnothlypis swainsonii","L1118037","Palmetto Island SP","2025-05-27 08:30",29.8573194,-92.1334076,TRUE,FALSE,FALSE,"S243579885",2
-"110","swawar","Swainson's Warbler","Limnothlypis swainsonii","L3961651","Natchez Trace SP--Cub Creek Lake","2025-05-27 08:16",35.7814518,-88.2485653,TRUE,FALSE,FALSE,"S243446551",1
-"111","swawar","Swainson's Warbler","Limnothlypis swainsonii","L23908493","Forest Service Road 708 (Poverty Hollow)","2025-05-27 07:30",37.263161,-80.49959,TRUE,TRUE,FALSE,"S243467421",1
-"112","swawar","Swainson's Warbler","Limnothlypis swainsonii","L39853887","Dismal Swamp Canal Trail, Chesapeake, Virginia, US (36.662, -76.366)","2025-05-27 07:28",36.6622591,-76.3663535,TRUE,FALSE,TRUE,"S243448891",3
-"113","swawar","Swainson's Warbler","Limnothlypis swainsonii","L421615","Dismal Swamp SP","2025-05-27 07:14",36.5053847,-76.3559783,TRUE,FALSE,FALSE,"S243456960",3
-"114","swawar","Swainson's Warbler","Limnothlypis swainsonii","L4168468","Grand Strand Water & Sewage--Jackson Bluff Rd facility","2025-05-27 07:11",33.7822222,-79.0291111,TRUE,FALSE,FALSE,"S243568111",1
-"115","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45552504","Bennett SE - Charlie Garner Rd 35.53202, -79.54200","2025-05-27 06:31",35.532022,-79.542003,TRUE,FALSE,TRUE,"S243649095",1
-"116","swawar","Swainson's Warbler","Limnothlypis swainsonii","L46171881","Warsaw South SE—Nash Johnsons Pond Rd cemetery, Magnolia US-NC (34.87569, -78.05772)","2025-05-27 05:34",34.875686,-78.057719,TRUE,FALSE,TRUE,"S243607713",1
-"117","swawar","Swainson's Warbler","Limnothlypis swainsonii","L31689796","New River Gorge NP--Endless Wall Trailhead #1","2025-05-26 18:21",38.0631317,-81.0566672,TRUE,FALSE,FALSE,"S243287125",1
-"118","swawar","Swainson's Warbler","Limnothlypis swainsonii","L4583057","New River Gorge NP--Burnwood Trail & Campground","2025-05-26 16:54",38.0737226,-81.0771757,TRUE,FALSE,FALSE,"S243237864",1
-"119","swawar","Swainson's Warbler","Limnothlypis swainsonii","L2987452","Campbell Creek Road","2025-05-26 16:40",31.3862767,-92.8068995,TRUE,FALSE,FALSE,"S243258356",1
-"120","swawar","Swainson's Warbler","Limnothlypis swainsonii","L46092651","2779 County Road 147, Centerville, Texas, US (31.308, -95.811)","2025-05-26 15:54",31.3084823,-95.8114959,TRUE,FALSE,TRUE,"S243214010",2
-"121","swawar","Swainson's Warbler","Limnothlypis swainsonii","L31962046","Godwin Street, Parkton, North Carolina, US (34.901, -79.005)","2025-05-26 15:42",34.9014994,-79.0050734,TRUE,FALSE,TRUE,"S243183627",1
-"122","swawar","Swainson's Warbler","Limnothlypis swainsonii","L17095949","Private Property, Newton Rd, Hatley","2025-05-26 15:30",33.9827684,-88.4096887,TRUE,FALSE,TRUE,"S243855996",1
-"123","swawar","Swainson's Warbler","Limnothlypis swainsonii","L23734684","Rotary Centennial Park","2025-05-26 15:25",32.454089,-83.739464,TRUE,FALSE,FALSE,"S243197143",1
-"124","swawar","Swainson's Warbler","Limnothlypis swainsonii","L35940887","349 Lynn Dr, Columbus US-MS 33.45518, -88.33184","2025-05-26 14:50",33.455183,-88.331838,TRUE,FALSE,TRUE,"S243178065",1
-"125","swawar","Swainson's Warbler","Limnothlypis swainsonii","L46129696","Ridge Top, Old Pond, Skyline, and Narrow Gauge Trail Loop","2025-05-26 14:48",38.0033189,-80.9505194,TRUE,FALSE,TRUE,"S243402797",2
-"126","swawar","Swainson's Warbler","Limnothlypis swainsonii","L1179984","New River Gorge NP--Kaymoor Mine Trail","2025-05-26 14:14",38.0590062,-81.0771704,TRUE,FALSE,FALSE,"S243139119",1
-"127","swawar","Swainson's Warbler","Limnothlypis swainsonii","L46112950","Blue Valley Road, Highlands, North Carolina, US (35.012, -83.238)","2025-05-26 14:02",35.0120907,-83.2378731,TRUE,FALSE,TRUE,"S243321173",1
-"128","swawar","Swainson's Warbler","Limnothlypis swainsonii","L46107824","Crooked Run Creek and Gauley River confluence, Craigsville US-WV (38.2895,-80.7369)","2025-05-26 13:52",38.289459,-80.736884,TRUE,FALSE,TRUE,"S243294456",3
-"129","swawar","Swainson's Warbler","Limnothlypis swainsonii","L450952","Whitehouse Road loop","2025-05-26 13:41",33.9453892,-81.002326,TRUE,FALSE,FALSE,"S243279879",1
-"130","swawar","Swainson's Warbler","Limnothlypis swainsonii","L2035601","ACE Basin NWR--Combahee Unit","2025-05-26 13:35",32.6612629,-80.720222,TRUE,FALSE,FALSE,"S243121714",1
-"131","swawar","Swainson's Warbler","Limnothlypis swainsonii","L11071373","Eastatoe Creek Heritage Preserve","2025-05-26 13:18",35.0489967,-82.8172085,TRUE,FALSE,FALSE,"S243306951",NA
-"132","swawar","Swainson's Warbler","Limnothlypis swainsonii","L46112954","909-935 Copper Drive, Highlands, North Carolina, US (35.014, -83.224)","2025-05-26 13:17",35.0139371,-83.2235872,TRUE,FALSE,TRUE,"S243321198",1
-"133","swawar","Swainson's Warbler","Limnothlypis swainsonii","L467407","Coweeta Hydrologic Lab","2025-05-26 13:09",35.0583333,-83.4361111,TRUE,FALSE,FALSE,"S243263916",2
-"134","swawar","Swainson's Warbler","Limnothlypis swainsonii","L23610125","Bauxite Rd. Trail","2025-05-26 12:49",35.0208769,-85.0327171,TRUE,FALSE,FALSE,"S243101980",1
-"135","swawar","Swainson's Warbler","Limnothlypis swainsonii","L17726656","Dismal Swamp Canal Trail--Douglas Road Access","2025-05-26 12:45",36.637606,-76.3728931,TRUE,FALSE,FALSE,"S243101387",1
-"136","swawar","Swainson's Warbler","Limnothlypis swainsonii","L998119","Cape Fear River--Buckhorn Road","2025-05-26 12:30",35.5409358,-78.9888604,TRUE,FALSE,FALSE,"S243307743",2
-"137","swawar","Swainson's Warbler","Limnothlypis swainsonii","L4353106","Aucilla WMA--Western Sloughs","2025-05-26 12:28",30.1629458,-84.0031278,TRUE,FALSE,FALSE,"S243417005",3
-"138","swawar","Swainson's Warbler","Limnothlypis swainsonii","L46073564","Magnolia Plantation","2025-05-26 12:14",32.874378,-80.084357,TRUE,FALSE,TRUE,"S243128833",1
-"139","swawar","Swainson's Warbler","Limnothlypis swainsonii","L20849030","County line trail","2025-05-26 12:01",35.039682,-83.137327,TRUE,FALSE,TRUE,"S243049716",1
-"140","swawar","Swainson's Warbler","Limnothlypis swainsonii","L16055894","199-163 Barney Branch Road, Wiggins, Mississippi, US (30.908, -88.989)","2025-05-26 11:29",30.9080131,-88.9889844,TRUE,FALSE,TRUE,"S243148853",1
-"141","swawar","Swainson's Warbler","Limnothlypis swainsonii","L15371546","Avent Ferry Boat Ramp","2025-05-26 11:05",35.5505834,-79.0253134,TRUE,FALSE,TRUE,"S243303184",1
-"142","swawar","Swainson's Warbler","Limnothlypis swainsonii","L29642751","Kentucky Lake--Evans Branch","2025-05-26 10:50",36.0315601,-88.0316265,TRUE,TRUE,FALSE,"S243274280",4
-"143","swawar","Swainson's Warbler","Limnothlypis swainsonii","L463276","Shorter Residence","2025-05-26 10:46",32.3978183,-85.9393555,TRUE,FALSE,TRUE,"S243254547",1
-"144","swawar","Swainson's Warbler","Limnothlypis swainsonii","L46061900","Enterprise South Nature Park, Chattanooga US-TN 35.07838, -85.12321","2025-05-26 10:37",35.078385,-85.123207,TRUE,FALSE,TRUE,"S243079651",1
-"145","swawar","Swainson's Warbler","Limnothlypis swainsonii","L349927","Big Creek Scenic Area (UTC 035)","2025-05-26 10:21",30.5072472,-95.0893777,TRUE,FALSE,FALSE,"S243066000",1
-"146","swawar","Swainson's Warbler","Limnothlypis swainsonii","L46185648","Brazos County, TX,  Private Access","2025-05-26 10:20",30.7689376,-96.2930982,TRUE,FALSE,TRUE,"S243684568",1
-"147","swawar","Swainson's Warbler","Limnothlypis swainsonii","L38635338","1622 Clifton McNeil Road, Hope Mills, North Carolina, US (34.914, -78.897)","2025-05-26 10:18",34.9138119,-78.8968833,TRUE,FALSE,TRUE,"S242992117",1
-"148","swawar","Swainson's Warbler","Limnothlypis swainsonii","L25450158","Alligator River NWR--Navy Shell Rd.","2025-05-26 10:15",35.7763964,-75.893463,TRUE,FALSE,FALSE,"S243290772",1
-"149","swawar","Swainson's Warbler","Limnothlypis swainsonii","L11092413","229 Raymond Sills Rd, Silver Creek US-MS 31.69740, -90.01072","2025-05-26 10:15",31.6974,-90.01072,TRUE,FALSE,TRUE,"S243269838",1
-"150","swawar","Swainson's Warbler","Limnothlypis swainsonii","L46172857","Martin Marieta Access Rd, Rocky Point US-NC (34.4406,-77.8723)","2025-05-26 10:14",34.440567,-77.87233,TRUE,FALSE,TRUE,"S243612953",1
-"151","swawar","Swainson's Warbler","Limnothlypis swainsonii","L939420","Great Smoky Mountains NP--Parson's Branch Rd.","2025-05-26 10:09",35.5431916,-83.893919,TRUE,FALSE,FALSE,"S243358213",1
-"152","swawar","Swainson's Warbler","Limnothlypis swainsonii","L2230695","Willywood--3941 Long & Winding Rd, Miccosukee Land Co-op, Leon Co. FL","2025-05-26 10:00",30.5202465,-84.1078568,TRUE,FALSE,TRUE,"S243426431",1
-"153","swawar","Swainson's Warbler","Limnothlypis swainsonii","L5408710","Lee Game Land","2025-05-26 09:45",35.5444836,-79.0458369,TRUE,FALSE,FALSE,"S243300735",1
-"154","swawar","Swainson's Warbler","Limnothlypis swainsonii","L12992079","Spur 22, Culloden","2025-05-26 09:44",32.7449226,-84.2148903,TRUE,FALSE,TRUE,"S243060711",4
-"155","swawar","Swainson's Warbler","Limnothlypis swainsonii","L11981656","Ruffner Mountain Nature Preserve, Birmingham US-AL 33.55873, -86.68894","2025-05-26 09:39",33.558731,-86.688937,TRUE,FALSE,TRUE,"S243128221",3
-"156","swawar","Swainson's Warbler","Limnothlypis swainsonii","L6805065","Piedmont NWR--Allisons Lake","2025-05-26 09:30",33.118,-83.6859941,TRUE,FALSE,FALSE,"S243048292",1
-"157","swawar","Swainson's Warbler","Limnothlypis swainsonii","L1088317","Blue Springs SP","2025-05-26 09:00",31.6623311,-85.5070746,TRUE,FALSE,FALSE,"S243127965",NA
-"158","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45236915","Enterprise South Nature Park, Chattanooga US-TN 35.08395, -85.12870","2025-05-26 08:55",35.083947,-85.128698,TRUE,FALSE,TRUE,"S242956057",1
-"159","swawar","Swainson's Warbler","Limnothlypis swainsonii","L46052818","Bell Park","2025-05-26 08:27",35.234803,-82.393086,TRUE,FALSE,TRUE,"S243038400",2
-"160","swawar","Swainson's Warbler","Limnothlypis swainsonii","L46026446","Old Mine Rd, Columbia US-NJ 41.00378, -75.10249","2025-05-26 07:59",41.003782,-75.102491,TRUE,TRUE,TRUE,"S242892397",1
-"161","swawar","Swainson's Warbler","Limnothlypis swainsonii","L23774089","Lon Lyons Road Northwest, Clarkesville, Georgia, US (34.7, -83.613)","2025-05-26 07:55",34.700266,-83.6134267,TRUE,FALSE,TRUE,"S243018808",1
-"162","swawar","Swainson's Warbler","Limnothlypis swainsonii","L28788476","Coosawhatchie WMA","2025-05-26 07:45",32.6877436,-80.9362606,TRUE,FALSE,FALSE,"S242985107",1
-"163","swawar","Swainson's Warbler","Limnothlypis swainsonii","L124353","Huntington Beach SP","2025-05-26 07:30",33.5083,-79.0659,TRUE,FALSE,FALSE,"S243001523",1
-"164","swawar","Swainson's Warbler","Limnothlypis swainsonii","L41341458","Dismal Swamp Canal Trail, Chesapeake, Virginia, US (36.677, -76.362)","2025-05-26 07:25",36.6770882,-76.362481,TRUE,FALSE,TRUE,"S242920986",2
-"165","swawar","Swainson's Warbler","Limnothlypis swainsonii","L1771354","Shawnee State Forest--Odle Creek Rd.","2025-05-26 07:12",38.7128072,-83.1133953,TRUE,TRUE,FALSE,"S242875795",1
-"166","swawar","Swainson's Warbler","Limnothlypis swainsonii","L655259","Great Dismal Swamp NWR--Washington Ditch","2025-05-26 06:59",36.6356416,-76.5142822,TRUE,FALSE,FALSE,"S243165458",2
-"167","swawar","Swainson's Warbler","Limnothlypis swainsonii","L520408","Lynch Farm","2025-05-26 06:22",36.1967027,-77.8811789,TRUE,FALSE,TRUE,"S242889609",1
-"168","swawar","Swainson's Warbler","Limnothlypis swainsonii","L4667196","Gantt Lake-Conecuh River North","2025-05-26 06:12",31.4536341,-86.393609,TRUE,FALSE,TRUE,"S243323785",2
-"169","swawar","Swainson's Warbler","Limnothlypis swainsonii","L31560233","Red Mountain Park, Birmingham US-AL 33.44168, -86.88699","2025-05-26 06:03",33.441684,-86.886992,TRUE,FALSE,TRUE,"S242888659",NA
-"170","swawar","Swainson's Warbler","Limnothlypis swainsonii","L39087986","201 BDY LN","2025-05-26",30.5008237,-95.2086523,TRUE,FALSE,TRUE,"S244379477",1
-"171","swawar","Swainson's Warbler","Limnothlypis swainsonii","L34056813","Paradise Meadows","2025-05-25 19:28",31.3216929,-86.4360493,TRUE,FALSE,TRUE,"S242766022",1
-"172","swawar","Swainson's Warbler","Limnothlypis swainsonii","L33717507","14 Stone Crop Dr, Landrum US-SC 35.13950, -82.33652","2025-05-25 19:18",35.139498,-82.33652,TRUE,FALSE,TRUE,"S242762215",1
-"173","swawar","Swainson's Warbler","Limnothlypis swainsonii","L12900276","1699 State Road S-21-99, Johnsonville, South Carolina, US (33.885, -79.41)","2025-05-25 18:59",33.8851748,-79.4104943,TRUE,FALSE,TRUE,"S242756952",1
-"174","swawar","Swainson's Warbler","Limnothlypis swainsonii","L41470357","1656 Teals Mill Rd, Chesterfield US-SC 34.70853, -80.04753","2025-05-25 18:00",34.708526,-80.047526,TRUE,FALSE,TRUE,"S242715016",1
-"175","swawar","Swainson's Warbler","Limnothlypis swainsonii","L4762085","Old Mine Road IBA:Worthington SF--Karamac Trail","2025-05-25 17:53",40.9891107,-75.128177,TRUE,TRUE,FALSE,"S242755606",1
-"176","swawar","Swainson's Warbler","Limnothlypis swainsonii","L42891639","Summersville Lake SP--Pirate's Cove Trail","2025-05-25 16:56",38.2431116,-80.8529507,TRUE,FALSE,FALSE,"S242695151",2
-"177","swawar","Swainson's Warbler","Limnothlypis swainsonii","L12484872","Baton Rouge Audubon Amite River Wildlife Sanctuary","2025-05-25 16:22",30.3265135,-90.8514215,TRUE,FALSE,FALSE,"S242749996",1
-"178","swawar","Swainson's Warbler","Limnothlypis swainsonii","L721651","Pisgah NF--Pink Beds","2025-05-25 16:17",35.3530411,-82.7784054,TRUE,FALSE,FALSE,"S242661738",1
-"179","swawar","Swainson's Warbler","Limnothlypis swainsonii","L18925911","Middle Cemetery","2025-05-25 15:56",34.263352,-87.827485,TRUE,FALSE,TRUE,"S242683295",1
-"180","swawar","Swainson's Warbler","Limnothlypis swainsonii","L19869737","Sullins Schoolhouse Church","2025-05-25 15:09",34.1770474,-87.8646627,TRUE,FALSE,TRUE,"S242666548",1
-"181","swawar","Swainson's Warbler","Limnothlypis swainsonii","L14050319","Silver Comet Trail--Cedartown Trailhead","2025-05-25 14:22",34.0041249,-85.2772591,TRUE,FALSE,FALSE,"S242641129",1
-"182","swawar","Swainson's Warbler","Limnothlypis swainsonii","L18512591","31210, Macon US-GA 32.90056, -83.67652","2025-05-25 13:33",32.900563,-83.676515,TRUE,FALSE,TRUE,"S242617346",1
-"183","swawar","Swainson's Warbler","Limnothlypis swainsonii","L2334996","Joseph McDowell Historical Catawba Greenway","2025-05-25 12:30",35.701458,-82.04662,TRUE,FALSE,FALSE,"S242539183",1
-"184","swawar","Swainson's Warbler","Limnothlypis swainsonii","L38125878","Chattooga River Trail","2025-05-25 12:24",35.064929,-83.122211,TRUE,FALSE,TRUE,"S242715449",1
-"185","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45973737","30525, Clayton US-GA 34.90527, -83.22704","2025-05-25 11:37",34.905269,-83.227036,TRUE,FALSE,TRUE,"S242644940",1
-"186","swawar","Swainson's Warbler","Limnothlypis swainsonii","L447343","Gus Engeling WMA (PPW-W 020)","2025-05-25 11:27",31.9297289,-95.8876419,TRUE,FALSE,FALSE,"S242554593",1
-"187","swawar","Swainson's Warbler","Limnothlypis swainsonii","L1564180","Bagley Bottoms","2025-05-25 10:59",34.502783,-89.4157203,TRUE,FALSE,FALSE,"S242579870",1
-"188","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45941946","Old Mine Rd, Columbia US-NJ 41.00446, -75.09946","2025-05-25 10:36",41.004462,-75.099458,TRUE,TRUE,TRUE,"S242515250",1
-"189","swawar","Swainson's Warbler","Limnothlypis swainsonii","L2367181","Alligator River NWR--Milltail Rd.","2025-05-25 10:15",35.8512134,-75.8578491,TRUE,FALSE,FALSE,"S242537361",1
-"190","swawar","Swainson's Warbler","Limnothlypis swainsonii","L576735","Hardin Co.--Fire Tower Rd","2025-05-25 10:02",30.4683539,-94.2322254,TRUE,FALSE,FALSE,"S242497726",1
-"191","swawar","Swainson's Warbler","Limnothlypis swainsonii","L13995505","Red Mountain Park, Birmingham US-AL 33.43663, -86.88527","2025-05-25 09:08",33.436626,-86.885275,TRUE,FALSE,TRUE,"S242521858",1
-"192","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45853557","Liberty Hill BBS 31","2025-05-25 08:59",33.501676,-94.357142,TRUE,FALSE,TRUE,"S242436345",1
-"193","swawar","Swainson's Warbler","Limnothlypis swainsonii","L32404163","Blocton BBS Stop 38","2025-05-25 08:53",33.2456622,-87.2129756,TRUE,FALSE,TRUE,"S243150691",1
-"194","swawar","Swainson's Warbler","Limnothlypis swainsonii","L32404162","Blocton BBS Stop 37","2025-05-25 08:47",33.236325,-87.2138944,TRUE,FALSE,TRUE,"S243150689",1
-"195","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45955876","Lonesome Valley Subdivision","2025-05-25 08:46",35.1487436,-83.0562102,TRUE,FALSE,TRUE,"S242572987",1
-"196","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45957982","72–164 Old Foxworth-Jamestown Rd, Foxworth US-MS (31.2070,-89.8586)","2025-05-25 08:45",31.206975,-89.858604,TRUE,FALSE,TRUE,"S242581871",1
-"197","swawar","Swainson's Warbler","Limnothlypis swainsonii","L8629748","Tall Pines WMA","2025-05-25 08:44",35.064538,-82.568016,TRUE,FALSE,FALSE,"S242490321",1
-"198","swawar","Swainson's Warbler","Limnothlypis swainsonii","L10765460","neighborhood - glencree","2025-05-25 08:35",34.0953795,-84.1300526,TRUE,FALSE,TRUE,"S243299410",1
-"199","swawar","Swainson's Warbler","Limnothlypis swainsonii","L7488942","BBS-Calebee Route 02-065 STOP 45","2025-05-25 08:30",32.1480556,-85.8961111,TRUE,FALSE,TRUE,"S242579963",1
-"200","swawar","Swainson's Warbler","Limnothlypis swainsonii","L15634386","Turkey Creek North","2025-05-25 08:21",30.5323082,-86.5037156,TRUE,FALSE,TRUE,"S242467388",1
-"201","swawar","Swainson's Warbler","Limnothlypis swainsonii","L9034041","McAlhany Nature Preserve (Restricted Access)","2025-05-25 08:19",33.1535896,-80.6993497,TRUE,FALSE,FALSE,"S242607258",1
-"202","swawar","Swainson's Warbler","Limnothlypis swainsonii","L35530262","346 Silver Fox Ln, Pisgah Forest US-NC 35.25228, -82.66530","2025-05-25 08:00",35.252284,-82.665299,TRUE,FALSE,TRUE,"S242436597",2
-"203","swawar","Swainson's Warbler","Limnothlypis swainsonii","L32404152","Blocton BBS Stop 29","2025-05-25 07:59",33.1903724,-87.2255048,TRUE,FALSE,TRUE,"S243150679",1
-"204","swawar","Swainson's Warbler","Limnothlypis swainsonii","L4747305","Lake Houston Wilderness Park (Harris Co. portion) S. of Pipeline 2","2025-05-25 07:56",30.1109682,-95.1657437,TRUE,FALSE,FALSE,"S242471877",2
-"205","swawar","Swainson's Warbler","Limnothlypis swainsonii","L46093026","70764, Plaquemine US-LA (30.3644,-91.6289)","2025-05-25 07:55",30.36444,-91.628857,TRUE,FALSE,TRUE,"S243215761",1
-"206","swawar","Swainson's Warbler","Limnothlypis swainsonii","L14509931","Lucy’s 3661 Crestside Rd, Mountain Brook US-AL 33.49810, -86.71139","2025-05-25 07:52",33.498099,-86.711386,TRUE,FALSE,TRUE,"S242455595",1
-"207","swawar","Swainson's Warbler","Limnothlypis swainsonii","L811644","Wolf River Environmental Restoration Greenway Trail System","2025-05-25 07:43",35.09133,-89.6534157,TRUE,TRUE,FALSE,"S242502588",4
-"208","swawar","Swainson's Warbler","Limnothlypis swainsonii","L34431510","Lee Road 393, Auburn, Alabama, US (32.569, -85.579)  Old Lark SPARROW Road","2025-05-25 07:37",32.569241,-85.5790937,TRUE,FALSE,TRUE,"S242425737",1
-"209","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45910242","Old Mine Rd, Columbia US-NJ 40.99710, -75.11508","2025-05-25 07:29",40.997103,-75.115083,TRUE,TRUE,TRUE,"S242358488",1
-"210","swawar","Swainson's Warbler","Limnothlypis swainsonii","L18827165","Baton Rouge - Frenchtown Rd Conservation Area","2025-05-25 07:19",30.4800233,-90.9861195,TRUE,FALSE,FALSE,"S242466643",3
-"211","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45912169","Dean Stare Forest Shooting Range","2025-05-25 07:00",38.67459,-82.636709,TRUE,TRUE,TRUE,"S242369195",1
-"212","swawar","Swainson's Warbler","Limnothlypis swainsonii","L28204868","Ark Trail","2025-05-25 06:56",34.8305202,-90.1135755,TRUE,FALSE,FALSE,"S242416856",1
-"213","swawar","Swainson's Warbler","Limnothlypis swainsonii","L7488953","BBS-Calebee Route 02-065 STOP 20","2025-05-25 06:32",32.3111111,-85.9163889,TRUE,FALSE,TRUE,"S242579757",1
-"214","swawar","Swainson's Warbler","Limnothlypis swainsonii","L18252967","Stonecrest","2025-05-25 06:30",35.3998709,-82.187294,TRUE,FALSE,TRUE,"S242421860",1
-"215","swawar","Swainson's Warbler","Limnothlypis swainsonii","L32404135","Blocton BBS Stop 13","2025-05-25 06:23",33.1158258,-87.1955322,TRUE,FALSE,TRUE,"S243150660",1
-"216","swawar","Swainson's Warbler","Limnothlypis swainsonii","L32404133","Blocton BBS Stop 11","2025-05-25 06:11",33.1190558,-87.1778505,TRUE,FALSE,TRUE,"S243150658",1
-"217","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45973633","Tuckaluge Creek Rd, Clayton US-GA 34.90218, -83.30059","2025-05-25 06:09",34.902179,-83.300593,TRUE,FALSE,TRUE,"S242644693",2
-"218","swawar","Swainson's Warbler","Limnothlypis swainsonii","L46009887","Shawnee Trail, West Portsmouth US-OH 38.72838, -83.11491","2025-05-25 05:37",38.728382,-83.11491,TRUE,TRUE,TRUE,"S242813352",1
-"219","swawar","Swainson's Warbler","Limnothlypis swainsonii","L32404124","Blocton BBS Stop 2","2025-05-25 05:17",33.114895,-87.1069375,TRUE,FALSE,TRUE,"S243150645",1
-"220","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45884745","Odom Creek Road, Blakely, Georgia, US (31.374, -85.086)","2025-05-24 21:47",31.3742134,-85.085783,TRUE,FALSE,TRUE,"S242244026",NA
-"221","swawar","Swainson's Warbler","Limnothlypis swainsonii","L771078","Great Dismal Swamp NWR--Lake Drummond","2025-05-24 18:45",36.6028504,-76.468277,TRUE,FALSE,FALSE,"S242218038",1
-"222","swawar","Swainson's Warbler","Limnothlypis swainsonii","L11305707","BREC Flanacher Road Park","2025-05-24 12:42",30.665282,-91.226936,TRUE,FALSE,FALSE,"S242083077",1
-"223","swawar","Swainson's Warbler","Limnothlypis swainsonii","L356695","Red River Gorge (Wolfe Co.)--Rock Bridge Trail","2025-05-24 12:34",37.771618,-83.566043,TRUE,FALSE,FALSE,"S242096344",1
-"224","swawar","Swainson's Warbler","Limnothlypis swainsonii","L1740979","Crackerneck WMA (Limited Access)","2025-05-24 12:13",33.2297,-81.78761,TRUE,FALSE,FALSE,"S242039200",1
-"225","swawar","Swainson's Warbler","Limnothlypis swainsonii","L388455","Howell Woods Env. Learning Center","2025-05-24 12:06",35.3705751,-78.2975006,TRUE,FALSE,FALSE,"S242164056",1
-"226","swawar","Swainson's Warbler","Limnothlypis swainsonii","L7935253","Sandhills WMA--West","2025-05-24 11:50",32.5708801,-84.389527,TRUE,FALSE,FALSE,"S242049868",1
-"227","swawar","Swainson's Warbler","Limnothlypis swainsonii","L13439604","Shady Valley, Hwy 133","2025-05-24 11:34",36.5710859,-81.8651348,TRUE,FALSE,TRUE,"S242018828",1
-"228","swawar","Swainson's Warbler","Limnothlypis swainsonii","L353074","Ocmulgee Mounds National Historical Park","2025-05-24 11:17",32.8388,-83.6077,TRUE,FALSE,FALSE,"S242052876",1
-"229","swawar","Swainson's Warbler","Limnothlypis swainsonii","L234114","Natural Bridge SRP","2025-05-24 11:16",37.7669095,-83.6743032,TRUE,FALSE,FALSE,"S242110293",1
-"230","swawar","Swainson's Warbler","Limnothlypis swainsonii","L1436414","Red River Gorge (Wolfe Co.)--Sky Bridge Recreation Area","2025-05-24 11:14",37.8164718,-83.5840525,TRUE,FALSE,FALSE,"S242907093",1
-"231","swawar","Swainson's Warbler","Limnothlypis swainsonii","L3823661","Gerton","2025-05-24 11:03",35.472593,-82.339826,TRUE,FALSE,TRUE,"S241989748",2
-"232","swawar","Swainson's Warbler","Limnothlypis swainsonii","L12516137","Home","2025-05-24 11:00",32.1872642,-95.5243521,TRUE,FALSE,TRUE,"S241994962",1
-"233","swawar","Swainson's Warbler","Limnothlypis swainsonii","L31122927","Nottinghams Store Rd. Duck US-WV 38.58630, -80.93107","2025-05-24 10:54",38.586303,-80.931072,TRUE,FALSE,TRUE,"S242010674",1
-"234","swawar","Swainson's Warbler","Limnothlypis swainsonii","L631019","246 Forest Drive N","2025-05-24 10:53",30.6838353,-84.4567966,TRUE,FALSE,TRUE,"S242092508",1
-"235","swawar","Swainson's Warbler","Limnothlypis swainsonii","L1163130","Snake Hill WMA","2025-05-24 10:39",39.6132925,-79.8273468,TRUE,TRUE,FALSE,"S242129551",1
-"236","swawar","Swainson's Warbler","Limnothlypis swainsonii","L1279729","Great Smoky Mountains NP--Abrams Falls Trail","2025-05-24 10:30",35.6084905,-83.8791403,TRUE,FALSE,FALSE,"S242313778",1
-"237","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45821164","Jonesboro, Louisiana, US (32.237, -92.642)","2025-05-24 10:25",32.2374032,-92.6420437,TRUE,FALSE,TRUE,"S241976620",1
-"238","swawar","Swainson's Warbler","Limnothlypis swainsonii","L454532","Donnelley WMA (partial fall and winter restricted access)","2025-05-24 10:19",32.7038313,-80.6007189,TRUE,FALSE,FALSE,"S242039215",1
-"239","swawar","Swainson's Warbler","Limnothlypis swainsonii","L22808005","Farm","2025-05-24 10:10",33.278238,-84.805343,TRUE,FALSE,TRUE,"S242488018",2
-"240","swawar","Swainson's Warbler","Limnothlypis swainsonii","L30381516","Natural Bridge SRP--Rock Garden Trail.","2025-05-24 10:10",37.777405,-83.679879,TRUE,FALSE,FALSE,"S241947795",1
-"241","swawar","Swainson's Warbler","Limnothlypis swainsonii","L923747","Tazewell BBS route - stops 41 - 50","2025-05-24 10:00",32.5010394,-84.3356466,TRUE,FALSE,TRUE,"S243508384",2
-"242","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45816163","314–498 E Sartinville Rd, Jayess US-MS 31.32694, -90.06119","2025-05-24 09:52",31.326935,-90.061192,TRUE,FALSE,TRUE,"S241953728",1
-"243","swawar","Swainson's Warbler","Limnothlypis swainsonii","L5670442","Chickasawhatchee WMA (Calhoun Co.)","2025-05-24 09:41",31.5004335,-84.4517326,TRUE,FALSE,FALSE,"S241931277",1
-"244","swawar","Swainson's Warbler","Limnothlypis swainsonii","L2612270","Dothan Area Botanical Gardens","2025-05-24 09:36",31.2967326,-85.3713548,TRUE,FALSE,FALSE,"S241985734",1
-"245","swawar","Swainson's Warbler","Limnothlypis swainsonii","L5742306","Red River Gorge (Powell Co.)--Gray's Arch/Rough Trail","2025-05-24 09:30",37.8177253,-83.6579551,TRUE,FALSE,FALSE,"S242103628",1
-"246","swawar","Swainson's Warbler","Limnothlypis swainsonii","L46047098","35474, Moundville US-AL (32.9017,-87.4523)","2025-05-24 09:30",32.901722,-87.452287,TRUE,FALSE,TRUE,"S243011612",1
-"247","swawar","Swainson's Warbler","Limnothlypis swainsonii","L20885372","Homestead","2025-05-24 09:18",30.696457,-84.3582809,TRUE,FALSE,TRUE,"S241960305",1
-"248","swawar","Swainson's Warbler","Limnothlypis swainsonii","L881854","BREC Frenchtown Conservation Area","2025-05-24 09:13",30.471165,-90.9815598,TRUE,FALSE,FALSE,"S241985410",2
-"249","swawar","Swainson's Warbler","Limnothlypis swainsonii","L446585","Magnolia Plantation & Gardens","2025-05-24 09:00",32.8746855,-80.0863409,TRUE,FALSE,FALSE,"S242194460",1
-"250","swawar","Swainson's Warbler","Limnothlypis swainsonii","L21827455","Crooked Creek Ponds- Marlboro","2025-05-24 08:45",34.5786557,-79.7673861,TRUE,FALSE,TRUE,"S241903652",1
-"251","swawar","Swainson's Warbler","Limnothlypis swainsonii","L31756990","Bear Run Nature Reserve - Red Trail","2025-05-24 08:40",39.9023197,-79.4621088,TRUE,TRUE,TRUE,"S241937096",1
-"252","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45816794","105 Bridge St, Smithfield US-NC 35.51391, -78.34800","2025-05-24 08:35",35.513911,-78.348003,TRUE,FALSE,TRUE,"S241956569",2
-"253","swawar","Swainson's Warbler","Limnothlypis swainsonii","L5612042","Buffalo Creek Greenway/Neuse Riverwalk","2025-05-24 08:35",35.514678,-78.3478675,TRUE,FALSE,FALSE,"S241956958",2
-"254","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45814439","1016 Pricedale Drive Southeast, Bogue Chitto, Mississippi, US (31.501, -90.435)","2025-05-24 08:33",31.5013689,-90.4348123,TRUE,FALSE,TRUE,"S241945852",1
-"255","swawar","Swainson's Warbler","Limnothlypis swainsonii","L872308","Magnolia Plantation & Gardens--Audubon Swamp Garden","2025-05-24 08:12",32.870973,-80.0848174,TRUE,FALSE,FALSE,"S241928476",1
-"256","swawar","Swainson's Warbler","Limnothlypis swainsonii","L42193784","57 Sugar Hollow Rd, Fairview US-NC 35.49862, -82.36469","2025-05-24 08:11",35.498621,-82.364691,TRUE,FALSE,TRUE,"S241948753",2
-"257","swawar","Swainson's Warbler","Limnothlypis swainsonii","L31663069","Hickory Nut Gap Farm","2025-05-24 08:06",35.499074,-82.364557,TRUE,FALSE,TRUE,"S242404844",2
-"258","swawar","Swainson's Warbler","Limnothlypis swainsonii","L8066376","New River Gorge NP--Long Point Trail","2025-05-24 08:00",38.0426242,-81.0776385,TRUE,FALSE,FALSE,"S241867104",1
-"259","swawar","Swainson's Warbler","Limnothlypis swainsonii","L12965788","Ruffner Mountain--Eastern Trailhead","2025-05-24 07:59",33.558598,-86.6889954,TRUE,FALSE,FALSE,"S242029171",2
-"260","swawar","Swainson's Warbler","Limnothlypis swainsonii","L2946690","New River Birding & Nature Center","2025-05-24 07:47",38.0171365,-81.1113749,TRUE,FALSE,FALSE,"S241887702",1
-"261","swawar","Swainson's Warbler","Limnothlypis swainsonii","L296430","Lick Creek Park (PPW-W 008)","2025-05-24 07:45",30.562224,-96.213541,TRUE,FALSE,FALSE,"S242064263",1
-"262","swawar","Swainson's Warbler","Limnothlypis swainsonii","L922906","Tazewell BBS route - stops 29 and 30","2025-05-24 07:45",32.4315517,-84.3790501,TRUE,FALSE,TRUE,"S243497618",2
-"263","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45809282","2171 Grants Mill Rd, Irondale US-AL (33.5119,-86.6525)","2025-05-24 07:39",33.511899,-86.652499,TRUE,FALSE,TRUE,"S241960678",1
-"264","swawar","Swainson's Warbler","Limnothlypis swainsonii","L11065201","Cahaba River Trail","2025-05-24 07:39",33.5110125,-86.6539881,TRUE,FALSE,FALSE,"S241921851",1
-"265","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45846854","1163 White Oak Lane, Tryon, North Carolina, US (35.277, -82.126)","2025-05-24 07:39",35.2768231,-82.1263901,TRUE,FALSE,TRUE,"S242081165",1
-"266","swawar","Swainson's Warbler","Limnothlypis swainsonii","L30191236","Kolb's Tomb Rd.- Marlboro","2025-05-24 07:30",34.5358345,-79.8274722,TRUE,FALSE,TRUE,"S241882667",3
-"267","swawar","Swainson's Warbler","Limnothlypis swainsonii","L42205706","Back Pond","2025-05-24 07:27",31.3205178,-86.4364647,TRUE,FALSE,TRUE,"S241897846",1
-"268","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45082153","Coleridge SE 5354–6180 Airport Rd, Bear Creek US-NC 35.64503, -79.52339","2025-05-24 07:24",35.645027,-79.523386,TRUE,FALSE,TRUE,"S242101196",1
-"269","swawar","Swainson's Warbler","Limnothlypis swainsonii","L922889","Tazewell BBS route - stops 21 - 28","2025-05-24 07:20",32.3810068,-84.4372581,TRUE,FALSE,TRUE,"S243484628",2
-"270","swawar","Swainson's Warbler","Limnothlypis swainsonii","L37083220","1041 Phinizy Ct, Watkinsville US-GA 33.89734, -83.42742","2025-05-24 07:20",33.897336,-83.427415,TRUE,FALSE,TRUE,"S241954870",1
-"271","swawar","Swainson's Warbler","Limnothlypis swainsonii","L109520","Carolina Sandhills NWR","2025-05-24 07:00",34.5075416,-80.2163183,TRUE,FALSE,FALSE,"S242074143",1
-"272","swawar","Swainson's Warbler","Limnothlypis swainsonii","L5227474","Roanoke Sewage Ponds (private property - permission required)","2025-05-24 05:39",33.1556656,-85.3985226,TRUE,FALSE,FALSE,"S241831365",2
-"273","swawar","Swainson's Warbler","Limnothlypis swainsonii","L131646","Radnor Lake SP","2025-05-23 17:52",36.0602989,-86.8016968,TRUE,TRUE,FALSE,"S241722293",1
-"274","swawar","Swainson's Warbler","Limnothlypis swainsonii","L38099969","Trails Behind Carolyn Lewis","2025-05-23 17:44",33.06786,-80.111933,TRUE,FALSE,TRUE,"S241727887",1
-"275","swawar","Swainson's Warbler","Limnothlypis swainsonii","L2614189","Sipsey River Swamp Forever Wild Tract","2025-05-23 17:00",33.2293187,-87.7781975,TRUE,FALSE,FALSE,"S241778500",1
-"276","swawar","Swainson's Warbler","Limnothlypis swainsonii","L2828997","Tombigbee River boat ramp at Hwy 182","2025-05-23 15:01",33.4871042,-88.4558415,TRUE,FALSE,FALSE,"S241659465",1
-"277","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45739392","5780 Mississippi 13, Morton, Mississippi, US (32.185, -89.701)","2025-05-23 11:47",32.1846228,-89.7007189,TRUE,FALSE,TRUE,"S241602526",1
-"278","swawar","Swainson's Warbler","Limnothlypis swainsonii","L109521","Congaree NP (Congaree Swamp)","2025-05-23 11:30",33.7833333,-80.7833333,TRUE,FALSE,FALSE,"S241744118",2
-"279","swawar","Swainson's Warbler","Limnothlypis swainsonii","L9902904","home 40 ac","2025-05-23 10:20",31.3099888,-86.5051198,TRUE,FALSE,TRUE,"S241633278",1
-"280","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45733866","War Woman Ln, Clayton US-GA 34.88236, -83.35030","2025-05-23 10:00",34.882361,-83.350299,TRUE,FALSE,TRUE,"S241578409",1
-"281","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45747558","Shawnee Trail, Road 14","2025-05-23 09:47",38.724543,-83.112014,TRUE,TRUE,TRUE,"S241638879",2
-"282","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45743060","BBS 44","2025-05-23 09:42",33.1199433,-88.07716,TRUE,FALSE,TRUE,"S241618471",1
-"283","swawar","Swainson's Warbler","Limnothlypis swainsonii","L388409","Sherburne WMA Complex (St. Martin Parish)","2025-05-23 09:34",30.4004752,-91.6754794,TRUE,FALSE,FALSE,"S241641022",1
-"284","swawar","Swainson's Warbler","Limnothlypis swainsonii","L5086013","Green River Game Land--Walcott Tract","2025-05-23 09:12",35.2736052,-82.3030853,TRUE,FALSE,FALSE,"S243211541",2
-"285","swawar","Swainson's Warbler","Limnothlypis swainsonii","L13684446","1145 White Oak Lane, Tryon, North Carolina, US (35.273, -82.129)","2025-05-23 09:10",35.2729328,-82.1288099,TRUE,FALSE,TRUE,"S241819053",1
-"286","swawar","Swainson's Warbler","Limnothlypis swainsonii","L149831","Cove Lake SP","2025-05-23 09:05",36.3074474,-84.2140801,TRUE,FALSE,FALSE,"S241738884",1
-"287","swawar","Swainson's Warbler","Limnothlypis swainsonii","L24054631","Blue Ridge Pkwy, NC","2025-05-23 09:00",35.5159982,-83.2915734,TRUE,FALSE,TRUE,"S241555483",1
-"288","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45742556","BBS 33","2025-05-23 08:35",33.16264,-88.0712033,TRUE,FALSE,TRUE,"S241616197",1
-"289","swawar","Swainson's Warbler","Limnothlypis swainsonii","L1286522","Bondsview Rd.","2025-05-23 08:31",32.7809245,-83.5709381,TRUE,FALSE,FALSE,"S241493636",3
-"290","swawar","Swainson's Warbler","Limnothlypis swainsonii","L21564835","Forest Hill Circle","2025-05-23 08:30",37.18258,-82.616022,TRUE,FALSE,TRUE,"S241734785",1
-"291","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45719412","BBS 29","2025-05-23 08:13",33.1548583,-88.102515,TRUE,FALSE,TRUE,"S241507676",2
-"292","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45719022","BBS 28","2025-05-23 08:05",33.15603,-88.1099733,TRUE,FALSE,TRUE,"S241505450",1
-"293","swawar","Swainson's Warbler","Limnothlypis swainsonii","L11303134","Grimes Co.-- Democrat Rd.","2025-05-23 07:55",30.8124486,-96.1726303,TRUE,FALSE,FALSE,"S241546986",2
-"294","swawar","Swainson's Warbler","Limnothlypis swainsonii","L724301","Wheeler NWR--Blackwell Swamp (NABT 26)","2025-05-23 07:55",34.5639407,-86.7787099,TRUE,FALSE,FALSE,"S241511710",1
-"295","swawar","Swainson's Warbler","Limnothlypis swainsonii","L6436338","Chapman Mountain Nature Preserve","2025-05-23 07:45",34.7743418,-86.5494515,TRUE,FALSE,FALSE,"S241740485",1
-"296","swawar","Swainson's Warbler","Limnothlypis swainsonii","L14861294","Babcock SP--Lake View Trail","2025-05-23 07:43",37.9770389,-80.9522992,TRUE,FALSE,FALSE,"S241510283",1
-"297","swawar","Swainson's Warbler","Limnothlypis swainsonii","L608165","Great Smoky Mountains NP--Smokemont","2025-05-23 07:30",35.5564179,-83.3114719,TRUE,FALSE,FALSE,"S241548004",2
-"298","swawar","Swainson's Warbler","Limnothlypis swainsonii","L5390605","Natchez Trace SP--Maple Creek Lake","2025-05-23 07:28",35.8633641,-88.2506225,TRUE,FALSE,FALSE,"S241492797",1
-"299","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45793245","1415–1421 Fighting Creek Gap Rd, Gatlinburg US-TN (35.6819,-83.5485)","2025-05-23 07:26",35.681947,-83.548537,TRUE,FALSE,TRUE,"S241840111",1
-"300","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45767890","955 Dicks Creek Rd, Cleveland US-GA 34.66473, -83.91904 WMA check-in station","2025-05-23 07:17",34.664727,-83.91904,TRUE,FALSE,TRUE,"S241730584",1
-"301","swawar","Swainson's Warbler","Limnothlypis swainsonii","L2780183","Savannah NWR--Visitors Center","2025-05-23 07:06",32.1728064,-81.0756469,TRUE,FALSE,FALSE,"S241468146",1
-"302","swawar","Swainson's Warbler","Limnothlypis swainsonii","L6122312","Pisgah NF--Catawba Falls Trail","2025-05-23 07:02",35.613647,-82.231012,TRUE,FALSE,FALSE,"S241519494",2
-"303","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45714542","BBS 17","2025-05-23 06:55",33.204495,-88.061295,TRUE,FALSE,TRUE,"S241478837",2
-"304","swawar","Swainson's Warbler","Limnothlypis swainsonii","L10234579","Brazos Co.--Democrat rd.","2025-05-23 06:50",30.81237,-96.1797115,TRUE,FALSE,FALSE,"S241498090",1
-"305","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45655510","Falls Dr., Tiger","2025-05-23 06:49",34.8194094,-83.5021286,TRUE,FALSE,TRUE,"S242381542",1
-"306","swawar","Swainson's Warbler","Limnothlypis swainsonii","L11278302","Pelletier Road Bottomlands","2025-05-23 06:45",35.562474,-77.782719,TRUE,FALSE,FALSE,"S241705359",1
-"307","swawar","Swainson's Warbler","Limnothlypis swainsonii","L2770516","Natchez Trace SF","2025-05-23 06:44",35.8321492,-88.2468224,TRUE,FALSE,FALSE,"S241479701",1
-"308","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45713765","BBS 14","2025-05-23 06:38",33.2175334,-88.04936,TRUE,FALSE,TRUE,"S241473950",1
-"309","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45716959","2200–2416 Lower Stecoah Rd, Almond US-NC 35.39639, -83.67736","2025-05-23 06:37",35.396386,-83.677362,TRUE,FALSE,TRUE,"S241493852",1
-"310","swawar","Swainson's Warbler","Limnothlypis swainsonii","L1292731","Aiken Gopher Tortoise HP","2025-05-23 06:25",33.4886724,-81.439569,TRUE,FALSE,FALSE,"S241470880",1
-"311","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45712753","BBS 11","2025-05-23 06:22",33.2320983,-88.0459383,TRUE,FALSE,TRUE,"S241467724",1
-"312","swawar","Swainson's Warbler","Limnothlypis swainsonii","L3568751","New River Gorge NP--Fern Creek, Endless Wall Trailhead #2","2025-05-23 06:11",38.0598264,-81.0494122,TRUE,FALSE,FALSE,"S241501800",4
-"313","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45710657","BBS 5","2025-05-23 05:45",33.2636533,-88.0248883,TRUE,FALSE,TRUE,"S241455118",1
-"314","swawar","Swainson's Warbler","Limnothlypis swainsonii","L792703","Ward Rd.","2025-05-23 05:44",33.7126314,-83.3017731,TRUE,FALSE,FALSE,"S241449131",2
-"315","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45739806","BBS 3","2025-05-23 05:33",33.27015,-88.0117333,TRUE,FALSE,TRUE,"S241604251",1
-"316","swawar","Swainson's Warbler","Limnothlypis swainsonii","L5653518","Lone Oaks Farm (UT Institute of Agriculture, restricted access)","2025-05-22 21:13",35.1369936,-88.9675901,TRUE,FALSE,FALSE,"S241753776",2
-"317","swawar","Swainson's Warbler","Limnothlypis swainsonii","L11053163","Mabbit Spring Trail","2025-05-22 20:05",35.1714863,-85.2992375,TRUE,FALSE,FALSE,"S241602487",1
-"318","swawar","Swainson's Warbler","Limnothlypis swainsonii","L44039195","29709, Chesterfield US-SC 34.70669, -80.04664","2025-05-22 19:19",34.706694,-80.046641,TRUE,FALSE,TRUE,"S241373231",1
-"319","swawar","Swainson's Warbler","Limnothlypis swainsonii","L43435968","Hobet impoundment","2025-05-22 18:13",38.1124944,-81.8747426,TRUE,FALSE,TRUE,"S241344551",1
-"320","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45692813","Monti US-SC 33.90272, -82.36829","2025-05-22 16:47",33.902719,-82.368293,TRUE,FALSE,TRUE,"S241372842",1
-"321","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45673725","721 Ponderosa Road, Cameron, North Carolina, US (35.291, -79.119)","2025-05-22 11:32",35.2921237,-79.1183639,TRUE,FALSE,TRUE,"S241259096",1
-"322","swawar","Swainson's Warbler","Limnothlypis swainsonii","L5941766","Audubon Climate Watch #241-Point Count #11","2025-05-22 10:25",35.2892601,-82.7630353,TRUE,FALSE,TRUE,"S241227777",1
-"323","swawar","Swainson's Warbler","Limnothlypis swainsonii","L1173091","Great Smoky Mountains NP--Gabes Mountain Trail","2025-05-22 10:21",35.7601845,-83.236752,TRUE,FALSE,FALSE,"S241287895",1
-"324","swawar","Swainson's Warbler","Limnothlypis swainsonii","L5941692","Audubon Climate Watch #241-Point Count #8","2025-05-22 10:14",35.2882004,-82.7368087,TRUE,FALSE,TRUE,"S241227832",2
-"325","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45659742","Cricket Frog Trail, Covington US-GA 33.53960, -83.81989","2025-05-22 10:07",33.539602,-83.819885,TRUE,FALSE,TRUE,"S241216542",1
-"326","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45688199","Bonnie Bay Restricted Access","2025-05-22 09:58",34.0267342,-78.9122387,TRUE,FALSE,TRUE,"S241349492",1
-"327","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45676314","Restricted Access, Stag Park SE, 28425, Burgaw US-NC (34.5375,-77.7575)","2025-05-22 09:50",34.537473,-77.757522,TRUE,FALSE,TRUE,"S241293499",1
-"328","swawar","Swainson's Warbler","Limnothlypis swainsonii","L4451292","Dismal Swamp Canal Welcome Center","2025-05-22 09:06",36.5066352,-76.355077,TRUE,FALSE,FALSE,"S241196379",1
-"329","swawar","Swainson's Warbler","Limnothlypis swainsonii","L28274079","Great Smoky Mountains NP--Forge Creek Road","2025-05-22 09:00",35.5837296,-83.8379972,TRUE,FALSE,TRUE,"S241285372",1
-"330","swawar","Swainson's Warbler","Limnothlypis swainsonii","L18856726","Homeplace","2025-05-22 08:30",32.597473,-85.533376,TRUE,FALSE,TRUE,"S241332302",1
-"331","swawar","Swainson's Warbler","Limnothlypis swainsonii","L7477194","Timmerman Trail","2025-05-22 08:26",33.9418379,-81.0449517,TRUE,FALSE,FALSE,"S241221859",2
-"332","swawar","Swainson's Warbler","Limnothlypis swainsonii","L3596489","University of Montevallo Lake","2025-05-22 08:22",33.1030424,-86.8775418,TRUE,FALSE,FALSE,"S241248504",1
-"333","swawar","Swainson's Warbler","Limnothlypis swainsonii","L9424902","Sam Houston NF--FM3081 E. of Willis","2025-05-22 08:08",30.4962,-95.28036,TRUE,FALSE,FALSE,"S241191054",2
-"334","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45655790","Rock Bridge Rd, Campton US-KY 37.76929, -83.60425","2025-05-22 08:03",37.769292,-83.604246,TRUE,FALSE,TRUE,"S241196313",1
-"335","swawar","Swainson's Warbler","Limnothlypis swainsonii","L1137108","Croatan NF--Catfish Lake Rd.","2025-05-22 07:56",34.9506792,-77.0306396,TRUE,FALSE,FALSE,"S241191735",1
-"336","swawar","Swainson's Warbler","Limnothlypis swainsonii","L12141781","DuPont State Forest--Guion Farm","2025-05-22 07:48",35.211974,-82.587797,TRUE,FALSE,FALSE,"S241252710",1
-"337","swawar","Swainson's Warbler","Limnothlypis swainsonii","L37427081","1656 Teals Mill Rd, Chesterfield US-SC 34.70783, -80.04724","2025-05-22 07:37",34.707825,-80.04724,TRUE,FALSE,TRUE,"S241174098",1
-"338","swawar","Swainson's Warbler","Limnothlypis swainsonii","L42665741","Dismal Swamp Canal Trail, Chesapeake, Virginia, US (36.688, -76.359)","2025-05-22 07:31",36.6884741,-76.3591233,TRUE,FALSE,TRUE,"S241194887",2
-"339","swawar","Swainson's Warbler","Limnothlypis swainsonii","L44401438","Wagram SE 2682–3098 Edinburgh Rd, Red Springs US-NC 34.90621, -79.28726","2025-05-22 07:24",34.906206,-79.287259,TRUE,FALSE,TRUE,"S241260452",1
-"340","swawar","Swainson's Warbler","Limnothlypis swainsonii","L164554","State Botanical Garden of Georgia","2025-05-22 07:20",33.9001498,-83.3857394,TRUE,FALSE,FALSE,"S241198973",1
-"341","swawar","Swainson's Warbler","Limnothlypis swainsonii","L14310736","Lowndes WMA","2025-05-22 07:15",32.3629258,-86.7468989,TRUE,TRUE,FALSE,"S241216345",6
-"342","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45651181","224–262 Upper Tuskeegee Rd, Robbinsville US-NC 35.41008, -83.72692","2025-05-22 07:09",35.410081,-83.726916,TRUE,FALSE,TRUE,"S241170267",1
-"343","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45647397","Sand Gap Trail, Slade, Kentucky, US (37.773, -83.686)","2025-05-22 07:01",37.7731,-83.6856933,TRUE,FALSE,TRUE,"S241147182",1
-"344","swawar","Swainson's Warbler","Limnothlypis swainsonii","L919291","Bayfront Park/Village Point (Daphne)","2025-05-22 06:25",30.6282373,-87.9195714,TRUE,FALSE,FALSE,"S241333917",1
-"345","swawar","Swainson's Warbler","Limnothlypis swainsonii","L32087072","Smith Creek Hiking Trail","2025-05-22 05:57",34.7325503,-83.7164845,TRUE,FALSE,TRUE,"S242157903",1
-"346","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45672246","Pleasant Garden SE - 901–921 Branson Mill Rd, 35.89638, -79.78317","2025-05-22 05:45",35.896382,-79.783174,TRUE,FALSE,TRUE,"S241274358",1
-"347","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45670701","Ruffner Mountain Nature Preserve, Birmingham US-AL 33.55507, -86.69786","2025-05-22 05:45",33.555072,-86.697865,TRUE,FALSE,TRUE,"S241267400",3
-"348","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45695034","PRIVATE- Seven Springs SE- 326–398 Richard Rouse Rd, Seven Springs US-NC (35.1491,-77.7914)","2025-05-22 05:38",35.149073,-77.791416,TRUE,FALSE,TRUE,"S241384111",1
-"349","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45629142","Shawnee Trail, West Portsmouth US-OH (38.7274,-83.1140)","2025-05-21 18:07",38.727394,-83.114045,TRUE,TRUE,TRUE,"S241060358",1
-"350","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45616988","Bynum Mill Creek / N Fountain Road","2025-05-21 12:12",35.757548,-77.66934,TRUE,FALSE,TRUE,"S240999806",1
-"351","swawar","Swainson's Warbler","Limnothlypis swainsonii","L28654204","Great Smoky Mountains NP--Sugarlands Valley Nature Trail","2025-05-21 12:00",35.6795017,-83.5311947,TRUE,FALSE,FALSE,"S241100361",1
-"352","swawar","Swainson's Warbler","Limnothlypis swainsonii","L14653791","546–690 Boggy Gut Rd, Windsor US-SC 33.38757, -81.61002","2025-05-21 11:57",33.387572,-81.61002,TRUE,FALSE,TRUE,"S241038134",1
-"353","swawar","Swainson's Warbler","Limnothlypis swainsonii","L5994407","Talladega BBS, Stop #17","2025-05-21 11:41",33.388253,-86.066534,TRUE,FALSE,TRUE,"S241034490",1
-"354","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45620175","Fontana Dam SE Wachachau Tower Road, Robbinsville, North Carolina, US (35.396, -83.771)","2025-05-21 11:33",35.3959972,-83.7714922,TRUE,FALSE,TRUE,"S241016069",1
-"355","swawar","Swainson's Warbler","Limnothlypis swainsonii","L43150414","Shades Creek Greenway - Western Trailhead (Behind Shopping Center)","2025-05-21 11:29",33.4414438,-86.8284651,TRUE,FALSE,TRUE,"S240972696",2
-"356","swawar","Swainson's Warbler","Limnothlypis swainsonii","L11133427","Coon Creek Lake, Athens US-TX (32.0447,-95.8472)","2025-05-21 10:07",32.044729,-95.847188,TRUE,FALSE,TRUE,"S241051589",1
-"357","swawar","Swainson's Warbler","Limnothlypis swainsonii","L10695743","Bannister Bridge Canoe Access","2025-05-21 10:06",33.8409245,-80.8617783,TRUE,FALSE,TRUE,"S240906554",1
-"358","swawar","Swainson's Warbler","Limnothlypis swainsonii","L942269","Great Smoky Mountains NP--Maddron Bald Trail  and  Albright Grove Loop","2025-05-21 10:02",35.7663679,-83.2677084,TRUE,FALSE,FALSE,"S240982232",1
-"359","swawar","Swainson's Warbler","Limnothlypis swainsonii","L20051935","Bear Run Nature Reserve (WPC) - Red Trail","2025-05-21 09:45",39.8982195,-79.4614761,TRUE,TRUE,TRUE,"S241019855",3
-"360","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45603963","Albertson SE- 1060–1342 Kitty Noecker Rd, Pink Hill US-NC 35.03482, -77.78178","2025-05-21 09:45",35.034817,-77.781781,TRUE,FALSE,TRUE,"S240939481",1
-"361","swawar","Swainson's Warbler","Limnothlypis swainsonii","L39256234","Hermit Home","2025-05-21 09:04",33.9344,-83.336095,TRUE,FALSE,TRUE,"S240902358",1
-"362","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45632291","484 Babcock State Park Road, Danese, West Virginia, US (37.981, -80.946)","2025-05-21 09:01",37.9808947,-80.9458632,TRUE,FALSE,TRUE,"S241077616",4
-"363","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45468843","2824 Old Rosman Hwy, Rosman US-NC 35.11988, -82.82349","2025-05-21 08:58",35.119875,-82.823486,TRUE,FALSE,TRUE,"S240921014",1
-"364","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45606703","Silver SE 28396, Wagram US-NC 34.88282, -79.39056","2025-05-21 08:52",34.882816,-79.390564,TRUE,FALSE,TRUE,"S240952514",1
-"365","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45635512","Fire Tower Rd.","2025-05-21 08:30",30.4071029,-94.2308685,TRUE,FALSE,TRUE,"S241094024",2
-"366","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45648574","Tuckaluge Creek Rd, Clayton US-GA 34.92263, -83.27468","2025-05-21 08:28",34.922626,-83.27468,TRUE,FALSE,TRUE,"S241155404",1
-"367","swawar","Swainson's Warbler","Limnothlypis swainsonii","L1655419","Bastrop Co.--Sayers Rd. (CR157)","2025-05-21 08:26",30.2019277,-97.360245,TRUE,FALSE,FALSE,"S240920212",1
-"368","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45619987","Fontana Dam SE 7617 Yellow Creek Road, Robbinsville, North Carolina, US (35.411, -83.787)","2025-05-21 08:22",35.4109664,-83.787434,TRUE,FALSE,TRUE,"S241014863",1
-"369","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45619969","Fontana Dam SE 7744 Yellow Creek Road, Robbinsville, North Carolina, US (35.411, -83.784)","2025-05-21 08:16",35.4108623,-83.7838314,TRUE,FALSE,TRUE,"S241014687",1
-"370","swawar","Swainson's Warbler","Limnothlypis swainsonii","L14111260","4326 Wind Tree Dr, Bartlett US-TN 35.24383, -89.83559","2025-05-21 08:13",35.243835,-89.835594,TRUE,FALSE,TRUE,"S240886258",1
-"371","swawar","Swainson's Warbler","Limnothlypis swainsonii","L24806164","Great Smoky Mountains - Grassy Branch Trail","2025-05-21 08:00",35.687721,-83.512186,TRUE,FALSE,TRUE,"S241075943",1
-"372","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45604075","Silver Hill SE Arch McLean Rd, Wagram US-NC 34.88856, -79.41228","2025-05-21 07:53",34.88856,-79.41228,TRUE,FALSE,TRUE,"S240946100",1
-"373","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45619954","Fontana Dam SE 6665 County Road 1242, Robbinsville, North Carolina, US (35.411, -83.777)","2025-05-21 07:28",35.4112039,-83.7772851,TRUE,FALSE,TRUE,"S241014555",4
-"374","swawar","Swainson's Warbler","Limnothlypis swainsonii","L27804179","Cottage Bird Watcher Gerton, North Carolina, US","2025-05-21 07:25",35.4819684,-82.3500251,TRUE,FALSE,TRUE,"S240882366",1
-"375","swawar","Swainson's Warbler","Limnothlypis swainsonii","L2167636","Mark Twain NF--Greer Crossing Recreation Area","2025-05-21 07:00",36.7940619,-91.3338625,TRUE,FALSE,FALSE,"S240941552",3
-"376","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45602824","Albertson SE- 460–538 Tapp Farm Rd, Pink Hill US-NC 35.02197, -77.79388","2025-05-21 06:37",35.021969,-77.793884,TRUE,FALSE,TRUE,"S240933153",2
-"377","swawar","Swainson's Warbler","Limnothlypis swainsonii","L1788650","Pee Dee NWR--Big Oak Rd.","2025-05-21 06:31",35.0773989,-80.049584,TRUE,FALSE,FALSE,"S240937213",2
-"378","swawar","Swainson's Warbler","Limnothlypis swainsonii","L38681644","Wallace West SE—Lake Rd, Willard US-NC (34.6291,-78.0194)","2025-05-21 06:26",34.629085,-78.019414,TRUE,FALSE,TRUE,"S243603287",1
-"379","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45197623","WWC—Lower Jones Trails","2025-05-21 06:06",35.60128,-82.448483,TRUE,FALSE,TRUE,"S240872450",1
-"380","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45602718","Albertson SE- 1001–1059 Kitty Noecker Rd, Pink Hill US-NC 35.02622, -77.79333","2025-05-21 06:03",35.026223,-77.793325,TRUE,FALSE,TRUE,"S240932511",1
-"381","swawar","Swainson's Warbler","Limnothlypis swainsonii","L45602425","Albertson SE- 220–280 Kitty Noecker Rd, Pink Hill US-NC 35.00337, -77.81436","2025-05-21 05:39",35.003372,-77.814357,TRUE,FALSE,TRUE,"S240931146",1
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
+"1","stisan","Stilt Sandpiper","Calidris himantopus","L30956407","Marx and B","2025-05-31 18:29",1,44.1666038,-88.1690125,TRUE,FALSE,TRUE,"S245227834"
+"2","stisan","Stilt Sandpiper","Calidris himantopus","L159723","Ken Euers Wetland Preserve","2025-05-31 16:22",1,44.55768,-88.03675,TRUE,TRUE,FALSE,"S245200195"
+"3","stisan","Stilt Sandpiper","Calidris himantopus","L1478538","Hedgefield WMA","2025-05-31 15:05",4,40.6035409,-96.5685262,TRUE,FALSE,FALSE,"S245165621"
+"4","stisan","Stilt Sandpiper","Calidris himantopus","L11730994","Ward’s Dam","2025-05-31 14:14",1,48.667019,-106.625977,TRUE,FALSE,FALSE,"S245215891"
+"5","stisan","Stilt Sandpiper","Calidris himantopus","L523569","Upper Goose Lake (Sheridan Co.)","2025-05-31 13:31",20,48.8479566,-104.0606976,TRUE,FALSE,FALSE,"S245164964"
+"6","stisan","Stilt Sandpiper","Calidris himantopus","L1284489","Russell WTP","2025-05-31 12:10",4,38.8724752,-98.8408506,TRUE,FALSE,FALSE,"S245086314"
+"7","stisan","Stilt Sandpiper","Calidris himantopus","L1019091","Drummond Flats WMA","2025-05-31 10:57",3,36.3094538,-98.0698013,TRUE,FALSE,FALSE,"S245067151"
+"8","stisan","Stilt Sandpiper","Calidris himantopus","L994425","Killsnake SWA (Calumet Co.)","2025-05-31 09:50",1,44.0595275,-88.0862331,TRUE,FALSE,FALSE,"S245026698"
+"9","stisan","Stilt Sandpiper","Calidris himantopus","L391467","Dallas Southside WTP","2025-05-31 09:39",2,32.6456988,-96.6391754,TRUE,FALSE,FALSE,"S245088506"
+"10","stisan","Stilt Sandpiper","Calidris himantopus","L18541443","Center, Kansas, US (38.954, -98.664)","2025-05-31 09:20",10,38.9542465,-98.6638227,TRUE,FALSE,TRUE,"S245030448"
+"11","stisan","Stilt Sandpiper","Calidris himantopus","L20925646","Resevoir Road, Dorrance, Kansas, US (38.947, -98.657)","2025-05-31 09:03",4,38.9470193,-98.6570347,TRUE,FALSE,TRUE,"S244988553"
+"12","stisan","Stilt Sandpiper","Calidris himantopus","L1077672","Saylorville Reservoir--Big Creek spillway area","2025-05-31 08:49",2,41.7806466,-93.7435055,TRUE,FALSE,FALSE,"S244999460"
+"13","stisan","Stilt Sandpiper","Calidris himantopus","L29276931","Tillman - Hackberry Flat Survey","2025-05-31 08:38",32,34.294819,-98.956751,TRUE,FALSE,TRUE,"S245095564"
+"14","stisan","Stilt Sandpiper","Calidris himantopus","L2182908","North Ottawa Impoundment","2025-05-31 08:16",6,45.9856315,-96.2471008,TRUE,FALSE,FALSE,"S244986792"
+"15","stisan","Stilt Sandpiper","Calidris himantopus","L29498483","Heyworth Quarry Ponds (roadside birding only)","2025-05-31 07:30",3,40.304406,-89.035533,TRUE,TRUE,FALSE,"S244941332"
+"16","stisan","Stilt Sandpiper","Calidris himantopus","L827128","Hecla Ponds","2025-05-31 06:55",60,45.8786464,-98.1308215,TRUE,FALSE,FALSE,"S244915467"
+"17","stisan","Stilt Sandpiper","Calidris himantopus","L158903","Long Lake NWR","2025-05-30 18:27",6,46.6698025,-100.2278475,TRUE,FALSE,FALSE,"S244764847"
+"18","stisan","Stilt Sandpiper","Calidris himantopus","L9139187","4709 Illsley Avenue Northwest, Maple Lake, Minnesota, US (45.221, -94.054)","2025-05-30 16:24",2,45.2210666,-94.0539938,TRUE,FALSE,TRUE,"S244721519"
+"19","stisan","Stilt Sandpiper","Calidris himantopus","L1138866","Salt Plains NWR--Sandpiper Trail","2025-05-30 16:14",6,36.7992854,-98.249917,TRUE,FALSE,FALSE,"S244726136"
+"20","stisan","Stilt Sandpiper","Calidris himantopus","L444575","Camp Nine (Private Land/ Permission Required)","2025-05-30 16:00",1,33.6786399,-91.2747574,TRUE,FALSE,TRUE,"S245205084"
+"21","stisan","Stilt Sandpiper","Calidris himantopus","L608435","Chautauqua NWR--Eagle Bluff","2025-05-30 15:46",3,40.3747335,-89.9800786,TRUE,FALSE,FALSE,"S244740413"
+"22","stisan","Stilt Sandpiper","Calidris himantopus","L46413276","45701–45723 258th St, Humboldt US-SD 43.64519, -97.04498","2025-05-30 15:18",2,43.645193,-97.044976,TRUE,FALSE,TRUE,"S244775310"
+"23","stisan","Stilt Sandpiper","Calidris himantopus","L46446019","South Whitman Road, Whitman, Nebraska, US (42.007, -101.528)","2025-05-30 14:15",6,42.007051,-101.5278839,TRUE,FALSE,TRUE,"S244927458"
+"24","stisan","Stilt Sandpiper","Calidris himantopus","L46386174","Roadside Cow Pond","2025-05-30 13:04",12,35.9985714,-98.3169664,TRUE,FALSE,TRUE,"S244655302"
+"25","stisan","Stilt Sandpiper","Calidris himantopus","L46388501","CR-197 playa and grasslands","2025-05-30 12:25",1,33.572728,-101.255347,TRUE,TRUE,TRUE,"S244661875"
+"26","stisan","Stilt Sandpiper","Calidris himantopus","L14725361","Pea Island South Pond, Southern End (35.6939,-75.4857)","2025-05-30 10:33",2,35.693855,-75.485659,TRUE,FALSE,TRUE,"S244585677"
+"27","stisan","Stilt Sandpiper","Calidris himantopus","L7438611","Harmodon Park Slough","2025-05-30 10:24",5,43.5015,-96.653144,TRUE,FALSE,FALSE,"S244634623"
+"28","stisan","Stilt Sandpiper","Calidris himantopus","L140453","Lake Ogallala","2025-05-30 07:49",1,41.2150002,-101.6624985,TRUE,FALSE,FALSE,"S245144830"
+"29","stisan","Stilt Sandpiper","Calidris himantopus","L913173","Kellys Slough NWR--Observation platform","2025-05-30 07:48",1,47.9849436,-97.2616111,TRUE,FALSE,FALSE,"S244567721"
+"30","stisan","Stilt Sandpiper","Calidris himantopus","L46509289","101–179 Goose Lake Rd, Westby US-MT (48.8440,-104.0552)","2025-05-30 07:21",3,48.844027,-104.055209,TRUE,FALSE,TRUE,"S245203207"
+"31","stisan","Stilt Sandpiper","Calidris himantopus","L1308896","Round Lake","2025-05-30 06:13",NA,48.8904552,-104.0612984,TRUE,FALSE,FALSE,"S245203693"
+"32","stisan","Stilt Sandpiper","Calidris himantopus","L1312274","Job Corps Ponds","2025-05-30 06:08",1,46.1986067,-112.7765465,TRUE,FALSE,TRUE,"S244703304"
+"33","stisan","Stilt Sandpiper","Calidris himantopus","L36026463","Industrial Park Wetlands--Providence Pl Pkwy (Access outside working hours only, stay on the ridge overlooking wetlands)","2025-05-29 19:52",1,38.098157,-84.467125,TRUE,TRUE,FALSE,"S244744743"
+"34","stisan","Stilt Sandpiper","Calidris himantopus","L46338048","Nome-Council Rd, Nome US-AK 64.54937, -164.44040","2025-05-29 19:37",1,64.549368,-164.440398,TRUE,TRUE,TRUE,"S244432916"
+"35","stisan","Stilt Sandpiper","Calidris himantopus","L41663591","NE 170th St, Ellinwood US-KS 38.20180, -98.52518","2025-05-29 19:07",4,38.201802,-98.525179,TRUE,FALSE,TRUE,"S244394407"
+"36","stisan","Stilt Sandpiper","Calidris himantopus","L46328903","133 Goose Lake Road, Westby, Montana, US (48.844, -104.058)","2025-05-29 18:49",24,48.8436849,-104.0578769,TRUE,FALSE,TRUE,"S244387302"
+"37","stisan","Stilt Sandpiper","Calidris himantopus","L5156578","Jemison's Bait N Tackle","2025-05-29 18:15",4,30.3411173,-88.1263296,TRUE,FALSE,TRUE,"S244356354"
+"38","stisan","Stilt Sandpiper","Calidris himantopus","L1336436","Chinook Mine North (Vigo Co.)","2025-05-29 18:15",1,39.4626128,-87.2477666,TRUE,TRUE,FALSE,"S244400349"
+"39","stisan","Stilt Sandpiper","Calidris himantopus","L569873","Prudhoe Bay Oil Field--general area (restricted access)","2025-05-29 18:00",6,70.2887481,-148.5031394,TRUE,FALSE,FALSE,"S244597844"
+"40","stisan","Stilt Sandpiper","Calidris himantopus","L159562","Stewart Lake NWR","2025-05-29 17:45",4,46.3453878,-103.4339805,TRUE,FALSE,FALSE,"S244385011"
+"41","stisan","Stilt Sandpiper","Calidris himantopus","L6471373","Quivira NWR--Big Salt Marsh--NE 170th St.","2025-05-29 17:33",9,38.2017745,-98.5267379,TRUE,FALSE,FALSE,"S244373532"
+"42","stisan","Stilt Sandpiper","Calidris himantopus","L42982670","16001–16695 Dauphin Island Pkwy, Coden US-AL 30.34682, -88.12348","2025-05-29 17:32",6,30.346817,-88.123476,TRUE,FALSE,TRUE,"S244369006"
+"43","stisan","Stilt Sandpiper","Calidris himantopus","L40401269","Twin Buttes North pool South shore","2025-05-29 17:00",1,31.3438805,-100.5259375,TRUE,FALSE,TRUE,"S244554137"
+"44","stisan","Stilt Sandpiper","Calidris himantopus","L2742392","Hedeman Lake/England Pond","2025-05-29 16:52",9,37.347704,-93.969928,TRUE,TRUE,FALSE,"S244367536"
+"45","stisan","Stilt Sandpiper","Calidris himantopus","L874514","North Platte WTP","2025-05-29 16:33",1,41.1189351,-100.7230532,TRUE,FALSE,FALSE,"S244330183"
+"46","stisan","Stilt Sandpiper","Calidris himantopus","L366519","Lewisville Lake Park","2025-05-29 15:18",1,33.0703978,-96.9915962,TRUE,FALSE,FALSE,"S244322365"
+"47","stisan","Stilt Sandpiper","Calidris himantopus","L2175957","Crom Lake","2025-05-29 14:21",4,40.6337241,-104.7730494,TRUE,FALSE,FALSE,"S244306179"
+"48","stisan","Stilt Sandpiper","Calidris himantopus","L5930521","Lacreek NWR--Trout Ponds and Cemetery Loop","2025-05-29 14:15",2,43.0775393,-101.6305946,TRUE,FALSE,FALSE,"S244320879"
+"49","stisan","Stilt Sandpiper","Calidris himantopus","L46303102","296th Trail, Ellsworth, Nebraska, US (42.039, -102.406)","2025-05-29 12:46",2,42.0385545,-102.4058286,TRUE,FALSE,TRUE,"S244685874"
+"50","stisan","Stilt Sandpiper","Calidris himantopus","L36184852","Industrial park","2025-05-29 11:04",1,38.0991266,-84.4664978,TRUE,TRUE,TRUE,"S244317875"
+"51","stisan","Stilt Sandpiper","Calidris himantopus","L11131747","31055–31099 466th Ave, Vermillion US-SD 42.88589, -96.88480","2025-05-29 10:05",4,42.885895,-96.884795,TRUE,FALSE,TRUE,"S244210477"
+"52","stisan","Stilt Sandpiper","Calidris himantopus","L569250","Fort Niobrara NWR","2025-05-29 09:38",1,42.8880396,-100.461731,TRUE,FALSE,FALSE,"S244203400"
+"53","stisan","Stilt Sandpiper","Calidris himantopus","L6471374","Quivira NWR--Big Salt Marsh--Wildlife Drive","2025-05-29 09:18",36,38.1856615,-98.5338718,TRUE,FALSE,FALSE,"S244191287"
+"54","stisan","Stilt Sandpiper","Calidris himantopus","L29440489","Mason WPA -- East Unit","2025-05-29 09:07",1,44.0800569,-95.7587028,TRUE,FALSE,FALSE,"S244516782"
+"55","stisan","Stilt Sandpiper","Calidris himantopus","L4533352","170th Rd on refuge","2025-05-29 08:22",4,38.2019242,-98.539753,TRUE,FALSE,TRUE,"S244167296"
+"56","stisan","Stilt Sandpiper","Calidris himantopus","L6302787","Marsh Wren Community Wetlands","2025-05-29 08:17",1,40.885676,-96.657642,TRUE,FALSE,FALSE,"S244171742"
+"57","stisan","Stilt Sandpiper","Calidris himantopus","L46299062","Emiquon National Wildlife Refuge, Lewistown US-IL 40.34003, -90.09291","2025-05-29 07:57",1,40.340025,-90.092915,TRUE,FALSE,TRUE,"S244235727"
+"58","stisan","Stilt Sandpiper","Calidris himantopus","L1588623","Tuttle School Section Prairie","2025-05-29 05:10",1,47.1222881,-99.9364411,TRUE,FALSE,FALSE,"S245204294"
+"59","stisan","Stilt Sandpiper","Calidris himantopus","L3652107","Fort Niobrara NWR--Fort Falls Trail","2025-05-28 20:46",2,42.901667,-100.4673368,TRUE,FALSE,FALSE,"S244018774"
+"60","stisan","Stilt Sandpiper","Calidris himantopus","L2317509","Lake Bertha","2025-05-28 19:45",1,46.770672,-97.4933078,TRUE,FALSE,FALSE,"S244007736"
+"61","stisan","Stilt Sandpiper","Calidris himantopus","L784758","McManamen Park","2025-05-28 18:11",1,44.3013701,-105.4975891,TRUE,FALSE,FALSE,"S244020608"
+"62","stisan","Stilt Sandpiper","Calidris himantopus","L11620443","McPhail Slough","2025-05-28 17:25",NA,46.9739957,-99.6775792,TRUE,FALSE,FALSE,"S244735707"
+"63","stisan","Stilt Sandpiper","Calidris himantopus","L41457360","Sand Beach Lake","2025-05-28 17:05",5,41.6787651,-101.359477,TRUE,FALSE,FALSE,"S243968973"
+"64","stisan","Stilt Sandpiper","Calidris himantopus","L379017","Warren Sewage Lagoons","2025-05-28 17:02",4,48.2042834,-96.7997217,TRUE,FALSE,FALSE,"S243971028"
+"65","stisan","Stilt Sandpiper","Calidris himantopus","L1057594","Norman, Ten Mile Flats","2025-05-28 16:00",1,35.2536097,-97.525034,TRUE,FALSE,TRUE,"S243969333"
+"66","stisan","Stilt Sandpiper","Calidris himantopus","L3083105","Lund WPA","2025-05-28 15:52",1,44.3369869,-96.9934845,TRUE,FALSE,FALSE,"S244750565"
+"67","stisan","Stilt Sandpiper","Calidris himantopus","L11528800","Nebraska 250, Lakeside, Nebraska, US (42.059, -102.423)","2025-05-28 15:10",3,42.0585754,-102.4228747,TRUE,FALSE,TRUE,"S244993084"
+"68","stisan","Stilt Sandpiper","Calidris himantopus","L46238057","41250–41280 110th St, Amherst US-SD 45.79160, -97.97434","2025-05-28 15:04",9,45.791602,-97.974337,TRUE,FALSE,TRUE,"S243939167"
+"69","stisan","Stilt Sandpiper","Calidris himantopus","L7650959","Dry Lake","2025-05-28 15:03",5,41.6672698,-101.2928724,TRUE,FALSE,FALSE,"S243961457"
+"70","stisan","Stilt Sandpiper","Calidris himantopus","L46235868","423rd Ave, Britton US-SD 45.80806, -97.75043","2025-05-28 14:02",2,45.808061,-97.750429,TRUE,FALSE,TRUE,"S243928638"
+"71","stisan","Stilt Sandpiper","Calidris himantopus","L1272145","Emiquon NWR--South Globe Unit","2025-05-28 12:45",2,40.3416378,-90.0928688,TRUE,FALSE,FALSE,"S244021306"
+"72","stisan","Stilt Sandpiper","Calidris himantopus","L3308377","Renziehausen GPA","2025-05-28 11:59",2,45.7884447,-97.9969311,TRUE,FALSE,FALSE,"S243899386"
+"73","stisan","Stilt Sandpiper","Calidris himantopus","L925198","Westby Track Field Pond","2025-05-28 11:03",9,48.8773891,-104.0503764,TRUE,FALSE,TRUE,"S243915301"
+"74","stisan","Stilt Sandpiper","Calidris himantopus","L46248381","S US Highway 85 (Private Property)Newcastle US-WY","2025-05-28 10:29",5,43.740436,-104.187768,TRUE,FALSE,TRUE,"S243994227"
+"75","stisan","Stilt Sandpiper","Calidris himantopus","L13805716","Loess Bluffs NWR","2025-05-28 10:09",1,40.101,-95.241,TRUE,FALSE,TRUE,"S243843560"
+"76","stisan","Stilt Sandpiper","Calidris himantopus","L11639231","N Westby Rd south side of ""Flat"" Lake","2025-05-28 09:51",7,48.9102764,-104.0670958,TRUE,FALSE,TRUE,"S243868944"
+"77","stisan","Stilt Sandpiper","Calidris himantopus","L320341","Clovis WTP","2025-05-28 08:55",17,34.355996,-103.174987,TRUE,FALSE,FALSE,"S243837773"
+"78","stisan","Stilt Sandpiper","Calidris himantopus","L526888","Tanana Lakes Recreation Area","2025-05-28 07:06",1,64.7966492,-147.7180481,TRUE,TRUE,FALSE,"S243938914"
+"79","stisan","Stilt Sandpiper","Calidris himantopus","L127258","St. Marks NWR (please consider using a more precise location)","2025-05-28 06:58",1,30.1515653,-84.1473314,TRUE,FALSE,FALSE,"S243817025"
+"80","stisan","Stilt Sandpiper","Calidris himantopus","L46176574","9230 North Dakota 5, Columbus, North Dakota, US (48.894, -102.728)","2025-05-27 18:09",5,48.8943356,-102.7279257,TRUE,FALSE,TRUE,"S243633584"
+"81","stisan","Stilt Sandpiper","Calidris himantopus","L46177324","8104–8928 US-385, Julesburg US-CO 40.87142, -102.22763","2025-05-27 17:27",6,40.871415,-102.227632,TRUE,FALSE,TRUE,"S243637305"
+"82","stisan","Stilt Sandpiper","Calidris himantopus","L46249769","Valentine City Park/Pond","2025-05-27 17:22",18,42.886147,-100.552011,TRUE,FALSE,TRUE,"S244001662"
+"83","stisan","Stilt Sandpiper","Calidris himantopus","L2207702","Medicine Lake NWR--Causeway","2025-05-27 16:37",9,48.4815367,-104.4975944,TRUE,FALSE,FALSE,"S243628968"
+"84","stisan","Stilt Sandpiper","Calidris himantopus","L158888","Minot Sewage Lagoons","2025-05-27 15:45",12,48.2074032,-101.1662549,TRUE,FALSE,FALSE,"S243612141"
+"85","stisan","Stilt Sandpiper","Calidris himantopus","L906006","Warm Springs WMA","2025-05-27 15:11",1,46.1907642,-112.7748299,TRUE,FALSE,FALSE,"S243604901"
+"86","stisan","Stilt Sandpiper","Calidris himantopus","L140473","Cherry Creek SP","2025-05-27 14:57",2,39.6402646,-104.8538589,TRUE,FALSE,FALSE,"S243597295"
+"87","stisan","Stilt Sandpiper","Calidris himantopus","L31072716","Forgan--north of","2025-05-27 14:30",1,36.9232571,-100.5127545,TRUE,FALSE,TRUE,"S243934878"
+"88","stisan","Stilt Sandpiper","Calidris himantopus","L12220210","Loess Bluffs National Wildlife Refuge, Mound City US-MO 40.05406, -95.24911","2025-05-27 14:28",4,40.0790306,-95.2451258,TRUE,FALSE,TRUE,"S243682875"
+"89","stisan","Stilt Sandpiper","Calidris himantopus","L46236289","Mile 53 Rd and Hiway 64","2025-05-27 13:35",2,36.8644401,-101.0718083,TRUE,FALSE,TRUE,"S243932105"
+"90","stisan","Stilt Sandpiper","Calidris himantopus","L23995022","17801–17835 314th Ave, Onida US-SD 44.80877, -99.87813","2025-05-27 13:18",11,44.808767,-99.878127,TRUE,FALSE,TRUE,"S243545377"
+"91","stisan","Stilt Sandpiper","Calidris himantopus","L1293411","Frenchman Creek SWA","2025-05-27 12:36",3,40.5919915,-102.4018478,TRUE,FALSE,FALSE,"S243581923"
+"92","stisan","Stilt Sandpiper","Calidris himantopus","L7113708","Pond on Elm Island Rd","2025-05-27 12:27",1,40.6620754,-98.8959324,TRUE,FALSE,FALSE,"S243526640"
+"93","stisan","Stilt Sandpiper","Calidris himantopus","L18433932","Livestock Pond","2025-05-27 11:29",9,40.509601,-102.379832,TRUE,FALSE,TRUE,"S243580308"
+"94","stisan","Stilt Sandpiper","Calidris himantopus","L1312278","Arco Ponds","2025-05-27 10:43",1,46.1624744,-112.7791214,TRUE,FALSE,FALSE,"S243617913"
+"95","stisan","Stilt Sandpiper","Calidris himantopus","L1219637","Crescent Lake NWR--Goose Lake","2025-05-27 10:35",19,41.7798249,-102.4467373,TRUE,FALSE,FALSE,"S243660024"
+"96","stisan","Stilt Sandpiper","Calidris himantopus","L1239694","Kechter Pit wetland","2025-05-27 10:05",1,40.5134076,-104.9950504,TRUE,TRUE,FALSE,"S243528021"
+"97","stisan","Stilt Sandpiper","Calidris himantopus","L464982","Andrews Bird Viewing Trail (FWTX 53)","2025-05-27 10:04",1,32.3157983,-102.533319,TRUE,FALSE,FALSE,"S243480350"
+"98","stisan","Stilt Sandpiper","Calidris himantopus","L27500001","16871 Dauphin Island Parkway, Coden, Alabama, US (30.339, -88.128)","2025-05-27 09:51",1,30.3392835,-88.1281458,TRUE,FALSE,TRUE,"S243478480"
+"99","stisan","Stilt Sandpiper","Calidris himantopus","L445366","Mecox Inlet","2025-05-27 09:07",1,40.8923492,-72.3284175,TRUE,FALSE,FALSE,"S243608930"
+"100","stisan","Stilt Sandpiper","Calidris himantopus","L422541","Leonabelle Turnbull Birding Ctr. (CTC 057)","2025-05-27 08:42",2,27.8275297,-97.0789558,TRUE,FALSE,FALSE,"S243455786"
+"101","stisan","Stilt Sandpiper","Calidris himantopus","L4380490","Weekley Community Center Park","2025-05-27 08:06",2,29.8989496,-95.7019633,TRUE,FALSE,FALSE,"S243501968"
+"102","stisan","Stilt Sandpiper","Calidris himantopus","L278720","Holloman Lakes","2025-05-27 08:00",1,32.807442,-106.1226013,TRUE,FALSE,FALSE,"S243507039"
+"103","stisan","Stilt Sandpiper","Calidris himantopus","L46269491","40433–40599 104th St, Hecla US-SD (45.8784,-98.1198)","2025-05-27 07:48",NA,45.878432,-98.119845,TRUE,FALSE,TRUE,"S244093268"
+"104","stisan","Stilt Sandpiper","Calidris himantopus","L37642569","Loess Bluffs National Wildlife Refuge, Craig US-MO 40.09348, -95.26809","2025-05-27 07:10",7,40.093477,-95.268089,TRUE,FALSE,TRUE,"S243675358"
+"105","stisan","Stilt Sandpiper","Calidris himantopus","L2723507","Cape Hatteras NS--Ramp 43-44 (Ponds & Beach)","2025-05-27 06:31",1,35.2364534,-75.5286992,TRUE,FALSE,FALSE,"S243435733"
+"106","stisan","Stilt Sandpiper","Calidris himantopus","L1217734","Toolik Field Station","2025-05-27 05:38",9,68.627808,-149.593389,TRUE,FALSE,FALSE,"S243500717"
+"107","stisan","Stilt Sandpiper","Calidris himantopus","L5765319","Cherry Creek SP--Pelican Point area","2025-05-26 19:37",1,39.6364436,-104.8418274,TRUE,FALSE,FALSE,"S243316580"
+"108","stisan","Stilt Sandpiper","Calidris himantopus","L12634065","Wheatland Reservoir Number 1","2025-05-26 19:08",1,41.9993829,-105.0369627,TRUE,FALSE,FALSE,"S243315878"
+"109","stisan","Stilt Sandpiper","Calidris himantopus","L15131668","DS12 Access Road, Prudhoe Bay, Alaska, US (70.213, -148.419)","2025-05-26 19:07",4,70.2129527,-148.4186281,TRUE,FALSE,TRUE,"S243338422"
+"110","stisan","Stilt Sandpiper","Calidris himantopus","L20170160","2 Spine Road, Prudhoe Bay, Alaska, US (70.222, -148.433)","2025-05-26 18:52",4,70.222172,-148.4333839,TRUE,FALSE,TRUE,"S243325978"
+"111","stisan","Stilt Sandpiper","Calidris himantopus","L12826241","Red Fox Road Pond","2025-05-26 18:25",2,42.076096,-104.963259,TRUE,FALSE,FALSE,"S243296939"
+"112","stisan","Stilt Sandpiper","Calidris himantopus","L6176992","6 Mile Bend Ponds - (No Public Access - View From Road)","2025-05-26 18:03",2,26.6442271,-80.5842876,TRUE,FALSE,FALSE,"S243689765"
+"113","stisan","Stilt Sandpiper","Calidris himantopus","L36471304","10193 County Road 20, Sidney, Nebraska, US (41.134, -103.072)","2025-05-26 17:54",9,41.1340822,-103.0723404,TRUE,FALSE,TRUE,"S243304046"
+"114","stisan","Stilt Sandpiper","Calidris himantopus","L523587","Goose Lake WPA (Sheridan Co.)","2025-05-26 17:15",1,48.8177157,-104.0686798,TRUE,FALSE,FALSE,"S243334327"
+"115","stisan","Stilt Sandpiper","Calidris himantopus","L275032","Hackberry Flat WMA","2025-05-26 17:07",100,34.2846781,-98.9394741,TRUE,FALSE,FALSE,"S243333063"
+"116","stisan","Stilt Sandpiper","Calidris himantopus","L21459855","Maga-Ta-Hopi WPA, 392nd Avenue","2025-05-26 16:42",1,44.3736463,-98.3771015,TRUE,FALSE,TRUE,"S243229409"
+"117","stisan","Stilt Sandpiper","Calidris himantopus","L16163679","Churchs Ferry (town)","2025-05-26 15:25",45,48.2702899,-99.1954686,TRUE,FALSE,FALSE,"S243204877"
+"118","stisan","Stilt Sandpiper","Calidris himantopus","L11596623","Churchs Ferry--West Wetlands (Benson Co.)","2025-05-26 15:10",10,48.2759358,-99.2078128,TRUE,FALSE,FALSE,"S243190768"
+"119","stisan","Stilt Sandpiper","Calidris himantopus","L46086841","4800–4894 ND-1806, Hazen US-ND 47.47305, -101.57289","2025-05-26 15:07",2,47.473052,-101.572887,TRUE,FALSE,TRUE,"S243187043"
+"120","stisan","Stilt Sandpiper","Calidris himantopus","L124353","Huntington Beach SP","2025-05-26 15:00",2,33.5083,-79.0659,TRUE,FALSE,FALSE,"S243226445"
+"121","stisan","Stilt Sandpiper","Calidris himantopus","L46084974","58324, Cando US-ND (48.3795,-99.1987)","2025-05-26 14:58",25,48.379525,-99.198719,TRUE,FALSE,TRUE,"S243178539"
+"122","stisan","Stilt Sandpiper","Calidris himantopus","L7300218","Agassiz NWR--Headquarters Trail","2025-05-26 14:55",1,48.3021162,-95.9800386,TRUE,FALSE,FALSE,"S243196269"
+"123","stisan","Stilt Sandpiper","Calidris himantopus","L42986961","Fargo - Softball Complex Pond & NW Settling Pond","2025-05-26 14:44",3,46.9595497,-96.8510928,TRUE,FALSE,TRUE,"S243242714"
+"124","stisan","Stilt Sandpiper","Calidris himantopus","L3077520","Wellington SWA--Cobb Lake Unit","2025-05-26 14:30",7,40.660574,-104.9630088,TRUE,TRUE,FALSE,"S243238736"
+"125","stisan","Stilt Sandpiper","Calidris himantopus","L1423930","*DI Causeway","2025-05-26 14:00",6,30.3347445,-88.1295727,TRUE,FALSE,TRUE,"S243947010"
+"126","stisan","Stilt Sandpiper","Calidris himantopus","L6231800","Goose Lake Rd.(Lower Goose Lake), Sheridan Co.","2025-05-26 13:49",75,48.8425972,-104.0592384,TRUE,FALSE,TRUE,"S243184401"
+"127","stisan","Stilt Sandpiper","Calidris himantopus","L15137789","4501–4557 78th St NE, Wolford US-ND 48.54495, -99.68537","2025-05-26 13:34",12,48.54495,-99.685365,TRUE,FALSE,TRUE,"S243148752"
+"128","stisan","Stilt Sandpiper","Calidris himantopus","L46076020","70th Ave NE, Cando US-ND 48.54205, -99.14446","2025-05-26 13:33",30,48.542047,-99.144457,TRUE,FALSE,TRUE,"S243139659"
+"129","stisan","Stilt Sandpiper","Calidris himantopus","L714718","Southern Valley School WTP","2025-05-26 13:06",4,40.1410327,-99.6386898,TRUE,FALSE,FALSE,"S243128775"
+"130","stisan","Stilt Sandpiper","Calidris himantopus","L2161824","Springer/Bump Sullivan Wildlife Habitat Management Area--Bump-Sullivan Reservoir","2025-05-26 12:57",200,41.863169,-104.3146706,TRUE,TRUE,FALSE,"S243329532"
+"131","stisan","Stilt Sandpiper","Calidris himantopus","L46101023","ND-200, McClusky US-ND (47.4871,-100.3727)","2025-05-26 12:15",8,47.487096,-100.372739,TRUE,FALSE,TRUE,"S243256806"
+"132","stisan","Stilt Sandpiper","Calidris himantopus","L170028","Loess Bluffs NWR","2025-05-26 12:06",6,40.068893,-95.23534,TRUE,FALSE,FALSE,"S243239592"
+"133","stisan","Stilt Sandpiper","Calidris himantopus","L38131553","Castleman Creek Turf Farm","2025-05-26 11:38",1,31.4439393,-97.0510658,TRUE,FALSE,FALSE,"S243104059"
+"134","stisan","Stilt Sandpiper","Calidris himantopus","L907929","Ray Lake East","2025-05-26 11:12",2,42.9537527,-108.7914276,TRUE,TRUE,FALSE,"S243130384"
+"135","stisan","Stilt Sandpiper","Calidris himantopus","L989665","Wolf Springs Rd. E.  (incl. Blue Sky Sod Farm)","2025-05-26 10:52",1,32.5590397,-96.5870762,TRUE,FALSE,FALSE,"S243119779"
+"136","stisan","Stilt Sandpiper","Calidris himantopus","L6004898","Little Saint Simons Island--Myrtle Pond South East Tower","2025-05-26 10:50",3,31.276972,-81.2931027,TRUE,TRUE,FALSE,"S243037082"
+"137","stisan","Stilt Sandpiper","Calidris himantopus","L913747","Goodland WTP","2025-05-26 10:49",4,39.3777008,-101.6996241,TRUE,FALSE,FALSE,"S243051425"
+"138","stisan","Stilt Sandpiper","Calidris himantopus","L351467","Lake Bronson SP","2025-05-26 10:47",9,48.7227566,-96.6173136,TRUE,TRUE,FALSE,"S243103348"
+"139","stisan","Stilt Sandpiper","Calidris himantopus","L46079336","87th St NW/North End Lostwood Pothole","2025-05-26 10:23",9,48.676881,-102.46448,TRUE,FALSE,TRUE,"S243154407"
+"140","stisan","Stilt Sandpiper","Calidris himantopus","L9523564","Horsehead Lake--Northwest","2025-05-26 10:16",3,47.0824103,-99.8193113,TRUE,FALSE,FALSE,"S243051904"
+"141","stisan","Stilt Sandpiper","Calidris himantopus","L128874","Jocelyn Nungaray NWR  (Anahuac) (UTC 049)","2025-05-26 09:28",2,29.6148414,-94.5344353,TRUE,FALSE,FALSE,"S243095363"
+"142","stisan","Stilt Sandpiper","Calidris himantopus","L158584","Bowdoin NWR","2025-05-26 09:26",1,48.4018332,-107.6784611,TRUE,FALSE,FALSE,"S243109505"
+"143","stisan","Stilt Sandpiper","Calidris himantopus","L2289294","Emiquon NWR--North Globe Unit","2025-05-26 09:21",2,40.3537601,-90.0961733,TRUE,FALSE,FALSE,"S242997736"
+"144","stisan","Stilt Sandpiper","Calidris himantopus","L46049500","US-2 W, Rugby US-ND 48.34080, -99.76808","2025-05-26 08:34",1,48.3408,-99.768083,TRUE,FALSE,TRUE,"S243022870"
+"145","stisan","Stilt Sandpiper","Calidris himantopus","L473168","Cape Hatteras NS--Cape Point","2025-05-26 08:31",1,35.2234655,-75.5286026,TRUE,FALSE,FALSE,"S243667124"
+"146","stisan","Stilt Sandpiper","Calidris himantopus","L272215","Wyoming Hereford Ranch Reservoir #1","2025-05-26 08:22",4,41.1167222,-104.7379491,TRUE,FALSE,FALSE,"S243136943"
+"147","stisan","Stilt Sandpiper","Calidris himantopus","L130766","Hornsby Bend (HOTE 037)","2025-05-26 08:18",1,30.2181988,-97.6458054,TRUE,FALSE,FALSE,"S243002542"
+"148","stisan","Stilt Sandpiper","Calidris himantopus","L46046891","1851 28th Avenue Southeast, Tuttle, North Dakota, US (47.147, -99.905)","2025-05-26 07:58",8,47.1474815,-99.9048752,TRUE,FALSE,TRUE,"S243010600"
+"149","stisan","Stilt Sandpiper","Calidris himantopus","L272998","Boyd Lake","2025-05-26 07:50",8,40.4341128,-105.0338644,TRUE,TRUE,FALSE,"S243090038"
+"150","stisan","Stilt Sandpiper","Calidris himantopus","L274946","Bitter Lake NWR","2025-05-26 07:28",2,33.4512089,-104.3998146,TRUE,FALSE,FALSE,"S243015615"
+"151","stisan","Stilt Sandpiper","Calidris himantopus","L248017","Bolivar Flats Shorebird Sanctuary","2025-05-26 07:16",1,29.3711371,-94.7287083,TRUE,FALSE,FALSE,"S243297900"
+"152","stisan","Stilt Sandpiper","Calidris himantopus","L36439513","Boyd Lake south end","2025-05-26 06:43",6,40.412878,-105.0337528,TRUE,TRUE,TRUE,"S243054005"
+"153","stisan","Stilt Sandpiper","Calidris himantopus","L3527827","Schwartzwalder Rd.","2025-05-25 19:23",1,40.7268587,-82.0760196,TRUE,TRUE,FALSE,"S243218080"
+"154","stisan","Stilt Sandpiper","Calidris himantopus","L210723","Salt Lake","2025-05-25 19:18",1,44.9645052,-96.4437363,TRUE,FALSE,FALSE,"S242773073"
+"155","stisan","Stilt Sandpiper","Calidris himantopus","L45807191","Hwy 10 shorebirds","2025-05-25 19:07",8,45.791634,-97.981571,TRUE,FALSE,TRUE,"S243046069"
+"156","stisan","Stilt Sandpiper","Calidris himantopus","L5997505","Sand Lake NWR-Sand Lake Dike/Columbia Marsh WPA","2025-05-25 18:45",6,45.668928,-98.309048,TRUE,FALSE,FALSE,"S242801034"
+"157","stisan","Stilt Sandpiper","Calidris himantopus","L45997337","58368, Rugby US-ND 48.34234, -99.76883","2025-05-25 18:35",1,48.342337,-99.768832,TRUE,FALSE,TRUE,"S242751596"
+"158","stisan","Stilt Sandpiper","Calidris himantopus","L46041320","Lincoln Rd, McKenzie US-ND (46.7645,-100.3833)","2025-05-25 18:30",1,46.764509,-100.383286,TRUE,FALSE,TRUE,"S242981610"
+"159","stisan","Stilt Sandpiper","Calidris himantopus","L282520","Lagerman Agricultural Preserve--Lagerman Reservoir","2025-05-25 18:08",2,40.1348086,-105.1888925,TRUE,FALSE,FALSE,"S242778403"
+"160","stisan","Stilt Sandpiper","Calidris himantopus","L294962","Montezuma (NMWMA)--Railroad Rd. Marshes","2025-05-25 17:14",1,43.0572241,-76.7246532,TRUE,TRUE,FALSE,"S242717654"
+"161","stisan","Stilt Sandpiper","Calidris himantopus","L45991042","ND 3 Shorebird Spot","2025-05-25 17:00",5,46.924275,-99.931395,TRUE,FALSE,TRUE,"S242721091"
+"162","stisan","Stilt Sandpiper","Calidris himantopus","L158902","McKenzie Slough","2025-05-25 17:00",1,46.7942788,-100.4157696,TRUE,FALSE,FALSE,"S242978446"
+"163","stisan","Stilt Sandpiper","Calidris himantopus","L45989133","North and South Globes, Lewistown US-IL 40.34260, -90.09291","2025-05-25 16:51",NA,40.342605,-90.092912,TRUE,FALSE,TRUE,"S242711966"
+"164","stisan","Stilt Sandpiper","Calidris himantopus","L21280825","Quivira NWR--Little Salt Marsh--Observation Tower","2025-05-25 16:40",6,38.0789829,-98.4905639,TRUE,FALSE,FALSE,"S242723089"
+"165","stisan","Stilt Sandpiper","Calidris himantopus","L468386","Hallock WTP","2025-05-25 16:37",4,48.7493981,-96.9469643,TRUE,FALSE,FALSE,"S242709536"
+"166","stisan","Stilt Sandpiper","Calidris himantopus","L2128132","Cheney WA--Yoder Cove","2025-05-25 16:26",14,37.8047319,-97.8795362,TRUE,FALSE,FALSE,"S242704859"
+"167","stisan","Stilt Sandpiper","Calidris himantopus","L32088963","Slag Point (Morgan Park Mudflats)","2025-05-25 16:13",2,46.6867,-92.201862,TRUE,FALSE,FALSE,"S245137616"
+"168","stisan","Stilt Sandpiper","Calidris himantopus","L10987592","Leonard Sod Farms","2025-05-25 15:30",2,35.9285628,-95.7910768,TRUE,FALSE,TRUE,"S242700239"
+"169","stisan","Stilt Sandpiper","Calidris himantopus","L45990322","Boyd Lake, Loveland US-CO 40.41440, -105.03392","2025-05-25 15:18",13,40.414395,-105.033921,TRUE,TRUE,TRUE,"S242717668"
+"170","stisan","Stilt Sandpiper","Calidris himantopus","L45981324","536 McElroy Road, Westby, Montana, US (48.931, -104.136)","2025-05-25 14:39",5,48.9309986,-104.1363304,TRUE,FALSE,TRUE,"S242676523"
+"171","stisan","Stilt Sandpiper","Calidris himantopus","L1444918","Middle Loup River--Hwy 11 crossing","2025-05-25 14:15",6,41.0698436,-98.6136114,TRUE,FALSE,FALSE,"S242639218"
+"172","stisan","Stilt Sandpiper","Calidris himantopus","L18458112","Bixby Sod Farms","2025-05-25 14:00",1,35.9599478,-95.8670908,TRUE,FALSE,TRUE,"S242647939"
+"173","stisan","Stilt Sandpiper","Calidris himantopus","L1283484","Quivira NWR--Migrant's Mile & Park Smith Lake","2025-05-25 13:25",4,38.1438472,-98.4915894,TRUE,FALSE,FALSE,"S242650870"
+"174","stisan","Stilt Sandpiper","Calidris himantopus","L152637","Fermilab (DuPage Co.)","2025-05-25 12:25",3,41.8395126,-88.2190218,TRUE,TRUE,FALSE,"S243703652"
+"175","stisan","Stilt Sandpiper","Calidris himantopus","L45956556","262nd St SE, McKenzie US-ND 46.75781, -100.37394","2025-05-25 12:25",2,46.757808,-100.373943,TRUE,FALSE,TRUE,"S242575822"
+"176","stisan","Stilt Sandpiper","Calidris himantopus","L18239084","FCF #2 Manure Pits","2025-05-25 12:24",1,38.0169035,-100.7708894,TRUE,FALSE,TRUE,"S242802823"
+"177","stisan","Stilt Sandpiper","Calidris himantopus","L5919149","westby track pond","2025-05-25 12:10",3,48.8773854,-104.0516424,TRUE,FALSE,TRUE,"S244743390"
+"178","stisan","Stilt Sandpiper","Calidris himantopus","L45942733","1060–1998 158th St SE, Menoken US-ND 46.79070, -100.54197","2025-05-25 10:58",6,46.790704,-100.541972,TRUE,FALSE,TRUE,"S242518437"
+"179","stisan","Stilt Sandpiper","Calidris himantopus","L21265457","Cherokee Water Facility","2025-05-25 10:53",4,38.7531366,-104.4782797,TRUE,TRUE,FALSE,"S242780684"
+"180","stisan","Stilt Sandpiper","Calidris himantopus","L45986710","1380–1398 US Highway 87 N, Roundup US-MT 46.71279, -108.60581","2025-05-25 10:49",1,46.712794,-108.605808,TRUE,FALSE,TRUE,"S242700348"
+"181","stisan","Stilt Sandpiper","Calidris himantopus","L697350","Bixby Sod Farms","2025-05-25 10:38",2,35.9587293,-95.8418941,TRUE,FALSE,FALSE,"S242536364"
+"182","stisan","Stilt Sandpiper","Calidris himantopus","L2838815","7th Day Adventist WPA","2025-05-25 10:25",6,46.8100741,-100.5725955,TRUE,FALSE,FALSE,"S242507409"
+"183","stisan","Stilt Sandpiper","Calidris himantopus","L3156434","Bosque del Apache NWR--Flight Deck","2025-05-25 10:14",2,33.8049577,-106.8843985,TRUE,FALSE,FALSE,"S243178718"
+"184","stisan","Stilt Sandpiper","Calidris himantopus","L1021238","Bixby Sod Farms","2025-05-25 09:25",1,35.950913,-95.8411217,TRUE,FALSE,TRUE,"S242476256"
+"185","stisan","Stilt Sandpiper","Calidris himantopus","L46186427","Howell Reservoir and pond to the south","2025-05-25 09:15",8,43.7425517,-104.1869062,TRUE,FALSE,TRUE,"S243688340"
+"186","stisan","Stilt Sandpiper","Calidris himantopus","L2152261","Erickson GPA ","2025-05-25 08:43",4,45.7620144,-98.4200421,TRUE,FALSE,FALSE,"S242421407"
+"187","stisan","Stilt Sandpiper","Calidris himantopus","L160563","Mitchell Lake Audubon Center (HOTE 103)","2025-05-25 08:36",1,29.3105956,-98.4996938,TRUE,FALSE,FALSE,"S243077559"
+"188","stisan","Stilt Sandpiper","Calidris himantopus","L43474828","Sidney Feedlot","2025-05-25 08:20",9,41.134357,-103.069946,TRUE,FALSE,TRUE,"S242451116"
+"189","stisan","Stilt Sandpiper","Calidris himantopus","L1071295","Hackberry Flat WMA--Goose Unit","2025-05-25 08:19",4,34.2639555,-98.9321852,TRUE,FALSE,FALSE,"S242508587"
+"190","stisan","Stilt Sandpiper","Calidris himantopus","L727205","Bonnet Carre Spillway (general area)","2025-05-25 08:04",1,30.0006618,-90.4287478,TRUE,TRUE,FALSE,"S242533956"
+"191","stisan","Stilt Sandpiper","Calidris himantopus","L46006526","ND 23--Ward Co. (general)","2025-05-25 07:55",1,47.9781,-101.7125075,TRUE,FALSE,TRUE,"S242797909"
+"192","stisan","Stilt Sandpiper","Calidris himantopus","L4343845","Hackberry Flat WMA--Weir Unit","2025-05-25 07:46",4,34.2767668,-98.958898,TRUE,FALSE,FALSE,"S242593920"
+"193","stisan","Stilt Sandpiper","Calidris himantopus","L158882","Lostwood NWR","2025-05-25 07:43",2,48.602636,-102.4386493,TRUE,FALSE,FALSE,"S242561021"
+"194","stisan","Stilt Sandpiper","Calidris himantopus","L598578","Maga Ta-Hohpi WPA","2025-05-25 07:33",87,44.37572,-98.39819,TRUE,FALSE,FALSE,"S242455279"
+"195","stisan","Stilt Sandpiper","Calidris himantopus","L127244","Okaloosa Holding Ponds (RESTRICTED ACCESS AREA)","2025-05-25 07:20",1,30.4742,-86.6236,TRUE,FALSE,FALSE,"S242467723"
+"196","stisan","Stilt Sandpiper","Calidris himantopus","L299782","Burlington Lake (Goldeneye Reservoir)","2025-05-25 07:00",3,43.019333,-106.7073727,TRUE,FALSE,FALSE,"S242774392"
+"197","stisan","Stilt Sandpiper","Calidris himantopus","L1420675","South Twin Lake","2025-05-25 06:56",4,42.462994,-94.6524893,TRUE,FALSE,FALSE,"S242376443"
+"198","stisan","Stilt Sandpiper","Calidris himantopus","L132063","Tennessee NWR--Duck River Unit","2025-05-25 06:51",1,35.945837,-87.96413,TRUE,FALSE,FALSE,"S242671571"
+"199","stisan","Stilt Sandpiper","Calidris himantopus","L45959543","BLM land off Old Marcus Rd (NO public access, not exact location)","2025-05-25 04:10",1,44.698144,-102.197529,TRUE,FALSE,TRUE,"S242588271"
+"200","stisan","Stilt Sandpiper","Calidris himantopus","L782606","Nisland Slough","2025-05-24 19:26",8,44.6842774,-103.5878563,TRUE,FALSE,FALSE,"S242238778"
+"201","stisan","Stilt Sandpiper","Calidris himantopus","L2073467","Salt Plains NWR--Eagle Roost Nature Trail","2025-05-24 19:04",2,36.783717,-98.18573,TRUE,FALSE,FALSE,"S242237965"
+"202","stisan","Stilt Sandpiper","Calidris himantopus","L125062","Charlie Craig State Fish Hatchery","2025-05-24 18:15",1,36.349914,-94.2910727,TRUE,FALSE,FALSE,"S242235066"
+"203","stisan","Stilt Sandpiper","Calidris himantopus","L43502264","Sidney Feedlot","2025-05-24 17:58",3,41.134397,-103.071443,TRUE,FALSE,TRUE,"S242232156"
+"204","stisan","Stilt Sandpiper","Calidris himantopus","L125099","Cheyenne Bottoms WA","2025-05-24 16:46",2,38.4634203,-98.6551076,TRUE,FALSE,FALSE,"S242217416"
+"205","stisan","Stilt Sandpiper","Calidris himantopus","L971438","Blue Springs Lake--Fleming Park Wetland","2025-05-24 16:30",1,39.0205174,-94.3396425,TRUE,FALSE,FALSE,"S242205143"
+"206","stisan","Stilt Sandpiper","Calidris himantopus","L3234386","Hwy 193 just north of Jemison's","2025-05-24 15:54",8,30.3383615,-88.1276894,TRUE,FALSE,TRUE,"S242177881"
+"207","stisan","Stilt Sandpiper","Calidris himantopus","L45880886","151st Ave NW, Fortuna US-ND (48.9202,-104.0126)","2025-05-24 15:25",242,48.920208,-104.012641,TRUE,FALSE,TRUE,"S242226527"
+"208","stisan","Stilt Sandpiper","Calidris himantopus","L267805","Ensley Bottoms--Maxson Wastewater Lagoons/Earth Complex  (The Pits)","2025-05-24 15:05",1,35.05958,-90.1410198,TRUE,FALSE,FALSE,"S242196690"
+"209","stisan","Stilt Sandpiper","Calidris himantopus","L1150226","Iroquois NWR--Kumpf Marsh","2025-05-24 14:58",4,43.1184025,-78.4346581,TRUE,TRUE,FALSE,"S242147308"
+"210","stisan","Stilt Sandpiper","Calidris himantopus","L45864577","9946 County Road 3 Northwest, Westby, Montana, US (48.855, -104.047)","2025-05-24 14:33",500,48.8554458,-104.0469381,TRUE,FALSE,TRUE,"S242150957"
+"211","stisan","Stilt Sandpiper","Calidris himantopus","L45860234","Goose Lake, Westby US-MT (48.8411,-104.0589)","2025-05-24 14:20",78,48.841066,-104.058883,TRUE,FALSE,TRUE,"S242133486"
+"212","stisan","Stilt Sandpiper","Calidris himantopus","L30927547","437-499 Wheat Basin Road, Molt, Montana, US (45.871, -109.09)","2025-05-24 14:17",3,45.8712022,-109.0903184,TRUE,FALSE,TRUE,"S242620819"
+"213","stisan","Stilt Sandpiper","Calidris himantopus","L12397315","East Woodmen Storage Wetlands","2025-05-24 13:52",1,38.9432281,-104.6955539,TRUE,TRUE,TRUE,"S242121959"
+"214","stisan","Stilt Sandpiper","Calidris himantopus","L421073","Beck & Alkali Lakes","2025-05-24 13:49",8,44.5096973,-109.0376973,TRUE,TRUE,FALSE,"S242136311"
+"215","stisan","Stilt Sandpiper","Calidris himantopus","L130800","Pea Island NWR--North Pond","2025-05-24 13:36",1,35.7175756,-75.4985794,TRUE,FALSE,FALSE,"S242095124"
+"216","stisan","Stilt Sandpiper","Calidris himantopus","L7740703","Jones Bridge & Perry Rd. area, Leicester","2025-05-24 13:01",3,42.7623896,-77.8588164,TRUE,TRUE,FALSE,"S242055856"
+"217","stisan","Stilt Sandpiper","Calidris himantopus","L28741619","Bruns Rd. and Bischoff Rd. Fields","2025-05-24 12:29",1,38.6732708,-90.0564948,TRUE,FALSE,FALSE,"S242055091"
+"218","stisan","Stilt Sandpiper","Calidris himantopus","L572363","Padre Isl. NS--Bird Island Basin Environs (Including Campground Ponds)","2025-05-24 12:21",1,27.4721051,-97.312088,TRUE,FALSE,FALSE,"S242116797"
+"219","stisan","Stilt Sandpiper","Calidris himantopus","L45835894","44268 1st Street Northeast, Lake Preston (44.361, -97.355)","2025-05-24 12:07",2,44.3610022,-97.354834,TRUE,FALSE,TRUE,"S242037504"
+"220","stisan","Stilt Sandpiper","Calidris himantopus","L45834177","US-83, Selby US-SD 45.56653, -100.06927","2025-05-24 11:45",13,45.566533,-100.069267,TRUE,FALSE,TRUE,"S242030525"
+"221","stisan","Stilt Sandpiper","Calidris himantopus","L3557958","South Republican SWA--Hopper Ponds Area","2025-05-24 11:32",5,39.6086487,-102.2484255,TRUE,FALSE,FALSE,"S242059151"
+"222","stisan","Stilt Sandpiper","Calidris himantopus","L45839298","Flowing Well Rd, Fortuna US-ND (48.9009,-104.0485)","2025-05-24 11:15",28,48.900932,-104.04852,TRUE,FALSE,TRUE,"S242051416"
+"223","stisan","Stilt Sandpiper","Calidris himantopus","L45539547","new retention pond at 66th. , -82.62846","2025-05-24 11:14",1,27.453319,-82.628464,TRUE,TRUE,TRUE,"S241972954"
+"224","stisan","Stilt Sandpiper","Calidris himantopus","L780202","Little Saint Simons Island--Myrtle Pond","2025-05-24 11:12",19,31.283565,-81.2932,TRUE,TRUE,FALSE,"S242100887"
+"225","stisan","Stilt Sandpiper","Calidris himantopus","L4653074","Headquarters Plantation Drive","2025-05-24 10:53",1,32.7565665,-80.0232339,TRUE,FALSE,FALSE,"S241971281"
+"226","stisan","Stilt Sandpiper","Calidris himantopus","L19401279","Frazer--Hwy 2 wetland","2025-05-24 10:42",4,48.0590188,-105.9940208,TRUE,FALSE,FALSE,"S242027593"
+"227","stisan","Stilt Sandpiper","Calidris himantopus","L757539","Wilderness Rd.","2025-05-24 10:23",2,40.7347385,-82.0710897,TRUE,TRUE,FALSE,"S242160286"
+"228","stisan","Stilt Sandpiper","Calidris himantopus","L1358840","Bosque del Apache NWR--North Loop (formerly Farm Loop)","2025-05-24 09:58",2,33.8151614,-106.8722406,TRUE,FALSE,FALSE,"S242144690"
+"229","stisan","Stilt Sandpiper","Calidris himantopus","L45826222","Theodore Roosevelt Expressway, Medicine Lake, Montana, US (48.488, -104.498)","2025-05-24 09:39",8,48.4882836,-104.4975485,TRUE,FALSE,TRUE,"S241997269"
+"230","stisan","Stilt Sandpiper","Calidris himantopus","L45862726","Perry Rd, Mount Morris US-NY 42.75632, -77.87416","2025-05-24 09:35",3,42.756325,-77.874161,TRUE,TRUE,TRUE,"S242143458"
+"231","stisan","Stilt Sandpiper","Calidris himantopus","L45766175","Road Q, Hooker","2025-05-24 09:09",6,36.761874,-101.155596,TRUE,FALSE,TRUE,"S241957361"
+"232","stisan","Stilt Sandpiper","Calidris himantopus","L7475344","Goose Lake Rd","2025-05-24 09:09",100,48.844265,-104.055892,TRUE,FALSE,TRUE,"S242068515"
+"233","stisan","Stilt Sandpiper","Calidris himantopus","L285733","Chico Basin Ranch--headquarters area (Pueblo Co) (mandatory registration required at www.aikenaudubon.com)","2025-05-24 09:04",1,38.5070217,-104.4403696,TRUE,TRUE,FALSE,"S242014263"
+"234","stisan","Stilt Sandpiper","Calidris himantopus","L4524054","Gillet Lake","2025-05-24 08:55",1,41.8082368,-102.4105167,TRUE,FALSE,FALSE,"S242029856"
+"235","stisan","Stilt Sandpiper","Calidris himantopus","L127945","Bosque del Apache NWR","2025-05-24 08:45",3,33.802,-106.88,TRUE,FALSE,FALSE,"S242555430"
+"236","stisan","Stilt Sandpiper","Calidris himantopus","L4318590","Bowdoin NWR--first 5 mi. Auto Tour Route","2025-05-24 08:27",36,48.3915524,-107.7287149,TRUE,FALSE,FALSE,"S242011223"
+"237","stisan","Stilt Sandpiper","Calidris himantopus","L3446157","US-ND-Berthold - 48.3270x-101.9118 - Feb 28, 2015, 5:03 PM","2025-05-24 08:10",1,48.327013,-101.911841,TRUE,FALSE,TRUE,"S241899112"
+"238","stisan","Stilt Sandpiper","Calidris himantopus","L45803101","305th Ave, Gettysburg US-SD 45.11033, -100.06229","2025-05-24 08:05",4,45.110335,-100.062288,TRUE,FALSE,TRUE,"S241892050"
+"239","stisan","Stilt Sandpiper","Calidris himantopus","L8912532","835 Rd pond","2025-05-24 07:58",3,41.9312352,-97.3978429,TRUE,FALSE,TRUE,"S242240928"
+"240","stisan","Stilt Sandpiper","Calidris himantopus","L45805499","1st Street, Lakeside, Nebraska, US (42.069, -102.564)","2025-05-24 07:30",2,42.0687936,-102.5638195,TRUE,FALSE,TRUE,"S241904059"
+"241","stisan","Stilt Sandpiper","Calidris himantopus","L636747","Zorinsky Lake--west","2025-05-24 07:24",1,41.2232783,-96.1789513,TRUE,FALSE,FALSE,"S242003960"
+"242","stisan","Stilt Sandpiper","Calidris himantopus","L691056","Howard Marsh--West Side of Howard Rd.","2025-05-24 07:10",1,41.6500553,-83.278719,TRUE,TRUE,FALSE,"S241899743"
+"243","stisan","Stilt Sandpiper","Calidris himantopus","L285737","Chico Basin Ranch (Pueblo Co) (mandatory registration required at www.aikenaudubon.com)","2025-05-24 06:59",1,38.48682,-104.43801,TRUE,TRUE,FALSE,"S242017575"
+"244","stisan","Stilt Sandpiper","Calidris himantopus","L210195","Meridian Technology Center Pond","2025-05-24 06:45",1,36.1135912,-97.1062865,TRUE,FALSE,FALSE,"S241859395"
+"245","stisan","Stilt Sandpiper","Calidris himantopus","L32241881","Loess Bluffs National Wildlife Refuge, Forest City US-MO 40.07035, -95.22660","2025-05-24 06:37",NA,40.0901545,-95.2453709,TRUE,FALSE,TRUE,"S242241832"
+"246","stisan","Stilt Sandpiper","Calidris himantopus","L45796152","47620, Mount Vernon US-IN (37.8240,-87.9239)","2025-05-24 06:17",2,37.824011,-87.923877,TRUE,FALSE,TRUE,"S241855758"
+"247","stisan","Stilt Sandpiper","Calidris himantopus","L760567","Guana Tolomato Matanzas NERR--Six Mile Landing","2025-05-24 06:11",1,30.11006,-81.3450694,TRUE,FALSE,FALSE,"S241827488"
+"248","stisan","Stilt Sandpiper","Calidris himantopus","L35616111","South Heart Lagoon. 58601, South Heart US-ND 46.86377, -102.97800","2025-05-24 05:40",4,46.863772,-102.977995,TRUE,FALSE,TRUE,"S241871816"
+"249","stisan","Stilt Sandpiper","Calidris himantopus","L1034872","Sanden Pond","2025-05-23 18:41",6,33.0230217,-96.5611982,TRUE,FALSE,FALSE,"S241764453"
+"250","stisan","Stilt Sandpiper","Calidris himantopus","L1058483","Ensley Bottoms--Greater Ensley Bottoms","2025-05-23 17:45",2,35.0673782,-90.1569843,TRUE,FALSE,FALSE,"S241750910"
+"251","stisan","Stilt Sandpiper","Calidris himantopus","L1787570","Andrews Island Spoil Site (no public access)","2025-05-23 17:37",1,31.1412833,-81.508427,TRUE,TRUE,FALSE,"S241854043"
+"252","stisan","Stilt Sandpiper","Calidris himantopus","L46334771","bowdoin - patrol pond","2025-05-23 17:16",1,48.4189449,-107.6578544,TRUE,FALSE,TRUE,"S244417443"
+"253","stisan","Stilt Sandpiper","Calidris himantopus","L3896150","North Alabama Bend Park","2025-05-23 15:44",1,42.7631044,-96.9625854,TRUE,FALSE,FALSE,"S241691582"
+"254","stisan","Stilt Sandpiper","Calidris himantopus","L6001315","Little Saint Simons Island--Myrtle Pond Blind","2025-05-23 14:55",4,31.2841739,-81.2911479,TRUE,TRUE,FALSE,"S241639281"
+"255","stisan","Stilt Sandpiper","Calidris himantopus","L3441004","Bluestem SRA","2025-05-23 14:30",22,40.6342778,-96.7950439,TRUE,FALSE,FALSE,"S241761585"
+"256","stisan","Stilt Sandpiper","Calidris himantopus","L19161691","Dalton Highway, Anchorage, Alaska, US (68.759, -148.889)","2025-05-23 13:38",4,68.7588238,-148.8886644,TRUE,FALSE,TRUE,"S241683433"
+"257","stisan","Stilt Sandpiper","Calidris himantopus","L338774","Neegronda Reservoir","2025-05-23 13:36",16,38.3034071,-102.7543708,TRUE,FALSE,FALSE,"S241721687"
+"258","stisan","Stilt Sandpiper","Calidris himantopus","L45746066","44112–44132 SD-34, Winfred US-SD 44.00814, -97.38345","2025-05-23 13:14",5,44.008137,-97.383451,TRUE,FALSE,TRUE,"S241631549"
+"259","stisan","Stilt Sandpiper","Calidris himantopus","L9968679","Dad's Corner Rd.","2025-05-23 12:30",4,33.7456963,-98.6592791,TRUE,FALSE,FALSE,"S241628107"
+"260","stisan","Stilt Sandpiper","Calidris himantopus","L31272773","Hovey Lake FWA--Base Road Cottonwood Slough","2025-05-23 12:21",1,37.8333134,-87.928131,TRUE,FALSE,FALSE,"S241601846"
+"261","stisan","Stilt Sandpiper","Calidris himantopus","L1150341","Lake Wallace","2025-05-23 12:08",5,34.6332079,-79.6776581,TRUE,FALSE,FALSE,"S242655835"
+"262","stisan","Stilt Sandpiper","Calidris himantopus","L16232766","Ruthton WTP","2025-05-23 12:06",2,44.191446,-96.093495,TRUE,FALSE,FALSE,"S241600678"
+"263","stisan","Stilt Sandpiper","Calidris himantopus","L1171138","Loess Bluffs NWR--Pelican Pool","2025-05-23 11:39",85,40.0637528,-95.2571297,TRUE,TRUE,FALSE,"S241631348"
+"264","stisan","Stilt Sandpiper","Calidris himantopus","L20623576","Jemison’s Bait Shop","2025-05-23 11:31",85,30.341304,-88.126065,TRUE,TRUE,TRUE,"S241602207"
+"265","stisan","Stilt Sandpiper","Calidris himantopus","L38184774","Loess Bluffs National Wildlife Refuge, Forest City US-MO 40.05988, -95.23695","2025-05-23 10:46",6,40.059884,-95.236945,TRUE,FALSE,TRUE,"S241626997"
+"266","stisan","Stilt Sandpiper","Calidris himantopus","L4376696","TN Valley Exp. Research Sta. (Auburn Univ.)","2025-05-23 10:43",1,34.6984612,-86.8788528,TRUE,FALSE,FALSE,"S241589624"
+"267","stisan","Stilt Sandpiper","Calidris himantopus","L11588797","Pilgrim Creek Reservoir","2025-05-23 10:42",3,45.4392845,-105.1781317,TRUE,FALSE,FALSE,"S241655198"
+"268","stisan","Stilt Sandpiper","Calidris himantopus","L169447","Riverlands Migratory Bird Sanctuary","2025-05-23 10:23",NA,38.8719313,-90.1843917,TRUE,FALSE,FALSE,"S241649287"
+"269","stisan","Stilt Sandpiper","Calidris himantopus","L34427334","Upper Goose Lake vantage point","2025-05-23 10:23",1200,48.8548539,-104.0468227,TRUE,TRUE,TRUE,"S241616491"
+"270","stisan","Stilt Sandpiper","Calidris himantopus","L45771546","Flowing Well Rd","2025-05-23 10:20",6,48.8938085,-104.0528045,TRUE,FALSE,TRUE,"S241749116"
+"271","stisan","Stilt Sandpiper","Calidris himantopus","L45728505","384th Ave, Armour US-SD 43.32243, -98.50532","2025-05-23 10:00",10,43.322429,-98.505322,TRUE,FALSE,TRUE,"S241553875"
+"272","stisan","Stilt Sandpiper","Calidris himantopus","L45727658","30th St NW, Alexander US-ND 47.84579, -103.74231","2025-05-23 09:19",7,47.845794,-103.742314,TRUE,FALSE,TRUE,"S241549514"
+"273","stisan","Stilt Sandpiper","Calidris himantopus","L15973852","27609–27659 383rd Ave, Corsica US-SD 43.38256, -98.51988","2025-05-23 09:04",26,43.382563,-98.519882,TRUE,FALSE,TRUE,"S241545718"
+"274","stisan","Stilt Sandpiper","Calidris himantopus","L13805687","Loess Bluffs NWR","2025-05-23 08:36",30,40.09,-95.24,TRUE,TRUE,TRUE,"S241537293"
+"275","stisan","Stilt Sandpiper","Calidris himantopus","L45766376","3923–3993 N-2, Lakeside US-NE 42.06880, -102.56441","2025-05-23 08:25",98,42.068796,-102.564411,TRUE,FALSE,TRUE,"S241723483"
+"276","stisan","Stilt Sandpiper","Calidris himantopus","L45768150","ND 50--Ward/Mountrail/Burke boundary line","2025-05-23 08:03",2,48.5463173,-102.1833822,TRUE,FALSE,TRUE,"S241738104"
+"277","stisan","Stilt Sandpiper","Calidris himantopus","L31740923","North Westby Road","2025-05-23 07:55",2,48.8866876,-104.0617493,TRUE,FALSE,TRUE,"S241615834"
+"278","stisan","Stilt Sandpiper","Calidris himantopus","L17407585","STA C23/24 AREA 1 CONSTRUCTION ,NO PUBLIC ACCESS, Fort Pierce, Florida, US (27.404, -80.526)","2025-05-23 07:21",2,27.4044012,-80.5257922,TRUE,FALSE,TRUE,"S243251539"
+"279","stisan","Stilt Sandpiper","Calidris himantopus","L340082","Hovey Lake FWA","2025-05-23 07:15",1,37.8187082,-87.9590891,TRUE,TRUE,FALSE,"S241568121"
+"280","stisan","Stilt Sandpiper","Calidris himantopus","L4616583","Cherry Creek SP--Wetlands Preserve","2025-05-23 06:41",2,39.628069,-104.8396325,TRUE,FALSE,FALSE,"S241545124"
+"281","stisan","Stilt Sandpiper","Calidris himantopus","L1283469","Grapevine Lake—Oak Grove Park—Sand Bass Dr.","2025-05-23 06:40",1,32.9647828,-97.073822,TRUE,FALSE,FALSE,"S241725946"
+"282","stisan","Stilt Sandpiper","Calidris himantopus","L16174004","Artichoke WPA","2025-05-23 06:31",1,45.3787676,-96.1609225,TRUE,FALSE,FALSE,"S241493969"
+"283","stisan","Stilt Sandpiper","Calidris himantopus","L6345970","Baker Wetlands--Central","2025-05-23 06:23",2,38.9208977,-95.2328342,TRUE,FALSE,FALSE,"S241510570"
+"284","stisan","Stilt Sandpiper","Calidris himantopus","L29227681","Orlando Apopka Airport Industrial Area","2025-05-23 06:19",1,28.7067118,-81.5827368,TRUE,TRUE,TRUE,"S241567652"
+"285","stisan","Stilt Sandpiper","Calidris himantopus","L31704562","Flowing Well Road","2025-05-23 05:10",40,48.8990399,-104.0497347,TRUE,FALSE,TRUE,"S241615737"
+"286","stisan","Stilt Sandpiper","Calidris himantopus","L691108","OH-2 @ OH-19","2025-05-22 19:10",1,41.603616,-83.145398,TRUE,TRUE,FALSE,"S241369720"
+"287","stisan","Stilt Sandpiper","Calidris himantopus","L45698690","SE-44 Ponds","2025-05-22 19:08",9,43.400097,-97.654655,TRUE,FALSE,TRUE,"S241401591"
+"288","stisan","Stilt Sandpiper","Calidris himantopus","L23603003","Princeville Lagoons (No Trespassing/Restricted Access)","2025-05-22 19:00",1,40.9190025,-89.7523646,TRUE,FALSE,FALSE,"S241387037"
+"289","stisan","Stilt Sandpiper","Calidris himantopus","L933251","Pathfinder NWR--Steamboat Lake","2025-05-22 18:34",4,42.5456823,-107.0750713,TRUE,FALSE,FALSE,"S241761561"
+"290","stisan","Stilt Sandpiper","Calidris himantopus","L2300607","Stewart's Pond","2025-05-22 18:14",1,40.3245862,-104.709084,TRUE,FALSE,FALSE,"S241412111"
+"291","stisan","Stilt Sandpiper","Calidris himantopus","L45700089","Tanana Lakes Recreation Area, Fairbanks US-AK 64.79772, -147.71152","2025-05-22 17:37",1,64.797722,-147.711517,TRUE,TRUE,TRUE,"S241408658"
+"292","stisan","Stilt Sandpiper","Calidris himantopus","L280754","Lake Andes NWR","2025-05-22 16:51",2,43.1648925,-98.4469981,TRUE,FALSE,FALSE,"S241401124"
+"293","stisan","Stilt Sandpiper","Calidris himantopus","L445096","Adobe Creek Reservoir (Blue Lake)--Kiowa Co.","2025-05-22 15:44",4,38.2718472,-103.2391211,TRUE,FALSE,FALSE,"S241720817"
+"294","stisan","Stilt Sandpiper","Calidris himantopus","L332514","Medicine Lake NWR","2025-05-22 15:36",3,48.4844088,-104.451592,TRUE,FALSE,FALSE,"S241404815"
+"295","stisan","Stilt Sandpiper","Calidris himantopus","L45682643","417th Ave, Carpenter US-SD 44.59169, -97.87656","2025-05-22 15:36",1,44.591693,-97.876555,TRUE,FALSE,TRUE,"S241322738"
+"296","stisan","Stilt Sandpiper","Calidris himantopus","L45745898","jemison's bait shop","2025-05-22 15:28",19,30.3416023,-88.12608,TRUE,FALSE,TRUE,"S241632857"
+"297","stisan","Stilt Sandpiper","Calidris himantopus","L43931096","Bald Knob NWR--Central Ag Fields","2025-05-22 14:54",4,35.2602622,-91.5801847,TRUE,FALSE,FALSE,"S241350392"
+"298","stisan","Stilt Sandpiper","Calidris himantopus","L11077342","White Lake","2025-05-22 14:51",7,43.7947211,-98.7427529,TRUE,FALSE,FALSE,"S242115156"
+"299","stisan","Stilt Sandpiper","Calidris himantopus","L756025","Webster Res.","2025-05-22 14:50",150,39.3905707,-99.4430923,TRUE,FALSE,FALSE,"S241343340"
+"300","stisan","Stilt Sandpiper","Calidris himantopus","L10922741","Smith Lagoon WPA","2025-05-22 13:46",20,40.437698,-97.97689,TRUE,FALSE,FALSE,"S241310621"
+"301","stisan","Stilt Sandpiper","Calidris himantopus","L45678629","US-14, Philip US-SD (44.0531,-101.6355)","2025-05-22 13:01",1,44.053056,-101.635464,TRUE,FALSE,TRUE,"S241304104"
+"302","stisan","Stilt Sandpiper","Calidris himantopus","L44996104","Tanana Lakes Recreation Area, Fairbanks US-AK 64.79783, -147.71169","2025-05-22 12:53",1,64.797825,-147.711694,TRUE,TRUE,TRUE,"S241335692"
+"303","stisan","Stilt Sandpiper","Calidris himantopus","L2380091","Atkinson Mill Race Park","2025-05-22 12:49",21,42.5375798,-98.9999592,TRUE,FALSE,FALSE,"S241398065"
+"304","stisan","Stilt Sandpiper","Calidris himantopus","L218758","Bald Knob NWR","2025-05-22 12:46",1,35.2744747,-91.571223,TRUE,FALSE,FALSE,"S241284488"
+"305","stisan","Stilt Sandpiper","Calidris himantopus","L41237674","Pond off 290th","2025-05-22 12:36",1,39.299931,-99.811939,TRUE,FALSE,TRUE,"S241339100"
+"306","stisan","Stilt Sandpiper","Calidris himantopus","L45671728","42916–42942 180th St, Vienna US-SD 44.77567, -97.59019","2025-05-22 12:18",1,44.775669,-97.590192,TRUE,FALSE,TRUE,"S241272055"
+"307","stisan","Stilt Sandpiper","Calidris himantopus","L3491617","Nelson County, ND","2025-05-22 12:15",NA,48.000605,-98.3316708,TRUE,FALSE,TRUE,"S241372472"
+"308","stisan","Stilt Sandpiper","Calidris himantopus","L41039579","55627 835th Road, Norfolk, Nebraska, US (41.931, -97.402)","2025-05-22 12:10",80,41.9313674,-97.4022176,TRUE,TRUE,TRUE,"S241267766"
+"309","stisan","Stilt Sandpiper","Calidris himantopus","L131039","Fairbanks International Airport--ponds","2025-05-22 11:52",1,64.8213599,-147.8650492,TRUE,TRUE,FALSE,"S241323293"
+"310","stisan","Stilt Sandpiper","Calidris himantopus","L1896322","Jocelyn Nungaray NWR-- Shoveler Pond Loop","2025-05-22 11:30",10,29.6138335,-94.5452351,TRUE,FALSE,FALSE,"S241381270"
+"311","stisan","Stilt Sandpiper","Calidris himantopus","L484987","Bald Point SP","2025-05-22 09:41",1,29.9377826,-84.3381304,TRUE,FALSE,FALSE,"S241235824"
+"312","stisan","Stilt Sandpiper","Calidris himantopus","L781270","Freitag beeyard","2025-05-22 09:04",1,46.1912396,-103.3186054,TRUE,FALSE,TRUE,"S241224178"
+"313","stisan","Stilt Sandpiper","Calidris himantopus","L248057","Pte. Mouillee SGA (permit required Sep 1-Dec 15)","2025-05-22 08:42",1,42.0146112,-83.2001495,TRUE,TRUE,FALSE,"S241337358"
+"314","stisan","Stilt Sandpiper","Calidris himantopus","L464323","Kirby Lake (PHP 005)","2025-05-22 08:30",1,32.3724227,-99.7345734,TRUE,FALSE,FALSE,"S241242554"
+"315","stisan","Stilt Sandpiper","Calidris himantopus","L45666065","Oak Grove Park, Grapevine US-TX 32.96639, -97.07787","2025-05-22 07:49",1,32.966391,-97.077866,TRUE,FALSE,TRUE,"S241246221"
+"316","stisan","Stilt Sandpiper","Calidris himantopus","L140460","Big Johnson Reservoir & Bluestem Prairie Open Space","2025-05-22 06:53",4,38.7482319,-104.6943795,TRUE,TRUE,FALSE,"S241500552"
+"317","stisan","Stilt Sandpiper","Calidris himantopus","L7288417","North Gateway Park (limited access during waterfowl season)","2025-05-22 06:12",2,38.104839,-102.614276,TRUE,FALSE,FALSE,"S241176985"
+"318","stisan","Stilt Sandpiper","Calidris himantopus","L855015","Wayne","2025-05-22 06:10",1,42.2336651,-97.013998,TRUE,FALSE,FALSE,"S241225784"
