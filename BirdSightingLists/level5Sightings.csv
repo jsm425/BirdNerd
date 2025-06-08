@@ -1,3 +1,2 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","comcuc","Common Cuckoo","Cuculus canorus","L685834","Alaska Maritime NWR--Buldir Island","2025-06-04 09:00",2,52.3504409,175.9172058,TRUE,TRUE,FALSE,"S247197813"
-"2","comcuc","Common Cuckoo","Cuculus canorus","L246497","Gambell (general area)","2025-05-31 13:30",1,63.7793007,-171.7214584,TRUE,TRUE,FALSE,"S245295418"
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
+"1","tancoc1","Tanimbar Corella","Cacatua goffiniana","L46914017","73-1818–73-1828 Hao St, Kailua Kona US-HI 19.70696, -155.95061","2025-06-05 18:53",3,19.706958,-155.950614,TRUE,TRUE,TRUE,"S247175854","P"
