@@ -1,2 +1,3 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
-"1","tancoc1","Tanimbar Corella","Cacatua goffiniana","L46914017","73-1818–73-1828 Hao St, Kailua Kona US-HI 19.70696, -155.95061","2025-06-05 18:53",3,19.706958,-155.950614,TRUE,TRUE,TRUE,"S247175854","P"
+"1","chifla1","Chilean Flamingo","Phoenicopterus chilensis","L2248482","Don Edwards NWR--No Name Trail","2025-06-01 10:45",1,37.5464008,-122.0973837,TRUE,TRUE,FALSE,"S245679751","X"
+"2","chifla1","Chilean Flamingo","Phoenicopterus chilensis","L216132","Coyote Hills Regional Park","2025-05-31 10:43",1,37.553764,-122.0875025,TRUE,TRUE,FALSE,"S245181208","X"
