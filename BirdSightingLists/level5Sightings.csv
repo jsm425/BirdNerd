@@ -1,3 +1,4 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
-"1","chifla1","Chilean Flamingo","Phoenicopterus chilensis","L2248482","Don Edwards NWR--No Name Trail","2025-06-01 10:45",1,37.5464008,-122.0973837,TRUE,TRUE,FALSE,"S245679751","X"
-"2","chifla1","Chilean Flamingo","Phoenicopterus chilensis","L216132","Coyote Hills Regional Park","2025-05-31 10:43",1,37.553764,-122.0875025,TRUE,TRUE,FALSE,"S245181208","X"
+"1","cockat","Cockatiel","Nymphicus hollandicus","L6124394","Dads house","2025-06-06 06:27",1,25.9287447,-80.3280616,TRUE,TRUE,TRUE,"S247213941","X"
+"2","cockat","Cockatiel","Nymphicus hollandicus","L7025933","SW 152nd St. (Agricultural Fields)","2025-06-05 09:30",1,25.6247632,-80.4642776,TRUE,TRUE,FALSE,"S247161720","X"
+"3","cockat","Cockatiel","Nymphicus hollandicus","L630779","Black Point Park and Marina","2025-06-02 06:30",1,25.5400214,-80.3274608,TRUE,TRUE,FALSE,"S245873863","X"
