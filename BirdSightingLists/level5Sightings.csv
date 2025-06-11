@@ -1,4 +1,4 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
-"1","cockat","Cockatiel","Nymphicus hollandicus","L6124394","Dads house","2025-06-06 06:27",1,25.9287447,-80.3280616,TRUE,TRUE,TRUE,"S247213941","X"
-"2","cockat","Cockatiel","Nymphicus hollandicus","L7025933","SW 152nd St. (Agricultural Fields)","2025-06-05 09:30",1,25.6247632,-80.4642776,TRUE,TRUE,FALSE,"S247161720","X"
-"3","cockat","Cockatiel","Nymphicus hollandicus","L630779","Black Point Park and Marina","2025-06-02 06:30",1,25.5400214,-80.3274608,TRUE,TRUE,FALSE,"S245873863","X"
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
+"1","akepa1","Hawaii Akepa","Loxops coccineus","L695639","Hakalau Forest NWR--Pua Akala Tract (restricted access)","2025-06-06 08:50",7,19.7895,-155.3262,TRUE,TRUE,FALSE,"S247935987"
+"2","akepa1","Hawaii Akepa","Loxops coccineus","L285811","Powerline Road and far kipukas on Pu'u O'o Trail","2025-06-05 06:18",3,19.6482527,-155.3710127,TRUE,TRUE,FALSE,"S248341479"
+"3","akepa1","Hawaii Akepa","Loxops coccineus","L46628058","INAA","2025-06-01 14:53",3,19.618174,-155.380778,TRUE,TRUE,TRUE,"S245754744"
