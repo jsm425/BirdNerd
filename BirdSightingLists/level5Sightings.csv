@@ -1,4 +1,3 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","slbgul","Slaty-backed Gull","Larus schistisagus","L685834","Alaska Maritime NWR--Buldir Island","2025-06-18 15:39",1,52.3504409,175.9172058,TRUE,FALSE,FALSE,"S251927681"
-"2","slbgul","Slaty-backed Gull","Larus schistisagus","L261146","St. Paul Island","2025-06-14 08:22",1,57.17012,-170.296751,TRUE,FALSE,FALSE,"S250524677"
-"3","slbgul","Slaty-backed Gull","Larus schistisagus","L324052","Nome Dump","2025-06-13 20:28",1,64.5238417,-165.2812528,TRUE,FALSE,FALSE,"S250071835"
+"1","comros","Common Rosefinch","Carpodacus erythrinus","L246497","Gambell (general area)","2025-06-15 21:00",2,63.7793007,-171.7214584,TRUE,TRUE,FALSE,"S250936008"
+"2","comros","Common Rosefinch","Carpodacus erythrinus","L261146","St. Paul Island","2025-06-15 19:00",1,57.17012,-170.296751,TRUE,TRUE,FALSE,"S250953616"
