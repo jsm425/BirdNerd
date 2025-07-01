@@ -1,236 +1,236 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","rudtur","Ruddy Turnstone","Arenaria interpres","L1880516","Hammonasset Beach SP--Meig's Point Parking Lot/Marshes","2025-06-29 17:38",1,41.2522001,-72.5451318,TRUE,FALSE,FALSE,"S255435866"
-"2","rudtur","Ruddy Turnstone","Arenaria interpres","L714512","Sunset Lake  (Portland)","2025-06-29 15:40",9,27.8679131,-97.3274088,TRUE,FALSE,FALSE,"S255418112"
-"3","rudtur","Ruddy Turnstone","Arenaria interpres","L514035","Winthrop Beach and Five Sisters","2025-06-29 14:54",1,42.3747938,-70.9681878,TRUE,FALSE,FALSE,"S255369901"
-"4","rudtur","Ruddy Turnstone","Arenaria interpres","L284440","Jones Park","2025-06-29 14:36",1,30.3670574,-89.085007,TRUE,FALSE,FALSE,"S255374341"
-"5","rudtur","Ruddy Turnstone","Arenaria interpres","L127294","Anastasia SP","2025-06-29 13:53",9,29.8661797,-81.2705122,TRUE,FALSE,FALSE,"S255351582"
-"6","rudtur","Ruddy Turnstone","Arenaria interpres","L127332","Fort De Soto Park","2025-06-29 12:59",15,27.6327266,-82.718157,TRUE,FALSE,FALSE,"S255345631"
-"7","rudtur","Ruddy Turnstone","Arenaria interpres","L297967","Kanahā Pond Wildlife Sanctuary","2025-06-29 11:46",7,20.8926173,-156.4581578,TRUE,FALSE,FALSE,"S255436854"
-"8","rudtur","Ruddy Turnstone","Arenaria interpres","L127386","Sebastian Inlet SP (Indian River co.)","2025-06-29 11:16",4,27.8568345,-80.448761,TRUE,FALSE,FALSE,"S255286483"
-"9","rudtur","Ruddy Turnstone","Arenaria interpres","L696431","Hampton-Seabrook Marsh--Rt. 1, Taylor River, Hampton","2025-06-29 10:55",1,42.9255716,-70.8500576,TRUE,FALSE,FALSE,"S255295070"
-"10","rudtur","Ruddy Turnstone","Arenaria interpres","L152499","Breezy Point Tip","2025-06-29 10:31",2,40.5506643,-73.9357889,TRUE,FALSE,FALSE,"S255357458"
-"11","rudtur","Ruddy Turnstone","Arenaria interpres","L17284095","Cedar Key","2025-06-29 10:12",4,29.139425,-83.034957,TRUE,FALSE,TRUE,"S255286216"
-"12","rudtur","Ruddy Turnstone","Arenaria interpres","L591483","Saint Simons Island--Goulds Inlet","2025-06-29 10:00",9,31.1570695,-81.3650036,TRUE,FALSE,FALSE,"S255408611"
-"13","rudtur","Ruddy Turnstone","Arenaria interpres","L48760251","69-1029 Kolea Kai Circle, Waikoloa Village, Hawaii, US (19.918, -155.885)","2025-06-29 09:34",4,19.9180083,-155.88464,TRUE,FALSE,TRUE,"S255395299"
-"14","rudtur","Ruddy Turnstone","Arenaria interpres","L42962486","15869 Alabama 193, Coden, Alabama, US (30.349, -88.122)","2025-06-29 09:22",2,30.3489681,-88.1220024,TRUE,FALSE,TRUE,"S255247098"
-"15","rudtur","Ruddy Turnstone","Arenaria interpres","L127286","Huguenot Memorial City Park","2025-06-29 09:09",1,30.4112444,-81.4206594,TRUE,FALSE,FALSE,"S255255059"
-"16","rudtur","Ruddy Turnstone","Arenaria interpres","L1249601","E. Raccoon Island","2025-06-29 09:05",1,29.0501197,-90.9267139,TRUE,FALSE,FALSE,"S255278041"
-"17","rudtur","Ruddy Turnstone","Arenaria interpres","L48728281","16701–16839 Dauphin Island Pkwy, Coden US-AL 30.34251, -88.12571","2025-06-29 08:46",2,30.342509,-88.125707,TRUE,FALSE,TRUE,"S255268367"
-"18","rudtur","Ruddy Turnstone","Arenaria interpres","L752738","Isles of Shoals--White and Seavey islands, Rye","2025-06-29 08:19",2,42.9685691,-70.6241183,TRUE,FALSE,FALSE,"S255283611"
-"19","rudtur","Ruddy Turnstone","Arenaria interpres","L337594","Bonita Beach--Access #10","2025-06-29 07:30",2,26.3597359,-81.8602459,TRUE,FALSE,FALSE,"S255201217"
-"20","rudtur","Ruddy Turnstone","Arenaria interpres","L22577253","Oso Bay—Ocean Drive mud flats just E. of Texas A&M Corpus Christi campus","2025-06-29 07:17",7,27.7101193,-97.3150831,TRUE,FALSE,FALSE,"S255199354"
-"21","rudtur","Ruddy Turnstone","Arenaria interpres","L10223512","Paikō Lagoon Wildlife Sanctuary","2025-06-29 07:02",1,21.2832328,-157.7246194,TRUE,FALSE,FALSE,"S255334472"
-"22","rudtur","Ruddy Turnstone","Arenaria interpres","L210417","Pea Island NWR--Old Coast Guard Station","2025-06-29 07:01",3,35.767247,-75.522541,TRUE,FALSE,FALSE,"S255180649"
-"23","rudtur","Ruddy Turnstone","Arenaria interpres","L1794954","Assateague Is. km 9 - State Park fence","2025-06-29 07:00",1,38.2482921,-75.1334595,TRUE,FALSE,FALSE,"S255393273"
-"24","rudtur","Ruddy Turnstone","Arenaria interpres","L662521","Lowdermilk Park Beach","2025-06-29 06:40",5,26.1630071,-81.8102932,TRUE,FALSE,FALSE,"S255252769"
-"25","rudtur","Ruddy Turnstone","Arenaria interpres","L129061","Galveston--Apffel Park / East Beach (UTC 062)","2025-06-29 06:38",13,29.33169,-94.73242,TRUE,FALSE,FALSE,"S255201987"
-"26","rudtur","Ruddy Turnstone","Arenaria interpres","L725012","Dauphin Island--Audubon Bird Sanctuary","2025-06-29 06:17",2,30.2487987,-88.0864692,TRUE,FALSE,FALSE,"S255207501"
-"27","rudtur","Ruddy Turnstone","Arenaria interpres","L4115372","Eel Pond, Edgartown","2025-06-28 19:27",1,41.396849,-70.511165,TRUE,FALSE,FALSE,"S255030371"
-"28","rudtur","Ruddy Turnstone","Arenaria interpres","L577361","Salt Pond Beach Park","2025-06-28 16:30",8,21.8996151,-159.6055824,TRUE,FALSE,FALSE,"S255064899"
-"29","rudtur","Ruddy Turnstone","Arenaria interpres","L215343","Napatree Point","2025-06-28 16:14",1,41.3103371,-71.8743918,TRUE,FALSE,FALSE,"S255000153"
-"30","rudtur","Ruddy Turnstone","Arenaria interpres","L48765127","Wood Island, Kittery US-ME (43.0640,-70.6976)","2025-06-28 16:12",1,43.063976,-70.697579,TRUE,FALSE,TRUE,"S255414958"
-"31","rudtur","Ruddy Turnstone","Arenaria interpres","L48668892","Sheep Islands US-NC (34.5805,-76.5312)","2025-06-28 15:40",1,34.58049,-76.531216,TRUE,FALSE,TRUE,"S254993536"
-"32","rudtur","Ruddy Turnstone","Arenaria interpres","L225431","Hayward Regional Shoreline","2025-06-28 13:30",1,37.6419316,-122.1517012,TRUE,FALSE,FALSE,"S255070958"
-"33","rudtur","Ruddy Turnstone","Arenaria interpres","L44155621","Side Channel Islands","2025-06-28 13:26",1,27.324675,-97.38825,TRUE,FALSE,TRUE,"S255261588"
-"34","rudtur","Ruddy Turnstone","Arenaria interpres","L15807537","16871 Dauphin Island Pkwy, Coden US-AL (30.3415,-88.1262)","2025-06-28 13:12",2,30.341489,-88.126183,TRUE,FALSE,TRUE,"S255024315"
-"35","rudtur","Ruddy Turnstone","Arenaria interpres","L2573474","Oregon Inlet South Rock Jetty","2025-06-28 12:19",9,35.7732576,-75.5264568,TRUE,FALSE,FALSE,"S254935097"
-"36","rudtur","Ruddy Turnstone","Arenaria interpres","L48681209","Waikoloa Beach","2025-06-28 12:00",1,19.925502,-155.868736,TRUE,FALSE,TRUE,"S255044245"
-"37","rudtur","Ruddy Turnstone","Arenaria interpres","L5156578","Jemison's Bait N Tackle","2025-06-28 11:50",2,30.3411173,-88.1263296,TRUE,FALSE,TRUE,"S254927085"
-"38","rudtur","Ruddy Turnstone","Arenaria interpres","L109217","Milford Point — Sandbars","2025-06-28 11:49",1,41.1725812,-73.1003666,TRUE,FALSE,FALSE,"S254909464"
-"39","rudtur","Ruddy Turnstone","Arenaria interpres","L127422","Crandon Park","2025-06-28 11:26",15,25.7089712,-80.1536322,TRUE,FALSE,FALSE,"S254984900"
-"40","rudtur","Ruddy Turnstone","Arenaria interpres","L14420278","Chester Island Bird Sanctuary (restricted access)","2025-06-28 11:25",1,28.4507003,-96.3484675,TRUE,FALSE,FALSE,"S254991350"
-"41","rudtur","Ruddy Turnstone","Arenaria interpres","L12024435","Quintana Island (General) East of FM1495","2025-06-28 11:13",1,28.9341129,-95.3096758,TRUE,FALSE,FALSE,"S254918693"
-"42","rudtur","Ruddy Turnstone","Arenaria interpres","L48637301","Horsepen Point CW Rush Island","2025-06-28 10:51",1,34.6817006,-76.4947044,TRUE,FALSE,TRUE,"S254876354"
-"43","rudtur","Ruddy Turnstone","Arenaria interpres","L164929","Bolsa Chica Ecological Reserve","2025-06-28 10:48",1,33.7026531,-118.050735,TRUE,FALSE,FALSE,"S255093979"
-"44","rudtur","Ruddy Turnstone","Arenaria interpres","L48679339","Restoration lagoon, Dauphin Island Pkwy, Coden","2025-06-28 10:46",2,30.34261,-88.125707,TRUE,FALSE,TRUE,"S255036362"
-"45","rudtur","Ruddy Turnstone","Arenaria interpres","L298379","Hammonasset Beach SP","2025-06-28 10:35",1,41.2619859,-72.5548234,TRUE,FALSE,FALSE,"S254991940"
-"46","rudtur","Ruddy Turnstone","Arenaria interpres","L48670324","Horsepen Point CW: Auto selected 34.68107, -76.48021","2025-06-28 10:13",1,34.681074,-76.480207,TRUE,FALSE,TRUE,"S254999218"
-"47","rudtur","Ruddy Turnstone","Arenaria interpres","L447002","Boca Chica Rd.","2025-06-28 09:10",6,24.5660155,-81.6732337,TRUE,FALSE,FALSE,"S254841282"
-"48","rudtur","Ruddy Turnstone","Arenaria interpres","L48657971","Jemison’s Bait Shop, Coden US-AL","2025-06-28 08:50",2,30.34213,-88.12591,TRUE,FALSE,TRUE,"S254953674"
-"49","rudtur","Ruddy Turnstone","Arenaria interpres","L450544","Matagorda Bay Nature Park/Jetty (CTC 003)","2025-06-28 08:46",5,28.5976351,-95.9782791,TRUE,FALSE,FALSE,"S254861331"
-"50","rudtur","Ruddy Turnstone","Arenaria interpres","L13125903","Huguenot Memorial Park, Jacksonville US-FL 30.41040, -81.42058","2025-06-28 08:34",12,30.410404,-81.420579,TRUE,FALSE,TRUE,"S255178866"
-"51","rudtur","Ruddy Turnstone","Arenaria interpres","L1265319","Cape Henlopen SP--The Point","2025-06-28 08:04",10,38.8000272,-75.092376,TRUE,FALSE,FALSE,"S254818255"
-"52","rudtur","Ruddy Turnstone","Arenaria interpres","L570100","Gamble Rogers SP","2025-06-28 08:00",6,29.4388501,-81.1086273,TRUE,FALSE,FALSE,"S254903176"
-"53","rudtur","Ruddy Turnstone","Arenaria interpres","L48676501","T.H. Stone Memorial St. Joseph Peninsula State Park west beach","2025-06-28 07:45",3,29.773909,-85.407453,TRUE,FALSE,TRUE,"S255024130"
-"54","rudtur","Ruddy Turnstone","Arenaria interpres","L855856","Stump Pass Beach SP","2025-06-28 07:09",6,26.9022934,-82.346805,TRUE,FALSE,FALSE,"S254803038"
-"55","rudtur","Ruddy Turnstone","Arenaria interpres","L871818","North Lido Beach Park","2025-06-28 07:08",5,27.3167045,-82.583995,TRUE,FALSE,FALSE,"S255028466"
-"56","rudtur","Ruddy Turnstone","Arenaria interpres","L1165694","Bolsa Chica--walkbridge/inner bay","2025-06-28 07:00",1,33.6965128,-118.0451372,TRUE,FALSE,FALSE,"S255059562"
-"57","rudtur","Ruddy Turnstone","Arenaria interpres","L109216","Milford Point, CT Audubon","2025-06-28 06:51",1,41.1754303,-73.1032485,TRUE,FALSE,FALSE,"S254832718"
-"58","rudtur","Ruddy Turnstone","Arenaria interpres","L39842318","Jones Park, Gulfport","2025-06-28 06:04",1,30.365352,-89.08864,TRUE,FALSE,TRUE,"S254779109"
-"59","rudtur","Ruddy Turnstone","Arenaria interpres","L19201954","Redington Shores public beach","2025-06-27 18:47",5,27.83178,-82.834467,TRUE,FALSE,TRUE,"S255057230"
-"60","rudtur","Ruddy Turnstone","Arenaria interpres","L4929734","Redington Beach & Pier","2025-06-27 17:09",10,27.8185821,-82.8252772,TRUE,FALSE,FALSE,"S254659063"
-"61","rudtur","Ruddy Turnstone","Arenaria interpres","L15210138","Marsh Point, Warwick","2025-06-27 16:36",3,41.65971,-71.41081,TRUE,FALSE,FALSE,"S254658195"
-"62","rudtur","Ruddy Turnstone","Arenaria interpres","L387957","Pearl Harbor NWR--Honouliuli Unit (restricted access)","2025-06-27 16:10",9,21.3567,-158.0194,TRUE,FALSE,FALSE,"S254994468"
-"63","rudtur","Ruddy Turnstone","Arenaria interpres","L129079","San Luis Pass (Galveston Co.)(UTC 071)","2025-06-27 15:23",2,29.0892519,-95.1187706,TRUE,FALSE,FALSE,"S254643341"
-"64","rudtur","Ruddy Turnstone","Arenaria interpres","L3626792","Huguenot State Park","2025-06-27 15:14",1,30.41588,-81.41007,TRUE,FALSE,TRUE,"S254634520"
-"65","rudtur","Ruddy Turnstone","Arenaria interpres","L291444","Quintana Beach & Jetty (UTC122)","2025-06-27 14:45",2,28.9343,-95.2987,TRUE,FALSE,FALSE,"S254638766"
-"66","rudtur","Ruddy Turnstone","Arenaria interpres","L22145235","8408 SR-A1A, St. Augustine US-FL (29.7246,-81.2350)","2025-06-27 13:40",4,29.724571,-81.235033,TRUE,FALSE,TRUE,"S254596675"
-"67","rudtur","Ruddy Turnstone","Arenaria interpres","L8297812","16871 Dauphin Island Pkwy, Coden US-AL (30.3417,-88.1262)","2025-06-27 12:50",1,30.341719,-88.126211,TRUE,FALSE,TRUE,"S254704716"
-"68","rudtur","Ruddy Turnstone","Arenaria interpres","L616741","West Island, Fairhaven","2025-06-27 12:19",3,41.5941348,-70.8298016,TRUE,FALSE,FALSE,"S254573443"
-"69","rudtur","Ruddy Turnstone","Arenaria interpres","L35380816","Matagorda Peninsula","2025-06-27 11:01",4,28.634111,-95.8831737,TRUE,FALSE,TRUE,"S254577139"
-"70","rudtur","Ruddy Turnstone","Arenaria interpres","L248017","Bolivar Flats Shorebird Sanctuary","2025-06-27 10:47",4,29.3711371,-94.7287083,TRUE,FALSE,FALSE,"S254689343"
-"71","rudtur","Ruddy Turnstone","Arenaria interpres","L129046","Parker River NWR","2025-06-27 09:15",2,42.7639008,-70.8022995,TRUE,FALSE,FALSE,"S254646161"
-"72","rudtur","Ruddy Turnstone","Arenaria interpres","L2372899","Island Beach SP--Southern Natural Area (A23 to inlet)","2025-06-27 08:27",1,39.7776269,-74.0953363,TRUE,FALSE,FALSE,"S254583056"
-"73","rudtur","Ruddy Turnstone","Arenaria interpres","L9379841","Plum Tree Island NWR (restricted access)","2025-06-27 08:19",1,37.121984,-76.297572,TRUE,TRUE,FALSE,"S254677160"
-"74","rudtur","Ruddy Turnstone","Arenaria interpres","L2618136","Dauphin Island Causeway","2025-06-27 07:54",1,30.2932775,-88.1309509,TRUE,FALSE,FALSE,"S254526204"
-"75","rudtur","Ruddy Turnstone","Arenaria interpres","L777236","Elmer's Island","2025-06-27 07:40",2,29.1940358,-90.075531,TRUE,FALSE,FALSE,"S254674051"
-"76","rudtur","Ruddy Turnstone","Arenaria interpres","L126644","Cape Henlopen State Park","2025-06-27 07:34",3,38.7714636,-75.086344,TRUE,FALSE,FALSE,"S254546541"
-"77","rudtur","Ruddy Turnstone","Arenaria interpres","L48548022","Styron Bay CW  (34.807, -76.368)","2025-06-27 07:31",1,34.8071006,-76.3680338,TRUE,FALSE,TRUE,"S254488642"
-"78","rudtur","Ruddy Turnstone","Arenaria interpres","L1252852","ACBS surveys ONLY! - Holly Beach","2025-06-27 06:30",1,29.7699094,-93.4636331,TRUE,FALSE,FALSE,"S254683082"
-"79","rudtur","Ruddy Turnstone","Arenaria interpres","L304911","Hunting Island SP","2025-06-27 06:04",4,32.3662326,-80.4500152,TRUE,FALSE,FALSE,"S254571604"
-"80","rudtur","Ruddy Turnstone","Arenaria interpres","L16325369","32951, Melbourne Beach US-FL 28.00059, -80.52447","2025-06-27 06:00",13,28.000587,-80.524465,TRUE,FALSE,TRUE,"S254480673"
-"81","rudtur","Ruddy Turnstone","Arenaria interpres","L48529763","Styron Bay CW South Core OBX","2025-06-26 18:50",3,34.8266002,-76.3479055,TRUE,FALSE,TRUE,"S254406256"
-"82","rudtur","Ruddy Turnstone","Arenaria interpres","L771306","Jarvis Sound","2025-06-26 18:06",1,38.967751,-74.8683929,TRUE,FALSE,FALSE,"S254400313"
-"83","rudtur","Ruddy Turnstone","Arenaria interpres","L18739228","Fossilized Reef","2025-06-26 16:36",22,25.7263798,-80.1484823,TRUE,FALSE,FALSE,"S254365565"
-"84","rudtur","Ruddy Turnstone","Arenaria interpres","L30724656","Mānā Plains Forest Reserve Wetland","2025-06-26 15:53",7,22.0140235,-159.7736478,TRUE,FALSE,FALSE,"S254446053"
-"85","rudtur","Ruddy Turnstone","Arenaria interpres","L727323","LUMCON--Cocodrie","2025-06-26 15:27",2,29.25457,-90.66138,TRUE,FALSE,FALSE,"S254349803"
-"86","rudtur","Ruddy Turnstone","Arenaria interpres","L42982670","16001–16695 Dauphin Island Pkwy, Coden US-AL 30.34682, -88.12348","2025-06-26 13:39",3,30.346817,-88.123476,TRUE,FALSE,TRUE,"S254504240"
-"87","rudtur","Ruddy Turnstone","Arenaria interpres","L47537437","USFWS Eider Project Survey Area","2025-06-26 10:33",1,71.275283,-156.685523,TRUE,FALSE,TRUE,"S254728105"
-"88","rudtur","Ruddy Turnstone","Arenaria interpres","L13312929","Japanese Fishing Shrine","2025-06-26 10:25",NA,21.2804135,-157.6785623,TRUE,FALSE,FALSE,"S254347951"
-"89","rudtur","Ruddy Turnstone","Arenaria interpres","L1296469","West Ship Island","2025-06-26 10:10",4,30.2122016,-88.9542389,TRUE,FALSE,FALSE,"S254393742"
-"90","rudtur","Ruddy Turnstone","Arenaria interpres","L910949","Harbor Island (restricted access)","2025-06-26 09:50",2,32.4050699,-80.4330345,TRUE,FALSE,FALSE,"S254366594"
-"91","rudtur","Ruddy Turnstone","Arenaria interpres","L29733341","Nueces Bay Causeway Turnaround","2025-06-26 09:41",3,27.8521338,-97.3596402,TRUE,FALSE,TRUE,"S254270901"
-"92","rudtur","Ruddy Turnstone","Arenaria interpres","L127324","Honeymoon Island SP","2025-06-26 09:30",11,28.0706,-82.8314,TRUE,FALSE,FALSE,"S254283112"
-"93","rudtur","Ruddy Turnstone","Arenaria interpres","L129107","Texas City Dike (UTC 074)","2025-06-26 08:53",3,29.3838952,-94.867115,TRUE,FALSE,FALSE,"S254290214"
-"94","rudtur","Ruddy Turnstone","Arenaria interpres","L48185434","16701–16839 Dauphin Island Pkwy, Coden US-AL (30.3425,-88.1251)","2025-06-26 08:34",3,30.342463,-88.125104,TRUE,FALSE,TRUE,"S254271653"
-"95","rudtur","Ruddy Turnstone","Arenaria interpres","L20544443","Cape Fear RiverWest Beach Access 1 North, Bald Head Island US-NC 33.88278, -77.99609","2025-06-26 08:20",6,33.882783,-77.996093,TRUE,FALSE,TRUE,"S254263793"
-"96","rudtur","Ruddy Turnstone","Arenaria interpres","L127287","Fort Clinch SP","2025-06-26 07:57",2,30.6979,-81.4314,TRUE,FALSE,FALSE,"S254219494"
-"97","rudtur","Ruddy Turnstone","Arenaria interpres","L5296421","Keālia Pond NWR--Kanuimanu Aquaculture Ponds","2025-06-26 07:55",3,20.7942326,-156.4721882,TRUE,FALSE,FALSE,"S254313902"
-"98","rudtur","Ruddy Turnstone","Arenaria interpres","L20623576","Jemison’s Bait Shop","2025-06-26 07:30",3,30.341304,-88.126065,TRUE,FALSE,TRUE,"S254239887"
-"99","rudtur","Ruddy Turnstone","Arenaria interpres","L616660","Huntington Beach SP--North Beach/Jetty/Dunes Trail","2025-06-26 07:24",2,33.5253779,-79.0367106,TRUE,FALSE,FALSE,"S254262866"
-"100","rudtur","Ruddy Turnstone","Arenaria interpres","L48405300","Salt Creek Beach Park and Beach Route, Dana Point US-CA 33.47556, -117.72153","2025-06-26 07:24",1,33.475556,-117.721527,TRUE,FALSE,TRUE,"S254340321"
-"101","rudtur","Ruddy Turnstone","Arenaria interpres","L2222767","Utqiaġvik--Middle Salt Lagoon (S end)","2025-06-26 06:30",1,71.3051952,-156.6897583,TRUE,FALSE,FALSE,"S255304656"
-"102","rudtur","Ruddy Turnstone","Arenaria interpres","L792647","Pea Island NWR--Salt Flats","2025-06-26 06:15",3,35.7423325,-75.5069733,TRUE,FALSE,FALSE,"S254314512"
-"103","rudtur","Ruddy Turnstone","Arenaria interpres","L444827","Parker River NWR--Lot 1","2025-06-26 05:59",1,42.7897793,-70.8091271,TRUE,FALSE,FALSE,"S254371758"
-"104","rudtur","Ruddy Turnstone","Arenaria interpres","L11115640","Hunting Island SP--Lighthouse & North Beach","2025-06-26 05:39",19,32.3755398,-80.4372597,TRUE,FALSE,FALSE,"S254266325"
-"105","rudtur","Ruddy Turnstone","Arenaria interpres","L473168","Cape Hatteras NS--Cape Point","2025-06-25 19:48",1,35.2234655,-75.5286026,TRUE,FALSE,FALSE,"S254145823"
-"106","rudtur","Ruddy Turnstone","Arenaria interpres","L18323368","990 Scott Drive, Marco Island, Florida, US (25.909, -81.696)","2025-06-25 18:46",2,25.9094057,-81.6957217,TRUE,FALSE,TRUE,"S254111454"
-"107","rudtur","Ruddy Turnstone","Arenaria interpres","L6464647","16871 Dauphin Island Pkwy, Coden US-AL (30.3413,-88.1262)","2025-06-25 17:00",1,30.34128,-88.126237,TRUE,FALSE,TRUE,"S254126241"
-"108","rudtur","Ruddy Turnstone","Arenaria interpres","L654719","Monomoy NWR--Minimoy Island (restricted access)","2025-06-25 16:08",3,41.6155707,-69.9987888,TRUE,FALSE,FALSE,"S254289939"
-"109","rudtur","Ruddy Turnstone","Arenaria interpres","L422541","Leonabelle Turnbull Birding Ctr. (CTC 057)","2025-06-25 15:40",4,27.8275297,-97.0789558,TRUE,FALSE,FALSE,"S254099363"
-"110","rudtur","Ruddy Turnstone","Arenaria interpres","L458847","Saint Catherines Island (no public access)","2025-06-25 15:00",2,31.6349532,-81.1536884,TRUE,FALSE,FALSE,"S255272863"
-"111","rudtur","Ruddy Turnstone","Arenaria interpres","L19410240","Monomoy NWR--Connector Beach","2025-06-25 14:32",2,41.6018141,-69.9821526,TRUE,FALSE,FALSE,"S254307038"
-"112","rudtur","Ruddy Turnstone","Arenaria interpres","L9965931","Anastasia SP--Salt Run","2025-06-25 13:21",18,29.8707018,-81.2740243,TRUE,FALSE,FALSE,"S254090707"
-"113","rudtur","Ruddy Turnstone","Arenaria interpres","L190286","Pea Island NWR","2025-06-25 10:45",4,35.66591,-75.4799,TRUE,FALSE,FALSE,"S254164991"
-"114","rudtur","Ruddy Turnstone","Arenaria interpres","L572555","Padre Isl. NS (Kenedy Co.)","2025-06-25 10:34",9,27.2381472,-97.3587799,TRUE,FALSE,FALSE,"S254047206"
-"115","rudtur","Ruddy Turnstone","Arenaria interpres","L1885863","North Captiva","2025-06-25 09:56",12,26.5857877,-82.2149725,TRUE,FALSE,FALSE,"S254012373"
-"116","rudtur","Ruddy Turnstone","Arenaria interpres","L4326200","Padre Isl. NS--Beach S. of Visitor center (Kleberg Co.)","2025-06-25 09:51",3,27.4057949,-97.3054147,TRUE,FALSE,FALSE,"S254045477"
-"117","rudtur","Ruddy Turnstone","Arenaria interpres","L17985986","Rookery Bay NERR--Dickman’s Island","2025-06-25 09:46",1,25.901526,-81.715901,TRUE,FALSE,FALSE,"S253972244"
-"118","rudtur","Ruddy Turnstone","Arenaria interpres","L43949020","Little Cumberland Island","2025-06-25 07:51",1,30.937329,-81.412231,TRUE,FALSE,TRUE,"S253934037"
-"119","rudtur","Ruddy Turnstone","Arenaria interpres","L301036","San Carlos Bay/Bunche Beach Preserve","2025-06-25 07:35",1,26.476174,-81.9673795,TRUE,FALSE,FALSE,"S253942419"
-"120","rudtur","Ruddy Turnstone","Arenaria interpres","L48405748","Dauphin Island Mudflats","2025-06-25 07:29",4,30.341615,-88.126503,TRUE,FALSE,TRUE,"S253975725"
-"121","rudtur","Ruddy Turnstone","Arenaria interpres","L1050808","Bogue Inlet","2025-06-25 06:58",6,34.6444855,-77.1039562,TRUE,FALSE,FALSE,"S253952002"
-"122","rudtur","Ruddy Turnstone","Arenaria interpres","L17115171","Hunting Island SP--North Spit","2025-06-25 06:22",12,32.3944722,-80.426661,TRUE,FALSE,FALSE,"S253955796"
-"123","rudtur","Ruddy Turnstone","Arenaria interpres","L7862623","15870 Alabama's Coastal Connection, Coden, Alabama, US (30.346, -88.124)","2025-06-25 05:47",1,30.3458678,-88.1240345,TRUE,FALSE,TRUE,"S253938626"
-"124","rudtur","Ruddy Turnstone","Arenaria interpres","L479571","Wharton Point, Brunswick","2025-06-24 19:05",1,43.8675956,-69.9933701,TRUE,FALSE,FALSE,"S253844263"
-"125","rudtur","Ruddy Turnstone","Arenaria interpres","L127288","Little Talbot Island SP","2025-06-24 15:38",2,30.460105,-81.4154828,TRUE,FALSE,FALSE,"S253837039"
-"126","rudtur","Ruddy Turnstone","Arenaria interpres","L32132973","15904–16664 Dauphin Island Pkwy, Coden US-AL 30.35122, -88.12126","2025-06-24 15:24",1,30.351215,-88.121255,TRUE,FALSE,TRUE,"S253865784"
-"127","rudtur","Ruddy Turnstone","Arenaria interpres","L127398","Point Ybel Lighthouse Beach Park","2025-06-24 15:06",1,26.4520609,-82.0151281,TRUE,FALSE,FALSE,"S253794391"
-"128","rudtur","Ruddy Turnstone","Arenaria interpres","L2395814","Saint Catherines Island--Section 1 (no public access)","2025-06-24 14:00",4,31.6915852,-81.139183,TRUE,FALSE,FALSE,"S253800416"
-"129","rudtur","Ruddy Turnstone","Arenaria interpres","L566310","Cupsogue Beach County Park","2025-06-24 11:20",NA,40.7713119,-72.7373457,TRUE,FALSE,FALSE,"S253766750"
-"130","rudtur","Ruddy Turnstone","Arenaria interpres","L1423930","*DI Causeway","2025-06-24 11:00",3,30.3347445,-88.1295727,TRUE,FALSE,TRUE,"S253834493"
-"131","rudtur","Ruddy Turnstone","Arenaria interpres","L597862","Rutherford Beach","2025-06-24 09:30",1,29.7584911,-93.1245375,TRUE,FALSE,FALSE,"S253794225"
-"132","rudtur","Ruddy Turnstone","Arenaria interpres","L788322","Padre Balli Park","2025-06-24 09:24",2,27.5850568,-97.2181892,TRUE,FALSE,FALSE,"S253807894"
-"133","rudtur","Ruddy Turnstone","Arenaria interpres","L458906","Sand Key Park","2025-06-24 08:46",13,27.960064,-82.8294897,TRUE,FALSE,FALSE,"S253688000"
-"134","rudtur","Ruddy Turnstone","Arenaria interpres","L713834","Padre Isl. NS- Malaquite Beach/Visitor Ctr. area","2025-06-24 08:23",2,27.4244237,-97.2973251,TRUE,FALSE,FALSE,"S253804025"
-"135","rudtur","Ruddy Turnstone","Arenaria interpres","L150425","Cumberland Island National Seashore (please consider using more specific locations)","2025-06-24 07:35",2,30.8517,-81.4447,TRUE,FALSE,FALSE,"S253735200"
-"136","rudtur","Ruddy Turnstone","Arenaria interpres","L448001","Fort Pulaski NM","2025-06-24 07:24",1,32.0286983,-80.8897483,TRUE,FALSE,FALSE,"S253686318"
-"137","rudtur","Ruddy Turnstone","Arenaria interpres","L1076142","Kealakehe Wastewater Treatment Plant","2025-06-24 06:54",1,19.6621002,-156.0179014,TRUE,FALSE,FALSE,"S253748851"
-"138","rudtur","Ruddy Turnstone","Arenaria interpres","L19138652","Residents Beach Marco","2025-06-24 06:18",2,25.9356971,-81.7343155,TRUE,FALSE,TRUE,"S253652879"
-"139","rudtur","Ruddy Turnstone","Arenaria interpres","L159367","Parramore Island","2025-06-24 06:10",2,37.5366,-75.6349,TRUE,FALSE,FALSE,"S254062791"
-"140","rudtur","Ruddy Turnstone","Arenaria interpres","L5281758","Harbor Island Beach (restricted access)","2025-06-24 06:10",25,32.4041792,-80.4275179,TRUE,TRUE,FALSE,"S253649567"
-"141","rudtur","Ruddy Turnstone","Arenaria interpres","L473315","Stratton Island","2025-06-24 06:00",3,43.5046746,-70.3116417,TRUE,FALSE,FALSE,"S253831515"
-"142","rudtur","Ruddy Turnstone","Arenaria interpres","L25725185","Auto selected 28.00287, -80.52558","2025-06-24 05:52",3,28.002865,-80.525581,TRUE,FALSE,TRUE,"S253640668"
-"143","rudtur","Ruddy Turnstone","Arenaria interpres","L48028373","Restricted Area, North Slope","2025-06-24",NA,70.301232,-151.1378029,TRUE,FALSE,TRUE,"S253861743"
-"144","rudtur","Ruddy Turnstone","Arenaria interpres","L1579238","Utqiaġvik--Cakeeater Rd.","2025-06-23 21:30",2,71.2879072,-156.6631195,TRUE,FALSE,FALSE,"S254146076"
-"145","rudtur","Ruddy Turnstone","Arenaria interpres","L48345124","Sandy Beach Park, East Honolulu US-HI 21.28635, -157.67116","2025-06-23 15:40",2,21.28635,-157.671155,TRUE,FALSE,TRUE,"S253584048"
-"146","rudtur","Ruddy Turnstone","Arenaria interpres","L2395827","Saint Catherines Island--Section 5 (no public access)","2025-06-23 14:00",8,31.5942357,-81.1525726,TRUE,FALSE,FALSE,"S253523582"
-"147","rudtur","Ruddy Turnstone","Arenaria interpres","L286004","Deer Island","2025-06-23 12:33",1,30.3847226,-88.8718414,TRUE,FALSE,FALSE,"S253509737"
-"148","rudtur","Ruddy Turnstone","Arenaria interpres","L231988","Kathryn Abbey Hanna Park","2025-06-23 12:09",1,30.3713664,-81.4073128,TRUE,FALSE,FALSE,"S253482705"
-"149","rudtur","Ruddy Turnstone","Arenaria interpres","L584788","Hudson Beach Park","2025-06-23 10:46",2,28.3627699,-82.7099866,TRUE,FALSE,FALSE,"S253469441"
-"150","rudtur","Ruddy Turnstone","Arenaria interpres","L130769","Mustang Island SP (CTC 060)","2025-06-23 09:34",1,27.6651173,-97.179512,TRUE,FALSE,FALSE,"S253586249"
-"151","rudtur","Ruddy Turnstone","Arenaria interpres","L405340","Marco Island--Tiger Tail Beach","2025-06-23 09:25",5,25.948098,-81.74456,TRUE,FALSE,FALSE,"S253463086"
-"152","rudtur","Ruddy Turnstone","Arenaria interpres","L4013926","SunWest Park","2025-06-23 09:15",1,28.4049115,-82.6717544,TRUE,FALSE,FALSE,"S253468032"
-"153","rudtur","Ruddy Turnstone","Arenaria interpres","L4984753","3-D Spoil Island (Restricted Access)","2025-06-23 08:30",12,27.8316379,-82.4346256,TRUE,FALSE,FALSE,"S253799799"
-"154","rudtur","Ruddy Turnstone","Arenaria interpres","L12103982","Honeymoon Island State Park","2025-06-23 08:17",NA,28.0640812,-82.8303986,TRUE,FALSE,TRUE,"S253572096"
-"155","rudtur","Ruddy Turnstone","Arenaria interpres","L207373","Great Sippewisett Marsh and Black Beach","2025-06-23 08:06",9,41.5890703,-70.6442209,TRUE,FALSE,FALSE,"S253404645"
-"156","rudtur","Ruddy Turnstone","Arenaria interpres","L48298302","2949 W Gulf Dr, Sanibel US-FL (26.4234,-82.0922)","2025-06-23 07:49",NA,26.423354,-82.092241,TRUE,FALSE,TRUE,"S253383697"
-"157","rudtur","Ruddy Turnstone","Arenaria interpres","L4209447","Ninigret Pond Mudflats (east of the breach)","2025-06-23 07:45",1,41.3644898,-71.637404,TRUE,FALSE,FALSE,"S253464382"
-"158","rudtur","Ruddy Turnstone","Arenaria interpres","L506856","Eastern Egg Rock (island vicinity ONLY, please do NOT include mainland starting points)","2025-06-23 07:36",1,43.8618863,-69.382224,TRUE,FALSE,FALSE,"S253577257"
-"159","rudtur","Ruddy Turnstone","Arenaria interpres","L20390179","South Seas West","2025-06-23 07:15",4,25.943742,-81.738083,TRUE,FALSE,TRUE,"S253393460"
-"160","rudtur","Ruddy Turnstone","Arenaria interpres","L48298477","4005 SR-A1A, Melbourne Beach US-FL (28.0110,-80.5303)","2025-06-23 07:08",25,28.01098,-80.530273,TRUE,FALSE,TRUE,"S253384648"
-"161","rudtur","Ruddy Turnstone","Arenaria interpres","L35848423","123 Bayshore Way, Goodland US-FL 25.92737, -81.64642 (Crabby Flats)","2025-06-23 07:00",1,25.927372,-81.646422,TRUE,FALSE,TRUE,"S253482986"
-"162","rudtur","Ruddy Turnstone","Arenaria interpres","L4752807","US-FL-Marco Island-990 Scott Dr - 25.9094x-81.6957 - Jul 2, 2016, 7:56 AM","2025-06-23 06:30",3,25.909397,-81.695719,TRUE,FALSE,TRUE,"S253366881"
-"163","rudtur","Ruddy Turnstone","Arenaria interpres","L370434","Grand Isle--Grand Isle SP (East)","2025-06-23 06:12",3,29.2583098,-89.9574973,TRUE,FALSE,FALSE,"S253463382"
-"164","rudtur","Ruddy Turnstone","Arenaria interpres","L718480","Grandview Nature Preserve","2025-06-23 06:06",3,37.0869534,-76.2774324,TRUE,FALSE,FALSE,"S253465346"
-"165","rudtur","Ruddy Turnstone","Arenaria interpres","L12958534","Hall's Bayou Ranch (ABSOLUTELY NO PUBLIC ACCESS)","2025-06-23 06:06",4,29.2730599,-95.070902,TRUE,FALSE,FALSE,"S253445811"
-"166","rudtur","Ruddy Turnstone","Arenaria interpres","L15590777","Auto selected 28.00324, -80.52549","2025-06-23 06:02",11,28.003244,-80.525492,TRUE,FALSE,TRUE,"S253398181"
-"167","rudtur","Ruddy Turnstone","Arenaria interpres","L3647564","Metinic Island","2025-06-23 05:49",1,43.8874083,-69.1246676,TRUE,FALSE,FALSE,"S253565500"
-"168","rudtur","Ruddy Turnstone","Arenaria interpres","L1642495","Simpson's Point Landing, Brunswick","2025-06-23 05:37",1,43.8517819,-69.9734024,TRUE,FALSE,FALSE,"S253387297"
-"169","rudtur","Ruddy Turnstone","Arenaria interpres","L3234386","Hwy 193 just north of Jemison's","2025-06-22 18:35",1,30.3383615,-88.1276894,TRUE,FALSE,TRUE,"S255039079"
-"170","rudtur","Ruddy Turnstone","Arenaria interpres","L1571602","DuPont Nature Center--Back Beach (Kent Co.)","2025-06-22 16:36",3,38.9507369,-75.3139224,TRUE,FALSE,FALSE,"S253263250"
-"171","rudtur","Ruddy Turnstone","Arenaria interpres","L770565","South Padre Is.--Birding and Nature Center","2025-06-22 16:15",2,26.1374628,-97.1739367,TRUE,FALSE,FALSE,"S253286867"
-"172","rudtur","Ruddy Turnstone","Arenaria interpres","L474155","Atlantic Beach (village, beach & bay)","2025-06-22 15:57",1,40.5892867,-73.7293737,TRUE,FALSE,FALSE,"S253263683"
-"173","rudtur","Ruddy Turnstone","Arenaria interpres","L1214940","Utqiaġvik (town; please use a more specific location)","2025-06-22 15:30",2,71.2906914,-156.7885494,TRUE,FALSE,FALSE,"S253338446"
-"174","rudtur","Ruddy Turnstone","Arenaria interpres","L207462","Wellfleet Bay Wildlife Sanctuary (Mass Audubon)","2025-06-22 15:12",1,41.8825315,-69.995712,TRUE,FALSE,FALSE,"S253312533"
-"175","rudtur","Ruddy Turnstone","Arenaria interpres","L508149","Nickerson Beach","2025-06-22 13:10",1,40.5871823,-73.6024,TRUE,FALSE,FALSE,"S253187098"
-"176","rudtur","Ruddy Turnstone","Arenaria interpres","L48253894","San Luis Island, Freeport US-TX 29.01773, -95.19953","2025-06-22 12:59",2,29.017727,-95.199531,TRUE,FALSE,TRUE,"S253187758"
-"177","rudtur","Ruddy Turnstone","Arenaria interpres","L129067","Rollover Pass (UTC 056)","2025-06-22 12:45",1,29.5100602,-94.5008326,TRUE,FALSE,FALSE,"S253177310"
-"178","rudtur","Ruddy Turnstone","Arenaria interpres","L1340108","Bolivar Flats Shorebird Sanctuary--17th Str. Jetty","2025-06-22 12:20",4,29.3681375,-94.7474419,TRUE,FALSE,FALSE,"S253176003"
-"179","rudtur","Ruddy Turnstone","Arenaria interpres","L42446868","Central Ave, Grand Isle area","2025-06-22 11:28",1,29.207034,-90.053276,TRUE,FALSE,TRUE,"S253210688"
-"180","rudtur","Ruddy Turnstone","Arenaria interpres","L801773","Broussard Beach (Willow Island entrance to W end)","2025-06-22 10:53",5,29.7766703,-93.2781315,TRUE,FALSE,FALSE,"S253306590"
-"181","rudtur","Ruddy Turnstone","Arenaria interpres","L5744252","Dr. Von D. Mizell-Eula Johnson SP","2025-06-22 10:45",7,26.0711624,-80.1124978,TRUE,FALSE,FALSE,"S253232959"
-"182","rudtur","Ruddy Turnstone","Arenaria interpres","L484987","Bald Point SP","2025-06-22 10:05",12,29.9377826,-84.3381304,TRUE,FALSE,FALSE,"S253377572"
-"183","rudtur","Ruddy Turnstone","Arenaria interpres","L31402283","Horseshoe Island","2025-06-22 09:53",4,39.473563,-74.307075,TRUE,FALSE,TRUE,"S253129228"
-"184","rudtur","Ruddy Turnstone","Arenaria interpres","L126170","Cape San Blas","2025-06-22 08:31",2,29.6664119,-85.3489208,TRUE,FALSE,FALSE,"S253064709"
-"185","rudtur","Ruddy Turnstone","Arenaria interpres","L29976200","Lea-Hutaff Island_Hampstead SW","2025-06-22 07:37",1,34.312066,-77.698827,TRUE,FALSE,TRUE,"S253775250"
-"186","rudtur","Ruddy Turnstone","Arenaria interpres","L4375146","Skyway North Rest Area & Pier (Pinellas co.)","2025-06-22 07:23",3,27.6544141,-82.6768398,TRUE,FALSE,FALSE,"S253063565"
-"187","rudtur","Ruddy Turnstone","Arenaria interpres","L5751970","St. Pete Beach","2025-06-22 07:18",3,27.7262348,-82.7438736,TRUE,FALSE,FALSE,"S253071113"
-"188","rudtur","Ruddy Turnstone","Arenaria interpres","L48367024","16001–16695 Dauphin Island Pkwy, Coden US-AL (30.3448,-88.1239)","2025-06-22 06:09",12,30.344783,-88.123864,TRUE,FALSE,TRUE,"S253692338"
-"189","rudtur","Ruddy Turnstone","Arenaria interpres","L557007","Cape Hatteras NS--Salt Pond","2025-06-21 18:28",2,35.2300561,-75.5322504,TRUE,FALSE,FALSE,"S252913329"
-"190","rudtur","Ruddy Turnstone","Arenaria interpres","L852706","West Ocean City--Hooper's Restaurant (private)","2025-06-21 17:35",2,38.3348566,-75.098505,TRUE,FALSE,FALSE,"S253057306"
-"191","rudtur","Ruddy Turnstone","Arenaria interpres","L48169876","Fort de Soto Fishing Pier","2025-06-21 14:40",1,27.613157,-82.73694,TRUE,FALSE,TRUE,"S252826914"
-"192","rudtur","Ruddy Turnstone","Arenaria interpres","L48169458","16701–16839 Dauphin Island Pkwy, Coden US-AL 30.34262, -88.12572","2025-06-21 13:37",3,30.342617,-88.125719,TRUE,FALSE,TRUE,"S252825255"
-"193","rudtur","Ruddy Turnstone","Arenaria interpres","L2147852","Twin Rivers Park","2025-06-21 13:16",5,27.1637075,-80.181849,TRUE,FALSE,FALSE,"S252917056"
-"194","rudtur","Ruddy Turnstone","Arenaria interpres","L337347","Bowditch Point Park","2025-06-21 12:39",8,26.4643878,-81.9668484,TRUE,FALSE,FALSE,"S252825957"
-"195","rudtur","Ruddy Turnstone","Arenaria interpres","L14371670","Port Bolivar beach SE of  ferry landing","2025-06-21 12:09",1,29.3600366,-94.7760938,TRUE,FALSE,FALSE,"S252793174"
-"196","rudtur","Ruddy Turnstone","Arenaria interpres","L48178787","North Pond, Penikese Island MA US-MA (41.4523,-70.9207)","2025-06-21 11:00",2,41.452332,-70.920669,TRUE,FALSE,TRUE,"S252860080"
-"197","rudtur","Ruddy Turnstone","Arenaria interpres","L668623","Penikese Island","2025-06-21 11:00",2,41.4501894,-70.9212971,TRUE,FALSE,FALSE,"S253102736"
-"198","rudtur","Ruddy Turnstone","Arenaria interpres","L48015408","671 East Gulf Drive, Sanibel, Florida, US (26.442, -82.03)","2025-06-21 10:24",7,26.4422847,-82.0303166,TRUE,FALSE,TRUE,"S252768316"
-"199","rudtur","Ruddy Turnstone","Arenaria interpres","L48186258","North Beach","2025-06-21 09:00",3,27.643211,-82.740663,TRUE,FALSE,TRUE,"S252888900"
-"200","rudtur","Ruddy Turnstone","Arenaria interpres","L9577710","Napeague SP--Lazy Point","2025-06-21 08:52",25,41.0117351,-72.0589849,TRUE,FALSE,FALSE,"S252874451"
-"201","rudtur","Ruddy Turnstone","Arenaria interpres","L2778752","Sandy Point (Rhode Island)","2025-06-21 08:52",2,41.32191,-71.8820643,TRUE,FALSE,FALSE,"S253274687"
-"202","rudtur","Ruddy Turnstone","Arenaria interpres","L27904323","Old A1A Beach at Summer Haven","2025-06-21 08:05",7,29.6806933,-81.2205873,TRUE,FALSE,TRUE,"S252765692"
-"203","rudtur","Ruddy Turnstone","Arenaria interpres","L5109172","US-NC-Morehead-Atlantic Ocean - 34.6942x-76.7039","2025-06-21 07:50",2,34.694189,-76.703909,TRUE,FALSE,TRUE,"S252703890"
-"204","rudtur","Ruddy Turnstone","Arenaria interpres","L48135263","St George Island Beach 4E","2025-06-21 07:49",4,29.666075,-84.849351,TRUE,FALSE,TRUE,"S252688997"
-"205","rudtur","Ruddy Turnstone","Arenaria interpres","L18391993","Bocilla Island, Englewood US-FL 26.88433, -82.33426","2025-06-21 07:38",10,26.884334,-82.334257,TRUE,FALSE,TRUE,"S252699005"
-"206","rudtur","Ruddy Turnstone","Arenaria interpres","L714449","Villas--Miami Ave. beach","2025-06-21 07:15",4,39.0373447,-74.9368429,TRUE,FALSE,FALSE,"S252803955"
-"207","rudtur","Ruddy Turnstone","Arenaria interpres","L549315","DuPont Nature Center and Lighthouse Rd.","2025-06-21 07:02",1,38.947648,-75.314868,TRUE,FALSE,FALSE,"S252899640"
-"208","rudtur","Ruddy Turnstone","Arenaria interpres","L788324","Point Barrow--Base of the Point","2025-06-21 06:30",1,71.3434786,-156.6175384,TRUE,FALSE,FALSE,"S252771744"
-"209","rudtur","Ruddy Turnstone","Arenaria interpres","L16132371","Auto selected 28.00076, -80.52417","2025-06-21 06:22",5,28.000764,-80.524172,TRUE,FALSE,TRUE,"S252669151"
-"210","rudtur","Ruddy Turnstone","Arenaria interpres","L696197","Destin--west jetty","2025-06-21 05:33",2,30.3859072,-86.5164757,TRUE,FALSE,FALSE,"S252774732"
-"211","rudtur","Ruddy Turnstone","Arenaria interpres","L5993045","Utqiaġvik--South Salt Lagoons (south beach) & Nathaniel Olemaun Jr. Blvd. (NE end)","2025-06-20 22:19",1,71.3053603,-156.728797,TRUE,FALSE,FALSE,"S252605285"
-"212","rudtur","Ruddy Turnstone","Arenaria interpres","L44419726","Longboat Terrace beach, Longboat Key","2025-06-20 20:13",2,27.410138,-82.657721,TRUE,FALSE,TRUE,"S252525162"
-"213","rudtur","Ruddy Turnstone","Arenaria interpres","L2222756","Utqiaġvik--South Salt Lagoons","2025-06-20 19:10",1,71.3121267,-156.7134476,TRUE,FALSE,FALSE,"S252581857"
-"214","rudtur","Ruddy Turnstone","Arenaria interpres","L598884","Edwin B. Forsythe NWR--Turtle Cove (Salt Marsh)","2025-06-20 17:51",1,39.4519343,-74.4248427,TRUE,FALSE,FALSE,"S252661699"
-"215","rudtur","Ruddy Turnstone","Arenaria interpres","L4524383","Back Bay NWR--Beach","2025-06-20 14:43",1,36.672564,-75.911891,TRUE,TRUE,FALSE,"S253277401"
-"216","rudtur","Ruddy Turnstone","Arenaria interpres","L7291453","Green Island, Kure Atoll (restricted access)","2025-06-20 14:14",25,28.392533,-178.2939005,TRUE,FALSE,FALSE,"S252924449"
-"217","rudtur","Ruddy Turnstone","Arenaria interpres","L41337261","Lewes Harbor and Breakwaters--Delaware Breakwater","2025-06-20 13:35",1,38.7987519,-75.1074152,TRUE,FALSE,FALSE,"S252907384"
-"218","rudtur","Ruddy Turnstone","Arenaria interpres","L2474639","Matagorda County Beach","2025-06-20 13:19",1,28.6450316,-95.8570862,TRUE,FALSE,TRUE,"S252464288"
-"219","rudtur","Ruddy Turnstone","Arenaria interpres","L48081805","4433–4449 Beach Rd, Palacios US-TX 28.61176, -95.97402","2025-06-20 13:19",1,28.61176,-95.974017,TRUE,FALSE,TRUE,"S252447531"
-"220","rudtur","Ruddy Turnstone","Arenaria interpres","L5801210","Florida, Duval, Jacksonville, Hecksher, Huguenot Memorial Park (East Beaches)","2025-06-20 12:51",1,30.4151733,-81.4080691,TRUE,FALSE,TRUE,"S252402340"
-"221","rudtur","Ruddy Turnstone","Arenaria interpres","L12933361","Fox Island","2025-06-20 12:00",1,41.906922,-70.017256,TRUE,FALSE,FALSE,"S252428666"
-"222","rudtur","Ruddy Turnstone","Arenaria interpres","L635318","Quissett Harbor","2025-06-20 11:47",2,41.5426661,-70.6539345,TRUE,FALSE,FALSE,"S252409626"
-"223","rudtur","Ruddy Turnstone","Arenaria interpres","L17445693","Longboat Key--Bayfront Park","2025-06-20 11:29",1,27.388245,-82.639076,TRUE,FALSE,FALSE,"S252401959"
-"224","rudtur","Ruddy Turnstone","Arenaria interpres","L563858","Follett's Island Blue Water Hwy/TX257 (UTC105)","2025-06-20 10:50",2,29.0360307,-95.1757115,TRUE,FALSE,FALSE,"S252402330"
-"225","rudtur","Ruddy Turnstone","Arenaria interpres","L267998","Oak Beach","2025-06-20 10:39",2,40.63923,-73.28832,TRUE,FALSE,FALSE,"S252473468"
-"226","rudtur","Ruddy Turnstone","Arenaria interpres","L883549","Carlos Pointe","2025-06-20 09:35",16,26.4031136,-81.8859959,TRUE,FALSE,FALSE,"S252364040"
-"227","rudtur","Ruddy Turnstone","Arenaria interpres","L3095855","VA-ISS-16","2025-06-20 08:39",1,36.6748643,-75.913049,TRUE,TRUE,FALSE,"S252316553"
-"228","rudtur","Ruddy Turnstone","Arenaria interpres","L3878553","No Name Beach","2025-06-20 08:30",1,32.74893,-79.896486,TRUE,FALSE,FALSE,"S252404592"
-"229","rudtur","Ruddy Turnstone","Arenaria interpres","L793778","Port Aransas Nature Preserve at Charlie's Pasture","2025-06-20 07:15",NA,27.8327765,-97.0873833,TRUE,FALSE,FALSE,"S252443107"
-"230","rudtur","Ruddy Turnstone","Arenaria interpres","L219714","Pitt Street Causeway","2025-06-20 07:14",2,32.7708558,-79.8628964,TRUE,FALSE,FALSE,"S252546057"
-"231","rudtur","Ruddy Turnstone","Arenaria interpres","L29788571","UWF Research Property","2025-06-20 07:02",4,30.352333,-87.034021,TRUE,FALSE,TRUE,"S252385584"
-"232","rudtur","Ruddy Turnstone","Arenaria interpres","L28102143","Huntington Beach SP -- Sandpiper Pond Observation Deck & Nature Trail","2025-06-20 06:52",1,33.515487,-79.051,TRUE,FALSE,FALSE,"S252313535"
-"233","rudtur","Ruddy Turnstone","Arenaria interpres","L760818","Cape Henlopen SP--Breakwater Harbor and shoreline","2025-06-20 06:29",2,38.7915231,-75.0957477,TRUE,FALSE,FALSE,"S252303474"
-"234","rudtur","Ruddy Turnstone","Arenaria interpres","L197353","Sandy Hook","2025-06-20 05:55",1,40.4392518,-73.9869263,TRUE,FALSE,FALSE,"S252834728"
-"235","rudtur","Ruddy Turnstone","Arenaria interpres","L16285016","4495 SR-A1A, Melbourne Beach US-FL 27.99936, -80.52378","2025-06-20 05:55",15,27.999362,-80.523782,TRUE,FALSE,TRUE,"S252275931"
+"","speciesCode","comName","sciName","locId","locName","obsDt","lat","lng","obsValid","obsReviewed","locationPrivate","subId","howMany"
+"1","gubter2","Gull-billed Tern","Gelochelidon nilotica","L1468832","Jekyll Island--Marina and Wharf","2025-06-30 18:35",31.0593162,-81.423111,TRUE,FALSE,FALSE,"S255735644",NA
+"2","gubter2","Gull-billed Tern","Gelochelidon nilotica","L92448","Edwin B. Forsythe NWR--Wildlife Drive (8-mile auto tour loop only)","2025-06-30 13:11",39.464298,-74.417612,TRUE,FALSE,FALSE,"S255677379",1
+"3","gubter2","Gull-billed Tern","Gelochelidon nilotica","L4034501","Marina West Town Boat Launch","2025-06-30 12:40",40.593515,-73.5925414,TRUE,FALSE,FALSE,"S255698246",1
+"4","gubter2","Gull-billed Tern","Gelochelidon nilotica","L3542641","I.B. Magee Beach Park","2025-06-30 12:10",27.831562,-97.0505834,TRUE,FALSE,FALSE,"S255668336",NA
+"5","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48815294","Auto selected 29.17421, -90.64837","2025-06-30 11:36",29.174208,-90.648366,TRUE,FALSE,TRUE,"S255656202",20
+"6","gubter2","Gull-billed Tern","Gelochelidon nilotica","L370644","Saint Simons Island--Massingale Park","2025-06-30 11:17",31.1413889,-81.3777778,TRUE,FALSE,FALSE,"S255748113",1
+"7","gubter2","Gull-billed Tern","Gelochelidon nilotica","L109133","Edwin B. Forsythe NWR (formerly Brig)","2025-06-30 10:40",39.465,-74.4477778,TRUE,FALSE,FALSE,"S255647399",3
+"8","gubter2","Gull-billed Tern","Gelochelidon nilotica","L812292","San Diego Bay NWR--Sweetwater Marsh Unit / Living Coast Discovery Center (limited access)","2025-06-30 10:05",32.6391472,-117.113378,TRUE,FALSE,FALSE,"S255651524",1
+"9","gubter2","Gull-billed Tern","Gelochelidon nilotica","L827977","Bayfront Park (J St.)","2025-06-30 09:51",32.6186091,-117.1033868,TRUE,FALSE,FALSE,"S255725536",1
+"10","gubter2","Gull-billed Tern","Gelochelidon nilotica","L109145","Jamaica Bay Wildlife Refuge--West Pond","2025-06-30 09:43",40.6188482,-73.8307995,TRUE,FALSE,FALSE,"S255624944",1
+"11","gubter2","Gull-billed Tern","Gelochelidon nilotica","L586165","Jamaica Bay Wildlife Refuge--East Pond, north end","2025-06-30 09:36",40.6326819,-73.8234472,TRUE,FALSE,FALSE,"S255611305",1
+"12","gubter2","Gull-billed Tern","Gelochelidon nilotica","L230620","Big Talbot Island SP","2025-06-30 09:15",30.5017447,-81.4517114,TRUE,FALSE,FALSE,"S255688468",2
+"13","gubter2","Gull-billed Tern","Gelochelidon nilotica","L713834","Padre Isl. NS- Malaquite Beach/Visitor Ctr. area","2025-06-30 08:48",27.4244237,-97.2973251,TRUE,FALSE,FALSE,"S255630253",1
+"14","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48833088","Davis SE: Codds Creek US-NC (34.7717,-76.4207)","2025-06-30 08:16",34.771729,-76.420663,TRUE,FALSE,TRUE,"S255730947",1
+"15","gubter2","Gull-billed Tern","Gelochelidon nilotica","L219714","Pitt Street Causeway","2025-06-30 08:08",32.7708558,-79.8628964,TRUE,FALSE,FALSE,"S255721932",1
+"16","gubter2","Gull-billed Tern","Gelochelidon nilotica","L43707625","Cumberland Dividings bird island","2025-06-30 07:55",30.886762,-81.510735,TRUE,FALSE,TRUE,"S255747827",4
+"17","gubter2","Gull-billed Tern","Gelochelidon nilotica","L109136","Cape Island--South Cape May Meadows (SCMM)","2025-06-30 07:39",38.9359287,-74.9434519,TRUE,FALSE,FALSE,"S255591773",2
+"18","gubter2","Gull-billed Tern","Gelochelidon nilotica","L825764","Bald Head Island State Natural Area","2025-06-30 07:23",33.8806771,-77.9576111,TRUE,FALSE,FALSE,"S255613616",4
+"19","gubter2","Gull-billed Tern","Gelochelidon nilotica","L416598","El Jardin Park/Beach","2025-06-30 06:25",29.596998,-94.9865994,TRUE,FALSE,FALSE,"S255611103",1
+"20","gubter2","Gull-billed Tern","Gelochelidon nilotica","L47878758","Arcos Gdns (Private Residence)","2025-06-29 17:22",26.1197174,-97.3116048,TRUE,FALSE,TRUE,"S255420840",9
+"21","gubter2","Gull-billed Tern","Gelochelidon nilotica","L3239468","Tijuana Slough NWR--Visitor Center/North McCoy Trail","2025-06-29 17:01",32.5748894,-117.1259087,TRUE,FALSE,FALSE,"S255488484",2
+"22","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48760225","16001–16695 Dauphin Island Pkwy, Coden US-AL 30.34618, -88.12378","2025-06-29 15:50",30.346177,-88.123782,TRUE,FALSE,TRUE,"S255395215",2
+"23","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48833273","Morgan’s Island NO Access!","2025-06-29 15:30",34.643088,-76.5309325,TRUE,FALSE,TRUE,"S255736394",1
+"24","gubter2","Gull-billed Tern","Gelochelidon nilotica","L165143","Jamaica Bay Wildlife Refuge","2025-06-29 15:00",40.6170296,-73.8244561,TRUE,FALSE,FALSE,"S255474467",2
+"25","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48752232","Auto selected 33.00959, -79.42657","2025-06-29 14:55",33.009591,-79.42657,TRUE,FALSE,TRUE,"S255363222",8
+"26","gubter2","Gull-billed Tern","Gelochelidon nilotica","L5876425","Padre Isl. NS--Malaquite Campground","2025-06-29 14:51",27.4312095,-97.2949841,TRUE,FALSE,FALSE,"S255400099",1
+"27","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48749368","Ocean Course Clubhouse Kiawah Island","2025-06-29 14:02",32.6116157,-80.0224612,TRUE,FALSE,TRUE,"S255351873",2
+"28","gubter2","Gull-billed Tern","Gelochelidon nilotica","L276114","Assateague I. NS--Bayside Campground","2025-06-29 12:05",38.207274,-75.159605,TRUE,TRUE,FALSE,"S255299462",1
+"29","gubter2","Gull-billed Tern","Gelochelidon nilotica","L225177","Pascagoula Beach","2025-06-29 11:30",30.3437267,-88.5411024,TRUE,FALSE,FALSE,"S255309090",2
+"30","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48755915","FL, Big Talbot Is. SP, Spoonbill Pond","2025-06-29 11:30",30.5099427,-81.4580245,TRUE,FALSE,TRUE,"S255378771",2
+"31","gubter2","Gull-billed Tern","Gelochelidon nilotica","L1125706","Big Talbot Island SP--Spoonbill Pond (includes parking & boat ramp)","2025-06-29 11:00",30.5101704,-81.4585671,TRUE,FALSE,FALSE,"S255278016",2
+"32","gubter2","Gull-billed Tern","Gelochelidon nilotica","L36262612","North Atlantic Ocean, Galloway US-NJ 39.47331, -74.30742","2025-06-29 10:51",39.473312,-74.307419,TRUE,FALSE,TRUE,"S255421292",1
+"33","gubter2","Gull-billed Tern","Gelochelidon nilotica","L15413177","Lightning Point Marsh Restoration Area","2025-06-29 10:36",30.380191,-88.2668051,TRUE,FALSE,FALSE,"S255296234",1
+"34","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48734385","9736–9798 Barataria Blvd, Marrero US-LA 29.74652, -90.13732","2025-06-29 10:06",29.746524,-90.137323,TRUE,FALSE,TRUE,"S255293170",1
+"35","gubter2","Gull-billed Tern","Gelochelidon nilotica","L591483","Saint Simons Island--Goulds Inlet","2025-06-29 10:00",31.1570695,-81.3650036,TRUE,FALSE,FALSE,"S255408611",1
+"36","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48712514","533 Pinehurst, Portland, TX, USA","2025-06-29 09:20",27.8826651,-97.2969782,TRUE,FALSE,TRUE,"S255242109",1
+"37","gubter2","Gull-billed Tern","Gelochelidon nilotica","L1151034","Bayfront Park (Alabama Port, AL)","2025-06-29 08:47",30.3570641,-88.1168318,TRUE,FALSE,FALSE,"S255235299",1
+"38","gubter2","Gull-billed Tern","Gelochelidon nilotica","L197073","Stone Harbor Point","2025-06-29 08:37",39.0317999,-74.7723111,TRUE,FALSE,FALSE,"S255229374",1
+"39","gubter2","Gull-billed Tern","Gelochelidon nilotica","L367627","Salton Sea--Young Rd. (west end)","2025-06-29 08:36",33.1330196,-115.6666589,TRUE,FALSE,FALSE,"S255411022",8
+"40","gubter2","Gull-billed Tern","Gelochelidon nilotica","L3161280","Seabrook Island--North Beach","2025-06-29 08:36",32.5727539,-80.1518404,TRUE,FALSE,FALSE,"S255200583",1
+"41","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48741268","Sedgefield Boulevard, Palmetto, Florida, US (27.633, -82.484)","2025-06-29 07:44",27.6334166,-82.4842967,TRUE,TRUE,TRUE,"S255320683",2
+"42","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48737918","US (40.505, -73.585)","2025-06-29 07:34",40.5049781,-73.5853727,TRUE,FALSE,TRUE,"S255307338",1
+"43","gubter2","Gull-billed Tern","Gelochelidon nilotica","L22577253","Oso Bay—Ocean Drive mud flats just E. of Texas A&M Corpus Christi campus","2025-06-29 07:17",27.7101193,-97.3150831,TRUE,FALSE,FALSE,"S255199354",1
+"44","gubter2","Gull-billed Tern","Gelochelidon nilotica","L370829","Salton Sea--W Bowles Rd. - west end","2025-06-29 07:02",33.1178563,-115.6789112,TRUE,FALSE,FALSE,"S255305700",5
+"45","gubter2","Gull-billed Tern","Gelochelidon nilotica","L598880","Edwin B. Forsythe NWR--Southwest Pool","2025-06-29 06:29",39.4621738,-74.4368362,TRUE,FALSE,FALSE,"S255204592",1
+"46","gubter2","Gull-billed Tern","Gelochelidon nilotica","L42962486","15869 Alabama 193, Coden, Alabama, US (30.349, -88.122)","2025-06-29 06:24",30.3489681,-88.1220024,TRUE,FALSE,TRUE,"S255199324",1
+"47","gubter2","Gull-billed Tern","Gelochelidon nilotica","L284440","Jones Park","2025-06-29 06:20",30.3670574,-89.085007,TRUE,FALSE,FALSE,"S255337546",1
+"48","gubter2","Gull-billed Tern","Gelochelidon nilotica","L757770","Salton Sea--Lack Rd. at Bannister Rd.","2025-06-29 06:07",33.0518029,-115.6471109,TRUE,FALSE,FALSE,"S255305319",2
+"49","gubter2","Gull-billed Tern","Gelochelidon nilotica","L2982116","Cape Lookout NS--Great Island Cabins","2025-06-29 05:56",34.7608385,-76.4121968,TRUE,FALSE,FALSE,"S255145201",1
+"50","gubter2","Gull-billed Tern","Gelochelidon nilotica","L714512","Sunset Lake  (Portland)","2025-06-28 15:45",27.8679131,-97.3274088,TRUE,FALSE,FALSE,"S255012590",2
+"51","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48668892","Sheep Islands US-NC (34.5805,-76.5312)","2025-06-28 15:40",34.58049,-76.531216,TRUE,FALSE,TRUE,"S254993536",3
+"52","gubter2","Gull-billed Tern","Gelochelidon nilotica","L124353","Huntington Beach SP","2025-06-28 15:30",33.5083,-79.0659,TRUE,FALSE,FALSE,"S255011808",1
+"53","gubter2","Gull-billed Tern","Gelochelidon nilotica","L44155621","Side Channel Islands","2025-06-28 13:26",27.324675,-97.38825,TRUE,TRUE,TRUE,"S255261588",100
+"54","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48649903","Shellmore Avenue Pit","2025-06-28 13:15",27.6308242,-82.4765406,TRUE,TRUE,TRUE,"S254924298",2
+"55","gubter2","Gull-billed Tern","Gelochelidon nilotica","L15807537","16871 Dauphin Island Pkwy, Coden US-AL (30.3415,-88.1262)","2025-06-28 13:12",30.341489,-88.126183,TRUE,FALSE,TRUE,"S255024315",1
+"56","gubter2","Gull-billed Tern","Gelochelidon nilotica","L16135255","Mangrove Point Mitigation Bank","2025-06-28 12:27",27.7358814,-82.4516534,TRUE,TRUE,FALSE,"S254974831",1
+"57","gubter2","Gull-billed Tern","Gelochelidon nilotica","L5156578","Jemison's Bait N Tackle","2025-06-28 11:50",30.3411173,-88.1263296,TRUE,FALSE,TRUE,"S254927085",1
+"58","gubter2","Gull-billed Tern","Gelochelidon nilotica","L211914","Nummy Island","2025-06-28 11:45",39.0365891,-74.7912741,TRUE,FALSE,FALSE,"S254904019",1
+"59","gubter2","Gull-billed Tern","Gelochelidon nilotica","L44155666","Six Cabins Islands","2025-06-28 11:30",27.206724,-97.422578,TRUE,FALSE,TRUE,"S255252401",10
+"60","gubter2","Gull-billed Tern","Gelochelidon nilotica","L14420278","Chester Island Bird Sanctuary (restricted access)","2025-06-28 11:25",28.4507003,-96.3484675,TRUE,FALSE,FALSE,"S254991350",6
+"61","gubter2","Gull-billed Tern","Gelochelidon nilotica","L1866452","Cactus Creek Ranch (private - restricted access)","2025-06-28 10:58",26.215797,-97.429897,TRUE,FALSE,FALSE,"S254938086",1
+"62","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48637301","Horsepen Point CW Rush Island","2025-06-28 10:51",34.6817006,-76.4947044,TRUE,FALSE,TRUE,"S254876354",3
+"63","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48632307","Horsepen Point CW Teal Island","2025-06-28 10:23",34.6891471,-76.4929627,TRUE,FALSE,TRUE,"S254855692",1
+"64","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48631496","Horsepen Point CW North Carolina, US (34.689, -76.489)","2025-06-28 10:06",34.6892227,-76.4888834,TRUE,FALSE,TRUE,"S254852365",3
+"65","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48627460","Broad","2025-06-28 09:52",30.359135,-89.110399,TRUE,FALSE,TRUE,"S254866256",6
+"66","gubter2","Gull-billed Tern","Gelochelidon nilotica","L1575305","Brazoria NWR--Auto Tour Loop and Discovery Center","2025-06-28 09:33",29.0599843,-95.267568,TRUE,FALSE,FALSE,"S254910257",3
+"67","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48670305","Horsepen Point CW: Sheep Islands US-NC (34.6837,-76.4789)","2025-06-28 09:28",34.683743,-76.478926,TRUE,FALSE,TRUE,"S254999131",3
+"68","gubter2","Gull-billed Tern","Gelochelidon nilotica","L12660107","Brazoria Co.—Levee Road/CR690","2025-06-28 09:27",28.9871077,-95.3055501,TRUE,FALSE,FALSE,"S254880414",4
+"69","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48629933","Horsepen Point CW Marshallberg, North Carolina, US (34.687, -76.482)","2025-06-28 09:27",34.6866362,-76.4820877,TRUE,FALSE,TRUE,"S254845541",5
+"70","gubter2","Gull-billed Tern","Gelochelidon nilotica","L966711","Bayshore Bikeway--13th Street (Ponds 22/20)","2025-06-28 09:21",32.5880078,-117.1059448,TRUE,FALSE,FALSE,"S254926086",2
+"71","gubter2","Gull-billed Tern","Gelochelidon nilotica","L36499434","Golf course beach, gulf front","2025-06-28 09:00",30.241673,-88.107775,TRUE,FALSE,TRUE,"S254958999",6
+"72","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48670199","Horsepen Point CW: Sheep Islands US-NC (34.6857,-76.4770)","2025-06-28 08:51",34.685702,-76.476979,TRUE,FALSE,TRUE,"S254998681",4
+"73","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48657971","Jemison’s Bait Shop, Coden US-AL","2025-06-28 08:50",30.34213,-88.12591,TRUE,FALSE,TRUE,"S254953674",1
+"74","gubter2","Gull-billed Tern","Gelochelidon nilotica","L723695","Lido Beach Passive Nature Area","2025-06-28 08:26",40.5923663,-73.5957384,TRUE,FALSE,FALSE,"S254915092",1
+"75","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48626306","Horsepen Point CW Marshallberg, North Carolina, US (34.691, -76.482)","2025-06-28 08:25",34.6905244,-76.482313,TRUE,FALSE,TRUE,"S254828894",4
+"76","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48029389","Saturday Beach","2025-06-28 08:24",28.384213,-96.389819,TRUE,FALSE,TRUE,"S254989730",2
+"77","gubter2","Gull-billed Tern","Gelochelidon nilotica","L508149","Nickerson Beach","2025-06-28 08:15",40.5871823,-73.6024,TRUE,FALSE,FALSE,"S255549241",NA
+"78","gubter2","Gull-billed Tern","Gelochelidon nilotica","L724990","Dauphin Island--Pelican Point","2025-06-28 08:01",30.2462407,-88.0759066,TRUE,FALSE,FALSE,"S254899698",3
+"79","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48670076","Horsepen Point CW: Auto selected 34.68853, -76.47528","2025-06-28 07:48",34.688528,-76.475281,TRUE,FALSE,TRUE,"S254998284",2
+"80","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48632731","Lack Rd, Calipatria US-CA 33.13181, -115.64884","2025-06-28 07:33",33.131809,-115.648841,TRUE,FALSE,TRUE,"S254857528",3
+"81","gubter2","Gull-billed Tern","Gelochelidon nilotica","L4071534","Calipatria, West Young Road area","2025-06-28 07:06",33.1321607,-115.6386566,TRUE,FALSE,TRUE,"S254911465",10
+"82","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48669991","Horsepen Point CW: Sheep Islands US-NC (34.6923,-76.4724)","2025-06-28 06:44",34.692334,-76.472388,TRUE,FALSE,TRUE,"S254997963",2
+"83","gubter2","Gull-billed Tern","Gelochelidon nilotica","L166463","Dauphin Island","2025-06-27 18:20",30.2504,-88.1058,TRUE,FALSE,FALSE,"S254710403",2
+"84","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48439036","Sedgefield Boulevard, Palmetto, Florida, US (27.633, -82.485)","2025-06-27 18:15",27.6327545,-82.4854713,TRUE,TRUE,TRUE,"S254699270",1
+"85","gubter2","Gull-billed Tern","Gelochelidon nilotica","L32162481","Turning basin","2025-06-27 18:10",28.792846,-95.571052,TRUE,FALSE,TRUE,"S254673172",1
+"86","gubter2","Gull-billed Tern","Gelochelidon nilotica","L3187119","Back Bay Blvd.","2025-06-27 16:49",30.4085056,-88.876369,TRUE,FALSE,FALSE,"S254668199",1
+"87","gubter2","Gull-billed Tern","Gelochelidon nilotica","L5966119","Kiawah Island--Marsh Island Park","2025-06-27 16:46",32.6213762,-80.065012,TRUE,FALSE,FALSE,"S254654233",1
+"88","gubter2","Gull-billed Tern","Gelochelidon nilotica","L788729","Tybee Island--North Beach","2025-06-27 16:17",32.0270701,-80.8530664,TRUE,FALSE,FALSE,"S255465940",5
+"89","gubter2","Gull-billed Tern","Gelochelidon nilotica","L598882","Edwin B. Forsythe NWR--Gull Pond","2025-06-27 14:37",39.46952,-74.4455696,TRUE,FALSE,FALSE,"S254616769",NA
+"90","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48569278","Davis SE Unnamed Road, Davis, North Carolina, US (34.774, -76.402)","2025-06-27 12:47",34.7740085,-76.4017813,TRUE,FALSE,TRUE,"S254587046",2
+"91","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48575845","Corpus Christi, Texas, US (27.767, -97.137) Shamrock Area","2025-06-27 12:32",27.7670394,-97.1365909,TRUE,FALSE,TRUE,"S254612001",1
+"92","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48567224","Davis SE Unnamed Road, Davis, North Carolina, US (34.782, -76.393)","2025-06-27 11:37",34.7821031,-76.3931808,TRUE,FALSE,TRUE,"S254579291",5
+"93","gubter2","Gull-billed Tern","Gelochelidon nilotica","L27753308","Yacht Club Rd.","2025-06-27 11:09",30.3420943,-88.5218337,TRUE,FALSE,FALSE,"S254582847",1
+"94","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48560896","Davis SE Unnamed Road, Davis, North Carolina, US (34.789, -76.386)","2025-06-27 10:35",34.7892146,-76.385855,TRUE,FALSE,TRUE,"S254554715",4
+"95","gubter2","Gull-billed Tern","Gelochelidon nilotica","L241906","Imperial Beach Pier","2025-06-27 09:46",32.5795817,-117.132945,TRUE,FALSE,FALSE,"S254589702",1
+"96","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48582538","Styron Bay CW: Carteret County US-NC (34.8142,-76.3736)","2025-06-27 09:05",34.814157,-76.373621,TRUE,FALSE,TRUE,"S254638824",1
+"97","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48552920","Styron Bay CW Dunes North Carolina, US (34.813, -76.364)","2025-06-27 08:47",34.8126238,-76.3638854,TRUE,FALSE,TRUE,"S254515926",2
+"98","gubter2","Gull-billed Tern","Gelochelidon nilotica","L562775","Carbon Plant Rd. & waterbird  lake","2025-06-27 08:13",27.8539888,-97.5520492,TRUE,FALSE,FALSE,"S254523032",2
+"99","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48550749","Styron Bay CW North Carolina, US (34.809, -76.367)","2025-06-27 08:02",34.8088811,-76.3667785,TRUE,FALSE,TRUE,"S254504215",4
+"100","gubter2","Gull-billed Tern","Gelochelidon nilotica","L2618136","Dauphin Island Causeway","2025-06-27 07:54",30.2932775,-88.1309509,TRUE,FALSE,FALSE,"S254526204",4
+"101","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48548022","Styron Bay CW  (34.807, -76.368)","2025-06-27 07:31",34.8071006,-76.3680338,TRUE,FALSE,TRUE,"S254488642",5
+"102","gubter2","Gull-billed Tern","Gelochelidon nilotica","L1149810","Whitney Lake Marsh Park","2025-06-27 07:12",27.8848228,-97.1914852,TRUE,FALSE,FALSE,"S254520896",2
+"103","gubter2","Gull-billed Tern","Gelochelidon nilotica","L761524","Bayshore Bikeway--Emory Cove & Pond 11","2025-06-27 07:09",32.6018801,-117.1238114,TRUE,FALSE,FALSE,"S254571650",7
+"104","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48546760","Styron Bay CW Dunes","2025-06-27 06:50",34.8050032,-76.370264,TRUE,FALSE,TRUE,"S254481713",2
+"105","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48582349","Styron Bay CW: Codds Creek US-NC (34.8098,-76.3737)","2025-06-27 06:41",34.809751,-76.373716,TRUE,FALSE,TRUE,"S254638140",2
+"106","gubter2","Gull-billed Tern","Gelochelidon nilotica","L9820130","New Round Island (restricted access)","2025-06-27 06:31",30.3055357,-88.5953804,TRUE,FALSE,FALSE,"S254549305",5
+"107","gubter2","Gull-billed Tern","Gelochelidon nilotica","L351857","Ansley","2025-06-27 06:19",30.2157255,-89.4878936,TRUE,FALSE,FALSE,"S254510110",2
+"108","gubter2","Gull-billed Tern","Gelochelidon nilotica","L45007342","Hatteras Point","2025-06-27 05:49",35.1991783,-75.722874,TRUE,FALSE,TRUE,"S254537324",9
+"109","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48530069","Styron CW Unnamed Road, Sealevel, North Carolina, US (34.823, -76.352)","2025-06-26 19:41",34.8227203,-76.3517045,TRUE,FALSE,TRUE,"S254407648",2
+"110","gubter2","Gull-billed Tern","Gelochelidon nilotica","L1057874","Courthouse Road Pier","2025-06-26 18:54",30.3774292,-89.0441465,TRUE,FALSE,FALSE,"S254403424",1
+"111","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48529763","Styron Bay CW South Core OBX","2025-06-26 18:50",34.8266002,-76.3479055,TRUE,FALSE,TRUE,"S254406256",10
+"112","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48612818","Styron Bay CW: Sheep Islands US-NC (34.8183,-76.3567)","2025-06-26 17:45",34.818296,-76.356691,TRUE,FALSE,TRUE,"S254637305",1
+"113","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48582055","Davis SE: Sheep Islands US-NC (34.7872,-76.3867)","2025-06-26 17:28",34.787247,-76.386716,TRUE,FALSE,TRUE,"S254636968",1
+"114","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48582008","Davis SE: Sheep Islands US-NC (34.7710,-76.4016)","2025-06-26 17:20",34.771007,-76.401577,TRUE,FALSE,TRUE,"S254636782",2
+"115","gubter2","Gull-billed Tern","Gelochelidon nilotica","L20190603","VegPro Farms - NOW CLOSED TO PUBLIC ACCESS","2025-06-26 15:36",26.5983644,-80.5342351,TRUE,FALSE,FALSE,"S254341471",2
+"116","gubter2","Gull-billed Tern","Gelochelidon nilotica","L42982670","16001–16695 Dauphin Island Pkwy, Coden US-AL 30.34682, -88.12348","2025-06-26 13:39",30.346817,-88.123476,TRUE,FALSE,TRUE,"S254504240",5
+"117","gubter2","Gull-billed Tern","Gelochelidon nilotica","L1107662","MacDill AFB (restricted access)","2025-06-26 12:21",27.841171,-82.4837726,TRUE,TRUE,FALSE,"S254294736",29
+"118","gubter2","Gull-billed Tern","Gelochelidon nilotica","L126637","Bombay Hook National Wildlife Refuge","2025-06-26 12:02",39.2670818,-75.4695511,TRUE,TRUE,FALSE,"S254318054",3
+"119","gubter2","Gull-billed Tern","Gelochelidon nilotica","L793778","Port Aransas Nature Preserve at Charlie's Pasture","2025-06-26 10:15",27.8327765,-97.0873833,TRUE,FALSE,FALSE,"S254302852",1
+"120","gubter2","Gull-billed Tern","Gelochelidon nilotica","L1296469","West Ship Island","2025-06-26 10:10",30.2122016,-88.9542389,TRUE,FALSE,FALSE,"S254393742",6
+"121","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48498573","Davis SE North Carolina, US (34.754, -76.432)","2025-06-26 10:02",34.753732,-76.4318794,TRUE,FALSE,TRUE,"S254273991",1
+"122","gubter2","Gull-billed Tern","Gelochelidon nilotica","L787448","Shamrock Island Preserve","2025-06-26 10:00",27.7622413,-97.16609,TRUE,FALSE,FALSE,"S254359916",NA
+"123","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48581939","Davis SE: Sheep Islands US-NC (34.7571,-76.4142)","2025-06-26 09:59",34.757116,-76.414153,TRUE,FALSE,TRUE,"S254636497",5
+"124","gubter2","Gull-billed Tern","Gelochelidon nilotica","L910949","Harbor Island (restricted access)","2025-06-26 09:50",32.4050699,-80.4330345,TRUE,FALSE,FALSE,"S254366594",3
+"125","gubter2","Gull-billed Tern","Gelochelidon nilotica","L45313324","16001–16695 Dauphin Island Pkwy, Coden US-AL 30.34490, -88.12434","2025-06-26 09:46",30.344899,-88.124342,TRUE,FALSE,TRUE,"S254274601",3
+"126","gubter2","Gull-billed Tern","Gelochelidon nilotica","L6169321","Xanadu III","2025-06-26 09:05",33.8141429,-78.6817378,TRUE,FALSE,TRUE,"S254238028",2
+"127","gubter2","Gull-billed Tern","Gelochelidon nilotica","L338583","Egery Road Marsh (near Bayside)","2025-06-26 08:43",28.0643215,-97.2124471,TRUE,FALSE,FALSE,"S254251672",1
+"128","gubter2","Gull-billed Tern","Gelochelidon nilotica","L7442565","Gulfport Harbor","2025-06-26 08:35",30.364202,-89.08955,TRUE,FALSE,TRUE,"S254255178",3
+"129","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48185434","16701–16839 Dauphin Island Pkwy, Coden US-AL (30.3425,-88.1251)","2025-06-26 08:34",30.342463,-88.125104,TRUE,FALSE,TRUE,"S254271653",2
+"130","gubter2","Gull-billed Tern","Gelochelidon nilotica","L1346664","San Patricio Co.--TX188 Bridge","2025-06-26 08:06",28.0443343,-97.271714,TRUE,TRUE,FALSE,"S254245330",6
+"131","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48581884","Codds Creek US-NC (34.7778,-76.4365)","2025-06-26 07:42",34.777789,-76.436539,TRUE,FALSE,TRUE,"S254636263",1
+"132","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48491466","Davis Ferry To South Core OBX","2025-06-26 07:31",34.7791084,-76.434397,TRUE,FALSE,TRUE,"S254242079",1
+"133","gubter2","Gull-billed Tern","Gelochelidon nilotica","L616660","Huntington Beach SP--North Beach/Jetty/Dunes Trail","2025-06-26 07:24",33.5253779,-79.0367106,TRUE,FALSE,FALSE,"S254262866",1
+"134","gubter2","Gull-billed Tern","Gelochelidon nilotica","L191760","Bear Island WMA (fall and winter restricted access)","2025-06-26 07:21",32.5918043,-80.4641247,TRUE,FALSE,FALSE,"S254242373",2
+"135","gubter2","Gull-billed Tern","Gelochelidon nilotica","L275524","Seaman Rd Sewage Lagoons (restricted access)","2025-06-26 07:09",30.500325,-88.7982038,TRUE,FALSE,FALSE,"S254279678",8
+"136","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48501896","North Cinder Island, Baldwin US-NY 40.60597, -73.61125","2025-06-26 07:01",40.605966,-73.611251,TRUE,FALSE,TRUE,"S254287323",4
+"137","gubter2","Gull-billed Tern","Gelochelidon nilotica","L2455153","Shem Creek Park","2025-06-26 06:36",32.7912704,-79.8844732,TRUE,FALSE,FALSE,"S254219684",4
+"138","gubter2","Gull-billed Tern","Gelochelidon nilotica","L713205","Meaher SP","2025-06-26 06:19",30.6655138,-87.9324138,TRUE,FALSE,FALSE,"S254244721",1
+"139","gubter2","Gull-billed Tern","Gelochelidon nilotica","L286004","Deer Island","2025-06-26 05:57",30.3847226,-88.8718414,TRUE,FALSE,FALSE,"S254287141",1
+"140","gubter2","Gull-billed Tern","Gelochelidon nilotica","L1784485","Wachapreague--Back Bays","2025-06-26 05:50",37.6021044,-75.6457395,TRUE,FALSE,FALSE,"S254363661",6
+"141","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48467233","Port Aransas Beach, Port Aransas US-TX 27.80477, -97.07452","2025-06-25 18:55",27.804774,-97.074523,TRUE,FALSE,TRUE,"S254127470",1
+"142","gubter2","Gull-billed Tern","Gelochelidon nilotica","L2035789","Pascagoula Point Park","2025-06-25 18:26",30.3444726,-88.5622072,TRUE,FALSE,FALSE,"S254124472",2
+"143","gubter2","Gull-billed Tern","Gelochelidon nilotica","L1336895","Lamar Beach Rd","2025-06-25 15:23",28.1456435,-96.9734859,TRUE,FALSE,FALSE,"S254082950",1
+"144","gubter2","Gull-billed Tern","Gelochelidon nilotica","L727367","Rockefeller SWR","2025-06-25 13:37",29.7294189,-92.8190913,TRUE,FALSE,FALSE,"S254080484",3
+"145","gubter2","Gull-billed Tern","Gelochelidon nilotica","L596901","East Kiawah Island","2025-06-25 12:36",32.6158096,-80.0184917,TRUE,FALSE,FALSE,"S254063590",3
+"146","gubter2","Gull-billed Tern","Gelochelidon nilotica","L129075","Salineño Wildlife Preserve (LTC 080)","2025-06-25 10:22",26.5148584,-99.1162062,TRUE,FALSE,FALSE,"S254007202",1
+"147","gubter2","Gull-billed Tern","Gelochelidon nilotica","L7926194","Jamaica Bay, Ruffle Bar","2025-06-25 09:40",40.5990392,-73.8576042,TRUE,TRUE,FALSE,"S254042163",1
+"148","gubter2","Gull-billed Tern","Gelochelidon nilotica","L2825008","Coronado, Fiddlers Cove","2025-06-25 09:08",32.65249,-117.15041,TRUE,FALSE,TRUE,"S254016929",1
+"149","gubter2","Gull-billed Tern","Gelochelidon nilotica","L3124649","Ocracoke Island--Springer's Point Preserve","2025-06-25 08:56",35.1042513,-75.9891915,TRUE,FALSE,FALSE,"S253953019",1
+"150","gubter2","Gull-billed Tern","Gelochelidon nilotica","L903856","Ft. Moultrie National Monument","2025-06-25 08:10",32.7588311,-79.8567868,TRUE,FALSE,FALSE,"S255433151",1
+"151","gubter2","Gull-billed Tern","Gelochelidon nilotica","L10814652","Jet Lag, Dauphin Island US-AL (30.2438,-88.1032)","2025-06-25 07:53",30.243835,-88.103199,TRUE,FALSE,TRUE,"S254160507",8
+"152","gubter2","Gull-billed Tern","Gelochelidon nilotica","L1292820","East Ship Island","2025-06-25 07:24",30.2359338,-88.8821411,TRUE,FALSE,FALSE,"S254011986",23
+"153","gubter2","Gull-billed Tern","Gelochelidon nilotica","L795156","Dauphin Island--Pier","2025-06-25 07:08",30.2478562,-88.126322,TRUE,FALSE,FALSE,"S253946106",1
+"154","gubter2","Gull-billed Tern","Gelochelidon nilotica","L35964900","Wallops Island (restricted access)","2025-06-25 06:38",37.867665,-75.441333,TRUE,FALSE,FALSE,"S254054844",3
+"155","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48424308","Dauphin Island-Hernando Place Beach","2025-06-25 06:32",30.242271,-88.103633,TRUE,FALSE,TRUE,"S253935665",15
+"156","gubter2","Gull-billed Tern","Gelochelidon nilotica","L28934533","PR-46, Falcon Heights US-TX 26.56569, -99.12522","2025-06-25 06:26",26.565694,-99.125219,TRUE,FALSE,TRUE,"S253958441",5
+"157","gubter2","Gull-billed Tern","Gelochelidon nilotica","L5543492","Big Branch Marsh NWR--Fritchie Marsh","2025-06-25 06:03",30.2059738,-89.7299039,TRUE,FALSE,FALSE,"S254054636",3
+"158","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48411338","16001–16695 Dauphin Island Pkwy, Coden US-AL 30.34660, -88.12356","2025-06-24 19:33",30.346604,-88.123559,TRUE,FALSE,TRUE,"S253873576",1
+"159","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48303343","1387 Harbor View Rd, Charleston US-SC 32.75606, -79.95884","2025-06-24 19:18",32.756059,-79.958839,TRUE,FALSE,TRUE,"S253830370",2
+"160","gubter2","Gull-billed Tern","Gelochelidon nilotica","L127288","Little Talbot Island SP","2025-06-24 15:38",30.460105,-81.4154828,TRUE,FALSE,FALSE,"S253837039",1
+"161","gubter2","Gull-billed Tern","Gelochelidon nilotica","L32132973","15904–16664 Dauphin Island Pkwy, Coden US-AL 30.35122, -88.12126","2025-06-24 15:24",30.351215,-88.121255,TRUE,FALSE,TRUE,"S253865784",1
+"162","gubter2","Gull-billed Tern","Gelochelidon nilotica","L418748","Seacoast Drive to Tijuana River mouth","2025-06-24 13:42",32.5665347,-117.1322003,TRUE,FALSE,FALSE,"S254351610",3
+"163","gubter2","Gull-billed Tern","Gelochelidon nilotica","L1861622","Popps Ferry Causeway Park","2025-06-24 11:58",30.421544,-88.9787199,TRUE,FALSE,TRUE,"S253743068",3
+"164","gubter2","Gull-billed Tern","Gelochelidon nilotica","L947421","Woldenberg Park (Moon Walk) and Jackson Square","2025-06-24 11:17",29.9566606,-90.0617391,TRUE,FALSE,FALSE,"S253736857",1
+"165","gubter2","Gull-billed Tern","Gelochelidon nilotica","L487373","Horn Island","2025-06-24 10:28",30.2345249,-88.6696243,TRUE,FALSE,FALSE,"S253750070",3
+"166","gubter2","Gull-billed Tern","Gelochelidon nilotica","L1487217","Santa Ana NWR--Pintail Lakes Trail","2025-06-24 09:16",26.0787993,-98.1330503,TRUE,FALSE,FALSE,"S254018737",3
+"167","gubter2","Gull-billed Tern","Gelochelidon nilotica","L1367563","Padre Isl. NS--Padre Isl. Drive Duck Pond","2025-06-24 09:05",27.4420449,-97.299999,TRUE,FALSE,FALSE,"S253804661",1
+"168","gubter2","Gull-billed Tern","Gelochelidon nilotica","L673436","Sonny Bono Salton Sea NWR--Union Tract / Visitor Center","2025-06-24 08:50",33.1774666,-115.6150961,TRUE,FALSE,FALSE,"S253740745",1
+"169","gubter2","Gull-billed Tern","Gelochelidon nilotica","L5686138","Matagorda Island--NE end","2025-06-24 08:25",28.3559062,-96.4077759,TRUE,FALSE,FALSE,"S253833824",6
+"170","gubter2","Gull-billed Tern","Gelochelidon nilotica","L159322","Hog Island","2025-06-24 07:37",37.4181553,-75.691133,TRUE,FALSE,FALSE,"S253657271",1
+"171","gubter2","Gull-billed Tern","Gelochelidon nilotica","L572555","Padre Isl. NS (Kenedy Co.)","2025-06-24 07:35",27.2381472,-97.3587799,TRUE,FALSE,FALSE,"S253959236",1
+"172","gubter2","Gull-billed Tern","Gelochelidon nilotica","L923371","Dauphin Island--Pelican Island","2025-06-24 06:47",30.2385292,-88.1218529,TRUE,FALSE,FALSE,"S253671293",3
+"173","gubter2","Gull-billed Tern","Gelochelidon nilotica","L557026","Ocracoke Island--North End","2025-06-24 06:16",35.1881194,-75.7788849,TRUE,FALSE,FALSE,"S253643015",1
+"174","gubter2","Gull-billed Tern","Gelochelidon nilotica","L159367","Parramore Island","2025-06-24 06:10",37.5366,-75.6349,TRUE,FALSE,FALSE,"S254062791",10
+"175","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48404590","hwy 3142 between 186 and San Perlita","2025-06-24 00:20",26.5041503,-97.6013765,TRUE,FALSE,TRUE,"S253843291",1
+"176","gubter2","Gull-billed Tern","Gelochelidon nilotica","L11343244","Matanzas Beach Access","2025-06-23 18:18",29.795375,-81.258731,TRUE,FALSE,TRUE,"S253860247",2
+"177","gubter2","Gull-billed Tern","Gelochelidon nilotica","L4795535","Gladeview Rd.","2025-06-23 17:50",26.6661316,-80.492734,TRUE,FALSE,FALSE,"S253554190",1
+"178","gubter2","Gull-billed Tern","Gelochelidon nilotica","L660064","Chincoteague NWR--Wildlife Loop","2025-06-23 17:03",37.9045392,-75.3517216,TRUE,FALSE,FALSE,"S253531015",1
+"179","gubter2","Gull-billed Tern","Gelochelidon nilotica","L422541","Leonabelle Turnbull Birding Ctr. (CTC 057)","2025-06-23 15:11",27.8275297,-97.0789558,TRUE,FALSE,FALSE,"S253587237",1
+"180","gubter2","Gull-billed Tern","Gelochelidon nilotica","L619020","Surfside Beach & Jetty (UTC 106)","2025-06-23 10:54",28.9381014,-95.295217,TRUE,FALSE,FALSE,"S253454507",3
+"181","gubter2","Gull-billed Tern","Gelochelidon nilotica","L1839493","Tijuana Slough NWR--South McCoy Trail area","2025-06-23 10:39",32.5647001,-117.125522,TRUE,FALSE,FALSE,"S253517343",1
+"182","gubter2","Gull-billed Tern","Gelochelidon nilotica","L4886002","Assawoman Island (no access 15 Mar-15 Sep)","2025-06-23 10:24",37.7848254,-75.5306196,TRUE,FALSE,FALSE,"S254133027",5
+"183","gubter2","Gull-billed Tern","Gelochelidon nilotica","L859480","Dauphin Island--West End","2025-06-23 09:54",30.2491229,-88.1934168,TRUE,FALSE,FALSE,"S253472149",2
+"184","gubter2","Gull-billed Tern","Gelochelidon nilotica","L11359956","Jekyll Island--North Loop Trail","2025-06-23 09:37",31.1084187,-81.4073906,TRUE,FALSE,FALSE,"S253473663",3
+"185","gubter2","Gull-billed Tern","Gelochelidon nilotica","L276835","LRGV NWR--La Sal del Rey (LTC 005)","2025-06-23 09:30",26.5305713,-98.0540943,TRUE,FALSE,FALSE,"S253550162",2
+"186","gubter2","Gull-billed Tern","Gelochelidon nilotica","L4984753","3-D Spoil Island (Restricted Access)","2025-06-23 08:30",27.8316379,-82.4346256,TRUE,TRUE,FALSE,"S253799799",215
+"187","gubter2","Gull-billed Tern","Gelochelidon nilotica","L449889","Patriot's Point -- nature trail and surrounding areas","2025-06-23 08:07",32.7912107,-79.9011505,TRUE,FALSE,FALSE,"S255321939",2
+"188","gubter2","Gull-billed Tern","Gelochelidon nilotica","L2147541","40 Acre Ponds","2025-06-23 07:15",29.3534517,-94.912262,TRUE,FALSE,TRUE,"S253403256",1
+"189","gubter2","Gull-billed Tern","Gelochelidon nilotica","L35848423","123 Bayshore Way, Goodland US-FL 25.92737, -81.64642 (Crabby Flats)","2025-06-23 07:00",25.927372,-81.646422,TRUE,TRUE,TRUE,"S253482986",1
+"190","gubter2","Gull-billed Tern","Gelochelidon nilotica","L725012","Dauphin Island--Audubon Bird Sanctuary","2025-06-23 06:53",30.2487987,-88.0864692,TRUE,FALSE,FALSE,"S253405766",1
+"191","gubter2","Gull-billed Tern","Gelochelidon nilotica","L12958534","Hall's Bayou Ranch (ABSOLUTELY NO PUBLIC ACCESS)","2025-06-23 06:06",29.2730599,-95.070902,TRUE,FALSE,FALSE,"S253445811",2
+"192","gubter2","Gull-billed Tern","Gelochelidon nilotica","L1305502","Smith Beach Morgantown","2025-06-23 05:47",30.232671,-87.9191208,TRUE,FALSE,TRUE,"S253509390",1
+"193","gubter2","Gull-billed Tern","Gelochelidon nilotica","L1295267","Indianola","2025-06-22 18:19",28.5105588,-96.4884168,TRUE,FALSE,FALSE,"S253539263",2
+"194","gubter2","Gull-billed Tern","Gelochelidon nilotica","L1016879","East Point Fishing Pier","2025-06-22 17:49",29.7232036,-84.8877633,TRUE,TRUE,FALSE,"S253284627",1
+"195","gubter2","Gull-billed Tern","Gelochelidon nilotica","L2334913","Kiawah Island--East Beach","2025-06-22 15:49",32.6106042,-80.0157452,TRUE,FALSE,FALSE,"S253236967",1
+"196","gubter2","Gull-billed Tern","Gelochelidon nilotica","L367640","Bayshore Bikeway--7th Street (Ponds 10/10A)","2025-06-22 14:06",32.5915005,-117.1180604,TRUE,FALSE,FALSE,"S253345626",1
+"197","gubter2","Gull-billed Tern","Gelochelidon nilotica","L248017","Bolivar Flats Shorebird Sanctuary","2025-06-22 13:43",29.3711371,-94.7287083,TRUE,FALSE,FALSE,"S253462340",3
+"198","gubter2","Gull-billed Tern","Gelochelidon nilotica","L1505042","Bolivar Flats Shorebird Sanctuary--Rettilon Rd","2025-06-22 12:51",29.3872984,-94.7278439,TRUE,FALSE,FALSE,"S253183044",1
+"199","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48049553","2939 Blue Water Hwy, Surfside Beach US-TX 28.97994, -95.25249","2025-06-22 12:09",28.979942,-95.252487,TRUE,FALSE,TRUE,"S253166004",2
+"200","gubter2","Gull-billed Tern","Gelochelidon nilotica","L266064","San Jacinto Battleground (UTC 041)","2025-06-22 11:11",29.7506484,-95.0770891,TRUE,FALSE,FALSE,"S253165216",1
+"201","gubter2","Gull-billed Tern","Gelochelidon nilotica","L16221474","Little Creek WA--Observation Tower area","2025-06-22 11:00",39.153557,-75.4313432,TRUE,TRUE,FALSE,"S253211898",2
+"202","gubter2","Gull-billed Tern","Gelochelidon nilotica","L801773","Broussard Beach (Willow Island entrance to W end)","2025-06-22 10:53",29.7766703,-93.2781315,TRUE,FALSE,FALSE,"S253306590",1
+"203","gubter2","Gull-billed Tern","Gelochelidon nilotica","L335811","Assateague Island","2025-06-22 10:33",37.8872945,-75.3440039,TRUE,FALSE,FALSE,"S253239682",4
+"204","gubter2","Gull-billed Tern","Gelochelidon nilotica","L36299700","Port O'Connor, Texas, US (28.424, -96.414)","2025-06-22 07:54",28.424081,-96.4141552,TRUE,FALSE,TRUE,"S253225679",3
+"205","gubter2","Gull-billed Tern","Gelochelidon nilotica","L802201","Otay Valley Regional Park--Hollister Pond","2025-06-22 07:36",32.5909297,-117.0860897,TRUE,FALSE,FALSE,"S253113671",2
+"206","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48221900","Cape Hatteras NS—Sandy Bay-Sound Side","2025-06-22 07:34",35.221141,-75.657563,TRUE,FALSE,TRUE,"S253051869",2
+"207","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48258751","7138 Archway Court, Palmetto, Florida, US (27.632, -82.49)","2025-06-22 06:57",27.6324131,-82.489667,TRUE,TRUE,TRUE,"S253205938",1
+"208","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48242780","Drum Lake Island - Texas, US (29.015, -95.222)","2025-06-22 06:50",29.0151729,-95.2221392,TRUE,FALSE,TRUE,"S253145682",1
+"209","gubter2","Gull-billed Tern","Gelochelidon nilotica","L6076938","Sem Chi Rice Plant Road","2025-06-22 06:15",26.6276648,-80.4700094,TRUE,FALSE,TRUE,"S253237539",4
+"210","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48367024","16001–16695 Dauphin Island Pkwy, Coden US-AL (30.3448,-88.1239)","2025-06-22 06:09",30.344783,-88.123864,TRUE,FALSE,TRUE,"S253692338",2
+"211","gubter2","Gull-billed Tern","Gelochelidon nilotica","L4679458","Cape Hatteras NS--Ramp 55","2025-06-21 19:58",35.205733,-75.7045609,TRUE,FALSE,FALSE,"S252922476",1
+"212","gubter2","Gull-billed Tern","Gelochelidon nilotica","L483019","Bombay Hook NWR--Shearness Pool","2025-06-21 18:03",39.2684108,-75.4772758,TRUE,TRUE,FALSE,"S252896691",3
+"213","gubter2","Gull-billed Tern","Gelochelidon nilotica","L5191962","Boggy Bayou Nature Park","2025-06-21 18:01",28.4563683,-96.4115819,TRUE,FALSE,FALSE,"S252923130",2
+"214","gubter2","Gull-billed Tern","Gelochelidon nilotica","L2169706","GA-ISS-plot 1","2025-06-21 17:31",31.1455783,-81.515851,TRUE,FALSE,TRUE,"S252925772",3
+"215","gubter2","Gull-billed Tern","Gelochelidon nilotica","L5148631","San Patricio Co.--CR1906","2025-06-21 17:28",27.9254692,-97.4979007,TRUE,FALSE,FALSE,"S252886870",2
+"216","gubter2","Gull-billed Tern","Gelochelidon nilotica","L2593508","Cherry Grove/Hog Inlet","2025-06-21 16:09",33.8401937,-78.6008263,TRUE,FALSE,FALSE,"S252854856",1
+"217","gubter2","Gull-billed Tern","Gelochelidon nilotica","L386461","Crab Rd, Surfside","2025-06-21 15:40",28.9488985,-95.296526,TRUE,FALSE,FALSE,"S252864331",1
+"218","gubter2","Gull-billed Tern","Gelochelidon nilotica","L1177856","Jamaica Bay, Yellow Bar Hassock","2025-06-21 12:36",40.6088594,-73.8430779,TRUE,TRUE,FALSE,"S252792083",2
+"219","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48201776","Davis rd Ponds","2025-06-21 12:33",33.255731,-115.579999,TRUE,FALSE,TRUE,"S252955740",10
+"220","gubter2","Gull-billed Tern","Gelochelidon nilotica","L17573134","Lonnie Wurn Boat Ramp4121 Ferber Rd, Jacksonville US-FL 30.37577, -81.58521","2025-06-21 12:17",30.375772,-81.585206,TRUE,FALSE,TRUE,"S252797362",1
+"221","gubter2","Gull-billed Tern","Gelochelidon nilotica","L275798","Salton Sea--Lack Rd. at Lindsey Rd","2025-06-21 11:51",33.1474887,-115.6479886,TRUE,FALSE,FALSE,"S252821364",2
+"222","gubter2","Gull-billed Tern","Gelochelidon nilotica","L129098","High Island--Smith Oaks Sanctuary (UTC 052)","2025-06-21 11:21",29.573681,-94.3898535,TRUE,FALSE,FALSE,"S253386712",1
+"223","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48219271","Boyle Rd","2025-06-21 11:03",33.138477,-115.62285,TRUE,FALSE,TRUE,"S253036191",15
+"224","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48317467","West Young rd Trap","2025-06-21 10:35",33.132532,-115.606011,TRUE,FALSE,TRUE,"S253469386",1
+"225","gubter2","Gull-billed Tern","Gelochelidon nilotica","L159289","Chincoteague NWR--Swan Cove","2025-06-21 10:10",37.8941,-75.3485,TRUE,FALSE,FALSE,"S253270639",1
+"226","gubter2","Gull-billed Tern","Gelochelidon nilotica","L668814","Botany Bay Plantation WMA","2025-06-21 09:51",32.5481155,-80.2504921,TRUE,FALSE,FALSE,"S252731669",1
+"227","gubter2","Gull-billed Tern","Gelochelidon nilotica","L18683379","Anahuac Entrance Road","2025-06-21 09:20",29.6331035,-94.5395386,TRUE,FALSE,TRUE,"S252737133",1
+"228","gubter2","Gull-billed Tern","Gelochelidon nilotica","L27817068","Salton Seawall--lack to Obsidian Butte","2025-06-21 09:19",33.146475,-115.654336,TRUE,FALSE,TRUE,"S252953042",1
+"229","gubter2","Gull-billed Tern","Gelochelidon nilotica","L597862","Rutherford Beach","2025-06-21 08:40",29.7584911,-93.1245375,TRUE,FALSE,FALSE,"S252726252",1
+"230","gubter2","Gull-billed Tern","Gelochelidon nilotica","L33013368","23028 Nikawampus Rd, Melfa US-VA 37.62785, -75.68262","2025-06-21 08:32",37.627852,-75.682619,TRUE,FALSE,TRUE,"S252756712",2
+"231","gubter2","Gull-billed Tern","Gelochelidon nilotica","L855710","Salton Sea--Garst Rd. N. of Sinclair","2025-06-21 08:15",33.1875288,-115.5970843,TRUE,FALSE,FALSE,"S253470372",2
+"232","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48407336","Sedgefield Blvd, Palmetto US-FL 27.63262, -82.48546","2025-06-21 07:55",27.632624,-82.485462,TRUE,TRUE,TRUE,"S253855219",1
+"233","gubter2","Gull-billed Tern","Gelochelidon nilotica","L1231887","Salton Sea--Noffsinger Rd. west","2025-06-21 07:46",33.2346805,-115.5847764,TRUE,FALSE,FALSE,"S252955550",25
+"234","gubter2","Gull-billed Tern","Gelochelidon nilotica","L11348659","Grand Isle--east side beaches","2025-06-21 06:14",29.2401211,-89.9782189,TRUE,FALSE,FALSE,"S252776772",9
+"235","gubter2","Gull-billed Tern","Gelochelidon nilotica","L1616913","Chincoteague NWR--Beach","2025-06-21 05:47",37.8800638,-75.3495458,TRUE,FALSE,FALSE,"S252625202",2
