@@ -1,236 +1,289 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","lat","lng","obsValid","obsReviewed","locationPrivate","subId","howMany"
-"1","gubter2","Gull-billed Tern","Gelochelidon nilotica","L1468832","Jekyll Island--Marina and Wharf","2025-06-30 18:35",31.0593162,-81.423111,TRUE,FALSE,FALSE,"S255735644",NA
-"2","gubter2","Gull-billed Tern","Gelochelidon nilotica","L92448","Edwin B. Forsythe NWR--Wildlife Drive (8-mile auto tour loop only)","2025-06-30 13:11",39.464298,-74.417612,TRUE,FALSE,FALSE,"S255677379",1
-"3","gubter2","Gull-billed Tern","Gelochelidon nilotica","L4034501","Marina West Town Boat Launch","2025-06-30 12:40",40.593515,-73.5925414,TRUE,FALSE,FALSE,"S255698246",1
-"4","gubter2","Gull-billed Tern","Gelochelidon nilotica","L3542641","I.B. Magee Beach Park","2025-06-30 12:10",27.831562,-97.0505834,TRUE,FALSE,FALSE,"S255668336",NA
-"5","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48815294","Auto selected 29.17421, -90.64837","2025-06-30 11:36",29.174208,-90.648366,TRUE,FALSE,TRUE,"S255656202",20
-"6","gubter2","Gull-billed Tern","Gelochelidon nilotica","L370644","Saint Simons Island--Massingale Park","2025-06-30 11:17",31.1413889,-81.3777778,TRUE,FALSE,FALSE,"S255748113",1
-"7","gubter2","Gull-billed Tern","Gelochelidon nilotica","L109133","Edwin B. Forsythe NWR (formerly Brig)","2025-06-30 10:40",39.465,-74.4477778,TRUE,FALSE,FALSE,"S255647399",3
-"8","gubter2","Gull-billed Tern","Gelochelidon nilotica","L812292","San Diego Bay NWR--Sweetwater Marsh Unit / Living Coast Discovery Center (limited access)","2025-06-30 10:05",32.6391472,-117.113378,TRUE,FALSE,FALSE,"S255651524",1
-"9","gubter2","Gull-billed Tern","Gelochelidon nilotica","L827977","Bayfront Park (J St.)","2025-06-30 09:51",32.6186091,-117.1033868,TRUE,FALSE,FALSE,"S255725536",1
-"10","gubter2","Gull-billed Tern","Gelochelidon nilotica","L109145","Jamaica Bay Wildlife Refuge--West Pond","2025-06-30 09:43",40.6188482,-73.8307995,TRUE,FALSE,FALSE,"S255624944",1
-"11","gubter2","Gull-billed Tern","Gelochelidon nilotica","L586165","Jamaica Bay Wildlife Refuge--East Pond, north end","2025-06-30 09:36",40.6326819,-73.8234472,TRUE,FALSE,FALSE,"S255611305",1
-"12","gubter2","Gull-billed Tern","Gelochelidon nilotica","L230620","Big Talbot Island SP","2025-06-30 09:15",30.5017447,-81.4517114,TRUE,FALSE,FALSE,"S255688468",2
-"13","gubter2","Gull-billed Tern","Gelochelidon nilotica","L713834","Padre Isl. NS- Malaquite Beach/Visitor Ctr. area","2025-06-30 08:48",27.4244237,-97.2973251,TRUE,FALSE,FALSE,"S255630253",1
-"14","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48833088","Davis SE: Codds Creek US-NC (34.7717,-76.4207)","2025-06-30 08:16",34.771729,-76.420663,TRUE,FALSE,TRUE,"S255730947",1
-"15","gubter2","Gull-billed Tern","Gelochelidon nilotica","L219714","Pitt Street Causeway","2025-06-30 08:08",32.7708558,-79.8628964,TRUE,FALSE,FALSE,"S255721932",1
-"16","gubter2","Gull-billed Tern","Gelochelidon nilotica","L43707625","Cumberland Dividings bird island","2025-06-30 07:55",30.886762,-81.510735,TRUE,FALSE,TRUE,"S255747827",4
-"17","gubter2","Gull-billed Tern","Gelochelidon nilotica","L109136","Cape Island--South Cape May Meadows (SCMM)","2025-06-30 07:39",38.9359287,-74.9434519,TRUE,FALSE,FALSE,"S255591773",2
-"18","gubter2","Gull-billed Tern","Gelochelidon nilotica","L825764","Bald Head Island State Natural Area","2025-06-30 07:23",33.8806771,-77.9576111,TRUE,FALSE,FALSE,"S255613616",4
-"19","gubter2","Gull-billed Tern","Gelochelidon nilotica","L416598","El Jardin Park/Beach","2025-06-30 06:25",29.596998,-94.9865994,TRUE,FALSE,FALSE,"S255611103",1
-"20","gubter2","Gull-billed Tern","Gelochelidon nilotica","L47878758","Arcos Gdns (Private Residence)","2025-06-29 17:22",26.1197174,-97.3116048,TRUE,FALSE,TRUE,"S255420840",9
-"21","gubter2","Gull-billed Tern","Gelochelidon nilotica","L3239468","Tijuana Slough NWR--Visitor Center/North McCoy Trail","2025-06-29 17:01",32.5748894,-117.1259087,TRUE,FALSE,FALSE,"S255488484",2
-"22","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48760225","16001–16695 Dauphin Island Pkwy, Coden US-AL 30.34618, -88.12378","2025-06-29 15:50",30.346177,-88.123782,TRUE,FALSE,TRUE,"S255395215",2
-"23","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48833273","Morgan’s Island NO Access!","2025-06-29 15:30",34.643088,-76.5309325,TRUE,FALSE,TRUE,"S255736394",1
-"24","gubter2","Gull-billed Tern","Gelochelidon nilotica","L165143","Jamaica Bay Wildlife Refuge","2025-06-29 15:00",40.6170296,-73.8244561,TRUE,FALSE,FALSE,"S255474467",2
-"25","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48752232","Auto selected 33.00959, -79.42657","2025-06-29 14:55",33.009591,-79.42657,TRUE,FALSE,TRUE,"S255363222",8
-"26","gubter2","Gull-billed Tern","Gelochelidon nilotica","L5876425","Padre Isl. NS--Malaquite Campground","2025-06-29 14:51",27.4312095,-97.2949841,TRUE,FALSE,FALSE,"S255400099",1
-"27","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48749368","Ocean Course Clubhouse Kiawah Island","2025-06-29 14:02",32.6116157,-80.0224612,TRUE,FALSE,TRUE,"S255351873",2
-"28","gubter2","Gull-billed Tern","Gelochelidon nilotica","L276114","Assateague I. NS--Bayside Campground","2025-06-29 12:05",38.207274,-75.159605,TRUE,TRUE,FALSE,"S255299462",1
-"29","gubter2","Gull-billed Tern","Gelochelidon nilotica","L225177","Pascagoula Beach","2025-06-29 11:30",30.3437267,-88.5411024,TRUE,FALSE,FALSE,"S255309090",2
-"30","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48755915","FL, Big Talbot Is. SP, Spoonbill Pond","2025-06-29 11:30",30.5099427,-81.4580245,TRUE,FALSE,TRUE,"S255378771",2
-"31","gubter2","Gull-billed Tern","Gelochelidon nilotica","L1125706","Big Talbot Island SP--Spoonbill Pond (includes parking & boat ramp)","2025-06-29 11:00",30.5101704,-81.4585671,TRUE,FALSE,FALSE,"S255278016",2
-"32","gubter2","Gull-billed Tern","Gelochelidon nilotica","L36262612","North Atlantic Ocean, Galloway US-NJ 39.47331, -74.30742","2025-06-29 10:51",39.473312,-74.307419,TRUE,FALSE,TRUE,"S255421292",1
-"33","gubter2","Gull-billed Tern","Gelochelidon nilotica","L15413177","Lightning Point Marsh Restoration Area","2025-06-29 10:36",30.380191,-88.2668051,TRUE,FALSE,FALSE,"S255296234",1
-"34","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48734385","9736–9798 Barataria Blvd, Marrero US-LA 29.74652, -90.13732","2025-06-29 10:06",29.746524,-90.137323,TRUE,FALSE,TRUE,"S255293170",1
-"35","gubter2","Gull-billed Tern","Gelochelidon nilotica","L591483","Saint Simons Island--Goulds Inlet","2025-06-29 10:00",31.1570695,-81.3650036,TRUE,FALSE,FALSE,"S255408611",1
-"36","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48712514","533 Pinehurst, Portland, TX, USA","2025-06-29 09:20",27.8826651,-97.2969782,TRUE,FALSE,TRUE,"S255242109",1
-"37","gubter2","Gull-billed Tern","Gelochelidon nilotica","L1151034","Bayfront Park (Alabama Port, AL)","2025-06-29 08:47",30.3570641,-88.1168318,TRUE,FALSE,FALSE,"S255235299",1
-"38","gubter2","Gull-billed Tern","Gelochelidon nilotica","L197073","Stone Harbor Point","2025-06-29 08:37",39.0317999,-74.7723111,TRUE,FALSE,FALSE,"S255229374",1
-"39","gubter2","Gull-billed Tern","Gelochelidon nilotica","L367627","Salton Sea--Young Rd. (west end)","2025-06-29 08:36",33.1330196,-115.6666589,TRUE,FALSE,FALSE,"S255411022",8
-"40","gubter2","Gull-billed Tern","Gelochelidon nilotica","L3161280","Seabrook Island--North Beach","2025-06-29 08:36",32.5727539,-80.1518404,TRUE,FALSE,FALSE,"S255200583",1
-"41","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48741268","Sedgefield Boulevard, Palmetto, Florida, US (27.633, -82.484)","2025-06-29 07:44",27.6334166,-82.4842967,TRUE,TRUE,TRUE,"S255320683",2
-"42","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48737918","US (40.505, -73.585)","2025-06-29 07:34",40.5049781,-73.5853727,TRUE,FALSE,TRUE,"S255307338",1
-"43","gubter2","Gull-billed Tern","Gelochelidon nilotica","L22577253","Oso Bay—Ocean Drive mud flats just E. of Texas A&M Corpus Christi campus","2025-06-29 07:17",27.7101193,-97.3150831,TRUE,FALSE,FALSE,"S255199354",1
-"44","gubter2","Gull-billed Tern","Gelochelidon nilotica","L370829","Salton Sea--W Bowles Rd. - west end","2025-06-29 07:02",33.1178563,-115.6789112,TRUE,FALSE,FALSE,"S255305700",5
-"45","gubter2","Gull-billed Tern","Gelochelidon nilotica","L598880","Edwin B. Forsythe NWR--Southwest Pool","2025-06-29 06:29",39.4621738,-74.4368362,TRUE,FALSE,FALSE,"S255204592",1
-"46","gubter2","Gull-billed Tern","Gelochelidon nilotica","L42962486","15869 Alabama 193, Coden, Alabama, US (30.349, -88.122)","2025-06-29 06:24",30.3489681,-88.1220024,TRUE,FALSE,TRUE,"S255199324",1
-"47","gubter2","Gull-billed Tern","Gelochelidon nilotica","L284440","Jones Park","2025-06-29 06:20",30.3670574,-89.085007,TRUE,FALSE,FALSE,"S255337546",1
-"48","gubter2","Gull-billed Tern","Gelochelidon nilotica","L757770","Salton Sea--Lack Rd. at Bannister Rd.","2025-06-29 06:07",33.0518029,-115.6471109,TRUE,FALSE,FALSE,"S255305319",2
-"49","gubter2","Gull-billed Tern","Gelochelidon nilotica","L2982116","Cape Lookout NS--Great Island Cabins","2025-06-29 05:56",34.7608385,-76.4121968,TRUE,FALSE,FALSE,"S255145201",1
-"50","gubter2","Gull-billed Tern","Gelochelidon nilotica","L714512","Sunset Lake  (Portland)","2025-06-28 15:45",27.8679131,-97.3274088,TRUE,FALSE,FALSE,"S255012590",2
-"51","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48668892","Sheep Islands US-NC (34.5805,-76.5312)","2025-06-28 15:40",34.58049,-76.531216,TRUE,FALSE,TRUE,"S254993536",3
-"52","gubter2","Gull-billed Tern","Gelochelidon nilotica","L124353","Huntington Beach SP","2025-06-28 15:30",33.5083,-79.0659,TRUE,FALSE,FALSE,"S255011808",1
-"53","gubter2","Gull-billed Tern","Gelochelidon nilotica","L44155621","Side Channel Islands","2025-06-28 13:26",27.324675,-97.38825,TRUE,TRUE,TRUE,"S255261588",100
-"54","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48649903","Shellmore Avenue Pit","2025-06-28 13:15",27.6308242,-82.4765406,TRUE,TRUE,TRUE,"S254924298",2
-"55","gubter2","Gull-billed Tern","Gelochelidon nilotica","L15807537","16871 Dauphin Island Pkwy, Coden US-AL (30.3415,-88.1262)","2025-06-28 13:12",30.341489,-88.126183,TRUE,FALSE,TRUE,"S255024315",1
-"56","gubter2","Gull-billed Tern","Gelochelidon nilotica","L16135255","Mangrove Point Mitigation Bank","2025-06-28 12:27",27.7358814,-82.4516534,TRUE,TRUE,FALSE,"S254974831",1
-"57","gubter2","Gull-billed Tern","Gelochelidon nilotica","L5156578","Jemison's Bait N Tackle","2025-06-28 11:50",30.3411173,-88.1263296,TRUE,FALSE,TRUE,"S254927085",1
-"58","gubter2","Gull-billed Tern","Gelochelidon nilotica","L211914","Nummy Island","2025-06-28 11:45",39.0365891,-74.7912741,TRUE,FALSE,FALSE,"S254904019",1
-"59","gubter2","Gull-billed Tern","Gelochelidon nilotica","L44155666","Six Cabins Islands","2025-06-28 11:30",27.206724,-97.422578,TRUE,FALSE,TRUE,"S255252401",10
-"60","gubter2","Gull-billed Tern","Gelochelidon nilotica","L14420278","Chester Island Bird Sanctuary (restricted access)","2025-06-28 11:25",28.4507003,-96.3484675,TRUE,FALSE,FALSE,"S254991350",6
-"61","gubter2","Gull-billed Tern","Gelochelidon nilotica","L1866452","Cactus Creek Ranch (private - restricted access)","2025-06-28 10:58",26.215797,-97.429897,TRUE,FALSE,FALSE,"S254938086",1
-"62","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48637301","Horsepen Point CW Rush Island","2025-06-28 10:51",34.6817006,-76.4947044,TRUE,FALSE,TRUE,"S254876354",3
-"63","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48632307","Horsepen Point CW Teal Island","2025-06-28 10:23",34.6891471,-76.4929627,TRUE,FALSE,TRUE,"S254855692",1
-"64","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48631496","Horsepen Point CW North Carolina, US (34.689, -76.489)","2025-06-28 10:06",34.6892227,-76.4888834,TRUE,FALSE,TRUE,"S254852365",3
-"65","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48627460","Broad","2025-06-28 09:52",30.359135,-89.110399,TRUE,FALSE,TRUE,"S254866256",6
-"66","gubter2","Gull-billed Tern","Gelochelidon nilotica","L1575305","Brazoria NWR--Auto Tour Loop and Discovery Center","2025-06-28 09:33",29.0599843,-95.267568,TRUE,FALSE,FALSE,"S254910257",3
-"67","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48670305","Horsepen Point CW: Sheep Islands US-NC (34.6837,-76.4789)","2025-06-28 09:28",34.683743,-76.478926,TRUE,FALSE,TRUE,"S254999131",3
-"68","gubter2","Gull-billed Tern","Gelochelidon nilotica","L12660107","Brazoria Co.—Levee Road/CR690","2025-06-28 09:27",28.9871077,-95.3055501,TRUE,FALSE,FALSE,"S254880414",4
-"69","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48629933","Horsepen Point CW Marshallberg, North Carolina, US (34.687, -76.482)","2025-06-28 09:27",34.6866362,-76.4820877,TRUE,FALSE,TRUE,"S254845541",5
-"70","gubter2","Gull-billed Tern","Gelochelidon nilotica","L966711","Bayshore Bikeway--13th Street (Ponds 22/20)","2025-06-28 09:21",32.5880078,-117.1059448,TRUE,FALSE,FALSE,"S254926086",2
-"71","gubter2","Gull-billed Tern","Gelochelidon nilotica","L36499434","Golf course beach, gulf front","2025-06-28 09:00",30.241673,-88.107775,TRUE,FALSE,TRUE,"S254958999",6
-"72","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48670199","Horsepen Point CW: Sheep Islands US-NC (34.6857,-76.4770)","2025-06-28 08:51",34.685702,-76.476979,TRUE,FALSE,TRUE,"S254998681",4
-"73","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48657971","Jemison’s Bait Shop, Coden US-AL","2025-06-28 08:50",30.34213,-88.12591,TRUE,FALSE,TRUE,"S254953674",1
-"74","gubter2","Gull-billed Tern","Gelochelidon nilotica","L723695","Lido Beach Passive Nature Area","2025-06-28 08:26",40.5923663,-73.5957384,TRUE,FALSE,FALSE,"S254915092",1
-"75","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48626306","Horsepen Point CW Marshallberg, North Carolina, US (34.691, -76.482)","2025-06-28 08:25",34.6905244,-76.482313,TRUE,FALSE,TRUE,"S254828894",4
-"76","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48029389","Saturday Beach","2025-06-28 08:24",28.384213,-96.389819,TRUE,FALSE,TRUE,"S254989730",2
-"77","gubter2","Gull-billed Tern","Gelochelidon nilotica","L508149","Nickerson Beach","2025-06-28 08:15",40.5871823,-73.6024,TRUE,FALSE,FALSE,"S255549241",NA
-"78","gubter2","Gull-billed Tern","Gelochelidon nilotica","L724990","Dauphin Island--Pelican Point","2025-06-28 08:01",30.2462407,-88.0759066,TRUE,FALSE,FALSE,"S254899698",3
-"79","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48670076","Horsepen Point CW: Auto selected 34.68853, -76.47528","2025-06-28 07:48",34.688528,-76.475281,TRUE,FALSE,TRUE,"S254998284",2
-"80","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48632731","Lack Rd, Calipatria US-CA 33.13181, -115.64884","2025-06-28 07:33",33.131809,-115.648841,TRUE,FALSE,TRUE,"S254857528",3
-"81","gubter2","Gull-billed Tern","Gelochelidon nilotica","L4071534","Calipatria, West Young Road area","2025-06-28 07:06",33.1321607,-115.6386566,TRUE,FALSE,TRUE,"S254911465",10
-"82","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48669991","Horsepen Point CW: Sheep Islands US-NC (34.6923,-76.4724)","2025-06-28 06:44",34.692334,-76.472388,TRUE,FALSE,TRUE,"S254997963",2
-"83","gubter2","Gull-billed Tern","Gelochelidon nilotica","L166463","Dauphin Island","2025-06-27 18:20",30.2504,-88.1058,TRUE,FALSE,FALSE,"S254710403",2
-"84","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48439036","Sedgefield Boulevard, Palmetto, Florida, US (27.633, -82.485)","2025-06-27 18:15",27.6327545,-82.4854713,TRUE,TRUE,TRUE,"S254699270",1
-"85","gubter2","Gull-billed Tern","Gelochelidon nilotica","L32162481","Turning basin","2025-06-27 18:10",28.792846,-95.571052,TRUE,FALSE,TRUE,"S254673172",1
-"86","gubter2","Gull-billed Tern","Gelochelidon nilotica","L3187119","Back Bay Blvd.","2025-06-27 16:49",30.4085056,-88.876369,TRUE,FALSE,FALSE,"S254668199",1
-"87","gubter2","Gull-billed Tern","Gelochelidon nilotica","L5966119","Kiawah Island--Marsh Island Park","2025-06-27 16:46",32.6213762,-80.065012,TRUE,FALSE,FALSE,"S254654233",1
-"88","gubter2","Gull-billed Tern","Gelochelidon nilotica","L788729","Tybee Island--North Beach","2025-06-27 16:17",32.0270701,-80.8530664,TRUE,FALSE,FALSE,"S255465940",5
-"89","gubter2","Gull-billed Tern","Gelochelidon nilotica","L598882","Edwin B. Forsythe NWR--Gull Pond","2025-06-27 14:37",39.46952,-74.4455696,TRUE,FALSE,FALSE,"S254616769",NA
-"90","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48569278","Davis SE Unnamed Road, Davis, North Carolina, US (34.774, -76.402)","2025-06-27 12:47",34.7740085,-76.4017813,TRUE,FALSE,TRUE,"S254587046",2
-"91","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48575845","Corpus Christi, Texas, US (27.767, -97.137) Shamrock Area","2025-06-27 12:32",27.7670394,-97.1365909,TRUE,FALSE,TRUE,"S254612001",1
-"92","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48567224","Davis SE Unnamed Road, Davis, North Carolina, US (34.782, -76.393)","2025-06-27 11:37",34.7821031,-76.3931808,TRUE,FALSE,TRUE,"S254579291",5
-"93","gubter2","Gull-billed Tern","Gelochelidon nilotica","L27753308","Yacht Club Rd.","2025-06-27 11:09",30.3420943,-88.5218337,TRUE,FALSE,FALSE,"S254582847",1
-"94","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48560896","Davis SE Unnamed Road, Davis, North Carolina, US (34.789, -76.386)","2025-06-27 10:35",34.7892146,-76.385855,TRUE,FALSE,TRUE,"S254554715",4
-"95","gubter2","Gull-billed Tern","Gelochelidon nilotica","L241906","Imperial Beach Pier","2025-06-27 09:46",32.5795817,-117.132945,TRUE,FALSE,FALSE,"S254589702",1
-"96","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48582538","Styron Bay CW: Carteret County US-NC (34.8142,-76.3736)","2025-06-27 09:05",34.814157,-76.373621,TRUE,FALSE,TRUE,"S254638824",1
-"97","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48552920","Styron Bay CW Dunes North Carolina, US (34.813, -76.364)","2025-06-27 08:47",34.8126238,-76.3638854,TRUE,FALSE,TRUE,"S254515926",2
-"98","gubter2","Gull-billed Tern","Gelochelidon nilotica","L562775","Carbon Plant Rd. & waterbird  lake","2025-06-27 08:13",27.8539888,-97.5520492,TRUE,FALSE,FALSE,"S254523032",2
-"99","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48550749","Styron Bay CW North Carolina, US (34.809, -76.367)","2025-06-27 08:02",34.8088811,-76.3667785,TRUE,FALSE,TRUE,"S254504215",4
-"100","gubter2","Gull-billed Tern","Gelochelidon nilotica","L2618136","Dauphin Island Causeway","2025-06-27 07:54",30.2932775,-88.1309509,TRUE,FALSE,FALSE,"S254526204",4
-"101","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48548022","Styron Bay CW  (34.807, -76.368)","2025-06-27 07:31",34.8071006,-76.3680338,TRUE,FALSE,TRUE,"S254488642",5
-"102","gubter2","Gull-billed Tern","Gelochelidon nilotica","L1149810","Whitney Lake Marsh Park","2025-06-27 07:12",27.8848228,-97.1914852,TRUE,FALSE,FALSE,"S254520896",2
-"103","gubter2","Gull-billed Tern","Gelochelidon nilotica","L761524","Bayshore Bikeway--Emory Cove & Pond 11","2025-06-27 07:09",32.6018801,-117.1238114,TRUE,FALSE,FALSE,"S254571650",7
-"104","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48546760","Styron Bay CW Dunes","2025-06-27 06:50",34.8050032,-76.370264,TRUE,FALSE,TRUE,"S254481713",2
-"105","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48582349","Styron Bay CW: Codds Creek US-NC (34.8098,-76.3737)","2025-06-27 06:41",34.809751,-76.373716,TRUE,FALSE,TRUE,"S254638140",2
-"106","gubter2","Gull-billed Tern","Gelochelidon nilotica","L9820130","New Round Island (restricted access)","2025-06-27 06:31",30.3055357,-88.5953804,TRUE,FALSE,FALSE,"S254549305",5
-"107","gubter2","Gull-billed Tern","Gelochelidon nilotica","L351857","Ansley","2025-06-27 06:19",30.2157255,-89.4878936,TRUE,FALSE,FALSE,"S254510110",2
-"108","gubter2","Gull-billed Tern","Gelochelidon nilotica","L45007342","Hatteras Point","2025-06-27 05:49",35.1991783,-75.722874,TRUE,FALSE,TRUE,"S254537324",9
-"109","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48530069","Styron CW Unnamed Road, Sealevel, North Carolina, US (34.823, -76.352)","2025-06-26 19:41",34.8227203,-76.3517045,TRUE,FALSE,TRUE,"S254407648",2
-"110","gubter2","Gull-billed Tern","Gelochelidon nilotica","L1057874","Courthouse Road Pier","2025-06-26 18:54",30.3774292,-89.0441465,TRUE,FALSE,FALSE,"S254403424",1
-"111","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48529763","Styron Bay CW South Core OBX","2025-06-26 18:50",34.8266002,-76.3479055,TRUE,FALSE,TRUE,"S254406256",10
-"112","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48612818","Styron Bay CW: Sheep Islands US-NC (34.8183,-76.3567)","2025-06-26 17:45",34.818296,-76.356691,TRUE,FALSE,TRUE,"S254637305",1
-"113","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48582055","Davis SE: Sheep Islands US-NC (34.7872,-76.3867)","2025-06-26 17:28",34.787247,-76.386716,TRUE,FALSE,TRUE,"S254636968",1
-"114","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48582008","Davis SE: Sheep Islands US-NC (34.7710,-76.4016)","2025-06-26 17:20",34.771007,-76.401577,TRUE,FALSE,TRUE,"S254636782",2
-"115","gubter2","Gull-billed Tern","Gelochelidon nilotica","L20190603","VegPro Farms - NOW CLOSED TO PUBLIC ACCESS","2025-06-26 15:36",26.5983644,-80.5342351,TRUE,FALSE,FALSE,"S254341471",2
-"116","gubter2","Gull-billed Tern","Gelochelidon nilotica","L42982670","16001–16695 Dauphin Island Pkwy, Coden US-AL 30.34682, -88.12348","2025-06-26 13:39",30.346817,-88.123476,TRUE,FALSE,TRUE,"S254504240",5
-"117","gubter2","Gull-billed Tern","Gelochelidon nilotica","L1107662","MacDill AFB (restricted access)","2025-06-26 12:21",27.841171,-82.4837726,TRUE,TRUE,FALSE,"S254294736",29
-"118","gubter2","Gull-billed Tern","Gelochelidon nilotica","L126637","Bombay Hook National Wildlife Refuge","2025-06-26 12:02",39.2670818,-75.4695511,TRUE,TRUE,FALSE,"S254318054",3
-"119","gubter2","Gull-billed Tern","Gelochelidon nilotica","L793778","Port Aransas Nature Preserve at Charlie's Pasture","2025-06-26 10:15",27.8327765,-97.0873833,TRUE,FALSE,FALSE,"S254302852",1
-"120","gubter2","Gull-billed Tern","Gelochelidon nilotica","L1296469","West Ship Island","2025-06-26 10:10",30.2122016,-88.9542389,TRUE,FALSE,FALSE,"S254393742",6
-"121","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48498573","Davis SE North Carolina, US (34.754, -76.432)","2025-06-26 10:02",34.753732,-76.4318794,TRUE,FALSE,TRUE,"S254273991",1
-"122","gubter2","Gull-billed Tern","Gelochelidon nilotica","L787448","Shamrock Island Preserve","2025-06-26 10:00",27.7622413,-97.16609,TRUE,FALSE,FALSE,"S254359916",NA
-"123","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48581939","Davis SE: Sheep Islands US-NC (34.7571,-76.4142)","2025-06-26 09:59",34.757116,-76.414153,TRUE,FALSE,TRUE,"S254636497",5
-"124","gubter2","Gull-billed Tern","Gelochelidon nilotica","L910949","Harbor Island (restricted access)","2025-06-26 09:50",32.4050699,-80.4330345,TRUE,FALSE,FALSE,"S254366594",3
-"125","gubter2","Gull-billed Tern","Gelochelidon nilotica","L45313324","16001–16695 Dauphin Island Pkwy, Coden US-AL 30.34490, -88.12434","2025-06-26 09:46",30.344899,-88.124342,TRUE,FALSE,TRUE,"S254274601",3
-"126","gubter2","Gull-billed Tern","Gelochelidon nilotica","L6169321","Xanadu III","2025-06-26 09:05",33.8141429,-78.6817378,TRUE,FALSE,TRUE,"S254238028",2
-"127","gubter2","Gull-billed Tern","Gelochelidon nilotica","L338583","Egery Road Marsh (near Bayside)","2025-06-26 08:43",28.0643215,-97.2124471,TRUE,FALSE,FALSE,"S254251672",1
-"128","gubter2","Gull-billed Tern","Gelochelidon nilotica","L7442565","Gulfport Harbor","2025-06-26 08:35",30.364202,-89.08955,TRUE,FALSE,TRUE,"S254255178",3
-"129","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48185434","16701–16839 Dauphin Island Pkwy, Coden US-AL (30.3425,-88.1251)","2025-06-26 08:34",30.342463,-88.125104,TRUE,FALSE,TRUE,"S254271653",2
-"130","gubter2","Gull-billed Tern","Gelochelidon nilotica","L1346664","San Patricio Co.--TX188 Bridge","2025-06-26 08:06",28.0443343,-97.271714,TRUE,TRUE,FALSE,"S254245330",6
-"131","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48581884","Codds Creek US-NC (34.7778,-76.4365)","2025-06-26 07:42",34.777789,-76.436539,TRUE,FALSE,TRUE,"S254636263",1
-"132","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48491466","Davis Ferry To South Core OBX","2025-06-26 07:31",34.7791084,-76.434397,TRUE,FALSE,TRUE,"S254242079",1
-"133","gubter2","Gull-billed Tern","Gelochelidon nilotica","L616660","Huntington Beach SP--North Beach/Jetty/Dunes Trail","2025-06-26 07:24",33.5253779,-79.0367106,TRUE,FALSE,FALSE,"S254262866",1
-"134","gubter2","Gull-billed Tern","Gelochelidon nilotica","L191760","Bear Island WMA (fall and winter restricted access)","2025-06-26 07:21",32.5918043,-80.4641247,TRUE,FALSE,FALSE,"S254242373",2
-"135","gubter2","Gull-billed Tern","Gelochelidon nilotica","L275524","Seaman Rd Sewage Lagoons (restricted access)","2025-06-26 07:09",30.500325,-88.7982038,TRUE,FALSE,FALSE,"S254279678",8
-"136","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48501896","North Cinder Island, Baldwin US-NY 40.60597, -73.61125","2025-06-26 07:01",40.605966,-73.611251,TRUE,FALSE,TRUE,"S254287323",4
-"137","gubter2","Gull-billed Tern","Gelochelidon nilotica","L2455153","Shem Creek Park","2025-06-26 06:36",32.7912704,-79.8844732,TRUE,FALSE,FALSE,"S254219684",4
-"138","gubter2","Gull-billed Tern","Gelochelidon nilotica","L713205","Meaher SP","2025-06-26 06:19",30.6655138,-87.9324138,TRUE,FALSE,FALSE,"S254244721",1
-"139","gubter2","Gull-billed Tern","Gelochelidon nilotica","L286004","Deer Island","2025-06-26 05:57",30.3847226,-88.8718414,TRUE,FALSE,FALSE,"S254287141",1
-"140","gubter2","Gull-billed Tern","Gelochelidon nilotica","L1784485","Wachapreague--Back Bays","2025-06-26 05:50",37.6021044,-75.6457395,TRUE,FALSE,FALSE,"S254363661",6
-"141","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48467233","Port Aransas Beach, Port Aransas US-TX 27.80477, -97.07452","2025-06-25 18:55",27.804774,-97.074523,TRUE,FALSE,TRUE,"S254127470",1
-"142","gubter2","Gull-billed Tern","Gelochelidon nilotica","L2035789","Pascagoula Point Park","2025-06-25 18:26",30.3444726,-88.5622072,TRUE,FALSE,FALSE,"S254124472",2
-"143","gubter2","Gull-billed Tern","Gelochelidon nilotica","L1336895","Lamar Beach Rd","2025-06-25 15:23",28.1456435,-96.9734859,TRUE,FALSE,FALSE,"S254082950",1
-"144","gubter2","Gull-billed Tern","Gelochelidon nilotica","L727367","Rockefeller SWR","2025-06-25 13:37",29.7294189,-92.8190913,TRUE,FALSE,FALSE,"S254080484",3
-"145","gubter2","Gull-billed Tern","Gelochelidon nilotica","L596901","East Kiawah Island","2025-06-25 12:36",32.6158096,-80.0184917,TRUE,FALSE,FALSE,"S254063590",3
-"146","gubter2","Gull-billed Tern","Gelochelidon nilotica","L129075","Salineño Wildlife Preserve (LTC 080)","2025-06-25 10:22",26.5148584,-99.1162062,TRUE,FALSE,FALSE,"S254007202",1
-"147","gubter2","Gull-billed Tern","Gelochelidon nilotica","L7926194","Jamaica Bay, Ruffle Bar","2025-06-25 09:40",40.5990392,-73.8576042,TRUE,TRUE,FALSE,"S254042163",1
-"148","gubter2","Gull-billed Tern","Gelochelidon nilotica","L2825008","Coronado, Fiddlers Cove","2025-06-25 09:08",32.65249,-117.15041,TRUE,FALSE,TRUE,"S254016929",1
-"149","gubter2","Gull-billed Tern","Gelochelidon nilotica","L3124649","Ocracoke Island--Springer's Point Preserve","2025-06-25 08:56",35.1042513,-75.9891915,TRUE,FALSE,FALSE,"S253953019",1
-"150","gubter2","Gull-billed Tern","Gelochelidon nilotica","L903856","Ft. Moultrie National Monument","2025-06-25 08:10",32.7588311,-79.8567868,TRUE,FALSE,FALSE,"S255433151",1
-"151","gubter2","Gull-billed Tern","Gelochelidon nilotica","L10814652","Jet Lag, Dauphin Island US-AL (30.2438,-88.1032)","2025-06-25 07:53",30.243835,-88.103199,TRUE,FALSE,TRUE,"S254160507",8
-"152","gubter2","Gull-billed Tern","Gelochelidon nilotica","L1292820","East Ship Island","2025-06-25 07:24",30.2359338,-88.8821411,TRUE,FALSE,FALSE,"S254011986",23
-"153","gubter2","Gull-billed Tern","Gelochelidon nilotica","L795156","Dauphin Island--Pier","2025-06-25 07:08",30.2478562,-88.126322,TRUE,FALSE,FALSE,"S253946106",1
-"154","gubter2","Gull-billed Tern","Gelochelidon nilotica","L35964900","Wallops Island (restricted access)","2025-06-25 06:38",37.867665,-75.441333,TRUE,FALSE,FALSE,"S254054844",3
-"155","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48424308","Dauphin Island-Hernando Place Beach","2025-06-25 06:32",30.242271,-88.103633,TRUE,FALSE,TRUE,"S253935665",15
-"156","gubter2","Gull-billed Tern","Gelochelidon nilotica","L28934533","PR-46, Falcon Heights US-TX 26.56569, -99.12522","2025-06-25 06:26",26.565694,-99.125219,TRUE,FALSE,TRUE,"S253958441",5
-"157","gubter2","Gull-billed Tern","Gelochelidon nilotica","L5543492","Big Branch Marsh NWR--Fritchie Marsh","2025-06-25 06:03",30.2059738,-89.7299039,TRUE,FALSE,FALSE,"S254054636",3
-"158","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48411338","16001–16695 Dauphin Island Pkwy, Coden US-AL 30.34660, -88.12356","2025-06-24 19:33",30.346604,-88.123559,TRUE,FALSE,TRUE,"S253873576",1
-"159","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48303343","1387 Harbor View Rd, Charleston US-SC 32.75606, -79.95884","2025-06-24 19:18",32.756059,-79.958839,TRUE,FALSE,TRUE,"S253830370",2
-"160","gubter2","Gull-billed Tern","Gelochelidon nilotica","L127288","Little Talbot Island SP","2025-06-24 15:38",30.460105,-81.4154828,TRUE,FALSE,FALSE,"S253837039",1
-"161","gubter2","Gull-billed Tern","Gelochelidon nilotica","L32132973","15904–16664 Dauphin Island Pkwy, Coden US-AL 30.35122, -88.12126","2025-06-24 15:24",30.351215,-88.121255,TRUE,FALSE,TRUE,"S253865784",1
-"162","gubter2","Gull-billed Tern","Gelochelidon nilotica","L418748","Seacoast Drive to Tijuana River mouth","2025-06-24 13:42",32.5665347,-117.1322003,TRUE,FALSE,FALSE,"S254351610",3
-"163","gubter2","Gull-billed Tern","Gelochelidon nilotica","L1861622","Popps Ferry Causeway Park","2025-06-24 11:58",30.421544,-88.9787199,TRUE,FALSE,TRUE,"S253743068",3
-"164","gubter2","Gull-billed Tern","Gelochelidon nilotica","L947421","Woldenberg Park (Moon Walk) and Jackson Square","2025-06-24 11:17",29.9566606,-90.0617391,TRUE,FALSE,FALSE,"S253736857",1
-"165","gubter2","Gull-billed Tern","Gelochelidon nilotica","L487373","Horn Island","2025-06-24 10:28",30.2345249,-88.6696243,TRUE,FALSE,FALSE,"S253750070",3
-"166","gubter2","Gull-billed Tern","Gelochelidon nilotica","L1487217","Santa Ana NWR--Pintail Lakes Trail","2025-06-24 09:16",26.0787993,-98.1330503,TRUE,FALSE,FALSE,"S254018737",3
-"167","gubter2","Gull-billed Tern","Gelochelidon nilotica","L1367563","Padre Isl. NS--Padre Isl. Drive Duck Pond","2025-06-24 09:05",27.4420449,-97.299999,TRUE,FALSE,FALSE,"S253804661",1
-"168","gubter2","Gull-billed Tern","Gelochelidon nilotica","L673436","Sonny Bono Salton Sea NWR--Union Tract / Visitor Center","2025-06-24 08:50",33.1774666,-115.6150961,TRUE,FALSE,FALSE,"S253740745",1
-"169","gubter2","Gull-billed Tern","Gelochelidon nilotica","L5686138","Matagorda Island--NE end","2025-06-24 08:25",28.3559062,-96.4077759,TRUE,FALSE,FALSE,"S253833824",6
-"170","gubter2","Gull-billed Tern","Gelochelidon nilotica","L159322","Hog Island","2025-06-24 07:37",37.4181553,-75.691133,TRUE,FALSE,FALSE,"S253657271",1
-"171","gubter2","Gull-billed Tern","Gelochelidon nilotica","L572555","Padre Isl. NS (Kenedy Co.)","2025-06-24 07:35",27.2381472,-97.3587799,TRUE,FALSE,FALSE,"S253959236",1
-"172","gubter2","Gull-billed Tern","Gelochelidon nilotica","L923371","Dauphin Island--Pelican Island","2025-06-24 06:47",30.2385292,-88.1218529,TRUE,FALSE,FALSE,"S253671293",3
-"173","gubter2","Gull-billed Tern","Gelochelidon nilotica","L557026","Ocracoke Island--North End","2025-06-24 06:16",35.1881194,-75.7788849,TRUE,FALSE,FALSE,"S253643015",1
-"174","gubter2","Gull-billed Tern","Gelochelidon nilotica","L159367","Parramore Island","2025-06-24 06:10",37.5366,-75.6349,TRUE,FALSE,FALSE,"S254062791",10
-"175","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48404590","hwy 3142 between 186 and San Perlita","2025-06-24 00:20",26.5041503,-97.6013765,TRUE,FALSE,TRUE,"S253843291",1
-"176","gubter2","Gull-billed Tern","Gelochelidon nilotica","L11343244","Matanzas Beach Access","2025-06-23 18:18",29.795375,-81.258731,TRUE,FALSE,TRUE,"S253860247",2
-"177","gubter2","Gull-billed Tern","Gelochelidon nilotica","L4795535","Gladeview Rd.","2025-06-23 17:50",26.6661316,-80.492734,TRUE,FALSE,FALSE,"S253554190",1
-"178","gubter2","Gull-billed Tern","Gelochelidon nilotica","L660064","Chincoteague NWR--Wildlife Loop","2025-06-23 17:03",37.9045392,-75.3517216,TRUE,FALSE,FALSE,"S253531015",1
-"179","gubter2","Gull-billed Tern","Gelochelidon nilotica","L422541","Leonabelle Turnbull Birding Ctr. (CTC 057)","2025-06-23 15:11",27.8275297,-97.0789558,TRUE,FALSE,FALSE,"S253587237",1
-"180","gubter2","Gull-billed Tern","Gelochelidon nilotica","L619020","Surfside Beach & Jetty (UTC 106)","2025-06-23 10:54",28.9381014,-95.295217,TRUE,FALSE,FALSE,"S253454507",3
-"181","gubter2","Gull-billed Tern","Gelochelidon nilotica","L1839493","Tijuana Slough NWR--South McCoy Trail area","2025-06-23 10:39",32.5647001,-117.125522,TRUE,FALSE,FALSE,"S253517343",1
-"182","gubter2","Gull-billed Tern","Gelochelidon nilotica","L4886002","Assawoman Island (no access 15 Mar-15 Sep)","2025-06-23 10:24",37.7848254,-75.5306196,TRUE,FALSE,FALSE,"S254133027",5
-"183","gubter2","Gull-billed Tern","Gelochelidon nilotica","L859480","Dauphin Island--West End","2025-06-23 09:54",30.2491229,-88.1934168,TRUE,FALSE,FALSE,"S253472149",2
-"184","gubter2","Gull-billed Tern","Gelochelidon nilotica","L11359956","Jekyll Island--North Loop Trail","2025-06-23 09:37",31.1084187,-81.4073906,TRUE,FALSE,FALSE,"S253473663",3
-"185","gubter2","Gull-billed Tern","Gelochelidon nilotica","L276835","LRGV NWR--La Sal del Rey (LTC 005)","2025-06-23 09:30",26.5305713,-98.0540943,TRUE,FALSE,FALSE,"S253550162",2
-"186","gubter2","Gull-billed Tern","Gelochelidon nilotica","L4984753","3-D Spoil Island (Restricted Access)","2025-06-23 08:30",27.8316379,-82.4346256,TRUE,TRUE,FALSE,"S253799799",215
-"187","gubter2","Gull-billed Tern","Gelochelidon nilotica","L449889","Patriot's Point -- nature trail and surrounding areas","2025-06-23 08:07",32.7912107,-79.9011505,TRUE,FALSE,FALSE,"S255321939",2
-"188","gubter2","Gull-billed Tern","Gelochelidon nilotica","L2147541","40 Acre Ponds","2025-06-23 07:15",29.3534517,-94.912262,TRUE,FALSE,TRUE,"S253403256",1
-"189","gubter2","Gull-billed Tern","Gelochelidon nilotica","L35848423","123 Bayshore Way, Goodland US-FL 25.92737, -81.64642 (Crabby Flats)","2025-06-23 07:00",25.927372,-81.646422,TRUE,TRUE,TRUE,"S253482986",1
-"190","gubter2","Gull-billed Tern","Gelochelidon nilotica","L725012","Dauphin Island--Audubon Bird Sanctuary","2025-06-23 06:53",30.2487987,-88.0864692,TRUE,FALSE,FALSE,"S253405766",1
-"191","gubter2","Gull-billed Tern","Gelochelidon nilotica","L12958534","Hall's Bayou Ranch (ABSOLUTELY NO PUBLIC ACCESS)","2025-06-23 06:06",29.2730599,-95.070902,TRUE,FALSE,FALSE,"S253445811",2
-"192","gubter2","Gull-billed Tern","Gelochelidon nilotica","L1305502","Smith Beach Morgantown","2025-06-23 05:47",30.232671,-87.9191208,TRUE,FALSE,TRUE,"S253509390",1
-"193","gubter2","Gull-billed Tern","Gelochelidon nilotica","L1295267","Indianola","2025-06-22 18:19",28.5105588,-96.4884168,TRUE,FALSE,FALSE,"S253539263",2
-"194","gubter2","Gull-billed Tern","Gelochelidon nilotica","L1016879","East Point Fishing Pier","2025-06-22 17:49",29.7232036,-84.8877633,TRUE,TRUE,FALSE,"S253284627",1
-"195","gubter2","Gull-billed Tern","Gelochelidon nilotica","L2334913","Kiawah Island--East Beach","2025-06-22 15:49",32.6106042,-80.0157452,TRUE,FALSE,FALSE,"S253236967",1
-"196","gubter2","Gull-billed Tern","Gelochelidon nilotica","L367640","Bayshore Bikeway--7th Street (Ponds 10/10A)","2025-06-22 14:06",32.5915005,-117.1180604,TRUE,FALSE,FALSE,"S253345626",1
-"197","gubter2","Gull-billed Tern","Gelochelidon nilotica","L248017","Bolivar Flats Shorebird Sanctuary","2025-06-22 13:43",29.3711371,-94.7287083,TRUE,FALSE,FALSE,"S253462340",3
-"198","gubter2","Gull-billed Tern","Gelochelidon nilotica","L1505042","Bolivar Flats Shorebird Sanctuary--Rettilon Rd","2025-06-22 12:51",29.3872984,-94.7278439,TRUE,FALSE,FALSE,"S253183044",1
-"199","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48049553","2939 Blue Water Hwy, Surfside Beach US-TX 28.97994, -95.25249","2025-06-22 12:09",28.979942,-95.252487,TRUE,FALSE,TRUE,"S253166004",2
-"200","gubter2","Gull-billed Tern","Gelochelidon nilotica","L266064","San Jacinto Battleground (UTC 041)","2025-06-22 11:11",29.7506484,-95.0770891,TRUE,FALSE,FALSE,"S253165216",1
-"201","gubter2","Gull-billed Tern","Gelochelidon nilotica","L16221474","Little Creek WA--Observation Tower area","2025-06-22 11:00",39.153557,-75.4313432,TRUE,TRUE,FALSE,"S253211898",2
-"202","gubter2","Gull-billed Tern","Gelochelidon nilotica","L801773","Broussard Beach (Willow Island entrance to W end)","2025-06-22 10:53",29.7766703,-93.2781315,TRUE,FALSE,FALSE,"S253306590",1
-"203","gubter2","Gull-billed Tern","Gelochelidon nilotica","L335811","Assateague Island","2025-06-22 10:33",37.8872945,-75.3440039,TRUE,FALSE,FALSE,"S253239682",4
-"204","gubter2","Gull-billed Tern","Gelochelidon nilotica","L36299700","Port O'Connor, Texas, US (28.424, -96.414)","2025-06-22 07:54",28.424081,-96.4141552,TRUE,FALSE,TRUE,"S253225679",3
-"205","gubter2","Gull-billed Tern","Gelochelidon nilotica","L802201","Otay Valley Regional Park--Hollister Pond","2025-06-22 07:36",32.5909297,-117.0860897,TRUE,FALSE,FALSE,"S253113671",2
-"206","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48221900","Cape Hatteras NS—Sandy Bay-Sound Side","2025-06-22 07:34",35.221141,-75.657563,TRUE,FALSE,TRUE,"S253051869",2
-"207","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48258751","7138 Archway Court, Palmetto, Florida, US (27.632, -82.49)","2025-06-22 06:57",27.6324131,-82.489667,TRUE,TRUE,TRUE,"S253205938",1
-"208","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48242780","Drum Lake Island - Texas, US (29.015, -95.222)","2025-06-22 06:50",29.0151729,-95.2221392,TRUE,FALSE,TRUE,"S253145682",1
-"209","gubter2","Gull-billed Tern","Gelochelidon nilotica","L6076938","Sem Chi Rice Plant Road","2025-06-22 06:15",26.6276648,-80.4700094,TRUE,FALSE,TRUE,"S253237539",4
-"210","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48367024","16001–16695 Dauphin Island Pkwy, Coden US-AL (30.3448,-88.1239)","2025-06-22 06:09",30.344783,-88.123864,TRUE,FALSE,TRUE,"S253692338",2
-"211","gubter2","Gull-billed Tern","Gelochelidon nilotica","L4679458","Cape Hatteras NS--Ramp 55","2025-06-21 19:58",35.205733,-75.7045609,TRUE,FALSE,FALSE,"S252922476",1
-"212","gubter2","Gull-billed Tern","Gelochelidon nilotica","L483019","Bombay Hook NWR--Shearness Pool","2025-06-21 18:03",39.2684108,-75.4772758,TRUE,TRUE,FALSE,"S252896691",3
-"213","gubter2","Gull-billed Tern","Gelochelidon nilotica","L5191962","Boggy Bayou Nature Park","2025-06-21 18:01",28.4563683,-96.4115819,TRUE,FALSE,FALSE,"S252923130",2
-"214","gubter2","Gull-billed Tern","Gelochelidon nilotica","L2169706","GA-ISS-plot 1","2025-06-21 17:31",31.1455783,-81.515851,TRUE,FALSE,TRUE,"S252925772",3
-"215","gubter2","Gull-billed Tern","Gelochelidon nilotica","L5148631","San Patricio Co.--CR1906","2025-06-21 17:28",27.9254692,-97.4979007,TRUE,FALSE,FALSE,"S252886870",2
-"216","gubter2","Gull-billed Tern","Gelochelidon nilotica","L2593508","Cherry Grove/Hog Inlet","2025-06-21 16:09",33.8401937,-78.6008263,TRUE,FALSE,FALSE,"S252854856",1
-"217","gubter2","Gull-billed Tern","Gelochelidon nilotica","L386461","Crab Rd, Surfside","2025-06-21 15:40",28.9488985,-95.296526,TRUE,FALSE,FALSE,"S252864331",1
-"218","gubter2","Gull-billed Tern","Gelochelidon nilotica","L1177856","Jamaica Bay, Yellow Bar Hassock","2025-06-21 12:36",40.6088594,-73.8430779,TRUE,TRUE,FALSE,"S252792083",2
-"219","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48201776","Davis rd Ponds","2025-06-21 12:33",33.255731,-115.579999,TRUE,FALSE,TRUE,"S252955740",10
-"220","gubter2","Gull-billed Tern","Gelochelidon nilotica","L17573134","Lonnie Wurn Boat Ramp4121 Ferber Rd, Jacksonville US-FL 30.37577, -81.58521","2025-06-21 12:17",30.375772,-81.585206,TRUE,FALSE,TRUE,"S252797362",1
-"221","gubter2","Gull-billed Tern","Gelochelidon nilotica","L275798","Salton Sea--Lack Rd. at Lindsey Rd","2025-06-21 11:51",33.1474887,-115.6479886,TRUE,FALSE,FALSE,"S252821364",2
-"222","gubter2","Gull-billed Tern","Gelochelidon nilotica","L129098","High Island--Smith Oaks Sanctuary (UTC 052)","2025-06-21 11:21",29.573681,-94.3898535,TRUE,FALSE,FALSE,"S253386712",1
-"223","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48219271","Boyle Rd","2025-06-21 11:03",33.138477,-115.62285,TRUE,FALSE,TRUE,"S253036191",15
-"224","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48317467","West Young rd Trap","2025-06-21 10:35",33.132532,-115.606011,TRUE,FALSE,TRUE,"S253469386",1
-"225","gubter2","Gull-billed Tern","Gelochelidon nilotica","L159289","Chincoteague NWR--Swan Cove","2025-06-21 10:10",37.8941,-75.3485,TRUE,FALSE,FALSE,"S253270639",1
-"226","gubter2","Gull-billed Tern","Gelochelidon nilotica","L668814","Botany Bay Plantation WMA","2025-06-21 09:51",32.5481155,-80.2504921,TRUE,FALSE,FALSE,"S252731669",1
-"227","gubter2","Gull-billed Tern","Gelochelidon nilotica","L18683379","Anahuac Entrance Road","2025-06-21 09:20",29.6331035,-94.5395386,TRUE,FALSE,TRUE,"S252737133",1
-"228","gubter2","Gull-billed Tern","Gelochelidon nilotica","L27817068","Salton Seawall--lack to Obsidian Butte","2025-06-21 09:19",33.146475,-115.654336,TRUE,FALSE,TRUE,"S252953042",1
-"229","gubter2","Gull-billed Tern","Gelochelidon nilotica","L597862","Rutherford Beach","2025-06-21 08:40",29.7584911,-93.1245375,TRUE,FALSE,FALSE,"S252726252",1
-"230","gubter2","Gull-billed Tern","Gelochelidon nilotica","L33013368","23028 Nikawampus Rd, Melfa US-VA 37.62785, -75.68262","2025-06-21 08:32",37.627852,-75.682619,TRUE,FALSE,TRUE,"S252756712",2
-"231","gubter2","Gull-billed Tern","Gelochelidon nilotica","L855710","Salton Sea--Garst Rd. N. of Sinclair","2025-06-21 08:15",33.1875288,-115.5970843,TRUE,FALSE,FALSE,"S253470372",2
-"232","gubter2","Gull-billed Tern","Gelochelidon nilotica","L48407336","Sedgefield Blvd, Palmetto US-FL 27.63262, -82.48546","2025-06-21 07:55",27.632624,-82.485462,TRUE,TRUE,TRUE,"S253855219",1
-"233","gubter2","Gull-billed Tern","Gelochelidon nilotica","L1231887","Salton Sea--Noffsinger Rd. west","2025-06-21 07:46",33.2346805,-115.5847764,TRUE,FALSE,FALSE,"S252955550",25
-"234","gubter2","Gull-billed Tern","Gelochelidon nilotica","L11348659","Grand Isle--east side beaches","2025-06-21 06:14",29.2401211,-89.9782189,TRUE,FALSE,FALSE,"S252776772",9
-"235","gubter2","Gull-billed Tern","Gelochelidon nilotica","L1616913","Chincoteague NWR--Beach","2025-06-21 05:47",37.8800638,-75.3495458,TRUE,FALSE,FALSE,"S252625202",2
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
+"1","clagre","Clark's Grebe","Aechmophorus clarkii","L48900361","69th Avenue Southeast, Kulm, North Dakota, US (46.242, -98.943)","2025-07-01 18:02",2,46.2416775,-98.9434809,TRUE,FALSE,TRUE,"S256047542"
+"2","clagre","Clark's Grebe","Aechmophorus clarkii","L631718","Ventura Harbor--Marina Park","2025-07-01 16:31",1,34.2542014,-119.2683935,TRUE,FALSE,FALSE,"S256056930"
+"3","clagre","Clark's Grebe","Aechmophorus clarkii","L1002395","Lake Merced--Wooden Bridge area","2025-07-01 15:50",1,37.728044,-122.4938035,TRUE,FALSE,FALSE,"S256048838"
+"4","clagre","Clark's Grebe","Aechmophorus clarkii","L165048","Farmington Bay WMA","2025-07-01 15:39",4,40.955141,-111.9191396,TRUE,FALSE,FALSE,"S256039205"
+"5","clagre","Clark's Grebe","Aechmophorus clarkii","L837268","Sacramento NWR--Auto Route & Visitor Center","2025-07-01 14:16",6,39.4284385,-122.1564999,TRUE,FALSE,FALSE,"S256039495"
+"6","clagre","Clark's Grebe","Aechmophorus clarkii","L4902369","Adel Ponds","2025-07-01 14:14",2,42.174218,-119.8068523,TRUE,FALSE,FALSE,"S256030426"
+"7","clagre","Clark's Grebe","Aechmophorus clarkii","L109339","IRWD San Joaquin Marsh & Wildlife Sanctuary, Irvine","2025-07-01 13:10",1,33.6637274,-117.8426814,TRUE,FALSE,FALSE,"S256022641"
+"8","clagre","Clark's Grebe","Aechmophorus clarkii","L4593636","Silver Lake--Trailhead and Maxine's Marsh","2025-07-01 13:01",2,39.6425238,-119.8973592,TRUE,FALSE,FALSE,"S256015682"
+"9","clagre","Clark's Grebe","Aechmophorus clarkii","L4682665","Bear Lake NWR--Dingle Unit","2025-07-01 10:32",1,42.2321105,-111.3492626,TRUE,FALSE,FALSE,"S255990392"
+"10","clagre","Clark's Grebe","Aechmophorus clarkii","L12452035","Toothaker HMU--Riek Rd","2025-07-01 10:04",1,46.13885,-119.005142,TRUE,FALSE,FALSE,"S256043022"
+"11","clagre","Clark's Grebe","Aechmophorus clarkii","L607928","Putnam's Point","2025-07-01 10:00",6,42.2388442,-121.8075228,TRUE,FALSE,FALSE,"S255964544"
+"12","clagre","Clark's Grebe","Aechmophorus clarkii","L140460","Big Johnson Reservoir & Bluestem Prairie Open Space","2025-07-01 09:57",1,38.7482319,-104.6943795,TRUE,FALSE,FALSE,"S255949317"
+"13","clagre","Clark's Grebe","Aechmophorus clarkii","L2877866","Lucerne Dr. Vista Point -- Cayucos","2025-07-01 09:51",2,35.44965,-120.9141691,TRUE,FALSE,FALSE,"S256026216"
+"14","clagre","Clark's Grebe","Aechmophorus clarkii","L586105","Sue's Pond--Logan River Wetlands and Shorebird Playa","2025-07-01 09:08",1,41.7320355,-111.8809032,TRUE,FALSE,FALSE,"S255925543"
+"15","clagre","Clark's Grebe","Aechmophorus clarkii","L151122","Antelope Island SP--Causeway","2025-07-01 09:05",1,41.08841,-112.186714,TRUE,FALSE,FALSE,"S256017219"
+"16","clagre","Clark's Grebe","Aechmophorus clarkii","L518546","Malheur NWR--Narrows","2025-07-01 08:48",1,43.2873151,-118.9591885,TRUE,FALSE,FALSE,"S255939596"
+"17","clagre","Clark's Grebe","Aechmophorus clarkii","L507756","Pt. Isabel Regional Shoreline (please do not use for areas northwest of dog park)","2025-07-01 08:35",3,37.8980248,-122.3237228,TRUE,FALSE,FALSE,"S256024273"
+"18","clagre","Clark's Grebe","Aechmophorus clarkii","L266967","Great Western Reservoir (closed to public)","2025-07-01 08:13",1,39.8968365,-105.1522923,TRUE,FALSE,FALSE,"S255912992"
+"19","clagre","Clark's Grebe","Aechmophorus clarkii","L4558637","Lake Casitas Recreation Area","2025-07-01 07:15",3,34.4134951,-119.3395472,TRUE,FALSE,FALSE,"S256039872"
+"20","clagre","Clark's Grebe","Aechmophorus clarkii","L28266513","Provo River Delta","2025-07-01 07:14",1,40.2458762,-111.7205421,TRUE,FALSE,FALSE,"S255926936"
+"21","clagre","Clark's Grebe","Aechmophorus clarkii","L2263572","San Joaquin Wildlife Sanctuary--Fledgling Loop Trail","2025-07-01 07:12",11,33.6609892,-117.8437141,TRUE,FALSE,FALSE,"S255941776"
+"22","clagre","Clark's Grebe","Aechmophorus clarkii","L212070","Glover Lane & GSL Nature Center","2025-07-01 06:45",2,40.9650238,-111.9299004,TRUE,FALSE,FALSE,"S255941630"
+"23","clagre","Clark's Grebe","Aechmophorus clarkii","L285944","Lake Perris State Recreation Area","2025-07-01 06:28",2,33.8622197,-117.1685886,TRUE,FALSE,FALSE,"S255970858"
+"24","clagre","Clark's Grebe","Aechmophorus clarkii","L297814","Lake Casitas","2025-07-01 06:16",13,34.3812555,-119.3401808,TRUE,FALSE,FALSE,"S256052165"
+"25","clagre","Clark's Grebe","Aechmophorus clarkii","L1853103","Lake Mead NRA--33 Hole Overlook","2025-07-01 05:15",1,36.11529,-114.8417187,TRUE,FALSE,FALSE,"S255928589"
+"26","clagre","Clark's Grebe","Aechmophorus clarkii","L247312","Freezout Lake WMA","2025-06-30 20:15",6,47.6657859,-112.0112392,TRUE,FALSE,FALSE,"S255795567"
+"27","clagre","Clark's Grebe","Aechmophorus clarkii","L5988406","Fern Ridge WMA--Fisher Butte Unit north (dikes around Pond 4, 5, 6, and west edge of 3)","2025-06-30 18:51",1,44.0667313,-123.263855,TRUE,FALSE,FALSE,"S255798657"
+"28","clagre","Clark's Grebe","Aechmophorus clarkii","L42610037","Walters Gravel Pond","2025-06-30 18:37",1,43.8334312,-111.7848882,TRUE,FALSE,TRUE,"S255775643"
+"29","clagre","Clark's Grebe","Aechmophorus clarkii","L299576","Little Dell Reservoir","2025-06-30 18:26",1,40.776814,-111.68722,TRUE,FALSE,FALSE,"S255781643"
+"30","clagre","Clark's Grebe","Aechmophorus clarkii","L622135","Bountiful Pond","2025-06-30 17:54",1,40.9057611,-111.9219303,TRUE,FALSE,FALSE,"S255781814"
+"31","clagre","Clark's Grebe","Aechmophorus clarkii","L791371","Lake Merced--Concrete Bridge area","2025-06-30 17:42",2,37.7126918,-122.4879456,TRUE,FALSE,FALSE,"S255767991"
+"32","clagre","Clark's Grebe","Aechmophorus clarkii","L48838196","Link River Trail, Klamath Falls US-OR 42.23801, -121.80656","2025-06-30 16:51",3,42.238013,-121.806564,TRUE,FALSE,TRUE,"S255754416"
+"33","clagre","Clark's Grebe","Aechmophorus clarkii","L1979614","Tule Lake NWR--Auto Tour and Sump 1A","2025-06-30 15:30",4,41.8776136,-121.5273285,TRUE,FALSE,FALSE,"S255802424"
+"34","clagre","Clark's Grebe","Aechmophorus clarkii","L109465","Lake Merced - for long traveling lists - use more specific hotspots where appropriate","2025-06-30 15:19",4,37.7207,-122.4931,TRUE,FALSE,FALSE,"S255769564"
+"35","clagre","Clark's Grebe","Aechmophorus clarkii","L9443819","Summer Lake Wildlife Area--East Link and Gull Island","2025-06-30 13:52",20,42.955722,-120.714412,TRUE,FALSE,FALSE,"S255726455"
+"36","clagre","Clark's Grebe","Aechmophorus clarkii","L129010","Balmorhea Lake (fee access)","2025-06-30 13:00",NA,30.9617996,-103.7192993,TRUE,FALSE,FALSE,"S255736516"
+"37","clagre","Clark's Grebe","Aechmophorus clarkii","L8048098","North of Narrows a couple miles on 205","2025-06-30 12:44",2,43.3177015,-118.9761461,TRUE,FALSE,TRUE,"S255700514"
+"38","clagre","Clark's Grebe","Aechmophorus clarkii","L1414701","Laguna Madre","2025-06-30 12:03",1,36.6054787,-104.6393876,TRUE,FALSE,FALSE,"S255685076"
+"39","clagre","Clark's Grebe","Aechmophorus clarkii","L164961","Bear River MBR--Auto Tour Loop","2025-06-30 11:37",71,41.4692291,-112.2947788,TRUE,FALSE,FALSE,"S255712634"
+"40","clagre","Clark's Grebe","Aechmophorus clarkii","L234239","Bruneau Sand Dunes SP","2025-06-30 10:37",2,42.8995926,-115.696493,TRUE,FALSE,FALSE,"S255674926"
+"41","clagre","Clark's Grebe","Aechmophorus clarkii","L168559","Provo Airport Dike","2025-06-30 09:50",3,40.2186598,-111.7285157,TRUE,FALSE,FALSE,"S255720974"
+"42","clagre","Clark's Grebe","Aechmophorus clarkii","L1798012","Bruneau Dunes SP--Observatory","2025-06-30 09:48",1,42.9021617,-115.6905638,TRUE,FALSE,FALSE,"S255664553"
+"43","clagre","Clark's Grebe","Aechmophorus clarkii","L210223","Vasona Lake County Park","2025-06-30 09:03",1,37.2385116,-121.9709873,TRUE,FALSE,FALSE,"S255663974"
+"44","clagre","Clark's Grebe","Aechmophorus clarkii","L1333106","Old Creek--Cayucos","2025-06-30 08:59",3,35.4343095,-120.8875608,TRUE,FALSE,FALSE,"S255697284"
+"45","clagre","Clark's Grebe","Aechmophorus clarkii","L269866","Washoe Lake SP--Bellevue Rd.","2025-06-30 08:54",1,39.2471439,-119.8078394,TRUE,FALSE,FALSE,"S255754777"
+"46","clagre","Clark's Grebe","Aechmophorus clarkii","L448084","Woodland WTP","2025-06-30 08:35",1,38.6624345,-121.7173585,TRUE,FALSE,FALSE,"S255779003"
+"47","clagre","Clark's Grebe","Aechmophorus clarkii","L370941","Folsom Lake SRA--Beals Pt.","2025-06-30 08:23",4,38.7214119,-121.1670113,TRUE,FALSE,FALSE,"S255661648"
+"48","clagre","Clark's Grebe","Aechmophorus clarkii","L600469","Bateman Island","2025-06-30 08:20",1,46.2405035,-119.2254353,TRUE,FALSE,FALSE,"S255674130"
+"49","clagre","Clark's Grebe","Aechmophorus clarkii","L168162","Sweitzer Lake SP","2025-06-30 07:54",1,38.712734,-108.032265,TRUE,FALSE,FALSE,"S255938999"
+"50","clagre","Clark's Grebe","Aechmophorus clarkii","L1743855","Lake Elsinore--south levee and back basin","2025-06-30 07:25",6,33.6427729,-117.3317176,TRUE,FALSE,FALSE,"S255785276"
+"51","clagre","Clark's Grebe","Aechmophorus clarkii","L815817","Frank G. Bonelli RP/Puddingstone Reservoir and vicinity","2025-06-30 07:07",8,34.0870104,-117.8050125,TRUE,FALSE,FALSE,"S255805190"
+"52","clagre","Clark's Grebe","Aechmophorus clarkii","L770872","Bird Refuge Rd.","2025-06-30 06:46",1,41.4689719,-112.1759892,TRUE,FALSE,FALSE,"S255578006"
+"53","clagre","Clark's Grebe","Aechmophorus clarkii","L152924","Sand Hollow Reservoir & SP","2025-06-30 06:28",4,37.1206326,-113.3835411,TRUE,FALSE,FALSE,"S255685335"
+"54","clagre","Clark's Grebe","Aechmophorus clarkii","L2433986","Santaquin Reservoir","2025-06-29 20:30",1,39.9620619,-111.8123245,TRUE,FALSE,TRUE,"S255484299"
+"55","clagre","Clark's Grebe","Aechmophorus clarkii","L9523564","Horsehead Lake--Northwest","2025-06-29 20:20",1,47.0824103,-99.8193113,TRUE,FALSE,FALSE,"S255478502"
+"56","clagre","Clark's Grebe","Aechmophorus clarkii","L1048752","Lake Merced--Boathouse/Harding Park entrance drive","2025-06-29 18:38",2,37.7260074,-122.5005627,TRUE,FALSE,FALSE,"S255471243"
+"57","clagre","Clark's Grebe","Aechmophorus clarkii","L48773411","8417 Lake Merced Boulevard, San Francisco, California, US (37.728, -122.485)","2025-06-29 17:30",3,37.7277397,-122.485091,TRUE,FALSE,TRUE,"S255453894"
+"58","clagre","Clark's Grebe","Aechmophorus clarkii","L6138670","Loveridge Bridge--Owyhee County Side","2025-06-29 17:24",1,42.9370718,-115.7492924,TRUE,FALSE,FALSE,"S255446580"
+"59","clagre","Clark's Grebe","Aechmophorus clarkii","L279404","Las Vegas NWR","2025-06-29 16:09",3,35.548848,-105.1583862,TRUE,FALSE,FALSE,"S255477161"
+"60","clagre","Clark's Grebe","Aechmophorus clarkii","L212323","Lee Kay Ponds","2025-06-29 15:36",4,40.7397136,-112.0437241,TRUE,FALSE,FALSE,"S255417809"
+"61","clagre","Clark's Grebe","Aechmophorus clarkii","L657546","Lower Klamath NWR--Auto Tour Route","2025-06-29 15:12",2,41.9717075,-121.7260158,TRUE,FALSE,FALSE,"S255443836"
+"62","clagre","Clark's Grebe","Aechmophorus clarkii","L44208928","Buena Vista Audubon Society","2025-06-29 14:51",1,33.169448,-117.356484,TRUE,FALSE,TRUE,"S255427802"
+"63","clagre","Clark's Grebe","Aechmophorus clarkii","L764558","Emeryville Marina","2025-06-29 14:00",1,37.8393943,-122.3118854,TRUE,FALSE,FALSE,"S255474209"
+"64","clagre","Clark's Grebe","Aechmophorus clarkii","L256021","Moss Landing--Jetty Road, north jetty & State Beach","2025-06-29 13:36",2,36.8151691,-121.7900355,TRUE,FALSE,FALSE,"S255396848"
+"65","clagre","Clark's Grebe","Aechmophorus clarkii","L7181932","Lake Yosemite Co. Park","2025-06-29 13:31",1,37.37125,-120.42867,TRUE,FALSE,FALSE,"S255388421"
+"66","clagre","Clark's Grebe","Aechmophorus clarkii","L1298256","Joes Valley Reservoir","2025-06-29 12:40",1,39.2939227,-111.2791443,TRUE,FALSE,FALSE,"S255433845"
+"67","clagre","Clark's Grebe","Aechmophorus clarkii","L444656","Summer Lake Wildlife Area","2025-06-29 12:10",9,42.950819,-120.7639503,TRUE,FALSE,FALSE,"S255377757"
+"68","clagre","Clark's Grebe","Aechmophorus clarkii","L749465","Blue Lake (LAS Co.)","2025-06-29 12:06",1,41.1451819,-120.2832313,TRUE,FALSE,FALSE,"S255377350"
+"69","clagre","Clark's Grebe","Aechmophorus clarkii","L131615","Lake Henry","2025-06-29 11:53",NA,38.2636986,-103.7109985,TRUE,FALSE,FALSE,"S255332874"
+"70","clagre","Clark's Grebe","Aechmophorus clarkii","L131616","Lake Meredith","2025-06-29 11:43",2,38.2125578,-103.6908531,TRUE,FALSE,FALSE,"S255328203"
+"71","clagre","Clark's Grebe","Aechmophorus clarkii","L161083","MLK Jr. Regional Shoreline--Arrowhead Marsh","2025-06-29 11:40",1,37.7421628,-122.2112274,TRUE,FALSE,FALSE,"S255360676"
+"72","clagre","Clark's Grebe","Aechmophorus clarkii","L686411","Wood River Wetland","2025-06-29 11:21",11,42.5807466,-121.9327068,TRUE,FALSE,FALSE,"S255377638"
+"73","clagre","Clark's Grebe","Aechmophorus clarkii","L6211040","South Fork SRA--Southwest Meadows & Riparian area","2025-06-29 11:00",1,40.6480855,-115.7370633,TRUE,FALSE,FALSE,"S255355861"
+"74","clagre","Clark's Grebe","Aechmophorus clarkii","L247953","Sweetwater Reservoir","2025-06-29 09:50",10,32.6909342,-116.9966808,TRUE,FALSE,FALSE,"S255352837"
+"75","clagre","Clark's Grebe","Aechmophorus clarkii","L249812","Blacks Creek Bird Reserve","2025-06-29 09:48",4,43.4584433,-116.1426544,TRUE,FALSE,FALSE,"S255296192"
+"76","clagre","Clark's Grebe","Aechmophorus clarkii","L1217832","Mill Creek Trail (PLU Co.)","2025-06-29 09:30",2,39.8836269,-121.1494589,TRUE,FALSE,FALSE,"S255588596"
+"77","clagre","Clark's Grebe","Aechmophorus clarkii","L168383","Hyrum Reservoir & SP","2025-06-29 09:00",1,41.61963,-111.8595,TRUE,FALSE,FALSE,"S255761741"
+"78","clagre","Clark's Grebe","Aechmophorus clarkii","L297806","Santa Clara River Estuary","2025-06-29 08:44",3,34.2316739,-119.2627716,TRUE,FALSE,FALSE,"S255285944"
+"79","clagre","Clark's Grebe","Aechmophorus clarkii","L854273","Lake Wohlford","2025-06-29 08:35",3,33.1729766,-116.9958115,TRUE,FALSE,FALSE,"S255313442"
+"80","clagre","Clark's Grebe","Aechmophorus clarkii","L265647","Maxwell NWR","2025-06-29 08:31",3,36.5688651,-104.5815831,TRUE,FALSE,FALSE,"S255732807"
+"81","clagre","Clark's Grebe","Aechmophorus clarkii","L48778919","Maxwell National Wildlife Refuge, Maxwell US-NM 36.55143, -104.59982","2025-06-29 08:31",3,36.551434,-104.59982,TRUE,FALSE,TRUE,"S255477048"
+"82","clagre","Clark's Grebe","Aechmophorus clarkii","L15963475","IRWD San Joaquin Marsh","2025-06-29 08:05",12,33.660325,-117.841798,TRUE,FALSE,TRUE,"S255308810"
+"83","clagre","Clark's Grebe","Aechmophorus clarkii","L1315333","Thermalito Afterbay--causeway & north access","2025-06-29 08:04",1,39.4935929,-121.6813946,TRUE,FALSE,FALSE,"S255286084"
+"84","clagre","Clark's Grebe","Aechmophorus clarkii","L487056","Fern Ridge WMA--Dam","2025-06-29 07:48",2,44.1205895,-123.3029509,TRUE,FALSE,FALSE,"S255262671"
+"85","clagre","Clark's Grebe","Aechmophorus clarkii","L109548","McNary NWR--Walla Walla River Delta","2025-06-29 07:45",1,46.0685319,-118.9096792,TRUE,FALSE,FALSE,"S255415189"
+"86","clagre","Clark's Grebe","Aechmophorus clarkii","L152136","Peck Rd. Water Conservation Park","2025-06-29 07:45",1,34.10053,-118.01333,TRUE,FALSE,FALSE,"S255332728"
+"87","clagre","Clark's Grebe","Aechmophorus clarkii","L268126","River Lane","2025-06-29 06:52",1,40.1662735,-111.737139,TRUE,FALSE,FALSE,"S255295538"
+"88","clagre","Clark's Grebe","Aechmophorus clarkii","L272916","Indian Creek Reservoir","2025-06-29 06:46",2,38.7460172,-119.7780132,TRUE,FALSE,FALSE,"S255272364"
+"89","clagre","Clark's Grebe","Aechmophorus clarkii","L275227","Piute Ponds (permit required)","2025-06-29 06:45",3,34.7901193,-118.1181776,TRUE,FALSE,FALSE,"S255444294"
+"90","clagre","Clark's Grebe","Aechmophorus clarkii","L468267","Irvine Lake","2025-06-29 06:40",3,33.7737252,-117.7176476,TRUE,FALSE,FALSE,"S255298455"
+"91","clagre","Clark's Grebe","Aechmophorus clarkii","L976282","Clear Lake SP--Campground","2025-06-29 06:35",1,39.019102,-122.8090242,TRUE,FALSE,FALSE,"S255382487"
+"92","clagre","Clark's Grebe","Aechmophorus clarkii","L139567","Rodeo Lagoon (including beach and offshore)","2025-06-29 06:25",1,37.8304863,-122.5329514,TRUE,FALSE,FALSE,"S255333567"
+"93","clagre","Clark's Grebe","Aechmophorus clarkii","L12643733","Hewitt Park","2025-06-29 05:08",1,44.7566797,-117.126859,TRUE,FALSE,FALSE,"S255237829"
+"94","clagre","Clark's Grebe","Aechmophorus clarkii","L48689237","Clear Lake State Park, Kelseyville US-CA 39.01503, -122.80495","2025-06-29 05:00",8,39.01503,-122.804946,TRUE,FALSE,TRUE,"S255386322"
+"95","clagre","Clark's Grebe","Aechmophorus clarkii","L765694","Lake Havasu--North end viewpoint","2025-06-29 04:52",1,34.5206616,-114.3709052,TRUE,FALSE,FALSE,"S255233582"
+"96","clagre","Clark's Grebe","Aechmophorus clarkii","L623683","Betty's Kitchen/Laguna Dam","2025-06-29 04:51",3,32.8194716,-114.4882978,TRUE,FALSE,FALSE,"S255199527"
+"97","clagre","Clark's Grebe","Aechmophorus clarkii","L935108","Benicia SRA","2025-06-28 18:53",2,38.0685007,-122.1929455,TRUE,FALSE,FALSE,"S255067228"
+"98","clagre","Clark's Grebe","Aechmophorus clarkii","L24561452","Modesto Reservoir--west side: day use and campgrounds","2025-06-28 18:13",7,37.6680581,-120.6821331,TRUE,FALSE,FALSE,"S255064929"
+"99","clagre","Clark's Grebe","Aechmophorus clarkii","L158809","Horsehead Lake WMA","2025-06-28 16:59",1,47.0535923,-99.8160667,TRUE,FALSE,FALSE,"S255145633"
+"100","clagre","Clark's Grebe","Aechmophorus clarkii","L48674842","Upper Klamath Lake, Klamath Falls US-OR 42.45925, -122.07385","2025-06-28 15:33",1,42.459248,-122.07385,TRUE,FALSE,TRUE,"S255017118"
+"101","clagre","Clark's Grebe","Aechmophorus clarkii","L2866101","Long Lake NWR--C Dike","2025-06-28 15:28",1,46.6916678,-100.1845517,TRUE,FALSE,FALSE,"S254994441"
+"102","clagre","Clark's Grebe","Aechmophorus clarkii","L1160396","Fern Ridge WMA--Coyote Creek Nature Trail","2025-06-28 13:23",2,44.0415915,-123.2676852,TRUE,FALSE,FALSE,"S255284288"
+"103","clagre","Clark's Grebe","Aechmophorus clarkii","L48656565","3001–3335 30th St SE, Dawson US-ND 46.98106, -99.80327","2025-06-28 12:57",1,46.981065,-99.803269,TRUE,FALSE,TRUE,"S254948737"
+"104","clagre","Clark's Grebe","Aechmophorus clarkii","L452854","Jordanelle Reclamation Area","2025-06-28 12:16",1,40.5784986,-111.429863,TRUE,FALSE,FALSE,"S254983150"
+"105","clagre","Clark's Grebe","Aechmophorus clarkii","L340665","Lake Meredith--feedlot sewage ponds","2025-06-28 10:41",2,38.214547,-103.71672,TRUE,FALSE,FALSE,"S254950956"
+"106","clagre","Clark's Grebe","Aechmophorus clarkii","L771915","Grand Teton NP--Jackson Lake Dam area","2025-06-28 10:30",1,43.8581111,-110.5886364,TRUE,FALSE,FALSE,"S254945236"
+"107","clagre","Clark's Grebe","Aechmophorus clarkii","L6425069","Wardell Reservoir","2025-06-28 10:26",2,44.3579785,-108.3148313,TRUE,FALSE,FALSE,"S254915525"
+"108","clagre","Clark's Grebe","Aechmophorus clarkii","L633128","Half Moon Bay SB--Francis Beach","2025-06-28 10:00",1,37.4688976,-122.4458456,TRUE,FALSE,FALSE,"S255062713"
+"109","clagre","Clark's Grebe","Aechmophorus clarkii","L742874","Fern Ridge WMA--Perkins Peninsula","2025-06-28 09:55",2,44.0569986,-123.2899475,TRUE,FALSE,FALSE,"S254911299"
+"110","clagre","Clark's Grebe","Aechmophorus clarkii","L382087","Stearns Lake","2025-06-28 09:48",1,39.9473188,-105.1050854,TRUE,FALSE,FALSE,"S254889485"
+"111","clagre","Clark's Grebe","Aechmophorus clarkii","L1060866","Napa-Sonoma Marshes WA--Green Island Unit","2025-06-28 09:44",1,38.2027785,-122.3031521,TRUE,FALSE,FALSE,"S254931441"
+"112","clagre","Clark's Grebe","Aechmophorus clarkii","L21144359","Crowley Lake, Layton Springs","2025-06-28 09:41",2,37.6368603,-118.72939,TRUE,FALSE,TRUE,"S254933136"
+"113","clagre","Clark's Grebe","Aechmophorus clarkii","L178143","Albany Bulb","2025-06-28 09:05",2,37.890057,-122.32462,TRUE,FALSE,FALSE,"S255090328"
+"114","clagre","Clark's Grebe","Aechmophorus clarkii","L857442","Deer Flat NWR--Gotts Point","2025-06-28 07:58",NA,43.5446288,-116.6395283,TRUE,FALSE,FALSE,"S254917495"
+"115","clagre","Clark's Grebe","Aechmophorus clarkii","L36603830","Lake Havasu State Park-Cactus Garden","2025-06-28 07:38",1,34.4854227,-114.3540749,TRUE,FALSE,TRUE,"S254875542"
+"116","clagre","Clark's Grebe","Aechmophorus clarkii","L3675490","Lake Murray--northwest side","2025-06-28 07:37",2,32.7901775,-117.0456053,TRUE,FALSE,FALSE,"S254861819"
+"117","clagre","Clark's Grebe","Aechmophorus clarkii","L150537","Willard Bay SP","2025-06-28 06:53",2,41.4151829,-112.0552683,TRUE,FALSE,FALSE,"S254872014"
+"118","clagre","Clark's Grebe","Aechmophorus clarkii","L109462","Lake Henshaw","2025-06-28 06:13",8,33.2316107,-116.7475494,TRUE,FALSE,FALSE,"S254979176"
+"119","clagre","Clark's Grebe","Aechmophorus clarkii","L1460618","Buffalo Ranch Pond","2025-06-28 05:44",4,40.9801077,-111.9387368,TRUE,FALSE,FALSE,"S254859066"
+"120","clagre","Clark's Grebe","Aechmophorus clarkii","L4799937","Bruneau Dunes SP--Visitors Center","2025-06-27 20:40",1,42.911154,-115.7153785,TRUE,FALSE,FALSE,"S256036416"
+"121","clagre","Clark's Grebe","Aechmophorus clarkii","L48598719","5346 Ninepipe Road, Charlo, Montana, US (47.453, -114.14)","2025-06-27 19:34",1,47.4530994,-114.1396655,TRUE,FALSE,TRUE,"S254705415"
+"122","clagre","Clark's Grebe","Aechmophorus clarkii","L1396236","Anaheim Coves Park (aka Burris Basin)","2025-06-27 18:27",1,33.8257044,-117.869868,TRUE,FALSE,FALSE,"S254711329"
+"123","clagre","Clark's Grebe","Aechmophorus clarkii","L47535319","Lee Kay","2025-06-27 17:15",NA,40.738716,-112.035451,TRUE,FALSE,TRUE,"S254686782"
+"124","clagre","Clark's Grebe","Aechmophorus clarkii","L212833","Moss Landing Marine Lab","2025-06-27 17:00",2,36.7943768,-121.7866184,TRUE,FALSE,FALSE,"S254698803"
+"125","clagre","Clark's Grebe","Aechmophorus clarkii","L1830327","Eagle Lake--Hwy 139 shoreline","2025-06-27 14:36",1,40.6909662,-120.6698193,TRUE,FALSE,FALSE,"S254685286"
+"126","clagre","Clark's Grebe","Aechmophorus clarkii","L28666649","1701 Monarch Street, Alameda, California, US (37.776, -122.309)","2025-06-27 13:20",1,37.7764001,-122.3092809,TRUE,FALSE,TRUE,"S254734694"
+"127","clagre","Clark's Grebe","Aechmophorus clarkii","L48579552","Moore Park","2025-06-27 12:30",1,42.234577,-121.813939,TRUE,FALSE,TRUE,"S254626352"
+"128","clagre","Clark's Grebe","Aechmophorus clarkii","L245623","Hinman Reservoir","2025-06-27 12:15",1,40.1527356,-106.4624548,TRUE,TRUE,FALSE,"S254713900"
+"129","clagre","Clark's Grebe","Aechmophorus clarkii","L8000046","I80--Kennecott Reclamation Ponds","2025-06-27 12:15",10,40.735939,-112.1940598,TRUE,FALSE,FALSE,"S254615670"
+"130","clagre","Clark's Grebe","Aechmophorus clarkii","L48579722","14820 Olympic Dr, Clearlake US-CA 38.96293, -122.63401","2025-06-27 11:21",1,38.962933,-122.634009,TRUE,FALSE,TRUE,"S254626959"
+"131","clagre","Clark's Grebe","Aechmophorus clarkii","L589727","Veterans Park--Klamath Falls","2025-06-27 10:57",7,42.2186735,-121.788522,TRUE,FALSE,FALSE,"S254603737"
+"132","clagre","Clark's Grebe","Aechmophorus clarkii","L18539728","Fern Ridge","2025-06-27 10:40",18,44.070935,-123.308055,TRUE,FALSE,TRUE,"S254663759"
+"133","clagre","Clark's Grebe","Aechmophorus clarkii","L48598063","NM-569, Cimarron US-NM 36.24744, -104.74809","2025-06-27 10:05",2,36.247443,-104.748094,TRUE,FALSE,TRUE,"S254702850"
+"134","clagre","Clark's Grebe","Aechmophorus clarkii","L48583541","Bruneau Dunes State Park, Hammett US-ID 42.90270, -115.69160","2025-06-27 09:51",4,42.902696,-115.691601,TRUE,FALSE,TRUE,"S254642833"
+"135","clagre","Clark's Grebe","Aechmophorus clarkii","L613422","Moore Park","2025-06-27 09:43",2,42.2314,-121.8098,TRUE,FALSE,FALSE,"S254580522"
+"136","clagre","Clark's Grebe","Aechmophorus clarkii","L8162225","Silver Lake","2025-06-27 09:32",8,39.6431136,-119.9123849,TRUE,FALSE,FALSE,"S254617863"
+"137","clagre","Clark's Grebe","Aechmophorus clarkii","L5064634","Lake McConaughy--Kingsley Dam","2025-06-27 09:23",1,41.2219871,-101.6720295,TRUE,FALSE,FALSE,"S254572898"
+"138","clagre","Clark's Grebe","Aechmophorus clarkii","L637731","Shillapoo Wildlife Area--LaFrambois","2025-06-27 08:57",1,45.6579977,-122.7099895,TRUE,FALSE,FALSE,"S254578450"
+"139","clagre","Clark's Grebe","Aechmophorus clarkii","L391767","Shadow Cliffs Regional Park","2025-06-27 08:42",2,37.6692148,-121.8406105,TRUE,FALSE,FALSE,"S254597821"
+"140","clagre","Clark's Grebe","Aechmophorus clarkii","L725190","Loveland Reservoir","2025-06-27 08:38",1,32.7947785,-116.759541,TRUE,FALSE,FALSE,"S254625519"
+"141","clagre","Clark's Grebe","Aechmophorus clarkii","L655604","Santa Barbara Harbor--general","2025-06-27 08:05",1,34.4078515,-119.6898863,TRUE,FALSE,FALSE,"S254575677"
+"142","clagre","Clark's Grebe","Aechmophorus clarkii","L3386255","Lake Murray--southeast side","2025-06-27 07:51",1,32.7852326,-117.039897,TRUE,FALSE,FALSE,"S254578309"
+"143","clagre","Clark's Grebe","Aechmophorus clarkii","L895877","Jensen Nature Park","2025-06-27 07:30",2,41.0660147,-112.0534833,TRUE,FALSE,FALSE,"S254581841"
+"144","clagre","Clark's Grebe","Aechmophorus clarkii","L16770637","Big Johnson reservoir","2025-06-27 07:15",4,38.745404,-104.695329,TRUE,FALSE,TRUE,"S254580257"
+"145","clagre","Clark's Grebe","Aechmophorus clarkii","L743100","Grand Teton NP--Two Ocean Lake","2025-06-27 06:46",3,43.9018505,-110.5004883,TRUE,FALSE,FALSE,"S254589908"
+"146","clagre","Clark's Grebe","Aechmophorus clarkii","L13516601","Mittry Lake Wildlife Area, Yuma US-AZ 32.82517, -114.48482","2025-06-27 06:27",3,32.82517,-114.484824,TRUE,FALSE,TRUE,"S254555192"
+"147","clagre","Clark's Grebe","Aechmophorus clarkii","L673176","Golden Shore Marine Reserve","2025-06-27 06:19",1,33.7639101,-118.2027358,TRUE,FALSE,FALSE,"S254537987"
+"148","clagre","Clark's Grebe","Aechmophorus clarkii","L1671005","Boysen SP--Boysen Reservoir","2025-06-27 05:44",5,43.3626297,-108.1796265,TRUE,FALSE,FALSE,"S255993120"
+"149","clagre","Clark's Grebe","Aechmophorus clarkii","L48528258","Bird Refuge Rd, Brigham City US-UT 41.49777, -112.11465","2025-06-26 17:54",16,41.49777,-112.11465,TRUE,FALSE,TRUE,"S254399546"
+"150","clagre","Clark's Grebe","Aechmophorus clarkii","L131720","Union Reservoir","2025-06-26 17:37",1,40.1818008,-105.0372009,TRUE,FALSE,FALSE,"S254394221"
+"151","clagre","Clark's Grebe","Aechmophorus clarkii","L158903","Long Lake NWR","2025-06-26 16:28",1,46.6698025,-100.2278475,TRUE,FALSE,FALSE,"S254387948"
+"152","clagre","Clark's Grebe","Aechmophorus clarkii","L762068","Presidio - Fort Point NHS","2025-06-26 16:00",2,37.8106824,-122.4767876,TRUE,FALSE,FALSE,"S254522669"
+"153","clagre","Clark's Grebe","Aechmophorus clarkii","L573559","Success Lake--Tule & Rocky Hill Areas/CA-190 viewing locations","2025-06-26 15:55",100,36.0708167,-118.9145135,TRUE,FALSE,FALSE,"S254381586"
+"154","clagre","Clark's Grebe","Aechmophorus clarkii","L573573","Bravo Lake","2025-06-26 15:00",2,36.4085733,-119.0912819,TRUE,FALSE,FALSE,"S254372749"
+"155","clagre","Clark's Grebe","Aechmophorus clarkii","L2442148","Rocky Mountain Arsenal NWR--Lower Derby Lake","2025-06-26 14:40",5,39.8146676,-104.8424435,TRUE,FALSE,FALSE,"S254365186"
+"156","clagre","Clark's Grebe","Aechmophorus clarkii","L1818121","Rocky Mountain Arsenal NWR--Lake Ladora","2025-06-26 14:25",1,39.8170715,-104.8569235,TRUE,FALSE,FALSE,"S254350962"
+"157","clagre","Clark's Grebe","Aechmophorus clarkii","L642434","Dorris Reservoir","2025-06-26 13:36",4,41.4881604,-120.4800224,TRUE,FALSE,FALSE,"S254525431"
+"158","clagre","Clark's Grebe","Aechmophorus clarkii","L1028207","Bridgeport Reservoir--east shore pullout","2025-06-26 13:21",4,38.277161,-119.2191803,TRUE,FALSE,FALSE,"S254357733"
+"159","clagre","Clark's Grebe","Aechmophorus clarkii","L299578","Decker Lake","2025-06-26 13:16",1,40.7114011,-111.9488016,TRUE,FALSE,FALSE,"S254426526"
+"160","clagre","Clark's Grebe","Aechmophorus clarkii","L484238","Albany Mudflats","2025-06-26 12:55",5,37.892331,-122.3117995,TRUE,FALSE,FALSE,"S254354532"
+"161","clagre","Clark's Grebe","Aechmophorus clarkii","L613438","Klamath Wildlife Area--Miller Island Unit","2025-06-26 12:51",3,42.1551736,-121.8082073,TRUE,FALSE,FALSE,"S254365071"
+"162","clagre","Clark's Grebe","Aechmophorus clarkii","L48514088","27880–28380 US-97, Chiloquin US-OR 42.47910, -121.87464","2025-06-26 12:22",2,42.479099,-121.874635,TRUE,FALSE,TRUE,"S254334566"
+"163","clagre","Clark's Grebe","Aechmophorus clarkii","L48590373","Bird Refuge Rd, Corinne US-UT (41.4815,-112.2747)","2025-06-26 11:25",1,41.481452,-112.274663,TRUE,FALSE,TRUE,"S254670278"
+"164","clagre","Clark's Grebe","Aechmophorus clarkii","L48406713","BRMBR Unit 5","2025-06-26 10:37",NA,41.4229883,-112.127182,TRUE,FALSE,TRUE,"S254414888"
+"165","clagre","Clark's Grebe","Aechmophorus clarkii","L3352947","Lake Perris--Bernasconi entrance","2025-06-26 10:13",2,33.8483739,-117.16537,TRUE,FALSE,FALSE,"S254341637"
+"166","clagre","Clark's Grebe","Aechmophorus clarkii","L48508921","Jordanelle State Park, Hideout US-UT 40.64153, -111.41247","2025-06-26 10:02",1,40.641533,-111.412467,TRUE,FALSE,TRUE,"S254314992"
+"167","clagre","Clark's Grebe","Aechmophorus clarkii","L605526","Santa Barbara Channel--east channel (VEN Co.)","2025-06-26 09:46",1,34.1544317,-119.3767548,TRUE,FALSE,FALSE,"S254696328"
+"168","clagre","Clark's Grebe","Aechmophorus clarkii","L7706405","Little Cayucos Creek Mouth","2025-06-26 09:41",4,35.4479406,-120.9039301,TRUE,FALSE,TRUE,"S254311162"
+"169","clagre","Clark's Grebe","Aechmophorus clarkii","L4682750","Bear Lake NWR--Salt Meadow Unit","2025-06-26 09:03",2,42.2057796,-111.3359852,TRUE,FALSE,FALSE,"S254305305"
+"170","clagre","Clark's Grebe","Aechmophorus clarkii","L7482413","Thermalito Afterbay, South,Oroville US-CA (39.4736,-121.6750)","2025-06-26 09:00",88,39.473631,-121.674954,TRUE,FALSE,TRUE,"S254941642"
+"171","clagre","Clark's Grebe","Aechmophorus clarkii","L570078","Rock Cliffs SP","2025-06-26 09:00",6,40.6031358,-111.3440323,TRUE,FALSE,FALSE,"S254340098"
+"172","clagre","Clark's Grebe","Aechmophorus clarkii","L594020","Cottonwood Reservoir ","2025-06-26 08:53",2,46.037731,-110.6865692,TRUE,FALSE,FALSE,"S254716401"
+"173","clagre","Clark's Grebe","Aechmophorus clarkii","L471479","Havasu NWR--Catfish Paradise","2025-06-26 08:48",5,34.7427586,-114.4876456,TRUE,FALSE,FALSE,"S254293534"
+"174","clagre","Clark's Grebe","Aechmophorus clarkii","L48689483","Cottonwood Reservoir, Wilsall US-MT (46.0400,-110.6885)","2025-06-26 08:30",1,46.039962,-110.688506,TRUE,FALSE,TRUE,"S255079607"
+"175","clagre","Clark's Grebe","Aechmophorus clarkii","L267812","San Jacinto Wildlife Area--Mystic Lake","2025-06-26 08:24",5,33.8839706,-117.0884961,TRUE,FALSE,FALSE,"S254347468"
+"176","clagre","Clark's Grebe","Aechmophorus clarkii","L6806746","Rocky Mountain Arsenal NWR-- East Auto Tour","2025-06-26 08:18",1,39.8179101,-104.8280454,TRUE,FALSE,FALSE,"S254272830"
+"177","clagre","Clark's Grebe","Aechmophorus clarkii","L281754","College Lake","2025-06-26 08:15",1,36.946382,-121.7446834,TRUE,FALSE,FALSE,"S254319241"
+"178","clagre","Clark's Grebe","Aechmophorus clarkii","L392205","Cutler Marsh--Boat Launch Area","2025-06-26 08:01",2,41.7452369,-111.9464028,TRUE,FALSE,FALSE,"S254277364"
+"179","clagre","Clark's Grebe","Aechmophorus clarkii","L506275","San Diego River mudflats (including Robb Field & north side)","2025-06-26 07:59",1,32.7568803,-117.2401432,TRUE,FALSE,FALSE,"S254663063"
+"180","clagre","Clark's Grebe","Aechmophorus clarkii","L803520","Lake Shastina","2025-06-26 07:31",10,41.5162898,-122.3945618,TRUE,FALSE,FALSE,"S254284077"
+"181","clagre","Clark's Grebe","Aechmophorus clarkii","L7482308","Thermalito Afterbay, North, Oroville US-CA (39.5010,-121.6759)","2025-06-26 07:30",13,39.500969,-121.675915,TRUE,FALSE,TRUE,"S254938826"
+"182","clagre","Clark's Grebe","Aechmophorus clarkii","L11153893","Shady Canyon Hiking and Riding Trail, Irvine","2025-06-26 07:12",NA,33.6457548,-117.788455,TRUE,FALSE,FALSE,"S254304162"
+"183","clagre","Clark's Grebe","Aechmophorus clarkii","L6601174","Lake Almanor--North Shore Campground","2025-06-26 06:17",3,40.3094851,-121.1932647,TRUE,FALSE,FALSE,"S254316675"
+"184","clagre","Clark's Grebe","Aechmophorus clarkii","L192625","Santee Lakes","2025-06-25 19:13",1,32.8570948,-117.0071411,TRUE,FALSE,FALSE,"S254150129"
+"185","clagre","Clark's Grebe","Aechmophorus clarkii","L340657","Hummel Reservoir","2025-06-25 18:24",1,40.319785,-105.025491,TRUE,FALSE,FALSE,"S254134193"
+"186","clagre","Clark's Grebe","Aechmophorus clarkii","L7797854","Don Edwards NWR--Env. Ed. Ctr. (EEC) and nearby upland areas","2025-06-25 17:36",2,37.438916,-121.959456,TRUE,FALSE,FALSE,"S254144990"
+"187","clagre","Clark's Grebe","Aechmophorus clarkii","L212642","Lafayette Reservoir","2025-06-25 17:35",2,37.881609,-122.1425327,TRUE,FALSE,FALSE,"S254286411"
+"188","clagre","Clark's Grebe","Aechmophorus clarkii","L500764","Dana Point Harbor","2025-06-25 15:32",1,33.459802,-117.6989365,TRUE,FALSE,FALSE,"S254129020"
+"189","clagre","Clark's Grebe","Aechmophorus clarkii","L285281","Cesar Chavez Park","2025-06-25 12:55",1,37.8709227,-122.3150389,TRUE,FALSE,FALSE,"S254080106"
+"190","clagre","Clark's Grebe","Aechmophorus clarkii","L504330","Ninemile Reservoir ","2025-06-25 11:34",3,39.1730745,-111.7057228,TRUE,FALSE,FALSE,"S254043073"
+"191","clagre","Clark's Grebe","Aechmophorus clarkii","L822969","Yuba SP--Oasis Campground","2025-06-25 11:29",1,39.378895,-112.0270729,TRUE,FALSE,FALSE,"S254051856"
+"192","clagre","Clark's Grebe","Aechmophorus clarkii","L39745464","Farmington Bay WMA -- Levee Road & Dike Road","2025-06-25 10:19",8,40.9306664,-111.9478512,TRUE,FALSE,FALSE,"S254075289"
+"193","clagre","Clark's Grebe","Aechmophorus clarkii","L1543985","Potholes Reservoir","2025-06-25 10:14",13,46.9969771,-119.3150344,TRUE,FALSE,FALSE,"S254084485"
+"194","clagre","Clark's Grebe","Aechmophorus clarkii","L573572","Lake Kaweah","2025-06-25 10:11",20,36.4065701,-118.9826202,TRUE,FALSE,FALSE,"S254026001"
+"195","clagre","Clark's Grebe","Aechmophorus clarkii","L48825789","498–500 NM-281, Las Vegas US-NM 35.52301, -105.16951","2025-06-25 09:59",1,35.523006,-105.16951,TRUE,FALSE,TRUE,"S255699791"
+"196","clagre","Clark's Grebe","Aechmophorus clarkii","L689074","Austin Park","2025-06-25 08:57",3,38.9599093,-122.6500368,TRUE,FALSE,FALSE,"S254007600"
+"197","clagre","Clark's Grebe","Aechmophorus clarkii","L109287","Adobe Creek Reservoir (Blue Lake)--Bent Co","2025-06-25 08:41",29,38.25,-103.25,TRUE,FALSE,FALSE,"S254028037"
+"198","clagre","Clark's Grebe","Aechmophorus clarkii","L445096","Adobe Creek Reservoir (Blue Lake)--Kiowa Co.","2025-06-25 08:14",8,38.2718472,-103.2391211,TRUE,FALSE,FALSE,"S253981600"
+"199","clagre","Clark's Grebe","Aechmophorus clarkii","L12711108","Elephant Butte Lake SP--South Highlands","2025-06-25 08:10",3,33.2539055,-107.1792122,TRUE,FALSE,FALSE,"S254150422"
+"200","clagre","Clark's Grebe","Aechmophorus clarkii","L11222417","Bear Lake NWR--general (please consider using a more specific hotspot)","2025-06-25 07:41",1,42.2615256,-111.3411677,TRUE,FALSE,FALSE,"S254084022"
+"201","clagre","Clark's Grebe","Aechmophorus clarkii","L3812173","Marshall Mesa Trails","2025-06-25 07:35",1,39.952737,-105.231277,TRUE,FALSE,FALSE,"S254087726"
+"202","clagre","Clark's Grebe","Aechmophorus clarkii","L241530","Smith Reservoir SWA","2025-06-25 06:58",2,37.3919965,-105.534457,TRUE,FALSE,FALSE,"S254011604"
+"203","clagre","Clark's Grebe","Aechmophorus clarkii","L1312278","Arco Ponds","2025-06-25 06:46",1,46.1624744,-112.7791214,TRUE,FALSE,FALSE,"S254081166"
+"204","clagre","Clark's Grebe","Aechmophorus clarkii","L109463","Lake Hodges--Del Dios area (west end)","2025-06-25 06:41",14,33.063,-117.119,TRUE,FALSE,FALSE,"S254068910"
+"205","clagre","Clark's Grebe","Aechmophorus clarkii","L7313227","Lake McConaughy--Spring Park","2025-06-25 06:41",1,41.2878099,-101.8745524,TRUE,FALSE,FALSE,"S254099122"
+"206","clagre","Clark's Grebe","Aechmophorus clarkii","L1528037","Lake Henry","2025-06-25 06:00",5,38.2637,-103.711,TRUE,FALSE,TRUE,"S253947410"
+"207","clagre","Clark's Grebe","Aechmophorus clarkii","L8425656","Lake McConaughy--Cedar Vue Campground","2025-06-25 05:16",1,41.2938688,-101.9358952,TRUE,FALSE,FALSE,"S254097700"
+"208","clagre","Clark's Grebe","Aechmophorus clarkii","L877690","Deer Flat NWR--Visitor Center","2025-06-24 20:14",2,43.5597447,-116.66605,TRUE,FALSE,FALSE,"S253865739"
+"209","clagre","Clark's Grebe","Aechmophorus clarkii","L48409224","Rockport Reservoir State Park, Peoa US-UT (40.7585,-111.3751)","2025-06-24 19:11",1,40.758533,-111.375134,TRUE,FALSE,TRUE,"S253863882"
+"210","clagre","Clark's Grebe","Aechmophorus clarkii","L9433849","Summer Lake Wildlife Area--Bullgate Dike","2025-06-24 18:49",9,42.931446,-120.74207,TRUE,FALSE,FALSE,"S253873117"
+"211","clagre","Clark's Grebe","Aechmophorus clarkii","L418711","Lake Skinner County Park","2025-06-24 18:44",17,33.5878645,-117.0422459,TRUE,FALSE,FALSE,"S253861233"
+"212","clagre","Clark's Grebe","Aechmophorus clarkii","L48402967","Narrows-Princeton Road, Princeton, Oregon, US (43.267, -118.889)","2025-06-24 17:12",12,43.2666735,-118.8886297,TRUE,FALSE,TRUE,"S253849604"
+"213","clagre","Clark's Grebe","Aechmophorus clarkii","L469058","Apollo Park","2025-06-24 16:50",1,34.7421591,-118.2011104,TRUE,FALSE,FALSE,"S253881995"
+"214","clagre","Clark's Grebe","Aechmophorus clarkii","L3017692","Ray Lake Marsh","2025-06-24 16:41",1,42.9631122,-108.8365746,TRUE,FALSE,FALSE,"S253820071"
+"215","clagre","Clark's Grebe","Aechmophorus clarkii","L4682626","Montpelier Airport Rd.","2025-06-24 15:36",1,42.290459,-111.355872,TRUE,FALSE,FALSE,"S253859770"
+"216","clagre","Clark's Grebe","Aechmophorus clarkii","L487048","Fern Ridge WMA--Royal Ave. area (general)","2025-06-24 15:13",1,44.0705825,-123.2574606,TRUE,FALSE,FALSE,"S253861704"
+"217","clagre","Clark's Grebe","Aechmophorus clarkii","L3556249","Harmon Reservoir","2025-06-24 15:04",8,39.4732392,-118.6377901,TRUE,FALSE,FALSE,"S253817540"
+"218","clagre","Clark's Grebe","Aechmophorus clarkii","L497666","Bridgeport Reservoir","2025-06-24 15:02",20,38.2977508,-119.2256927,TRUE,FALSE,FALSE,"S254708269"
+"219","clagre","Clark's Grebe","Aechmophorus clarkii","L338190","Antero Reservoir","2025-06-24 14:50",1,38.98773,-105.91501,TRUE,FALSE,FALSE,"S253858400"
+"220","clagre","Clark's Grebe","Aechmophorus clarkii","L27005291","Mill Race Boat Ramp","2025-06-24 14:00",1,40.20187,-111.654895,TRUE,FALSE,FALSE,"S253792497"
+"221","clagre","Clark's Grebe","Aechmophorus clarkii","L1163887","American Falls Reservoir Overlook at Bower Rd.","2025-06-24 13:24",10,43.0460756,-112.7230096,TRUE,FALSE,FALSE,"S253779338"
+"222","clagre","Clark's Grebe","Aechmophorus clarkii","L778997","State Hwy 51 at Snake River (Elmore Co. side)","2025-06-24 11:27",3,42.9393567,-115.7510519,TRUE,FALSE,FALSE,"S253841571"
+"223","clagre","Clark's Grebe","Aechmophorus clarkii","L878741","Soscol Water Recycling Facility","2025-06-24 11:10",2,38.2340171,-122.2826385,TRUE,FALSE,FALSE,"S253780901"
+"224","clagre","Clark's Grebe","Aechmophorus clarkii","L1458192","Elephant Butte Lake SP--Long Point","2025-06-24 10:59",4,33.2332432,-107.1843185,TRUE,FALSE,FALSE,"S253743552"
+"225","clagre","Clark's Grebe","Aechmophorus clarkii","L1653077","Stone Lake","2025-06-24 10:15",1,44.8791047,-99.7500723,TRUE,FALSE,FALSE,"S253839515"
+"226","clagre","Clark's Grebe","Aechmophorus clarkii","L12673051","576 Surf Ln, Clearlake Oaks US-CA 39.01993, -122.66184","2025-06-24 10:12",2,39.019935,-122.661837,TRUE,FALSE,TRUE,"S253869344"
+"227","clagre","Clark's Grebe","Aechmophorus clarkii","L1299785","Mountain Meadows Reservoir","2025-06-24 10:00",2,40.2818829,-121.0126877,TRUE,FALSE,FALSE,"S253795262"
+"228","clagre","Clark's Grebe","Aechmophorus clarkii","L1241544","Goose Lake Causeway","2025-06-24 09:24",1,41.7769446,-120.4627705,TRUE,FALSE,FALSE,"S253871776"
+"229","clagre","Clark's Grebe","Aechmophorus clarkii","L2370234","Lower Twin Lake (MNO Co.)","2025-06-24 08:54",2,38.1579387,-119.3417873,TRUE,FALSE,FALSE,"S253765516"
+"230","clagre","Clark's Grebe","Aechmophorus clarkii","L2402250","MLK Jr. Regional Shoreline","2025-06-24 08:15",1,37.7318068,-122.2070861,TRUE,FALSE,FALSE,"S253793751"
+"231","clagre","Clark's Grebe","Aechmophorus clarkii","L742936","Malheur NWR (general)","2025-06-24 08:11",6,43.2053426,-118.9297485,TRUE,FALSE,FALSE,"S253837956"
+"232","clagre","Clark's Grebe","Aechmophorus clarkii","L209342","Henderson Bird Viewing Preserve","2025-06-24 07:15",1,36.0749791,-115.0021416,TRUE,FALSE,FALSE,"S253763170"
+"233","clagre","Clark's Grebe","Aechmophorus clarkii","L27892636","Utah Lake State Park, Provo US-UT 40.23680, -111.73853","2025-06-23 20:26",2,40.236796,-111.738527,TRUE,FALSE,TRUE,"S253587130"
+"234","clagre","Clark's Grebe","Aechmophorus clarkii","L475876","Lake Pueblo SP--South Marina area","2025-06-23 18:13",1,38.2539529,-104.7348791,TRUE,FALSE,FALSE,"S253568275"
+"235","clagre","Clark's Grebe","Aechmophorus clarkii","L20471507","Moses Lake Outlet Channels","2025-06-23 17:58",19,47.0825705,-119.332817,TRUE,FALSE,FALSE,"S253586029"
+"236","clagre","Clark's Grebe","Aechmophorus clarkii","L503368","Koosharem Reservoir ","2025-06-23 15:57",1,38.599583,-111.8450582,TRUE,FALSE,FALSE,"S253542884"
+"237","clagre","Clark's Grebe","Aechmophorus clarkii","L465131","Mission Creek outflow","2025-06-23 13:11",5,34.4127959,-119.6869361,TRUE,FALSE,FALSE,"S253513561"
+"238","clagre","Clark's Grebe","Aechmophorus clarkii","L3883680","lake Britton--beach swim area","2025-06-23 12:52",1,41.0289689,-121.6577804,TRUE,TRUE,FALSE,"S253877699"
+"239","clagre","Clark's Grebe","Aechmophorus clarkii","L32854806","Lake Cascade--Duck Bay","2025-06-23 11:44",2,44.643088,-116.110155,TRUE,FALSE,TRUE,"S253522079"
+"240","clagre","Clark's Grebe","Aechmophorus clarkii","L48325727","Spit Lake Wallula, by Burbank US-WA 46.17815, -119.00125","2025-06-23 11:17",3,46.178149,-119.001252,TRUE,FALSE,TRUE,"S253501208"
+"241","clagre","Clark's Grebe","Aechmophorus clarkii","L392317","Camp Pendleton--Lake O'Neill","2025-06-23 11:14",1,33.329094,-117.3227406,TRUE,FALSE,FALSE,"S253506866"
+"242","clagre","Clark's Grebe","Aechmophorus clarkii","L508174","Saratoga Springs Park & Pavilion","2025-06-23 11:07",2,40.3490621,-111.9043286,TRUE,FALSE,FALSE,"S253483680"
+"243","clagre","Clark's Grebe","Aechmophorus clarkii","L820584","Maxton Brown Park","2025-06-23 10:50",2,33.1652981,-117.3533821,TRUE,FALSE,FALSE,"S253865907"
+"244","clagre","Clark's Grebe","Aechmophorus clarkii","L32137413","Dispersed Camping","2025-06-23 09:31",1,37.1117736,-113.3595012,TRUE,FALSE,TRUE,"S253468685"
+"245","clagre","Clark's Grebe","Aechmophorus clarkii","L48346183","Success Lake","2025-06-23 09:15",85,36.085962,-118.8992507,TRUE,FALSE,TRUE,"S253589122"
+"246","clagre","Clark's Grebe","Aechmophorus clarkii","L773935","Lake Ming","2025-06-23 09:07",2,35.4399738,-118.8628864,TRUE,FALSE,FALSE,"S253465976"
+"247","clagre","Clark's Grebe","Aechmophorus clarkii","L447435","Hatfield Lake","2025-06-23 09:00",1,44.1232081,-121.198554,TRUE,FALSE,FALSE,"S253499561"
+"248","clagre","Clark's Grebe","Aechmophorus clarkii","L48316742","Sweet Water Rd, Bridgeport US-CA 38.26927, -119.22124","2025-06-23 08:58",2,38.269265,-119.22124,TRUE,FALSE,TRUE,"S253466492"
+"249","clagre","Clark's Grebe","Aechmophorus clarkii","L28850328","lake Casitas rec area","2025-06-23 07:21",1,34.4094124,-119.3367157,TRUE,FALSE,TRUE,"S253532213"
+"250","clagre","Clark's Grebe","Aechmophorus clarkii","L42329239","200 Marina Boulevard, Berkeley, California, US (37.869, -122.314)","2025-06-22 19:46",1,37.8688225,-122.3139362,TRUE,FALSE,TRUE,"S253322435"
+"251","clagre","Clark's Grebe","Aechmophorus clarkii","L421848","Lake Hodges Mission Road","2025-06-22 18:41",1,33.0747222,-117.1142471,TRUE,FALSE,TRUE,"S253310747"
+"252","clagre","Clark's Grebe","Aechmophorus clarkii","L768937","Bridgeport Reservoir--boat ramp (Ramp Rd.)","2025-06-22 18:23",2,38.3096809,-119.2182684,TRUE,FALSE,FALSE,"S253313003"
+"253","clagre","Clark's Grebe","Aechmophorus clarkii","L11113211","Liberty Island Eco Reserve","2025-06-22 16:32",1,38.3066103,-121.6935197,TRUE,FALSE,FALSE,"S253307169"
+"254","clagre","Clark's Grebe","Aechmophorus clarkii","L19979477","Freezeout Lake WMA--auto tour route ""The Neck""","2025-06-22 16:20",5,47.6753607,-112.0419934,TRUE,FALSE,FALSE,"S253274440"
+"255","clagre","Clark's Grebe","Aechmophorus clarkii","L1386107","Northlake Park & Loch Lomond Pond","2025-06-22 16:18",1,40.3620139,-111.859546,TRUE,FALSE,FALSE,"S253286984"
+"256","clagre","Clark's Grebe","Aechmophorus clarkii","L247561","Ballona Creek--mouth, jetties, and breakwater","2025-06-22 15:30",1,33.9638739,-118.4563213,TRUE,FALSE,FALSE,"S253304219"
+"257","clagre","Clark's Grebe","Aechmophorus clarkii","L15897508","Baylands, Palo Alto, CA","2025-06-22 15:27",3,37.4333801,-122.0955811,TRUE,FALSE,TRUE,"S253299030"
+"258","clagre","Clark's Grebe","Aechmophorus clarkii","L48267242","Frenchglen Highway, Burns, Oregon, US (43.302, -118.975)","2025-06-22 14:10",1,43.3021392,-118.9748153,TRUE,FALSE,TRUE,"S253241106"
+"259","clagre","Clark's Grebe","Aechmophorus clarkii","L48316107","61507–61523 OR-205, Burns US-OR (43.2989,-118.9745)","2025-06-22 14:00",3,43.298902,-118.974469,TRUE,FALSE,TRUE,"S253463876"
+"260","clagre","Clark's Grebe","Aechmophorus clarkii","L1298090","Lake Kaweah--Slick Rock Recreation Area","2025-06-22 13:41",1,36.412148,-118.9365828,TRUE,FALSE,FALSE,"S253233466"
+"261","clagre","Clark's Grebe","Aechmophorus clarkii","L7313215","Lake McConaughy--Martin Bay","2025-06-22 13:32",1,41.2420438,-101.677528,TRUE,FALSE,FALSE,"S253779522"
+"262","clagre","Clark's Grebe","Aechmophorus clarkii","L10521242","Inlet Park","2025-06-22 13:08",3,40.3573573,-111.8996756,TRUE,FALSE,FALSE,"S253220415"
+"263","clagre","Clark's Grebe","Aechmophorus clarkii","L850355","Tule Lake NWR--Auto Tour and Sump 1B (SIS Co.)","2025-06-22 12:21",12,41.8496929,-121.4777098,TRUE,FALSE,FALSE,"S253238716"
+"264","clagre","Clark's Grebe","Aechmophorus clarkii","L565301","Eagle Ridge/Shoalwater Bay","2025-06-22 12:09",50,42.3970939,-121.9592285,TRUE,FALSE,FALSE,"S253273690"
+"265","clagre","Clark's Grebe","Aechmophorus clarkii","L1315281","Woodward Reservoir--Eastman Rd. and north side of the lake","2025-06-22 12:00",1,37.8667131,-120.8716471,TRUE,FALSE,FALSE,"S253204794"
+"266","clagre","Clark's Grebe","Aechmophorus clarkii","L48258429","Frenchglen Highway, Burns, Oregon, US (43.282, -118.965)","2025-06-22 11:48",1,43.2815003,-118.9649633,TRUE,FALSE,TRUE,"S253204721"
+"267","clagre","Clark's Grebe","Aechmophorus clarkii","L283255","Utah Lake SP","2025-06-22 11:45",6,40.2367208,-111.7394114,TRUE,FALSE,FALSE,"S253227810"
+"268","clagre","Clark's Grebe","Aechmophorus clarkii","L270513","Saltair & Marina","2025-06-22 11:18",2,40.7320925,-112.2079376,TRUE,FALSE,FALSE,"S253193819"
+"269","clagre","Clark's Grebe","Aechmophorus clarkii","L1436023","Putney Slough","2025-06-22 11:07",1,45.5463366,-98.2150849,TRUE,FALSE,FALSE,"S253143050"
+"270","clagre","Clark's Grebe","Aechmophorus clarkii","L374051","Santa Barbara Harbor--Stearns Wharf","2025-06-22 10:50",6,34.4098907,-119.6858793,TRUE,FALSE,FALSE,"S253265475"
+"271","clagre","Clark's Grebe","Aechmophorus clarkii","L1468261","Salt Pond A3W","2025-06-22 10:44",5,37.4324624,-122.0395062,TRUE,FALSE,FALSE,"S253243702"
+"272","clagre","Clark's Grebe","Aechmophorus clarkii","L35777355","Grant Lake--Secret Beach","2025-06-22 10:25",2,37.8165157,-119.1140582,TRUE,FALSE,FALSE,"S253235493"
+"273","clagre","Clark's Grebe","Aechmophorus clarkii","L830113","Powell Slough","2025-06-22 09:42",3,40.2716348,-111.7405915,TRUE,FALSE,FALSE,"S253188081"
+"274","clagre","Clark's Grebe","Aechmophorus clarkii","L15945026","Anderson Marsh State Historic Park, Lower Lake US-CA 38.92436, -122.61793","2025-06-22 09:29",1,38.924358,-122.61793,TRUE,FALSE,TRUE,"S253178706"
+"275","clagre","Clark's Grebe","Aechmophorus clarkii","L6368186","Park Lake","2025-06-22 09:00",1,47.579058,-119.424384,TRUE,FALSE,FALSE,"S253155925"
+"276","clagre","Clark's Grebe","Aechmophorus clarkii","L1315327","Thermalito Afterbay--Wilbur Rd. (south access)","2025-06-22 08:34",6,39.4823154,-121.6545296,TRUE,FALSE,FALSE,"S253197330"
+"277","clagre","Clark's Grebe","Aechmophorus clarkii","L7073030","Lake Hodges--boat launch (central)","2025-06-22 08:28",11,33.0658921,-117.1084947,TRUE,FALSE,FALSE,"S253179607"
+"278","clagre","Clark's Grebe","Aechmophorus clarkii","L1509906","Utah Lake Parkway Trail (North Shore)","2025-06-22 08:23",2,40.3622447,-111.8832118,TRUE,FALSE,FALSE,"S253125127"
+"279","clagre","Clark's Grebe","Aechmophorus clarkii","L3123503","Lake Hennessey Conn Woodland","2025-06-22 08:05",4,38.5030101,-122.3908174,TRUE,FALSE,TRUE,"S253174008"
+"280","clagre","Clark's Grebe","Aechmophorus clarkii","L10799248","South Fork","2025-06-22 08:00",1,40.67098,-115.765579,TRUE,FALSE,TRUE,"S253196826"
+"281","clagre","Clark's Grebe","Aechmophorus clarkii","L989047","South Richmond Marshes (Stege, Hoffman) and Meeker Slough","2025-06-22 07:44",1,37.9090901,-122.3329122,TRUE,FALSE,FALSE,"S253149971"
+"282","clagre","Clark's Grebe","Aechmophorus clarkii","L387148","Mojave Narrows Regional Park","2025-06-22 07:39",1,34.5129928,-117.2708559,TRUE,TRUE,FALSE,"S253149327"
+"283","clagre","Clark's Grebe","Aechmophorus clarkii","L48235553","Bridgeport Reservoir, Bridgeport US-CA (38.3178,-119.2134)","2025-06-22 07:19",1,38.317828,-119.213407,TRUE,FALSE,TRUE,"S253116729"
+"284","clagre","Clark's Grebe","Aechmophorus clarkii","L1428780","Sand Lake NWR--Weismantel Grade","2025-06-22 06:56",1,45.6901742,-98.3038862,TRUE,FALSE,FALSE,"S253369850"
+"285","clagre","Clark's Grebe","Aechmophorus clarkii","L650670","American Canyon Wetlands","2025-06-22 06:53",4,38.1801109,-122.2731047,TRUE,FALSE,FALSE,"S253152219"
+"286","clagre","Clark's Grebe","Aechmophorus clarkii","L1022599","Ocean Beach-- across from Oceanside Water Polution Plant (FOR STATIONARY SEAWATCH ONLY)","2025-06-22 06:33",1,37.7294017,-122.5069034,TRUE,FALSE,FALSE,"S253332484"
+"287","clagre","Clark's Grebe","Aechmophorus clarkii","L190006","Lake Hennessey","2025-06-22 06:15",20,38.4878242,-122.3693016,TRUE,FALSE,FALSE,"S253172246"
+"288","clagre","Clark's Grebe","Aechmophorus clarkii","L1570131","River Lane--Sandy Beach","2025-06-22 06:00",2,40.1676042,-111.7469285,TRUE,FALSE,FALSE,"S253323417"

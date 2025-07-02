@@ -1,4 +1,2 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","fisspa","Five-striped Sparrow","Amphispizopsis quinquestriata","L340405","Box Canyon","2025-06-30 11:10",1,31.7974086,-110.7868486,TRUE,FALSE,FALSE,"S255678375"
-"2","fisspa","Five-striped Sparrow","Amphispizopsis quinquestriata","L281844","Montosa Canyon--km 1 (culvert area)","2025-06-29 11:20",2,31.6714585,-110.941082,TRUE,FALSE,FALSE,"S255350954"
-"3","fisspa","Five-striped Sparrow","Amphispizopsis quinquestriata","L3531642","California Gulch/Warsaw Canyon confluence","2025-06-27 17:37",2,31.4030216,-111.2421539,TRUE,FALSE,FALSE,"S255072544"
+"1","rucwar","Rufous-capped Warbler","Basileuterus rufifrons","L129105","Sycamore Canyon (Pajarito Mountains)","2025-06-26 05:55",1,31.4290009,-111.1905975,TRUE,TRUE,FALSE,"S254392836"
