@@ -1,2 +1,2 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
-"1","cockat","Cockatiel","Nymphicus hollandicus","L2497189","My Yard","2025-07-01 18:44",1,33.8238402,-118.1706347,TRUE,TRUE,TRUE,"S256077826","X"
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
+"1","layduc","Laysan Duck","Anas laysanensis","L7291453","Green Island, Kure Atoll (restricted access)","2025-07-02 19:06",2,28.392533,-178.2939005,TRUE,FALSE,FALSE,"S256392650"
