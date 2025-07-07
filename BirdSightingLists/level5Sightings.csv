@@ -1,2 +1,4 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","palila","Palila","Loxioides bailleui","L48589812","Mauna Kea Forest Reserve, Honokaa US-HI 19.81618, -155.55455","2025-06-27 08:04",1,19.816181,-155.554548,TRUE,TRUE,TRUE,"S254668073"
+"1","mauala","Maui Alauahio","Paroreomyza montana","L49203477","Hosmer Nature Trail, Kula US-HI 20.76843, -156.23754","2025-07-05 16:48",2,20.768429,-156.23754,TRUE,FALSE,TRUE,"S257351784"
+"2","mauala","Maui Alauahio","Paroreomyza montana","L247163","Haleakala NP--Hosmer Grove","2025-07-05 16:27",2,20.7684183,-156.2365883,TRUE,FALSE,FALSE,"S257524589"
+"3","mauala","Maui Alauahio","Paroreomyza montana","L49175534","Haleakalā National Park, Kula US-HI 20.76779, -156.23858","2025-07-02 12:15",2,20.76779,-156.238578,TRUE,FALSE,TRUE,"S257242624"
