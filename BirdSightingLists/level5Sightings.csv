@@ -1,4 +1,2 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","mauala","Maui Alauahio","Paroreomyza montana","L49203477","Hosmer Nature Trail, Kula US-HI 20.76843, -156.23754","2025-07-05 16:48",2,20.768429,-156.23754,TRUE,FALSE,TRUE,"S257351784"
-"2","mauala","Maui Alauahio","Paroreomyza montana","L247163","Haleakala NP--Hosmer Grove","2025-07-05 16:27",2,20.7684183,-156.2365883,TRUE,FALSE,FALSE,"S257524589"
-"3","mauala","Maui Alauahio","Paroreomyza montana","L49175534","Haleakalā National Park, Kula US-HI 20.76779, -156.23858","2025-07-02 12:15",2,20.76779,-156.238578,TRUE,FALSE,TRUE,"S257242624"
+"1","brambl","Brambling","Fringilla montifringilla","L685834","Alaska Maritime NWR--Buldir Island","2025-06-28 17:02",1,52.3504409,175.9172058,TRUE,TRUE,FALSE,"S255427078"
