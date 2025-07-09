@@ -1,2 +1,4 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","brambl","Brambling","Fringilla montifringilla","L685834","Alaska Maritime NWR--Buldir Island","2025-06-28 17:02",1,52.3504409,175.9172058,TRUE,TRUE,FALSE,"S255427078"
+"1","xanmur2","Scripps's Murrelet","Synthliboramphus scrippsi","L966918","Santa Catalina Channel (LA Co., offshore species only)","2025-07-07 12:08",1,33.552977,-118.295209,TRUE,FALSE,FALSE,"S258167589"
+"2","xanmur2","Scripps's Murrelet","Synthliboramphus scrippsi","L208705","Oceanside Harbor & San Luis Rey River mouth","2025-07-02 12:13",1,33.2051908,-117.3939712,TRUE,TRUE,FALSE,"S256279586"
+"3","xanmur2","Scripps's Murrelet","Synthliboramphus scrippsi","L4235422","Oceanside Waterfront","2025-06-30 08:58",1,33.2017446,-117.3938835,TRUE,TRUE,TRUE,"S255753459"
