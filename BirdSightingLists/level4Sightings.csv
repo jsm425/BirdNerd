@@ -1,52 +1,28 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory","howMany"
-"1","gragoo","Graylag Goose","Anser anser","L1084604","North Bay Park/Ford Lake Boardwalk","2025-07-08 19:06",42.2282671,-83.6102566,TRUE,FALSE,FALSE,"S258219723","X",NA
-"2","gragoo","Graylag Goose","Anser anser","L128990","Hermann Park","2025-07-08 14:32",29.7168676,-95.3921521,TRUE,FALSE,FALSE,"S258178155","X",10
-"3","gragoo","Graylag Goose","Anser anser","L389002","Kerrville--Flat Rock Lake (HOTW077)","2025-07-08 09:43",30.0092157,-99.1150153,TRUE,FALSE,FALSE,"S258106352","X",1
-"4","gragoo","Graylag Goose","Anser anser","L299578","Decker Lake","2025-07-08 08:07",40.7114011,-111.9488016,TRUE,FALSE,FALSE,"S258092009","X",1
-"5","gragoo","Graylag Goose","Anser anser","L268122","Lake Merritt","2025-07-07 18:12",37.8035451,-122.2567177,TRUE,FALSE,FALSE,"S257989927","X",2
-"6","gragoo","Graylag Goose","Anser anser","L9162931","Granite Lake Park","2025-07-07 16:32",35.6190701,-80.4475272,TRUE,FALSE,FALSE,"S257922702","X",1
-"7","gragoo","Graylag Goose","Anser anser","L506257","Ellis Lake","2025-07-07 14:31",39.1485837,-121.5877962,TRUE,FALSE,FALSE,"S257932752","X",4
-"8","gragoo","Graylag Goose","Anser anser","L501195","Sands Lake SWA","2025-07-07 10:26",38.5436846,-106.0044837,TRUE,FALSE,FALSE,"S257872714","X",1
-"9","gragoo","Graylag Goose","Anser anser","L518641","Gibson Ranch County Park","2025-07-07 09:34",38.7243734,-121.4024919,TRUE,FALSE,FALSE,"S257907796","X",6
-"10","gragoo","Graylag Goose","Anser anser","L48590166","Southwest Goldsboro SE - Genoa Rd 35.28784, -78.00814","2025-07-07 08:42",35.287843,-78.008141,TRUE,FALSE,TRUE,"S257966846","X",1
-"11","gragoo","Graylag Goose","Anser anser","L356316","Tenney Park","2025-07-07 07:29",43.094,-89.37,TRUE,FALSE,FALSE,"S257786597","X",1
-"12","gragoo","Graylag Goose","Anser anser","L27042934","Deltona Blvd","2025-07-06 18:30",29.8133134,-81.3152647,TRUE,FALSE,TRUE,"S257863230","X",1
-"13","gragoo","Graylag Goose","Anser anser","L43425919","Lindshire Park","2025-07-06 13:13",30.1749231,-97.8410196,TRUE,FALSE,FALSE,"S257596518","X",1
-"14","gragoo","Graylag Goose","Anser anser","L165164","Woodlawn Lake (HOTE 093)","2025-07-06 12:51",29.450321,-98.53288,TRUE,FALSE,FALSE,"S257608854","X",NA
-"15","gragoo","Graylag Goose","Anser anser","L44830959","736 E Main St, Washington US-NC 35.53734, -77.04436","2025-07-06 10:50",35.537335,-77.044357,TRUE,FALSE,TRUE,"S257548739","X",2
-"16","gragoo","Graylag Goose","Anser anser","L589727","Veterans Park--Klamath Falls","2025-07-06 10:47",42.2186735,-121.788522,TRUE,FALSE,FALSE,"S257586082","X",1
-"17","gragoo","Graylag Goose","Anser anser","L663143","Prairie Creek Reservoir (please consider using a more specific location)","2025-07-06 09:00",40.1250784,-85.2885818,TRUE,FALSE,FALSE,"S257658558","X",15
-"18","gragoo","Graylag Goose","Anser anser","L2430264","Mount Hope Farm","2025-07-06 08:12",41.6681638,-71.2549775,TRUE,TRUE,FALSE,"S257665578","X",1
-"19","gragoo","Graylag Goose","Anser anser","L283345","Guajome Regional Park","2025-07-06 06:31",33.2471763,-117.2729558,TRUE,FALSE,FALSE,"S257502671","X",2
-"20","gragoo","Graylag Goose","Anser anser","L5834334","Pine Island--Heritage River Road Wetlands/ Carlucci Boat Ramp","2025-07-05 15:05",30.3945488,-81.4672916,TRUE,FALSE,FALSE,"S257246171","X",1
-"21","gragoo","Graylag Goose","Anser anser","L4635459","Old Furnace State Park","2025-07-05 12:37",41.7837285,-71.8655361,TRUE,FALSE,FALSE,"S257285242","X",1
-"22","gragoo","Graylag Goose","Anser anser","L674114","River Road Park (Boerne)","2025-07-05 11:30",29.7894002,-98.7259681,TRUE,FALSE,FALSE,"S257231527","X",1
-"23","gragoo","Graylag Goose","Anser anser","L49151261","Riverfront Trail, Grand Junction US-CO (39.0513,-108.5127)","2025-07-05 09:05",39.051269,-108.512732,TRUE,FALSE,TRUE,"S257154252","X",NA
-"24","gragoo","Graylag Goose","Anser anser","L140554","Lake Julian Park","2025-07-05 08:30",35.4794464,-82.538002,TRUE,FALSE,FALSE,"S257191484","X",3
-"25","gragoo","Graylag Goose","Anser anser","L18503983","Hwy 9 Pond Near Harper's Ferry Rd.","2025-07-05 07:33",39.2155251,-77.7451297,TRUE,TRUE,TRUE,"S257065934","X",1
-"26","gragoo","Graylag Goose","Anser anser","L2438402","Lake Meade (restricted access)","2025-07-04 17:45",39.9861431,-77.0425152,TRUE,TRUE,FALSE,"S257847528","X",1
-"27","gragoo","Graylag Goose","Anser anser","L499374","Golden Gate Park--Blue Heron Lake & Strawberry Hill","2025-07-04 14:35",37.7686349,-122.4749326,TRUE,FALSE,FALSE,"S256943879","X",1
-"28","gragoo","Graylag Goose","Anser anser","L49071177","32073, Orange Park US-FL (30.1739,-81.7658)","2025-07-04 10:31",30.173936,-81.765793,TRUE,FALSE,TRUE,"S256824961","X",1
-"29","gragoo","Graylag Goose","Anser anser","L6550609","Tierra del Sol Golf Course","2025-07-04 08:30",34.6350631,-106.7260041,TRUE,FALSE,FALSE,"S256845297","X",1
-"30","gragoo","Graylag Goose","Anser anser","L270303","Watson Lake and Riparian Preserve","2025-07-04 05:15",34.5822319,-112.4259328,TRUE,FALSE,FALSE,"S256805238","X",NA
-"31","gragoo","Graylag Goose","Anser anser","L2968142","Moab -- Old City Park","2025-07-03 17:00",38.5392671,-109.4963376,TRUE,FALSE,FALSE,"S256663552","X",1
-"32","gragoo","Graylag Goose","Anser anser","L49019916","William Land Park Pond","2025-07-03 13:21",38.541227,-121.500371,TRUE,FALSE,TRUE,"S256594043","X",1
-"33","gragoo","Graylag Goose","Anser anser","L47417928","Kenmont Pond","2025-07-03 10:45",35.657059,-78.79318,TRUE,FALSE,TRUE,"S256504985","X",2
-"34","gragoo","Graylag Goose","Anser anser","L3451012","Boerne River Park","2025-07-03 09:57",29.7888724,-98.7214279,TRUE,FALSE,TRUE,"S256560118","X",5
-"35","gragoo","Graylag Goose","Anser anser","L48993579","Chimney Oak Dr, Jacksonville US-FL (30.1934,-81.7834)","2025-07-03 09:46",30.193368,-81.783434,TRUE,FALSE,TRUE,"S256479211","X",1
-"36","gragoo","Graylag Goose","Anser anser","L284289","Lake Davis","2025-07-03 08:14",28.5316075,-81.3669591,TRUE,FALSE,FALSE,"S256459541","X",8
-"37","gragoo","Graylag Goose","Anser anser","L36345547","Minsi Lake","2025-07-03 05:45",40.9129639,-75.1713181,TRUE,FALSE,TRUE,"S257807966","X",1
-"38","gragoo","Graylag Goose","Anser anser","L7553489","Heartland of America Park","2025-07-02 17:20",41.2558877,-95.9274137,TRUE,FALSE,FALSE,"S256326762","X",13
-"39","gragoo","Graylag Goose","Anser anser","L6496532","Aqua Bowl Park","2025-07-02 15:58",25.9195175,-80.1633203,TRUE,FALSE,FALSE,"S257138770","X",3
-"40","gragoo","Graylag Goose","Anser anser","L486301","William Land Park","2025-07-02 06:16",38.5395055,-121.4991117,TRUE,FALSE,FALSE,"S256193500","X",2
-"41","gragoo","Graylag Goose","Anser anser","L365419","LaFreniere Park","2025-07-01 16:13",29.9989491,-90.2119589,TRUE,FALSE,FALSE,"S256079446","X",2
-"42","gragoo","Graylag Goose","Anser anser","L48881587","The Island","2025-07-01 13:33",42.7557,-84.746339,TRUE,TRUE,TRUE,"S255965321","X",21
-"43","gragoo","Graylag Goose","Anser anser","L15368380","Dunnegan Memorial Park","2025-07-01 10:11",37.6289423,-93.4164855,TRUE,TRUE,FALSE,"S255956094","X",6
-"44","gragoo","Graylag Goose","Anser anser","L6595395","Lake Rim Park","2025-07-01 07:45",35.0294802,-79.0447748,TRUE,FALSE,FALSE,"S256277846","X",2
-"45","gragoo","Graylag Goose","Anser anser","L35818877","Lake Rim West PFA","2025-06-30 18:46",35.031017,-79.042086,TRUE,FALSE,TRUE,"S255768283","X",2
-"46","gragoo","Graylag Goose","Anser anser","L36660010","Gibson Ranch Regional Park, Elverta US-CA (38.7227,-121.4019)","2025-06-30 09:54",38.722734,-121.401909,TRUE,FALSE,TRUE,"S255671129","X",5
-"47","gragoo","Graylag Goose","Anser anser","L48792523","Minsi lake, bench in east parking lot","2025-06-30 07:30",40.912955,-75.165698,TRUE,TRUE,TRUE,"S255545890","X",1
-"48","gragoo","Graylag Goose","Anser anser","L48537179","Bonelli Bluffs RV Resort","2025-06-29 13:33",34.089877,-117.794829,TRUE,TRUE,TRUE,"S255426189","X",2
-"49","gragoo","Graylag Goose","Anser anser","L7052456","Round Hill Park","2025-06-29 09:09",40.2420115,-79.8507571,TRUE,TRUE,FALSE,"S255266264","X",6
-"50","gragoo","Graylag Goose","Anser anser","L30491291","Fern Ridge Refuge","2025-06-29 07:00",44.04322,-123.24989,TRUE,FALSE,TRUE,"S255445482","X",2
-"51","gragoo","Graylag Goose","Anser anser","L26187917","Spring Woods Village Nature Preserve","2025-06-29 06:23",30.101954,-95.456903,TRUE,FALSE,TRUE,"S255171518","X",1
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
+"1","norgan","Northern Gannet","Morus bassanus","L489376","Race Point Beach, Provincetown","2025-07-09 06:20",1,42.0782217,-70.2263891,TRUE,FALSE,FALSE,"S258368941"
+"2","norgan","Northern Gannet","Morus bassanus","L329116","Southeast Farallon Island (Farallon Islands NWR, restricted access)","2025-07-08 07:00",1,37.69852,-123.002789,TRUE,FALSE,FALSE,"S258245155"
+"3","norgan","Northern Gannet","Morus bassanus","L450426","Cape Island--CMP--St. Peter's dune crossing","2025-07-06 11:51",2,38.9334623,-74.9665347,TRUE,FALSE,FALSE,"S257612755"
+"4","norgan","Northern Gannet","Morus bassanus","L566310","Cupsogue Beach County Park","2025-07-06 08:15",1,40.7713119,-72.7373457,TRUE,FALSE,FALSE,"S257615165"
+"5","norgan","Northern Gannet","Morus bassanus","L1021477","Mount Desert Rock","2025-07-06 06:00",1,43.9686,-68.1283,TRUE,FALSE,FALSE,"S258249523"
+"6","norgan","Northern Gannet","Morus bassanus","L429298","Matinicus Rock","2025-07-05 17:30",1,43.7869657,-68.8527148,TRUE,FALSE,FALSE,"S257307802"
+"7","norgan","Northern Gannet","Morus bassanus","L34687922","Mike & Jamie's House","2025-07-05 16:00",1,40.7477267,-72.8711539,TRUE,FALSE,TRUE,"S257285255"
+"8","norgan","Northern Gannet","Morus bassanus","L865421","Acadia NP--Schoodic Point","2025-07-05 14:16",2,44.3324746,-68.0603456,TRUE,FALSE,FALSE,"S257225255"
+"9","norgan","Northern Gannet","Morus bassanus","L1565459","Newcomb Hollow Beach","2025-07-05 12:42",1,41.9637463,-69.9958109,TRUE,FALSE,FALSE,"S257235852"
+"10","norgan","Northern Gannet","Morus bassanus","L569900","Jeffrey's Ledge (NH)","2025-07-05 10:11",3,42.9222405,-70.52948,TRUE,FALSE,FALSE,"S257213183"
+"11","norgan","Northern Gannet","Morus bassanus","L364733","Race Point","2025-07-05 05:02",2,42.0691855,-70.2381706,TRUE,FALSE,FALSE,"S257239054"
+"12","norgan","Northern Gannet","Morus bassanus","L950898","Stellwagen Bank--NW Corner","2025-07-04 14:40",1,42.5395482,-70.5569887,TRUE,FALSE,FALSE,"S256925427"
+"13","norgan","Northern Gannet","Morus bassanus","L49028966","Auto selected 44.30048, -67.54081","2025-07-03 15:43",2,44.300484,-67.540808,TRUE,FALSE,TRUE,"S256626300"
+"14","norgan","Northern Gannet","Morus bassanus","L374648","Halibut Point SP","2025-07-02 10:56",1,42.6910153,-70.6317011,TRUE,FALSE,FALSE,"S256789579"
+"15","norgan","Northern Gannet","Morus bassanus","L1037720","Gulf Islands NS: Fort Pickens entrance beach","2025-07-02 06:29",4,30.3262677,-87.1803653,TRUE,FALSE,FALSE,"S256177148"
+"16","norgan","Northern Gannet","Morus bassanus","L49145554","Auto selected 42.11688, -70.15013","2025-07-01 18:19",1,42.116884,-70.150127,TRUE,FALSE,TRUE,"S257130692"
+"17","norgan","Northern Gannet","Morus bassanus","L730553","Block Island-Point Judith Ferry","2025-07-01 12:49",1,41.2703518,-71.5241718,TRUE,FALSE,FALSE,"S256049517"
+"18","norgan","Northern Gannet","Morus bassanus","L48874679","Down east charter whale US-ME 44.86313, -66.98679","2025-07-01 09:29",1,44.863125,-66.986794,TRUE,FALSE,TRUE,"S255934731"
+"19","norgan","Northern Gannet","Morus bassanus","L805337","Nauset Beach, Orleans","2025-06-30 12:31",1,41.7888489,-69.9355316,TRUE,FALSE,FALSE,"S255761655"
+"20","norgan","Northern Gannet","Morus bassanus","L49102529","Southeast Farallon, San Francisco US-CA (37.6986,-123.0020)","2025-06-30 12:25",1,37.698567,-123.002038,TRUE,FALSE,TRUE,"S256943980"
+"21","norgan","Northern Gannet","Morus bassanus","L737088","Stellwagen Bank--Race Point Waters","2025-06-30 11:06",2,42.0745904,-70.264821,TRUE,FALSE,FALSE,"S255695242"
+"22","norgan","Northern Gannet","Morus bassanus","L48873808","Machias Seal Island (NB)","2025-06-30 10:19",1,44.5379078,-67.087298,TRUE,FALSE,TRUE,"S255936423"
+"23","norgan","Northern Gannet","Morus bassanus","L3717282","Bank Comfort","2025-06-30 08:44",6,43.8734997,-68.0112089,TRUE,FALSE,FALSE,"S255662396"
+"24","norgan","Northern Gannet","Morus bassanus","L1245178","Boat Trip, Cutler-Machias Seal Island","2025-06-30 08:08",1,44.5748174,-67.1796799,TRUE,FALSE,FALSE,"S255686403"
+"25","norgan","Northern Gannet","Morus bassanus","L246772","Machias Seal Island","2025-06-30 07:36",1,44.5017664,-67.1008222,TRUE,FALSE,FALSE,"S255697025"
+"26","norgan","Northern Gannet","Morus bassanus","L279945","Andrews Point","2025-06-30 06:39",2,42.687714,-70.6204365,TRUE,FALSE,FALSE,"S255584848"
+"27","norgan","Northern Gannet","Morus bassanus","L840315","Seal Island NWR (island vicinity ONLY)","2025-06-30 05:00",2,43.8894651,-68.7374814,TRUE,FALSE,FALSE,"S255768757"
