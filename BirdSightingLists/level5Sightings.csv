@@ -1,7 +1,2 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","conwar","Connecticut Warbler","Oporornis agilis","L24064320","County Road 13","2025-07-12 07:30",1,48.3155454,-93.7986222,TRUE,FALSE,FALSE,"S259313752"
-"2","conwar","Connecticut Warbler","Oporornis agilis","L1194459","Big Bog State Recreation Area","2025-07-09 05:43",1,48.2857058,-94.5655145,TRUE,FALSE,FALSE,"S258378475"
-"3","conwar","Connecticut Warbler","Oporornis agilis","L10839271","Twomey Williams Forest Road","2025-07-08 11:48",1,48.247253,-93.9822677,TRUE,FALSE,FALSE,"S258213570"
-"4","conwar","Connecticut Warbler","Oporornis agilis","L19300925","5266 Mud Creek Road, Tower, Minnesota, US (47.893, -92.241)","2025-07-06 10:40",1,47.8934913,-92.240652,TRUE,FALSE,TRUE,"S258067425"
-"5","conwar","Connecticut Warbler","Oporornis agilis","L34151992","Fiero Truck Trail","2025-07-06 07:06",1,48.3148266,-94.2090617,TRUE,FALSE,FALSE,"S257493963"
-"6","conwar","Connecticut Warbler","Oporornis agilis","L6248671","Beltrami Island SF (LOTW Co.)","2025-07-05 07:35",1,48.7414839,-95.0620794,TRUE,FALSE,FALSE,"S257317551"
+"1","akepa1","Hawaii Akepa","Loxops coccineus","L695639","Hakalau Forest NWR--Pua Akala Tract (restricted access)","2025-07-13 07:45",3,19.7895,-155.3262,TRUE,TRUE,FALSE,"S259730256"
