@@ -1,3 +1,4 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","x00059","Townsend's x Hermit Warbler (hybrid)","Setophaga townsendi x occidentalis","L1875649","Government Meadows (Pierce Co.)","2025-07-11 08:24",1,47.0864774,-121.3926705,TRUE,FALSE,FALSE,"S259013644"
-"2","x00059","Townsend's x Hermit Warbler (hybrid)","Setophaga townsendi x occidentalis","L49460433","Rock Candy Mountain Road Southwest, Olympia, Washington, US (47.01, -123.133)","2025-07-09 14:29",1,47.0101467,-123.133235,TRUE,FALSE,TRUE,"S258459592"
+"1","shtalb","Short-tailed Albatross","Phoebastria albatrus","L49910632","25GOA2025","2025-07-15 08:00",1,58.1361,-150.4317,TRUE,TRUE,TRUE,"S260391537"
+"2","shtalb","Short-tailed Albatross","Phoebastria albatrus","L49815176","Bering Sea","2025-07-13 11:00",1,58.8630784,-171.6840751,TRUE,FALSE,TRUE,"S259971937"
+"3","shtalb","Short-tailed Albatross","Phoebastria albatrus","L49531908","N. of Islands of Four Mtns, Aleutian Islands,  Alaska, US (53.197, -170.84)","2025-07-10 15:15",1,53.1966794,-170.8398592,TRUE,FALSE,TRUE,"S258771859"

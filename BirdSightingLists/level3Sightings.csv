@@ -1,277 +1,320 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","marmur","Marbled Murrelet","Brachyramphus marmoratus","L7670841","Pier 54, Seattle","2025-07-17 16:15",2,47.6038482,-122.3388147,TRUE,FALSE,FALSE,"S260652003"
-"2","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49972544","Auto selected 57.54182, -153.76050","2025-07-17 14:36",2,57.541816,-153.760502,TRUE,FALSE,TRUE,"S260654302"
-"3","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49967762","Fitz Cove Beach","2025-07-17 13:12",3,58.3230944,-134.6169866,TRUE,FALSE,TRUE,"S260634244"
-"4","marmur","Marbled Murrelet","Brachyramphus marmoratus","L4566503","Cordova--Fleming Spit","2025-07-17 12:46",2,60.5627448,-145.7432945,TRUE,FALSE,FALSE,"S260629280"
-"5","marmur","Marbled Murrelet","Brachyramphus marmoratus","L682177","Glacier Bay NP--Tarr Inlet","2025-07-17 12:30",2,59.0008815,-136.9730759,TRUE,FALSE,FALSE,"S260627511"
-"6","marmur","Marbled Murrelet","Brachyramphus marmoratus","L3883910","Peril Strait--S Arm","2025-07-17 12:01",50,57.4774486,-135.5411282,TRUE,FALSE,FALSE,"S260628067"
-"7","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49964127","Auto selected 48.19894, -122.77897","2025-07-17 12:00",3,48.198939,-122.778971,TRUE,FALSE,TRUE,"S260620315"
-"8","marmur","Marbled Murrelet","Brachyramphus marmoratus","L3883876","Sergius Narrows","2025-07-17 11:23",3,57.4076581,-135.6211782,TRUE,FALSE,FALSE,"S260619934"
-"9","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49967687","Shipping Lanes, PWS (60.496, -147.066)","2025-07-17 11:18",1,60.49597,-147.0659317,TRUE,FALSE,TRUE,"S260633943"
-"10","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49964425","Alaska, US (57.544, -153.746)","2025-07-17 10:48",1,57.5436252,-153.74598,TRUE,FALSE,TRUE,"S260621408"
-"11","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49965286","Zachar Bay","2025-07-17 10:30",4,57.5378764,-153.746104,TRUE,FALSE,TRUE,"S260624795"
-"12","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49957722","Auto selected 48.10208, -122.88404","2025-07-17 10:00",1,48.10208,-122.884037,TRUE,FALSE,TRUE,"S260595993"
-"13","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49967595","S. of Smith Is., PWS, (60.485, -147.309)","2025-07-17 09:54",1,60.4851617,-147.3090583,TRUE,FALSE,TRUE,"S260633552"
-"14","marmur","Marbled Murrelet","Brachyramphus marmoratus","L1309293","Humboldt Bay--entrance channel","2025-07-17 09:42",5,40.7589604,-124.2315102,TRUE,FALSE,FALSE,"S260611177"
-"15","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49962385","Idaho Inlet, Elfin Cove US-AK 58.08344, -136.16490","2025-07-17 09:37",30,58.083444,-136.164902,TRUE,FALSE,TRUE,"S260613868"
-"16","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49957294","Alaska, US (57.557, -153.778)","2025-07-17 09:34",4,57.5573041,-153.7783588,TRUE,FALSE,TRUE,"S260594385"
-"17","marmur","Marbled Murrelet","Brachyramphus marmoratus","L5057896","Auke Bay--Coghlan Island","2025-07-17 09:31",4,58.3540493,-134.6971464,TRUE,FALSE,FALSE,"S260623508"
-"18","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49951979","Mid Chanel Washington, US (48.135, -122.724)","2025-07-17 09:25",2,48.1351875,-122.7244496,TRUE,FALSE,TRUE,"S260574463"
-"19","marmur","Marbled Murrelet","Brachyramphus marmoratus","L11550376","Whiting River Homestead (Port Snettisham)","2025-07-17 09:11",125,58.0049339,-133.6949642,TRUE,FALSE,TRUE,"S260637573"
-"20","marmur","Marbled Murrelet","Brachyramphus marmoratus","L1022652","Ketchikan (town)","2025-07-17 09:05",3,55.3427645,-131.6462517,TRUE,FALSE,FALSE,"S260614922"
-"21","marmur","Marbled Murrelet","Brachyramphus marmoratus","L1129599","Kodiak Is.--Mayflower Beach (outer Kalsin Bay)","2025-07-17 09:02",7,57.6480704,-152.4404955,TRUE,FALSE,FALSE,"S260651263"
-"22","marmur","Marbled Murrelet","Brachyramphus marmoratus","L1528587","Point Julia (restricted access)","2025-07-17 09:00",1,47.855307,-122.575618,TRUE,FALSE,FALSE,"S260573266"
-"23","marmur","Marbled Murrelet","Brachyramphus marmoratus","L45494650","405 Knudson Cove Road, Ketchikan, Alaska, US (55.471, -131.798)","2025-07-17 08:46",1,55.4708864,-131.7978685,TRUE,FALSE,TRUE,"S260599106"
-"24","marmur","Marbled Murrelet","Brachyramphus marmoratus","L1128824","Homer Spit--Freight Dock Rd & Overlooks","2025-07-17 08:38",2,59.6094117,-151.4287233,TRUE,FALSE,FALSE,"S260585112"
-"25","marmur","Marbled Murrelet","Brachyramphus marmoratus","L34600088","Walden Rock","2025-07-17 08:12",9,55.278673,-131.605519,TRUE,FALSE,TRUE,"S260614499"
-"26","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49955508","Western Channel, Sitka US-AK 57.08111, -135.39035","2025-07-17 08:00",30,57.081108,-135.390352,TRUE,FALSE,TRUE,"S260587583"
-"27","marmur","Marbled Murrelet","Brachyramphus marmoratus","L1105354","Seward--4th of July Beach","2025-07-17 06:24",NA,60.0834989,-149.3514007,TRUE,FALSE,FALSE,"S260632691"
-"28","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49951918","Seward Waterfront Park, Seward US-AK 60.10070, -149.43770","2025-07-17 06:03",1,60.100696,-149.437703,TRUE,FALSE,TRUE,"S260574280"
-"29","marmur","Marbled Murrelet","Brachyramphus marmoratus","L3074583","Euchre Creek Mouth","2025-07-17 05:57",11,42.5588553,-124.3895996,TRUE,FALSE,FALSE,"S260562480"
-"30","marmur","Marbled Murrelet","Brachyramphus marmoratus","L684240","Frederick Sound","2025-07-16 20:53",16,57.1518854,-134.1238403,TRUE,FALSE,FALSE,"S260458796"
-"31","marmur","Marbled Murrelet","Brachyramphus marmoratus","L1646450","Glacier Bay NP--Glacier Bay Visitor Center Trail","2025-07-16 20:12",1,58.4530231,-135.8880564,TRUE,FALSE,FALSE,"S260637716"
-"32","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49925683","Alaska, US (58.197, -154.492)","2025-07-16 19:13",5,58.1970407,-154.4921453,TRUE,FALSE,TRUE,"S260454371"
-"33","marmur","Marbled Murrelet","Brachyramphus marmoratus","L43587382","34213–34237 Glacier Hwy, Juneau US-AK 58.53947, -134.84911","2025-07-16 18:04",6,58.539471,-134.849108,TRUE,FALSE,TRUE,"S260551362"
-"34","marmur","Marbled Murrelet","Brachyramphus marmoratus","L2752419","Seward--Waterfront Park","2025-07-16 17:31",NA,60.1067459,-149.4337238,TRUE,FALSE,FALSE,"S260450483"
-"35","marmur","Marbled Murrelet","Brachyramphus marmoratus","L4001190","Chilkoot River mouth","2025-07-16 16:38",15,59.322363,-135.5571591,TRUE,FALSE,FALSE,"S260452367"
-"36","marmur","Marbled Murrelet","Brachyramphus marmoratus","L285366","Golden Gardens Park","2025-07-16 16:23",1,47.6928546,-122.4054806,TRUE,FALSE,FALSE,"S260439585"
-"37","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49925251","1039 Lutak Road, Haines, Alaska, US (59.258, -135.439)","2025-07-16 16:15",4,59.2576344,-135.4393411,TRUE,FALSE,TRUE,"S260452429"
-"38","marmur","Marbled Murrelet","Brachyramphus marmoratus","L684556","Haines (town)","2025-07-16 15:57",2,59.2370936,-135.4452896,TRUE,FALSE,FALSE,"S260452481"
-"39","marmur","Marbled Murrelet","Brachyramphus marmoratus","L1130079","Kodiak Is.--Chiniak Creek mouth","2025-07-16 15:44",2,57.6182582,-152.2056628,TRUE,FALSE,FALSE,"S260455113"
-"40","marmur","Marbled Murrelet","Brachyramphus marmoratus","L1252571","Washington Park--Green Point","2025-07-16 15:20",12,48.498746,-122.701145,TRUE,FALSE,FALSE,"S260432709"
-"41","marmur","Marbled Murrelet","Brachyramphus marmoratus","L7908055","Kodiak Is.--Roslyn Beach","2025-07-16 14:57",2,57.6215498,-152.3198393,TRUE,FALSE,FALSE,"S260455073"
-"42","marmur","Marbled Murrelet","Brachyramphus marmoratus","L777805","Eureka Waterfront--Marina Way","2025-07-16 14:24",2,40.8008374,-124.1820007,TRUE,FALSE,FALSE,"S260569479"
-"43","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49923289","Dyea Rd, Skagway US-AK 59.47889, -135.33641","2025-07-16 14:08",6,59.478885,-135.336406,TRUE,FALSE,TRUE,"S260444899"
-"44","marmur","Marbled Murrelet","Brachyramphus marmoratus","L1130061","Kodiak Is.--bight off of Brookers Lagoon (Kalsin Bay)","2025-07-16 14:05",2,57.6201747,-152.3463821,TRUE,FALSE,FALSE,"S260455037"
-"45","marmur","Marbled Murrelet","Brachyramphus marmoratus","L1460636","Port Townsend-Keystone Ferry (Jefferson Co.)","2025-07-16 12:30",NA,48.1260146,-122.7193579,TRUE,FALSE,FALSE,"S260525425"
-"46","marmur","Marbled Murrelet","Brachyramphus marmoratus","L1315481","Ketchikan--Guard Islands (Tongass Narrows)","2025-07-16 12:04",5,55.4458167,-131.8813741,TRUE,FALSE,FALSE,"S260424852"
-"47","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49910156","Peril Strait","2025-07-16 11:54",174,57.42693,-135.583625,TRUE,FALSE,TRUE,"S260389541"
-"48","marmur","Marbled Murrelet","Brachyramphus marmoratus","L864791","Harris Beach SP","2025-07-16 11:00",1,42.068482,-124.3106461,TRUE,FALSE,FALSE,"S260412961"
-"49","marmur","Marbled Murrelet","Brachyramphus marmoratus","L3880058","Auke Bay","2025-07-16 10:55",30,58.3725578,-134.6680498,TRUE,FALSE,FALSE,"S260400455"
-"50","marmur","Marbled Murrelet","Brachyramphus marmoratus","L661970","Kodiak Is.--Fort Abercrombie State Historical Park","2025-07-16 10:50",10,57.8326893,-152.3559093,TRUE,FALSE,FALSE,"S260439281"
-"51","marmur","Marbled Murrelet","Brachyramphus marmoratus","L6167418","Katmai NP--Geographic Harbor","2025-07-16 10:28",26,58.1087696,-154.585619,TRUE,FALSE,FALSE,"S260385856"
-"52","marmur","Marbled Murrelet","Brachyramphus marmoratus","L3872759","North Passage (Icy Strait)","2025-07-16 10:27",NA,58.3153034,-136.1413422,TRUE,FALSE,FALSE,"S260418097"
-"53","marmur","Marbled Murrelet","Brachyramphus marmoratus","L496326","Outer Point Trail","2025-07-16 10:27",22,58.302364,-134.6786499,TRUE,FALSE,FALSE,"S260402654"
-"54","marmur","Marbled Murrelet","Brachyramphus marmoratus","L35879950","Berners Bay, Juneau US-AK 58.73042, -134.93649","2025-07-16 10:26",27,58.730421,-134.93649,TRUE,FALSE,TRUE,"S260453994"
-"55","marmur","Marbled Murrelet","Brachyramphus marmoratus","L3707232","Endicott Arm--Dawes Glacier","2025-07-16 09:41",2,57.5025446,-132.8720856,TRUE,FALSE,FALSE,"S260400849"
-"56","marmur","Marbled Murrelet","Brachyramphus marmoratus","L443195","Sitka (town)","2025-07-16 09:30",1,57.049881,-135.3335381,TRUE,FALSE,FALSE,"S260384348"
-"57","marmur","Marbled Murrelet","Brachyramphus marmoratus","L34058265","Blue Mussel Cove, Juneau US-AK 58.68711, -134.93680","2025-07-16 09:23",10,58.687106,-134.936802,TRUE,FALSE,TRUE,"S260454496"
-"58","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49923445","Echo Cove, Juneau US-AK 58.66159, -134.90835","2025-07-16 09:11",2,58.661592,-134.908347,TRUE,FALSE,TRUE,"S260445520"
-"59","marmur","Marbled Murrelet","Brachyramphus marmoratus","L782177","Gustavus--Forelands (W of dock to Critical Habitat boundary)","2025-07-16 09:04",5,58.3921763,-135.7899857,TRUE,FALSE,FALSE,"S260452734"
-"60","marmur","Marbled Murrelet","Brachyramphus marmoratus","L586756","Seward--Iditarod Memorial","2025-07-16 09:00",20,60.1014771,-149.4355201,TRUE,FALSE,FALSE,"S260364051"
-"61","marmur","Marbled Murrelet","Brachyramphus marmoratus","L4821923","Saginaw Channel--Pt Retreat to Strauss Rock","2025-07-16 08:58",50,58.3929223,-134.8874588,TRUE,FALSE,FALSE,"S260377304"
-"62","marmur","Marbled Murrelet","Brachyramphus marmoratus","L3403344","Sand Point (town)","2025-07-16 08:15",1,55.3390306,-160.4992875,TRUE,FALSE,FALSE,"S260461095"
-"63","marmur","Marbled Murrelet","Brachyramphus marmoratus","L29884179","Auke Bay-Yard and Point","2025-07-16 07:57",2,58.362498,-134.64417,TRUE,FALSE,TRUE,"S260465755"
-"64","marmur","Marbled Murrelet","Brachyramphus marmoratus","L988745","Kenai Fjords NP--Kenai Fjords Glacier Lodge","2025-07-16 07:55",10,59.8842862,-149.7302628,TRUE,FALSE,FALSE,"S260447722"
-"65","marmur","Marbled Murrelet","Brachyramphus marmoratus","L523108","Trinidad Harbor","2025-07-16 07:36",1,41.0564737,-124.1471274,TRUE,FALSE,FALSE,"S260325302"
-"66","marmur","Marbled Murrelet","Brachyramphus marmoratus","L5717718","913C Sandy Beach Rd","2025-07-16 07:23",2,56.8081911,-132.9177361,TRUE,FALSE,TRUE,"S260338493"
-"67","marmur","Marbled Murrelet","Brachyramphus marmoratus","L109542","Point No Point","2025-07-16 07:16",4,47.9118696,-122.5283182,TRUE,FALSE,FALSE,"S260329924"
-"68","marmur","Marbled Murrelet","Brachyramphus marmoratus","L21374870","Towers Rd, Juneau US-AK 58.38916, -134.76825","2025-07-16 07:11",2,58.389163,-134.76825,TRUE,FALSE,TRUE,"S260454654"
-"69","marmur","Marbled Murrelet","Brachyramphus marmoratus","L3881355","Gastineau Channel","2025-07-16 06:43",6,58.293704,-134.4118452,TRUE,FALSE,FALSE,"S260353410"
-"70","marmur","Marbled Murrelet","Brachyramphus marmoratus","L42092229","41329 Foulweather Bluff Rd NE, Hansville US-WA 47.93902, -122.61430","2025-07-16 06:00",2,47.939018,-122.614304,TRUE,FALSE,TRUE,"S260314431"
-"71","marmur","Marbled Murrelet","Brachyramphus marmoratus","L374382","Edmonds Waterfront","2025-07-16 05:49",2,47.8119268,-122.3854144,TRUE,FALSE,FALSE,"S260348688"
-"72","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49924480","Taiya Inlet, Skagway US-AK (59.4491,-135.3286)","2025-07-16 05:47",1,59.449095,-135.328555,TRUE,FALSE,TRUE,"S260449551"
-"73","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49887255","Alaska, US (59.403, -135.357)","2025-07-16 04:54",4,59.4030475,-135.3571512,TRUE,FALSE,TRUE,"S260294940"
-"74","marmur","Marbled Murrelet","Brachyramphus marmoratus","L682181","Sitka Sound","2025-07-16",30,57.0317632,-135.5122375,TRUE,FALSE,FALSE,"S260468704"
-"75","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49899088","4320–4406 Tongass Ave, Ketchikan US-AK 55.36161, -131.70681","2025-07-15 20:17",1,55.361613,-131.706806,TRUE,FALSE,TRUE,"S260346880"
-"76","marmur","Marbled Murrelet","Brachyramphus marmoratus","L159580","Kronenberg County Park--Coquille Point","2025-07-15 18:30",3,43.1147,-124.4353,TRUE,FALSE,FALSE,"S260358803"
-"77","marmur","Marbled Murrelet","Brachyramphus marmoratus","L2906581","Glacier Bay NP--Sittakaday Narrows","2025-07-15 17:46",6,58.483286,-136.0430145,TRUE,FALSE,FALSE,"S260221450"
-"78","marmur","Marbled Murrelet","Brachyramphus marmoratus","L5057892","Auke Bay--Suedla Island","2025-07-15 17:25",2,58.3515074,-134.6629,TRUE,FALSE,FALSE,"S260214843"
-"79","marmur","Marbled Murrelet","Brachyramphus marmoratus","L390227","Eagle Beach SRA","2025-07-15 14:33",20,58.5283716,-134.8270512,TRUE,FALSE,FALSE,"S260215990"
-"80","marmur","Marbled Murrelet","Brachyramphus marmoratus","L566343","Crescent City Harbor--Battery Point Lighthouse & Jetty","2025-07-15 13:31",2,41.7455411,-124.2015982,TRUE,FALSE,FALSE,"S260174152"
-"81","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49860221","Gastineau Channel, Juneau","2025-07-15 12:10",120,58.228255,-134.283573,TRUE,FALSE,TRUE,"S260169962"
-"82","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49871793","Glacier Bay NP - Blue Mouse Cove","2025-07-15 11:54",21,58.790719,-136.499194,TRUE,FALSE,TRUE,"S260221342"
-"83","marmur","Marbled Murrelet","Brachyramphus marmoratus","L15660866","Horned Puffin Cave Sitka, Alaska, US (56.995, -135.795)","2025-07-15 11:43",10,56.9954736,-135.7950735,TRUE,FALSE,TRUE,"S260226679"
-"84","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49872466","Auke Bay, Juneau US-AK 58.38227, -134.65385","2025-07-15 11:42",45,58.38227,-134.653849,TRUE,FALSE,TRUE,"S260224096"
-"85","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49858223","Alaska, US (56.757, -157.477)","2025-07-15 11:41",4,56.7568663,-157.4766147,TRUE,FALSE,TRUE,"S260162233"
-"86","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49871779","Glacier Bay National Park","2025-07-15 10:53",2,58.781601,-136.406218,TRUE,FALSE,TRUE,"S260221279"
-"87","marmur","Marbled Murrelet","Brachyramphus marmoratus","L7612239","Valdez--Homestead Trail","2025-07-15 10:45",1,61.1308305,-146.3986688,TRUE,FALSE,FALSE,"S260216793"
-"88","marmur","Marbled Murrelet","Brachyramphus marmoratus","L2736094","Glacier Bay NP--Tlingit Pt.","2025-07-15 10:34",200,58.7561556,-136.1977579,TRUE,FALSE,FALSE,"S260221226"
-"89","marmur","Marbled Murrelet","Brachyramphus marmoratus","L3926998","Kachemak Bay--Homer Spit to Dangerous Cape","2025-07-15 10:30",5,59.5090456,-151.7153378,TRUE,FALSE,FALSE,"S260371035"
-"90","marmur","Marbled Murrelet","Brachyramphus marmoratus","L3706787","Glacier Bay NP--Muir Inlet & Sebree Island","2025-07-15 09:45",220,58.7655299,-136.1683273,TRUE,FALSE,FALSE,"S260221207"
-"91","marmur","Marbled Murrelet","Brachyramphus marmoratus","L25816266","Outer Point Trail Beaver Ponds","2025-07-15 09:30",2,58.2998835,-134.6695518,TRUE,FALSE,TRUE,"S260191609"
-"92","marmur","Marbled Murrelet","Brachyramphus marmoratus","L6801484","Kodiak Is.--Spruce Cape","2025-07-15 09:15",6,57.8219561,-152.329289,TRUE,FALSE,FALSE,"S260146445"
-"93","marmur","Marbled Murrelet","Brachyramphus marmoratus","L2275907","Pack Creek Bear Viewing Area (Admiralty Island)","2025-07-15 09:05",2,57.9036305,-134.2838717,TRUE,FALSE,FALSE,"S260209744"
-"94","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49849884","Road to Battery Pt Trailhead","2025-07-15 08:45",1,59.2213251,-135.4024205,TRUE,FALSE,TRUE,"S260131009"
-"95","marmur","Marbled Murrelet","Brachyramphus marmoratus","L9753639","Endicott Arm (NW end)","2025-07-15 08:43",150,57.7392935,-133.5661595,TRUE,FALSE,FALSE,"S260169833"
-"96","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49848198","Alaska, US (56.697, -157.462)","2025-07-15 08:43",3,56.6967751,-157.4622471,TRUE,FALSE,TRUE,"S260124534"
-"97","marmur","Marbled Murrelet","Brachyramphus marmoratus","L2789415","St. James Bay (off Lynn Canal)","2025-07-15 08:36",9,58.6217435,-135.2312279,TRUE,FALSE,FALSE,"S260145116"
-"98","marmur","Marbled Murrelet","Brachyramphus marmoratus","L5070069","Pavlof Harbor","2025-07-15 08:35",1,57.8441922,-135.0277748,TRUE,FALSE,FALSE,"S260142287"
-"99","marmur","Marbled Murrelet","Brachyramphus marmoratus","L298030","Carkeek Park","2025-07-15 06:17",2,47.7126411,-122.377647,TRUE,FALSE,FALSE,"S260095406"
-"100","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49838796","Juneau, Alaska, US (58.213, -134.255)","2025-07-15 06:16",6,58.2127553,-134.254501,TRUE,FALSE,TRUE,"S260088016"
-"101","marmur","Marbled Murrelet","Brachyramphus marmoratus","L1045178","Skagway--waterfront","2025-07-15 06:12",120,59.447693,-135.3271866,TRUE,FALSE,FALSE,"S260101315"
-"102","marmur","Marbled Murrelet","Brachyramphus marmoratus","L9753733","Endicott Arm (SE end)","2025-07-15 05:33",8,57.6118957,-133.228275,TRUE,FALSE,FALSE,"S260169623"
-"103","marmur","Marbled Murrelet","Brachyramphus marmoratus","L7671882","Big Basin SP--Redwood Trail","2025-07-15 05:16",2,37.1702267,-122.2235656,TRUE,FALSE,FALSE,"S260171676"
-"104","marmur","Marbled Murrelet","Brachyramphus marmoratus","L6110445","Chilkat SP--Moose Meadows","2025-07-14 18:56",6,59.1306209,-135.377655,TRUE,FALSE,FALSE,"S260096896"
-"105","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49818554","Wrangell, Alaska, US (56.115, -132.8)","2025-07-14 18:10",8,56.1146348,-132.7998266,TRUE,FALSE,TRUE,"S259985819"
-"106","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49818575","Wrangell, Alaska, US (56.024, -132.699)","2025-07-14 17:51",2,56.023558,-132.6994273,TRUE,FALSE,TRUE,"S259985902"
-"107","marmur","Marbled Murrelet","Brachyramphus marmoratus","L38683363","Nahku Bay beach","2025-07-14 16:41",25,59.4789003,-135.3366522,TRUE,FALSE,FALSE,"S260023421"
-"108","marmur","Marbled Murrelet","Brachyramphus marmoratus","L5297812","Kodiak Isl. South Near Island Trail","2025-07-14 16:15",6,57.7724826,-152.4143815,TRUE,FALSE,TRUE,"S259980703"
-"109","marmur","Marbled Murrelet","Brachyramphus marmoratus","L129842","Resurrection Bay","2025-07-14 16:09",10,60.0497812,-149.3878636,TRUE,FALSE,FALSE,"S259980147"
-"110","marmur","Marbled Murrelet","Brachyramphus marmoratus","L20311892","Rugged Island crossing to Aialik Cape","2025-07-14 14:44",10,59.771217,-149.388337,TRUE,FALSE,TRUE,"S259980127"
-"111","marmur","Marbled Murrelet","Brachyramphus marmoratus","L9505646","Kenai Fjords NP--Crater Bay & Harris Bay","2025-07-14 13:34",30,59.6915301,-149.8387715,TRUE,FALSE,FALSE,"S259980095"
-"112","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49820282","Fav Channel Benjamin to Amalga, Juneau US-AK 58.53041, -134.86696","2025-07-14 13:17",10,58.530413,-134.86696,TRUE,FALSE,TRUE,"S259994935"
-"113","marmur","Marbled Murrelet","Brachyramphus marmoratus","L2215712","Skagway--Ore Dock ","2025-07-14 12:25",6,59.4505012,-135.3299332,TRUE,FALSE,FALSE,"S259930996"
-"114","marmur","Marbled Murrelet","Brachyramphus marmoratus","L3869478","Annette Island--Race Pt.","2025-07-14 11:55",41,55.28503,-131.5698259,TRUE,FALSE,FALSE,"S259945436"
-"115","marmur","Marbled Murrelet","Brachyramphus marmoratus","L1254311","Kenai Fjords NP--Northwestern Fiord","2025-07-14 11:33",10,59.7803768,-150.026207,TRUE,FALSE,FALSE,"S259980032"
-"116","marmur","Marbled Murrelet","Brachyramphus marmoratus","L1633817","Glacier Bay NP--Glacier Bay","2025-07-14 11:30",79,58.6950873,-136.1813779,TRUE,FALSE,FALSE,"S259928752"
-"117","marmur","Marbled Murrelet","Brachyramphus marmoratus","L1454902","South Beach, San Juan Island","2025-07-14 11:28",1,48.4556661,-122.9961548,TRUE,FALSE,FALSE,"S259904081"
-"118","marmur","Marbled Murrelet","Brachyramphus marmoratus","L8186713","Seward--Boulder Campground","2025-07-14 11:17",2,60.1130481,-149.4394887,TRUE,FALSE,FALSE,"S260225060"
-"119","marmur","Marbled Murrelet","Brachyramphus marmoratus","L1045199","Skagway--Dyea Road","2025-07-14 11:01",17,59.4802252,-135.3470993,TRUE,FALSE,FALSE,"S259931225"
-"120","marmur","Marbled Murrelet","Brachyramphus marmoratus","L781855","Gustavus--Forelands Preserve (E of Gustavus Dock)","2025-07-14 10:44",2,58.3959998,-135.7105064,TRUE,FALSE,FALSE,"S259965958"
-"121","marmur","Marbled Murrelet","Brachyramphus marmoratus","L599558","North Spit--Samoa Dunes Recreation Area (general)","2025-07-14 10:40",2,40.7628936,-124.2259741,TRUE,FALSE,FALSE,"S260150827"
-"122","marmur","Marbled Murrelet","Brachyramphus marmoratus","L5057912","Favorite Channel--Cohen Island","2025-07-14 10:28",12,58.431317,-134.8045034,TRUE,FALSE,FALSE,"S259926823"
-"123","marmur","Marbled Murrelet","Brachyramphus marmoratus","L769082","Alaska Maritime NWR--Chiswell Islands","2025-07-14 10:09",40,59.6431112,-149.6138763,TRUE,FALSE,FALSE,"S259980002"
-"124","marmur","Marbled Murrelet","Brachyramphus marmoratus","L37425291","Samoa, California, US (40.764, -124.232)","2025-07-14 09:53",1,40.7642107,-124.2316494,TRUE,FALSE,TRUE,"S259883679"
-"125","marmur","Marbled Murrelet","Brachyramphus marmoratus","L16057752","Taku Harbor State Marine Park","2025-07-14 09:42",2,58.0617369,-134.0177478,TRUE,FALSE,FALSE,"S259920537"
-"126","marmur","Marbled Murrelet","Brachyramphus marmoratus","L1045188","Skagway--Yakutania Point trail","2025-07-14 09:41",2,59.4528845,-135.3356838,TRUE,FALSE,FALSE,"S259953518"
-"127","marmur","Marbled Murrelet","Brachyramphus marmoratus","L941868","Resurrection Bay--Aialik Cape","2025-07-14 09:29",10,59.7062094,-149.5252991,TRUE,FALSE,FALSE,"S259979963"
-"128","marmur","Marbled Murrelet","Brachyramphus marmoratus","L4936159","Favorite Channel--Aaron Island","2025-07-14 09:27",10,58.4371776,-134.8223691,TRUE,FALSE,FALSE,"S259888016"
-"129","marmur","Marbled Murrelet","Brachyramphus marmoratus","L16331766","Inian Islands (general area)","2025-07-14 09:16",2,58.2569907,-136.3781421,TRUE,FALSE,FALSE,"S259916780"
-"130","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49794735","Auto selected 60.66677, -145.87885","2025-07-14 09:14",12,60.666765,-145.878851,TRUE,FALSE,TRUE,"S259887552"
-"131","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49816357","Benjamin","2025-07-14 09:11",17,58.532517,-134.911701,TRUE,FALSE,TRUE,"S259976690"
-"132","marmur","Marbled Murrelet","Brachyramphus marmoratus","L941863","Resurrection Bay--Callisto Head","2025-07-14 09:07",26,59.9183334,-149.4646168,TRUE,FALSE,FALSE,"S259978428"
-"133","marmur","Marbled Murrelet","Brachyramphus marmoratus","L47443845","Pt Louisa 3","2025-07-14 09:00",1,58.372316,-134.725478,TRUE,FALSE,TRUE,"S259907066"
-"134","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49808216","Windy Bay to Elizabeth Island","2025-07-14 08:39",14,59.221995,-151.50034,TRUE,FALSE,TRUE,"S259940115"
-"135","marmur","Marbled Murrelet","Brachyramphus marmoratus","L1431997","Seward--Lowell Point Rd.","2025-07-14 08:08",12,60.0920271,-149.4438457,TRUE,FALSE,FALSE,"S259873714"
-"136","marmur","Marbled Murrelet","Brachyramphus marmoratus","L35417934","The Pass, Juneau US-AK 58.49201, -134.93108","2025-07-14 07:47",115,58.492015,-134.931081,TRUE,FALSE,TRUE,"S259974569"
-"137","marmur","Marbled Murrelet","Brachyramphus marmoratus","L17997029","Little Port Walter","2025-07-14 07:08",1,56.3833811,-134.6481597,TRUE,FALSE,TRUE,"S260452791"
-"138","marmur","Marbled Murrelet","Brachyramphus marmoratus","L391210","Point Bridget SP","2025-07-14 06:31",25,58.6640847,-134.9630928,TRUE,FALSE,FALSE,"S259950817"
-"139","marmur","Marbled Murrelet","Brachyramphus marmoratus","L2529193","Home - Old Glacier Hwy / Lena Loop Junction - Favorite Channel - Juneau","2025-07-14 06:05",387,58.3828943,-134.7464883,TRUE,FALSE,TRUE,"S259840947"
-"140","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49786462","(58.1618,-137.1315)","2025-07-14 06:01",5,58.161818,-137.131518,TRUE,FALSE,TRUE,"S259854144"
-"141","marmur","Marbled Murrelet","Brachyramphus marmoratus","L517692","Prairie Creek Redwoods SP--Elk Prairie","2025-07-14 06:00",4,41.359555,-124.025352,TRUE,FALSE,FALSE,"S259963797"
-"142","marmur","Marbled Murrelet","Brachyramphus marmoratus","L5609326","Cordova--Goose Cove (Pt. Whitshed)","2025-07-14 05:30",5,60.4598416,-145.9562016,TRUE,FALSE,FALSE,"S259981603"
-"143","marmur","Marbled Murrelet","Brachyramphus marmoratus","L198202","Auke Recreation Area--Pt. Louisa","2025-07-14",400,58.3729854,-134.7267151,TRUE,FALSE,FALSE,"S259989227"
-"144","marmur","Marbled Murrelet","Brachyramphus marmoratus","L4021198","Chambers Creek Regional Park","2025-07-13 18:23",1,47.2006984,-122.5778787,TRUE,FALSE,FALSE,"S259739402"
-"145","marmur","Marbled Murrelet","Brachyramphus marmoratus","L1435582","Baby Islands","2025-07-13 18:00",2,53.9970299,-166.0640143,TRUE,FALSE,FALSE,"S259984184"
-"146","marmur","Marbled Murrelet","Brachyramphus marmoratus","L1668666","Rosario Strait (San Juan Co. side)","2025-07-13 17:53",1,48.5260634,-122.7700353,TRUE,FALSE,FALSE,"S259719453"
-"147","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49758755","Unalaska, Alaska, US (53.971, -166.461)","2025-07-13 17:41",1,53.9708207,-166.4611468,TRUE,FALSE,TRUE,"S259724397"
-"148","marmur","Marbled Murrelet","Brachyramphus marmoratus","L680973","Cape Arago SP","2025-07-13 17:22",NA,43.306011,-124.3990517,TRUE,FALSE,FALSE,"S259712403"
-"149","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49716291","Unalaska, Alaska, US (53.927, -166.483)","2025-07-13 17:21",5,53.9271435,-166.4834126,TRUE,FALSE,TRUE,"S259736364"
-"150","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49758999","Vixen Islands","2025-07-13 16:00",2,57.61294,-135.569534,TRUE,FALSE,TRUE,"S259725387"
-"151","marmur","Marbled Murrelet","Brachyramphus marmoratus","L3706673","Icy Strait","2025-07-13 15:24",15,58.2627643,-135.5674643,TRUE,FALSE,FALSE,"S259723352"
-"152","marmur","Marbled Murrelet","Brachyramphus marmoratus","L2617870","Camp Casey","2025-07-13 13:59",1,48.1679745,-122.681601,TRUE,FALSE,TRUE,"S259667923"
-"153","marmur","Marbled Murrelet","Brachyramphus marmoratus","L6114756","Yakutat Bay","2025-07-13 13:54",3,59.683818,-139.8881006,TRUE,FALSE,FALSE,"S259720991"
-"154","marmur","Marbled Murrelet","Brachyramphus marmoratus","L444581","Sitka National Historical Park","2025-07-13 13:47",2,57.0476401,-135.3161573,TRUE,FALSE,FALSE,"S259691113"
-"155","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49750371","Blackstone Bay, Whittier US-AK 60.78373, -148.52048","2025-07-13 13:30",15,60.783728,-148.520481,TRUE,FALSE,TRUE,"S259686723"
-"156","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49748410","Airport Beach Rd, Unalaska US-AK 53.87818, -166.55852","2025-07-13 12:07",15,53.878182,-166.55852,TRUE,FALSE,TRUE,"S259678453"
-"157","marmur","Marbled Murrelet","Brachyramphus marmoratus","L318691","Lincoln Park, Seattle","2025-07-13 11:43",1,47.5302762,-122.3955921,TRUE,FALSE,FALSE,"S259890709"
-"158","marmur","Marbled Murrelet","Brachyramphus marmoratus","L234894","Salt Creek County Park","2025-07-13 11:07",NA,48.1631912,-123.6972883,TRUE,FALSE,FALSE,"S259634693"
-"159","marmur","Marbled Murrelet","Brachyramphus marmoratus","L35186697","Pescadero State Beach -- (south)  beach area, seawatch and Seabird Rock - West of Hwy 1 only","2025-07-13 10:47",3,37.2612534,-122.4141312,TRUE,FALSE,FALSE,"S259630093"
-"160","marmur","Marbled Murrelet","Brachyramphus marmoratus","L1311451","Dutch Harbor--Sitka Spruce Park","2025-07-13 10:15",3,53.8871722,-166.5439045,TRUE,FALSE,FALSE,"S259644753"
-"161","marmur","Marbled Murrelet","Brachyramphus marmoratus","L491769","Unalaska Is.--Dutch Harbor","2025-07-13 10:05",3,53.8891656,-166.5398598,TRUE,FALSE,FALSE,"S259984834"
-"162","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49756490","Summer Bay Road, Unalaska, Alaska, US (53.875, -166.519)","2025-07-13 10:04",25,53.8751487,-166.5187434,TRUE,FALSE,TRUE,"S259714959"
-"163","marmur","Marbled Murrelet","Brachyramphus marmoratus","L3023581","Glacier Bay NP--Tidal Inlet","2025-07-13 09:44",12,58.8265395,-136.3928604,TRUE,FALSE,FALSE,"S259969950"
-"164","marmur","Marbled Murrelet","Brachyramphus marmoratus","L11578968","Pasagshak meadow and wetlands","2025-07-13 09:30",1,57.4766611,-152.4796593,TRUE,FALSE,TRUE,"S259694918"
-"165","marmur","Marbled Murrelet","Brachyramphus marmoratus","L4759385","Point Nowell, PWS","2025-07-13 09:24",10,60.4393142,-147.9388617,TRUE,FALSE,TRUE,"S259639681"
-"166","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49762508","Offshore Chich","2025-07-13 09:23",5,57.412642,-136.084682,TRUE,FALSE,TRUE,"S259739720"
-"167","marmur","Marbled Murrelet","Brachyramphus marmoratus","L15669069","Glacier Bay NP--Bartlett Cove Campground","2025-07-13 09:04",NA,58.4507812,-135.8944094,TRUE,FALSE,FALSE,"S259740412"
-"168","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49756442","205 Salmon Way, Unalaska, Alaska, US (53.88, -166.55)","2025-07-13 09:01",32,53.8804705,-166.5504292,TRUE,FALSE,TRUE,"S259714703"
-"169","marmur","Marbled Murrelet","Brachyramphus marmoratus","L5549852","Dutch Harbor--The S-Curves","2025-07-13 08:43",20,53.8843185,-166.5572834,TRUE,FALSE,FALSE,"S259714745"
-"170","marmur","Marbled Murrelet","Brachyramphus marmoratus","L2281058","Glacier Bay NP--South Marble Island ","2025-07-13 08:31",2,58.6452846,-136.0467911,TRUE,FALSE,FALSE,"S259969992"
-"171","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49754537","639 Ballyhoo Road, Unalaska, Alaska, US (53.899, -166.535)","2025-07-13 07:39",4,53.8989381,-166.5354962,TRUE,FALSE,TRUE,"S259705911"
-"172","marmur","Marbled Murrelet","Brachyramphus marmoratus","L920855","Glacier Bay NP--Bartlett Cove","2025-07-13 07:20",40,58.4547386,-135.9149551,TRUE,FALSE,FALSE,"S259970072"
-"173","marmur","Marbled Murrelet","Brachyramphus marmoratus","L5287363","Unalaska Is.--Iliuliuk Bay","2025-07-13 07:15",2,53.9125997,-166.5040313,TRUE,FALSE,FALSE,"S259562433"
-"174","marmur","Marbled Murrelet","Brachyramphus marmoratus","L26945736","Iyoukeen Cove","2025-07-13 06:52",15,57.8896087,-134.9746645,TRUE,FALSE,TRUE,"S259576490"
-"175","marmur","Marbled Murrelet","Brachyramphus marmoratus","L128530","Discovery Park","2025-07-13 04:27",2,47.663868,-122.4215317,TRUE,FALSE,FALSE,"S259673446"
-"176","marmur","Marbled Murrelet","Brachyramphus marmoratus","L392640","Washington Park, Anacortes","2025-07-12 19:25",11,48.495268,-122.6951408,TRUE,FALSE,FALSE,"S259378809"
-"177","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49677271","Columbia Glacier Cruise","2025-07-12 19:00",5,61.127977,-146.337588,TRUE,FALSE,TRUE,"S259373162"
-"178","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49723152","Sitka Sound, Sitka US-AK 57.03670, -135.30932","2025-07-12 16:45",2,57.036699,-135.309318,TRUE,FALSE,TRUE,"S259581562"
-"179","marmur","Marbled Murrelet","Brachyramphus marmoratus","L3835797","Lynn Canal--Ralston Island","2025-07-12 15:10",60,58.528506,-135.0378084,TRUE,FALSE,FALSE,"S259592478"
-"180","marmur","Marbled Murrelet","Brachyramphus marmoratus","L5070595","Admiralty Island--Barlow Point","2025-07-12 14:30",4,58.3798392,-134.8958788,TRUE,FALSE,FALSE,"S259325299"
-"181","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49667378","Lowell road Steward AK","2025-07-12 13:22",5,60.089376,-149.443261,TRUE,FALSE,TRUE,"S259334464"
-"182","marmur","Marbled Murrelet","Brachyramphus marmoratus","L22187146","Resurrection Bay--Spire Cove","2025-07-12 13:19",NA,59.8764992,-149.5736218,TRUE,FALSE,FALSE,"S259366354"
-"183","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49659866","Makah Passage, Neah Bay US-WA 48.37025, -124.62737","2025-07-12 12:59",2,48.370252,-124.627374,TRUE,FALSE,TRUE,"S259305361"
-"184","marmur","Marbled Murrelet","Brachyramphus marmoratus","L840172","Whittier (town)","2025-07-12 12:16",18,60.777602,-148.7033844,TRUE,FALSE,FALSE,"S259331025"
-"185","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49676130","Alaska, US on a Whale Watching Tour","2025-07-12 11:52",6,58.2885929,-134.7630742,TRUE,FALSE,TRUE,"S259369255"
-"186","marmur","Marbled Murrelet","Brachyramphus marmoratus","L4821929","Stephens Passage--Strauss Rock to Auke Bay","2025-07-12 09:33",30,58.3241925,-134.7209301,TRUE,FALSE,FALSE,"S259681530"
-"187","marmur","Marbled Murrelet","Brachyramphus marmoratus","L5966006","Freshwater Bay, Batchelor Rock48.15x-123.637","2025-07-12 09:16",2,48.1498847,-123.6370106,TRUE,FALSE,TRUE,"S259259331"
-"188","marmur","Marbled Murrelet","Brachyramphus marmoratus","L4480211","Scenic Turnout (N. Douglas Hwy)","2025-07-12 09:12",20,58.3120985,-134.6639943,TRUE,FALSE,FALSE,"S259278203"
-"189","marmur","Marbled Murrelet","Brachyramphus marmoratus","L3706985","Glacier Bay NP--Lamplugh Glacier","2025-07-12 08:50",5,58.8979677,-136.928401,TRUE,FALSE,FALSE,"S260544064"
-"190","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49640636","Offshore of Krugkoi Island - Salisbury Sound","2025-07-12 08:42",7,57.560509,-135.478009,TRUE,FALSE,TRUE,"S259237917"
-"191","marmur","Marbled Murrelet","Brachyramphus marmoratus","L2157886","Cordova--Orca Adventure Lodge","2025-07-12 08:12",1,60.5793244,-145.7191586,TRUE,FALSE,FALSE,"S259235568"
-"192","marmur","Marbled Murrelet","Brachyramphus marmoratus","L800185","Cape Flattery","2025-07-12 08:04",2,48.385884,-124.7266299,TRUE,FALSE,FALSE,"S259311106"
-"193","marmur","Marbled Murrelet","Brachyramphus marmoratus","L280216","Foulweather Bluff","2025-07-12 07:42",18,47.9333801,-122.6159123,TRUE,FALSE,FALSE,"S259219372"
-"194","marmur","Marbled Murrelet","Brachyramphus marmoratus","L5959411","Whittier--Beach N of City Campground","2025-07-12 07:40",3,60.7806048,-148.7176323,TRUE,FALSE,FALSE,"S259733656"
-"195","marmur","Marbled Murrelet","Brachyramphus marmoratus","L9781522","Yakutat Bay — Offshore area","2025-07-12 06:42",6,59.5789858,-139.8397998,TRUE,FALSE,TRUE,"S259381127"
-"196","marmur","Marbled Murrelet","Brachyramphus marmoratus","L6669160","Toleak Point","2025-07-12 06:01",1,47.834834,-124.5401359,TRUE,FALSE,FALSE,"S259546621"
-"197","marmur","Marbled Murrelet","Brachyramphus marmoratus","L588692","Seldovia (town)","2025-07-12 05:25",3,59.4415843,-151.7160416,TRUE,FALSE,FALSE,"S259163527"
-"198","marmur","Marbled Murrelet","Brachyramphus marmoratus","L270613","Auke Bay - Yard & Point","2025-07-12",1,58.3610546,-134.6455336,TRUE,FALSE,TRUE,"S259239000"
-"199","marmur","Marbled Murrelet","Brachyramphus marmoratus","L7951771","Latouche Island--Horeshoe Bay","2025-07-11 20:14",2,60.0221195,-147.936118,TRUE,FALSE,FALSE,"S259061091"
-"200","marmur","Marbled Murrelet","Brachyramphus marmoratus","L3545518","Shrine of St. Terese","2025-07-11 16:18",1,58.4712901,-134.7841573,TRUE,FALSE,FALSE,"S259086791"
-"201","marmur","Marbled Murrelet","Brachyramphus marmoratus","L2956598","Prince William Sound--Columbia Bay","2025-07-11 15:23",4,60.9969201,-147.0791245,TRUE,FALSE,FALSE,"S259013059"
-"202","marmur","Marbled Murrelet","Brachyramphus marmoratus","L891831","Haines--Lutak Rd.","2025-07-11 14:30",3,59.3023561,-135.5300903,TRUE,FALSE,FALSE,"S259702693"
-"203","marmur","Marbled Murrelet","Brachyramphus marmoratus","L445936","Seward, AK","2025-07-11 13:54",NA,60.1187667,-149.4248,TRUE,FALSE,TRUE,"S259050206"
-"204","marmur","Marbled Murrelet","Brachyramphus marmoratus","L17663964","Ocean off of Stone Lagoon","2025-07-11 13:51",2,41.25844,-124.099561,TRUE,FALSE,FALSE,"S258996784"
-"205","marmur","Marbled Murrelet","Brachyramphus marmoratus","L235914","Alaska Maritime NWR--St. Lazaria Island","2025-07-11 12:29",NA,56.9873598,-135.7105632,TRUE,FALSE,FALSE,"S259967527"
-"206","marmur","Marbled Murrelet","Brachyramphus marmoratus","L480335","Oak Bay County Park","2025-07-11 12:00",1,48.0201853,-122.7313614,TRUE,FALSE,FALSE,"S259070794"
-"207","marmur","Marbled Murrelet","Brachyramphus marmoratus","L9564097","Resurrection Bay--Rugged Island","2025-07-11 11:45",6,59.8667823,-149.4055922,TRUE,FALSE,FALSE,"S259031854"
-"208","marmur","Marbled Murrelet","Brachyramphus marmoratus","L3801715","Prince William Sound","2025-07-11 11:41",14,60.8240287,-148.3113527,TRUE,FALSE,TRUE,"S259029445"
-"209","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49577018","Sitka Sound, Sitka US-AK 57.00182, -135.54300","2025-07-11 11:38",7,57.001816,-135.543004,TRUE,FALSE,TRUE,"S258970437"
-"210","marmur","Marbled Murrelet","Brachyramphus marmoratus","L941875","Kenai Fjords NP--Aialik Bay-Holgate Head","2025-07-11 11:34",NA,59.8207471,-149.756012,TRUE,FALSE,FALSE,"S259044623"
-"211","marmur","Marbled Murrelet","Brachyramphus marmoratus","L2324547","Glacier Bay NP--Margerie Glacier","2025-07-11 11:30",6,59.0400248,-137.0704079,TRUE,FALSE,FALSE,"S259055540"
-"212","marmur","Marbled Murrelet","Brachyramphus marmoratus","L1130056","Kodiak Is.--Kalsin Pond and Olds River Estuary","2025-07-11 10:40",5,57.584638,-152.4485207,TRUE,FALSE,FALSE,"S259675720"
-"213","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49570251","Redwood Creek Beach County Park, Trinidad US-CA 41.26900, -124.09780","2025-07-11 10:39",1,41.269002,-124.097796,TRUE,FALSE,TRUE,"S258945120"
-"214","marmur","Marbled Murrelet","Brachyramphus marmoratus","L781842","Kenai Fjords NP--Aialik Bay","2025-07-11 10:00",5,59.9046068,-149.6933556,TRUE,FALSE,FALSE,"S259061294"
-"215","marmur","Marbled Murrelet","Brachyramphus marmoratus","L3706809","Glacier Bay NP--Adams Inlet","2025-07-11 09:00",8,58.8486742,-136.0357618,TRUE,FALSE,FALSE,"S259053943"
-"216","marmur","Marbled Murrelet","Brachyramphus marmoratus","L10338410","Seward (town)","2025-07-11 08:30",NA,60.1063098,-149.4398074,TRUE,FALSE,FALSE,"S258943156"
-"217","marmur","Marbled Murrelet","Brachyramphus marmoratus","L16707421","Morse Creek Estuary","2025-07-11 08:15",1,48.116971,-123.352917,TRUE,FALSE,TRUE,"S259017201"
-"218","marmur","Marbled Murrelet","Brachyramphus marmoratus","L1627186","Titlow Park & Beach","2025-07-11 06:13",2,47.2489682,-122.5517227,TRUE,FALSE,FALSE,"S258903204"
-"219","marmur","Marbled Murrelet","Brachyramphus marmoratus","L743272","Millicoma Marsh","2025-07-11 05:34",2,43.3682768,-124.1908908,TRUE,FALSE,FALSE,"S258910718"
-"220","marmur","Marbled Murrelet","Brachyramphus marmoratus","L1233960","Cape Resurrection","2025-07-10 16:45",2,59.8725703,-149.2733002,TRUE,FALSE,FALSE,"S258761421"
-"221","marmur","Marbled Murrelet","Brachyramphus marmoratus","L1364956","Kachemak Bay--Halibut Cove","2025-07-10 15:35",1,59.5936678,-151.2371063,TRUE,FALSE,FALSE,"S258768329"
-"222","marmur","Marbled Murrelet","Brachyramphus marmoratus","L608334","Point Hudson","2025-07-10 14:58",1,48.117861,-122.7494931,TRUE,FALSE,FALSE,"S258757668"
-"223","marmur","Marbled Murrelet","Brachyramphus marmoratus","L1129613","Kodiak Is.--Pasagshak Bay overlook","2025-07-10 14:06",4,57.4547875,-152.4495474,TRUE,FALSE,FALSE,"S258733049"
-"224","marmur","Marbled Murrelet","Brachyramphus marmoratus","L1909318","Don Armeni Boat Ramp","2025-07-10 13:37",6,47.5927952,-122.3821646,TRUE,FALSE,FALSE,"S258721855"
-"225","marmur","Marbled Murrelet","Brachyramphus marmoratus","L1455088","Mukilteo Lighthouse Park","2025-07-10 13:20",NA,47.9472753,-122.3064784,TRUE,FALSE,FALSE,"S258757451"
-"226","marmur","Marbled Murrelet","Brachyramphus marmoratus","L189242","Seahurst Park","2025-07-10 12:19",1,47.47795,-122.362434,TRUE,FALSE,FALSE,"S259726124"
-"227","marmur","Marbled Murrelet","Brachyramphus marmoratus","L2212788","Kayak Point County Park","2025-07-10 12:10",1,48.1358239,-122.3658085,TRUE,FALSE,FALSE,"S258730630"
-"228","marmur","Marbled Murrelet","Brachyramphus marmoratus","L23925184","Nichols Passage","2025-07-10 11:46",12,55.288407,-131.594686,TRUE,FALSE,TRUE,"S258803863"
-"229","marmur","Marbled Murrelet","Brachyramphus marmoratus","L190512","Ediz Hook","2025-07-10 10:25",2,48.14035,-123.44711,TRUE,FALSE,FALSE,"S258696277"
-"230","marmur","Marbled Murrelet","Brachyramphus marmoratus","L2875552","SJCR stationary point 1 (tower)","2025-07-10 09:59",1,46.2264812,-124.0142409,TRUE,TRUE,TRUE,"S258670351"
-"231","marmur","Marbled Murrelet","Brachyramphus marmoratus","L35520774","Skiff Point","2025-07-10 08:01",1,47.662815,-122.5003481,TRUE,FALSE,FALSE,"S258648642"
-"232","marmur","Marbled Murrelet","Brachyramphus marmoratus","L1328030","Nichols Passage (S of Ketchikan)","2025-07-10 07:51",9,55.2270742,-131.6400742,TRUE,FALSE,FALSE,"S258688039"
-"233","marmur","Marbled Murrelet","Brachyramphus marmoratus","L1460642","Port Townsend-Keystone Ferry (Island Co.)","2025-07-10 06:43",2,48.1472328,-122.6790196,TRUE,FALSE,FALSE,"S258616394"
-"234","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49516951","44.32402_-123.65645","2025-07-10 05:48",4,44.32402,-123.65645,TRUE,TRUE,TRUE,"S258707717"
-"235","marmur","Marbled Murrelet","Brachyramphus marmoratus","L15701313","Briar Creek 32.08","2025-07-10 04:53",6,44.307254,-123.685205,TRUE,TRUE,TRUE,"S258621607"
-"236","marmur","Marbled Murrelet","Brachyramphus marmoratus","L589327","Seward--Tonsina Creek/Caines Head Trail","2025-07-09 18:24",1,60.062656,-149.4459915,TRUE,FALSE,FALSE,"S258524239"
-"237","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49471629","14350 Beach Drive, Seward, Alaska, US (60.066, -149.44)","2025-07-09 17:08",1,60.0662738,-149.4399157,TRUE,FALSE,TRUE,"S258509077"
-"238","marmur","Marbled Murrelet","Brachyramphus marmoratus","L1877342","Browns Point Lighthouse Park","2025-07-09 16:45",1,47.3057,-122.44382,TRUE,FALSE,FALSE,"S258508227"
-"239","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49468155","Auto selected 58.31781, -135.84372","2025-07-09 16:27",6,58.31781,-135.843719,TRUE,FALSE,TRUE,"S258494083"
-"240","marmur","Marbled Murrelet","Brachyramphus marmoratus","L3897070","Kelgaya Bay--Battery Point trail (Chilkoot Inlet)","2025-07-09 15:40",11,59.2119069,-135.3739214,TRUE,FALSE,FALSE,"S258696686"
-"241","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49466415","Auto selected 60.06660, -149.43903","2025-07-09 15:15",5,60.066602,-149.439028,TRUE,FALSE,TRUE,"S258486117"
-"242","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49471549","14055 Shady Ln, Seward US-AK 60.06908, -149.43942","2025-07-09 15:09",9,60.069082,-149.439421,TRUE,FALSE,TRUE,"S258508754"
-"243","marmur","Marbled Murrelet","Brachyramphus marmoratus","L802523","Tulalip Bay (Tulalip Reservation)","2025-07-09 13:25",8,48.0545637,-122.2884498,TRUE,FALSE,FALSE,"S258467747"
-"244","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49461997","Auto selected 58.29189, -135.77857","2025-07-09 12:44",7,58.291889,-135.778574,TRUE,FALSE,TRUE,"S258466348"
-"245","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49475784","Moose Bay","2025-07-09 12:19",4,58.377411,-135.735074,TRUE,FALSE,TRUE,"S258528535"
-"246","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49458542","13501–13673 Lowell Point Rd, Seward US-AK 60.08872, -149.44375","2025-07-09 12:05",8,60.088716,-149.443751,TRUE,FALSE,TRUE,"S258451988"
-"247","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49531806","Reading Rock","2025-07-09 10:32",6,41.3400039,-124.1786994,TRUE,FALSE,TRUE,"S258771680"
-"248","marmur","Marbled Murrelet","Brachyramphus marmoratus","L245894","Port Angeles City Pier","2025-07-09 09:31",20,48.1205005,-123.4287722,TRUE,FALSE,FALSE,"S258488645"
-"249","marmur","Marbled Murrelet","Brachyramphus marmoratus","L487997","Humboldt Bay--North Spit jetty","2025-07-09 09:00",1,40.764893,-124.2332155,TRUE,FALSE,FALSE,"S258469547"
-"250","marmur","Marbled Murrelet","Brachyramphus marmoratus","L2896376","Glacier Bay NP--Johns Hopkins Inlet","2025-07-09 08:30",5,58.911383,-137.0056915,TRUE,FALSE,FALSE,"S259887169"
-"251","marmur","Marbled Murrelet","Brachyramphus marmoratus","L509262","Point Wilson","2025-07-09 08:04",8,48.1442626,-122.7539778,TRUE,FALSE,FALSE,"S258381633"
-"252","marmur","Marbled Murrelet","Brachyramphus marmoratus","L682166","Snow Passage (SW of Zarembo Is.)","2025-07-09 07:54",2,56.242129,-132.9339523,TRUE,FALSE,FALSE,"S260150269"
-"253","marmur","Marbled Murrelet","Brachyramphus marmoratus","L781318","Gustavus--Forelands","2025-07-09 07:05",70,58.4121436,-135.724411,TRUE,FALSE,FALSE,"S258443178"
-"254","marmur","Marbled Murrelet","Brachyramphus marmoratus","L3882499","Baranof Island--Takatz Bay","2025-07-09 07:00",5,57.1526302,-134.8024607,TRUE,FALSE,FALSE,"S260548045"
-"255","marmur","Marbled Murrelet","Brachyramphus marmoratus","L500365","Jedediah Smith Redwoods SP--Hiouchi Visitor Center & campground","2025-07-09 05:49",5,41.796624,-124.0848051,TRUE,FALSE,FALSE,"S258763641"
-"256","marmur","Marbled Murrelet","Brachyramphus marmoratus","L11172227","Jedediah Smith Redwoods SP--Howland Hill Rd.","2025-07-09 05:46",12,41.7649696,-124.1243956,TRUE,FALSE,FALSE,"S258353707"
-"257","marmur","Marbled Murrelet","Brachyramphus marmoratus","L46501404","18210 Oklahoma Lane, Fort Bragg, California, US (39.408, -123.803)","2025-07-09 05:32",1,39.4080202,-123.8029725,TRUE,FALSE,TRUE,"S259039392"
-"258","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49471569","Icy Strait to Ketchikan, Etolin Island--Prince of Wales Island Strait","2025-07-09 04:59",7,55.944377,-132.613539,TRUE,FALSE,TRUE,"S258508848"
-"259","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49413608","Valdez Glacier Stream, Valdez US-AK (61.1063,-146.2433)","2025-07-08 21:45",1,61.106308,-146.243347,TRUE,FALSE,TRUE,"S258263093"
-"260","marmur","Marbled Murrelet","Brachyramphus marmoratus","L4995988","Prince William Sound--Naked Island Archipelago (Naked, Storey, & Peak Is.)","2025-07-08 20:24",2,60.6693107,-147.3954535,TRUE,FALSE,FALSE,"S259053718"
-"261","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49659927","Perry Island, Prince William Sound, Alaska, US (60.714, -148.04)","2025-07-08 17:24",12,60.7144526,-148.0402522,TRUE,FALSE,TRUE,"S259305579"
-"262","marmur","Marbled Murrelet","Brachyramphus marmoratus","L9597284","Point Defiance Park--Dune Peninsula & Wilson Way","2025-07-08 16:21",1,47.3050674,-122.5095794,TRUE,FALSE,FALSE,"S258238260"
-"263","marmur","Marbled Murrelet","Brachyramphus marmoratus","L444202","Depoe Bay","2025-07-08 16:17",2,44.8117096,-124.0586042,TRUE,FALSE,FALSE,"S259060083"
-"264","marmur","Marbled Murrelet","Brachyramphus marmoratus","L109471","Ano Nuevo SP--Visitors Center, Elephant Seals and trails","2025-07-08 15:54",2,37.1174022,-122.3188162,TRUE,FALSE,FALSE,"S258251042"
-"265","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49406290","Port Nellie Juan, Prince William Sound, AK","2025-07-08 14:06",9,60.455136,-148.380854,TRUE,FALSE,TRUE,"S258229792"
-"266","marmur","Marbled Murrelet","Brachyramphus marmoratus","L684252","Outer Chatham Strait-south end","2025-07-08 13:30",3,56.6996805,-134.5306091,TRUE,FALSE,FALSE,"S260546469"
-"267","marmur","Marbled Murrelet","Brachyramphus marmoratus","L1312600","Clover Passage","2025-07-08 13:30",NA,55.5033124,-131.7634106,TRUE,FALSE,FALSE,"S258417674"
-"268","marmur","Marbled Murrelet","Brachyramphus marmoratus","L1335723","Mount Constitution, Orcas Island","2025-07-08 12:41",NA,48.6770007,-122.834984,TRUE,FALSE,FALSE,"S258691142"
-"269","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49520471","US-101, Gold Beach US-OR 42.55357, -124.39287","2025-07-08 12:16",1,42.553573,-124.392875,TRUE,FALSE,TRUE,"S258721228"
-"270","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49856666","Fisherman's Float / Docks","2025-07-08 12:08",1,60.0863895,-149.35414,TRUE,FALSE,TRUE,"S260156614"
-"271","marmur","Marbled Murrelet","Brachyramphus marmoratus","L15986791","Adak Island--Shagak Bay","2025-07-08 11:28",4,51.8676689,-176.7457295,TRUE,FALSE,FALSE,"S258523815"
-"272","marmur","Marbled Murrelet","Brachyramphus marmoratus","L3975801","Hoonah--Long Island Causeway","2025-07-08 10:33",2,58.091954,-135.4620159,TRUE,FALSE,FALSE,"S258407025"
-"273","marmur","Marbled Murrelet","Brachyramphus marmoratus","L1463292","Fort Flagler SP -- Marrowstone Point","2025-07-08 09:40",3,48.1015682,-122.6882685,TRUE,FALSE,FALSE,"S258140802"
-"274","marmur","Marbled Murrelet","Brachyramphus marmoratus","L2563821","Resurrection Bay--Fox Island","2025-07-08 09:30",NA,59.93022,-149.34065,TRUE,FALSE,FALSE,"S258497641"
-"275","marmur","Marbled Murrelet","Brachyramphus marmoratus","L267161","Clallam Bay County Park","2025-07-08 07:26",8,48.2541066,-124.262948,TRUE,FALSE,FALSE,"S258217674"
-"276","marmur","Marbled Murrelet","Brachyramphus marmoratus","L49737261","Juneau Cruise Ship Dock","2025-07-08 07:00",2,58.2979977,-134.4049833,TRUE,FALSE,TRUE,"S259637391"
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
+"1","rufgro","Ruffed Grouse","Bonasa umbellus","L10084854","Delaware Mine","2025-07-18 15:27",1,47.4233317,-88.1018093,TRUE,FALSE,FALSE,"S260867473",NA
+"2","rufgro","Ruffed Grouse","Bonasa umbellus","L11934106","Smith Fisheries 40 Acres","2025-07-18 13:31",2,47.393833,-87.9492511,TRUE,FALSE,TRUE,"S260902740",NA
+"3","rufgro","Ruffed Grouse","Bonasa umbellus","L1483222","Elbow Pond Road, Woodstock","2025-07-18 13:10",1,43.9879804,-71.7452432,TRUE,FALSE,FALSE,"S260900227",NA
+"4","rufgro","Ruffed Grouse","Bonasa umbellus","L766452","Swan Island","2025-07-18 12:19",2,44.060206,-69.7973442,TRUE,FALSE,FALSE,"S260819797",NA
+"5","rufgro","Ruffed Grouse","Bonasa umbellus","L1797479","Banning SP","2025-07-18 11:14",2,46.1757234,-92.8509598,TRUE,FALSE,FALSE,"S260887752",NA
+"6","rufgro","Ruffed Grouse","Bonasa umbellus","L621720","Tubbs Hill Rd, Richford","2025-07-18 09:19",1,42.3483635,-76.1646831,TRUE,FALSE,TRUE,"S260893748",NA
+"7","rufgro","Ruffed Grouse","Bonasa umbellus","L2276191","Schoolhouse Gulch Trail","2025-07-18 09:11",1,44.092073,-115.9432697,TRUE,FALSE,FALSE,"S260843272",NA
+"8","rufgro","Ruffed Grouse","Bonasa umbellus","L2389477","Hayden Lake, Idaho Preston Beach","2025-07-18 09:04",2,47.7715725,-116.6737103,TRUE,FALSE,TRUE,"S260832269",NA
+"9","rufgro","Ruffed Grouse","Bonasa umbellus","L24656827","83 Swan Lake Road, Republic, Washington, US (48.642, -118.791)Crofty's","2025-07-18 09:03",2,48.6417234,-118.7912385,TRUE,FALSE,TRUE,"S260818961",NA
+"10","rufgro","Ruffed Grouse","Bonasa umbellus","L718684","Reddish Knob","2025-07-18 08:56",2,38.4622862,-79.2416811,TRUE,FALSE,FALSE,"S260796164",NA
+"11","rufgro","Ruffed Grouse","Bonasa umbellus","L19663073","Jones ranch","2025-07-18 08:35",2,39.933097,-111.647553,TRUE,FALSE,TRUE,"S260907721",NA
+"12","rufgro","Ruffed Grouse","Bonasa umbellus","L9904679","Matanuska Glacier SRS","2025-07-18 08:30",5,61.7990155,-147.8134281,TRUE,FALSE,FALSE,"S260841847",NA
+"13","rufgro","Ruffed Grouse","Bonasa umbellus","L3109267","Roosevelt Truck Trail, north section","2025-07-18 08:10",3,43.9436826,-74.0040098,TRUE,FALSE,FALSE,"S260818417",NA
+"14","rufgro","Ruffed Grouse","Bonasa umbellus","L50003943","Rahr Ln, White Sulphur Springs US-MT (46.9435,-111.3132)","2025-07-18 07:39",2,46.943478,-111.313194,TRUE,FALSE,TRUE,"S260800120",NA
+"15","rufgro","Ruffed Grouse","Bonasa umbellus","L49991717","E 10 Mile Rd, Luther US-MI 44.13257, -85.68086","2025-07-18 06:45",1,44.132566,-85.680862,TRUE,FALSE,TRUE,"S260742522",NA
+"16","rufgro","Ruffed Grouse","Bonasa umbellus","L6965627","Gold Brook Road","2025-07-18 06:35",4,45.3239097,-70.6167698,TRUE,FALSE,FALSE,"S260917415",NA
+"17","rufgro","Ruffed Grouse","Bonasa umbellus","L48017903","Sproul SF--Kyler Fork Trail Conifer Patch","2025-07-18 06:11",1,41.156882,-77.89988,TRUE,FALSE,TRUE,"S260853204",NA
+"18","rufgro","Ruffed Grouse","Bonasa umbellus","L49978975","Dick And Nancy Eales Preserve At Moosic Mountain, Jessup US-PA (41.4484,-75.5321)","2025-07-17 21:23",2,41.448422,-75.532095,TRUE,FALSE,TRUE,"S260682188",NA
+"19","rufgro","Ruffed Grouse","Bonasa umbellus","L1369577","Bozeman Fish Technology Center ","2025-07-17 19:57",1,45.7071231,-110.9785065,TRUE,FALSE,FALSE,"S260684256",NA
+"20","rufgro","Ruffed Grouse","Bonasa umbellus","L28576237","Swamp Creek & Whiteman Roads","2025-07-17 19:30",1,41.5760754,-78.584555,TRUE,FALSE,TRUE,"S260678862",NA
+"21","rufgro","Ruffed Grouse","Bonasa umbellus","L502962","Kyhv Peak Rd.","2025-07-17 17:07",1,40.3112493,-111.6318536,TRUE,FALSE,FALSE,"S260664224",NA
+"22","rufgro","Ruffed Grouse","Bonasa umbellus","L49996104","Trout Creek Meadow","2025-07-17 14:15",1,43.6114429,-109.9675893,TRUE,FALSE,TRUE,"S260764611",NA
+"23","rufgro","Ruffed Grouse","Bonasa umbellus","L7845077","Bridger Cr. Rd. above W Bridger Cr. Rd.","2025-07-17 13:31",1,45.6117592,-109.7747359,TRUE,FALSE,FALSE,"S260633643",NA
+"24","rufgro","Ruffed Grouse","Bonasa umbellus","L37597194","River Road Sports Complex","2025-07-17 12:53",1,45.345891,-84.94454,TRUE,FALSE,TRUE,"S260820820",NA
+"25","rufgro","Ruffed Grouse","Bonasa umbellus","L6219269","Grand Teton NP--Colter Bay--Hermitage Point Trail","2025-07-17 12:43",5,43.8842225,-110.631423,TRUE,FALSE,FALSE,"S260631405",NA
+"26","rufgro","Ruffed Grouse","Bonasa umbellus","L500447","Sabattis Bog","2025-07-17 12:15",3,44.0707984,-74.5388353,TRUE,FALSE,FALSE,"S260649442",NA
+"27","rufgro","Ruffed Grouse","Bonasa umbellus","L50033619","NY-30, Saranac Lake US-NY 44.24808, -74.34823","2025-07-17 10:31",1,44.248078,-74.348225,TRUE,FALSE,TRUE,"S260916576",NA
+"28","rufgro","Ruffed Grouse","Bonasa umbellus","L1616399","Bother Knob FR539 (Rockingham Co.)","2025-07-17 09:58",4,38.4885372,-79.2019444,TRUE,FALSE,FALSE,"S260604792",NA
+"29","rufgro","Ruffed Grouse","Bonasa umbellus","L5937094","County Rd. 438","2025-07-17 09:06",1,46.1872383,-87.5358629,TRUE,FALSE,FALSE,"S260535826",NA
+"30","rufgro","Ruffed Grouse","Bonasa umbellus","L49958332","54772, Wheeler US-WI (45.0897,-91.9598)","2025-07-17 09:03",1,45.089674,-91.959802,TRUE,FALSE,TRUE,"S260598274",NA
+"31","rufgro","Ruffed Grouse","Bonasa umbellus","L43203724","250 Hartland Road, Lyle, Washington, US (45.762, -121.153)","2025-07-17 08:28",1,45.7624426,-121.152708,TRUE,FALSE,TRUE,"S260576931",NA
+"32","rufgro","Ruffed Grouse","Bonasa umbellus","L49941633","6504–6598 N Reserve Rd, Stone Lake US-WI 45.86481, -91.39616","2025-07-17 08:15",1,45.864806,-91.396163,TRUE,FALSE,TRUE,"S260530852",NA
+"33","rufgro","Ruffed Grouse","Bonasa umbellus","L3030443","Wahtum Lake","2025-07-17 08:14",6,45.580169,-121.7935481,TRUE,FALSE,FALSE,"S260662075",NA
+"34","rufgro","Ruffed Grouse","Bonasa umbellus","L49974908","W Rockford Bay Rd, Rockford Bay","2025-07-17 07:57",2,47.508301,-116.896601,TRUE,FALSE,TRUE,"S260664525",NA
+"35","rufgro","Ruffed Grouse","Bonasa umbellus","L1214729","Koops Pit Road, Oquossoc","2025-07-17 07:26",1,44.9911054,-70.7747573,TRUE,FALSE,FALSE,"S260562042",NA
+"36","rufgro","Ruffed Grouse","Bonasa umbellus","L2226767","Secret Lake","2025-07-17 07:00",1,47.6682196,-93.0792189,TRUE,FALSE,TRUE,"S260649406",NA
+"37","rufgro","Ruffed Grouse","Bonasa umbellus","L4786992","H.A.F.B. Carter Creek Campground","2025-07-17 06:54",1,40.914064,-110.771563,TRUE,FALSE,TRUE,"S260908023",NA
+"38","rufgro","Ruffed Grouse","Bonasa umbellus","L49956295","Dyer Road, Lock Haven, Pennsylvania, US (41.517, -77.622)","2025-07-17 06:53",3,41.5174266,-77.6221954,TRUE,FALSE,TRUE,"S260590444",NA
+"39","rufgro","Ruffed Grouse","Bonasa umbellus","L722150","Hubbard Brook Experimental Forest (restricted access)","2025-07-17 06:34",2,43.9420352,-71.7256165,TRUE,FALSE,FALSE,"S260777250",NA
+"40","rufgro","Ruffed Grouse","Bonasa umbellus","L46374040","Survey Point 44","2025-07-17 06:27",4,46.591446,-68.215128,TRUE,FALSE,TRUE,"S260914283",NA
+"41","rufgro","Ruffed Grouse","Bonasa umbellus","L49922568","Road to Munuscong","2025-07-16 21:41",1,46.18726,-84.316377,TRUE,FALSE,TRUE,"S260442165",NA
+"42","rufgro","Ruffed Grouse","Bonasa umbellus","L49923822","National Forest Development Road 49, Darrington, Washington, US (48.058, -121.288)","2025-07-16 19:29",2,48.0580446,-121.2880278,TRUE,FALSE,TRUE,"S260447056",NA
+"43","rufgro","Ruffed Grouse","Bonasa umbellus","L42044227","Prickly Pear Park","2025-07-16 19:03",1,46.5779865,-111.9160488,TRUE,FALSE,FALSE,"S260448170",NA
+"44","rufgro","Ruffed Grouse","Bonasa umbellus","L2994476","Overlook Mt., Woodstock","2025-07-16 18:46",1,42.0784,-74.1107799,TRUE,FALSE,FALSE,"S260443438",NA
+"45","rufgro","Ruffed Grouse","Bonasa umbellus","L49943929","1–99 Clary Lake Ln, Whitefield US-ME 44.21671, -69.56650","2025-07-16 18:05",1,44.216706,-69.566503,TRUE,FALSE,TRUE,"S260541740",NA
+"46","rufgro","Ruffed Grouse","Bonasa umbellus","L32438501","Paradise Road","2025-07-16 16:45",3,47.054322,-88.552392,TRUE,FALSE,TRUE,"S260635370",NA
+"47","rufgro","Ruffed Grouse","Bonasa umbellus","L31849114","East Windham Conservation Area","2025-07-16 14:27",2,43.8087056,-70.3721691,TRUE,FALSE,FALSE,"S260602454",NA
+"48","rufgro","Ruffed Grouse","Bonasa umbellus","L8418941","3142 Talache Road, Sagle, Idaho, US (48.167, -116.512)","2025-07-16 14:04",1,48.1672648,-116.5118907,TRUE,FALSE,TRUE,"S260502949",NA
+"49","rufgro","Ruffed Grouse","Bonasa umbellus","L49912748","Boulder Loop Trail, Albany","2025-07-16 13:31",2,44.006479,-71.226391,TRUE,FALSE,TRUE,"S260399527",NA
+"50","rufgro","Ruffed Grouse","Bonasa umbellus","L5931787","Sunset Pond Bog","2025-07-16 12:59",3,44.3109944,-74.5147795,TRUE,FALSE,FALSE,"S260364984",NA
+"51","rufgro","Ruffed Grouse","Bonasa umbellus","L15642916","Dole Hill Road, Northfield","2025-07-16 12:30",1,44.1403941,-72.6749823,TRUE,FALSE,TRUE,"S260417905",NA
+"52","rufgro","Ruffed Grouse","Bonasa umbellus","L49898298","Tunnicliff Rd","2025-07-16 12:12",1,42.871573,-74.953519,TRUE,FALSE,TRUE,"S260343852",NA
+"53","rufgro","Ruffed Grouse","Bonasa umbellus","L1208334","Rifle River RA","2025-07-16 12:10",1,44.4075426,-84.0203476,TRUE,FALSE,FALSE,"S260343419",NA
+"54","rufgro","Ruffed Grouse","Bonasa umbellus","L49906372","Unnamed Road, Park City, Utah, US (40.626, -111.52)","2025-07-16 11:40",2,40.6263147,-111.5201861,TRUE,FALSE,TRUE,"S260374594",NA
+"55","rufgro","Ruffed Grouse","Bonasa umbellus","L49920562","Grand Teton NP--Glade Creek Trail","2025-07-16 11:04",1,44.029441,-110.724138,TRUE,FALSE,TRUE,"S260433233",NA
+"56","rufgro","Ruffed Grouse","Bonasa umbellus","L7798679","Krumwiede Forest Reserve","2025-07-16 09:41",2,44.9037483,-85.9104466,TRUE,FALSE,FALSE,"S260326291",NA
+"57","rufgro","Ruffed Grouse","Bonasa umbellus","L49926143","Lake Creek Trail Malheur National Forest 44.23439, -118.63880","2025-07-16 09:27",1,44.234394,-118.638805,TRUE,FALSE,TRUE,"S260456682",NA
+"58","rufgro","Ruffed Grouse","Bonasa umbellus","L49897947","11547 Rock Creek Road, Sheridan, Oregon, US (45.18, -123.431)","2025-07-16 09:13",1,45.1803396,-123.4308792,TRUE,FALSE,TRUE,"S260342422",NA
+"59","rufgro","Ruffed Grouse","Bonasa umbellus","L6639988","BNC (Private properties within 5 mi.)","2025-07-16 08:52",2,43.4569605,-73.1618786,TRUE,FALSE,TRUE,"S260313105",NA
+"60","rufgro","Ruffed Grouse","Bonasa umbellus","L47014630","Bigelow Preserve- AT Area","2025-07-16 08:12",2,45.1033515,-70.3569647,TRUE,FALSE,TRUE,"S260646715",NA
+"61","rufgro","Ruffed Grouse","Bonasa umbellus","L165381","Victory Basin IBA","2025-07-16 07:50",2,44.5351902,-71.7899171,TRUE,FALSE,FALSE,"S260336443",NA
+"62","rufgro","Ruffed Grouse","Bonasa umbellus","L745441","Iron Creek Campground","2025-07-16 07:36",5,44.1990974,-115.0113201,TRUE,FALSE,FALSE,"S260305826",NA
+"63","rufgro","Ruffed Grouse","Bonasa umbellus","L43259673","Margin","2025-07-16 07:26",NA,42.4098988,-76.6829668,TRUE,FALSE,TRUE,"S260276230",NA
+"64","rufgro","Ruffed Grouse","Bonasa umbellus","L49699452","8715 Kilkenny Ln, Ellsworth US-MI 45.16049, -85.36225","2025-07-16 06:39",2,45.16049,-85.362246,TRUE,FALSE,TRUE,"S260269574",NA
+"65","rufgro","Ruffed Grouse","Bonasa umbellus","L49879566","400 Stowe Hill Rd, Wilmington US-VT 42.88535, -72.83559","2025-07-16 05:46",2,42.885348,-72.835588,TRUE,FALSE,TRUE,"S260255166",NA
+"66","rufgro","Ruffed Grouse","Bonasa umbellus","L49886511","Cub creek","2025-07-16 05:38",1,48.550784,-120.195138,TRUE,FALSE,TRUE,"S260291163",NA
+"67","rufgro","Ruffed Grouse","Bonasa umbellus","L49975627","Little Moosehorn Campsite","2025-07-16 05:32",1,46.363107,-69.018853,TRUE,FALSE,TRUE,"S260667779",NA
+"68","rufgro","Ruffed Grouse","Bonasa umbellus","L555865","Grand Teton NP--Teton Science School","2025-07-16 05:25",1,43.6700291,-110.5983031,TRUE,FALSE,FALSE,"S260376516",NA
+"69","rufgro","Ruffed Grouse","Bonasa umbellus","L49871695","Carter Ferry","2025-07-15 21:12",1,47.761082,-110.899164,TRUE,FALSE,TRUE,"S260220920",NA
+"70","rufgro","Ruffed Grouse","Bonasa umbellus","L49873318","Highway 20 and Methow River","2025-07-15 20:38",1,48.458121,-120.16927,TRUE,FALSE,TRUE,"S260227815",NA
+"71","rufgro","Ruffed Grouse","Bonasa umbellus","L26786654","Mark's cabin","2025-07-15 19:22",4,43.7874985,-74.4131546,TRUE,FALSE,TRUE,"S260189237",NA
+"72","rufgro","Ruffed Grouse","Bonasa umbellus","L8835879","Cabin","2025-07-15 18:55",1,61.5739028,-149.9372651,TRUE,FALSE,TRUE,"S260226252",NA
+"73","rufgro","Ruffed Grouse","Bonasa umbellus","L3640206","My backyard, Parsonsfield","2025-07-15 18:00",1,43.7558874,-70.9230795,TRUE,FALSE,TRUE,"S260206419",NA
+"74","rufgro","Ruffed Grouse","Bonasa umbellus","L11381028","Irish Hill Trails","2025-07-15 17:54",1,44.197712,-72.603464,TRUE,FALSE,FALSE,"S260178215",NA
+"75","rufgro","Ruffed Grouse","Bonasa umbellus","L49862170","Quabbin Reservoir--Fever Brook Wetland","2025-07-15 15:30",1,42.47195,-72.2328,TRUE,FALSE,TRUE,"S260178104",NA
+"76","rufgro","Ruffed Grouse","Bonasa umbellus","L3645555","Acreage at Lower Spirit Lake","2025-07-15 14:30",1,45.5581146,-92.0728111,TRUE,FALSE,TRUE,"S260375387",NA
+"77","rufgro","Ruffed Grouse","Bonasa umbellus","L282890","Sandhill SWA","2025-07-15 14:18",2,44.3161195,-90.1417409,TRUE,FALSE,FALSE,"S260219232",NA
+"78","rufgro","Ruffed Grouse","Bonasa umbellus","L7406560","Lost Lake Woods Club","2025-07-15 14:10",6,44.783419,-83.4411192,TRUE,FALSE,TRUE,"S260195629",NA
+"79","rufgro","Ruffed Grouse","Bonasa umbellus","L49856767","9364–9698 US-20, Mountain Home US-ID 43.19388, -115.56755","2025-07-15 13:49",1,43.193881,-115.56755,TRUE,FALSE,TRUE,"S260156550",NA
+"80","rufgro","Ruffed Grouse","Bonasa umbellus","L49850863","04626, Cutler US-ME 44.66114, -67.29455","2025-07-15 13:47",1,44.661143,-67.294547,TRUE,FALSE,TRUE,"S260134694",NA
+"81","rufgro","Ruffed Grouse","Bonasa umbellus","L16201830","County Rd B east from Hwy 122","2025-07-15 12:52",5,46.5290301,-90.396733,TRUE,FALSE,TRUE,"S260215811",NA
+"82","rufgro","Ruffed Grouse","Bonasa umbellus","L14730093","Grandma’s Creek Road Area, Cascade US-ID 44.55224, -116.04935","2025-07-15 12:07",4,44.55224,-116.049348,TRUE,FALSE,TRUE,"S260155310",NA
+"83","rufgro","Ruffed Grouse","Bonasa umbellus","L10851828","West CR30","2025-07-15 12:01",2,48.2153774,-94.0279576,TRUE,FALSE,FALSE,"S260124362",NA
+"84","rufgro","Ruffed Grouse","Bonasa umbellus","L8644684","Yard at 30403 670th St, Lake City","2025-07-15 11:50",1,44.3506131,-92.2854727,TRUE,FALSE,TRUE,"S260237639",NA
+"85","rufgro","Ruffed Grouse","Bonasa umbellus","L340203","Pharsalia WMA","2025-07-15 11:34",1,42.6295853,-75.7309437,TRUE,FALSE,FALSE,"S260142863",NA
+"86","rufgro","Ruffed Grouse","Bonasa umbellus","L49867679","25020 Moose Ct, Moran US-WY 43.84365, -110.45401","2025-07-15 11:15",4,43.843646,-110.454006,TRUE,FALSE,TRUE,"S260203574",NA
+"87","rufgro","Ruffed Grouse","Bonasa umbellus","L49854573","Davis Peak Road, Woodland, Washington","2025-07-15 11:05",1,45.9999742,-122.6211014,TRUE,FALSE,TRUE,"S260148021",NA
+"88","rufgro","Ruffed Grouse","Bonasa umbellus","L1797529","Lake Vermilion-Soudan Underground Mine SP","2025-07-15 10:41",1,47.8291914,-92.2064682,TRUE,FALSE,FALSE,"S260169913",NA
+"89","rufgro","Ruffed Grouse","Bonasa umbellus","L49839233","Boyce Hill State Forest","2025-07-15 10:05",1,42.3323142,-78.519913,TRUE,FALSE,TRUE,"S260089875",NA
+"90","rufgro","Ruffed Grouse","Bonasa umbellus","L267349","Capitol Forest","2025-07-15 09:56",1,46.985817,-123.1319046,TRUE,FALSE,FALSE,"S260166958",NA
+"91","rufgro","Ruffed Grouse","Bonasa umbellus","L1772244","Flathead House","2025-07-15 09:20",1,48.1768708,-114.1377721,TRUE,FALSE,TRUE,"S260140503",NA
+"92","rufgro","Ruffed Grouse","Bonasa umbellus","L2319934","North Spencer Marsh, Michigan Hollow Lake (restricted access)","2025-07-15 09:15",1,42.263578,-76.503767,TRUE,FALSE,FALSE,"S260112978",NA
+"93","rufgro","Ruffed Grouse","Bonasa umbellus","L5609656","The Bear Den","2025-07-15 08:54",3,43.8008984,-85.8393252,TRUE,FALSE,TRUE,"S260212349",NA
+"94","rufgro","Ruffed Grouse","Bonasa umbellus","L11172463","Lake Penland","2025-07-15 08:38",1,45.1183435,-119.3148114,TRUE,FALSE,FALSE,"S260108342",NA
+"95","rufgro","Ruffed Grouse","Bonasa umbellus","L49920493","Grand Teton NP--Owl Creek Trail","2025-07-15 08:15",6,43.982604,-110.838877,TRUE,FALSE,TRUE,"S260432961",NA
+"96","rufgro","Ruffed Grouse","Bonasa umbellus","L5087466","Genesee Valley Greenway, Belfast","2025-07-15 08:00",1,42.341317,-78.1249294,TRUE,FALSE,FALSE,"S260071602",NA
+"97","rufgro","Ruffed Grouse","Bonasa umbellus","L1578773","House of the Subtle Sun","2025-07-15 07:00",1,46.3594357,-123.8086088,TRUE,FALSE,TRUE,"S260212766",NA
+"98","rufgro","Ruffed Grouse","Bonasa umbellus","L317294","White Mt. NF--Caps Ridge Trail","2025-07-15 06:55",6,44.2993979,-71.3371989,TRUE,FALSE,FALSE,"S260655406",NA
+"99","rufgro","Ruffed Grouse","Bonasa umbellus","L27799792","Newthaven","2025-07-14 20:10",1,42.3292672,-76.4184855,TRUE,FALSE,TRUE,"S260110473",NA
+"100","rufgro","Ruffed Grouse","Bonasa umbellus","L340679","Grand Teton NP--Leigh & String Lakes","2025-07-14 20:07",1,43.7944172,-110.7262938,TRUE,FALSE,FALSE,"S260916991",NA
+"101","rufgro","Ruffed Grouse","Bonasa umbellus","L13651351","268 Punkinville Rd, Sullivan US-ME 44.52805, -68.16305","2025-07-14 19:58",1,44.528054,-68.163048,TRUE,FALSE,TRUE,"S259958889",NA
+"102","rufgro","Ruffed Grouse","Bonasa umbellus","L49951891","Great Smoky Mountains National Park, Almond US-NC (35.5378,-83.8053) Cades Cove SE","2025-07-14 18:25",6,35.537768,-83.805268,TRUE,FALSE,TRUE,"S260574418",NA
+"103","rufgro","Ruffed Grouse","Bonasa umbellus","L49938134","Cades Cove Se Tapoco, North Carolina, US (35.518, -83.797)","2025-07-14 18:14",1,35.5180559,-83.7971459,TRUE,FALSE,TRUE,"S260513539",NA
+"104","rufgro","Ruffed Grouse","Bonasa umbellus","L49818882","Panther Gorge Lean-to","2025-07-14 18:00",1,44.0940023,-73.9146078,TRUE,FALSE,TRUE,"S259987148",NA
+"105","rufgro","Ruffed Grouse","Bonasa umbellus","L39062723","Nashville Rd, Jericho US-VT","2025-07-14 16:47",1,44.451474,-72.938003,TRUE,FALSE,TRUE,"S260732544",NA
+"106","rufgro","Ruffed Grouse","Bonasa umbellus","L1655264","9N and Baxter Mountain Rd.","2025-07-14 15:14",1,44.2197124,-73.747985,TRUE,FALSE,TRUE,"S259917202",NA
+"107","rufgro","Ruffed Grouse","Bonasa umbellus","L7875369","Gunflint Trail--Moose Viewing Trail","2025-07-14 15:00",1,47.9989409,-90.3573634,TRUE,FALSE,FALSE,"S260095166",NA
+"108","rufgro","Ruffed Grouse","Bonasa umbellus","L49870944","Spur lake","2025-07-14 12:46",1,45.706405,-88.231747,TRUE,FALSE,TRUE,"S260217445",NA
+"109","rufgro","Ruffed Grouse","Bonasa umbellus","L48884557","Fischer Lake (Florence Co)","2025-07-14 12:41",1,45.7262795,-88.1050322,TRUE,FALSE,TRUE,"S259907173",NA
+"110","rufgro","Ruffed Grouse","Bonasa umbellus","L40246304","S.Witham Rd","2025-07-14 12:37",1,44.023674,-70.214823,TRUE,FALSE,TRUE,"S259876187",NA
+"111","rufgro","Ruffed Grouse","Bonasa umbellus","L26855940","Mecawee Rd","2025-07-14 12:21",1,43.56349,-72.624663,TRUE,FALSE,TRUE,"S259931924",NA
+"112","rufgro","Ruffed Grouse","Bonasa umbellus","L1308161","Sauk Mountain Road","2025-07-14 12:20",1,48.5072794,-121.6196823,TRUE,FALSE,FALSE,"S260128117",NA
+"113","rufgro","Ruffed Grouse","Bonasa umbellus","L49921648","Allegheny National Forest, Kane US-PA 41.54220, -78.93425","2025-07-14 11:56",1,41.542201,-78.934254,TRUE,FALSE,TRUE,"S260438166",NA
+"114","rufgro","Ruffed Grouse","Bonasa umbellus","L49806790","9650 Merry Canyon Road, Leavenworth, Washington, US (47.71, -120.588)","2025-07-14 11:53",1,47.7102398,-120.5875944,TRUE,FALSE,TRUE,"S259933409",NA
+"115","rufgro","Ruffed Grouse","Bonasa umbellus","L2183089","Camp","2025-07-14 10:29",1,44.2185082,-69.564743,TRUE,FALSE,TRUE,"S259863464",NA
+"116","rufgro","Ruffed Grouse","Bonasa umbellus","L1144401","Cline Rd., marsh (east)","2025-07-14 09:46",1,43.061062,-74.6492232,TRUE,FALSE,FALSE,"S259855440",NA
+"117","rufgro","Ruffed Grouse","Bonasa umbellus","L212481","Bloomingdale Bog Trail","2025-07-14 09:08",2,44.4128015,-74.121715,TRUE,FALSE,FALSE,"S259857058",NA
+"118","rufgro","Ruffed Grouse","Bonasa umbellus","L46971011","Survey Point Scraggly","2025-07-14 08:43",1,46.237974,-68.715184,TRUE,FALSE,TRUE,"S259950179",NA
+"119","rufgro","Ruffed Grouse","Bonasa umbellus","L49810489","Scraggly Lake Rd, Patten US-ME 46.21625, -68.69274","2025-07-14 08:21",3,46.216251,-68.692738,TRUE,FALSE,TRUE,"S259949999",NA
+"120","rufgro","Ruffed Grouse","Bonasa umbellus","L26953525","Olympic NP--Hoh River Happy Four","2025-07-14 08:17",1,47.869064,-123.835848,TRUE,FALSE,FALSE,"S259992495",NA
+"121","rufgro","Ruffed Grouse","Bonasa umbellus","L18159771","Irvington, south","2025-07-14 08:00",1,44.8345685,-91.9529932,TRUE,FALSE,TRUE,"S259843151",NA
+"122","rufgro","Ruffed Grouse","Bonasa umbellus","L2317642","Janack's Landing trail","2025-07-14 07:57",1,44.1330151,-74.915278,TRUE,FALSE,TRUE,"S259838486",NA
+"123","rufgro","Ruffed Grouse","Bonasa umbellus","L46516979","Upper Dam Road","2025-07-14 07:45",4,44.9010802,-70.877274,TRUE,FALSE,TRUE,"S260647654",NA
+"124","rufgro","Ruffed Grouse","Bonasa umbellus","L7576629","Wayne's Loop Trail","2025-07-14 07:20",1,41.707098,-112.008261,TRUE,FALSE,TRUE,"S259924601",NA
+"125","rufgro","Ruffed Grouse","Bonasa umbellus","L24618700","Rodman-Barnes Corners Trails","2025-07-14 06:21",1,43.819345,-75.853881,TRUE,FALSE,FALSE,"S259816297",NA
+"126","rufgro","Ruffed Grouse","Bonasa umbellus","L49770127","83–93 Matthew Ln, West Gardiner US-ME 44.22131, -69.85532","2025-07-14 05:55",1,44.221308,-69.855319,TRUE,FALSE,TRUE,"S259776358",NA
+"127","rufgro","Ruffed Grouse","Bonasa umbellus","L49799080","Shoshone National Forest (42.5177, -108.8937)","2025-07-14 05:45",1,42.517691,-108.893686,TRUE,FALSE,TRUE,"S259904055",NA
+"128","rufgro","Ruffed Grouse","Bonasa umbellus","L11599323","Burkett Mill Preserve (MCC)","2025-07-14 05:37",1,44.0775878,-69.3275865,TRUE,FALSE,FALSE,"S259835429",NA
+"129","rufgro","Ruffed Grouse","Bonasa umbellus","L2240630","Twisp River Rearing Ponds","2025-07-14 05:24",3,48.3659047,-120.1364422,TRUE,FALSE,FALSE,"S259845162",NA
+"130","rufgro","Ruffed Grouse","Bonasa umbellus","L28789992","Wolf Track Rd","2025-07-13 21:26",4,62.270912,-150.09464,TRUE,FALSE,TRUE,"S259746744",NA
+"131","rufgro","Ruffed Grouse","Bonasa umbellus","L978821","Bridger-Teton NF--Cache Creek Canyon","2025-07-13 19:00",3,43.4650366,-110.7306433,TRUE,FALSE,FALSE,"S259911056",NA
+"132","rufgro","Ruffed Grouse","Bonasa umbellus","L9857203","Carol's Collectibles Nursery","2025-07-13 18:40",4,44.4964135,-68.9767599,TRUE,FALSE,TRUE,"S259776869",NA
+"133","rufgro","Ruffed Grouse","Bonasa umbellus","L17721978","Gamble Sands","2025-07-13 16:50",1,48.0763872,-119.6540308,TRUE,FALSE,FALSE,"S259701055",NA
+"134","rufgro","Ruffed Grouse","Bonasa umbellus","L33191810","381 Roads End Dr, Fleetwood US-NC 36.27928, -81.53141","2025-07-13 16:25",2,36.279278,-81.531406,TRUE,FALSE,TRUE,"S259656505",NA
+"135","rufgro","Ruffed Grouse","Bonasa umbellus","L49759028","Blockhouse Lake Road, Park Falls, Wisconsin, US","2025-07-13 15:56",2,45.9764408,-90.2164392,TRUE,FALSE,TRUE,"S259725453",NA
+"136","rufgro","Ruffed Grouse","Bonasa umbellus","L10541429","Shoshone NF--Louis Lake","2025-07-13 15:00",3,42.59326,-108.8466256,TRUE,FALSE,FALSE,"S259704964",NA
+"137","rufgro","Ruffed Grouse","Bonasa umbellus","L49733252","6311 Quebec, Lowville, New York, US (43.733, -75.57)","2025-07-13 14:20",1,43.7328039,-75.5698082,TRUE,FALSE,TRUE,"S259621119",NA
+"138","rufgro","Ruffed Grouse","Bonasa umbellus","L49737675","Stoney Brook Road, FLT Southeast","2025-07-13 13:56",1,42.7066683,-75.8991282,TRUE,FALSE,TRUE,"S259638041",NA
+"139","rufgro","Ruffed Grouse","Bonasa umbellus","L27631209","Pine Island Road","2025-07-13 13:45",NA,48.2474553,-94.1026127,TRUE,FALSE,TRUE,"S259807854",NA
+"140","rufgro","Ruffed Grouse","Bonasa umbellus","L9706980","Glacier NP--Lake Josephine Trail","2025-07-13 13:35",4,48.7797747,-113.6705744,TRUE,FALSE,FALSE,"S259931756",NA
+"141","rufgro","Ruffed Grouse","Bonasa umbellus","L3807548","October Mountain SF--Washington Mtn. Marsh","2025-07-13 12:54",1,42.3579731,-73.1970415,TRUE,FALSE,FALSE,"S259651005",NA
+"142","rufgro","Ruffed Grouse","Bonasa umbellus","L49723859","Home","2025-07-13 12:35",3,44.062041,-86.381465,TRUE,FALSE,TRUE,"S259590048",NA
+"143","rufgro","Ruffed Grouse","Bonasa umbellus","L49730351","Amherst Mountain community forest","2025-07-13 12:30",1,44.857144,-68.384291,TRUE,FALSE,TRUE,"S259609575",NA
+"144","rufgro","Ruffed Grouse","Bonasa umbellus","L49894996","Fremont-Winema National Forests, Chiloquin US-OR 42.84180, -121.46352","2025-07-13 11:39",1,42.841801,-121.463517,TRUE,FALSE,TRUE,"S260330204",NA
+"145","rufgro","Ruffed Grouse","Bonasa umbellus","L9078407","Vedder Mountain Trail","2025-07-13 11:26",1,48.989872,-122.146671,TRUE,FALSE,FALSE,"S259672485",NA
+"146","rufgro","Ruffed Grouse","Bonasa umbellus","L151752","Itasca SP","2025-07-13 11:14",1,47.1975,-95.202,TRUE,FALSE,FALSE,"S259600217",NA
+"147","rufgro","Ruffed Grouse","Bonasa umbellus","L20218997","Thayer Brook Preserve","2025-07-13 11:02",3,43.889756,-70.366094,TRUE,FALSE,TRUE,"S259619396",NA
+"148","rufgro","Ruffed Grouse","Bonasa umbellus","L49758232","Kaaterskill High Peak","2025-07-13 10:44",1,42.1378124,-74.0911079,TRUE,FALSE,TRUE,"S259722340",NA
+"149","rufgro","Ruffed Grouse","Bonasa umbellus","L1677786","East Branch Rd, camp ten","2025-07-13 10:05",4,44.8825489,-71.6939543,TRUE,FALSE,TRUE,"S259964460",NA
+"150","rufgro","Ruffed Grouse","Bonasa umbellus","L24944311","Hidden Falls Trail","2025-07-13 09:53",1,42.301381,-122.536058,TRUE,FALSE,TRUE,"S259950939",NA
+"151","rufgro","Ruffed Grouse","Bonasa umbellus","L2980099","Hyder (town)","2025-07-13 09:36",5,55.9180932,-130.0272274,TRUE,FALSE,FALSE,"S259602391",NA
+"152","rufgro","Ruffed Grouse","Bonasa umbellus","L45464529","N6788 Tatro Rd, Bruce US-WI 45.53015, -91.29774","2025-07-13 09:08",1,45.530146,-91.297745,TRUE,FALSE,TRUE,"S259555085",NA
+"153","rufgro","Ruffed Grouse","Bonasa umbellus","L49777194","2556 Daaquam Rd, Allagash US-ME 46.59817, -70.01108","2025-07-13 09:02",3,46.598174,-70.011078,TRUE,FALSE,TRUE,"S259810552",NA
+"154","rufgro","Ruffed Grouse","Bonasa umbellus","L49708833","889 US-45, Pelican Lake US-WI (45.5086,-89.1611)","2025-07-13 08:55",1,45.508586,-89.161131,TRUE,FALSE,TRUE,"S259521041",NA
+"155","rufgro","Ruffed Grouse","Bonasa umbellus","L23006411","West Branch Pond Camps","2025-07-13 08:43",1,45.5844421,-69.2905625,TRUE,FALSE,FALSE,"S259525148",NA
+"156","rufgro","Ruffed Grouse","Bonasa umbellus","L40579286","Salmon Creek Road","2025-07-13 08:40",1,48.5034362,-119.7224435,TRUE,FALSE,TRUE,"S259596968",NA
+"157","rufgro","Ruffed Grouse","Bonasa umbellus","L1000261","Sanctuary, Wilber Township, Iosco County","2025-07-13 08:33",1,44.3671906,-83.5215104,TRUE,FALSE,TRUE,"S259514125",NA
+"158","rufgro","Ruffed Grouse","Bonasa umbellus","L30183686","Julian NW Laurel Haven","2025-07-13 07:53",3,40.874594,-77.963337,TRUE,FALSE,TRUE,"S259517339",NA
+"159","rufgro","Ruffed Grouse","Bonasa umbellus","L49805981","Pisgah NF—Roan Mountain Road","2025-07-13 07:14",1,36.100065,-82.128725,TRUE,FALSE,TRUE,"S259930061",NA
+"160","rufgro","Ruffed Grouse","Bonasa umbellus","L49806197","Bridger-Teton NF--Broad Canyon","2025-07-13 07:05",1,42.768329,-110.674719,TRUE,FALSE,TRUE,"S259930882",NA
+"161","rufgro","Ruffed Grouse","Bonasa umbellus","L4102336","State Game Lands 235--Horse Valley Rd.","2025-07-13 06:57",1,39.9774766,-77.8587753,TRUE,FALSE,FALSE,"S259543375",NA
+"162","rufgro","Ruffed Grouse","Bonasa umbellus","L49727283","Escarpment Trail, Stoppel Point","2025-07-13 06:57",6,42.225142,-74.064253,TRUE,FALSE,TRUE,"S259597618",NA
+"163","rufgro","Ruffed Grouse","Bonasa umbellus","L26380208","K-M Scout Ranch","2025-07-13 05:34",1,47.2693994,-109.4676948,TRUE,FALSE,TRUE,"S259535823",NA
+"164","rufgro","Ruffed Grouse","Bonasa umbellus","L20514972","Merrill Lake Property","2025-07-13 05:22",1,46.082163,-122.3191679,TRUE,FALSE,TRUE,"S259505369",NA
+"165","rufgro","Ruffed Grouse","Bonasa umbellus","L25986873","Onion Valley Reservoir","2025-07-13 05:00",1,41.6911298,-118.7457407,TRUE,FALSE,FALSE,"S259932163","N"
+"166","rufgro","Ruffed Grouse","Bonasa umbellus","L49410547","Soderberg Lane (private)","2025-07-12 20:15",1,48.071039,-90.543113,TRUE,FALSE,TRUE,"S259363265",NA
+"167","rufgro","Ruffed Grouse","Bonasa umbellus","L32296139","Landfill Rd, Chestertown US-NY 43.69175, -73.81877","2025-07-12 19:53",1,43.691748,-73.818774,TRUE,FALSE,TRUE,"S259342193",NA
+"168","rufgro","Ruffed Grouse","Bonasa umbellus","L49677518","Old Tower Rd","2025-07-12 19:27",1,43.823278,-85.937987,TRUE,FALSE,TRUE,"S259374017",NA
+"169","rufgro","Ruffed Grouse","Bonasa umbellus","L49760210","Forest Service Road 28, Idleyld Park US-OR 43.16002, -122.50227","2025-07-12 18:42",2,43.16002,-122.502266,TRUE,FALSE,TRUE,"S259730141",NA
+"170","rufgro","Ruffed Grouse","Bonasa umbellus","L49798109","Summit Trailhead","2025-07-12 17:41",2,40.430853,-111.613767,TRUE,FALSE,TRUE,"S259900304",NA
+"171","rufgro","Ruffed Grouse","Bonasa umbellus","L49662335","Hike round lake to dix","2025-07-12 17:14",1,44.092931,-73.787363,TRUE,FALSE,TRUE,"S259314780",NA
+"172","rufgro","Ruffed Grouse","Bonasa umbellus","L49659303","3185–3471 Stone Dam Rd, Island Pond US-VT 44.83131, -71.73277","2025-07-12 16:54",4,44.831315,-71.732774,TRUE,FALSE,TRUE,"S259303360",NA
+"173","rufgro","Ruffed Grouse","Bonasa umbellus","L49663942","31840 Pansy Landing Road, Danbury, Wisconsin, US (46.066, -92.314)","2025-07-12 16:35",3,46.0664748,-92.3138303,TRUE,FALSE,TRUE,"S259320943",NA
+"174","rufgro","Ruffed Grouse","Bonasa umbellus","L49665307","485 Bull Hill Rd, Franklin US-ME 44.69492, -68.12942","2025-07-12 15:58",3,44.694923,-68.12942,TRUE,FALSE,TRUE,"S259326427",NA
+"175","rufgro","Ruffed Grouse","Bonasa umbellus","L1540959","Harding Lake SRA","2025-07-12 15:00",1,64.4372264,-146.8775201,TRUE,FALSE,FALSE,"S259404554",NA
+"176","rufgro","Ruffed Grouse","Bonasa umbellus","L474087","Silvio O. Conte NWR--Peanut Dam Road","2025-07-12 14:06",NA,44.8275999,-71.7149949,TRUE,FALSE,FALSE,"S259533063",NA
+"177","rufgro","Ruffed Grouse","Bonasa umbellus","L165372","Silvio O. Conte NWR--Yellow Bogs","2025-07-12 14:04",4,44.8203,-71.7319,TRUE,FALSE,FALSE,"S259320334",NA
+"178","rufgro","Ruffed Grouse","Bonasa umbellus","L49676735","3185–3471 Stone Dam Rd, Island Pond US-VT 44.82665, -71.72693","2025-07-12 14:02",5,44.826655,-71.726933,TRUE,FALSE,TRUE,"S259371402",NA
+"179","rufgro","Ruffed Grouse","Bonasa umbellus","L49666029","Sandwich Range Wilderness","2025-07-12 13:46",1,43.8839399,-71.5142713,TRUE,FALSE,TRUE,"S259329381",NA
+"180","rufgro","Ruffed Grouse","Bonasa umbellus","L35689258","Honeysuckle Campground","2025-07-12 13:20",1,47.7396408,-116.4752054,TRUE,FALSE,FALSE,"S260455520",NA
+"181","rufgro","Ruffed Grouse","Bonasa umbellus","L12165065","Denali Hwy.--Delta Wild & Scenic River Wayside","2025-07-12 12:38",1,63.0455583,-146.0188615,TRUE,FALSE,FALSE,"S259342778",NA
+"182","rufgro","Ruffed Grouse","Bonasa umbellus","L1487917","High Peaks Golf Course","2025-07-12 12:30",1,43.9624837,-74.0994193,TRUE,FALSE,FALSE,"S259228663",NA
+"183","rufgro","Ruffed Grouse","Bonasa umbellus","L332397","Silvio O. Conte NWR--Stone Dam Road","2025-07-12 12:20",1,44.7984367,-71.7002244,TRUE,FALSE,FALSE,"S259342693",NA
+"184","rufgro","Ruffed Grouse","Bonasa umbellus","L49675797","ALC - Pico Lake Trail","2025-07-12 12:17",1,43.656665,-74.87095,TRUE,FALSE,TRUE,"S259367981",NA
+"185","rufgro","Ruffed Grouse","Bonasa umbellus","L1223571","Diamondfield Jack Campground and Picnic Area","2025-07-12 12:12",3,42.1713873,-114.279356,TRUE,FALSE,FALSE,"S259369358",NA
+"186","rufgro","Ruffed Grouse","Bonasa umbellus","L49705818","5310 E Twin Lake Rd, Rose City US-MI (44.5283,-84.1433)","2025-07-12 11:30",1,44.528316,-84.143314,TRUE,FALSE,TRUE,"S259505942",NA
+"187","rufgro","Ruffed Grouse","Bonasa umbellus","L1152814","Frontenac SP","2025-07-12 11:19",1,44.5294182,-92.347388,TRUE,FALSE,FALSE,"S259278124",NA
+"188","rufgro","Ruffed Grouse","Bonasa umbellus","L9660609","Tenmile Environmental Trail #375","2025-07-12 11:17",5,46.5342846,-112.2487371,TRUE,FALSE,FALSE,"S259302457",NA
+"189","rufgro","Ruffed Grouse","Bonasa umbellus","L49647557","Seney NWR Drive","2025-07-12 11:16",1,46.266298,-85.970737,TRUE,FALSE,TRUE,"S259283691",NA
+"190","rufgro","Ruffed Grouse","Bonasa umbellus","L49662199","Catherine Creek, FS 2113, Curlew, Washington, US (48.965, -118.707)","2025-07-12 10:38",7,48.9649167,-118.7065317,TRUE,FALSE,TRUE,"S259314163",NA
+"191","rufgro","Ruffed Grouse","Bonasa umbellus","L49761984","Otter and Goose Lake Trail","2025-07-12 10:08",1,44.7249533,-111.5939801,TRUE,FALSE,TRUE,"S259737718",NA
+"192","rufgro","Ruffed Grouse","Bonasa umbellus","L49643544","Loves Valley Rd, Aughwick CW south Shirleysburg US-PA )","2025-07-12 10:02",1,40.297425,-77.847998,TRUE,FALSE,TRUE,"S259247946",NA
+"193","rufgro","Ruffed Grouse","Bonasa umbellus","L14979327","Grand Lake Reserve--Parking Lot Area 2","2025-07-12 10:00",1,44.3305104,-75.7409942,TRUE,FALSE,FALSE,"S259291160",NA
+"194","rufgro","Ruffed Grouse","Bonasa umbellus","L49785991","Sweetwater Guard Station Campground","2025-07-12 10:00",1,42.561446,-109.061517,TRUE,FALSE,TRUE,"S259852011",NA
+"195","rufgro","Ruffed Grouse","Bonasa umbellus","L49647117","Dry Creek Road, Oakley, Idaho, US (42.169, -114.159)","2025-07-12 09:54",2,42.1692379,-114.1587671,TRUE,FALSE,TRUE,"S259260452",NA
+"196","rufgro","Ruffed Grouse","Bonasa umbellus","L49628188","10828 Cedar Crest Trail, Bitely, Michigan, US (43.749, -85.825)","2025-07-12 09:02",1,43.7493413,-85.825226,TRUE,FALSE,TRUE,"S259190751",NA
+"197","rufgro","Ruffed Grouse","Bonasa umbellus","L49649439","Interstate 89 South, Williamstown, Vermont, US (44.152, -72.59)","2025-07-12 08:42",1,44.15205,-72.5904233,TRUE,FALSE,TRUE,"S259268531",NA
+"198","rufgro","Ruffed Grouse","Bonasa umbellus","L49634004","National Forest Development Road 1711, Mount Hood, Oregon, US (45.506, -121.493)","2025-07-12 08:31",1,45.5062947,-121.4927133,TRUE,FALSE,TRUE,"S259213826",NA
+"199","rufgro","Ruffed Grouse","Bonasa umbellus","L2233053","Shindagin Hollow SF--Shindagin Hollow Rd.","2025-07-12 08:16",1,42.3338153,-76.3400674,TRUE,FALSE,FALSE,"S259329365",NA
+"200","rufgro","Ruffed Grouse","Bonasa umbellus","L463361","Monongahela NF--Cranberry Glades Botanical Area","2025-07-12 08:00",1,38.2043972,-80.266242,TRUE,FALSE,FALSE,"S260181360",NA
+"201","rufgro","Ruffed Grouse","Bonasa umbellus","L268947","Klipchuck Campground","2025-07-12 08:00",8,48.5977247,-120.5143547,TRUE,FALSE,FALSE,"S260396677",NA
+"202","rufgro","Ruffed Grouse","Bonasa umbellus","L5788110","Yellowstone NP--Heart Lake and vicinity","2025-07-12 07:46",9,44.2873016,-110.5007458,TRUE,FALSE,FALSE,"S259663180",NA
+"203","rufgro","Ruffed Grouse","Bonasa umbellus","L49641082","Swimming Dam Reclamation Trail—Coal Run/south of road","2025-07-12 07:44",4,41.656232,-76.626263,TRUE,FALSE,TRUE,"S259239368",NA
+"204","rufgro","Ruffed Grouse","Bonasa umbellus","L1501142","Allegheny NF--Timberdoodle Flats","2025-07-12 07:10",2,41.8555011,-78.775143,TRUE,FALSE,FALSE,"S259168731",NA
+"205","rufgro","Ruffed Grouse","Bonasa umbellus","L987533","Sturgeon River Sloughs WA (South Unit)","2025-07-12 07:07",2,46.9318616,-88.4885216,TRUE,FALSE,FALSE,"S259348827",NA
+"206","rufgro","Ruffed Grouse","Bonasa umbellus","L49656730","Katahdin View Drive, LONG A Township, Maine, US (45.719, -68.815)","2025-07-12 07:06",4,45.7192668,-68.8150332,TRUE,FALSE,TRUE,"S259294466",NA
+"207","rufgro","Ruffed Grouse","Bonasa umbellus","L4623168","Leonard Pond bog road","2025-07-12 06:35",2,44.3279957,-74.7406206,TRUE,FALSE,FALSE,"S259224732",NA
+"208","rufgro","Ruffed Grouse","Bonasa umbellus","L9524371","Dixville Turbines to Rt. 26 via West Branch Clear Stream Rd.","2025-07-12 06:25",3,44.8151252,-71.3066852,TRUE,FALSE,FALSE,"S259365170",NA
+"209","rufgro","Ruffed Grouse","Bonasa umbellus","L17399608","Allagash Wilderness Waterway--Long Lake","2025-07-12 06:05",2,46.6516154,-69.3776934,TRUE,FALSE,FALSE,"S260152342",NA
+"210","rufgro","Ruffed Grouse","Bonasa umbellus","L3359197","207 Stoller Hill Rd","2025-07-12 06:00",1,42.7034192,-75.0299799,TRUE,FALSE,TRUE,"S259164015",NA
+"211","rufgro","Ruffed Grouse","Bonasa umbellus","L46332737","Granite Creek - Highline Trailhead Area","2025-07-12 05:30",7,43.348395,-110.441087,TRUE,FALSE,TRUE,"S259568047",NA
+"212","rufgro","Ruffed Grouse","Bonasa umbellus","L1187678","Scott Bog Rd., Pittsburg","2025-07-12 04:56",1,45.1902035,-71.1714935,TRUE,FALSE,FALSE,"S259519878",NA
+"213","rufgro","Ruffed Grouse","Bonasa umbellus","L7809930","Earlville Reservoir","2025-07-12 04:45",1,42.7489724,-75.5062703,TRUE,FALSE,TRUE,"S259612524",NA
+"214","rufgro","Ruffed Grouse","Bonasa umbellus","L24123929","🏡","2025-07-12",NA,44.277838,-71.692483,TRUE,FALSE,TRUE,"S259298303",NA
+"215","rufgro","Ruffed Grouse","Bonasa umbellus","L3000886","Hidden Vista","2025-07-11 22:51",1,43.641773,-111.593278,TRUE,FALSE,FALSE,"S259268757",NA
+"216","rufgro","Ruffed Grouse","Bonasa umbellus","L49759439","BMWC S Fork Sun #17 camp, US-MT 47.56323, -112.91826","2025-07-11 19:55",3,47.563234,-112.918264,TRUE,FALSE,TRUE,"S259727121",NA
+"217","rufgro","Ruffed Grouse","Bonasa umbellus","L35525878","04574, Washington US-ME 44.29534, -69.35940","2025-07-11 19:54",6,44.295342,-69.359402,TRUE,FALSE,TRUE,"S259023784",NA
+"218","rufgro","Ruffed Grouse","Bonasa umbellus","L49588520","401–443 Magee Rd S, Boyne Falls US-MI 45.19184, -84.74356","2025-07-11 18:53",1,45.191838,-84.743555,TRUE,FALSE,TRUE,"S259016096",NA
+"219","rufgro","Ruffed Grouse","Bonasa umbellus","L25749980","Fontinalis Club","2025-07-11 15:14",1,45.162461,-84.589429,TRUE,FALSE,TRUE,"S259041558",NA
+"220","rufgro","Ruffed Grouse","Bonasa umbellus","L340561","Great Wass Island Preserve (TNC)","2025-07-11 14:50",1,44.4810829,-67.5946712,TRUE,FALSE,FALSE,"S259726300",NA
+"221","rufgro","Ruffed Grouse","Bonasa umbellus","L49576969","5993–6241 Lax Lake Rd, Silver Bay US-MN 47.37375, -91.26849","2025-07-11 14:27",9,47.373749,-91.268493,TRUE,FALSE,TRUE,"S258970296",NA
+"222","rufgro","Ruffed Grouse","Bonasa umbellus","L49583551","Little Susitna Public Access Area","2025-07-11 13:51",1,61.4288779,-149.9533097,TRUE,FALSE,TRUE,"S258995958",NA
+"223","rufgro","Ruffed Grouse","Bonasa umbellus","L1352789","Waters Landfill (restricted access)","2025-07-11 13:29",3,44.8509309,-84.68271,TRUE,FALSE,FALSE,"S258949358",NA
+"224","rufgro","Ruffed Grouse","Bonasa umbellus","L1811900","Tahquamenon Falls SP--Upper Falls","2025-07-11 12:10",1,46.5785478,-85.253135,TRUE,FALSE,FALSE,"S258935502",NA
+"225","rufgro","Ruffed Grouse","Bonasa umbellus","L49673052","Tioga State Forest--Old Possessions Road Trail #3","2025-07-11 12:08",1,41.729131,-76.9268378,TRUE,FALSE,TRUE,"S259357662",NA
+"226","rufgro","Ruffed Grouse","Bonasa umbellus","L49710019","Indian Creek airstrip camp","2025-07-11 11:30",2,44.7636288,-115.101373,TRUE,FALSE,TRUE,"S259531329",NA
+"227","rufgro","Ruffed Grouse","Bonasa umbellus","L49673247","Tioga State Forest--Old Possessions Road Trail #2","2025-07-11 11:24",1,41.7288535,-76.9393758,TRUE,FALSE,TRUE,"S259358428",NA
+"228","rufgro","Ruffed Grouse","Bonasa umbellus","L6094796","Sunlight Wildlife Habitat Management Area","2025-07-11 10:44",5,44.7462334,-109.5026808,TRUE,FALSE,FALSE,"S258936754",NA
+"229","rufgro","Ruffed Grouse","Bonasa umbellus","L49672429","20","2025-07-11 10:37",7,46.870582,-90.824828,TRUE,FALSE,TRUE,"S259355272",NA
+"230","rufgro","Ruffed Grouse","Bonasa umbellus","L12567260","Balsam Lake Mountain Wild Forest--Balsam Mountain","2025-07-11 10:36",1,42.0458697,-74.5944209,TRUE,FALSE,FALSE,"S258951124",NA
+"231","rufgro","Ruffed Grouse","Bonasa umbellus","L6080376","Six Mile Basin Ecological Area","2025-07-11 09:57",1,46.301006,-116.128715,TRUE,FALSE,FALSE,"S259020708",NA
+"232","rufgro","Ruffed Grouse","Bonasa umbellus","L24954989","20 Jack Pine. Jackson, Wyoming","2025-07-11 09:18",1,43.323256,-110.436701,TRUE,FALSE,TRUE,"S259056993",NA
+"233","rufgro","Ruffed Grouse","Bonasa umbellus","L49759222","Buckskin Ridge Trail to Silver Lake, Okanogan, US-WA","2025-07-11 09:16",3,48.759429,-120.656001,TRUE,FALSE,TRUE,"S259726340",NA
+"234","rufgro","Ruffed Grouse","Bonasa umbellus","L11836897","Dorset Peak","2025-07-11 09:15",3,43.28503,-73.047702,TRUE,FALSE,FALSE,"S258936166",NA
+"235","rufgro","Ruffed Grouse","Bonasa umbellus","L49592671","Continental Divide National Scenic Trail, Yellowstone National Park US-WY 44.35556, -110.66477","2025-07-11 09:03",1,44.35556,-110.664772,TRUE,FALSE,TRUE,"S259033559",NA
+"236","rufgro","Ruffed Grouse","Bonasa umbellus","L241872","Sax-Zim Bog","2025-07-11 07:53",1,47.2212004,-92.7009201,TRUE,FALSE,FALSE,"S258986672",NA
+"237","rufgro","Ruffed Grouse","Bonasa umbellus","L737696","Comstock Point (Private)","2025-07-11 07:30",2,44.885401,-67.0213223,TRUE,FALSE,TRUE,"S258915691",NA
+"238","rufgro","Ruffed Grouse","Bonasa umbellus","L49558183","Arrowhead Trail, East Cook, Minnesota, US (47.919, -89.955)","2025-07-11 07:21",NA,47.9185695,-89.9554396,TRUE,FALSE,TRUE,"S258897346",NA
+"239","rufgro","Ruffed Grouse","Bonasa umbellus","L9806834","Home - North","2025-07-11 07:20",3,45.735985,-91.649003,TRUE,FALSE,TRUE,"S258882056",NA
+"240","rufgro","Ruffed Grouse","Bonasa umbellus","L24475796","Halifax Road - Gems","2025-07-11 07:05",5,46.564592,-85.318459,TRUE,FALSE,TRUE,"S258925596",NA
+"241","rufgro","Ruffed Grouse","Bonasa umbellus","L5693633","Dungeness Fish Hatchery","2025-07-11 06:59",1,48.0280211,-123.1409025,TRUE,FALSE,FALSE,"S258939505",NA
+"242","rufgro","Ruffed Grouse","Bonasa umbellus","L2611596","18 Mikalson Rd Home","2025-07-11 06:45",1,48.7393448,-118.1552956,TRUE,FALSE,TRUE,"S260543985",NA
+"243","rufgro","Ruffed Grouse","Bonasa umbellus","L4822808","Moose-Willow WMA","2025-07-11 06:33",4,46.9576149,-93.5328555,TRUE,FALSE,FALSE,"S258898259",NA
+"244","rufgro","Ruffed Grouse","Bonasa umbellus","L14939347","The Adirondack Park, Indian Lake US-NY 43.77278, -74.12449","2025-07-11 06:31",1,43.772784,-74.124489,TRUE,FALSE,TRUE,"S258851697",NA
+"245","rufgro","Ruffed Grouse","Bonasa umbellus","L30428649","Sproul SF--Penrose Road in atlas block 48C24","2025-07-11 06:25",1,41.1943012,-77.7903483,TRUE,FALSE,TRUE,"S258929226",NA
+"246","rufgro","Ruffed Grouse","Bonasa umbellus","L11642445","Joseph Cabin","2025-07-11 05:52",1,45.3087599,-117.2354768,TRUE,FALSE,TRUE,"S258869343",NA
+"247","rufgro","Ruffed Grouse","Bonasa umbellus","L6018504","Malheur NF--Tin Can Spring","2025-07-11 05:24",7,43.9347112,-118.8373893,TRUE,TRUE,FALSE,"S259011176",NA
+"248","rufgro","Ruffed Grouse","Bonasa umbellus","L46756081","Corral Road, West Glacier, Montana, US (48.519, -114.001)","2025-07-11 05:17",NA,48.5191618,-114.0014546,TRUE,FALSE,TRUE,"S260411338",NA
+"249","rufgro","Ruffed Grouse","Bonasa umbellus","L49697520","Fox River Campsite","2025-07-10 21:30",1,46.3920043,-86.006765,TRUE,FALSE,TRUE,"S259486615",NA
+"250","rufgro","Ruffed Grouse","Bonasa umbellus","L24811802","18050 Cross Road, Watertown, New York, US (43.929, -75.802)home","2025-07-10 18:45",1,43.9289654,-75.8024006,TRUE,FALSE,TRUE,"S258762964",NA
+"251","rufgro","Ruffed Grouse","Bonasa umbellus","L49593968","04739, Eagle Lake US-ME 47.00279, -68.94733","2025-07-10 18:06",1,47.002795,-68.947332,TRUE,FALSE,TRUE,"S259038472",NA
+"252","rufgro","Ruffed Grouse","Bonasa umbellus","L49593958","04739, Eagle Lake US-ME 46.99913, -68.91552","2025-07-10 17:54",2,46.999132,-68.915518,TRUE,FALSE,TRUE,"S259038443",NA
+"253","rufgro","Ruffed Grouse","Bonasa umbellus","L2240924","Luzerne Boardwalk","2025-07-10 17:51",1,44.6036555,-84.2633116,TRUE,FALSE,FALSE,"S258735266",NA
+"254","rufgro","Ruffed Grouse","Bonasa umbellus","L2034781","Maple Avenue Farms","2025-07-10 16:55",1,42.7557098,-75.5183887,TRUE,FALSE,TRUE,"S258760633",NA
+"255","rufgro","Ruffed Grouse","Bonasa umbellus","L49527456","Two Oceans Lake Rd--Big Thicket","2025-07-10 15:00",2,43.8815885,-110.4952016,TRUE,FALSE,TRUE,"S258754498",NA
+"256","rufgro","Ruffed Grouse","Bonasa umbellus","L49528925","647 Eagle's Nest Road, Lewis, Vermont, US (44.84, -71.752)","2025-07-10 13:37",2,44.8403095,-71.7521735,TRUE,FALSE,TRUE,"S258759336",NA
+"257","rufgro","Ruffed Grouse","Bonasa umbellus","L6049435","Miller Peninsula State Park","2025-07-10 13:34",1,48.0659673,-122.945947,TRUE,FALSE,FALSE,"S258730581",NA
+"258","rufgro","Ruffed Grouse","Bonasa umbellus","L49516840","Home Gulch Campground, 15906–15998 Sun Canyon Rd, Augusta US-MT 47.61521, -112.72254","2025-07-10 13:20",1,47.615211,-112.722539,TRUE,FALSE,TRUE,"S258707164",NA
+"259","rufgro","Ruffed Grouse","Bonasa umbellus","L49510383","Stud Mill Road, Cherryfield, Maine, US (44.988, -68.07)","2025-07-10 12:58",1,44.9877679,-68.0698969,TRUE,FALSE,TRUE,"S258682137",NA
+"260","rufgro","Ruffed Grouse","Bonasa umbellus","L19114032","Elwha River--Madison Falls Trailhead","2025-07-10 12:55",2,48.0430693,-123.5913821,TRUE,FALSE,FALSE,"S258724744",NA
+"261","rufgro","Ruffed Grouse","Bonasa umbellus","L11139905","University of Idaho Experimental Forest—Flat Creek Unit","2025-07-10 12:12",1,46.8488632,-116.7320185,TRUE,FALSE,FALSE,"S258694683",NA
+"262","rufgro","Ruffed Grouse","Bonasa umbellus","L49507425","Lolo National Forest, Alberton US-MT (46.9408,-114.5086)","2025-07-10 11:27",2,46.94078,-114.508561,TRUE,FALSE,TRUE,"S258670802",NA
+"263","rufgro","Ruffed Grouse","Bonasa umbellus","L49507459","I-90 E, Huson US-MT 47.01515, -114.40670","2025-07-10 11:26",1,47.01515,-114.406704,TRUE,FALSE,TRUE,"S258670932",NA
+"264","rufgro","Ruffed Grouse","Bonasa umbellus","L49967552","Wheeler Property Assessment","2025-07-10 11:07",1,44.50362,-72.85193,TRUE,FALSE,TRUE,"S260633378",NA
+"265","rufgro","Ruffed Grouse","Bonasa umbellus","L159573","Baskett Slough NWR","2025-07-10 10:52",1,44.9614021,-123.257246,TRUE,FALSE,FALSE,"S258678473",NA
+"266","rufgro","Ruffed Grouse","Bonasa umbellus","L4065083","Rattlesnake NRA--Main Rattlesnake Creek Trails","2025-07-10 10:36",1,46.9410148,-113.9563537,TRUE,FALSE,FALSE,"S258774025",NA
+"267","rufgro","Ruffed Grouse","Bonasa umbellus","L1092889","Indian Stream Road, Pittsburg","2025-07-10 10:09",1,45.1471186,-71.3553429,TRUE,FALSE,TRUE,"S258727554",NA
+"268","rufgro","Ruffed Grouse","Bonasa umbellus","L49592533","Moshannon State Forest","2025-07-10 10:04",2,40.9092353,-78.0315827,TRUE,FALSE,TRUE,"S259032990",NA
+"269","rufgro","Ruffed Grouse","Bonasa umbellus","L27884454","Roaring Spring CE","2025-07-10 10:00",1,40.3125,-78.40625,TRUE,FALSE,TRUE,"S258922004",NA
+"270","rufgro","Ruffed Grouse","Bonasa umbellus","L49625050","Mission Falls Trail, Saint Ignatius, Montana, US (47.321, -113.986)","2025-07-10 09:47",1,47.3208388,-113.9862489,TRUE,FALSE,TRUE,"S259177089",NA
+"271","rufgro","Ruffed Grouse","Bonasa umbellus","L2908587","Allegheny NF--Meade Run Area","2025-07-10 09:26",2,41.736274,-78.7109127,TRUE,FALSE,FALSE,"S258658961",NA
+"272","rufgro","Ruffed Grouse","Bonasa umbellus","L49492170","Nutting Rd, Sunapee","2025-07-10 09:22",3,43.342402,-72.118503,TRUE,FALSE,TRUE,"S258606899",NA
+"273","rufgro","Ruffed Grouse","Bonasa umbellus","L9608533","Vermilion Gorge Trail","2025-07-10 08:46",1,48.2733142,-92.5117027,TRUE,FALSE,FALSE,"S258633622",NA
+"274","rufgro","Ruffed Grouse","Bonasa umbellus","L11770294","Hwy 242, Burn area","2025-07-10 08:44",1,44.191917,-121.88428,TRUE,FALSE,TRUE,"S258717475",NA
+"275","rufgro","Ruffed Grouse","Bonasa umbellus","L49516967","44.29129_-123.61205","2025-07-10 08:16",1,44.29129,-123.61205,TRUE,FALSE,TRUE,"S258707645",NA
+"276","rufgro","Ruffed Grouse","Bonasa umbellus","L49506915","Margaret Lake","2025-07-10 07:57",1,45.7141115,-89.1160231,TRUE,FALSE,TRUE,"S258669515",NA
+"277","rufgro","Ruffed Grouse","Bonasa umbellus","L4529991","Tahquamenon Falls Rivermouth SP","2025-07-10 07:56",1,46.5595123,-85.0375971,TRUE,FALSE,FALSE,"S258620448",NA
+"278","rufgro","Ruffed Grouse","Bonasa umbellus","L26207334","Upper Cold River Road, Shrewsbury, Vermont, US (43.562, -72.911)","2025-07-10 07:54",1,43.5623447,-72.9107367,TRUE,FALSE,TRUE,"S258677684",NA
+"279","rufgro","Ruffed Grouse","Bonasa umbellus","L19548533","FR 329 Swamp","2025-07-10 07:25",NA,47.801034,-90.561028,TRUE,FALSE,TRUE,"S258663245",NA
+"280","rufgro","Ruffed Grouse","Bonasa umbellus","L1621649","Kildare Road (aka Willis Pond Road)","2025-07-10 07:15",2,44.2577753,-74.4975299,TRUE,FALSE,TRUE,"S258688581",NA
+"281","rufgro","Ruffed Grouse","Bonasa umbellus","L2611428","Apostle Islands NL--Long Island","2025-07-10 06:45",1,46.7304602,-90.7957071,TRUE,FALSE,FALSE,"S258639286",NA
+"282","rufgro","Ruffed Grouse","Bonasa umbellus","L710366","Wood River Day Use Area","2025-07-10 06:12",1,42.7085517,-121.9906425,TRUE,FALSE,FALSE,"S258655952",NA
+"283","rufgro","Ruffed Grouse","Bonasa umbellus","L49361381","702 Surry Rd, Surry US-ME 44.48539, -68.44600","2025-07-10 06:08",2,44.485392,-68.446001,TRUE,FALSE,TRUE,"S258619145",NA
+"284","rufgro","Ruffed Grouse","Bonasa umbellus","L746575","Birdtrack Springs","2025-07-10 05:46",5,45.3001731,-118.3122611,TRUE,FALSE,FALSE,"S258630110",NA
+"285","rufgro","Ruffed Grouse","Bonasa umbellus","L3859945","Deck","2025-07-10 05:43",1,45.737281,-91.653305,TRUE,FALSE,TRUE,"S258584411",NA
+"286","rufgro","Ruffed Grouse","Bonasa umbellus","L3609579","FR195 alder swamp (5)","2025-07-09 21:13",1,46.1733454,-90.8820176,TRUE,FALSE,TRUE,"S258510026",NA
+"287","rufgro","Ruffed Grouse","Bonasa umbellus","L977136","North Woods Club Rd., Boreas River Tracks","2025-07-09 21:12",3,43.8218332,-74.0639877,TRUE,FALSE,FALSE,"S259984782",NA
+"288","rufgro","Ruffed Grouse","Bonasa umbellus","L368385","Trail's End at Sea Gull Lake","2025-07-09 19:42",7,48.1573259,-90.8944416,TRUE,FALSE,FALSE,"S258679363",NA
+"289","rufgro","Ruffed Grouse","Bonasa umbellus","L49593940","1884–2090 Main St, Saint Francis US-ME 47.11570, -68.93516","2025-07-09 18:13",3,47.1157,-68.935157,TRUE,FALSE,TRUE,"S259038356",NA
+"290","rufgro","Ruffed Grouse","Bonasa umbellus","L571452","Owen Sowerwine Natural Area","2025-07-09 15:15",1,48.1864326,-114.2767167,TRUE,FALSE,FALSE,"S258662129",NA
+"291","rufgro","Ruffed Grouse","Bonasa umbellus","L49471882","Schueler WMA North Central","2025-07-09 14:55",1,43.8495875,-91.7861319,TRUE,FALSE,TRUE,"S258510083",NA
+"292","rufgro","Ruffed Grouse","Bonasa umbellus","L49497797","Forest Road 30416, Montpelier, Idaho, US (42.37, -111.555)","2025-07-09 14:53",1,42.3696767,-111.5551233,TRUE,FALSE,TRUE,"S258633085",NA
+"293","rufgro","Ruffed Grouse","Bonasa umbellus","L4587405","Cranberry Farm","2025-07-09 14:05",1,46.7669258,-85.0091425,TRUE,FALSE,FALSE,"S258647420",NA
+"294","rufgro","Ruffed Grouse","Bonasa umbellus","L49473812","Logging Road, Millinocket, Maine, US (45.874, -68.695)","2025-07-09 14:04",1,45.8742946,-68.6954022,TRUE,FALSE,TRUE,"S258518120",NA
+"295","rufgro","Ruffed Grouse","Bonasa umbellus","L34534305","2938F 24th Ave, Rice Lake US-WI 45.56817, -91.55612","2025-07-09 13:52",1,45.568169,-91.556123,TRUE,FALSE,TRUE,"S258614214",NA
+"296","rufgro","Ruffed Grouse","Bonasa umbellus","L49468214","County Highway South, Hayward, Wisconsin, US (46.053, -91.08)","2025-07-09 13:00",1,46.0532002,-91.0797631,TRUE,FALSE,TRUE,"S258494401",NA
+"297","rufgro","Ruffed Grouse","Bonasa umbellus","L33483655","Mom’s House","2025-07-09 12:40",1,44.688231,-91.554724,TRUE,FALSE,TRUE,"S258408408",NA
+"298","rufgro","Ruffed Grouse","Bonasa umbellus","L957456","Kootenai NWR--Cascade Overlook","2025-07-09 11:46",1,48.7316177,-116.416111,TRUE,FALSE,FALSE,"S260101938",NA
+"299","rufgro","Ruffed Grouse","Bonasa umbellus","L4696396","Petit Manan NWR--Birch Point Trail","2025-07-09 11:29",1,44.4436158,-67.8994775,TRUE,FALSE,FALSE,"S258479726",NA
+"300","rufgro","Ruffed Grouse","Bonasa umbellus","L49441841","Sent NWR fishermen’s route","2025-07-09 11:25",1,46.286843,-85.946503,TRUE,FALSE,TRUE,"S258390682",NA
+"301","rufgro","Ruffed Grouse","Bonasa umbellus","L667377","Sax-Zim Bog--Owl Ave. feeding station","2025-07-09 11:03",5,47.1528654,-92.7162409,TRUE,FALSE,FALSE,"S258472022",NA
+"302","rufgro","Ruffed Grouse","Bonasa umbellus","L3761024","Hog Creek","2025-07-09 10:42",1,47.8066918,-91.1006713,TRUE,FALSE,FALSE,"S259478632",NA
+"303","rufgro","Ruffed Grouse","Bonasa umbellus","L41259541","Itasca SP--Dr. Roberts Trail","2025-07-09 10:32",1,47.1924028,-95.1725489,TRUE,FALSE,FALSE,"S258438321",NA
+"304","rufgro","Ruffed Grouse","Bonasa umbellus","L1167687","Bear Head Lake SP","2025-07-09 09:00",1,47.7945047,-92.0787656,TRUE,FALSE,FALSE,"S258911400",NA
+"305","rufgro","Ruffed Grouse","Bonasa umbellus","L49438565","9301–9673 Mount Ashland Ski Rd, Ashland US-OR 42.07002, -122.61453","2025-07-09 08:38",1,42.070022,-122.614527,TRUE,FALSE,TRUE,"S258377819",NA
+"306","rufgro","Ruffed Grouse","Bonasa umbellus","L1558270","Tug Hill WMA","2025-07-09 08:30",1,43.7083017,-75.6555182,TRUE,FALSE,FALSE,"S258566981",NA
+"307","rufgro","Ruffed Grouse","Bonasa umbellus","L49470252","Armstrong Mountain and Area, Keene Valley US-NY","2025-07-09 08:22",1,44.134255,-73.849489,TRUE,FALSE,TRUE,"S258503204",NA
+"308","rufgro","Ruffed Grouse","Bonasa umbellus","L49429126","BP, Lake Ninevah Rd, Mount Holly US-VT 43.47544, -72.76191","2025-07-09 08:21",1,43.475442,-72.761908,TRUE,FALSE,TRUE,"S258335612",NA
+"309","rufgro","Ruffed Grouse","Bonasa umbellus","L44275982","Mudd Creek Divide west side","2025-07-09 08:09",1,47.628804,-114.903162,TRUE,FALSE,TRUE,"S258393017",NA
+"310","rufgro","Ruffed Grouse","Bonasa umbellus","L49468030","Stevens Canyon Rd, Packwood US-WA 46.72459, -121.58708","2025-07-09 07:59",1,46.724592,-121.587078,TRUE,FALSE,TRUE,"S258493538",NA
+"311","rufgro","Ruffed Grouse","Bonasa umbellus","L3809662","Prairie Farm Spring","2025-07-09 07:56",4,44.5551269,-121.5778828,TRUE,TRUE,FALSE,"S258444313",NA
+"312","rufgro","Ruffed Grouse","Bonasa umbellus","L49678956","Oregon, US (45.949, -117.8)","2025-07-09 07:32",8,45.949032,-117.7999272,TRUE,FALSE,TRUE,"S259379806",NA
+"313","rufgro","Ruffed Grouse","Bonasa umbellus","L1026539","State Game Lands 57--Coalbed Swamp","2025-07-09 07:20",1,41.4716087,-76.2179732,TRUE,FALSE,FALSE,"S258767426",NA
+"314","rufgro","Ruffed Grouse","Bonasa umbellus","L751908","Colchester Pond - Colchester (186 acres)","2025-07-09 07:00",1,44.5546324,-73.1198448,TRUE,FALSE,FALSE,"S258407567",NA
+"315","rufgro","Ruffed Grouse","Bonasa umbellus","L44999326","Pittsfield State Forest OHV HQ","2025-07-09 06:51",1,42.485383,-73.301244,TRUE,FALSE,TRUE,"S258301330",NA
+"316","rufgro","Ruffed Grouse","Bonasa umbellus","L49256926","54876, Stone Lake US-WI 45.69678, -91.70344","2025-07-09 06:51",1,45.696784,-91.703445,TRUE,FALSE,TRUE,"S258343169",NA
+"317","rufgro","Ruffed Grouse","Bonasa umbellus","L22606916","Mile Creek Wetlands (no access - private property)","2025-07-09 06:14",1,46.663383,-85.031561,TRUE,FALSE,TRUE,"S258316938",NA
+"318","rufgro","Ruffed Grouse","Bonasa umbellus","L164216","Crex Meadows SWA","2025-07-09 06:08",1,45.842964,-92.62031,TRUE,FALSE,FALSE,"S258475445",NA
+"319","rufgro","Ruffed Grouse","Bonasa umbellus","L17803605","905 E Main St, Weatherly US-PA 40.94565, -75.81670","2025-07-09 05:59",1,40.945646,-75.816702,TRUE,FALSE,TRUE,"S258297431",NA
