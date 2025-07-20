@@ -1,320 +1,260 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
-"1","rufgro","Ruffed Grouse","Bonasa umbellus","L10084854","Delaware Mine","2025-07-18 15:27",1,47.4233317,-88.1018093,TRUE,FALSE,FALSE,"S260867473",NA
-"2","rufgro","Ruffed Grouse","Bonasa umbellus","L11934106","Smith Fisheries 40 Acres","2025-07-18 13:31",2,47.393833,-87.9492511,TRUE,FALSE,TRUE,"S260902740",NA
-"3","rufgro","Ruffed Grouse","Bonasa umbellus","L1483222","Elbow Pond Road, Woodstock","2025-07-18 13:10",1,43.9879804,-71.7452432,TRUE,FALSE,FALSE,"S260900227",NA
-"4","rufgro","Ruffed Grouse","Bonasa umbellus","L766452","Swan Island","2025-07-18 12:19",2,44.060206,-69.7973442,TRUE,FALSE,FALSE,"S260819797",NA
-"5","rufgro","Ruffed Grouse","Bonasa umbellus","L1797479","Banning SP","2025-07-18 11:14",2,46.1757234,-92.8509598,TRUE,FALSE,FALSE,"S260887752",NA
-"6","rufgro","Ruffed Grouse","Bonasa umbellus","L621720","Tubbs Hill Rd, Richford","2025-07-18 09:19",1,42.3483635,-76.1646831,TRUE,FALSE,TRUE,"S260893748",NA
-"7","rufgro","Ruffed Grouse","Bonasa umbellus","L2276191","Schoolhouse Gulch Trail","2025-07-18 09:11",1,44.092073,-115.9432697,TRUE,FALSE,FALSE,"S260843272",NA
-"8","rufgro","Ruffed Grouse","Bonasa umbellus","L2389477","Hayden Lake, Idaho Preston Beach","2025-07-18 09:04",2,47.7715725,-116.6737103,TRUE,FALSE,TRUE,"S260832269",NA
-"9","rufgro","Ruffed Grouse","Bonasa umbellus","L24656827","83 Swan Lake Road, Republic, Washington, US (48.642, -118.791)Crofty's","2025-07-18 09:03",2,48.6417234,-118.7912385,TRUE,FALSE,TRUE,"S260818961",NA
-"10","rufgro","Ruffed Grouse","Bonasa umbellus","L718684","Reddish Knob","2025-07-18 08:56",2,38.4622862,-79.2416811,TRUE,FALSE,FALSE,"S260796164",NA
-"11","rufgro","Ruffed Grouse","Bonasa umbellus","L19663073","Jones ranch","2025-07-18 08:35",2,39.933097,-111.647553,TRUE,FALSE,TRUE,"S260907721",NA
-"12","rufgro","Ruffed Grouse","Bonasa umbellus","L9904679","Matanuska Glacier SRS","2025-07-18 08:30",5,61.7990155,-147.8134281,TRUE,FALSE,FALSE,"S260841847",NA
-"13","rufgro","Ruffed Grouse","Bonasa umbellus","L3109267","Roosevelt Truck Trail, north section","2025-07-18 08:10",3,43.9436826,-74.0040098,TRUE,FALSE,FALSE,"S260818417",NA
-"14","rufgro","Ruffed Grouse","Bonasa umbellus","L50003943","Rahr Ln, White Sulphur Springs US-MT (46.9435,-111.3132)","2025-07-18 07:39",2,46.943478,-111.313194,TRUE,FALSE,TRUE,"S260800120",NA
-"15","rufgro","Ruffed Grouse","Bonasa umbellus","L49991717","E 10 Mile Rd, Luther US-MI 44.13257, -85.68086","2025-07-18 06:45",1,44.132566,-85.680862,TRUE,FALSE,TRUE,"S260742522",NA
-"16","rufgro","Ruffed Grouse","Bonasa umbellus","L6965627","Gold Brook Road","2025-07-18 06:35",4,45.3239097,-70.6167698,TRUE,FALSE,FALSE,"S260917415",NA
-"17","rufgro","Ruffed Grouse","Bonasa umbellus","L48017903","Sproul SF--Kyler Fork Trail Conifer Patch","2025-07-18 06:11",1,41.156882,-77.89988,TRUE,FALSE,TRUE,"S260853204",NA
-"18","rufgro","Ruffed Grouse","Bonasa umbellus","L49978975","Dick And Nancy Eales Preserve At Moosic Mountain, Jessup US-PA (41.4484,-75.5321)","2025-07-17 21:23",2,41.448422,-75.532095,TRUE,FALSE,TRUE,"S260682188",NA
-"19","rufgro","Ruffed Grouse","Bonasa umbellus","L1369577","Bozeman Fish Technology Center ","2025-07-17 19:57",1,45.7071231,-110.9785065,TRUE,FALSE,FALSE,"S260684256",NA
-"20","rufgro","Ruffed Grouse","Bonasa umbellus","L28576237","Swamp Creek & Whiteman Roads","2025-07-17 19:30",1,41.5760754,-78.584555,TRUE,FALSE,TRUE,"S260678862",NA
-"21","rufgro","Ruffed Grouse","Bonasa umbellus","L502962","Kyhv Peak Rd.","2025-07-17 17:07",1,40.3112493,-111.6318536,TRUE,FALSE,FALSE,"S260664224",NA
-"22","rufgro","Ruffed Grouse","Bonasa umbellus","L49996104","Trout Creek Meadow","2025-07-17 14:15",1,43.6114429,-109.9675893,TRUE,FALSE,TRUE,"S260764611",NA
-"23","rufgro","Ruffed Grouse","Bonasa umbellus","L7845077","Bridger Cr. Rd. above W Bridger Cr. Rd.","2025-07-17 13:31",1,45.6117592,-109.7747359,TRUE,FALSE,FALSE,"S260633643",NA
-"24","rufgro","Ruffed Grouse","Bonasa umbellus","L37597194","River Road Sports Complex","2025-07-17 12:53",1,45.345891,-84.94454,TRUE,FALSE,TRUE,"S260820820",NA
-"25","rufgro","Ruffed Grouse","Bonasa umbellus","L6219269","Grand Teton NP--Colter Bay--Hermitage Point Trail","2025-07-17 12:43",5,43.8842225,-110.631423,TRUE,FALSE,FALSE,"S260631405",NA
-"26","rufgro","Ruffed Grouse","Bonasa umbellus","L500447","Sabattis Bog","2025-07-17 12:15",3,44.0707984,-74.5388353,TRUE,FALSE,FALSE,"S260649442",NA
-"27","rufgro","Ruffed Grouse","Bonasa umbellus","L50033619","NY-30, Saranac Lake US-NY 44.24808, -74.34823","2025-07-17 10:31",1,44.248078,-74.348225,TRUE,FALSE,TRUE,"S260916576",NA
-"28","rufgro","Ruffed Grouse","Bonasa umbellus","L1616399","Bother Knob FR539 (Rockingham Co.)","2025-07-17 09:58",4,38.4885372,-79.2019444,TRUE,FALSE,FALSE,"S260604792",NA
-"29","rufgro","Ruffed Grouse","Bonasa umbellus","L5937094","County Rd. 438","2025-07-17 09:06",1,46.1872383,-87.5358629,TRUE,FALSE,FALSE,"S260535826",NA
-"30","rufgro","Ruffed Grouse","Bonasa umbellus","L49958332","54772, Wheeler US-WI (45.0897,-91.9598)","2025-07-17 09:03",1,45.089674,-91.959802,TRUE,FALSE,TRUE,"S260598274",NA
-"31","rufgro","Ruffed Grouse","Bonasa umbellus","L43203724","250 Hartland Road, Lyle, Washington, US (45.762, -121.153)","2025-07-17 08:28",1,45.7624426,-121.152708,TRUE,FALSE,TRUE,"S260576931",NA
-"32","rufgro","Ruffed Grouse","Bonasa umbellus","L49941633","6504–6598 N Reserve Rd, Stone Lake US-WI 45.86481, -91.39616","2025-07-17 08:15",1,45.864806,-91.396163,TRUE,FALSE,TRUE,"S260530852",NA
-"33","rufgro","Ruffed Grouse","Bonasa umbellus","L3030443","Wahtum Lake","2025-07-17 08:14",6,45.580169,-121.7935481,TRUE,FALSE,FALSE,"S260662075",NA
-"34","rufgro","Ruffed Grouse","Bonasa umbellus","L49974908","W Rockford Bay Rd, Rockford Bay","2025-07-17 07:57",2,47.508301,-116.896601,TRUE,FALSE,TRUE,"S260664525",NA
-"35","rufgro","Ruffed Grouse","Bonasa umbellus","L1214729","Koops Pit Road, Oquossoc","2025-07-17 07:26",1,44.9911054,-70.7747573,TRUE,FALSE,FALSE,"S260562042",NA
-"36","rufgro","Ruffed Grouse","Bonasa umbellus","L2226767","Secret Lake","2025-07-17 07:00",1,47.6682196,-93.0792189,TRUE,FALSE,TRUE,"S260649406",NA
-"37","rufgro","Ruffed Grouse","Bonasa umbellus","L4786992","H.A.F.B. Carter Creek Campground","2025-07-17 06:54",1,40.914064,-110.771563,TRUE,FALSE,TRUE,"S260908023",NA
-"38","rufgro","Ruffed Grouse","Bonasa umbellus","L49956295","Dyer Road, Lock Haven, Pennsylvania, US (41.517, -77.622)","2025-07-17 06:53",3,41.5174266,-77.6221954,TRUE,FALSE,TRUE,"S260590444",NA
-"39","rufgro","Ruffed Grouse","Bonasa umbellus","L722150","Hubbard Brook Experimental Forest (restricted access)","2025-07-17 06:34",2,43.9420352,-71.7256165,TRUE,FALSE,FALSE,"S260777250",NA
-"40","rufgro","Ruffed Grouse","Bonasa umbellus","L46374040","Survey Point 44","2025-07-17 06:27",4,46.591446,-68.215128,TRUE,FALSE,TRUE,"S260914283",NA
-"41","rufgro","Ruffed Grouse","Bonasa umbellus","L49922568","Road to Munuscong","2025-07-16 21:41",1,46.18726,-84.316377,TRUE,FALSE,TRUE,"S260442165",NA
-"42","rufgro","Ruffed Grouse","Bonasa umbellus","L49923822","National Forest Development Road 49, Darrington, Washington, US (48.058, -121.288)","2025-07-16 19:29",2,48.0580446,-121.2880278,TRUE,FALSE,TRUE,"S260447056",NA
-"43","rufgro","Ruffed Grouse","Bonasa umbellus","L42044227","Prickly Pear Park","2025-07-16 19:03",1,46.5779865,-111.9160488,TRUE,FALSE,FALSE,"S260448170",NA
-"44","rufgro","Ruffed Grouse","Bonasa umbellus","L2994476","Overlook Mt., Woodstock","2025-07-16 18:46",1,42.0784,-74.1107799,TRUE,FALSE,FALSE,"S260443438",NA
-"45","rufgro","Ruffed Grouse","Bonasa umbellus","L49943929","1–99 Clary Lake Ln, Whitefield US-ME 44.21671, -69.56650","2025-07-16 18:05",1,44.216706,-69.566503,TRUE,FALSE,TRUE,"S260541740",NA
-"46","rufgro","Ruffed Grouse","Bonasa umbellus","L32438501","Paradise Road","2025-07-16 16:45",3,47.054322,-88.552392,TRUE,FALSE,TRUE,"S260635370",NA
-"47","rufgro","Ruffed Grouse","Bonasa umbellus","L31849114","East Windham Conservation Area","2025-07-16 14:27",2,43.8087056,-70.3721691,TRUE,FALSE,FALSE,"S260602454",NA
-"48","rufgro","Ruffed Grouse","Bonasa umbellus","L8418941","3142 Talache Road, Sagle, Idaho, US (48.167, -116.512)","2025-07-16 14:04",1,48.1672648,-116.5118907,TRUE,FALSE,TRUE,"S260502949",NA
-"49","rufgro","Ruffed Grouse","Bonasa umbellus","L49912748","Boulder Loop Trail, Albany","2025-07-16 13:31",2,44.006479,-71.226391,TRUE,FALSE,TRUE,"S260399527",NA
-"50","rufgro","Ruffed Grouse","Bonasa umbellus","L5931787","Sunset Pond Bog","2025-07-16 12:59",3,44.3109944,-74.5147795,TRUE,FALSE,FALSE,"S260364984",NA
-"51","rufgro","Ruffed Grouse","Bonasa umbellus","L15642916","Dole Hill Road, Northfield","2025-07-16 12:30",1,44.1403941,-72.6749823,TRUE,FALSE,TRUE,"S260417905",NA
-"52","rufgro","Ruffed Grouse","Bonasa umbellus","L49898298","Tunnicliff Rd","2025-07-16 12:12",1,42.871573,-74.953519,TRUE,FALSE,TRUE,"S260343852",NA
-"53","rufgro","Ruffed Grouse","Bonasa umbellus","L1208334","Rifle River RA","2025-07-16 12:10",1,44.4075426,-84.0203476,TRUE,FALSE,FALSE,"S260343419",NA
-"54","rufgro","Ruffed Grouse","Bonasa umbellus","L49906372","Unnamed Road, Park City, Utah, US (40.626, -111.52)","2025-07-16 11:40",2,40.6263147,-111.5201861,TRUE,FALSE,TRUE,"S260374594",NA
-"55","rufgro","Ruffed Grouse","Bonasa umbellus","L49920562","Grand Teton NP--Glade Creek Trail","2025-07-16 11:04",1,44.029441,-110.724138,TRUE,FALSE,TRUE,"S260433233",NA
-"56","rufgro","Ruffed Grouse","Bonasa umbellus","L7798679","Krumwiede Forest Reserve","2025-07-16 09:41",2,44.9037483,-85.9104466,TRUE,FALSE,FALSE,"S260326291",NA
-"57","rufgro","Ruffed Grouse","Bonasa umbellus","L49926143","Lake Creek Trail Malheur National Forest 44.23439, -118.63880","2025-07-16 09:27",1,44.234394,-118.638805,TRUE,FALSE,TRUE,"S260456682",NA
-"58","rufgro","Ruffed Grouse","Bonasa umbellus","L49897947","11547 Rock Creek Road, Sheridan, Oregon, US (45.18, -123.431)","2025-07-16 09:13",1,45.1803396,-123.4308792,TRUE,FALSE,TRUE,"S260342422",NA
-"59","rufgro","Ruffed Grouse","Bonasa umbellus","L6639988","BNC (Private properties within 5 mi.)","2025-07-16 08:52",2,43.4569605,-73.1618786,TRUE,FALSE,TRUE,"S260313105",NA
-"60","rufgro","Ruffed Grouse","Bonasa umbellus","L47014630","Bigelow Preserve- AT Area","2025-07-16 08:12",2,45.1033515,-70.3569647,TRUE,FALSE,TRUE,"S260646715",NA
-"61","rufgro","Ruffed Grouse","Bonasa umbellus","L165381","Victory Basin IBA","2025-07-16 07:50",2,44.5351902,-71.7899171,TRUE,FALSE,FALSE,"S260336443",NA
-"62","rufgro","Ruffed Grouse","Bonasa umbellus","L745441","Iron Creek Campground","2025-07-16 07:36",5,44.1990974,-115.0113201,TRUE,FALSE,FALSE,"S260305826",NA
-"63","rufgro","Ruffed Grouse","Bonasa umbellus","L43259673","Margin","2025-07-16 07:26",NA,42.4098988,-76.6829668,TRUE,FALSE,TRUE,"S260276230",NA
-"64","rufgro","Ruffed Grouse","Bonasa umbellus","L49699452","8715 Kilkenny Ln, Ellsworth US-MI 45.16049, -85.36225","2025-07-16 06:39",2,45.16049,-85.362246,TRUE,FALSE,TRUE,"S260269574",NA
-"65","rufgro","Ruffed Grouse","Bonasa umbellus","L49879566","400 Stowe Hill Rd, Wilmington US-VT 42.88535, -72.83559","2025-07-16 05:46",2,42.885348,-72.835588,TRUE,FALSE,TRUE,"S260255166",NA
-"66","rufgro","Ruffed Grouse","Bonasa umbellus","L49886511","Cub creek","2025-07-16 05:38",1,48.550784,-120.195138,TRUE,FALSE,TRUE,"S260291163",NA
-"67","rufgro","Ruffed Grouse","Bonasa umbellus","L49975627","Little Moosehorn Campsite","2025-07-16 05:32",1,46.363107,-69.018853,TRUE,FALSE,TRUE,"S260667779",NA
-"68","rufgro","Ruffed Grouse","Bonasa umbellus","L555865","Grand Teton NP--Teton Science School","2025-07-16 05:25",1,43.6700291,-110.5983031,TRUE,FALSE,FALSE,"S260376516",NA
-"69","rufgro","Ruffed Grouse","Bonasa umbellus","L49871695","Carter Ferry","2025-07-15 21:12",1,47.761082,-110.899164,TRUE,FALSE,TRUE,"S260220920",NA
-"70","rufgro","Ruffed Grouse","Bonasa umbellus","L49873318","Highway 20 and Methow River","2025-07-15 20:38",1,48.458121,-120.16927,TRUE,FALSE,TRUE,"S260227815",NA
-"71","rufgro","Ruffed Grouse","Bonasa umbellus","L26786654","Mark's cabin","2025-07-15 19:22",4,43.7874985,-74.4131546,TRUE,FALSE,TRUE,"S260189237",NA
-"72","rufgro","Ruffed Grouse","Bonasa umbellus","L8835879","Cabin","2025-07-15 18:55",1,61.5739028,-149.9372651,TRUE,FALSE,TRUE,"S260226252",NA
-"73","rufgro","Ruffed Grouse","Bonasa umbellus","L3640206","My backyard, Parsonsfield","2025-07-15 18:00",1,43.7558874,-70.9230795,TRUE,FALSE,TRUE,"S260206419",NA
-"74","rufgro","Ruffed Grouse","Bonasa umbellus","L11381028","Irish Hill Trails","2025-07-15 17:54",1,44.197712,-72.603464,TRUE,FALSE,FALSE,"S260178215",NA
-"75","rufgro","Ruffed Grouse","Bonasa umbellus","L49862170","Quabbin Reservoir--Fever Brook Wetland","2025-07-15 15:30",1,42.47195,-72.2328,TRUE,FALSE,TRUE,"S260178104",NA
-"76","rufgro","Ruffed Grouse","Bonasa umbellus","L3645555","Acreage at Lower Spirit Lake","2025-07-15 14:30",1,45.5581146,-92.0728111,TRUE,FALSE,TRUE,"S260375387",NA
-"77","rufgro","Ruffed Grouse","Bonasa umbellus","L282890","Sandhill SWA","2025-07-15 14:18",2,44.3161195,-90.1417409,TRUE,FALSE,FALSE,"S260219232",NA
-"78","rufgro","Ruffed Grouse","Bonasa umbellus","L7406560","Lost Lake Woods Club","2025-07-15 14:10",6,44.783419,-83.4411192,TRUE,FALSE,TRUE,"S260195629",NA
-"79","rufgro","Ruffed Grouse","Bonasa umbellus","L49856767","9364–9698 US-20, Mountain Home US-ID 43.19388, -115.56755","2025-07-15 13:49",1,43.193881,-115.56755,TRUE,FALSE,TRUE,"S260156550",NA
-"80","rufgro","Ruffed Grouse","Bonasa umbellus","L49850863","04626, Cutler US-ME 44.66114, -67.29455","2025-07-15 13:47",1,44.661143,-67.294547,TRUE,FALSE,TRUE,"S260134694",NA
-"81","rufgro","Ruffed Grouse","Bonasa umbellus","L16201830","County Rd B east from Hwy 122","2025-07-15 12:52",5,46.5290301,-90.396733,TRUE,FALSE,TRUE,"S260215811",NA
-"82","rufgro","Ruffed Grouse","Bonasa umbellus","L14730093","Grandma’s Creek Road Area, Cascade US-ID 44.55224, -116.04935","2025-07-15 12:07",4,44.55224,-116.049348,TRUE,FALSE,TRUE,"S260155310",NA
-"83","rufgro","Ruffed Grouse","Bonasa umbellus","L10851828","West CR30","2025-07-15 12:01",2,48.2153774,-94.0279576,TRUE,FALSE,FALSE,"S260124362",NA
-"84","rufgro","Ruffed Grouse","Bonasa umbellus","L8644684","Yard at 30403 670th St, Lake City","2025-07-15 11:50",1,44.3506131,-92.2854727,TRUE,FALSE,TRUE,"S260237639",NA
-"85","rufgro","Ruffed Grouse","Bonasa umbellus","L340203","Pharsalia WMA","2025-07-15 11:34",1,42.6295853,-75.7309437,TRUE,FALSE,FALSE,"S260142863",NA
-"86","rufgro","Ruffed Grouse","Bonasa umbellus","L49867679","25020 Moose Ct, Moran US-WY 43.84365, -110.45401","2025-07-15 11:15",4,43.843646,-110.454006,TRUE,FALSE,TRUE,"S260203574",NA
-"87","rufgro","Ruffed Grouse","Bonasa umbellus","L49854573","Davis Peak Road, Woodland, Washington","2025-07-15 11:05",1,45.9999742,-122.6211014,TRUE,FALSE,TRUE,"S260148021",NA
-"88","rufgro","Ruffed Grouse","Bonasa umbellus","L1797529","Lake Vermilion-Soudan Underground Mine SP","2025-07-15 10:41",1,47.8291914,-92.2064682,TRUE,FALSE,FALSE,"S260169913",NA
-"89","rufgro","Ruffed Grouse","Bonasa umbellus","L49839233","Boyce Hill State Forest","2025-07-15 10:05",1,42.3323142,-78.519913,TRUE,FALSE,TRUE,"S260089875",NA
-"90","rufgro","Ruffed Grouse","Bonasa umbellus","L267349","Capitol Forest","2025-07-15 09:56",1,46.985817,-123.1319046,TRUE,FALSE,FALSE,"S260166958",NA
-"91","rufgro","Ruffed Grouse","Bonasa umbellus","L1772244","Flathead House","2025-07-15 09:20",1,48.1768708,-114.1377721,TRUE,FALSE,TRUE,"S260140503",NA
-"92","rufgro","Ruffed Grouse","Bonasa umbellus","L2319934","North Spencer Marsh, Michigan Hollow Lake (restricted access)","2025-07-15 09:15",1,42.263578,-76.503767,TRUE,FALSE,FALSE,"S260112978",NA
-"93","rufgro","Ruffed Grouse","Bonasa umbellus","L5609656","The Bear Den","2025-07-15 08:54",3,43.8008984,-85.8393252,TRUE,FALSE,TRUE,"S260212349",NA
-"94","rufgro","Ruffed Grouse","Bonasa umbellus","L11172463","Lake Penland","2025-07-15 08:38",1,45.1183435,-119.3148114,TRUE,FALSE,FALSE,"S260108342",NA
-"95","rufgro","Ruffed Grouse","Bonasa umbellus","L49920493","Grand Teton NP--Owl Creek Trail","2025-07-15 08:15",6,43.982604,-110.838877,TRUE,FALSE,TRUE,"S260432961",NA
-"96","rufgro","Ruffed Grouse","Bonasa umbellus","L5087466","Genesee Valley Greenway, Belfast","2025-07-15 08:00",1,42.341317,-78.1249294,TRUE,FALSE,FALSE,"S260071602",NA
-"97","rufgro","Ruffed Grouse","Bonasa umbellus","L1578773","House of the Subtle Sun","2025-07-15 07:00",1,46.3594357,-123.8086088,TRUE,FALSE,TRUE,"S260212766",NA
-"98","rufgro","Ruffed Grouse","Bonasa umbellus","L317294","White Mt. NF--Caps Ridge Trail","2025-07-15 06:55",6,44.2993979,-71.3371989,TRUE,FALSE,FALSE,"S260655406",NA
-"99","rufgro","Ruffed Grouse","Bonasa umbellus","L27799792","Newthaven","2025-07-14 20:10",1,42.3292672,-76.4184855,TRUE,FALSE,TRUE,"S260110473",NA
-"100","rufgro","Ruffed Grouse","Bonasa umbellus","L340679","Grand Teton NP--Leigh & String Lakes","2025-07-14 20:07",1,43.7944172,-110.7262938,TRUE,FALSE,FALSE,"S260916991",NA
-"101","rufgro","Ruffed Grouse","Bonasa umbellus","L13651351","268 Punkinville Rd, Sullivan US-ME 44.52805, -68.16305","2025-07-14 19:58",1,44.528054,-68.163048,TRUE,FALSE,TRUE,"S259958889",NA
-"102","rufgro","Ruffed Grouse","Bonasa umbellus","L49951891","Great Smoky Mountains National Park, Almond US-NC (35.5378,-83.8053) Cades Cove SE","2025-07-14 18:25",6,35.537768,-83.805268,TRUE,FALSE,TRUE,"S260574418",NA
-"103","rufgro","Ruffed Grouse","Bonasa umbellus","L49938134","Cades Cove Se Tapoco, North Carolina, US (35.518, -83.797)","2025-07-14 18:14",1,35.5180559,-83.7971459,TRUE,FALSE,TRUE,"S260513539",NA
-"104","rufgro","Ruffed Grouse","Bonasa umbellus","L49818882","Panther Gorge Lean-to","2025-07-14 18:00",1,44.0940023,-73.9146078,TRUE,FALSE,TRUE,"S259987148",NA
-"105","rufgro","Ruffed Grouse","Bonasa umbellus","L39062723","Nashville Rd, Jericho US-VT","2025-07-14 16:47",1,44.451474,-72.938003,TRUE,FALSE,TRUE,"S260732544",NA
-"106","rufgro","Ruffed Grouse","Bonasa umbellus","L1655264","9N and Baxter Mountain Rd.","2025-07-14 15:14",1,44.2197124,-73.747985,TRUE,FALSE,TRUE,"S259917202",NA
-"107","rufgro","Ruffed Grouse","Bonasa umbellus","L7875369","Gunflint Trail--Moose Viewing Trail","2025-07-14 15:00",1,47.9989409,-90.3573634,TRUE,FALSE,FALSE,"S260095166",NA
-"108","rufgro","Ruffed Grouse","Bonasa umbellus","L49870944","Spur lake","2025-07-14 12:46",1,45.706405,-88.231747,TRUE,FALSE,TRUE,"S260217445",NA
-"109","rufgro","Ruffed Grouse","Bonasa umbellus","L48884557","Fischer Lake (Florence Co)","2025-07-14 12:41",1,45.7262795,-88.1050322,TRUE,FALSE,TRUE,"S259907173",NA
-"110","rufgro","Ruffed Grouse","Bonasa umbellus","L40246304","S.Witham Rd","2025-07-14 12:37",1,44.023674,-70.214823,TRUE,FALSE,TRUE,"S259876187",NA
-"111","rufgro","Ruffed Grouse","Bonasa umbellus","L26855940","Mecawee Rd","2025-07-14 12:21",1,43.56349,-72.624663,TRUE,FALSE,TRUE,"S259931924",NA
-"112","rufgro","Ruffed Grouse","Bonasa umbellus","L1308161","Sauk Mountain Road","2025-07-14 12:20",1,48.5072794,-121.6196823,TRUE,FALSE,FALSE,"S260128117",NA
-"113","rufgro","Ruffed Grouse","Bonasa umbellus","L49921648","Allegheny National Forest, Kane US-PA 41.54220, -78.93425","2025-07-14 11:56",1,41.542201,-78.934254,TRUE,FALSE,TRUE,"S260438166",NA
-"114","rufgro","Ruffed Grouse","Bonasa umbellus","L49806790","9650 Merry Canyon Road, Leavenworth, Washington, US (47.71, -120.588)","2025-07-14 11:53",1,47.7102398,-120.5875944,TRUE,FALSE,TRUE,"S259933409",NA
-"115","rufgro","Ruffed Grouse","Bonasa umbellus","L2183089","Camp","2025-07-14 10:29",1,44.2185082,-69.564743,TRUE,FALSE,TRUE,"S259863464",NA
-"116","rufgro","Ruffed Grouse","Bonasa umbellus","L1144401","Cline Rd., marsh (east)","2025-07-14 09:46",1,43.061062,-74.6492232,TRUE,FALSE,FALSE,"S259855440",NA
-"117","rufgro","Ruffed Grouse","Bonasa umbellus","L212481","Bloomingdale Bog Trail","2025-07-14 09:08",2,44.4128015,-74.121715,TRUE,FALSE,FALSE,"S259857058",NA
-"118","rufgro","Ruffed Grouse","Bonasa umbellus","L46971011","Survey Point Scraggly","2025-07-14 08:43",1,46.237974,-68.715184,TRUE,FALSE,TRUE,"S259950179",NA
-"119","rufgro","Ruffed Grouse","Bonasa umbellus","L49810489","Scraggly Lake Rd, Patten US-ME 46.21625, -68.69274","2025-07-14 08:21",3,46.216251,-68.692738,TRUE,FALSE,TRUE,"S259949999",NA
-"120","rufgro","Ruffed Grouse","Bonasa umbellus","L26953525","Olympic NP--Hoh River Happy Four","2025-07-14 08:17",1,47.869064,-123.835848,TRUE,FALSE,FALSE,"S259992495",NA
-"121","rufgro","Ruffed Grouse","Bonasa umbellus","L18159771","Irvington, south","2025-07-14 08:00",1,44.8345685,-91.9529932,TRUE,FALSE,TRUE,"S259843151",NA
-"122","rufgro","Ruffed Grouse","Bonasa umbellus","L2317642","Janack's Landing trail","2025-07-14 07:57",1,44.1330151,-74.915278,TRUE,FALSE,TRUE,"S259838486",NA
-"123","rufgro","Ruffed Grouse","Bonasa umbellus","L46516979","Upper Dam Road","2025-07-14 07:45",4,44.9010802,-70.877274,TRUE,FALSE,TRUE,"S260647654",NA
-"124","rufgro","Ruffed Grouse","Bonasa umbellus","L7576629","Wayne's Loop Trail","2025-07-14 07:20",1,41.707098,-112.008261,TRUE,FALSE,TRUE,"S259924601",NA
-"125","rufgro","Ruffed Grouse","Bonasa umbellus","L24618700","Rodman-Barnes Corners Trails","2025-07-14 06:21",1,43.819345,-75.853881,TRUE,FALSE,FALSE,"S259816297",NA
-"126","rufgro","Ruffed Grouse","Bonasa umbellus","L49770127","83–93 Matthew Ln, West Gardiner US-ME 44.22131, -69.85532","2025-07-14 05:55",1,44.221308,-69.855319,TRUE,FALSE,TRUE,"S259776358",NA
-"127","rufgro","Ruffed Grouse","Bonasa umbellus","L49799080","Shoshone National Forest (42.5177, -108.8937)","2025-07-14 05:45",1,42.517691,-108.893686,TRUE,FALSE,TRUE,"S259904055",NA
-"128","rufgro","Ruffed Grouse","Bonasa umbellus","L11599323","Burkett Mill Preserve (MCC)","2025-07-14 05:37",1,44.0775878,-69.3275865,TRUE,FALSE,FALSE,"S259835429",NA
-"129","rufgro","Ruffed Grouse","Bonasa umbellus","L2240630","Twisp River Rearing Ponds","2025-07-14 05:24",3,48.3659047,-120.1364422,TRUE,FALSE,FALSE,"S259845162",NA
-"130","rufgro","Ruffed Grouse","Bonasa umbellus","L28789992","Wolf Track Rd","2025-07-13 21:26",4,62.270912,-150.09464,TRUE,FALSE,TRUE,"S259746744",NA
-"131","rufgro","Ruffed Grouse","Bonasa umbellus","L978821","Bridger-Teton NF--Cache Creek Canyon","2025-07-13 19:00",3,43.4650366,-110.7306433,TRUE,FALSE,FALSE,"S259911056",NA
-"132","rufgro","Ruffed Grouse","Bonasa umbellus","L9857203","Carol's Collectibles Nursery","2025-07-13 18:40",4,44.4964135,-68.9767599,TRUE,FALSE,TRUE,"S259776869",NA
-"133","rufgro","Ruffed Grouse","Bonasa umbellus","L17721978","Gamble Sands","2025-07-13 16:50",1,48.0763872,-119.6540308,TRUE,FALSE,FALSE,"S259701055",NA
-"134","rufgro","Ruffed Grouse","Bonasa umbellus","L33191810","381 Roads End Dr, Fleetwood US-NC 36.27928, -81.53141","2025-07-13 16:25",2,36.279278,-81.531406,TRUE,FALSE,TRUE,"S259656505",NA
-"135","rufgro","Ruffed Grouse","Bonasa umbellus","L49759028","Blockhouse Lake Road, Park Falls, Wisconsin, US","2025-07-13 15:56",2,45.9764408,-90.2164392,TRUE,FALSE,TRUE,"S259725453",NA
-"136","rufgro","Ruffed Grouse","Bonasa umbellus","L10541429","Shoshone NF--Louis Lake","2025-07-13 15:00",3,42.59326,-108.8466256,TRUE,FALSE,FALSE,"S259704964",NA
-"137","rufgro","Ruffed Grouse","Bonasa umbellus","L49733252","6311 Quebec, Lowville, New York, US (43.733, -75.57)","2025-07-13 14:20",1,43.7328039,-75.5698082,TRUE,FALSE,TRUE,"S259621119",NA
-"138","rufgro","Ruffed Grouse","Bonasa umbellus","L49737675","Stoney Brook Road, FLT Southeast","2025-07-13 13:56",1,42.7066683,-75.8991282,TRUE,FALSE,TRUE,"S259638041",NA
-"139","rufgro","Ruffed Grouse","Bonasa umbellus","L27631209","Pine Island Road","2025-07-13 13:45",NA,48.2474553,-94.1026127,TRUE,FALSE,TRUE,"S259807854",NA
-"140","rufgro","Ruffed Grouse","Bonasa umbellus","L9706980","Glacier NP--Lake Josephine Trail","2025-07-13 13:35",4,48.7797747,-113.6705744,TRUE,FALSE,FALSE,"S259931756",NA
-"141","rufgro","Ruffed Grouse","Bonasa umbellus","L3807548","October Mountain SF--Washington Mtn. Marsh","2025-07-13 12:54",1,42.3579731,-73.1970415,TRUE,FALSE,FALSE,"S259651005",NA
-"142","rufgro","Ruffed Grouse","Bonasa umbellus","L49723859","Home","2025-07-13 12:35",3,44.062041,-86.381465,TRUE,FALSE,TRUE,"S259590048",NA
-"143","rufgro","Ruffed Grouse","Bonasa umbellus","L49730351","Amherst Mountain community forest","2025-07-13 12:30",1,44.857144,-68.384291,TRUE,FALSE,TRUE,"S259609575",NA
-"144","rufgro","Ruffed Grouse","Bonasa umbellus","L49894996","Fremont-Winema National Forests, Chiloquin US-OR 42.84180, -121.46352","2025-07-13 11:39",1,42.841801,-121.463517,TRUE,FALSE,TRUE,"S260330204",NA
-"145","rufgro","Ruffed Grouse","Bonasa umbellus","L9078407","Vedder Mountain Trail","2025-07-13 11:26",1,48.989872,-122.146671,TRUE,FALSE,FALSE,"S259672485",NA
-"146","rufgro","Ruffed Grouse","Bonasa umbellus","L151752","Itasca SP","2025-07-13 11:14",1,47.1975,-95.202,TRUE,FALSE,FALSE,"S259600217",NA
-"147","rufgro","Ruffed Grouse","Bonasa umbellus","L20218997","Thayer Brook Preserve","2025-07-13 11:02",3,43.889756,-70.366094,TRUE,FALSE,TRUE,"S259619396",NA
-"148","rufgro","Ruffed Grouse","Bonasa umbellus","L49758232","Kaaterskill High Peak","2025-07-13 10:44",1,42.1378124,-74.0911079,TRUE,FALSE,TRUE,"S259722340",NA
-"149","rufgro","Ruffed Grouse","Bonasa umbellus","L1677786","East Branch Rd, camp ten","2025-07-13 10:05",4,44.8825489,-71.6939543,TRUE,FALSE,TRUE,"S259964460",NA
-"150","rufgro","Ruffed Grouse","Bonasa umbellus","L24944311","Hidden Falls Trail","2025-07-13 09:53",1,42.301381,-122.536058,TRUE,FALSE,TRUE,"S259950939",NA
-"151","rufgro","Ruffed Grouse","Bonasa umbellus","L2980099","Hyder (town)","2025-07-13 09:36",5,55.9180932,-130.0272274,TRUE,FALSE,FALSE,"S259602391",NA
-"152","rufgro","Ruffed Grouse","Bonasa umbellus","L45464529","N6788 Tatro Rd, Bruce US-WI 45.53015, -91.29774","2025-07-13 09:08",1,45.530146,-91.297745,TRUE,FALSE,TRUE,"S259555085",NA
-"153","rufgro","Ruffed Grouse","Bonasa umbellus","L49777194","2556 Daaquam Rd, Allagash US-ME 46.59817, -70.01108","2025-07-13 09:02",3,46.598174,-70.011078,TRUE,FALSE,TRUE,"S259810552",NA
-"154","rufgro","Ruffed Grouse","Bonasa umbellus","L49708833","889 US-45, Pelican Lake US-WI (45.5086,-89.1611)","2025-07-13 08:55",1,45.508586,-89.161131,TRUE,FALSE,TRUE,"S259521041",NA
-"155","rufgro","Ruffed Grouse","Bonasa umbellus","L23006411","West Branch Pond Camps","2025-07-13 08:43",1,45.5844421,-69.2905625,TRUE,FALSE,FALSE,"S259525148",NA
-"156","rufgro","Ruffed Grouse","Bonasa umbellus","L40579286","Salmon Creek Road","2025-07-13 08:40",1,48.5034362,-119.7224435,TRUE,FALSE,TRUE,"S259596968",NA
-"157","rufgro","Ruffed Grouse","Bonasa umbellus","L1000261","Sanctuary, Wilber Township, Iosco County","2025-07-13 08:33",1,44.3671906,-83.5215104,TRUE,FALSE,TRUE,"S259514125",NA
-"158","rufgro","Ruffed Grouse","Bonasa umbellus","L30183686","Julian NW Laurel Haven","2025-07-13 07:53",3,40.874594,-77.963337,TRUE,FALSE,TRUE,"S259517339",NA
-"159","rufgro","Ruffed Grouse","Bonasa umbellus","L49805981","Pisgah NF—Roan Mountain Road","2025-07-13 07:14",1,36.100065,-82.128725,TRUE,FALSE,TRUE,"S259930061",NA
-"160","rufgro","Ruffed Grouse","Bonasa umbellus","L49806197","Bridger-Teton NF--Broad Canyon","2025-07-13 07:05",1,42.768329,-110.674719,TRUE,FALSE,TRUE,"S259930882",NA
-"161","rufgro","Ruffed Grouse","Bonasa umbellus","L4102336","State Game Lands 235--Horse Valley Rd.","2025-07-13 06:57",1,39.9774766,-77.8587753,TRUE,FALSE,FALSE,"S259543375",NA
-"162","rufgro","Ruffed Grouse","Bonasa umbellus","L49727283","Escarpment Trail, Stoppel Point","2025-07-13 06:57",6,42.225142,-74.064253,TRUE,FALSE,TRUE,"S259597618",NA
-"163","rufgro","Ruffed Grouse","Bonasa umbellus","L26380208","K-M Scout Ranch","2025-07-13 05:34",1,47.2693994,-109.4676948,TRUE,FALSE,TRUE,"S259535823",NA
-"164","rufgro","Ruffed Grouse","Bonasa umbellus","L20514972","Merrill Lake Property","2025-07-13 05:22",1,46.082163,-122.3191679,TRUE,FALSE,TRUE,"S259505369",NA
-"165","rufgro","Ruffed Grouse","Bonasa umbellus","L25986873","Onion Valley Reservoir","2025-07-13 05:00",1,41.6911298,-118.7457407,TRUE,FALSE,FALSE,"S259932163","N"
-"166","rufgro","Ruffed Grouse","Bonasa umbellus","L49410547","Soderberg Lane (private)","2025-07-12 20:15",1,48.071039,-90.543113,TRUE,FALSE,TRUE,"S259363265",NA
-"167","rufgro","Ruffed Grouse","Bonasa umbellus","L32296139","Landfill Rd, Chestertown US-NY 43.69175, -73.81877","2025-07-12 19:53",1,43.691748,-73.818774,TRUE,FALSE,TRUE,"S259342193",NA
-"168","rufgro","Ruffed Grouse","Bonasa umbellus","L49677518","Old Tower Rd","2025-07-12 19:27",1,43.823278,-85.937987,TRUE,FALSE,TRUE,"S259374017",NA
-"169","rufgro","Ruffed Grouse","Bonasa umbellus","L49760210","Forest Service Road 28, Idleyld Park US-OR 43.16002, -122.50227","2025-07-12 18:42",2,43.16002,-122.502266,TRUE,FALSE,TRUE,"S259730141",NA
-"170","rufgro","Ruffed Grouse","Bonasa umbellus","L49798109","Summit Trailhead","2025-07-12 17:41",2,40.430853,-111.613767,TRUE,FALSE,TRUE,"S259900304",NA
-"171","rufgro","Ruffed Grouse","Bonasa umbellus","L49662335","Hike round lake to dix","2025-07-12 17:14",1,44.092931,-73.787363,TRUE,FALSE,TRUE,"S259314780",NA
-"172","rufgro","Ruffed Grouse","Bonasa umbellus","L49659303","3185–3471 Stone Dam Rd, Island Pond US-VT 44.83131, -71.73277","2025-07-12 16:54",4,44.831315,-71.732774,TRUE,FALSE,TRUE,"S259303360",NA
-"173","rufgro","Ruffed Grouse","Bonasa umbellus","L49663942","31840 Pansy Landing Road, Danbury, Wisconsin, US (46.066, -92.314)","2025-07-12 16:35",3,46.0664748,-92.3138303,TRUE,FALSE,TRUE,"S259320943",NA
-"174","rufgro","Ruffed Grouse","Bonasa umbellus","L49665307","485 Bull Hill Rd, Franklin US-ME 44.69492, -68.12942","2025-07-12 15:58",3,44.694923,-68.12942,TRUE,FALSE,TRUE,"S259326427",NA
-"175","rufgro","Ruffed Grouse","Bonasa umbellus","L1540959","Harding Lake SRA","2025-07-12 15:00",1,64.4372264,-146.8775201,TRUE,FALSE,FALSE,"S259404554",NA
-"176","rufgro","Ruffed Grouse","Bonasa umbellus","L474087","Silvio O. Conte NWR--Peanut Dam Road","2025-07-12 14:06",NA,44.8275999,-71.7149949,TRUE,FALSE,FALSE,"S259533063",NA
-"177","rufgro","Ruffed Grouse","Bonasa umbellus","L165372","Silvio O. Conte NWR--Yellow Bogs","2025-07-12 14:04",4,44.8203,-71.7319,TRUE,FALSE,FALSE,"S259320334",NA
-"178","rufgro","Ruffed Grouse","Bonasa umbellus","L49676735","3185–3471 Stone Dam Rd, Island Pond US-VT 44.82665, -71.72693","2025-07-12 14:02",5,44.826655,-71.726933,TRUE,FALSE,TRUE,"S259371402",NA
-"179","rufgro","Ruffed Grouse","Bonasa umbellus","L49666029","Sandwich Range Wilderness","2025-07-12 13:46",1,43.8839399,-71.5142713,TRUE,FALSE,TRUE,"S259329381",NA
-"180","rufgro","Ruffed Grouse","Bonasa umbellus","L35689258","Honeysuckle Campground","2025-07-12 13:20",1,47.7396408,-116.4752054,TRUE,FALSE,FALSE,"S260455520",NA
-"181","rufgro","Ruffed Grouse","Bonasa umbellus","L12165065","Denali Hwy.--Delta Wild & Scenic River Wayside","2025-07-12 12:38",1,63.0455583,-146.0188615,TRUE,FALSE,FALSE,"S259342778",NA
-"182","rufgro","Ruffed Grouse","Bonasa umbellus","L1487917","High Peaks Golf Course","2025-07-12 12:30",1,43.9624837,-74.0994193,TRUE,FALSE,FALSE,"S259228663",NA
-"183","rufgro","Ruffed Grouse","Bonasa umbellus","L332397","Silvio O. Conte NWR--Stone Dam Road","2025-07-12 12:20",1,44.7984367,-71.7002244,TRUE,FALSE,FALSE,"S259342693",NA
-"184","rufgro","Ruffed Grouse","Bonasa umbellus","L49675797","ALC - Pico Lake Trail","2025-07-12 12:17",1,43.656665,-74.87095,TRUE,FALSE,TRUE,"S259367981",NA
-"185","rufgro","Ruffed Grouse","Bonasa umbellus","L1223571","Diamondfield Jack Campground and Picnic Area","2025-07-12 12:12",3,42.1713873,-114.279356,TRUE,FALSE,FALSE,"S259369358",NA
-"186","rufgro","Ruffed Grouse","Bonasa umbellus","L49705818","5310 E Twin Lake Rd, Rose City US-MI (44.5283,-84.1433)","2025-07-12 11:30",1,44.528316,-84.143314,TRUE,FALSE,TRUE,"S259505942",NA
-"187","rufgro","Ruffed Grouse","Bonasa umbellus","L1152814","Frontenac SP","2025-07-12 11:19",1,44.5294182,-92.347388,TRUE,FALSE,FALSE,"S259278124",NA
-"188","rufgro","Ruffed Grouse","Bonasa umbellus","L9660609","Tenmile Environmental Trail #375","2025-07-12 11:17",5,46.5342846,-112.2487371,TRUE,FALSE,FALSE,"S259302457",NA
-"189","rufgro","Ruffed Grouse","Bonasa umbellus","L49647557","Seney NWR Drive","2025-07-12 11:16",1,46.266298,-85.970737,TRUE,FALSE,TRUE,"S259283691",NA
-"190","rufgro","Ruffed Grouse","Bonasa umbellus","L49662199","Catherine Creek, FS 2113, Curlew, Washington, US (48.965, -118.707)","2025-07-12 10:38",7,48.9649167,-118.7065317,TRUE,FALSE,TRUE,"S259314163",NA
-"191","rufgro","Ruffed Grouse","Bonasa umbellus","L49761984","Otter and Goose Lake Trail","2025-07-12 10:08",1,44.7249533,-111.5939801,TRUE,FALSE,TRUE,"S259737718",NA
-"192","rufgro","Ruffed Grouse","Bonasa umbellus","L49643544","Loves Valley Rd, Aughwick CW south Shirleysburg US-PA )","2025-07-12 10:02",1,40.297425,-77.847998,TRUE,FALSE,TRUE,"S259247946",NA
-"193","rufgro","Ruffed Grouse","Bonasa umbellus","L14979327","Grand Lake Reserve--Parking Lot Area 2","2025-07-12 10:00",1,44.3305104,-75.7409942,TRUE,FALSE,FALSE,"S259291160",NA
-"194","rufgro","Ruffed Grouse","Bonasa umbellus","L49785991","Sweetwater Guard Station Campground","2025-07-12 10:00",1,42.561446,-109.061517,TRUE,FALSE,TRUE,"S259852011",NA
-"195","rufgro","Ruffed Grouse","Bonasa umbellus","L49647117","Dry Creek Road, Oakley, Idaho, US (42.169, -114.159)","2025-07-12 09:54",2,42.1692379,-114.1587671,TRUE,FALSE,TRUE,"S259260452",NA
-"196","rufgro","Ruffed Grouse","Bonasa umbellus","L49628188","10828 Cedar Crest Trail, Bitely, Michigan, US (43.749, -85.825)","2025-07-12 09:02",1,43.7493413,-85.825226,TRUE,FALSE,TRUE,"S259190751",NA
-"197","rufgro","Ruffed Grouse","Bonasa umbellus","L49649439","Interstate 89 South, Williamstown, Vermont, US (44.152, -72.59)","2025-07-12 08:42",1,44.15205,-72.5904233,TRUE,FALSE,TRUE,"S259268531",NA
-"198","rufgro","Ruffed Grouse","Bonasa umbellus","L49634004","National Forest Development Road 1711, Mount Hood, Oregon, US (45.506, -121.493)","2025-07-12 08:31",1,45.5062947,-121.4927133,TRUE,FALSE,TRUE,"S259213826",NA
-"199","rufgro","Ruffed Grouse","Bonasa umbellus","L2233053","Shindagin Hollow SF--Shindagin Hollow Rd.","2025-07-12 08:16",1,42.3338153,-76.3400674,TRUE,FALSE,FALSE,"S259329365",NA
-"200","rufgro","Ruffed Grouse","Bonasa umbellus","L463361","Monongahela NF--Cranberry Glades Botanical Area","2025-07-12 08:00",1,38.2043972,-80.266242,TRUE,FALSE,FALSE,"S260181360",NA
-"201","rufgro","Ruffed Grouse","Bonasa umbellus","L268947","Klipchuck Campground","2025-07-12 08:00",8,48.5977247,-120.5143547,TRUE,FALSE,FALSE,"S260396677",NA
-"202","rufgro","Ruffed Grouse","Bonasa umbellus","L5788110","Yellowstone NP--Heart Lake and vicinity","2025-07-12 07:46",9,44.2873016,-110.5007458,TRUE,FALSE,FALSE,"S259663180",NA
-"203","rufgro","Ruffed Grouse","Bonasa umbellus","L49641082","Swimming Dam Reclamation Trail—Coal Run/south of road","2025-07-12 07:44",4,41.656232,-76.626263,TRUE,FALSE,TRUE,"S259239368",NA
-"204","rufgro","Ruffed Grouse","Bonasa umbellus","L1501142","Allegheny NF--Timberdoodle Flats","2025-07-12 07:10",2,41.8555011,-78.775143,TRUE,FALSE,FALSE,"S259168731",NA
-"205","rufgro","Ruffed Grouse","Bonasa umbellus","L987533","Sturgeon River Sloughs WA (South Unit)","2025-07-12 07:07",2,46.9318616,-88.4885216,TRUE,FALSE,FALSE,"S259348827",NA
-"206","rufgro","Ruffed Grouse","Bonasa umbellus","L49656730","Katahdin View Drive, LONG A Township, Maine, US (45.719, -68.815)","2025-07-12 07:06",4,45.7192668,-68.8150332,TRUE,FALSE,TRUE,"S259294466",NA
-"207","rufgro","Ruffed Grouse","Bonasa umbellus","L4623168","Leonard Pond bog road","2025-07-12 06:35",2,44.3279957,-74.7406206,TRUE,FALSE,FALSE,"S259224732",NA
-"208","rufgro","Ruffed Grouse","Bonasa umbellus","L9524371","Dixville Turbines to Rt. 26 via West Branch Clear Stream Rd.","2025-07-12 06:25",3,44.8151252,-71.3066852,TRUE,FALSE,FALSE,"S259365170",NA
-"209","rufgro","Ruffed Grouse","Bonasa umbellus","L17399608","Allagash Wilderness Waterway--Long Lake","2025-07-12 06:05",2,46.6516154,-69.3776934,TRUE,FALSE,FALSE,"S260152342",NA
-"210","rufgro","Ruffed Grouse","Bonasa umbellus","L3359197","207 Stoller Hill Rd","2025-07-12 06:00",1,42.7034192,-75.0299799,TRUE,FALSE,TRUE,"S259164015",NA
-"211","rufgro","Ruffed Grouse","Bonasa umbellus","L46332737","Granite Creek - Highline Trailhead Area","2025-07-12 05:30",7,43.348395,-110.441087,TRUE,FALSE,TRUE,"S259568047",NA
-"212","rufgro","Ruffed Grouse","Bonasa umbellus","L1187678","Scott Bog Rd., Pittsburg","2025-07-12 04:56",1,45.1902035,-71.1714935,TRUE,FALSE,FALSE,"S259519878",NA
-"213","rufgro","Ruffed Grouse","Bonasa umbellus","L7809930","Earlville Reservoir","2025-07-12 04:45",1,42.7489724,-75.5062703,TRUE,FALSE,TRUE,"S259612524",NA
-"214","rufgro","Ruffed Grouse","Bonasa umbellus","L24123929","🏡","2025-07-12",NA,44.277838,-71.692483,TRUE,FALSE,TRUE,"S259298303",NA
-"215","rufgro","Ruffed Grouse","Bonasa umbellus","L3000886","Hidden Vista","2025-07-11 22:51",1,43.641773,-111.593278,TRUE,FALSE,FALSE,"S259268757",NA
-"216","rufgro","Ruffed Grouse","Bonasa umbellus","L49759439","BMWC S Fork Sun #17 camp, US-MT 47.56323, -112.91826","2025-07-11 19:55",3,47.563234,-112.918264,TRUE,FALSE,TRUE,"S259727121",NA
-"217","rufgro","Ruffed Grouse","Bonasa umbellus","L35525878","04574, Washington US-ME 44.29534, -69.35940","2025-07-11 19:54",6,44.295342,-69.359402,TRUE,FALSE,TRUE,"S259023784",NA
-"218","rufgro","Ruffed Grouse","Bonasa umbellus","L49588520","401–443 Magee Rd S, Boyne Falls US-MI 45.19184, -84.74356","2025-07-11 18:53",1,45.191838,-84.743555,TRUE,FALSE,TRUE,"S259016096",NA
-"219","rufgro","Ruffed Grouse","Bonasa umbellus","L25749980","Fontinalis Club","2025-07-11 15:14",1,45.162461,-84.589429,TRUE,FALSE,TRUE,"S259041558",NA
-"220","rufgro","Ruffed Grouse","Bonasa umbellus","L340561","Great Wass Island Preserve (TNC)","2025-07-11 14:50",1,44.4810829,-67.5946712,TRUE,FALSE,FALSE,"S259726300",NA
-"221","rufgro","Ruffed Grouse","Bonasa umbellus","L49576969","5993–6241 Lax Lake Rd, Silver Bay US-MN 47.37375, -91.26849","2025-07-11 14:27",9,47.373749,-91.268493,TRUE,FALSE,TRUE,"S258970296",NA
-"222","rufgro","Ruffed Grouse","Bonasa umbellus","L49583551","Little Susitna Public Access Area","2025-07-11 13:51",1,61.4288779,-149.9533097,TRUE,FALSE,TRUE,"S258995958",NA
-"223","rufgro","Ruffed Grouse","Bonasa umbellus","L1352789","Waters Landfill (restricted access)","2025-07-11 13:29",3,44.8509309,-84.68271,TRUE,FALSE,FALSE,"S258949358",NA
-"224","rufgro","Ruffed Grouse","Bonasa umbellus","L1811900","Tahquamenon Falls SP--Upper Falls","2025-07-11 12:10",1,46.5785478,-85.253135,TRUE,FALSE,FALSE,"S258935502",NA
-"225","rufgro","Ruffed Grouse","Bonasa umbellus","L49673052","Tioga State Forest--Old Possessions Road Trail #3","2025-07-11 12:08",1,41.729131,-76.9268378,TRUE,FALSE,TRUE,"S259357662",NA
-"226","rufgro","Ruffed Grouse","Bonasa umbellus","L49710019","Indian Creek airstrip camp","2025-07-11 11:30",2,44.7636288,-115.101373,TRUE,FALSE,TRUE,"S259531329",NA
-"227","rufgro","Ruffed Grouse","Bonasa umbellus","L49673247","Tioga State Forest--Old Possessions Road Trail #2","2025-07-11 11:24",1,41.7288535,-76.9393758,TRUE,FALSE,TRUE,"S259358428",NA
-"228","rufgro","Ruffed Grouse","Bonasa umbellus","L6094796","Sunlight Wildlife Habitat Management Area","2025-07-11 10:44",5,44.7462334,-109.5026808,TRUE,FALSE,FALSE,"S258936754",NA
-"229","rufgro","Ruffed Grouse","Bonasa umbellus","L49672429","20","2025-07-11 10:37",7,46.870582,-90.824828,TRUE,FALSE,TRUE,"S259355272",NA
-"230","rufgro","Ruffed Grouse","Bonasa umbellus","L12567260","Balsam Lake Mountain Wild Forest--Balsam Mountain","2025-07-11 10:36",1,42.0458697,-74.5944209,TRUE,FALSE,FALSE,"S258951124",NA
-"231","rufgro","Ruffed Grouse","Bonasa umbellus","L6080376","Six Mile Basin Ecological Area","2025-07-11 09:57",1,46.301006,-116.128715,TRUE,FALSE,FALSE,"S259020708",NA
-"232","rufgro","Ruffed Grouse","Bonasa umbellus","L24954989","20 Jack Pine. Jackson, Wyoming","2025-07-11 09:18",1,43.323256,-110.436701,TRUE,FALSE,TRUE,"S259056993",NA
-"233","rufgro","Ruffed Grouse","Bonasa umbellus","L49759222","Buckskin Ridge Trail to Silver Lake, Okanogan, US-WA","2025-07-11 09:16",3,48.759429,-120.656001,TRUE,FALSE,TRUE,"S259726340",NA
-"234","rufgro","Ruffed Grouse","Bonasa umbellus","L11836897","Dorset Peak","2025-07-11 09:15",3,43.28503,-73.047702,TRUE,FALSE,FALSE,"S258936166",NA
-"235","rufgro","Ruffed Grouse","Bonasa umbellus","L49592671","Continental Divide National Scenic Trail, Yellowstone National Park US-WY 44.35556, -110.66477","2025-07-11 09:03",1,44.35556,-110.664772,TRUE,FALSE,TRUE,"S259033559",NA
-"236","rufgro","Ruffed Grouse","Bonasa umbellus","L241872","Sax-Zim Bog","2025-07-11 07:53",1,47.2212004,-92.7009201,TRUE,FALSE,FALSE,"S258986672",NA
-"237","rufgro","Ruffed Grouse","Bonasa umbellus","L737696","Comstock Point (Private)","2025-07-11 07:30",2,44.885401,-67.0213223,TRUE,FALSE,TRUE,"S258915691",NA
-"238","rufgro","Ruffed Grouse","Bonasa umbellus","L49558183","Arrowhead Trail, East Cook, Minnesota, US (47.919, -89.955)","2025-07-11 07:21",NA,47.9185695,-89.9554396,TRUE,FALSE,TRUE,"S258897346",NA
-"239","rufgro","Ruffed Grouse","Bonasa umbellus","L9806834","Home - North","2025-07-11 07:20",3,45.735985,-91.649003,TRUE,FALSE,TRUE,"S258882056",NA
-"240","rufgro","Ruffed Grouse","Bonasa umbellus","L24475796","Halifax Road - Gems","2025-07-11 07:05",5,46.564592,-85.318459,TRUE,FALSE,TRUE,"S258925596",NA
-"241","rufgro","Ruffed Grouse","Bonasa umbellus","L5693633","Dungeness Fish Hatchery","2025-07-11 06:59",1,48.0280211,-123.1409025,TRUE,FALSE,FALSE,"S258939505",NA
-"242","rufgro","Ruffed Grouse","Bonasa umbellus","L2611596","18 Mikalson Rd Home","2025-07-11 06:45",1,48.7393448,-118.1552956,TRUE,FALSE,TRUE,"S260543985",NA
-"243","rufgro","Ruffed Grouse","Bonasa umbellus","L4822808","Moose-Willow WMA","2025-07-11 06:33",4,46.9576149,-93.5328555,TRUE,FALSE,FALSE,"S258898259",NA
-"244","rufgro","Ruffed Grouse","Bonasa umbellus","L14939347","The Adirondack Park, Indian Lake US-NY 43.77278, -74.12449","2025-07-11 06:31",1,43.772784,-74.124489,TRUE,FALSE,TRUE,"S258851697",NA
-"245","rufgro","Ruffed Grouse","Bonasa umbellus","L30428649","Sproul SF--Penrose Road in atlas block 48C24","2025-07-11 06:25",1,41.1943012,-77.7903483,TRUE,FALSE,TRUE,"S258929226",NA
-"246","rufgro","Ruffed Grouse","Bonasa umbellus","L11642445","Joseph Cabin","2025-07-11 05:52",1,45.3087599,-117.2354768,TRUE,FALSE,TRUE,"S258869343",NA
-"247","rufgro","Ruffed Grouse","Bonasa umbellus","L6018504","Malheur NF--Tin Can Spring","2025-07-11 05:24",7,43.9347112,-118.8373893,TRUE,TRUE,FALSE,"S259011176",NA
-"248","rufgro","Ruffed Grouse","Bonasa umbellus","L46756081","Corral Road, West Glacier, Montana, US (48.519, -114.001)","2025-07-11 05:17",NA,48.5191618,-114.0014546,TRUE,FALSE,TRUE,"S260411338",NA
-"249","rufgro","Ruffed Grouse","Bonasa umbellus","L49697520","Fox River Campsite","2025-07-10 21:30",1,46.3920043,-86.006765,TRUE,FALSE,TRUE,"S259486615",NA
-"250","rufgro","Ruffed Grouse","Bonasa umbellus","L24811802","18050 Cross Road, Watertown, New York, US (43.929, -75.802)home","2025-07-10 18:45",1,43.9289654,-75.8024006,TRUE,FALSE,TRUE,"S258762964",NA
-"251","rufgro","Ruffed Grouse","Bonasa umbellus","L49593968","04739, Eagle Lake US-ME 47.00279, -68.94733","2025-07-10 18:06",1,47.002795,-68.947332,TRUE,FALSE,TRUE,"S259038472",NA
-"252","rufgro","Ruffed Grouse","Bonasa umbellus","L49593958","04739, Eagle Lake US-ME 46.99913, -68.91552","2025-07-10 17:54",2,46.999132,-68.915518,TRUE,FALSE,TRUE,"S259038443",NA
-"253","rufgro","Ruffed Grouse","Bonasa umbellus","L2240924","Luzerne Boardwalk","2025-07-10 17:51",1,44.6036555,-84.2633116,TRUE,FALSE,FALSE,"S258735266",NA
-"254","rufgro","Ruffed Grouse","Bonasa umbellus","L2034781","Maple Avenue Farms","2025-07-10 16:55",1,42.7557098,-75.5183887,TRUE,FALSE,TRUE,"S258760633",NA
-"255","rufgro","Ruffed Grouse","Bonasa umbellus","L49527456","Two Oceans Lake Rd--Big Thicket","2025-07-10 15:00",2,43.8815885,-110.4952016,TRUE,FALSE,TRUE,"S258754498",NA
-"256","rufgro","Ruffed Grouse","Bonasa umbellus","L49528925","647 Eagle's Nest Road, Lewis, Vermont, US (44.84, -71.752)","2025-07-10 13:37",2,44.8403095,-71.7521735,TRUE,FALSE,TRUE,"S258759336",NA
-"257","rufgro","Ruffed Grouse","Bonasa umbellus","L6049435","Miller Peninsula State Park","2025-07-10 13:34",1,48.0659673,-122.945947,TRUE,FALSE,FALSE,"S258730581",NA
-"258","rufgro","Ruffed Grouse","Bonasa umbellus","L49516840","Home Gulch Campground, 15906–15998 Sun Canyon Rd, Augusta US-MT 47.61521, -112.72254","2025-07-10 13:20",1,47.615211,-112.722539,TRUE,FALSE,TRUE,"S258707164",NA
-"259","rufgro","Ruffed Grouse","Bonasa umbellus","L49510383","Stud Mill Road, Cherryfield, Maine, US (44.988, -68.07)","2025-07-10 12:58",1,44.9877679,-68.0698969,TRUE,FALSE,TRUE,"S258682137",NA
-"260","rufgro","Ruffed Grouse","Bonasa umbellus","L19114032","Elwha River--Madison Falls Trailhead","2025-07-10 12:55",2,48.0430693,-123.5913821,TRUE,FALSE,FALSE,"S258724744",NA
-"261","rufgro","Ruffed Grouse","Bonasa umbellus","L11139905","University of Idaho Experimental Forest—Flat Creek Unit","2025-07-10 12:12",1,46.8488632,-116.7320185,TRUE,FALSE,FALSE,"S258694683",NA
-"262","rufgro","Ruffed Grouse","Bonasa umbellus","L49507425","Lolo National Forest, Alberton US-MT (46.9408,-114.5086)","2025-07-10 11:27",2,46.94078,-114.508561,TRUE,FALSE,TRUE,"S258670802",NA
-"263","rufgro","Ruffed Grouse","Bonasa umbellus","L49507459","I-90 E, Huson US-MT 47.01515, -114.40670","2025-07-10 11:26",1,47.01515,-114.406704,TRUE,FALSE,TRUE,"S258670932",NA
-"264","rufgro","Ruffed Grouse","Bonasa umbellus","L49967552","Wheeler Property Assessment","2025-07-10 11:07",1,44.50362,-72.85193,TRUE,FALSE,TRUE,"S260633378",NA
-"265","rufgro","Ruffed Grouse","Bonasa umbellus","L159573","Baskett Slough NWR","2025-07-10 10:52",1,44.9614021,-123.257246,TRUE,FALSE,FALSE,"S258678473",NA
-"266","rufgro","Ruffed Grouse","Bonasa umbellus","L4065083","Rattlesnake NRA--Main Rattlesnake Creek Trails","2025-07-10 10:36",1,46.9410148,-113.9563537,TRUE,FALSE,FALSE,"S258774025",NA
-"267","rufgro","Ruffed Grouse","Bonasa umbellus","L1092889","Indian Stream Road, Pittsburg","2025-07-10 10:09",1,45.1471186,-71.3553429,TRUE,FALSE,TRUE,"S258727554",NA
-"268","rufgro","Ruffed Grouse","Bonasa umbellus","L49592533","Moshannon State Forest","2025-07-10 10:04",2,40.9092353,-78.0315827,TRUE,FALSE,TRUE,"S259032990",NA
-"269","rufgro","Ruffed Grouse","Bonasa umbellus","L27884454","Roaring Spring CE","2025-07-10 10:00",1,40.3125,-78.40625,TRUE,FALSE,TRUE,"S258922004",NA
-"270","rufgro","Ruffed Grouse","Bonasa umbellus","L49625050","Mission Falls Trail, Saint Ignatius, Montana, US (47.321, -113.986)","2025-07-10 09:47",1,47.3208388,-113.9862489,TRUE,FALSE,TRUE,"S259177089",NA
-"271","rufgro","Ruffed Grouse","Bonasa umbellus","L2908587","Allegheny NF--Meade Run Area","2025-07-10 09:26",2,41.736274,-78.7109127,TRUE,FALSE,FALSE,"S258658961",NA
-"272","rufgro","Ruffed Grouse","Bonasa umbellus","L49492170","Nutting Rd, Sunapee","2025-07-10 09:22",3,43.342402,-72.118503,TRUE,FALSE,TRUE,"S258606899",NA
-"273","rufgro","Ruffed Grouse","Bonasa umbellus","L9608533","Vermilion Gorge Trail","2025-07-10 08:46",1,48.2733142,-92.5117027,TRUE,FALSE,FALSE,"S258633622",NA
-"274","rufgro","Ruffed Grouse","Bonasa umbellus","L11770294","Hwy 242, Burn area","2025-07-10 08:44",1,44.191917,-121.88428,TRUE,FALSE,TRUE,"S258717475",NA
-"275","rufgro","Ruffed Grouse","Bonasa umbellus","L49516967","44.29129_-123.61205","2025-07-10 08:16",1,44.29129,-123.61205,TRUE,FALSE,TRUE,"S258707645",NA
-"276","rufgro","Ruffed Grouse","Bonasa umbellus","L49506915","Margaret Lake","2025-07-10 07:57",1,45.7141115,-89.1160231,TRUE,FALSE,TRUE,"S258669515",NA
-"277","rufgro","Ruffed Grouse","Bonasa umbellus","L4529991","Tahquamenon Falls Rivermouth SP","2025-07-10 07:56",1,46.5595123,-85.0375971,TRUE,FALSE,FALSE,"S258620448",NA
-"278","rufgro","Ruffed Grouse","Bonasa umbellus","L26207334","Upper Cold River Road, Shrewsbury, Vermont, US (43.562, -72.911)","2025-07-10 07:54",1,43.5623447,-72.9107367,TRUE,FALSE,TRUE,"S258677684",NA
-"279","rufgro","Ruffed Grouse","Bonasa umbellus","L19548533","FR 329 Swamp","2025-07-10 07:25",NA,47.801034,-90.561028,TRUE,FALSE,TRUE,"S258663245",NA
-"280","rufgro","Ruffed Grouse","Bonasa umbellus","L1621649","Kildare Road (aka Willis Pond Road)","2025-07-10 07:15",2,44.2577753,-74.4975299,TRUE,FALSE,TRUE,"S258688581",NA
-"281","rufgro","Ruffed Grouse","Bonasa umbellus","L2611428","Apostle Islands NL--Long Island","2025-07-10 06:45",1,46.7304602,-90.7957071,TRUE,FALSE,FALSE,"S258639286",NA
-"282","rufgro","Ruffed Grouse","Bonasa umbellus","L710366","Wood River Day Use Area","2025-07-10 06:12",1,42.7085517,-121.9906425,TRUE,FALSE,FALSE,"S258655952",NA
-"283","rufgro","Ruffed Grouse","Bonasa umbellus","L49361381","702 Surry Rd, Surry US-ME 44.48539, -68.44600","2025-07-10 06:08",2,44.485392,-68.446001,TRUE,FALSE,TRUE,"S258619145",NA
-"284","rufgro","Ruffed Grouse","Bonasa umbellus","L746575","Birdtrack Springs","2025-07-10 05:46",5,45.3001731,-118.3122611,TRUE,FALSE,FALSE,"S258630110",NA
-"285","rufgro","Ruffed Grouse","Bonasa umbellus","L3859945","Deck","2025-07-10 05:43",1,45.737281,-91.653305,TRUE,FALSE,TRUE,"S258584411",NA
-"286","rufgro","Ruffed Grouse","Bonasa umbellus","L3609579","FR195 alder swamp (5)","2025-07-09 21:13",1,46.1733454,-90.8820176,TRUE,FALSE,TRUE,"S258510026",NA
-"287","rufgro","Ruffed Grouse","Bonasa umbellus","L977136","North Woods Club Rd., Boreas River Tracks","2025-07-09 21:12",3,43.8218332,-74.0639877,TRUE,FALSE,FALSE,"S259984782",NA
-"288","rufgro","Ruffed Grouse","Bonasa umbellus","L368385","Trail's End at Sea Gull Lake","2025-07-09 19:42",7,48.1573259,-90.8944416,TRUE,FALSE,FALSE,"S258679363",NA
-"289","rufgro","Ruffed Grouse","Bonasa umbellus","L49593940","1884–2090 Main St, Saint Francis US-ME 47.11570, -68.93516","2025-07-09 18:13",3,47.1157,-68.935157,TRUE,FALSE,TRUE,"S259038356",NA
-"290","rufgro","Ruffed Grouse","Bonasa umbellus","L571452","Owen Sowerwine Natural Area","2025-07-09 15:15",1,48.1864326,-114.2767167,TRUE,FALSE,FALSE,"S258662129",NA
-"291","rufgro","Ruffed Grouse","Bonasa umbellus","L49471882","Schueler WMA North Central","2025-07-09 14:55",1,43.8495875,-91.7861319,TRUE,FALSE,TRUE,"S258510083",NA
-"292","rufgro","Ruffed Grouse","Bonasa umbellus","L49497797","Forest Road 30416, Montpelier, Idaho, US (42.37, -111.555)","2025-07-09 14:53",1,42.3696767,-111.5551233,TRUE,FALSE,TRUE,"S258633085",NA
-"293","rufgro","Ruffed Grouse","Bonasa umbellus","L4587405","Cranberry Farm","2025-07-09 14:05",1,46.7669258,-85.0091425,TRUE,FALSE,FALSE,"S258647420",NA
-"294","rufgro","Ruffed Grouse","Bonasa umbellus","L49473812","Logging Road, Millinocket, Maine, US (45.874, -68.695)","2025-07-09 14:04",1,45.8742946,-68.6954022,TRUE,FALSE,TRUE,"S258518120",NA
-"295","rufgro","Ruffed Grouse","Bonasa umbellus","L34534305","2938F 24th Ave, Rice Lake US-WI 45.56817, -91.55612","2025-07-09 13:52",1,45.568169,-91.556123,TRUE,FALSE,TRUE,"S258614214",NA
-"296","rufgro","Ruffed Grouse","Bonasa umbellus","L49468214","County Highway South, Hayward, Wisconsin, US (46.053, -91.08)","2025-07-09 13:00",1,46.0532002,-91.0797631,TRUE,FALSE,TRUE,"S258494401",NA
-"297","rufgro","Ruffed Grouse","Bonasa umbellus","L33483655","Mom’s House","2025-07-09 12:40",1,44.688231,-91.554724,TRUE,FALSE,TRUE,"S258408408",NA
-"298","rufgro","Ruffed Grouse","Bonasa umbellus","L957456","Kootenai NWR--Cascade Overlook","2025-07-09 11:46",1,48.7316177,-116.416111,TRUE,FALSE,FALSE,"S260101938",NA
-"299","rufgro","Ruffed Grouse","Bonasa umbellus","L4696396","Petit Manan NWR--Birch Point Trail","2025-07-09 11:29",1,44.4436158,-67.8994775,TRUE,FALSE,FALSE,"S258479726",NA
-"300","rufgro","Ruffed Grouse","Bonasa umbellus","L49441841","Sent NWR fishermen’s route","2025-07-09 11:25",1,46.286843,-85.946503,TRUE,FALSE,TRUE,"S258390682",NA
-"301","rufgro","Ruffed Grouse","Bonasa umbellus","L667377","Sax-Zim Bog--Owl Ave. feeding station","2025-07-09 11:03",5,47.1528654,-92.7162409,TRUE,FALSE,FALSE,"S258472022",NA
-"302","rufgro","Ruffed Grouse","Bonasa umbellus","L3761024","Hog Creek","2025-07-09 10:42",1,47.8066918,-91.1006713,TRUE,FALSE,FALSE,"S259478632",NA
-"303","rufgro","Ruffed Grouse","Bonasa umbellus","L41259541","Itasca SP--Dr. Roberts Trail","2025-07-09 10:32",1,47.1924028,-95.1725489,TRUE,FALSE,FALSE,"S258438321",NA
-"304","rufgro","Ruffed Grouse","Bonasa umbellus","L1167687","Bear Head Lake SP","2025-07-09 09:00",1,47.7945047,-92.0787656,TRUE,FALSE,FALSE,"S258911400",NA
-"305","rufgro","Ruffed Grouse","Bonasa umbellus","L49438565","9301–9673 Mount Ashland Ski Rd, Ashland US-OR 42.07002, -122.61453","2025-07-09 08:38",1,42.070022,-122.614527,TRUE,FALSE,TRUE,"S258377819",NA
-"306","rufgro","Ruffed Grouse","Bonasa umbellus","L1558270","Tug Hill WMA","2025-07-09 08:30",1,43.7083017,-75.6555182,TRUE,FALSE,FALSE,"S258566981",NA
-"307","rufgro","Ruffed Grouse","Bonasa umbellus","L49470252","Armstrong Mountain and Area, Keene Valley US-NY","2025-07-09 08:22",1,44.134255,-73.849489,TRUE,FALSE,TRUE,"S258503204",NA
-"308","rufgro","Ruffed Grouse","Bonasa umbellus","L49429126","BP, Lake Ninevah Rd, Mount Holly US-VT 43.47544, -72.76191","2025-07-09 08:21",1,43.475442,-72.761908,TRUE,FALSE,TRUE,"S258335612",NA
-"309","rufgro","Ruffed Grouse","Bonasa umbellus","L44275982","Mudd Creek Divide west side","2025-07-09 08:09",1,47.628804,-114.903162,TRUE,FALSE,TRUE,"S258393017",NA
-"310","rufgro","Ruffed Grouse","Bonasa umbellus","L49468030","Stevens Canyon Rd, Packwood US-WA 46.72459, -121.58708","2025-07-09 07:59",1,46.724592,-121.587078,TRUE,FALSE,TRUE,"S258493538",NA
-"311","rufgro","Ruffed Grouse","Bonasa umbellus","L3809662","Prairie Farm Spring","2025-07-09 07:56",4,44.5551269,-121.5778828,TRUE,TRUE,FALSE,"S258444313",NA
-"312","rufgro","Ruffed Grouse","Bonasa umbellus","L49678956","Oregon, US (45.949, -117.8)","2025-07-09 07:32",8,45.949032,-117.7999272,TRUE,FALSE,TRUE,"S259379806",NA
-"313","rufgro","Ruffed Grouse","Bonasa umbellus","L1026539","State Game Lands 57--Coalbed Swamp","2025-07-09 07:20",1,41.4716087,-76.2179732,TRUE,FALSE,FALSE,"S258767426",NA
-"314","rufgro","Ruffed Grouse","Bonasa umbellus","L751908","Colchester Pond - Colchester (186 acres)","2025-07-09 07:00",1,44.5546324,-73.1198448,TRUE,FALSE,FALSE,"S258407567",NA
-"315","rufgro","Ruffed Grouse","Bonasa umbellus","L44999326","Pittsfield State Forest OHV HQ","2025-07-09 06:51",1,42.485383,-73.301244,TRUE,FALSE,TRUE,"S258301330",NA
-"316","rufgro","Ruffed Grouse","Bonasa umbellus","L49256926","54876, Stone Lake US-WI 45.69678, -91.70344","2025-07-09 06:51",1,45.696784,-91.703445,TRUE,FALSE,TRUE,"S258343169",NA
-"317","rufgro","Ruffed Grouse","Bonasa umbellus","L22606916","Mile Creek Wetlands (no access - private property)","2025-07-09 06:14",1,46.663383,-85.031561,TRUE,FALSE,TRUE,"S258316938",NA
-"318","rufgro","Ruffed Grouse","Bonasa umbellus","L164216","Crex Meadows SWA","2025-07-09 06:08",1,45.842964,-92.62031,TRUE,FALSE,FALSE,"S258475445",NA
-"319","rufgro","Ruffed Grouse","Bonasa umbellus","L17803605","905 E Main St, Weatherly US-PA 40.94565, -75.81670","2025-07-09 05:59",1,40.945646,-75.816702,TRUE,FALSE,TRUE,"S258297431",NA
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
+"1","rudtur","Ruddy Turnstone","Arenaria interpres","L140043","Sachuest Point NWR","2025-07-19 17:55",1,41.4799232,-71.2431946,TRUE,FALSE,FALSE,"S261211829"
+"2","rudtur","Ruddy Turnstone","Arenaria interpres","L828590","Dungeness Landing Park/Oyster House","2025-07-19 14:21",2,48.1514639,-123.143456,TRUE,FALSE,FALSE,"S261197105"
+"3","rudtur","Ruddy Turnstone","Arenaria interpres","L50100996","Piedras Blancas Light Station, Ragged Point US-CA 35.65293, -121.24228","2025-07-19 13:41",1,35.652932,-121.242277,TRUE,FALSE,TRUE,"S261191000"
+"4","rudtur","Ruddy Turnstone","Arenaria interpres","L301036","San Carlos Bay/Bunche Beach Preserve","2025-07-19 13:40",8,26.476174,-81.9673795,TRUE,FALSE,FALSE,"S261152605"
+"5","rudtur","Ruddy Turnstone","Arenaria interpres","L506856","Eastern Egg Rock (island vicinity ONLY, please do NOT include mainland starting points)","2025-07-19 12:52",4,43.8618863,-69.382224,TRUE,FALSE,FALSE,"S261160034"
+"6","rudtur","Ruddy Turnstone","Arenaria interpres","L280707","Fort Tilden","2025-07-19 11:32",1,40.5632807,-73.8833118,TRUE,FALSE,FALSE,"S261184356"
+"7","rudtur","Ruddy Turnstone","Arenaria interpres","L464706","Cedar Beach County Park","2025-07-19 11:30",1,41.0349525,-72.387886,TRUE,FALSE,FALSE,"S261198622"
+"8","rudtur","Ruddy Turnstone","Arenaria interpres","L597658","Malibu Lagoon--State Beach including Lagoon","2025-07-19 10:20",1,34.0333857,-118.6822987,TRUE,FALSE,FALSE,"S261183977"
+"9","rudtur","Ruddy Turnstone","Arenaria interpres","L2430264","Mount Hope Farm","2025-07-19 09:58",3,41.6681638,-71.2549775,TRUE,FALSE,FALSE,"S261106441"
+"10","rudtur","Ruddy Turnstone","Arenaria interpres","L2466964","Rockaway Beach--Edgemere (Beach 32nd-56th St.)","2025-07-19 09:53",1,40.5905359,-73.7753534,TRUE,FALSE,FALSE,"S261203105"
+"11","rudtur","Ruddy Turnstone","Arenaria interpres","L109217","Milford Point — Sandbars","2025-07-19 09:49",1,41.1725812,-73.1003666,TRUE,FALSE,FALSE,"S261158005"
+"12","rudtur","Ruddy Turnstone","Arenaria interpres","L6869097","Key Deer NWR--Long Beach Trail","2025-07-19 09:45",11,24.6416668,-81.3324308,TRUE,FALSE,FALSE,"S261221464"
+"13","rudtur","Ruddy Turnstone","Arenaria interpres","L152499","Breezy Point Tip","2025-07-19 09:43",2,40.5506643,-73.9357889,TRUE,FALSE,FALSE,"S261171092"
+"14","rudtur","Ruddy Turnstone","Arenaria interpres","L592872","Ocean Drive--Two Mile Landing","2025-07-19 09:31",2,38.9595423,-74.866333,TRUE,FALSE,FALSE,"S261089173"
+"15","rudtur","Ruddy Turnstone","Arenaria interpres","L447002","Boca Chica Rd.","2025-07-19 09:29",5,24.5660155,-81.6732337,TRUE,FALSE,FALSE,"S261072684"
+"16","rudtur","Ruddy Turnstone","Arenaria interpres","L583446","Pilots Point, Westbrook","2025-07-19 09:17",1,41.2674851,-72.4692535,TRUE,FALSE,FALSE,"S261056763"
+"17","rudtur","Ruddy Turnstone","Arenaria interpres","L7862623","15870 Alabama's Coastal Connection, Coden, Alabama, US (30.346, -88.124)","2025-07-19 09:08",2,30.3458678,-88.1240345,TRUE,FALSE,TRUE,"S261133078"
+"18","rudtur","Ruddy Turnstone","Arenaria interpres","L248017","Bolivar Flats Shorebird Sanctuary","2025-07-19 09:00",1,29.3711371,-94.7287083,TRUE,FALSE,FALSE,"S261111789"
+"19","rudtur","Ruddy Turnstone","Arenaria interpres","L2861722","Parker River NWR--S Curves","2025-07-19 08:57",2,42.7641541,-70.8054686,TRUE,FALSE,FALSE,"S261178248"
+"20","rudtur","Ruddy Turnstone","Arenaria interpres","L557007","Cape Hatteras NS--Salt Pond","2025-07-19 08:14",3,35.2300561,-75.5322504,TRUE,FALSE,FALSE,"S261200177"
+"21","rudtur","Ruddy Turnstone","Arenaria interpres","L35186697","Pescadero State Beach -- (south)  beach area, seawatch and Seabird Rock - West of Hwy 1 only","2025-07-19 08:14",1,37.2612534,-122.4141312,TRUE,FALSE,FALSE,"S261150092"
+"22","rudtur","Ruddy Turnstone","Arenaria interpres","L127332","Fort De Soto Park","2025-07-19 07:55",8,27.6327266,-82.718157,TRUE,FALSE,FALSE,"S261060429"
+"23","rudtur","Ruddy Turnstone","Arenaria interpres","L827977","Bayfront Park (J St.)","2025-07-19 07:37",1,32.6186091,-117.1033868,TRUE,FALSE,FALSE,"S261211866"
+"24","rudtur","Ruddy Turnstone","Arenaria interpres","L587449","Alfred McKethan Park (Pine Island)","2025-07-19 07:30",3,28.5686365,-82.6557577,TRUE,FALSE,FALSE,"S261178597"
+"25","rudtur","Ruddy Turnstone","Arenaria interpres","L109538","Leadbetter Point","2025-07-19 07:27",5,46.6166667,-124.05,TRUE,FALSE,FALSE,"S261153190"
+"26","rudtur","Ruddy Turnstone","Arenaria interpres","L215343","Napatree Point","2025-07-19 07:27",2,41.3103371,-71.8743918,TRUE,FALSE,FALSE,"S261051253"
+"27","rudtur","Ruddy Turnstone","Arenaria interpres","L387768","Fort Macon SP","2025-07-19 07:23",1,34.7032354,-76.6983032,TRUE,FALSE,FALSE,"S261190273"
+"28","rudtur","Ruddy Turnstone","Arenaria interpres","L127422","Crandon Park","2025-07-19 07:13",5,25.7089712,-80.1536322,TRUE,FALSE,FALSE,"S261064014"
+"29","rudtur","Ruddy Turnstone","Arenaria interpres","L9948912","Jupiter Inlet Lighthouse Outstanding Natural Area","2025-07-19 07:00",2,26.950569,-80.080336,TRUE,FALSE,FALSE,"S261046108"
+"30","rudtur","Ruddy Turnstone","Arenaria interpres","L15064759","Anchor River--Anchor Point beach","2025-07-19 06:34",1,59.7790981,-151.8631308,TRUE,FALSE,FALSE,"S261105986"
+"31","rudtur","Ruddy Turnstone","Arenaria interpres","L26251395","4005 SR-A1A, Melbourne Beach US-FL 28.01131, -80.53024","2025-07-19 06:24",5,28.011307,-80.530236,TRUE,FALSE,TRUE,"S261051688"
+"32","rudtur","Ruddy Turnstone","Arenaria interpres","L466299","Quonochontaug Breachway","2025-07-19 06:21",1,41.3362,-71.722224,TRUE,FALSE,FALSE,"S261026297"
+"33","rudtur","Ruddy Turnstone","Arenaria interpres","L165792","Fort Morgan State Historic Site","2025-07-19 06:12",1,30.2294449,-88.0180432,TRUE,FALSE,FALSE,"S261044543"
+"34","rudtur","Ruddy Turnstone","Arenaria interpres","L771306","Jarvis Sound","2025-07-18 17:49",12,38.967751,-74.8683929,TRUE,FALSE,FALSE,"S260930541"
+"35","rudtur","Ruddy Turnstone","Arenaria interpres","L387957","Pearl Harbor NWR--Honouliuli Unit (restricted access)","2025-07-18 17:16",81,21.3567,-158.0194,TRUE,TRUE,FALSE,"S260952173"
+"36","rudtur","Ruddy Turnstone","Arenaria interpres","L50029888","4727–4799 US-90 E, Gulfport US-MS 30.35622, -89.11892","2025-07-18 16:53",5,30.356218,-89.118924,TRUE,FALSE,TRUE,"S260900578"
+"37","rudtur","Ruddy Turnstone","Arenaria interpres","L197073","Stone Harbor Point","2025-07-18 16:52",8,39.0317999,-74.7723111,TRUE,FALSE,FALSE,"S260952540"
+"38","rudtur","Ruddy Turnstone","Arenaria interpres","L599648","St. George Island","2025-07-18 16:30",3,56.5776409,-169.6069336,TRUE,FALSE,FALSE,"S261160259"
+"39","rudtur","Ruddy Turnstone","Arenaria interpres","L433463","Humboldt Bay--Tuluwat Island (restricted access)","2025-07-18 16:18",3,40.8148486,-124.1681671,TRUE,FALSE,FALSE,"S260915616"
+"40","rudtur","Ruddy Turnstone","Arenaria interpres","L257976","Tokeland -- Graveyard Spit/Fisher Ave","2025-07-18 15:48",1,46.7079709,-123.9877832,TRUE,FALSE,FALSE,"S260922034"
+"41","rudtur","Ruddy Turnstone","Arenaria interpres","L5156578","Jemison's Bait N Tackle","2025-07-18 15:40",1,30.3411173,-88.1263296,TRUE,FALSE,TRUE,"S260890603"
+"42","rudtur","Ruddy Turnstone","Arenaria interpres","L1660477","South Jetty Park","2025-07-18 14:53",9,27.1124593,-82.4677365,TRUE,FALSE,FALSE,"S260871582"
+"43","rudtur","Ruddy Turnstone","Arenaria interpres","L1265319","Cape Henlopen SP--The Point","2025-07-18 14:53",5,38.8000272,-75.092376,TRUE,FALSE,FALSE,"S260868874"
+"44","rudtur","Ruddy Turnstone","Arenaria interpres","L785035","Pillar Point Harbor--West Point Ave. Freshwater Pond, Marsh and Willow areas","2025-07-18 14:49",1,37.5032728,-122.4968076,TRUE,FALSE,FALSE,"S260896969"
+"45","rudtur","Ruddy Turnstone","Arenaria interpres","L714512","Sunset Lake  (Portland)","2025-07-18 14:10",1,27.8679131,-97.3274088,TRUE,FALSE,FALSE,"S260884678"
+"46","rudtur","Ruddy Turnstone","Arenaria interpres","L127252","Alligator Point","2025-07-18 13:45",9,29.8937866,-84.3737608,TRUE,FALSE,FALSE,"S260870957"
+"47","rudtur","Ruddy Turnstone","Arenaria interpres","L49430232","fort tilden beach","2025-07-18 13:30",1,40.5597866,-73.8876486,TRUE,FALSE,TRUE,"S261183216"
+"48","rudtur","Ruddy Turnstone","Arenaria interpres","L32133717","Ocracoke Beach","2025-07-18 12:51",10,35.103041,-75.959735,TRUE,FALSE,TRUE,"S260828696"
+"49","rudtur","Ruddy Turnstone","Arenaria interpres","L127324","Honeymoon Island SP","2025-07-18 12:40",10,28.0706,-82.8314,TRUE,FALSE,FALSE,"S260854927"
+"50","rudtur","Ruddy Turnstone","Arenaria interpres","L591483","Saint Simons Island--Goulds Inlet","2025-07-18 12:13",1,31.1570695,-81.3650036,TRUE,FALSE,FALSE,"S260834490"
+"51","rudtur","Ruddy Turnstone","Arenaria interpres","L129090","Sea Rim SP (UTC 027)","2025-07-18 11:10",1,29.6755873,-94.0421026,TRUE,FALSE,FALSE,"S260858203"
+"52","rudtur","Ruddy Turnstone","Arenaria interpres","L50020386","Estero Bluffs Trail, Cayucos US-CA 35.44938, -120.91864","2025-07-18 11:02",1,35.44938,-120.918639,TRUE,FALSE,TRUE,"S260863866"
+"53","rudtur","Ruddy Turnstone","Arenaria interpres","L1057874","Courthouse Road Pier","2025-07-18 10:53",1,30.3774292,-89.0441465,TRUE,FALSE,FALSE,"S260818344"
+"54","rudtur","Ruddy Turnstone","Arenaria interpres","L5293274","Brenton Point SP--Shoreline","2025-07-18 10:49",4,41.4495264,-71.3550875,TRUE,FALSE,FALSE,"S260797230"
+"55","rudtur","Ruddy Turnstone","Arenaria interpres","L161083","MLK Jr. Regional Shoreline--Arrowhead Marsh","2025-07-18 10:32",3,37.7421628,-122.2112274,TRUE,FALSE,FALSE,"S260860614"
+"56","rudtur","Ruddy Turnstone","Arenaria interpres","L567274","Boca Chica - Lower Rio Grande Valley NWR (LTC 043)","2025-07-18 10:29",1,25.9779488,-97.1947652,TRUE,FALSE,FALSE,"S261202227"
+"57","rudtur","Ruddy Turnstone","Arenaria interpres","L50010352","Auto selected 35.53194, -75.46728","2025-07-18 10:11",1,35.531942,-75.467275,TRUE,FALSE,TRUE,"S260825601"
+"58","rudtur","Ruddy Turnstone","Arenaria interpres","L4958863","Canaveral National Seashore--Lot #7","2025-07-18 09:56",1,28.6668924,-80.6407654,TRUE,FALSE,FALSE,"S260788670"
+"59","rudtur","Ruddy Turnstone","Arenaria interpres","L2874927","Ft Steven - Trestle Bay Unit (49)","2025-07-18 09:43",1,46.2251434,-123.9906725,TRUE,FALSE,TRUE,"S260850494"
+"60","rudtur","Ruddy Turnstone","Arenaria interpres","L338428","Indian Point (CTC 073)","2025-07-18 09:30",5,27.8525492,-97.3559312,TRUE,FALSE,FALSE,"S260812098"
+"61","rudtur","Ruddy Turnstone","Arenaria interpres","L793778","Port Aransas Nature Preserve at Charlie's Pasture","2025-07-18 09:20",2,27.8327765,-97.0873833,TRUE,FALSE,FALSE,"S260820059"
+"62","rudtur","Ruddy Turnstone","Arenaria interpres","L829816","Dowses Beach, Osterville","2025-07-18 08:55",1,41.6221797,-70.3663588,TRUE,FALSE,FALSE,"S260772767"
+"63","rudtur","Ruddy Turnstone","Arenaria interpres","L190658","Fort Myers Beach","2025-07-18 08:42",18,26.417042,-81.904274,TRUE,FALSE,FALSE,"S260803574"
+"64","rudtur","Ruddy Turnstone","Arenaria interpres","L207434","Felix Neck Wildlife Sanctuary (Mass Audubon)","2025-07-18 08:19",1,41.41449,-70.56464,TRUE,FALSE,FALSE,"S260793123"
+"65","rudtur","Ruddy Turnstone","Arenaria interpres","L109146","Jones Beach SP--Coast Guard Station","2025-07-18 07:51",1,40.5888889,-73.5566667,TRUE,FALSE,FALSE,"S260876146"
+"66","rudtur","Ruddy Turnstone","Arenaria interpres","L416929","Kealia Pond NWR","2025-07-18 07:49",NA,20.7943128,-156.4789581,TRUE,FALSE,FALSE,"S260866804"
+"67","rudtur","Ruddy Turnstone","Arenaria interpres","L15210138","Marsh Point, Warwick","2025-07-18 07:19",1,41.65971,-71.41081,TRUE,FALSE,FALSE,"S260764706"
+"68","rudtur","Ruddy Turnstone","Arenaria interpres","L1021477","Mount Desert Rock","2025-07-18 07:00",1,43.9686,-68.1283,TRUE,FALSE,FALSE,"S260852431"
+"69","rudtur","Ruddy Turnstone","Arenaria interpres","L4011832","Woodneck Beach and Marsh","2025-07-18 06:55",2,41.5750275,-70.6413388,TRUE,FALSE,FALSE,"S260778264"
+"70","rudtur","Ruddy Turnstone","Arenaria interpres","L1076142","Kealakehe Wastewater Treatment Plant","2025-07-18 06:47",14,19.6621002,-156.0179014,TRUE,FALSE,FALSE,"S260845391"
+"71","rudtur","Ruddy Turnstone","Arenaria interpres","L646019","Lighthouse Inlet Heritage Preserve","2025-07-18 06:47",8,32.6849697,-79.8875141,TRUE,FALSE,FALSE,"S261213000"
+"72","rudtur","Ruddy Turnstone","Arenaria interpres","L15738305","4005 SR-A1A, Melbourne Beach US-FL 28.01148, -80.53027","2025-07-18 06:17",9,28.011482,-80.530271,TRUE,FALSE,TRUE,"S260737051"
+"73","rudtur","Ruddy Turnstone","Arenaria interpres","L429298","Matinicus Rock","2025-07-18 05:45",2,43.7869657,-68.8527148,TRUE,FALSE,FALSE,"S260921087"
+"74","rudtur","Ruddy Turnstone","Arenaria interpres","L109535","Ocean Shores--Oyhut Wildlife Area","2025-07-18 05:42",4,46.9444663,-124.1522412,TRUE,FALSE,FALSE,"S260831149"
+"75","rudtur","Ruddy Turnstone","Arenaria interpres","L514035","Winthrop Beach and Five Sisters","2025-07-18 05:26",3,42.3747938,-70.9681878,TRUE,FALSE,FALSE,"S260724829"
+"76","rudtur","Ruddy Turnstone","Arenaria interpres","L840315","Seal Island NWR (island vicinity ONLY)","2025-07-18 05:00",3,43.8894651,-68.7374814,TRUE,FALSE,FALSE,"S260937805"
+"77","rudtur","Ruddy Turnstone","Arenaria interpres","L883549","Carlos Pointe","2025-07-17 19:29",1,26.4031136,-81.8859959,TRUE,FALSE,FALSE,"S260655037"
+"78","rudtur","Ruddy Turnstone","Arenaria interpres","L6114739","Kleberg County Beach N. of National Seashore","2025-07-17 19:25",1,27.5512938,-97.2363746,TRUE,FALSE,FALSE,"S260664044"
+"79","rudtur","Ruddy Turnstone","Arenaria interpres","L422541","Leonabelle Turnbull Birding Ctr. (CTC 057)","2025-07-17 18:58",1,27.8275297,-97.0789558,TRUE,FALSE,FALSE,"S260668035"
+"80","rudtur","Ruddy Turnstone","Arenaria interpres","L1280497","Cape May Harbor","2025-07-17 18:13",2,38.9496627,-74.8943564,TRUE,FALSE,FALSE,"S260677110"
+"81","rudtur","Ruddy Turnstone","Arenaria interpres","L5561930","Oak Beach Fisherman's Parking Lot","2025-07-17 18:12",1,40.6388913,-73.3027071,TRUE,FALSE,TRUE,"S260646733"
+"82","rudtur","Ruddy Turnstone","Arenaria interpres","L2298610","Northeast Creek, Bar Harbor","2025-07-17 15:56",2,44.4247698,-68.3275366,TRUE,FALSE,FALSE,"S260627906"
+"83","rudtur","Ruddy Turnstone","Arenaria interpres","L49971071","Mon Louis Island, Coden US-AL (30.3458,-88.1253)","2025-07-17 15:47",1,30.345786,-88.125298,TRUE,FALSE,TRUE,"S260647911"
+"84","rudtur","Ruddy Turnstone","Arenaria interpres","L15028796","Saint Simons Island--Goulds Inlet","2025-07-17 14:50",2,31.157069,-81.365004,TRUE,FALSE,TRUE,"S260618317"
+"85","rudtur","Ruddy Turnstone","Arenaria interpres","L634210","Nauset Marsh","2025-07-17 14:27",1,41.8202559,-69.9537578,TRUE,FALSE,FALSE,"S260631411"
+"86","rudtur","Ruddy Turnstone","Arenaria interpres","L484987","Bald Point SP","2025-07-17 13:14",3,29.9377826,-84.3381304,TRUE,FALSE,FALSE,"S260603669"
+"87","rudtur","Ruddy Turnstone","Arenaria interpres","L11048076","Morgan Bay","2025-07-17 11:44",8,25.8553854,-81.684087,TRUE,FALSE,TRUE,"S260623865"
+"88","rudtur","Ruddy Turnstone","Arenaria interpres","L2942287","Nome-Teller Hwy.--34 Mile Ridge","2025-07-17 11:19",1,64.8219296,-166.0375786,TRUE,FALSE,FALSE,"S260711100"
+"89","rudtur","Ruddy Turnstone","Arenaria interpres","L1808343","Nome-Teller Hwy.--Sinuk River","2025-07-17 10:32",1,64.7183857,-165.9225655,TRUE,FALSE,FALSE,"S260711006"
+"90","rudtur","Ruddy Turnstone","Arenaria interpres","L450264","Ocean Shores -- outer beach","2025-07-17 10:32",1,46.9719365,-124.1688538,TRUE,FALSE,FALSE,"S260591741"
+"91","rudtur","Ruddy Turnstone","Arenaria interpres","L168688","Ocean Shores--Pt. Brown Jetty","2025-07-17 09:24",2,46.92816,-124.17397,TRUE,FALSE,FALSE,"S260582867"
+"92","rudtur","Ruddy Turnstone","Arenaria interpres","L467982","Foster City Shell Bar","2025-07-17 08:55",1,37.5635405,-122.248714,TRUE,FALSE,FALSE,"S260599787"
+"93","rudtur","Ruddy Turnstone","Arenaria interpres","L129107","Texas City Dike (UTC 074)","2025-07-17 08:53",2,29.3838952,-94.867115,TRUE,FALSE,FALSE,"S260575480"
+"94","rudtur","Ruddy Turnstone","Arenaria interpres","L127249","St. Joseph Peninsula SP","2025-07-17 08:53",3,29.7999,-85.411,TRUE,FALSE,FALSE,"S260545970"
+"95","rudtur","Ruddy Turnstone","Arenaria interpres","L207373","Great Sippewisett Marsh and Black Beach","2025-07-17 08:50",2,41.5890703,-70.6442209,TRUE,FALSE,FALSE,"S260552135"
+"96","rudtur","Ruddy Turnstone","Arenaria interpres","L855856","Stump Pass Beach SP","2025-07-17 08:27",7,26.9022934,-82.346805,TRUE,FALSE,FALSE,"S260563211"
+"97","rudtur","Ruddy Turnstone","Arenaria interpres","L1300483","Cape May NWR--Two Mile Unit","2025-07-17 08:02",6,38.9518672,-74.8578212,TRUE,FALSE,FALSE,"S260537115"
+"98","rudtur","Ruddy Turnstone","Arenaria interpres","L302836","Midway Beach","2025-07-17 07:43",1,46.7687403,-124.0938386,TRUE,FALSE,FALSE,"S260611263"
+"99","rudtur","Ruddy Turnstone","Arenaria interpres","L2852627","Turtle Beach","2025-07-17 07:27",2,27.217448,-82.5167958,TRUE,FALSE,FALSE,"S260581001"
+"100","rudtur","Ruddy Turnstone","Arenaria interpres","L1555375","Pea Island NWR--Salt Flats Wildlife Trail","2025-07-17 07:24",1,35.7355509,-75.5053226,TRUE,FALSE,FALSE,"S260523483"
+"101","rudtur","Ruddy Turnstone","Arenaria interpres","L4326200","Padre Isl. NS--Beach S. of Visitor center (Kleberg Co.)","2025-07-17 07:18",1,27.4057949,-97.3054147,TRUE,FALSE,FALSE,"S260594853"
+"102","rudtur","Ruddy Turnstone","Arenaria interpres","L1906442","Rt. 1A, Second Pullout South of Odiorne Point, Rye","2025-07-17 07:16",1,43.0400379,-70.7150774,TRUE,FALSE,FALSE,"S260514617"
+"103","rudtur","Ruddy Turnstone","Arenaria interpres","L566310","Cupsogue Beach County Park","2025-07-17 07:15",2,40.7713119,-72.7373457,TRUE,FALSE,FALSE,"S260569332"
+"104","rudtur","Ruddy Turnstone","Arenaria interpres","L3187664","Palm Beach Par-3 Golf Course","2025-07-17 07:00",1,26.6327095,-80.0388068,TRUE,FALSE,FALSE,"S260513352"
+"105","rudtur","Ruddy Turnstone","Arenaria interpres","L49987105","Līhuʻe — Safeway","2025-07-17 06:48",8,21.968112,-159.385983,TRUE,FALSE,TRUE,"S260721600"
+"106","rudtur","Ruddy Turnstone","Arenaria interpres","L129061","Galveston--Apffel Park / East Beach (UTC 062)","2025-07-17 06:28",3,29.33169,-94.73242,TRUE,FALSE,FALSE,"S260542138"
+"107","rudtur","Ruddy Turnstone","Arenaria interpres","L784728","Ocean Isle Beach","2025-07-17 06:13",1,33.8914125,-78.4276199,TRUE,FALSE,FALSE,"S260511856"
+"108","rudtur","Ruddy Turnstone","Arenaria interpres","L159297","Craney Island Disposal Area (restricted access)","2025-07-17 06:12",1,36.9065,-76.37,TRUE,FALSE,FALSE,"S260595883"
+"109","rudtur","Ruddy Turnstone","Arenaria interpres","L464527","First Encounter Beach","2025-07-16 19:30",2,41.8215025,-70.0037241,TRUE,FALSE,FALSE,"S260452544"
+"110","rudtur","Ruddy Turnstone","Arenaria interpres","L49921285","Birding Tour on the Osprey","2025-07-16 17:58",1,38.95047,-74.910316,TRUE,FALSE,TRUE,"S260436525"
+"111","rudtur","Ruddy Turnstone","Arenaria interpres","L49968129","Boat Ramp to Snake Bight","2025-07-16 17:20",11,25.159918,-80.898371,TRUE,FALSE,TRUE,"S260635815"
+"112","rudtur","Ruddy Turnstone","Arenaria interpres","L127294","Anastasia SP","2025-07-16 16:59",5,29.8661797,-81.2705122,TRUE,FALSE,FALSE,"S260412735"
+"113","rudtur","Ruddy Turnstone","Arenaria interpres","L9821959","Holly Ave residence","2025-07-16 16:01",1,27.411111,-82.576066,TRUE,FALSE,TRUE,"S260394166"
+"114","rudtur","Ruddy Turnstone","Arenaria interpres","L2372882","Island Beach SP--Spizzle Creek Blind Trail","2025-07-16 15:10",1,39.7941774,-74.0972793,TRUE,FALSE,FALSE,"S260448773"
+"115","rudtur","Ruddy Turnstone","Arenaria interpres","L3670520","Chula Vista Wildlife Reserve (restricted access)","2025-07-16 14:46",3,32.6132072,-117.1043059,TRUE,FALSE,TRUE,"S260460843"
+"116","rudtur","Ruddy Turnstone","Arenaria interpres","L49906204","4215 W Beach Dr, Oak Island US-NC 33.91423, -78.20243","2025-07-16 14:32",1,33.914235,-78.202435,TRUE,FALSE,TRUE,"S260373941"
+"117","rudtur","Ruddy Turnstone","Arenaria interpres","L42351693","Rookery  Bay NERR","2025-07-16 14:05",2,25.9102416,-81.6807811,TRUE,FALSE,TRUE,"S260367464"
+"118","rudtur","Ruddy Turnstone","Arenaria interpres","L49745110","1004 Ariola Dr, Gulf Breeze US-FL 30.33655, -87.11081","2025-07-16 14:00",1,30.336547,-87.110807,TRUE,FALSE,TRUE,"S260870173"
+"119","rudtur","Ruddy Turnstone","Arenaria interpres","L2778752","Sandy Point (Rhode Island)","2025-07-16 12:40",1,41.32191,-71.8820643,TRUE,FALSE,FALSE,"S260374539"
+"120","rudtur","Ruddy Turnstone","Arenaria interpres","L5281758","Harbor Island Beach (restricted access)","2025-07-16 11:41",1,32.4041792,-80.4275179,TRUE,FALSE,FALSE,"S260360760"
+"121","rudtur","Ruddy Turnstone","Arenaria interpres","L1843920","North Jetty Park","2025-07-16 10:20",2,27.1135693,-82.4675176,TRUE,FALSE,FALSE,"S260331034"
+"122","rudtur","Ruddy Turnstone","Arenaria interpres","L2573474","Oregon Inlet South Rock Jetty","2025-07-16 10:20",2,35.7732576,-75.5264568,TRUE,FALSE,FALSE,"S260371799"
+"123","rudtur","Ruddy Turnstone","Arenaria interpres","L10223512","Paikō Lagoon Wildlife Sanctuary","2025-07-16 09:46",1,21.2832328,-157.7246194,TRUE,FALSE,FALSE,"S260442919"
+"124","rudtur","Ruddy Turnstone","Arenaria interpres","L127247","Shell Island","2025-07-16 09:43",2,30.0958,-85.6924,TRUE,FALSE,FALSE,"S260357378"
+"125","rudtur","Ruddy Turnstone","Arenaria interpres","L131635","Shell Point Beach Park & Area","2025-07-16 09:27",3,30.0588245,-84.2937241,TRUE,FALSE,FALSE,"S260313278"
+"126","rudtur","Ruddy Turnstone","Arenaria interpres","L1775306","Edwin B. Forsythe NWR--Little Beach (Restricted Access)","2025-07-16 09:16",3,39.4731729,-74.3165874,TRUE,FALSE,FALSE,"S260639902"
+"127","rudtur","Ruddy Turnstone","Arenaria interpres","L127286","Huguenot Memorial City Park","2025-07-16 09:14",8,30.4112444,-81.4206594,TRUE,FALSE,FALSE,"S260323286"
+"128","rudtur","Ruddy Turnstone","Arenaria interpres","L3403344","Sand Point (town)","2025-07-16 09:10",1,55.3390306,-160.4992875,TRUE,TRUE,FALSE,"S260459695"
+"129","rudtur","Ruddy Turnstone","Arenaria interpres","L7177688","Dr. Von D. Mizell-Eula Johnson State Park, Hollywood US-FL (26.0737,-80.1118)","2025-07-16 08:24",5,26.073671,-80.111768,TRUE,FALSE,TRUE,"S260299132"
+"130","rudtur","Ruddy Turnstone","Arenaria interpres","L723976","Mollie Beattie Coastal Habitat Community","2025-07-16 08:22",1,27.6374591,-97.2064304,TRUE,FALSE,FALSE,"S260322975"
+"131","rudtur","Ruddy Turnstone","Arenaria interpres","L4608839","Anna Maria Island--Bean Point","2025-07-16 08:02",1,27.5372054,-82.7455044,TRUE,FALSE,FALSE,"S260300865"
+"132","rudtur","Ruddy Turnstone","Arenaria interpres","L498948","Siesta Key Public Beach","2025-07-16 07:58",2,27.2643958,-82.5517845,TRUE,FALSE,FALSE,"S260301807"
+"133","rudtur","Ruddy Turnstone","Arenaria interpres","L3025481","Esther Island","2025-07-16 07:53",3,41.2799608,-70.2243304,TRUE,FALSE,FALSE,"S260310267"
+"134","rudtur","Ruddy Turnstone","Arenaria interpres","L6365148","Lido Key Beach","2025-07-16 07:23",4,27.3116887,-82.5773835,TRUE,FALSE,FALSE,"S260286622"
+"135","rudtur","Ruddy Turnstone","Arenaria interpres","L3953909","Sand Key Beach","2025-07-16 07:20",2,27.9479334,-82.8348112,TRUE,FALSE,FALSE,"S260287680"
+"136","rudtur","Ruddy Turnstone","Arenaria interpres","L142734","Gulf Islands National Seashore--Johnson Beach","2025-07-16 07:19",3,30.3013992,-87.4046555,TRUE,FALSE,FALSE,"S260332922"
+"137","rudtur","Ruddy Turnstone","Arenaria interpres","L976281","Great Gull Island","2025-07-16 07:00",3,41.202544,-72.1187103,TRUE,FALSE,FALSE,"S260516869"
+"138","rudtur","Ruddy Turnstone","Arenaria interpres","L718307","**Back Bay NWR","2025-07-16 06:32",1,36.672127,-75.915661,TRUE,TRUE,FALSE,"S260337196"
+"139","rudtur","Ruddy Turnstone","Arenaria interpres","L26789953","4099–4223 SR-A1A, Melbourne Beach US-FL 28.00844, -80.52846","2025-07-16 06:07",4,28.008442,-80.528457,TRUE,FALSE,TRUE,"S260269901"
+"140","rudtur","Ruddy Turnstone","Arenaria interpres","L1398808","Nags Head--Jennette's Pier","2025-07-15 19:08",1,35.9100819,-75.5955505,TRUE,FALSE,FALSE,"S260200554"
+"141","rudtur","Ruddy Turnstone","Arenaria interpres","L45313324","16001–16695 Dauphin Island Pkwy, Coden US-AL 30.34490, -88.12434","2025-07-15 16:55",1,30.344899,-88.124342,TRUE,FALSE,TRUE,"S260201372"
+"142","rudtur","Ruddy Turnstone","Arenaria interpres","L22145235","8408 SR-A1A, St. Augustine US-FL (29.7246,-81.2350)","2025-07-15 16:00",5,29.724571,-81.235033,TRUE,FALSE,TRUE,"S260166579"
+"143","rudtur","Ruddy Turnstone","Arenaria interpres","L374642","Pt. Pinos--general (sea & shore Coral to Jewell, Crespi Pond & cypresses)","2025-07-15 15:02",2,36.6363201,-121.9339388,TRUE,FALSE,FALSE,"S260191792"
+"144","rudtur","Ruddy Turnstone","Arenaria interpres","L445090","Boca Chica Beach","2025-07-15 14:59",9,24.5631321,-81.6773723,TRUE,FALSE,FALSE,"S260182429"
+"145","rudtur","Ruddy Turnstone","Arenaria interpres","L506351","St. Johns County Ocean Pier","2025-07-15 14:52",4,29.8571706,-81.2642813,TRUE,FALSE,FALSE,"S260153692"
+"146","rudtur","Ruddy Turnstone","Arenaria interpres","L852706","West Ocean City--Hooper's Restaurant (private)","2025-07-15 14:27",1,38.3348566,-75.098505,TRUE,FALSE,FALSE,"S260144900"
+"147","rudtur","Ruddy Turnstone","Arenaria interpres","L5296421","Keālia Pond NWR--Kanuimanu Aquaculture Ponds","2025-07-15 13:12",3,20.7942326,-156.4721882,TRUE,FALSE,FALSE,"S260189329"
+"148","rudtur","Ruddy Turnstone","Arenaria interpres","L49880568","Gardiners Bay, East Hampton US-NY 41.05041, -72.09480","2025-07-15 12:07",93,41.050413,-72.094797,TRUE,TRUE,TRUE,"S260259228"
+"149","rudtur","Ruddy Turnstone","Arenaria interpres","L256021","Moss Landing--Jetty Road, north jetty & State Beach","2025-07-15 11:14",1,36.8151691,-121.7900355,TRUE,FALSE,FALSE,"S260153937"
+"150","rudtur","Ruddy Turnstone","Arenaria interpres","L42313954","St. Joseph Peninsula Point","2025-07-15 11:07",3,29.8747401,-85.3888503,TRUE,FALSE,TRUE,"S260172630"
+"151","rudtur","Ruddy Turnstone","Arenaria interpres","L972722","Breton NWR--Breton Island","2025-07-15 10:44",6,29.496007,-89.173321,TRUE,FALSE,FALSE,"S260345917"
+"152","rudtur","Ruddy Turnstone","Arenaria interpres","L2352566","Ogeechee Bar","2025-07-15 10:06",5,31.8428576,-81.0502625,TRUE,FALSE,FALSE,"S260216500"
+"153","rudtur","Ruddy Turnstone","Arenaria interpres","L1317521","Fort Macon SP--Beach","2025-07-15 09:49",4,34.6937795,-76.6793346,TRUE,FALSE,FALSE,"S260096773"
+"154","rudtur","Ruddy Turnstone","Arenaria interpres","L1880516","Hammonasset Beach SP--Meig's Point Parking Lot/Marshes","2025-07-15 09:31",1,41.2522001,-72.5451318,TRUE,FALSE,FALSE,"S260141269"
+"155","rudtur","Ruddy Turnstone","Arenaria interpres","L1471016","Cumberland Island National Seashore--beach Sea Camp & Duck House","2025-07-15 09:24",3,30.7883964,-81.4562871,TRUE,FALSE,FALSE,"S260147143"
+"156","rudtur","Ruddy Turnstone","Arenaria interpres","L685834","Alaska Maritime NWR--Buldir Island","2025-07-15 09:00",1,52.3504409,175.9172058,TRUE,TRUE,FALSE,"S260379413"
+"157","rudtur","Ruddy Turnstone","Arenaria interpres","L597862","Rutherford Beach","2025-07-15 08:44",1,29.7584911,-93.1245375,TRUE,FALSE,FALSE,"S260082767"
+"158","rudtur","Ruddy Turnstone","Arenaria interpres","L11728129","Marineland--north (St. John's Co)","2025-07-15 08:37",3,29.6721335,-81.2145734,TRUE,FALSE,FALSE,"S260119079"
+"159","rudtur","Ruddy Turnstone","Arenaria interpres","L405340","Marco Island--Tiger Tail Beach","2025-07-15 08:11",1,25.948098,-81.74456,TRUE,FALSE,FALSE,"S260073168"
+"160","rudtur","Ruddy Turnstone","Arenaria interpres","L49860523","Mustang Island Beach","2025-07-15 07:58",1,27.7236255,-97.1376276,TRUE,FALSE,TRUE,"S260172009"
+"161","rudtur","Ruddy Turnstone","Arenaria interpres","L49832505","Marriott Beach Walk, Marco Island US-FL 25.93546, -81.73623","2025-07-15 07:54",2,25.935463,-81.736228,TRUE,FALSE,TRUE,"S260054240"
+"162","rudtur","Ruddy Turnstone","Arenaria interpres","L210417","Pea Island NWR--Old Coast Guard Station","2025-07-15 07:43",5,35.767247,-75.522541,TRUE,FALSE,FALSE,"S260060058"
+"163","rudtur","Ruddy Turnstone","Arenaria interpres","L2023918","Mustang Island SP--Corpus Christi Bay side","2025-07-15 07:31",2,27.6920404,-97.1850586,TRUE,FALSE,FALSE,"S260068398"
+"164","rudtur","Ruddy Turnstone","Arenaria interpres","L7412747","San Carlos Bunche Beach","2025-07-15 07:09",1,26.4762201,-81.9671059,TRUE,FALSE,TRUE,"S260052805"
+"165","rudtur","Ruddy Turnstone","Arenaria interpres","L20819468","Pascagoula Beach. East End","2025-07-15 06:55",2,30.3423476,-88.5269574,TRUE,FALSE,TRUE,"S260281453"
+"166","rudtur","Ruddy Turnstone","Arenaria interpres","L20203053","18500 Old Hwy 1 Yard List","2025-07-15 06:25",1,39.4124499,-123.8098459,TRUE,FALSE,TRUE,"S260318573"
+"167","rudtur","Ruddy Turnstone","Arenaria interpres","L109204","Hammonasset Beach SP--Meig's Point","2025-07-15 06:13",1,41.2490558,-72.5442213,TRUE,FALSE,FALSE,"S260051421"
+"168","rudtur","Ruddy Turnstone","Arenaria interpres","L3750826","Julia's Island/Bird Island","2025-07-14 19:39",2,29.9031785,-81.3111019,TRUE,FALSE,FALSE,"S260151385"
+"169","rudtur","Ruddy Turnstone","Arenaria interpres","L19049755","Sitka, Alaska, US (57.011, -135.612)","2025-07-14 18:43",1,57.0111937,-135.6119799,TRUE,TRUE,TRUE,"S260007139"
+"170","rudtur","Ruddy Turnstone","Arenaria interpres","L589790","Corson's Inlet SP","2025-07-14 16:54",4,39.2167774,-74.6462631,TRUE,FALSE,FALSE,"S260743996"
+"171","rudtur","Ruddy Turnstone","Arenaria interpres","L9577710","Napeague SP--Lazy Point","2025-07-14 16:04",1,41.0117351,-72.0589849,TRUE,FALSE,FALSE,"S259926543"
+"172","rudtur","Ruddy Turnstone","Arenaria interpres","L3782869","Suncoast Seabird Sanctuary & Beach(do NOT report captive birds)","2025-07-14 14:36",6,27.8364529,-82.8373781,TRUE,FALSE,FALSE,"S259923269"
+"173","rudtur","Ruddy Turnstone","Arenaria interpres","L2318798","Medicine Lake NWR--Scenic Wildlife Loop","2025-07-14 13:11",1,48.5006247,-104.3254227,TRUE,FALSE,FALSE,"S259941734"
+"174","rudtur","Ruddy Turnstone","Arenaria interpres","L49832306","Beach House","2025-07-14 11:32",8,29.684866,-85.290758,TRUE,FALSE,TRUE,"S260055662"
+"175","rudtur","Ruddy Turnstone","Arenaria interpres","L599558","North Spit--Samoa Dunes Recreation Area (general)","2025-07-14 10:40",1,40.7628936,-124.2259741,TRUE,FALSE,FALSE,"S260150827"
+"176","rudtur","Ruddy Turnstone","Arenaria interpres","L49789033","St. Augustine, Florida, US (29.908, -81.283)","2025-07-14 10:08",8,29.9081187,-81.2825934,TRUE,FALSE,TRUE,"S259864865"
+"177","rudtur","Ruddy Turnstone","Arenaria interpres","L5191962","Boggy Bayou Nature Park","2025-07-14 10:03",3,28.4563683,-96.4115819,TRUE,FALSE,FALSE,"S259903819"
+"178","rudtur","Ruddy Turnstone","Arenaria interpres","L4873603","Rookery Bay NERR--Goodland Bridge and mudflats","2025-07-14 09:41",1,25.9328744,-81.6530058,TRUE,FALSE,FALSE,"S259874409"
+"179","rudtur","Ruddy Turnstone","Arenaria interpres","L1300380","Causeway Islands Park","2025-07-14 09:33",3,26.4797157,-82.02281,TRUE,FALSE,FALSE,"S259838056"
+"180","rudtur","Ruddy Turnstone","Arenaria interpres","L871818","North Lido Beach Park","2025-07-14 08:50",2,27.3167045,-82.583995,TRUE,FALSE,FALSE,"S259887944"
+"181","rudtur","Ruddy Turnstone","Arenaria interpres","L41461951","Oregon Inlet Beach Old Coast Guard Station","2025-07-14 08:42",5,35.772144,-75.5229727,TRUE,FALSE,TRUE,"S259851442"
+"182","rudtur","Ruddy Turnstone","Arenaria interpres","L10509100","11th View Street Public Beach Access","2025-07-14 08:26",2,36.968393,-76.2811099,TRUE,TRUE,FALSE,"S259820969"
+"183","rudtur","Ruddy Turnstone","Arenaria interpres","L28694331","9571 Cavendish Dr, Tampa US-FL (28.0419,-82.5908)","2025-07-14 08:24",2,28.041879,-82.590768,TRUE,FALSE,TRUE,"S259824329"
+"184","rudtur","Ruddy Turnstone","Arenaria interpres","L1296469","West Ship Island","2025-07-14 07:33",3,30.2122016,-88.9542389,TRUE,FALSE,FALSE,"S259864426"
+"185","rudtur","Ruddy Turnstone","Arenaria interpres","L458906","Sand Key Park","2025-07-14 07:28",8,27.960064,-82.8294897,TRUE,FALSE,FALSE,"S259814000"
+"186","rudtur","Ruddy Turnstone","Arenaria interpres","L25544431","Keālia Pond National Wildlife Refuge, Maalaea US-HI 20.79476, -156.47072","2025-07-14 07:20",7,20.794756,-156.47072,TRUE,FALSE,TRUE,"S259902488"
+"187","rudtur","Ruddy Turnstone","Arenaria interpres","L445366","Mecox Inlet","2025-07-14 07:00",2,40.8923492,-72.3284175,TRUE,FALSE,FALSE,"S259820277"
+"188","rudtur","Ruddy Turnstone","Arenaria interpres","L473168","Cape Hatteras NS--Cape Point","2025-07-13 19:27",1,35.2234655,-75.5286026,TRUE,FALSE,FALSE,"S259973913"
+"189","rudtur","Ruddy Turnstone","Arenaria interpres","L1036512","Lake Montauk Inlet","2025-07-13 19:05",1,41.076981,-71.937511,TRUE,FALSE,FALSE,"S259827043"
+"190","rudtur","Ruddy Turnstone","Arenaria interpres","L1663502","Pea Island NWR--North Pond Wildlife Trail","2025-07-13 17:20",3,35.7156212,-75.4935891,TRUE,FALSE,FALSE,"S259684197"
+"191","rudtur","Ruddy Turnstone","Arenaria interpres","L168335","Odiorne Point SP, Rye","2025-07-13 16:40",1,43.045555,-70.71444,TRUE,FALSE,FALSE,"S259684722"
+"192","rudtur","Ruddy Turnstone","Arenaria interpres","L576881","New Buffalo beach and marina","2025-07-13 16:16",1,41.8007831,-86.7489052,TRUE,TRUE,FALSE,"S259783862"
+"193","rudtur","Ruddy Turnstone","Arenaria interpres","L1076157","Kahuku Golf Course and Pasture","2025-07-13 15:05",1,21.6810297,-157.9448315,TRUE,FALSE,FALSE,"S259760890"
+"194","rudtur","Ruddy Turnstone","Arenaria interpres","L211434","Crane Beach (TTOR)","2025-07-13 13:16",2,42.6839598,-70.7667586,TRUE,FALSE,FALSE,"S259672552"
+"195","rudtur","Ruddy Turnstone","Arenaria interpres","L278604","Edwin B. Forsythe NWR--Holgate (Long Beach Island)","2025-07-13 12:27",1,39.5147773,-74.2817698,TRUE,FALSE,FALSE,"S259601520"
+"196","rudtur","Ruddy Turnstone","Arenaria interpres","L2625642","Gulf Islands National Seashore--Fort McRee","2025-07-13 11:45",1,30.3229523,-87.316246,TRUE,FALSE,FALSE,"S259612296"
+"197","rudtur","Ruddy Turnstone","Arenaria interpres","L663765","Cuttyhunk Island","2025-07-13 11:22",2,41.4200747,-70.9346008,TRUE,FALSE,FALSE,"S259719488"
+"198","rudtur","Ruddy Turnstone","Arenaria interpres","L49711538","Anastasia","2025-07-13 10:10",20,29.868607,-81.26767,TRUE,FALSE,TRUE,"S259827721"
+"199","rudtur","Ruddy Turnstone","Arenaria interpres","L49711437","17824 Lee Ave, Redington Shores US-FL 27.82825, -82.83216","2025-07-13 09:06",5,27.828246,-82.83216,TRUE,FALSE,TRUE,"S259533122"
+"200","rudtur","Ruddy Turnstone","Arenaria interpres","L13920854","Bolivar side ferry landing, Port Bolivar","2025-07-13 08:46",1,29.362279,-94.7783661,TRUE,FALSE,FALSE,"S259522958"
+"201","rudtur","Ruddy Turnstone","Arenaria interpres","L231739","Trustom Pond NWR--Moonstone Beach","2025-07-13 08:46",2,41.3704727,-71.5751266,TRUE,FALSE,FALSE,"S259677123"
+"202","rudtur","Ruddy Turnstone","Arenaria interpres","L14371670","Port Bolivar beach SE of  ferry landing","2025-07-13 08:42",1,29.3600366,-94.7760938,TRUE,FALSE,FALSE,"S259516071"
+"203","rudtur","Ruddy Turnstone","Arenaria interpres","L22577253","Oso Bay—Ocean Drive mud flats just E. of Texas A&M Corpus Christi campus","2025-07-13 07:47",4,27.7101193,-97.3150831,TRUE,FALSE,FALSE,"S259502315"
+"204","rudtur","Ruddy Turnstone","Arenaria interpres","L109216","Milford Point, CT Audubon","2025-07-13 06:25",1,41.1754303,-73.1032485,TRUE,FALSE,FALSE,"S259555920"
+"205","rudtur","Ruddy Turnstone","Arenaria interpres","L3088198","Island Beach SP--Winter Anchorage","2025-07-13 05:56",5,39.7892916,-74.0971184,TRUE,FALSE,FALSE,"S259498057"
+"206","rudtur","Ruddy Turnstone","Arenaria interpres","L49721910","Anastasia State Park, St. Augustine US-FL 29.86620, -81.27072","2025-07-12 17:12",25,29.866201,-81.270716,TRUE,FALSE,TRUE,"S259576625"
+"207","rudtur","Ruddy Turnstone","Arenaria interpres","L164929","Bolsa Chica Ecological Reserve","2025-07-12 15:20",2,33.7026531,-118.050735,TRUE,FALSE,FALSE,"S259356546"
+"208","rudtur","Ruddy Turnstone","Arenaria interpres","L1358358","Orient Point to New London Ferry (NY side)","2025-07-12 13:03",1,41.204437,-72.1976242,TRUE,FALSE,FALSE,"S259295844"
+"209","rudtur","Ruddy Turnstone","Arenaria interpres","L213321","Oceanside Marine Nature Study Area","2025-07-12 12:15",1,40.6233726,-73.6242225,TRUE,FALSE,FALSE,"S259298224"
+"210","rudtur","Ruddy Turnstone","Arenaria interpres","L598440","Salinas River NWR","2025-07-12 12:12",2,36.7354169,-121.8033385,TRUE,FALSE,FALSE,"S259331153"
+"211","rudtur","Ruddy Turnstone","Arenaria interpres","L49655110","US (55.593, -168.22)","2025-07-12 11:31",1,55.5932816,-168.219798,TRUE,FALSE,TRUE,"S259288566"
+"212","rudtur","Ruddy Turnstone","Arenaria interpres","L49649720","16871 Dauphin Island Parkway, Coden, Alabama, US (30.341, -88.126)","2025-07-12 11:29",2,30.3414927,-88.1264864,TRUE,FALSE,TRUE,"S259269574"
+"213","rudtur","Ruddy Turnstone","Arenaria interpres","L49632678","Auto selected 27.63583, -82.69996","2025-07-12 11:22",13,27.63583,-82.699963,TRUE,FALSE,TRUE,"S259209024"
+"214","rudtur","Ruddy Turnstone","Arenaria interpres","L47594578","Fort DeSoto North Beach","2025-07-12 10:55",6,27.643328,-82.740086,TRUE,FALSE,TRUE,"S259682569"
+"215","rudtur","Ruddy Turnstone","Arenaria interpres","L4007952","Fort Clinch SP--Fishing Pier","2025-07-12 09:15",1,30.7006081,-81.4286363,TRUE,FALSE,FALSE,"S259179105"
+"216","rudtur","Ruddy Turnstone","Arenaria interpres","L160668","Lovers Key SP","2025-07-12 09:14",7,26.3911316,-81.8713188,TRUE,FALSE,FALSE,"S259782616"
+"217","rudtur","Ruddy Turnstone","Arenaria interpres","L770565","South Padre Is.--Birding and Nature Center","2025-07-12 08:42",1,26.1374628,-97.1739367,TRUE,FALSE,FALSE,"S259214540"
+"218","rudtur","Ruddy Turnstone","Arenaria interpres","L6231378","Cape Hatteras","2025-07-12 07:30",2,35.2354544,-75.531435,TRUE,FALSE,TRUE,"S259297752"
+"219","rudtur","Ruddy Turnstone","Arenaria interpres","L2294559","Sunset Beach--East End","2025-07-12 07:02",6,33.8729098,-78.4842682,TRUE,FALSE,FALSE,"S259148274"
+"220","rudtur","Ruddy Turnstone","Arenaria interpres","L7707243","990 Scott Dr, Marco Island US-FL (25.9093,-81.6958)","2025-07-12 07:00",3,25.909269,-81.695796,TRUE,FALSE,TRUE,"S259126982"
+"221","rudtur","Ruddy Turnstone","Arenaria interpres","L3341126","Knight Island (Palm Island Resort)","2025-07-12 06:45",4,26.8934446,-82.3379374,TRUE,FALSE,FALSE,"S259523452"
+"222","rudtur","Ruddy Turnstone","Arenaria interpres","L15940955","4215 SR-A1A, Melbourne Beach US-FL 28.00595, -80.52715","2025-07-12 06:14",12,28.00595,-80.527147,TRUE,FALSE,TRUE,"S259137859"
+"223","rudtur","Ruddy Turnstone","Arenaria interpres","L197353","Sandy Hook","2025-07-12 05:28",1,40.4392518,-73.9869263,TRUE,FALSE,FALSE,"S259231982"
+"224","rudtur","Ruddy Turnstone","Arenaria interpres","L49599632","US (56.828, -169.773)","2025-07-11 21:28",1,56.8280902,-169.7732188,TRUE,FALSE,TRUE,"S259062352"
+"225","rudtur","Ruddy Turnstone","Arenaria interpres","L49604909","US (56.897, -169.907)","2025-07-11 20:41",1,56.8968918,-169.9071536,TRUE,FALSE,TRUE,"S259087483"
+"226","rudtur","Ruddy Turnstone","Arenaria interpres","L47520805","3860 Gulf Blvd, St. Pete Beach US-FL 27.71651, -82.73870","2025-07-11 18:02",3,27.716511,-82.738696,TRUE,FALSE,TRUE,"S259028573"
+"227","rudtur","Ruddy Turnstone","Arenaria interpres","L2518454","Nauset Heights--general area (private)","2025-07-11 16:37",2,41.7936389,-69.9415919,TRUE,FALSE,FALSE,"S258999451"
+"228","rudtur","Ruddy Turnstone","Arenaria interpres","L596698","Kiawah Island--Captain Sams Spit","2025-07-11 15:53",1,32.5780634,-80.1460791,TRUE,FALSE,FALSE,"S259001471"
+"229","rudtur","Ruddy Turnstone","Arenaria interpres","L34286344","Tern and gull Roost Anastasia SP","2025-07-11 15:15",50,29.904394,-81.277432,TRUE,TRUE,TRUE,"S258972229"
+"230","rudtur","Ruddy Turnstone","Arenaria interpres","L451891","Ocean City--Skimmer Island","2025-07-11 15:00",2,38.3357319,-75.0942564,TRUE,FALSE,FALSE,"S258969578"
+"231","rudtur","Ruddy Turnstone","Arenaria interpres","L2039395","Galveston--Boddeker Rd","2025-07-11 14:33",1,29.3339241,-94.7480679,TRUE,FALSE,FALSE,"S258977562"
+"232","rudtur","Ruddy Turnstone","Arenaria interpres","L1505042","Bolivar Flats Shorebird Sanctuary--Rettilon Rd","2025-07-11 13:47",10,29.3872984,-94.7278439,TRUE,FALSE,FALSE,"S259044896"
+"233","rudtur","Ruddy Turnstone","Arenaria interpres","L5889882","Elsie Roemer Sanctuary","2025-07-11 13:10",1,37.7543365,-122.2492182,TRUE,FALSE,TRUE,"S259013598"
+"234","rudtur","Ruddy Turnstone","Arenaria interpres","L7291453","Green Island, Kure Atoll (restricted access)","2025-07-11 12:14",35,28.392533,-178.2939005,TRUE,FALSE,FALSE,"S259301915"
+"235","rudtur","Ruddy Turnstone","Arenaria interpres","L2774027","Cayo Costa SP","2025-07-11 11:16",NA,26.6850807,-82.25245,TRUE,FALSE,FALSE,"S258919294"
+"236","rudtur","Ruddy Turnstone","Arenaria interpres","L49565524","Jemison's Bait & Tackle","2025-07-11 11:13",1,30.3418202,-88.1259825,TRUE,FALSE,TRUE,"S258927300"
+"237","rudtur","Ruddy Turnstone","Arenaria interpres","L127333","Egmont Key NWR","2025-07-11 10:21",11,27.5906,-82.763,TRUE,FALSE,FALSE,"S259049003"
+"238","rudtur","Ruddy Turnstone","Arenaria interpres","L656142","Folly Beach County Park","2025-07-11 09:48",6,32.644145,-79.9622726,TRUE,FALSE,FALSE,"S258927201"
+"239","rudtur","Ruddy Turnstone","Arenaria interpres","L28102143","Huntington Beach SP -- Sandpiper Pond Observation Deck & Nature Trail","2025-07-11 08:45",2,33.515487,-79.051,TRUE,FALSE,FALSE,"S258887044"
+"240","rudtur","Ruddy Turnstone","Arenaria interpres","L30106665","Masonboro Island_Wrightsville Beach SW","2025-07-11 08:36",4,34.149251,-77.837998,TRUE,FALSE,TRUE,"S259580828"
+"241","rudtur","Ruddy Turnstone","Arenaria interpres","L16707421","Morse Creek Estuary","2025-07-11 08:15",1,48.116971,-123.352917,TRUE,FALSE,TRUE,"S259017201"
+"242","rudtur","Ruddy Turnstone","Arenaria interpres","L788729","Tybee Island--North Beach","2025-07-11 08:07",1,32.0270701,-80.8530664,TRUE,FALSE,FALSE,"S258958198"
+"243","rudtur","Ruddy Turnstone","Arenaria interpres","L44924133","Fort Macon","2025-07-11 08:00",3,34.695628,-76.691519,TRUE,FALSE,TRUE,"S258973942"
+"244","rudtur","Ruddy Turnstone","Arenaria interpres","L20525604","BCER--Pocket Pond","2025-07-11 07:54",2,33.705365,-118.046389,TRUE,FALSE,TRUE,"S259264754"
+"245","rudtur","Ruddy Turnstone","Arenaria interpres","L49549987","Mullet Key US-FL (27.6447,-82.7445)","2025-07-11 07:42",12,27.644732,-82.744494,TRUE,FALSE,TRUE,"S258858834"
+"246","rudtur","Ruddy Turnstone","Arenaria interpres","L963383","Elkins Marsh","2025-07-11 07:20",2,37.3526928,-75.860939,TRUE,FALSE,FALSE,"S258971831"
+"247","rudtur","Ruddy Turnstone","Arenaria interpres","L2246373","Bird Island (Island I-25)","2025-07-10 18:28",2,27.9657687,-82.8148127,TRUE,FALSE,FALSE,"S258746515"
+"248","rudtur","Ruddy Turnstone","Arenaria interpres","L127445","Bahia Honda SP","2025-07-10 18:25",16,24.6602308,-81.2735188,TRUE,FALSE,FALSE,"S258738792"
+"249","rudtur","Ruddy Turnstone","Arenaria interpres","L49538027","99723, Barrow US-AK (70.4418,-154.3652)","2025-07-10 11:30",1,70.441812,-154.365177,TRUE,FALSE,TRUE,"S258801621"
+"250","rudtur","Ruddy Turnstone","Arenaria interpres","L148724","Topsail Hill Preserve SP","2025-07-10 10:03",2,30.370076,-86.2967277,TRUE,FALSE,FALSE,"S258777507"
+"251","rudtur","Ruddy Turnstone","Arenaria interpres","L836013","Dunedin Causeway","2025-07-10 09:28",4,28.0521363,-82.8020668,TRUE,FALSE,FALSE,"S258717820"
+"252","rudtur","Ruddy Turnstone","Arenaria interpres","L8455242","Community Beach Park","2025-07-10 09:02",1,36.9503317,-76.2452476,TRUE,TRUE,FALSE,"S258611739"
+"253","rudtur","Ruddy Turnstone","Arenaria interpres","L674614","East Shackleford Banks","2025-07-10 08:30",4,34.6495906,-76.5520477,TRUE,FALSE,FALSE,"S258725449"
+"254","rudtur","Ruddy Turnstone","Arenaria interpres","L616660","Huntington Beach SP--North Beach/Jetty/Dunes Trail","2025-07-10 07:53",3,33.5253779,-79.0367106,TRUE,FALSE,FALSE,"S258602671"
+"255","rudtur","Ruddy Turnstone","Arenaria interpres","L336863","Kaloko-Honokōhau NHP--ʻAimakapā Pond","2025-07-10 07:42",4,19.6771833,-156.0259759,TRUE,FALSE,FALSE,"S258722533"
+"256","rudtur","Ruddy Turnstone","Arenaria interpres","L129084","Sandy Point State Reservation","2025-07-10 07:25",2,42.702006,-70.777711,TRUE,FALSE,FALSE,"S258754096"
+"257","rudtur","Ruddy Turnstone","Arenaria interpres","L2874147","Englewood Beach Park","2025-07-10 07:05",3,26.9243033,-82.3615623,TRUE,FALSE,FALSE,"S258613652"
+"258","rudtur","Ruddy Turnstone","Arenaria interpres","L16081115","4215 SR-A1A, Melbourne Beach US-FL 28.00558, -80.52738","2025-07-10 06:29",4,28.005575,-80.527381,TRUE,FALSE,TRUE,"S258569491"
+"259","rudtur","Ruddy Turnstone","Arenaria interpres","L473315","Stratton Island","2025-07-10 06:00",2,43.5046746,-70.3116417,TRUE,FALSE,FALSE,"S259029694"

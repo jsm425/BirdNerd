@@ -1,4 +1,2 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","shtalb","Short-tailed Albatross","Phoebastria albatrus","L49910632","25GOA2025","2025-07-15 08:00",1,58.1361,-150.4317,TRUE,TRUE,TRUE,"S260391537"
-"2","shtalb","Short-tailed Albatross","Phoebastria albatrus","L49815176","Bering Sea","2025-07-13 11:00",1,58.8630784,-171.6840751,TRUE,FALSE,TRUE,"S259971937"
-"3","shtalb","Short-tailed Albatross","Phoebastria albatrus","L49531908","N. of Islands of Four Mtns, Aleutian Islands,  Alaska, US (53.197, -170.84)","2025-07-10 15:15",1,53.1966794,-170.8398592,TRUE,FALSE,TRUE,"S258771859"
+"1","x00689","Scaled x Gambel's Quail (hybrid)","Callipepla squamata x gambelii","L22512325","8917 Seven Oaks Drive, Hereford, Arizona, US (31.406, -110.234)","2025-07-15 07:43",1,31.4064972,-110.2339238,TRUE,TRUE,TRUE,"S260096468"
