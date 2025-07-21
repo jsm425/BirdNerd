@@ -1,2 +1,7 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","x00689","Scaled x Gambel's Quail (hybrid)","Callipepla squamata x gambelii","L22512325","8917 Seven Oaks Drive, Hereford, Arizona, US (31.406, -110.234)","2025-07-15 07:43",1,31.4064972,-110.2339238,TRUE,TRUE,TRUE,"S260096468"
+"1","yelrai","Yellow Rail","Coturnicops noveboracensis","L1783919","Mare's Egg Spring","2025-07-19 00:24",1,42.6599234,-122.0880604,TRUE,FALSE,FALSE,"S261094405"
+"2","yelrai","Yellow Rail","Coturnicops noveboracensis","L49819857","Goldfinch Lane Sunriver","2025-07-18 14:41",1,43.899161,-121.445756,TRUE,TRUE,TRUE,"S260904696"
+"3","yelrai","Yellow Rail","Coturnicops noveboracensis","L49999380","17600 Goldfinch Ln, Bend US-OR 43.89839, -121.44629","2025-07-18 05:48",2,43.898392,-121.44629,TRUE,TRUE,TRUE,"S260780390"
+"4","yelrai","Yellow Rail","Coturnicops noveboracensis","L29569865","Swanville Marsh","2025-07-12 19:20",1,45.9559765,-94.6452519,TRUE,TRUE,FALSE,"S259375212"
+"5","yelrai","Yellow Rail","Coturnicops noveboracensis","L49559522","Cardinal Landing","2025-07-11 21:33",1,43.898733,-121.447304,TRUE,TRUE,TRUE,"S259057418"
+"6","yelrai","Yellow Rail","Coturnicops noveboracensis","L49548147","1058 140th Street, Swanville, Minnesota, US (45.962, -94.647)","2025-07-11 04:49",2,45.9620637,-94.6466073,TRUE,TRUE,TRUE,"S258848160"
