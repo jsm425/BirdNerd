@@ -1,4 +1,3 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","yefgul","Yellow-footed Gull","Larus livens","L854441","Salton Sea--Lack Rd. at Grubel Rd. seawall","2025-07-18 17:12",1,33.1618044,-115.6486988,TRUE,FALSE,FALSE,"S260936239"
-"2","yefgul","Yellow-footed Gull","Larus livens","L367627","Salton Sea--Young Rd. (west end)","2025-07-18 05:55",2,33.1330196,-115.6666589,TRUE,FALSE,FALSE,"S260884606"
-"3","yefgul","Yellow-footed Gull","Larus livens","L267757","Salton Sea--Obsidian Butte","2025-07-13 08:37",1,33.1722397,-115.6427077,TRUE,FALSE,FALSE,"S259566409"
+"","speciesCode","comName","sciName","locId","locName","obsDt","lat","lng","obsValid","obsReviewed","locationPrivate","subId","howMany"
+"1","y00478","Iceland Gull","Larus glaucoides","L390227","Eagle Beach SRA","2025-07-20 09:15",58.5283716,-134.8270512,TRUE,FALSE,FALSE,"S261559694",NA
+"2","y00478","Iceland Gull","Larus glaucoides","L49872466","Auke Bay, Juneau US-AK 58.38227, -134.65385","2025-07-15 11:42",58.38227,-134.653849,TRUE,FALSE,TRUE,"S260224096",2
