@@ -1,3 +1,10 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","lat","lng","obsValid","obsReviewed","locationPrivate","subId","howMany"
-"1","y00478","Iceland Gull","Larus glaucoides","L390227","Eagle Beach SRA","2025-07-20 09:15",58.5283716,-134.8270512,TRUE,FALSE,FALSE,"S261559694",NA
-"2","y00478","Iceland Gull","Larus glaucoides","L49872466","Auke Bay, Juneau US-AK 58.38227, -134.65385","2025-07-15 11:42",58.38227,-134.653849,TRUE,FALSE,TRUE,"S260224096",2
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
+"1","norshr4","Northern Shrike","Lanius borealis","L48411798","1524 North Copper Creek Road, Wasilla, Alaska, US (61.596, -149.4)","2025-07-22 22:41",1,61.5963522,-149.3999604,TRUE,FALSE,TRUE,"S262050971"
+"2","norshr4","Northern Shrike","Lanius borealis","L3535322","Dalton Hwy.--Galbraith Lake Campground","2025-07-21 14:05",2,68.4562124,-149.4808334,TRUE,FALSE,FALSE,"S261759075"
+"3","norshr4","Northern Shrike","Lanius borealis","L50230950","N Glenn Hwy, Palmer US-AK 61.52213, -149.25338","2025-07-21 11:51",1,61.522127,-149.253378,TRUE,FALSE,TRUE,"S261733499"
+"4","norshr4","Northern Shrike","Lanius borealis","L46846807","Nelson River Weir","2025-07-21 10:02",2,55.812483,-161.214168,TRUE,FALSE,TRUE,"S261711130"
+"5","norshr4","Northern Shrike","Lanius borealis","L7626327","Coldfoot--Coldfoot Camp","2025-07-20 10:53",1,67.2510416,-150.1736693,TRUE,FALSE,FALSE,"S261809576"
+"6","norshr4","Northern Shrike","Lanius borealis","L50174245","Kougarok Rd, Nome US-AK 65.20736, -164.82838","2025-07-18 16:02",1,65.207363,-164.828381,TRUE,FALSE,TRUE,"S261491351"
+"7","norshr4","Northern Shrike","Lanius borealis","L50191450","Kodiak, Alaska, US (57.621, -153.419)","2025-07-17 10:30",1,57.6205498,-153.4194434,TRUE,FALSE,TRUE,"S261563699"
+"8","norshr4","Northern Shrike","Lanius borealis","L49862703","4604–4770 E Blue Lupine Dr, Wasilla US-AK (61.5715,-149.3526)","2025-07-15 14:33",1,61.57147,-149.352638,TRUE,FALSE,TRUE,"S260180467"
+"9","norshr4","Northern Shrike","Lanius borealis","L49864242","Denali Park Rd, Healy US-AK 63.72786, -149.35884","2025-07-15 10:10",2,63.727864,-149.358836,TRUE,FALSE,TRUE,"S260187276"
