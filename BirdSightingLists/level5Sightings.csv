@@ -1,2 +1,3 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
-"1","fislov1","Fischer's Lovebird","Agapornis fischeri","L28141257","M and M Amparo","2025-07-20 10:30",1,35.121832,-106.659037,TRUE,TRUE,TRUE,"S261726515","X"
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
+"1","fotfly","Fork-tailed Flycatcher","Tyrannus savana","L167477","Kennebunk Plains","2025-07-16 19:12",1,43.40066,-70.62553,TRUE,TRUE,FALSE,"S260426892"
+"2","fotfly","Fork-tailed Flycatcher","Tyrannus savana","L49914757","498 Maine 99, Kennebunk, Maine, US (43.404, -70.629)","2025-07-16 17:07",1,43.4036471,-70.628878,TRUE,TRUE,TRUE,"S260407539"
