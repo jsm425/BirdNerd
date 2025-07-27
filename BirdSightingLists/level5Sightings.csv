@@ -1,3 +1,4 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","fotfly","Fork-tailed Flycatcher","Tyrannus savana","L167477","Kennebunk Plains","2025-07-16 19:12",1,43.40066,-70.62553,TRUE,TRUE,FALSE,"S260426892"
-"2","fotfly","Fork-tailed Flycatcher","Tyrannus savana","L49914757","498 Maine 99, Kennebunk, Maine, US (43.404, -70.629)","2025-07-16 17:07",1,43.4036471,-70.628878,TRUE,TRUE,TRUE,"S260407539"
+"1","flfshe","Flesh-footed Shearwater","Ardenna carneipes","L7972091","Garibaldi Pelagic—0-5 miles","2025-07-24 15:57",1,45.569823,-123.979627,TRUE,FALSE,TRUE,"S262476637"
+"2","flfshe","Flesh-footed Shearwater","Ardenna carneipes","L26300585","Westport pelagic - shelf edge waters north of Willapa Canyon (Pacific Co.)","2025-07-19 09:30",1,46.6715217,-124.7969608,TRUE,FALSE,FALSE,"S261481910"
+"3","flfshe","Flesh-footed Shearwater","Ardenna carneipes","L3101637","Westport pelagic--Offshore Pacific County","2025-07-19 07:35",1,46.7285658,-124.5217896,TRUE,FALSE,FALSE,"S261479574"
