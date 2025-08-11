@@ -1,3 +1,6 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","yefgul","Yellow-footed Gull","Larus livens","L854441","Salton Sea--Lack Rd. at Grubel Rd. seawall","2025-08-09 12:42",1,33.1618044,-115.6486988,TRUE,FALSE,FALSE,"S266147482"
-"2","yefgul","Yellow-footed Gull","Larus livens","L367627","Salton Sea--Young Rd. (west end)","2025-08-08 07:59",1,33.1330196,-115.6666589,TRUE,FALSE,FALSE,"S265902547"
+"1","mauala","Maui Alauahio","Paroreomyza montana","L247163","Haleakala NP--Hosmer Grove","2025-08-09 09:03",4,20.7684183,-156.2365883,TRUE,FALSE,FALSE,"S266163697"
+"2","mauala","Maui Alauahio","Paroreomyza montana","L7615600","Hosmer Grove Campground","2025-08-08 16:38",2,20.7682265,-156.2381816,TRUE,FALSE,FALSE,"S266154701"
+"3","mauala","Maui Alauahio","Paroreomyza montana","L38594920","Hosmer Nature Trail, Kula US-HI 20.76770, -156.23580","2025-08-07 09:52",2,20.767699,-156.235801,TRUE,FALSE,TRUE,"S265703872"
+"4","mauala","Maui Alauahio","Paroreomyza montana","L51071211","Haleakalā National Park, Hana US-HI 20.68967, -156.12745","2025-08-05 09:17",2,20.689667,-156.127452,TRUE,FALSE,TRUE,"S265274971"
+"5","mauala","Maui Alauahio","Paroreomyza montana","L50903972","Hosmer Nature Trail","2025-08-02 08:48",3,20.767951,-156.23734,TRUE,FALSE,TRUE,"S264557044"
