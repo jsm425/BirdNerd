@@ -1,2 +1,2 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","aniani","Anianiau","Magumma parva","L1574904","Mōhihi Waiʻalae Trail","2025-08-08 06:45",11,22.1148068,-159.5774295,TRUE,TRUE,FALSE,"S265964472"
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
+"1","swagoo3","Swan Goose x Canada Goose (hybrid)","Anser cygnoides x Branta canadensis","L51258939","Rockland Trail","2025-08-09 11:02",1,39.989757,-75.195779,TRUE,FALSE,TRUE,"S266095500","X"
