@@ -1,291 +1,366 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
-"1","brnowl","American Barn Owl","Tyto furcata","L1295310","Bufferlands--Upper Beach Lake (limited access)","2025-08-18 14:47",1,38.4496454,-121.4852086,TRUE,FALSE,FALSE,"S268131593",NA
-"2","brnowl","American Barn Owl","Tyto furcata","L348666","Carmel River--Hwy 1 riparian (wading) and/or permit-only Odello","2025-08-18 12:01",2,36.5388333,-121.9166732,TRUE,FALSE,FALSE,"S268133850",NA
-"3","brnowl","American Barn Owl","Tyto furcata","L391138","Pt. Reyes--Mendoza Ranch (B Ranch)","2025-08-18 11:29",3,38.0164178,-122.9882956,TRUE,FALSE,FALSE,"S268113254",NA
-"4","brnowl","American Barn Owl","Tyto furcata","L51716423","Hamilton Wetlands","2025-08-18 10:02",1,38.0480843,-122.5070801,TRUE,FALSE,TRUE,"S268112228",NA
-"5","brnowl","American Barn Owl","Tyto furcata","L2698912","Ed Levin CP--Sandy Wool-Elm areas","2025-08-18 10:00",2,37.4559362,-121.8632054,TRUE,FALSE,FALSE,"S268143944",NA
-"6","brnowl","American Barn Owl","Tyto furcata","L51720130","The Plateau Club Golf Course, Sammamish US-WA 47.60602, -122.01055","2025-08-18 09:38",1,47.606017,-122.010553,TRUE,FALSE,TRUE,"S268125226",NA
-"7","brnowl","American Barn Owl","Tyto furcata","L370676","Moss Landing--marina, town & beach (south jetty southwards)","2025-08-18 08:48",1,36.8013642,-121.7879638,TRUE,FALSE,FALSE,"S268080979",NA
-"8","brnowl","American Barn Owl","Tyto furcata","L51706897","536 Glen Ct, Pasadena US-CA 34.15425, -118.17554","2025-08-18 08:19",1,34.154245,-118.175535,TRUE,FALSE,TRUE,"S268069897",NA
-"9","brnowl","American Barn Owl","Tyto furcata","L247085","Sod Farm/Tijuana River (view from road only)","2025-08-18 08:15",1,32.5471857,-117.0638439,TRUE,FALSE,FALSE,"S268090185",NA
-"10","brnowl","American Barn Owl","Tyto furcata","L17336404","2744 West Avenue O4, Palmdale, CA","2025-08-18 07:23",1,34.612284,-118.1803844,TRUE,FALSE,TRUE,"S268075296",NA
-"11","brnowl","American Barn Owl","Tyto furcata","L216132","Coyote Hills Regional Park","2025-08-18 07:15",2,37.553764,-122.0875025,TRUE,FALSE,FALSE,"S268082834",NA
-"12","brnowl","American Barn Owl","Tyto furcata","L47294166","100–162 Water Tank Rd, Hillsboro US-NM (32.9225,-107.5739)","2025-08-18 06:49",1,32.922455,-107.573901,TRUE,FALSE,TRUE,"S268103319",NA
-"13","brnowl","American Barn Owl","Tyto furcata","L50289695","Eastern Alpaugh US-CA","2025-08-18 06:42",1,35.861836,-119.411925,TRUE,FALSE,TRUE,"S268065774",NA
-"14","brnowl","American Barn Owl","Tyto furcata","L518641","Gibson Ranch County Park","2025-08-18 06:29",1,38.7243734,-121.4024919,TRUE,FALSE,FALSE,"S268120819",NA
-"15","brnowl","American Barn Owl","Tyto furcata","L776549","Salt Pond A2W","2025-08-18 05:56",2,37.4379977,-122.0763016,TRUE,FALSE,FALSE,"S268080933",NA
-"16","brnowl","American Barn Owl","Tyto furcata","L993912","Glen Tree Drive","2025-08-18 03:48",1,38.7142871,-121.2660156,TRUE,FALSE,TRUE,"S268016723",NA
-"17","brnowl","American Barn Owl","Tyto furcata","L3544759","Carmel--High Meadows","2025-08-18 02:25",1,36.5674279,-121.9089599,TRUE,FALSE,TRUE,"S268005522",NA
-"18","brnowl","American Barn Owl","Tyto furcata","L5730668","Home","2025-08-18 00:00",1,37.9752804,-122.579366,TRUE,FALSE,TRUE,"S268048860",NA
-"19","brnowl","American Barn Owl","Tyto furcata","L51689540","1122–1160 Bloomfield Ave, Gilroy US-CA 36.96249, -121.54330","2025-08-17 22:55",1,36.96249,-121.543301,TRUE,FALSE,TRUE,"S267987148",NA
-"20","brnowl","American Barn Owl","Tyto furcata","L3935295","Bishop St","2025-08-17 22:48",3,35.2708938,-120.6505895,TRUE,FALSE,TRUE,"S267987198",NA
-"21","brnowl","American Barn Owl","Tyto furcata","L2918485","General Laurelwood Area","2025-08-17 22:26",1,37.5323138,-122.3291098,TRUE,FALSE,TRUE,"S267985926",NA
-"22","brnowl","American Barn Owl","Tyto furcata","L4398652","US-CA-Fresno-5917 W Everett Ave - 36.8490x-119.8974","2025-08-17 22:21",1,36.849036,-119.897393,TRUE,FALSE,TRUE,"S267984453",NA
-"23","brnowl","American Barn Owl","Tyto furcata","L16580195","11885 Hollis Ct, Loma Linda US-CA 34.03779, -117.22241","2025-08-17 21:36",1,34.037791,-117.222411,TRUE,FALSE,TRUE,"S267981700",NA
-"24","brnowl","American Barn Owl","Tyto furcata","L7758559","Seabright yard","2025-08-17 21:30",1,36.9672647,-122.0078698,TRUE,FALSE,TRUE,"S268123732",NA
-"25","brnowl","American Barn Owl","Tyto furcata","L1915670","NM-1--San Antonio to Bosque del Apache Boundary","2025-08-17 21:17",1,33.8818172,-106.8715668,TRUE,FALSE,FALSE,"S267978550",NA
-"26","brnowl","American Barn Owl","Tyto furcata","L51688187","Hillcrest","2025-08-17 21:08",1,32.748304,-117.155534,TRUE,FALSE,TRUE,"S267980308",NA
-"27","brnowl","American Barn Owl","Tyto furcata","L26616910","Passino Yard, Three Rivers, California, US","2025-08-17 20:45",1,36.4536898,-118.9089201,TRUE,FALSE,TRUE,"S267979265",NA
-"28","brnowl","American Barn Owl","Tyto furcata","L14851650","Steep Creek","2025-08-17 20:25",1,36.469179,-118.855123,TRUE,FALSE,TRUE,"S267978188",NA
-"29","brnowl","American Barn Owl","Tyto furcata","L471741","Villa Creek--Estero Bluffs State Park","2025-08-17 20:14",1,35.4599561,-120.9688341,TRUE,FALSE,FALSE,"S267982500",NA
-"30","brnowl","American Barn Owl","Tyto furcata","L466488","Peninsula Open Space Trust--Wavecrest (Smith Field and blufftop area)","2025-08-17 20:14",4,37.4465089,-122.4378368,TRUE,FALSE,FALSE,"S267978570",NA
-"31","brnowl","American Barn Owl","Tyto furcata","L506053","Damonte Ranch Wetlands","2025-08-17 20:02",1,39.4275085,-119.7185326,TRUE,FALSE,FALSE,"S267977741",NA
-"32","brnowl","American Barn Owl","Tyto furcata","L51690241","Kukui Heiau","2025-08-17 19:35",1,22.051178,-159.329787,TRUE,FALSE,TRUE,"S267990751","N"
-"33","brnowl","American Barn Owl","Tyto furcata","L15652874","Puente Plaza","2025-08-17 19:07",1,34.4360014,-119.7848812,TRUE,FALSE,TRUE,"S267973394",NA
-"34","brnowl","American Barn Owl","Tyto furcata","L349636","Rosario Beach / Rosario Head","2025-08-17 18:16",1,48.4162023,-122.6644993,TRUE,FALSE,FALSE,"S267995419",NA
-"35","brnowl","American Barn Owl","Tyto furcata","L2776216","Sedgwick Reserve (restricted access)","2025-08-17 17:23",1,34.692571,-120.0405478,TRUE,FALSE,FALSE,"S267966512",NA
-"36","brnowl","American Barn Owl","Tyto furcata","L6261296","Vaughn WTP & Woodlot","2025-08-17 16:48",2,34.601548,-105.197035,TRUE,FALSE,FALSE,"S267959209",NA
-"37","brnowl","American Barn Owl","Tyto furcata","L51683058","Gilroy Golf Course, Gilroy US-CA 37.01317, -121.62304","2025-08-17 16:36",1,37.013169,-121.623038,TRUE,FALSE,TRUE,"S267958172",NA
-"38","brnowl","American Barn Owl","Tyto furcata","L6668557","The Rolling Land Company","2025-08-17 13:52",1,32.759099,-117.054679,TRUE,FALSE,TRUE,"S267942497",NA
-"39","brnowl","American Barn Owl","Tyto furcata","L4537125","Barr Lake SP--South End","2025-08-17 11:27",1,39.9317891,-104.7699738,TRUE,FALSE,FALSE,"S267928360",NA
-"40","brnowl","American Barn Owl","Tyto furcata","L612031","Rivera Fishing Pier (CTC 093)","2025-08-17 11:21",1,27.2863666,-97.6637363,TRUE,FALSE,FALSE,"S267874366",NA
-"41","brnowl","American Barn Owl","Tyto furcata","L509262","Point Wilson","2025-08-17 11:03",1,48.1442626,-122.7539778,TRUE,FALSE,FALSE,"S267971595",NA
-"42","brnowl","American Barn Owl","Tyto furcata","L866412","Imperial Irrigation District Wetland Project--Niland","2025-08-17 10:55",1,33.2118848,-115.5204034,TRUE,FALSE,FALSE,"S267908102",NA
-"43","brnowl","American Barn Owl","Tyto furcata","L3081702","Cal Poly--Cheda Ranch Nelson Reservoir","2025-08-17 10:20",1,35.3159045,-120.684337,TRUE,FALSE,FALSE,"S267954162",NA
-"44","brnowl","American Barn Owl","Tyto furcata","L792046","Lelah Bradley Park","2025-08-17 10:00",1,40.7133052,-92.8864002,TRUE,TRUE,FALSE,"S267983238",NA
-"45","brnowl","American Barn Owl","Tyto furcata","L43939915","1122 B Street Northwest, Ardmore, Oklahoma, US (34.185, -97.127)","2025-08-17 09:22",NA,34.1851856,-97.1268896,TRUE,FALSE,TRUE,"S268036937",NA
-"46","brnowl","American Barn Owl","Tyto furcata","L13730011","Old Post Rd.","2025-08-17 08:51",2,35.1189835,-81.6907193,TRUE,FALSE,TRUE,"S267816535",NA
-"47","brnowl","American Barn Owl","Tyto furcata","L249812","Blacks Creek Bird Reserve","2025-08-17 08:47",2,43.4584433,-116.1426544,TRUE,FALSE,FALSE,"S267881574",NA
-"48","brnowl","American Barn Owl","Tyto furcata","L7351229","150 north of Grassy Pond Road","2025-08-17 08:47",2,35.1599273,-81.6768694,TRUE,FALSE,TRUE,"S267814089",NA
-"49","brnowl","American Barn Owl","Tyto furcata","L656782","Cosumnes River Preserve","2025-08-17 08:35",1,38.2658235,-121.4394915,TRUE,FALSE,FALSE,"S267895230",NA
-"50","brnowl","American Barn Owl","Tyto furcata","L1532020","San Dieguito Lagoon--Southeast & Dust Devil Trails","2025-08-17 08:16",1,32.9696861,-117.2395813,TRUE,FALSE,FALSE,"S267921878",NA
-"51","brnowl","American Barn Owl","Tyto furcata","L758704","California Botanic Garden (formerly Rancho Santa Ana BG)","2025-08-17 08:14",1,34.1120533,-117.7152014,TRUE,FALSE,FALSE,"S267942102",NA
-"52","brnowl","American Barn Owl","Tyto furcata","L29363724","1469 Claymore Ct, Riverside US-CA 33.94666, -117.30680","2025-08-17 07:52",1,33.946659,-117.3068,TRUE,FALSE,TRUE,"S267874979",NA
-"53","brnowl","American Barn Owl","Tyto furcata","L36091523","Faretto Home","2025-08-17 07:46",1,39.4581306,-119.8103846,TRUE,FALSE,TRUE,"S267898783",NA
-"54","brnowl","American Barn Owl","Tyto furcata","L878593","Horn Rapids County Park","2025-08-17 07:34",1,46.3805405,-119.4356561,TRUE,FALSE,FALSE,"S267973491",NA
-"55","brnowl","American Barn Owl","Tyto furcata","L5219209","BRG4 WEST","2025-08-17 07:20",1,43.6597641,-116.2791233,TRUE,FALSE,TRUE,"S267870888",NA
-"56","brnowl","American Barn Owl","Tyto furcata","L2658366","Floridatown Park","2025-08-17 06:45",1,30.5812809,-87.1612358,TRUE,TRUE,FALSE,"S267989951",NA
-"57","brnowl","American Barn Owl","Tyto furcata","L715412","Higley and Ocotillo Rds. ponds","2025-08-17 06:25",1,33.2533311,-111.7181683,TRUE,FALSE,FALSE,"S267838623",NA
-"58","brnowl","American Barn Owl","Tyto furcata","L840634","Irvine Regional Park","2025-08-17 06:19",1,33.7968382,-117.7532673,TRUE,FALSE,FALSE,"S267968521",NA
-"59","brnowl","American Barn Owl","Tyto furcata","L319816","Goose Pond FWA (Please consider using a more specific location.)","2025-08-17 06:09",2,38.9873,-87.1865,TRUE,FALSE,FALSE,"S267775573",NA
-"60","brnowl","American Barn Owl","Tyto furcata","L129086","Santa Margarita Ranch (LTC 079) (restricted access - guided groups only)","2025-08-17 05:02",2,26.4856177,-99.0912337,TRUE,FALSE,FALSE,"S268113103",NA
-"61","brnowl","American Barn Owl","Tyto furcata","L292411","Crescent Lake WMA","2025-08-17 03:57",1,47.8162308,-121.9934082,TRUE,FALSE,FALSE,"S267848723",NA
-"62","brnowl","American Barn Owl","Tyto furcata","L35705855","38148 Hwy 226, Scio OR","2025-08-17 00:01",1,44.6611736,-122.845498,TRUE,FALSE,TRUE,"S267929228",NA
-"63","brnowl","American Barn Owl","Tyto furcata","L275689","Patagonia Town Park","2025-08-16 23:52",1,31.5400292,-110.7542655,TRUE,FALSE,FALSE,"S267748679",NA
-"64","brnowl","American Barn Owl","Tyto furcata","L9977592","1985 Acorn Road, San Marcos, California, US (33.131, -117.218)","2025-08-16 22:19",1,33.130672,-117.2179526,TRUE,FALSE,TRUE,"S267738011",NA
-"65","brnowl","American Barn Owl","Tyto furcata","L4512800","Camp Lotus","2025-08-16 22:12",1,38.7992072,-120.9118366,TRUE,FALSE,FALSE,"S267737405",NA
-"66","brnowl","American Barn Owl","Tyto furcata","L16341805","Logtown Ridge (yard list)","2025-08-16 22:10",1,38.6125128,-120.8487353,TRUE,FALSE,TRUE,"S267737228",NA
-"67","brnowl","American Barn Owl","Tyto furcata","L2692351","Nestucca Ridge","2025-08-16 21:40",1,45.2077567,-123.9626683,TRUE,FALSE,TRUE,"S267734843",NA
-"68","brnowl","American Barn Owl","Tyto furcata","L10035792","JP Home Muir Beach","2025-08-16 21:38",1,37.8645748,-122.5830476,TRUE,FALSE,TRUE,"S267735959",NA
-"69","brnowl","American Barn Owl","Tyto furcata","L49267093","Lomo del Sur","2025-08-16 21:33",1,32.7573456,-116.9790656,TRUE,FALSE,TRUE,"S267734306",NA
-"70","brnowl","American Barn Owl","Tyto furcata","L51605015","Virginia Range Survey Site","2025-08-16 21:30",1,39.9801597,-119.8380357,TRUE,FALSE,TRUE,"S268087098",NA
-"71","brnowl","American Barn Owl","Tyto furcata","L990849","Dave's neighborhood","2025-08-16 21:17",1,34.2753163,-119.1528788,TRUE,FALSE,TRUE,"S268107253",NA
-"72","brnowl","American Barn Owl","Tyto furcata","L26667140","Seward Park (residential)","2025-08-16 21:10",1,47.5437072,-122.2641116,TRUE,FALSE,TRUE,"S267985477",NA
-"73","brnowl","American Barn Owl","Tyto furcata","L5136960","Echo Lane*, Colorado Springs, CO","2025-08-16 20:52",1,38.8598064,-104.8711015,TRUE,FALSE,TRUE,"S267733612",NA
-"74","brnowl","American Barn Owl","Tyto furcata","L345551","Hastings Natural History Reservation (restricted access)","2025-08-16 20:51",1,36.388315,-121.5494692,TRUE,FALSE,FALSE,"S267736695",NA
-"75","brnowl","American Barn Owl","Tyto furcata","L19310702","Cousin Laura's Neighborhood","2025-08-16 20:50",1,33.0770281,-116.8835221,TRUE,FALSE,TRUE,"S267732050",NA
-"76","brnowl","American Barn Owl","Tyto furcata","L46478553","YARD-Oceanside2","2025-08-16 20:28",1,33.1829256,-117.3157152,TRUE,FALSE,TRUE,"S267913600",NA
-"77","brnowl","American Barn Owl","Tyto furcata","L12017372","Modesto Reservoir--inlet area","2025-08-16 20:26",1,37.655,-120.6425,TRUE,FALSE,FALSE,"S267837131",NA
-"78","brnowl","American Barn Owl","Tyto furcata","L854483","Carmel Valley--Holman Rd.","2025-08-16 20:19",1,36.4792531,-121.7218345,TRUE,FALSE,TRUE,"S267731048",NA
-"79","brnowl","American Barn Owl","Tyto furcata","L16565422","Shelby Farms Park--Gardner Rd. Marsh","2025-08-16 20:09",2,35.1424179,-89.8488404,TRUE,FALSE,FALSE,"S267720141",NA
-"80","brnowl","American Barn Owl","Tyto furcata","L523951","Stipson Island Rd.","2025-08-16 19:49",1,39.1890256,-74.9109006,TRUE,TRUE,FALSE,"S267717937",NA
-"81","brnowl","American Barn Owl","Tyto furcata","L627634","Cosumnes River Preserve--Cosumnes River Walk","2025-08-16 19:36",1,38.2598509,-121.4364767,TRUE,FALSE,FALSE,"S267728932",NA
-"82","brnowl","American Barn Owl","Tyto furcata","L36960572","27262 OR-36, Junction City US-OR (44.1879,-123.2717)","2025-08-16 18:40",1,44.187888,-123.271693,TRUE,FALSE,TRUE,"S267731728",NA
-"83","brnowl","American Barn Owl","Tyto furcata","L607633","Arana Gulch OSP","2025-08-16 18:18",1,36.9762781,-121.9989575,TRUE,FALSE,FALSE,"S267732062",NA
-"84","brnowl","American Barn Owl","Tyto furcata","L30885216","Home 102 Cobb Circle","2025-08-16 18:11",1,34.0767555,-96.4019089,TRUE,FALSE,TRUE,"S267714023",NA
-"85","brnowl","American Barn Owl","Tyto furcata","L44563248","33430, Belle Glade US-FL 26.63490, -80.57463","2025-08-16 14:47",1,26.634902,-80.574626,TRUE,FALSE,TRUE,"S267662422",NA
-"86","brnowl","American Barn Owl","Tyto furcata","L51626425","Iron Goat Trail","2025-08-16 12:33",1,47.712114,-121.162322,TRUE,FALSE,TRUE,"S267714260",NA
-"87","brnowl","American Barn Owl","Tyto furcata","L22198774","Atlantic Sugar Mill","2025-08-16 12:33",1,26.629057,-80.46935,TRUE,FALSE,FALSE,"S267636657",NA
-"88","brnowl","American Barn Owl","Tyto furcata","L109289","Barr Lake SP","2025-08-16 09:30",5,39.9430556,-104.7625,TRUE,FALSE,FALSE,"S267663073",NA
-"89","brnowl","American Barn Owl","Tyto furcata","L51603998","California 139, Susanville, California, US (40.721, -120.685)","2025-08-16 09:10",1,40.7209325,-120.6846055,TRUE,FALSE,TRUE,"S267629729",NA
-"90","brnowl","American Barn Owl","Tyto furcata","L262792","Iowa Dodd Beef/Tyson Ponds","2025-08-16 09:10",3,46.1288528,-118.8985787,TRUE,FALSE,FALSE,"S267640340",NA
-"91","brnowl","American Barn Owl","Tyto furcata","L3485867","Cedar Lake","2025-08-16 09:10",1,41.6636791,-122.4067926,TRUE,FALSE,FALSE,"S267692755",NA
-"92","brnowl","American Barn Owl","Tyto furcata","L51615568","Moniter Church of the Brethren","2025-08-16 08:35",3,38.3333081,-97.8137684,TRUE,FALSE,TRUE,"S267672094",NA
-"93","brnowl","American Barn Owl","Tyto furcata","L728336","Thief Valley Reservoir (Union Co.)","2025-08-16 08:15",1,45.0229344,-117.785368,TRUE,FALSE,FALSE,"S267725781",NA
-"94","brnowl","American Barn Owl","Tyto furcata","L776548","Salt Pond A2E","2025-08-16 07:11",1,37.4367028,-122.0636845,TRUE,FALSE,FALSE,"S267644780",NA
-"95","brnowl","American Barn Owl","Tyto furcata","L298649","Lake Apopka Wildlife Drive","2025-08-16 07:06",1,28.6691945,-81.5598149,TRUE,FALSE,FALSE,"S267584811",NA
-"96","brnowl","American Barn Owl","Tyto furcata","L931506","Prince Pond","2025-08-16 07:04",1,35.6690115,-118.3275604,TRUE,FALSE,FALSE,"S267595773",NA
-"97","brnowl","American Barn Owl","Tyto furcata","L472951","Paloma Ranch","2025-08-16 06:50",1,32.9189081,-112.8944135,TRUE,FALSE,FALSE,"S267736674",NA
-"98","brnowl","American Barn Owl","Tyto furcata","L266967","Great Western Reservoir (closed to public)","2025-08-16 06:45",2,39.8968365,-105.1522923,TRUE,TRUE,FALSE,"S267964739",NA
-"99","brnowl","American Barn Owl","Tyto furcata","L275227","Piute Ponds (permit required)","2025-08-16 06:25",1,34.7901193,-118.1181776,TRUE,FALSE,FALSE,"S267706138",NA
-"100","brnowl","American Barn Owl","Tyto furcata","L875490","Hillsboro (town)","2025-08-16 06:16",1,32.9207363,-107.5675249,TRUE,FALSE,FALSE,"S268103457",NA
-"101","brnowl","American Barn Owl","Tyto furcata","L241743","Fort Rosecrans National Cemetery (no birding 8a-5p)","2025-08-16 06:15",1,32.6846387,-117.2446284,TRUE,FALSE,FALSE,"S268107628",NA
-"102","brnowl","American Barn Owl","Tyto furcata","L17014559","Barataria Residence","2025-08-16 06:14",1,27.6007519,-97.232067,TRUE,FALSE,TRUE,"S267704937",NA
-"103","brnowl","American Barn Owl","Tyto furcata","L632002","Quail Hill Preserve, Irvine","2025-08-16 06:07",1,33.6536375,-117.7858829,TRUE,FALSE,FALSE,"S267662623",NA
-"104","brnowl","American Barn Owl","Tyto furcata","L51586605","19700–20998 W Fourth Ave, Abbyville US-KS 38.05741, -98.23323","2025-08-16 06:05",1,38.057408,-98.233232,TRUE,FALSE,TRUE,"S267548931",NA
-"105","brnowl","American Barn Owl","Tyto furcata","L594212","Cosumnes River Preserve--Tall Forest (limited access)","2025-08-16 05:28",2,38.2611314,-121.4084959,TRUE,FALSE,FALSE,"S268122494",NA
-"106","brnowl","American Barn Owl","Tyto furcata","L51582081","Main Street, Springfield, Colorado, US (37.382, -102.798)","2025-08-16 03:16",1,37.3822529,-102.7978573,TRUE,FALSE,TRUE,"S267530788",NA
-"107","brnowl","American Barn Owl","Tyto furcata","L23075174","3524 Pinebrook Dr SE, Olympia US-WA 47.00581, -122.84544","2025-08-16 03:04",1,47.005813,-122.845444,TRUE,FALSE,TRUE,"S267536286",NA
-"108","brnowl","American Barn Owl","Tyto furcata","L42000944","626 Northwest 34th Street, Corvallis, Oregon, US (44.574, -123.289)","2025-08-15 23:20",1,44.5742168,-123.2887569,TRUE,FALSE,TRUE,"S267513390",NA
-"109","brnowl","American Barn Owl","Tyto furcata","L20554496","Bay St Median","2025-08-15 22:43",1,36.971367,-122.047796,TRUE,FALSE,TRUE,"S267667722",NA
-"110","brnowl","American Barn Owl","Tyto furcata","L594035","Evergreen Rd.--Hwy 120 to Birch Lake","2025-08-15 22:25",1,37.8307344,-119.8517418,TRUE,FALSE,FALSE,"S268099776",NA
-"111","brnowl","American Barn Owl","Tyto furcata","L393566","Casa de San Pedro B&B--Visitors Welcome","2025-08-15 21:30",1,31.4088134,-110.1067829,TRUE,FALSE,FALSE,"S267679391",NA
-"112","brnowl","American Barn Owl","Tyto furcata","L11909703","Noyo River and Inner Harbor","2025-08-15 21:13",3,39.4258534,-123.7999937,TRUE,FALSE,FALSE,"S267505600",NA
-"113","brnowl","American Barn Owl","Tyto furcata","L511778","Garland Ranch Regional Park--Paso Hondo access and/or Dampierre Park and vicinity","2025-08-15 20:39",2,36.477102,-121.7379999,TRUE,FALSE,FALSE,"S267501634",NA
-"114","brnowl","American Barn Owl","Tyto furcata","L16716332","Coyote Hills Regional Park--Dumbarton Quarry Campground and Day Use","2025-08-15 19:32",1,37.540146,-122.07637,TRUE,FALSE,FALSE,"S267499680",NA
-"115","brnowl","American Barn Owl","Tyto furcata","L267830","Washtucna","2025-08-15 19:25",2,46.7510721,-118.3175335,TRUE,FALSE,FALSE,"S267859565",NA
-"116","brnowl","American Barn Owl","Tyto furcata","L725880","Dechambeau Ponds","2025-08-15 15:00",1,38.0506527,-119.0841529,TRUE,FALSE,FALSE,"S267463583",NA
-"117","brnowl","American Barn Owl","Tyto furcata","L21791167","110 Ray Symmonds Rd, Yakima US-WA 46.66141, -120.48192","2025-08-15 11:16",1,46.661413,-120.481925,TRUE,FALSE,TRUE,"S267436419",NA
-"118","brnowl","American Barn Owl","Tyto furcata","L17276954","Nurse Farmstead (private)","2025-08-15 10:26",2,37.113318,-98.549817,TRUE,FALSE,TRUE,"S267395895",NA
-"119","brnowl","American Barn Owl","Tyto furcata","L16175795","Timnath Reservoir NW corner","2025-08-15 09:30",1,40.5585953,-104.9665437,TRUE,FALSE,TRUE,"S267403416",NA
-"120","brnowl","American Barn Owl","Tyto furcata","L19169971","Alvadore Rd 44.1527,-123.2598","2025-08-15 09:05",1,44.152665,-123.259795,TRUE,FALSE,TRUE,"S267409903",NA
-"121","brnowl","American Barn Owl","Tyto furcata","L198798","Shollenberger Park","2025-08-15 08:15",1,38.2262552,-122.5976274,TRUE,FALSE,FALSE,"S267467422",NA
-"122","brnowl","American Barn Owl","Tyto furcata","L17077755","Iola McDonald’s to home along US 54","2025-08-15 07:57",1,37.9065347,-95.4824056,TRUE,FALSE,TRUE,"S267386779",NA
-"123","brnowl","American Barn Owl","Tyto furcata","L506711","LeBarron Point ","2025-08-15 07:42",1,40.0436655,-111.8778026,TRUE,FALSE,FALSE,"S267436230",NA
-"124","brnowl","American Barn Owl","Tyto furcata","L305036","Timnath Reservoir","2025-08-15 07:36",3,40.54796,-104.95986,TRUE,TRUE,FALSE,"S267406187",NA
-"125","brnowl","American Barn Owl","Tyto furcata","L2156363","White Rock Rd.--middle section (oak savanna)","2025-08-15 07:34",1,37.3240315,-120.0675201,TRUE,FALSE,FALSE,"S267475596",NA
-"126","brnowl","American Barn Owl","Tyto furcata","L51546162","2134 California St, Berkeley US-CA 37.86853, -122.27973","2025-08-15 07:15",1,37.868535,-122.279727,TRUE,FALSE,TRUE,"S267380435",NA
-"127","brnowl","American Barn Owl","Tyto furcata","L770872","Bird Refuge Rd.","2025-08-15 06:45",1,41.4689719,-112.1759892,TRUE,FALSE,FALSE,"S268105224",NA
-"128","brnowl","American Barn Owl","Tyto furcata","L443535","Yolo Bypass Wildlife Area","2025-08-15 06:35",1,38.551789,-121.6208018,TRUE,FALSE,FALSE,"S267449385",NA
-"129","brnowl","American Barn Owl","Tyto furcata","L8649719","Brownie Wise Park","2025-08-15 06:22",1,28.2762918,-81.3876181,TRUE,FALSE,FALSE,"S267361785",NA
-"130","brnowl","American Barn Owl","Tyto furcata","L12412551","Alta Mesa, Santa Barbara US-CA 34.41421, -119.72770","2025-08-15 06:15",1,34.414212,-119.727704,TRUE,FALSE,TRUE,"S267368653",NA
-"131","brnowl","American Barn Owl","Tyto furcata","L51658639","Imperial Beach Blvd, Imperial Beach","2025-08-15 05:55",1,32.5765203,-117.1296255,TRUE,FALSE,TRUE,"S267861120",NA
-"132","brnowl","American Barn Owl","Tyto furcata","L28558806","Frenchglen Highway, Burns, Oregon, US (43.469, -119.02)","2025-08-15 05:12",1,43.4686433,-119.0202264,TRUE,FALSE,TRUE,"S267454205",NA
-"133","brnowl","American Barn Owl","Tyto furcata","L28009968","Berkeley Hills","2025-08-15 04:22",1,37.8969334,-122.2616759,TRUE,FALSE,TRUE,"S267341554",NA
-"134","brnowl","American Barn Owl","Tyto furcata","L8418754","Stanford University--Escondido Village","2025-08-15 00:35",1,37.425329,-122.153921,TRUE,FALSE,FALSE,"S267736098",NA
-"135","brnowl","American Barn Owl","Tyto furcata","L601812","Black Widow Ranch","2025-08-15",1,33.9856225,-117.3125723,TRUE,FALSE,TRUE,"S267514925",NA
-"136","brnowl","American Barn Owl","Tyto furcata","L16838898","Millsmont Open Space","2025-08-14 22:20",1,37.7734328,-122.1725111,TRUE,FALSE,TRUE,"S267297640",NA
-"137","brnowl","American Barn Owl","Tyto furcata","L51528554","Utah First Credit Union Amphitheatre, West Valley City US-UT 40.65816, -112.03588","2025-08-14 21:47",1,40.65816,-112.035877,TRUE,FALSE,TRUE,"S267291219",NA
-"138","brnowl","American Barn Owl","Tyto furcata","L51529437","USANA, or Whatever We're Calling It These Days","2025-08-14 21:47",1,40.6581718,-112.0364385,TRUE,FALSE,TRUE,"S267295685",NA
-"139","brnowl","American Barn Owl","Tyto furcata","L51529533","11001 Shoreline Hwy, Elk US-CA 39.07948, -123.69583","2025-08-14 21:44",1,39.07948,-123.695829,TRUE,FALSE,TRUE,"S267296239",NA
-"140","brnowl","American Barn Owl","Tyto furcata","L18681099","Dutra Estates Park","2025-08-14 21:22",1,37.7766169,-121.2634789,TRUE,FALSE,TRUE,"S267295259",NA
-"141","brnowl","American Barn Owl","Tyto furcata","L51714134","Travertine Hot Springs","2025-08-14 21:03",1,38.245381,-119.2053,TRUE,FALSE,TRUE,"S268099941",NA
-"142","brnowl","American Barn Owl","Tyto furcata","L51529471","El Dorado Hills Movie Theater","2025-08-14 20:54",2,38.651978,-121.062463,TRUE,FALSE,TRUE,"S267295860",NA
-"143","brnowl","American Barn Owl","Tyto furcata","L22182481","Tulare_Ferndale Drive","2025-08-14 20:45",1,36.413406,-118.917029,TRUE,FALSE,TRUE,"S267291832",NA
-"144","brnowl","American Barn Owl","Tyto furcata","L42226392","962 Ferdinand Ave, Half Moon Bay US-CA 37.50997, -122.47448","2025-08-14 20:42",1,37.509968,-122.474477,TRUE,FALSE,TRUE,"S267291017",NA
-"145","brnowl","American Barn Owl","Tyto furcata","L644382","Lava Beds NM--Petroglyph Pt.","2025-08-14 20:08",1,41.8451,-121.39111,TRUE,FALSE,FALSE,"S267289802",NA
-"146","brnowl","American Barn Owl","Tyto furcata","L2500029","Kohanaiki Beach Park (Pine Trees)","2025-08-14 19:27",1,19.6941318,-156.0438124,TRUE,FALSE,FALSE,"S267298390","N"
-"147","brnowl","American Barn Owl","Tyto furcata","L2955666","Monterey--Veterans Memorial Park","2025-08-14 19:11",1,36.5972345,-121.9120646,TRUE,FALSE,FALSE,"S267397009",NA
-"148","brnowl","American Barn Owl","Tyto furcata","L3328558","Soil Born Farms","2025-08-14 19:03",2,38.5981575,-121.3168287,TRUE,FALSE,FALSE,"S267290621",NA
-"149","brnowl","American Barn Owl","Tyto furcata","L51529842","Dunne Avenue, Morgan Hill, California, US (37.167, -121.6)","2025-08-14 18:23",1,37.1665502,-121.6004798,TRUE,FALSE,TRUE,"S267297910",NA
-"150","brnowl","American Barn Owl","Tyto furcata","L49649097","Home","2025-08-14 17:15",1,33.4271126,-86.0946655,TRUE,FALSE,TRUE,"S267728938",NA
-"151","brnowl","American Barn Owl","Tyto furcata","L51521886","3309 Erika Ln, Mount Vernon US-WA 48.45605, -122.29844","2025-08-14 14:33",1,48.456051,-122.298443,TRUE,FALSE,TRUE,"S267263207",NA
-"152","brnowl","American Barn Owl","Tyto furcata","L1460618","Buffalo Ranch Pond","2025-08-14 13:22",1,40.9801077,-111.9387368,TRUE,FALSE,FALSE,"S267290503",NA
-"153","brnowl","American Barn Owl","Tyto furcata","L10158218","Cranberry Creek--Ecler Road","2025-08-14 10:59",1,47.2636544,-123.0144489,TRUE,FALSE,FALSE,"S267246763",NA
-"154","brnowl","American Barn Owl","Tyto furcata","L353255","Elkhorn Slough Reserve (NERR)","2025-08-14 09:50",1,36.8182308,-121.7364764,TRUE,FALSE,FALSE,"S267734563",NA
-"155","brnowl","American Barn Owl","Tyto furcata","L210732","Merced NWR (Please use a more specific hotspot where possible.)","2025-08-14 08:44",NA,37.1750923,-120.6160533,TRUE,FALSE,FALSE,"S267223872",NA
-"156","brnowl","American Barn Owl","Tyto furcata","L250091","Theler Wetlands","2025-08-14 08:14",1,47.4378813,-122.8411134,TRUE,FALSE,FALSE,"S267277109",NA
-"157","brnowl","American Barn Owl","Tyto furcata","L628412","Kern NWR","2025-08-14 08:00",3,35.7592007,-119.5933604,TRUE,FALSE,FALSE,"S267211940",NA
-"158","brnowl","American Barn Owl","Tyto furcata","L598129","Corona Heights Park","2025-08-14 07:37",1,37.764744,-122.4390221,TRUE,FALSE,FALSE,"S267202249",NA
-"159","brnowl","American Barn Owl","Tyto furcata","L7181932","Lake Yosemite Co. Park","2025-08-14 06:45",1,37.37125,-120.42867,TRUE,FALSE,FALSE,"S267293269",NA
-"160","brnowl","American Barn Owl","Tyto furcata","L18878331","AREA 6. C23 C23 STA. NO PUBLIC ACCESS (27.386, -80.51)","2025-08-14 06:12",1,27.3855516,-80.5098587,TRUE,FALSE,TRUE,"S267257436",NA
-"161","brnowl","American Barn Owl","Tyto furcata","L28465949","University Terrace, Palo Alto, CA","2025-08-14 06:05",1,37.417256,-122.151024,TRUE,FALSE,TRUE,"S267167120",NA
-"162","brnowl","American Barn Owl","Tyto furcata","L29274412","747 North Anson Road, Wellington, Kansas, US (37.366, -97.531)","2025-08-14 06:05",2,37.3659397,-97.530712,TRUE,FALSE,TRUE,"S267142515",NA
-"163","brnowl","American Barn Owl","Tyto furcata","L5290811","Rosicrucian Park","2025-08-14 06:04",1,37.3340316,-121.922721,TRUE,FALSE,FALSE,"S267167496",NA
-"164","brnowl","American Barn Owl","Tyto furcata","L44112888","Cactus Wren Field House - Audubon (Private Residence)","2025-08-14 05:25",1,35.692327,-118.289193,TRUE,FALSE,TRUE,"S267355449",NA
-"165","brnowl","American Barn Owl","Tyto furcata","L351484","Marymoor Park","2025-08-14 04:50",1,47.6612642,-122.1184109,TRUE,FALSE,FALSE,"S267427306",NA
-"166","brnowl","American Barn Owl","Tyto furcata","L51487499","County Road 102","2025-08-13 22:57",1,38.682403,-121.728757,TRUE,FALSE,TRUE,"S267109918",NA
-"167","brnowl","American Barn Owl","Tyto furcata","L12756847","Yardbirds","2025-08-13 22:24",1,37.8879953,-122.2910431,TRUE,FALSE,TRUE,"S267106054",NA
-"168","brnowl","American Barn Owl","Tyto furcata","L3258018","309 Live Oak Terrace","2025-08-13 22:07",1,37.98613,-120.39218,TRUE,FALSE,TRUE,"S267493715",NA
-"169","brnowl","American Barn Owl","Tyto furcata","L19750893","Garden City, Kansas, US (37.91, -100.911)","2025-08-13 21:12",1,37.9097974,-100.9111868,TRUE,FALSE,TRUE,"S267097276",NA
-"170","brnowl","American Barn Owl","Tyto furcata","L796430","Tapo Canyon Regional Park","2025-08-13 21:09",1,34.3228079,-118.7099793,TRUE,FALSE,FALSE,"S267207859",NA
-"171","brnowl","American Barn Owl","Tyto furcata","L469546","Skagit Wildlife Area--Fir Island Farm Reserve (Hayton Reserve)","2025-08-13 20:22",1,48.3356338,-122.4131659,TRUE,FALSE,FALSE,"S267099981",NA
-"172","brnowl","American Barn Owl","Tyto furcata","L5226294","Wasque Reservation (TTOR)","2025-08-13 19:37",2,41.3528453,-70.4542494,TRUE,FALSE,FALSE,"S267086990",NA
-"173","brnowl","American Barn Owl","Tyto furcata","L3150121","Sand Hill Bluff","2025-08-13 19:30",1,36.9777845,-122.1525859,TRUE,FALSE,FALSE,"S267124584",NA
-"174","brnowl","American Barn Owl","Tyto furcata","L190743","Antelope Island SP","2025-08-13 18:50",1,41.0465405,-112.2383881,TRUE,FALSE,FALSE,"S267100646",NA
-"175","brnowl","American Barn Owl","Tyto furcata","L8162225","Silver Lake","2025-08-13 13:17",1,39.6431136,-119.9123849,TRUE,FALSE,FALSE,"S267065987",NA
-"176","brnowl","American Barn Owl","Tyto furcata","L16989545","1351 Hopkins St, Berkeley US-CA 37.87941, -122.28643","2025-08-13 12:08",1,37.879411,-122.286428,TRUE,FALSE,TRUE,"S267100139",NA
-"177","brnowl","American Barn Owl","Tyto furcata","L51486581","SWW Fairgrounds, Centralia US-WA","2025-08-13 11:40",1,46.693388,-122.959356,TRUE,FALSE,TRUE,"S267104807",NA
-"178","brnowl","American Barn Owl","Tyto furcata","L6302787","Marsh Wren Community Wetlands","2025-08-13 08:05",1,40.885676,-96.657642,TRUE,TRUE,FALSE,"S267055775",NA
-"179","brnowl","American Barn Owl","Tyto furcata","L270969","Catalina Regional Park--pond","2025-08-13 07:20",1,32.4635648,-110.9018976,TRUE,FALSE,FALSE,"S267026596",NA
-"180","brnowl","American Barn Owl","Tyto furcata","L12348790","Lee Creek","2025-08-13 07:11",1,40.7732582,-112.1603194,TRUE,FALSE,FALSE,"S267726764",NA
-"181","brnowl","American Barn Owl","Tyto furcata","L420195","Big Morongo Canyon Preserve & Covington Park","2025-08-13 07:00",1,34.0497222,-116.5702639,TRUE,FALSE,FALSE,"S267244037",NA
-"182","brnowl","American Barn Owl","Tyto furcata","L51070177","Camas NWR Observation Tower","2025-08-13 06:25",1,43.92829,-112.270032,TRUE,FALSE,TRUE,"S267038892",NA
-"183","brnowl","American Barn Owl","Tyto furcata","L21209548","Argenta WMA","2025-08-13 05:52",1,40.66918,-116.930015,TRUE,FALSE,FALSE,"S267011081",NA
-"184","brnowl","American Barn Owl","Tyto furcata","L12290246","Zalunardo Yard","2025-08-13 05:46",1,44.2709162,-121.012287,TRUE,FALSE,TRUE,"S266978498",NA
-"185","brnowl","American Barn Owl","Tyto furcata","L18027571","6701 Mariposa Way, Merced, California, US (37.25, -120.367)","2025-08-13 02:08",1,37.2499183,-120.3667079,TRUE,FALSE,TRUE,"S266938688",NA
-"186","brnowl","American Barn Owl","Tyto furcata","L29074293","Saddle Mountain","2025-08-12 23:29",1,37.164213,-122.188488,TRUE,FALSE,TRUE,"S267667333",NA
-"187","brnowl","American Barn Owl","Tyto furcata","L24716834","1443 Curtis Lake Lane, Fort Collins","2025-08-12 23:23",1,40.6773449,-105.1287488,TRUE,FALSE,TRUE,"S266911271",NA
-"188","brnowl","American Barn Owl","Tyto furcata","L51444181","Cape Blanco State Park, Sixes US-OR 42.83811, -124.52586","2025-08-12 21:34",2,42.83811,-124.525859,TRUE,FALSE,TRUE,"S266907312",NA
-"189","brnowl","American Barn Owl","Tyto furcata","L31586469","Diamond Grove Prairie CA","2025-08-12 21:30",1,37.0076077,-94.3475389,TRUE,FALSE,TRUE,"S266910588",NA
-"190","brnowl","American Barn Owl","Tyto furcata","L13174639","San Ramon","2025-08-12 21:30",1,37.7658035,-121.9520828,TRUE,FALSE,TRUE,"S267059027",NA
-"191","brnowl","American Barn Owl","Tyto furcata","L20604597","Garden City, Kansas, US (37.907, -100.899)","2025-08-12 21:15",1,37.907319,-100.8986398,TRUE,FALSE,TRUE,"S266897855",NA
-"192","brnowl","American Barn Owl","Tyto furcata","L29154405","Mad River District Compound (No Public Access)","2025-08-12 20:46",1,40.462841,-123.522868,TRUE,FALSE,TRUE,"S266902495",NA
-"193","brnowl","American Barn Owl","Tyto furcata","L27215115","9595 Bluff St, Banning US-CA 33.98286, -116.91200","2025-08-12 20:07",1,33.982863,-116.911998,TRUE,FALSE,TRUE,"S266902391",NA
-"194","brnowl","American Barn Owl","Tyto furcata","L37906207","Home at South End of Monroe (Private Residence)","2025-08-12 20:05",1,38.6184567,-112.1354288,TRUE,FALSE,TRUE,"S266895204",NA
-"195","brnowl","American Barn Owl","Tyto furcata","L51437497","Mather Road, Sedalia, Missouri, US (38.565, -93.298)","2025-08-12 14:15",1,38.5647153,-93.2984274,TRUE,FALSE,TRUE,"S266878579",NA
-"196","brnowl","American Barn Owl","Tyto furcata","L798090","Tolay Regional Park","2025-08-12 10:01",3,38.2106695,-122.5126648,TRUE,FALSE,FALSE,"S267726965",NA
-"197","brnowl","American Barn Owl","Tyto furcata","L51426604","3867 Colorado 89, Holly, Colorado, US (37.688, -102.129) Private","2025-08-12 09:30",1,37.6876628,-102.1292459,TRUE,FALSE,TRUE,"S266831571",NA
-"198","brnowl","American Barn Owl","Tyto furcata","L815005","Baskett Slough NWR--The Narrows and Cottonwood Pond","2025-08-12 07:09",1,44.9592377,-123.2700262,TRUE,FALSE,FALSE,"S266798550",NA
-"199","brnowl","American Barn Owl","Tyto furcata","L51392657","Jesuit Retreat Center","2025-08-12 06:40",1,37.368378,-122.119575,TRUE,FALSE,TRUE,"S266793001",NA
-"200","brnowl","American Barn Owl","Tyto furcata","L3121517","John C. Williams WMA","2025-08-12 06:26",1,37.7755161,-85.6840467,TRUE,FALSE,FALSE,"S266744489",NA
-"201","brnowl","American Barn Owl","Tyto furcata","L481707","Tomales Bay--Cypress Grove Pt.","2025-08-12 06:24",1,38.1665499,-122.9014778,TRUE,FALSE,FALSE,"S266845450",NA
-"202","brnowl","American Barn Owl","Tyto furcata","L51429695","Tomales Bay - ""Hamlet"" area","2025-08-12 06:20",1,38.2055913,-122.9227787,TRUE,FALSE,TRUE,"S266845536",NA
-"203","brnowl","American Barn Owl","Tyto furcata","L3039382","Blackiston Wildlife Area","2025-08-12 04:42",1,39.2419591,-75.7081604,TRUE,FALSE,FALSE,"S266739735",NA
-"204","brnowl","American Barn Owl","Tyto furcata","L51406402","US-64, Alva US-OK 36.79782, -98.69460","2025-08-12 04:41",1,36.797822,-98.694598,TRUE,FALSE,TRUE,"S266737092",NA
-"205","brnowl","American Barn Owl","Tyto furcata","L51409043","10402 E Glenn St, Tucson US-AZ 32.25801, -110.76985","2025-08-12 04:11",1,32.258006,-110.769854,TRUE,FALSE,TRUE,"S266748945",NA
-"206","brnowl","American Barn Owl","Tyto furcata","L14771200","qatáy Valley (49th St to Blaine St)","2025-08-12 00:15",1,48.1205637,-122.7751226,TRUE,FALSE,FALSE,"S266817092",NA
-"207","brnowl","American Barn Owl","Tyto furcata","L11891146","41 s Bybee lane Yerington lyons nevada","2025-08-11 23:57",1,39.0150389,-119.0520063,TRUE,FALSE,TRUE,"S266719460",NA
-"208","brnowl","American Barn Owl","Tyto furcata","L38383005","2908 Champs Elysee Blvd, Half Moon Bay US-CA 37.49064, -122.45379","2025-08-11 22:52",1,37.490638,-122.453791,TRUE,FALSE,TRUE,"S266711770",NA
-"209","brnowl","American Barn Owl","Tyto furcata","L6443251","Hollandia Park","2025-08-11 22:33",2,33.1465255,-117.1451944,TRUE,FALSE,FALSE,"S266714903",NA
-"210","brnowl","American Barn Owl","Tyto furcata","L6372156","707 San Carlos Ave, Albany","2025-08-11 22:30",1,37.8943376,-122.2890222,TRUE,FALSE,TRUE,"S266709421",NA
-"211","brnowl","American Barn Owl","Tyto furcata","L51437495","6700 North Gaylord Rockies Boulevard, Aurora, Colorado, US (39.817, -104.75)","2025-08-11 22:01",1,39.8171456,-104.7503501,TRUE,FALSE,TRUE,"S266878574",NA
-"212","brnowl","American Barn Owl","Tyto furcata","L1154751","Monterey--Rose yard","2025-08-11 21:45",1,36.5896757,-121.9094387,TRUE,FALSE,TRUE,"S267086908",NA
-"213","brnowl","American Barn Owl","Tyto furcata","L21596678","Patito’s Porch","2025-08-11 21:27",1,32.737039,-117.132483,TRUE,FALSE,TRUE,"S266704848",NA
-"214","brnowl","American Barn Owl","Tyto furcata","L653390","Meadowlark Farm - private property","2025-08-11 21:03",1,38.5586831,-78.8618946,TRUE,FALSE,TRUE,"S266881236",NA
-"215","brnowl","American Barn Owl","Tyto furcata","L22431504","Fred’s House","2025-08-11 20:46",1,34.036295,-118.346191,TRUE,FALSE,TRUE,"S266705795",NA
-"216","brnowl","American Barn Owl","Tyto furcata","L43601195","Home Terra Noble","2025-08-11 20:45",1,37.3964577,-121.8381509,TRUE,FALSE,TRUE,"S266703125",NA
-"217","brnowl","American Barn Owl","Tyto furcata","L466485","Blufftop Coastal Park and Poplar Beach","2025-08-11 19:57",1,37.4543861,-122.4438715,TRUE,FALSE,FALSE,"S266699496",NA
-"218","brnowl","American Barn Owl","Tyto furcata","L41149606","Bird Refuge Road, Corinne, Utah, US (41.48, -112.323)","2025-08-11 18:13",1,41.4798252,-112.3225553,TRUE,FALSE,TRUE,"S266700959",NA
-"219","brnowl","American Barn Owl","Tyto furcata","L4795535","Gladeview Rd.","2025-08-11 18:11",2,26.6661316,-80.492734,TRUE,FALSE,FALSE,"S266872441",NA
-"220","brnowl","American Barn Owl","Tyto furcata","L374047","Cañada Larga Rd.","2025-08-11 15:24",2,34.3445699,-119.2783928,TRUE,FALSE,FALSE,"S266680259",NA
-"221","brnowl","American Barn Owl","Tyto furcata","L590835","Pt. Reyes--New Willows","2025-08-11 14:49",2,37.9974943,-122.9831564,TRUE,FALSE,FALSE,"S266859597",NA
-"222","brnowl","American Barn Owl","Tyto furcata","L453386","Pt. Reyes--Fish Docks (DO NOT INCLUDE Chimney Rock area)","2025-08-11 14:17",1,37.9956216,-122.9782104,TRUE,FALSE,FALSE,"S266859497",NA
-"223","brnowl","American Barn Owl","Tyto furcata","L503375","Pt. Reyes--Hall Ranch (Historic D Ranch)","2025-08-11 12:05",1,38.036549,-122.9626751,TRUE,FALSE,FALSE,"S266651552",NA
-"224","brnowl","American Barn Owl","Tyto furcata","L51437204","Spring house","2025-08-11 10:15",1,39.9446521,-120.0467127,TRUE,FALSE,TRUE,"S266877857",NA
-"225","brnowl","American Barn Owl","Tyto furcata","L31512872","Barr Lake State Park, Commerce City US-CO 39.93786, -104.75244","2025-08-11 09:52",1,39.937864,-104.752444,TRUE,FALSE,TRUE,"S266615027",NA
-"226","brnowl","American Barn Owl","Tyto furcata","L30827088","RESTRICTED ACCESS
- Smith Archeological Preserve","2025-08-11 09:50",2,40.1938123,-111.8943499,TRUE,FALSE,TRUE,"S266668940",NA
-"227","brnowl","American Barn Owl","Tyto furcata","L43793277","11301 McLeod Rd, Oakdale US-CA 37.8032909, -120.7720404","2025-08-11 08:05",1,37.8032909,-120.7720404,TRUE,FALSE,TRUE,"S266626527",NA
-"228","brnowl","American Barn Owl","Tyto furcata","L50041188","Avenue 56, Alpaugh US-CA","2025-08-11 08:04",1,35.891195,-119.416441,TRUE,FALSE,TRUE,"S266606405",NA
-"229","brnowl","American Barn Owl","Tyto furcata","L350064","Lyons Ferry Park","2025-08-11 07:40",1,46.595244,-118.217782,TRUE,FALSE,FALSE,"S266629732",NA
-"230","brnowl","American Barn Owl","Tyto furcata","L27418334","Santa Maria River | 34.98553, -120.48542","2025-08-11 07:17",1,34.985527,-120.485417,TRUE,FALSE,TRUE,"S267802995",NA
-"231","brnowl","American Barn Owl","Tyto furcata","L18079042","Area 7 & 8  NO Public Access Flume Road, Fort Pierce, Florida, US (27.397, -80.517)","2025-08-11 06:49",1,27.396823,-80.5170375,TRUE,FALSE,TRUE,"S267256044",NA
-"232","brnowl","American Barn Owl","Tyto furcata","L448084","Woodland WTP","2025-08-11 06:41",1,38.6624345,-121.7173585,TRUE,FALSE,FALSE,"S266662073",NA
-"233","brnowl","American Barn Owl","Tyto furcata","L51362886","South Denver Way, Boise, Idaho, US (43.572, -116.194)","2025-08-11 04:42",1,43.5723195,-116.1937121,TRUE,FALSE,TRUE,"S266537771",NA
-"234","brnowl","American Barn Owl","Tyto furcata","L1073747","Blue Oak Ranch Reserve (restricted access)","2025-08-11 03:44",2,37.381275,-121.7367983,TRUE,FALSE,FALSE,"S266601951",NA
-"235","brnowl","American Barn Owl","Tyto furcata","L34731389","Meadow Ridge—The Bruner Estate","2025-08-10 23:21",1,48.225812,-122.158894,TRUE,FALSE,TRUE,"S266638102",NA
-"236","brnowl","American Barn Owl","Tyto furcata","L152141","Sand Dune Park","2025-08-10 23:15",2,33.89873,-118.41236,TRUE,FALSE,FALSE,"S266510430",NA
-"237","brnowl","American Barn Owl","Tyto furcata","L3574409","Pine Ridge","2025-08-10 23:00",1,45.7075579,-123.923378,TRUE,FALSE,TRUE,"S266581736",NA
-"238","brnowl","American Barn Owl","Tyto furcata","L3220245","Geneva St Birds","2025-08-10 22:42",1,37.6693931,-121.7726058,TRUE,FALSE,TRUE,"S266504366",NA
-"239","brnowl","American Barn Owl","Tyto furcata","L5196185","Home (Torrance)","2025-08-10 22:25",1,33.8146092,-118.3354929,TRUE,FALSE,TRUE,"S266502698",NA
-"240","brnowl","American Barn Owl","Tyto furcata","L51355605","Skagit County Fairgrounds, Mount Vernon US-WA (48.4088,-122.3404)","2025-08-10 22:17",1,48.408838,-122.340445,TRUE,FALSE,TRUE,"S266502123",NA
-"241","brnowl","American Barn Owl","Tyto furcata","L6294629","Del Mar Elementary School","2025-08-10 21:54",1,36.9655293,-121.984849,TRUE,FALSE,TRUE,"S266502922",NA
-"242","brnowl","American Barn Owl","Tyto furcata","L51294293","Anderson Lake CP--E. Dunne Ave. along east end of lake","2025-08-10 20:12",1,37.1558706,-121.5843081,TRUE,FALSE,FALSE,"S266495617",NA
-"243","brnowl","American Barn Owl","Tyto furcata","L51354704","Pleasure Island Park, Livermore US-CA 37.67312, -121.80218","2025-08-10 20:07",3,37.673122,-121.802177,TRUE,FALSE,TRUE,"S266497520",NA
-"244","brnowl","American Barn Owl","Tyto furcata","L10131969","Dixieland grasslands","2025-08-10 20:06",1,26.161481,-97.721093,TRUE,FALSE,TRUE,"S266483690",NA
-"245","brnowl","American Barn Owl","Tyto furcata","L1633609","Wynola Road","2025-08-10 20:05",2,33.0966194,-116.612918,TRUE,FALSE,FALSE,"S266648337",NA
-"246","brnowl","American Barn Owl","Tyto furcata","L51337321","95039, Moss Landing US-CA 36.83811, -121.80225","2025-08-10 20:05",1,36.838111,-121.802253,TRUE,FALSE,TRUE,"S266868386",NA
-"247","brnowl","American Barn Owl","Tyto furcata","L189487","Arcata Marsh and Wildlife Sanctuary","2025-08-10 19:46",2,40.857361,-124.094612,TRUE,FALSE,FALSE,"S266496948",NA
-"248","brnowl","American Barn Owl","Tyto furcata","L26998750","Carbonera Estates, Santa Cruz, CA 95060","2025-08-10 19:09",1,37.0018188,-122.017692,TRUE,FALSE,TRUE,"S266612003",NA
-"249","brnowl","American Barn Owl","Tyto furcata","L1790905","Carson River Park/Silver Saddle Ranch","2025-08-10 18:59",6,39.1359229,-119.7066605,TRUE,FALSE,TRUE,"S266863783",NA
-"250","brnowl","American Barn Owl","Tyto furcata","L352953","Fay Slough Wildlife Area","2025-08-10 18:46",1,40.8070778,-124.1032247,TRUE,FALSE,FALSE,"S266504068",NA
-"251","brnowl","American Barn Owl","Tyto furcata","L51356306","Anderson Lake Bridge - E. Dunne Ave.","2025-08-10 18:10",1,37.1556703,-121.5839736,TRUE,FALSE,TRUE,"S266512022",NA
-"252","brnowl","American Barn Owl","Tyto furcata","L2104268","Coyote Hills Regional Park--Quarry Staging Area","2025-08-10 17:48",1,37.5511782,-122.0863867,TRUE,FALSE,FALSE,"S266818669",NA
-"253","brnowl","American Barn Owl","Tyto furcata","L51337445","I-80 E, Winnemucca US-NV 40.90533, -117.87127","2025-08-10 12:39",1,40.905328,-117.871265,TRUE,FALSE,TRUE,"S266428468",NA
-"254","brnowl","American Barn Owl","Tyto furcata","L51322359","111 Northeast 9th Street, Guymon, Oklahoma, US (36.687, -101.481)","2025-08-10 10:45",1,36.6866805,-101.4810037,TRUE,FALSE,TRUE,"S266369585",NA
-"255","brnowl","American Barn Owl","Tyto furcata","L391467","Dallas Southside WTP","2025-08-10 08:59",1,32.6456988,-96.6391754,TRUE,FALSE,FALSE,"S266373074",NA
-"256","brnowl","American Barn Owl","Tyto furcata","L662379","Barr Lake SP--Neidrach Nature Trail & Visitor Center area","2025-08-10 08:18",2,39.9369479,-104.7524576,TRUE,FALSE,FALSE,"S266392180",NA
-"257","brnowl","American Barn Owl","Tyto furcata","L4743559","Stevenson Park - 37.405x-122.086","2025-08-10 07:48",1,37.404993,-122.0856064,TRUE,FALSE,TRUE,"S266370054",NA
-"258","brnowl","American Barn Owl","Tyto furcata","L740504","South Fork Wildlife Area--south","2025-08-10 07:21",1,35.655309,-118.357816,TRUE,FALSE,FALSE,"S266344982",NA
-"259","brnowl","American Barn Owl","Tyto furcata","L51346834","CA Sacramento, Franklin Blvd, county line north to Desmond Road","2025-08-10 06:12",1,38.2585129,-121.4399083,TRUE,FALSE,TRUE,"S266464976",NA
-"260","brnowl","American Barn Owl","Tyto furcata","L815225","Warrenton Waterfront Trail","2025-08-10 06:11",1,46.1876745,-123.9239252,TRUE,FALSE,FALSE,"S266358791",NA
-"261","brnowl","American Barn Owl","Tyto furcata","L51311089","American River Bike Trail, Rancho Cordova, California, US (38.601, -121.319)","2025-08-10 06:06",2,38.6011206,-121.3190791,TRUE,FALSE,TRUE,"S266316973",NA
-"262","brnowl","American Barn Owl","Tyto furcata","L6622314","6904 Watermelon Road, Russellville, Kentucky, US (36.712, -86.959)","2025-08-10 05:30",1,36.7116981,-86.9588792,TRUE,FALSE,TRUE,"S266359852",NA
-"263","brnowl","American Barn Owl","Tyto furcata","L51308753","19565 Cabrillo Highway, San Gregorio, California, US (37.305, -122.405)","2025-08-10 05:13",1,37.304734,-122.4046426,TRUE,FALSE,TRUE,"S266304188",NA
-"264","brnowl","American Barn Owl","Tyto furcata","L51306451","67 Via Pico Plaza, San Clemente US-CA 33.43647, -117.62000","2025-08-10 04:54",1,33.436469,-117.619995,TRUE,FALSE,TRUE,"S266291153",NA
-"265","brnowl","American Barn Owl","Tyto furcata","L2410268","Rodoni Pumpkin Patch (seasonal access)","2025-08-10 04:45",1,36.973388,-122.1269825,TRUE,FALSE,FALSE,"S266304412",NA
-"266","brnowl","American Barn Owl","Tyto furcata","L1352166","Golden Gate Park--Mallard Lake","2025-08-09 20:46",1,37.7662442,-122.4863252,TRUE,FALSE,FALSE,"S266219738",NA
-"267","brnowl","American Barn Owl","Tyto furcata","L2273471","Sheehy Creek (NAP Co.)","2025-08-09 20:44",1,38.2272643,-122.2649226,TRUE,FALSE,FALSE,"S266219704",NA
-"268","brnowl","American Barn Owl","Tyto furcata","L2378314","Three Rivers--general area","2025-08-09 20:23",1,36.4377011,-118.9055228,TRUE,FALSE,FALSE,"S266218911",NA
-"269","brnowl","American Barn Owl","Tyto furcata","L790181","Bernal Community Park","2025-08-09 20:21",1,37.6552859,-121.8893623,TRUE,FALSE,FALSE,"S266220506",NA
-"270","brnowl","American Barn Owl","Tyto furcata","L871226","Mission Trails Regional Park--West Region","2025-08-09 19:02",1,32.8254028,-117.0710933,TRUE,FALSE,FALSE,"S266221469",NA
-"271","brnowl","American Barn Owl","Tyto furcata","L767633","Marana Wastewater Reclamation Facility (Stingray Drive)","2025-08-09 18:54",1,32.4658647,-111.2839723,TRUE,FALSE,FALSE,"S266215708",NA
-"272","brnowl","American Barn Owl","Tyto furcata","L758910","Sequoia NF--Troy Meadows and Campground","2025-08-09 16:35",1,36.0641111,-118.2392778,TRUE,FALSE,FALSE,"S266616107",NA
-"273","brnowl","American Barn Owl","Tyto furcata","L951983","MRN - Angel Island SP","2025-08-09 16:10",NA,37.8621151,-122.4330139,TRUE,FALSE,FALSE,"S266192462",NA
-"274","brnowl","American Barn Owl","Tyto furcata","L3824198","US-CA-Kern--Weldon--Kelso Valley--Bird Springs neighborhood","2025-08-09 15:33",1,35.560495,-118.220604,TRUE,FALSE,TRUE,"S266184614",NA
-"275","brnowl","American Barn Owl","Tyto furcata","L1387245","Willowside","2025-08-09 14:42",1,38.4404675,-122.7144314,TRUE,FALSE,TRUE,"S266225223",NA
-"276","brnowl","American Barn Owl","Tyto furcata","L20842226","Washtucna, Basset Park","2025-08-09 13:10",3,46.7510101,-118.3176064,TRUE,FALSE,TRUE,"S266162209",NA
-"277","brnowl","American Barn Owl","Tyto furcata","L4040208","Santa Maria Mesa Road Ponds","2025-08-09 10:11",1,34.8751355,-120.2678132,TRUE,FALSE,FALSE,"S266120294",NA
-"278","brnowl","American Barn Owl","Tyto furcata","L51283436","IMWSS Lake Point Wetlands - West (Restricted Access)","2025-08-09 10:09",1,40.6781885,-112.3121652,TRUE,FALSE,TRUE,"S266189196",NA
-"279","brnowl","American Barn Owl","Tyto furcata","L2353789","Salt Pond A9","2025-08-09 09:14",1,37.458236,-122.009367,TRUE,FALSE,FALSE,"S266102850",NA
-"280","brnowl","American Barn Owl","Tyto furcata","L2824508","Henry Horton SP","2025-08-09 08:39",1,35.5911203,-86.6932104,TRUE,FALSE,FALSE,"S266202934",NA
-"281","brnowl","American Barn Owl","Tyto furcata","L128974","Galveston Island SP (UTC 070)","2025-08-09 08:25",1,29.1956654,-94.9559069,TRUE,FALSE,FALSE,"S266389681",NA
-"282","brnowl","American Barn Owl","Tyto furcata","L838747","Colossal Cave Mountain Park","2025-08-09 07:56",1,32.0631918,-110.6370771,TRUE,FALSE,FALSE,"S267264658",NA
-"283","brnowl","American Barn Owl","Tyto furcata","L882153","San Geronimo Ck--Estero Bluffs SP","2025-08-09 06:56",1,35.4487639,-120.9338218,TRUE,FALSE,FALSE,"S266098767",NA
-"284","brnowl","American Barn Owl","Tyto furcata","L29227681","Orlando Apopka Airport Industrial Area","2025-08-09 06:42",1,28.7067118,-81.5827368,TRUE,FALSE,TRUE,"S266154428",NA
-"285","brnowl","American Barn Owl","Tyto furcata","L51319845","KO","2025-08-09 06:20",1,40.769854,-112.154683,TRUE,FALSE,TRUE,"S266359099",NA
-"286","brnowl","American Barn Owl","Tyto furcata","L51254675","8000 Figueroa Mountain Rd, Santa Ynez US-CA 34.74000, -120.01388","2025-08-09 05:59",2,34.740002,-120.013881,TRUE,FALSE,TRUE,"S266078055",NA
-"287","brnowl","American Barn Owl","Tyto furcata","L12968060","Rapley Ranch Rd./Langley Hill Rd. area","2025-08-09 05:48",1,37.3346873,-122.2290307,TRUE,FALSE,FALSE,"S266486697",NA
-"288","brnowl","American Barn Owl","Tyto furcata","L51246098","Sir Francis Drake Blvd, Woodacre US-CA 38.01173, -122.62326","2025-08-09 05:41",1,38.011734,-122.623258,TRUE,FALSE,TRUE,"S266037807",NA
-"289","brnowl","American Barn Owl","Tyto furcata","L8226620","Old Turnpike Rd (private residence)","2025-08-09 03:14",1,37.085224,-121.951948,TRUE,FALSE,TRUE,"S266151141",NA
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
+"1","eleter1","Elegant Tern","Thalasseus elegans","L3239468","Tijuana Slough NWR--Visitor Center/North McCoy Trail","2025-08-19 15:32",5,32.5748894,-117.1259087,TRUE,FALSE,FALSE,"S268321614"
+"2","eleter1","Elegant Tern","Thalasseus elegans","L388573","Corcoran Lagoon","2025-08-19 14:58",1,36.9614831,-121.9819736,TRUE,FALSE,FALSE,"S268313325"
+"3","eleter1","Elegant Tern","Thalasseus elegans","L591433","Stinson Beach","2025-08-19 13:20",500,37.8963357,-122.6392436,TRUE,FALSE,FALSE,"S268321733"
+"4","eleter1","Elegant Tern","Thalasseus elegans","L1316658","Morro Bay SP--Marina/Boardwalk Trail","2025-08-19 11:36",3,35.3445235,-120.8418006,TRUE,FALSE,FALSE,"S268291032"
+"5","eleter1","Elegant Tern","Thalasseus elegans","L293009","Doheny State Beach","2025-08-19 11:23",3,33.4615743,-117.6806331,TRUE,FALSE,FALSE,"S268322551"
+"6","eleter1","Elegant Tern","Thalasseus elegans","L418748","Seacoast Drive to Tijuana River mouth","2025-08-19 11:22",200,32.5665347,-117.1322003,TRUE,FALSE,FALSE,"S268292280"
+"7","eleter1","Elegant Tern","Thalasseus elegans","L1165694","Bolsa Chica--walkbridge/inner bay","2025-08-19 10:23",15,33.6965128,-118.0451372,TRUE,FALSE,FALSE,"S268284556"
+"8","eleter1","Elegant Tern","Thalasseus elegans","L500764","Dana Point Harbor","2025-08-19 10:14",1,33.459802,-117.6989365,TRUE,FALSE,FALSE,"S268322592"
+"9","eleter1","Elegant Tern","Thalasseus elegans","L509134","Elsie Roemer Bird Sanctuary","2025-08-19 10:10",300,37.7525975,-122.2473836,TRUE,FALSE,FALSE,"S268290275"
+"10","eleter1","Elegant Tern","Thalasseus elegans","L2028864","Off Mission Bay (offshore species only)","2025-08-19 10:04",1,32.754544,-117.3785801,TRUE,FALSE,FALSE,"S268319702"
+"11","eleter1","Elegant Tern","Thalasseus elegans","L375164","Goleta Beach County Park (including east end of Goleta Slough)","2025-08-19 09:37",7,34.4171771,-119.829812,TRUE,FALSE,FALSE,"S268267544"
+"12","eleter1","Elegant Tern","Thalasseus elegans","L997003","Coyote Point County Park--yacht club, harbor and freshwater marsh","2025-08-19 09:33",7,37.5886459,-122.3152274,TRUE,FALSE,FALSE,"S268302653"
+"13","eleter1","Elegant Tern","Thalasseus elegans","L911790","Seaplane Lagoon","2025-08-19 09:28",30,37.7772786,-122.3014784,TRUE,FALSE,FALSE,"S268290315"
+"14","eleter1","Elegant Tern","Thalasseus elegans","L51753719","10 State Park Road, Morro Bay, California, US (35.346, -120.843)","2025-08-19 09:16",2,35.346403,-120.8429253,TRUE,FALSE,TRUE,"S268278775"
+"15","eleter1","Elegant Tern","Thalasseus elegans","L355646","Cliff House","2025-08-19 09:07",40,37.7786269,-122.5141132,TRUE,FALSE,FALSE,"S268264928"
+"16","eleter1","Elegant Tern","Thalasseus elegans","L109308","Pt. Pinole Regional Park","2025-08-19 08:52",14,38.0033321,-122.361002,TRUE,FALSE,FALSE,"S268271327"
+"17","eleter1","Elegant Tern","Thalasseus elegans","L598440","Salinas River NWR","2025-08-19 08:47",8,36.7354169,-121.8033385,TRUE,FALSE,FALSE,"S268310919"
+"18","eleter1","Elegant Tern","Thalasseus elegans","L1032455","Wilder Ranch SP--Old Cove Landing Trail","2025-08-19 08:45",2,36.9569044,-122.0840338,TRUE,FALSE,FALSE,"S268298232"
+"19","eleter1","Elegant Tern","Thalasseus elegans","L16373854","The Golden Gate","2025-08-19 08:33",6,37.807598,-122.50561,TRUE,FALSE,FALSE,"S268283205"
+"20","eleter1","Elegant Tern","Thalasseus elegans","L22759560","Del Obispo Park to Mouth of San Juan Creek","2025-08-19 08:25",9,33.4672268,-117.6829854,TRUE,FALSE,FALSE,"S268303738"
+"21","eleter1","Elegant Tern","Thalasseus elegans","L351583","Ventura Harbor--general","2025-08-19 08:24",2,34.2494126,-119.2673206,TRUE,FALSE,FALSE,"S268261506"
+"22","eleter1","Elegant Tern","Thalasseus elegans","L3181705","Bolsa Chica--full tidal area","2025-08-19 08:20",200,33.6958158,-118.0368304,TRUE,FALSE,FALSE,"S268281673"
+"23","eleter1","Elegant Tern","Thalasseus elegans","L502380","Heron's Head Park","2025-08-19 08:08",6,37.7381243,-122.3725462,TRUE,FALSE,FALSE,"S268283722"
+"24","eleter1","Elegant Tern","Thalasseus elegans","L42443113","Sunset Dunes Park, North (Pacheco to Lincoln)","2025-08-19 08:05",30,37.7585946,-122.5095087,TRUE,FALSE,FALSE,"S268257602"
+"25","eleter1","Elegant Tern","Thalasseus elegans","L1124286","Crown Memorial SB--Crab Cove area","2025-08-19 08:00",20,37.7684076,-122.2774389,TRUE,FALSE,FALSE,"S268288409"
+"26","eleter1","Elegant Tern","Thalasseus elegans","L4834302","Dotson Family Marsh","2025-08-19 07:54",1,37.9818895,-122.3623323,TRUE,FALSE,FALSE,"S268270822"
+"27","eleter1","Elegant Tern","Thalasseus elegans","L2180025","Elk River Wildlife Sanctuary (incl. Hikshari' Trail & WTP)","2025-08-19 07:50",32,40.7662253,-124.1962874,TRUE,FALSE,FALSE,"S268314149"
+"28","eleter1","Elegant Tern","Thalasseus elegans","L390396","Black Point","2025-08-19 07:45",30,36.9594474,-121.9911068,TRUE,FALSE,FALSE,"S268254463"
+"29","eleter1","Elegant Tern","Thalasseus elegans","L955267","Cayucos Pier","2025-08-19 07:44",45,35.4478436,-120.9069453,TRUE,FALSE,FALSE,"S268274192"
+"30","eleter1","Elegant Tern","Thalasseus elegans","L20495675","Elmar Ct./Freethy Blvd. Marsh","2025-08-19 07:40",6,37.974618,-122.371407,TRUE,FALSE,FALSE,"S268270514"
+"31","eleter1","Elegant Tern","Thalasseus elegans","L17603022","Pasadena Park Beach","2025-08-19 07:16",20,35.3302867,-120.8440733,TRUE,FALSE,FALSE,"S268248077"
+"32","eleter1","Elegant Tern","Thalasseus elegans","L471741","Villa Creek--Estero Bluffs State Park","2025-08-19 07:11",3,35.4599561,-120.9688341,TRUE,FALSE,FALSE,"S268321011"
+"33","eleter1","Elegant Tern","Thalasseus elegans","L506275","San Diego River mudflats (including Robb Field & north side)","2025-08-19 07:00",5,32.7568803,-117.2401432,TRUE,FALSE,FALSE,"S268270733"
+"34","eleter1","Elegant Tern","Thalasseus elegans","L389606","Fort Mason","2025-08-19 06:35",11,37.8051812,-122.4285507,TRUE,FALSE,FALSE,"S268243244"
+"35","eleter1","Elegant Tern","Thalasseus elegans","L139567","Rodeo Lagoon (including beach and offshore)","2025-08-19 06:30",1600,37.8304863,-122.5329514,TRUE,FALSE,FALSE,"S268297763"
+"36","eleter1","Elegant Tern","Thalasseus elegans","L3608685","Sunny Cove","2025-08-19 06:24",10,36.9604092,-121.9889796,TRUE,FALSE,FALSE,"S268258451"
+"37","eleter1","Elegant Tern","Thalasseus elegans","L9926969","La Conchita Beach","2025-08-19 06:19",180,34.3633907,-119.4494786,TRUE,FALSE,FALSE,"S268248697"
+"38","eleter1","Elegant Tern","Thalasseus elegans","L597658","Malibu Lagoon--State Beach including Lagoon","2025-08-19 06:18",18,34.0333857,-118.6822987,TRUE,FALSE,FALSE,"S268279721"
+"39","eleter1","Elegant Tern","Thalasseus elegans","L4066151","Blacks Beach","2025-08-18 18:34",12,36.9601829,-121.9938128,TRUE,FALSE,FALSE,"S268161531"
+"40","eleter1","Elegant Tern","Thalasseus elegans","L1247311","Seabright SB","2025-08-18 18:29",4,36.9631976,-122.008152,TRUE,FALSE,FALSE,"S268160280"
+"41","eleter1","Elegant Tern","Thalasseus elegans","L297806","Santa Clara River Estuary","2025-08-18 18:04",13,34.2316739,-119.2627716,TRUE,FALSE,FALSE,"S268171099"
+"42","eleter1","Elegant Tern","Thalasseus elegans","L776806","Salt Pond AB1","2025-08-18 17:38",55,37.4416096,-122.063427,TRUE,TRUE,FALSE,"S268159181"
+"43","eleter1","Elegant Tern","Thalasseus elegans","L12740283","Long Beach--Belmont Kite Beach","2025-08-18 17:37",60,33.7533732,-118.1357409,TRUE,FALSE,TRUE,"S268156447"
+"44","eleter1","Elegant Tern","Thalasseus elegans","L1280089","Pescadero Marsh and Natural Preserve--(South Marsh) trail systems from Pescadero Creek Rd. access","2025-08-18 17:26",3,37.2595835,-122.4114737,TRUE,FALSE,FALSE,"S268160318"
+"45","eleter1","Elegant Tern","Thalasseus elegans","L2402250","MLK Jr. Regional Shoreline","2025-08-18 17:24",6,37.7318068,-122.2070861,TRUE,FALSE,FALSE,"S268158425"
+"46","eleter1","Elegant Tern","Thalasseus elegans","L299264","Ventura River Estuary","2025-08-18 17:14",45,34.2756058,-119.3081546,TRUE,FALSE,FALSE,"S268164009"
+"47","eleter1","Elegant Tern","Thalasseus elegans","L164929","Bolsa Chica Ecological Reserve","2025-08-18 16:55",NA,33.7026531,-118.050735,TRUE,FALSE,FALSE,"S268149274"
+"48","eleter1","Elegant Tern","Thalasseus elegans","L776548","Salt Pond A2E","2025-08-18 16:30",2,37.4367028,-122.0636845,TRUE,FALSE,FALSE,"S268169234"
+"49","eleter1","Elegant Tern","Thalasseus elegans","L989821","Ocean Beach County Park and Santa Ynez River Estuary","2025-08-18 16:15",1,34.6909567,-120.6003785,TRUE,FALSE,FALSE,"S268153088"
+"50","eleter1","Elegant Tern","Thalasseus elegans","L593834","Miller/Knox Regional Shoreline","2025-08-18 16:02",4,37.9162036,-122.3865795,TRUE,FALSE,FALSE,"S268149734"
+"51","eleter1","Elegant Tern","Thalasseus elegans","L624621","Bolinas Lagoon","2025-08-18 15:48",300,37.9197585,-122.6753139,TRUE,FALSE,FALSE,"S268162048"
+"52","eleter1","Elegant Tern","Thalasseus elegans","L109309","Pt. Pinos--seawatch only","2025-08-18 15:01",15,36.6373821,-121.9357538,TRUE,FALSE,FALSE,"S268142604"
+"53","eleter1","Elegant Tern","Thalasseus elegans","L21555635","Bayshore Beach and Playground","2025-08-18 14:53",70,33.7543326,-118.1314399,TRUE,FALSE,FALSE,"S268266632"
+"54","eleter1","Elegant Tern","Thalasseus elegans","L2031257","Upper Nine Mile Bank (SD Co.)","2025-08-18 14:30",NA,32.7689016,-117.5158252,TRUE,FALSE,FALSE,"S268167186"
+"55","eleter1","Elegant Tern","Thalasseus elegans","L1411076","Ventura Pier","2025-08-18 14:24",12,34.2728725,-119.2918998,TRUE,FALSE,FALSE,"S268137880"
+"56","eleter1","Elegant Tern","Thalasseus elegans","L826922","Lighthouse Field SB","2025-08-18 14:20",1,36.953276,-122.0285771,TRUE,FALSE,FALSE,"S268168859"
+"57","eleter1","Elegant Tern","Thalasseus elegans","L2999612","Playa del Rey/Ballona area","2025-08-18 14:10",1,33.9634551,-118.4519934,TRUE,FALSE,FALSE,"S268175822"
+"58","eleter1","Elegant Tern","Thalasseus elegans","L774817","Middle Harbor Shoreline Park","2025-08-18 13:50",5,37.8054779,-122.3259401,TRUE,FALSE,FALSE,"S268153514"
+"59","eleter1","Elegant Tern","Thalasseus elegans","L17326015","Eureka Waterfront - Hilfiker Ln","2025-08-18 13:23",70,40.771387,-124.1953981,TRUE,FALSE,TRUE,"S268143299"
+"60","eleter1","Elegant Tern","Thalasseus elegans","L51724416","100 Humboldt Ave, Sausalito US-CA 37.85666, -122.47876","2025-08-18 13:03",3,37.856655,-122.47876,TRUE,FALSE,TRUE,"S268143723"
+"61","eleter1","Elegant Tern","Thalasseus elegans","L716317","La Jolla Shores Park (sandy beach)","2025-08-18 13:00",2,32.8578569,-117.2566388,TRUE,FALSE,FALSE,"S268314737"
+"62","eleter1","Elegant Tern","Thalasseus elegans","L1337317","Presidio--Crissy Field-seawatch","2025-08-18 12:57",25,37.8049557,-122.4627065,TRUE,FALSE,FALSE,"S268125061"
+"63","eleter1","Elegant Tern","Thalasseus elegans","L761524","Bayshore Bikeway--Emory Cove & Pond 11","2025-08-18 12:09",4,32.6018801,-117.1238114,TRUE,FALSE,FALSE,"S268121547"
+"64","eleter1","Elegant Tern","Thalasseus elegans","L217690","Baker Beach","2025-08-18 12:06",5,37.793169,-122.482987,TRUE,FALSE,FALSE,"S268167580"
+"65","eleter1","Elegant Tern","Thalasseus elegans","L465131","Mission Creek outflow","2025-08-18 11:58",200,34.4127959,-119.6869361,TRUE,FALSE,FALSE,"S268115833"
+"66","eleter1","Elegant Tern","Thalasseus elegans","L351584","Ventura Settling Ponds","2025-08-18 11:56",1,34.2381312,-119.2615056,TRUE,FALSE,FALSE,"S268124725"
+"67","eleter1","Elegant Tern","Thalasseus elegans","L256021","Moss Landing--Jetty Road, north jetty & State Beach","2025-08-18 11:50",NA,36.8151691,-121.7900355,TRUE,FALSE,FALSE,"S268159579"
+"68","eleter1","Elegant Tern","Thalasseus elegans","L615391","Dockweiler State Beach","2025-08-18 11:45",NA,33.930293,-118.43678,TRUE,FALSE,FALSE,"S268324915"
+"69","eleter1","Elegant Tern","Thalasseus elegans","L36097640","South Carlsbad State Beach","2025-08-18 11:28",3,33.0986221,-117.3181323,TRUE,FALSE,TRUE,"S268109428"
+"70","eleter1","Elegant Tern","Thalasseus elegans","L453386","Pt. Reyes--Fish Docks (DO NOT INCLUDE Chimney Rock area)","2025-08-18 11:22",1,37.9956216,-122.9782104,TRUE,FALSE,FALSE,"S268106530"
+"71","eleter1","Elegant Tern","Thalasseus elegans","L1573995","San Francisco Bay Trail--Moffett Field","2025-08-18 11:17",1,37.4334763,-122.0617157,TRUE,FALSE,FALSE,"S268108787"
+"72","eleter1","Elegant Tern","Thalasseus elegans","L2877866","Lucerne St. Vista Point -- Cayucos","2025-08-18 11:08",1,35.44965,-120.9141691,TRUE,FALSE,FALSE,"S268144518"
+"73","eleter1","Elegant Tern","Thalasseus elegans","L247561","Ballona Creek--mouth, jetties, and breakwater","2025-08-18 11:05",30,33.9638739,-118.4563213,TRUE,FALSE,FALSE,"S268114331"
+"74","eleter1","Elegant Tern","Thalasseus elegans","L631718","Ventura Harbor--Marina Park","2025-08-18 11:00",5,34.2542014,-119.2683935,TRUE,FALSE,FALSE,"S268159835"
+"75","eleter1","Elegant Tern","Thalasseus elegans","L2047403","South Bay Salt Works--interior & bay (restricted access)","2025-08-18 09:50",520,32.6049209,-117.1062324,TRUE,FALSE,FALSE,"S268113819"
+"76","eleter1","Elegant Tern","Thalasseus elegans","L777805","Eureka Waterfront--Marina Way","2025-08-18 09:44",41,40.8008374,-124.1820007,TRUE,FALSE,FALSE,"S268166442"
+"77","eleter1","Elegant Tern","Thalasseus elegans","L279300","Younger Lagoon (restricted; access only to the overhang)","2025-08-18 09:23",1,36.9506136,-122.0661477,TRUE,FALSE,FALSE,"S268121423"
+"78","eleter1","Elegant Tern","Thalasseus elegans","L51712205","Monterey Bay, Monterey US-CA (36.6357,-121.8894)","2025-08-18 09:22",11,36.635699,-121.889376,TRUE,FALSE,TRUE,"S268092218"
+"79","eleter1","Elegant Tern","Thalasseus elegans","L1004802","Presidio--Crissy Field Lagoon","2025-08-18 09:00",400,37.8047658,-122.4562311,TRUE,FALSE,FALSE,"S268086922"
+"80","eleter1","Elegant Tern","Thalasseus elegans","L224081","Hawk Hill","2025-08-18 08:52",10,37.8281456,-122.4991411,TRUE,FALSE,FALSE,"S268105862"
+"81","eleter1","Elegant Tern","Thalasseus elegans","L286953","Candlestick Pt. State Rec. Area - long traveling lists - use specific hotspot where appropriate","2025-08-18 08:50",6,37.7117054,-122.3804593,TRUE,FALSE,FALSE,"S268108904"
+"82","eleter1","Elegant Tern","Thalasseus elegans","L1528599","Devil's Slide Trail and Egg Rock","2025-08-18 08:41",2,37.5755522,-122.5173359,TRUE,FALSE,FALSE,"S268139925"
+"83","eleter1","Elegant Tern","Thalasseus elegans","L247966","Coyote Point County Park","2025-08-18 08:38",2,37.5899626,-122.3215145,TRUE,FALSE,FALSE,"S268148128"
+"84","eleter1","Elegant Tern","Thalasseus elegans","L391136","Pt. Reyes--Drakes Beach (DO NOT INCLUDE Horseshoe Pond or beach/estero beyond Horseshoe Pond)","2025-08-18 08:19",2,38.0271821,-122.9615507,TRUE,FALSE,FALSE,"S268100504"
+"85","eleter1","Elegant Tern","Thalasseus elegans","L1022449","Bolsa Chica--Interpretive Center/Bolsa Bay","2025-08-18 08:07",1,33.7107751,-118.061657,TRUE,FALSE,FALSE,"S268088281"
+"86","eleter1","Elegant Tern","Thalasseus elegans","L691421","Terrace Pt. and Coastal Science Campus","2025-08-18 07:35",5,36.9508373,-122.0639798,TRUE,FALSE,FALSE,"S268077758"
+"87","eleter1","Elegant Tern","Thalasseus elegans","L2055079","Shelter Island","2025-08-18 07:22",3,32.7132831,-117.2273827,TRUE,FALSE,FALSE,"S268064316"
+"88","eleter1","Elegant Tern","Thalasseus elegans","L1022599","Ocean Beach-- across from Oceanside Water Polution Plant (FOR STATIONARY SEAWATCH ONLY)","2025-08-18 07:05",130,37.7294017,-122.5069034,TRUE,FALSE,FALSE,"S268176857"
+"89","eleter1","Elegant Tern","Thalasseus elegans","L966711","Bayshore Bikeway--13th Street (Ponds 22/20)","2025-08-18 06:56",4,32.5880078,-117.1059448,TRUE,FALSE,FALSE,"S268093686"
+"90","eleter1","Elegant Tern","Thalasseus elegans","L51718073","1137 Pasadena Dr, Los Osos US-CA (35.3313,-120.8432)","2025-08-18 06:36",75,35.331333,-120.843218,TRUE,FALSE,TRUE,"S268116226"
+"91","eleter1","Elegant Tern","Thalasseus elegans","L776549","Salt Pond A2W","2025-08-18 05:56",25,37.4379977,-122.0763016,TRUE,TRUE,FALSE,"S268080933"
+"92","eleter1","Elegant Tern","Thalasseus elegans","L26684542","Schoolhouse Beach","2025-08-17 19:35",2,34.2577847,-119.2722267,TRUE,FALSE,TRUE,"S267976465"
+"93","eleter1","Elegant Tern","Thalasseus elegans","L614301","Bird Walk Coastal Access and Smith Brothers Road","2025-08-17 19:15",2,38.3213295,-123.0372924,TRUE,FALSE,FALSE,"S267975743"
+"94","eleter1","Elegant Tern","Thalasseus elegans","L7615444","Mission Point Park","2025-08-17 18:33",1,32.7609876,-117.2459811,TRUE,FALSE,FALSE,"S267975417"
+"95","eleter1","Elegant Tern","Thalasseus elegans","L998470","Don Edwards NWR--Ravenswood Salt Pond SF2","2025-08-17 18:14",12,37.4887844,-122.1341944,TRUE,FALSE,FALSE,"S267982326"
+"96","eleter1","Elegant Tern","Thalasseus elegans","L634132","Forty First Avenue Park","2025-08-17 18:00",4,36.9599528,-121.9652045,TRUE,FALSE,FALSE,"S268176069"
+"97","eleter1","Elegant Tern","Thalasseus elegans","L776555","Salt Pond A12","2025-08-17 17:23",14,37.4337723,-121.9832611,TRUE,FALSE,FALSE,"S267969955"
+"98","eleter1","Elegant Tern","Thalasseus elegans","L242192","Pillar Point Harbor","2025-08-17 17:06",10,37.5033407,-122.4819213,TRUE,FALSE,FALSE,"S267962252"
+"99","eleter1","Elegant Tern","Thalasseus elegans","L1329104","Pelagic--inshore to 5 mi offshore (San Mateo Co.)","2025-08-17 16:23",15,37.4584563,-122.5318075,TRUE,FALSE,FALSE,"S268094882"
+"100","eleter1","Elegant Tern","Thalasseus elegans","L767707","Farallon Islands pelagic (SF Co.)","2025-08-17 15:30",200,37.7185903,-122.9534912,TRUE,TRUE,FALSE,"S267981854"
+"101","eleter1","Elegant Tern","Thalasseus elegans","L374051","Santa Barbara Harbor--Stearns Wharf","2025-08-17 15:12",NA,34.4098907,-119.6858793,TRUE,FALSE,FALSE,"S267950658"
+"102","eleter1","Elegant Tern","Thalasseus elegans","L51686120","Elkhorn Slough, Moss Landing US-CA","2025-08-17 15:09",300,36.80797,-121.787632,TRUE,FALSE,TRUE,"S267971470"
+"103","eleter1","Elegant Tern","Thalasseus elegans","L813476","Bolsa Chica SB","2025-08-17 14:10",10,33.7052492,-118.0578806,TRUE,FALSE,FALSE,"S267938613"
+"104","eleter1","Elegant Tern","Thalasseus elegans","L1861949","Ormond Beach--Arnold Rd.","2025-08-17 14:10",1,34.1226943,-119.156529,TRUE,FALSE,FALSE,"S267965510"
+"105","eleter1","Elegant Tern","Thalasseus elegans","L487997","Humboldt Bay--North Spit jetty","2025-08-17 14:03",10,40.764893,-124.2332155,TRUE,FALSE,FALSE,"S267942050"
+"106","eleter1","Elegant Tern","Thalasseus elegans","L1071000","Morro Strand State Beach","2025-08-17 12:45",6,35.3982858,-120.8678892,TRUE,FALSE,FALSE,"S267939066"
+"107","eleter1","Elegant Tern","Thalasseus elegans","L3867446","Stevens Creek delta","2025-08-17 12:30",NA,37.4453718,-122.0636368,TRUE,FALSE,FALSE,"S268072428"
+"108","eleter1","Elegant Tern","Thalasseus elegans","L247936","San Francisco Bay Trail--Colma Creek mouth","2025-08-17 12:25",47,37.6428456,-122.3970264,TRUE,FALSE,FALSE,"S267967423"
+"109","eleter1","Elegant Tern","Thalasseus elegans","L1324041","Fitzgerald Marine Reserve","2025-08-17 12:18",15,37.5224361,-122.516166,TRUE,FALSE,FALSE,"S267930897"
+"110","eleter1","Elegant Tern","Thalasseus elegans","L329116","Southeast Farallon Island (Farallon Islands NWR, restricted access)","2025-08-17 12:00",NA,37.69852,-123.002789,TRUE,FALSE,FALSE,"S267975413"
+"111","eleter1","Elegant Tern","Thalasseus elegans","L3268510","Surfer's Knoll","2025-08-17 11:46",1,34.2399779,-119.2660734,TRUE,FALSE,FALSE,"S267908797"
+"112","eleter1","Elegant Tern","Thalasseus elegans","L600887","Rancho Guadalupe Dunes Preserve, including Santa Maria River Estuary (SBA Co.)","2025-08-17 11:42",1,34.9671044,-120.6473815,TRUE,FALSE,FALSE,"S267943757"
+"113","eleter1","Elegant Tern","Thalasseus elegans","L1404057","Eureka--W Hawthorne/Felt St.","2025-08-17 11:19",1,40.7892227,-124.1834902,TRUE,FALSE,FALSE,"S267914178"
+"114","eleter1","Elegant Tern","Thalasseus elegans","L889837","Humboldt pelagic--Humboldt Bay portion only","2025-08-17 11:07",50,40.7585725,-124.2123591,TRUE,FALSE,FALSE,"S267921206"
+"115","eleter1","Elegant Tern","Thalasseus elegans","L905401","San Juan Creek mouth, Dana Point","2025-08-17 11:01",30,33.4633107,-117.6834011,TRUE,FALSE,FALSE,"S267901367"
+"116","eleter1","Elegant Tern","Thalasseus elegans","L776812","Sunnyvale WPCP--West Pond","2025-08-17 10:35",2,37.426752,-122.0223999,TRUE,FALSE,FALSE,"S268071748"
+"117","eleter1","Elegant Tern","Thalasseus elegans","L433164","Silver Strand SB--ocean side","2025-08-17 10:33",4,32.6307805,-117.1458339,TRUE,FALSE,FALSE,"S267922260"
+"118","eleter1","Elegant Tern","Thalasseus elegans","L21440434","Moss Landing--Jetty Rd., north jetty & State Beach","2025-08-17 10:30",4,36.8158928,-121.7905116,TRUE,FALSE,TRUE,"S268057070"
+"119","eleter1","Elegant Tern","Thalasseus elegans","L2968865","Don Edwards NWR--Shoreline Trail","2025-08-17 10:30",10,37.5485002,-122.1207451,TRUE,FALSE,FALSE,"S267976927"
+"120","eleter1","Elegant Tern","Thalasseus elegans","L868971","Sunnyvale WPCP--Lockheed Ponds and Marsh adjacent to Yahoo","2025-08-17 10:18",1,37.4215375,-122.0243955,TRUE,FALSE,FALSE,"S268070499"
+"121","eleter1","Elegant Tern","Thalasseus elegans","L21011124","Stearns Wharf, Santa Barbara US-CA 34.41031, -119.68562","2025-08-17 10:09",20,34.410313,-119.685616,TRUE,FALSE,TRUE,"S267886220"
+"122","eleter1","Elegant Tern","Thalasseus elegans","L1468261","Salt Pond A3W","2025-08-17 09:51",2,37.4324624,-122.0395062,TRUE,FALSE,FALSE,"S267882750"
+"123","eleter1","Elegant Tern","Thalasseus elegans","L302090","Ocean Beach (SF Co.)","2025-08-17 09:45",1,37.7561942,-122.5100899,TRUE,FALSE,FALSE,"S267917792"
+"124","eleter1","Elegant Tern","Thalasseus elegans","L51690487","San Pedro Channel US (33.4243,-118.1802)","2025-08-17 09:35",1,33.424253,-118.180172,TRUE,FALSE,TRUE,"S267991979"
+"125","eleter1","Elegant Tern","Thalasseus elegans","L12742110","Palo Alto Baylands--Boardwalk","2025-08-17 09:17",1,37.459984,-122.106112,TRUE,FALSE,FALSE,"S267947417"
+"126","eleter1","Elegant Tern","Thalasseus elegans","L388045","Santa Cruz Municipal Wharf","2025-08-17 09:15",3,36.959035,-122.0182907,TRUE,FALSE,FALSE,"S267953367"
+"127","eleter1","Elegant Tern","Thalasseus elegans","L4751440","Newport Beach--nearshore (ORA Co.)","2025-08-17 09:13",2,33.5551278,-117.9141333,TRUE,FALSE,FALSE,"S267991777"
+"128","eleter1","Elegant Tern","Thalasseus elegans","L2999551","Playa del Rey Beach","2025-08-17 09:09",20,33.959237,-118.453238,TRUE,FALSE,FALSE,"S267978959"
+"129","eleter1","Elegant Tern","Thalasseus elegans","L16458832","Crittenden Marsh - East","2025-08-17 09:08",2,37.4331112,-122.0526833,TRUE,FALSE,TRUE,"S267939209"
+"130","eleter1","Elegant Tern","Thalasseus elegans","L109395","Morro Bay Estuary (use more specific location(s) when possible)","2025-08-17 08:59",5,35.3377298,-120.8501072,TRUE,FALSE,FALSE,"S267903326"
+"131","eleter1","Elegant Tern","Thalasseus elegans","L218129","Ballona Wetlands Ecological Reserve (salt pan)","2025-08-17 08:30",2,33.9657863,-118.4442902,TRUE,FALSE,FALSE,"S267875789"
+"132","eleter1","Elegant Tern","Thalasseus elegans","L957336","Muir Beach--includes beach, Redwood Creek riparian corridor, Green Gulch","2025-08-17 08:28",300,37.8612556,-122.5751372,TRUE,FALSE,FALSE,"S267885316"
+"133","eleter1","Elegant Tern","Thalasseus elegans","L51686457","Monterey Seabirds Pelagic - 36.69372, -121.95697","2025-08-17 08:23",1,36.693718,-121.956975,TRUE,FALSE,TRUE,"S267973180"
+"134","eleter1","Elegant Tern","Thalasseus elegans","L803630","MLK Jr. Regional Shoreline--Doolittle Pond","2025-08-17 08:15",3,37.7463539,-122.225132,TRUE,FALSE,FALSE,"S267981368"
+"135","eleter1","Elegant Tern","Thalasseus elegans","L8299273","Don Edwards NWR--Dumbarton Pier","2025-08-17 08:06",6,37.510279,-122.1115243,TRUE,FALSE,FALSE,"S267948994"
+"136","eleter1","Elegant Tern","Thalasseus elegans","L198793","Del Rey Lagoon Park","2025-08-17 08:04",3,33.9610802,-118.4507315,TRUE,FALSE,FALSE,"S267909577"
+"137","eleter1","Elegant Tern","Thalasseus elegans","L8810106","Goleta Beach Park","2025-08-17 07:53",NA,34.4168585,-119.8322153,TRUE,FALSE,TRUE,"S267884104"
+"138","eleter1","Elegant Tern","Thalasseus elegans","L618528","Monterey Bay pelagic--inshore Monterey Harbor to Pt. Pinos (MTY Co.)","2025-08-17 07:49",3,36.6217017,-121.9037615,TRUE,FALSE,FALSE,"S267973200"
+"139","eleter1","Elegant Tern","Thalasseus elegans","L2844203","Newport Beach--municipal beaches","2025-08-17 07:40",8,33.614765,-117.934886,TRUE,FALSE,FALSE,"S267853656"
+"140","eleter1","Elegant Tern","Thalasseus elegans","L578608","Westside Regional Park","2025-08-17 07:27",2,38.3213566,-123.054986,TRUE,FALSE,FALSE,"S267860897"
+"141","eleter1","Elegant Tern","Thalasseus elegans","L51670437","Bolsa Chica Ecological Reserve, Huntington Beach US-CA 33.69612, -118.04577","2025-08-17 07:03",86,33.696121,-118.045773,TRUE,FALSE,TRUE,"S267907887"
+"142","eleter1","Elegant Tern","Thalasseus elegans","L832762","Belmont Pier and shore","2025-08-17 06:45",160,33.7577423,-118.1481743,TRUE,FALSE,FALSE,"S267845797"
+"143","eleter1","Elegant Tern","Thalasseus elegans","L550883","New Brighton SB","2025-08-17 06:34",4,36.9792438,-121.9355822,TRUE,FALSE,FALSE,"S267938038"
+"144","eleter1","Elegant Tern","Thalasseus elegans","L785035","Pillar Point Harbor--West Point Ave. Freshwater Pond, Marsh and Willow areas","2025-08-16 20:02",NA,37.5032728,-122.4968076,TRUE,FALSE,FALSE,"S267730179"
+"145","eleter1","Elegant Tern","Thalasseus elegans","L297604","Pacifica SB","2025-08-16 19:23",5,37.601498,-122.5002678,TRUE,FALSE,FALSE,"S267881141"
+"146","eleter1","Elegant Tern","Thalasseus elegans","L2589298","Hermosa Beach--beach","2025-08-16 17:57",4,33.8714845,-118.406353,TRUE,FALSE,FALSE,"S267719971"
+"147","eleter1","Elegant Tern","Thalasseus elegans","L473074","Estero Bluffs SP","2025-08-16 17:49",NA,35.4484114,-120.9437799,TRUE,FALSE,FALSE,"S267718844"
+"148","eleter1","Elegant Tern","Thalasseus elegans","L1503816","Cowell Beach","2025-08-16 17:41",3,36.9615154,-122.0242609,TRUE,FALSE,FALSE,"S267724336"
+"149","eleter1","Elegant Tern","Thalasseus elegans","L887007","San Simeon Point","2025-08-16 16:46",12,35.6358068,-121.1946398,TRUE,FALSE,FALSE,"S267745005"
+"150","eleter1","Elegant Tern","Thalasseus elegans","L600607","Lighthouse Pt.","2025-08-16 16:30",1,36.9511522,-122.026509,TRUE,FALSE,FALSE,"S267709844"
+"151","eleter1","Elegant Tern","Thalasseus elegans","L636208","West Cliff Dr. at Woodrow Ave.","2025-08-16 16:05",25,36.9529441,-122.0371413,TRUE,FALSE,FALSE,"S267724872"
+"152","eleter1","Elegant Tern","Thalasseus elegans","L51621980","Auto selected 37.74515, -122.67124","2025-08-16 14:26",15,37.74515,-122.671241,TRUE,FALSE,TRUE,"S267696741"
+"153","eleter1","Elegant Tern","Thalasseus elegans","L21663270","Santa Ynez River, Lompoc US-CA 34.69079, -120.59970","2025-08-16 13:28",6,34.690787,-120.599699,TRUE,FALSE,TRUE,"S267720092"
+"154","eleter1","Elegant Tern","Thalasseus elegans","L16843092","Harbor Bay Ferry Terminal, Alameda, California, US (37.739, -122.258)","2025-08-16 13:10",5,37.7385289,-122.257925,TRUE,FALSE,TRUE,"S267735468"
+"155","eleter1","Elegant Tern","Thalasseus elegans","L4890030","Rincon Beach (VEN Co.)","2025-08-16 13:10",6,34.3748581,-119.4745197,TRUE,FALSE,FALSE,"S267734355"
+"156","eleter1","Elegant Tern","Thalasseus elegans","L594831","Ballena Bay","2025-08-16 13:08",7,37.7661689,-122.2824669,TRUE,FALSE,FALSE,"S267676350"
+"157","eleter1","Elegant Tern","Thalasseus elegans","L599558","North Spit--Samoa Dunes Recreation Area (general)","2025-08-16 12:14",4,40.7628936,-124.2259741,TRUE,FALSE,FALSE,"S267672505"
+"158","eleter1","Elegant Tern","Thalasseus elegans","L16871073","Coal Oil Point Reserve (if possible, use more specific hotspot)","2025-08-16 12:06",75,34.4151882,-119.8799569,TRUE,FALSE,FALSE,"S267686748"
+"159","eleter1","Elegant Tern","Thalasseus elegans","L51612599","800 Ocean Front Walk, Santa Monica, California, US (34.02, -118.509)","2025-08-16 11:41",50,34.0200685,-118.509106,TRUE,FALSE,TRUE,"S267660855"
+"160","eleter1","Elegant Tern","Thalasseus elegans","L2529687","Pacifica Municipal Pier","2025-08-16 11:32",1,37.633398,-122.4979556,TRUE,FALSE,FALSE,"S267664278"
+"161","eleter1","Elegant Tern","Thalasseus elegans","L109471","Ano Nuevo SP--Visitors Center, Elephant Seals and trails","2025-08-16 11:20",4,37.1174022,-122.3188162,TRUE,FALSE,FALSE,"S267727034"
+"162","eleter1","Elegant Tern","Thalasseus elegans","L481023","Los Angeles River--Willow St.","2025-08-16 11:02",3,33.8048977,-118.2059383,TRUE,FALSE,FALSE,"S267702531"
+"163","eleter1","Elegant Tern","Thalasseus elegans","L518463","North Spit--Samoa Boat Ramp","2025-08-16 10:59",1,40.7723165,-124.2135076,TRUE,FALSE,FALSE,"S267652843"
+"164","eleter1","Elegant Tern","Thalasseus elegans","L827089","West Cliff Dr. at Stockton Ave.","2025-08-16 10:52",30,36.9490344,-122.0495975,TRUE,FALSE,FALSE,"S267654045"
+"165","eleter1","Elegant Tern","Thalasseus elegans","L169501","Pescadero State Beach -- (north) beach area and seawatch - West of Hwy 1 only","2025-08-16 10:47",3,37.2737378,-122.4098987,TRUE,FALSE,FALSE,"S267724094"
+"166","eleter1","Elegant Tern","Thalasseus elegans","L12365337","San Buenaventura SB--Sanjon Rd. to Ventura Pier","2025-08-16 10:45",8,34.2747106,-119.2882417,TRUE,FALSE,FALSE,"S267734920"
+"167","eleter1","Elegant Tern","Thalasseus elegans","L483011","Sharp Park Beaches and Golf Course Perimeter","2025-08-16 10:31",50,37.6295275,-122.4951553,TRUE,FALSE,FALSE,"S267656012"
+"168","eleter1","Elegant Tern","Thalasseus elegans","L35440092","Coyote Point Yacht Harbor, San Mateo US-CA 37.58614, -122.31586","2025-08-16 09:54",10,37.586137,-122.315865,TRUE,FALSE,TRUE,"S267688584"
+"169","eleter1","Elegant Tern","Thalasseus elegans","L741507","Natural Bridges SB--overlook","2025-08-16 09:50",1,36.9494116,-122.0564747,TRUE,FALSE,FALSE,"S267641453"
+"170","eleter1","Elegant Tern","Thalasseus elegans","L4121740","Bolsa Chica--Brightwater area","2025-08-16 09:41",9,33.7074915,-118.0453974,TRUE,FALSE,FALSE,"S267658761"
+"171","eleter1","Elegant Tern","Thalasseus elegans","L51622078","Auto selected 37.86410, -122.59802","2025-08-16 09:38",135,37.864098,-122.598023,TRUE,FALSE,TRUE,"S267697131"
+"172","eleter1","Elegant Tern","Thalasseus elegans","L749295","Hayward Regional Shoreline--Grant Ave. access","2025-08-16 09:36",1,37.6679579,-122.1614027,TRUE,FALSE,FALSE,"S267671849"
+"173","eleter1","Elegant Tern","Thalasseus elegans","L251839","Sweet Springs Nature Preserve","2025-08-16 09:32",2,35.3217375,-120.8422726,TRUE,FALSE,FALSE,"S267655253"
+"174","eleter1","Elegant Tern","Thalasseus elegans","L161083","MLK Jr. Regional Shoreline--Arrowhead Marsh","2025-08-16 09:25",2,37.7421628,-122.2112274,TRUE,FALSE,FALSE,"S268125670"
+"175","eleter1","Elegant Tern","Thalasseus elegans","L802931","Elkhorn Slough--Estrada & North marsh and/or Kirby Park","2025-08-16 09:21",15,36.8404781,-121.7424688,TRUE,FALSE,FALSE,"S267646094"
+"176","eleter1","Elegant Tern","Thalasseus elegans","L3557104","Cabrillo Beach Park","2025-08-16 09:09",10,33.7120446,-118.2839732,TRUE,FALSE,FALSE,"S267637099"
+"177","eleter1","Elegant Tern","Thalasseus elegans","L441069","Waddell SB","2025-08-16 09:04",2,37.0946519,-122.2786759,TRUE,FALSE,FALSE,"S267724070"
+"178","eleter1","Elegant Tern","Thalasseus elegans","L51625137","El Presidio","2025-08-16 09:00",222,37.8029348,-122.4484634,TRUE,FALSE,TRUE,"S267713178"
+"179","eleter1","Elegant Tern","Thalasseus elegans","L48264889","Salt Pond AB2","2025-08-16 08:55",1,37.4381628,-122.0482869,TRUE,FALSE,TRUE,"S267739468"
+"180","eleter1","Elegant Tern","Thalasseus elegans","L683229","San Francisco Bay Trail--Coyote Creek Lagoon","2025-08-16 08:50",5,37.468331,-121.939219,TRUE,FALSE,FALSE,"S267686316"
+"181","eleter1","Elegant Tern","Thalasseus elegans","L864592","Miller/Knox Regional Shoreline--Ferry Point","2025-08-16 08:48",2,37.9098045,-122.3891973,TRUE,FALSE,FALSE,"S267639281"
+"182","eleter1","Elegant Tern","Thalasseus elegans","L256020","Zmudowski SB","2025-08-16 08:46",60,36.8372464,-121.8014572,TRUE,FALSE,FALSE,"S267713692"
+"183","eleter1","Elegant Tern","Thalasseus elegans","L51622093","Golden Gate National Recreation Area, San Francisco US-CA 37.80893, -122.44433","2025-08-16 08:45",17,37.808934,-122.444331,TRUE,FALSE,TRUE,"S267697193"
+"184","eleter1","Elegant Tern","Thalasseus elegans","L51604969","Ventura Harbor Village, Ventura US-CA 34.24403, -119.26542","2025-08-16 08:33",5,34.244033,-119.265415,TRUE,FALSE,TRUE,"S267633289"
+"185","eleter1","Elegant Tern","Thalasseus elegans","L422817","Coal Oil Point, Devereux Beach, Sands Beach, and bluff trails","2025-08-16 08:30",1,34.4071359,-119.8783064,TRUE,FALSE,FALSE,"S267647568"
+"186","eleter1","Elegant Tern","Thalasseus elegans","L716363","Delta Beach--south overlook","2025-08-16 08:30",NA,32.6587429,-117.1546412,TRUE,FALSE,FALSE,"S267679724"
+"187","eleter1","Elegant Tern","Thalasseus elegans","L716084","Cabrillo Beach Pier","2025-08-16 08:28",20,33.7075399,-118.2754987,TRUE,FALSE,FALSE,"S267683452"
+"188","eleter1","Elegant Tern","Thalasseus elegans","L759446","Crittenden Marsh (Stevens Creek Nature Study Area)","2025-08-16 08:03",NA,37.4309097,-122.0660019,TRUE,FALSE,FALSE,"S267718592"
+"189","eleter1","Elegant Tern","Thalasseus elegans","L3230549","Redondo Pier","2025-08-16 08:00",1,33.839032,-118.3912307,TRUE,FALSE,FALSE,"S267658039"
+"190","eleter1","Elegant Tern","Thalasseus elegans","L655604","Santa Barbara Harbor--general","2025-08-16 06:38",200,34.4078515,-119.6898863,TRUE,FALSE,FALSE,"S267589655"
+"191","eleter1","Elegant Tern","Thalasseus elegans","L742496","Ellwood Mesa Open Space","2025-08-16 06:17",1,34.4216023,-119.8887134,TRUE,FALSE,FALSE,"S267650084"
+"192","eleter1","Elegant Tern","Thalasseus elegans","L466488","Peninsula Open Space Trust--Wavecrest (Smith Field and blufftop area)","2025-08-15 18:28",1,37.4465089,-122.4378368,TRUE,FALSE,FALSE,"S267495041"
+"193","eleter1","Elegant Tern","Thalasseus elegans","L1428653","Elfin Forest Preserve","2025-08-15 17:40",1,35.3337626,-120.8267537,TRUE,FALSE,FALSE,"S267491185"
+"194","eleter1","Elegant Tern","Thalasseus elegans","L17777937","Poplar Creek Golf Course Ponds","2025-08-15 15:45",5,37.5823378,-122.3255704,TRUE,FALSE,FALSE,"S267702363"
+"195","eleter1","Elegant Tern","Thalasseus elegans","L51568602","Mavericks Cliffs Trail, El Granada US-CA 37.50034, -122.49578","2025-08-15 15:09",5,37.500342,-122.495777,TRUE,FALSE,TRUE,"S267472842"
+"196","eleter1","Elegant Tern","Thalasseus elegans","L930210","Harbor Cove Way dock","2025-08-15 13:23",150,37.8953409,-122.5032663,TRUE,FALSE,TRUE,"S267713680"
+"197","eleter1","Elegant Tern","Thalasseus elegans","L28666649","1701 Monarch Street, Alameda, California, US (37.776, -122.309)","2025-08-15 12:45",8,37.7764001,-122.3092809,TRUE,FALSE,TRUE,"S267497904"
+"198","eleter1","Elegant Tern","Thalasseus elegans","L267487","Carpinteria Creek","2025-08-15 12:29",2,34.3930006,-119.5140259,TRUE,FALSE,FALSE,"S267450606"
+"199","eleter1","Elegant Tern","Thalasseus elegans","L51560060","Pajaro River, Moss Landing US-CA (36.8466,-121.8055)","2025-08-15 11:59",400,36.846613,-121.805489,TRUE,FALSE,TRUE,"S267439614"
+"200","eleter1","Elegant Tern","Thalasseus elegans","L820867","UCSB North Campus Open Space (formerly Ocean Meadows Golf Course)","2025-08-15 11:38",37,34.4198459,-119.8792197,TRUE,FALSE,FALSE,"S267453912"
+"201","eleter1","Elegant Tern","Thalasseus elegans","L784548","San Francisco Bay Trail--Point San Bruno","2025-08-15 11:20",1,37.6521961,-122.3779669,TRUE,FALSE,FALSE,"S267446106"
+"202","eleter1","Elegant Tern","Thalasseus elegans","L951032","Salt Pond A11","2025-08-15 11:00",37,37.4450373,-121.9963245,TRUE,TRUE,FALSE,"S267462917"
+"203","eleter1","Elegant Tern","Thalasseus elegans","L605526","Santa Barbara Channel--east channel (VEN Co.)","2025-08-15 10:54",4,34.1544317,-119.3767548,TRUE,FALSE,FALSE,"S267713877"
+"204","eleter1","Elegant Tern","Thalasseus elegans","L1764892","Salt Pond A8","2025-08-15 10:50",1,37.425167,-121.9896555,TRUE,FALSE,FALSE,"S267461947"
+"205","eleter1","Elegant Tern","Thalasseus elegans","L453066","Arroyo Grande Creek mouth","2025-08-15 10:48",6,35.1001785,-120.6287241,TRUE,FALSE,FALSE,"S267484690"
+"206","eleter1","Elegant Tern","Thalasseus elegans","L3906153","Pajaro Dunes--lower Watsonville Slough (closed to birders as of 2024)","2025-08-15 10:35",15,36.86115,-121.8142605,TRUE,FALSE,FALSE,"S267439396"
+"207","eleter1","Elegant Tern","Thalasseus elegans","L5531828","San Simeon Creek Mouth/Beach","2025-08-15 10:35",1,35.5956267,-121.1267052,TRUE,FALSE,FALSE,"S267499302"
+"208","eleter1","Elegant Tern","Thalasseus elegans","L200588","Natural Bridges SB","2025-08-15 10:29",9,36.9523782,-122.0567107,TRUE,FALSE,FALSE,"S267502702"
+"209","eleter1","Elegant Tern","Thalasseus elegans","L20387418","South Lucerne Street Overlook","2025-08-15 09:56",3,35.4492277,-120.9093487,TRUE,FALSE,TRUE,"S267464882"
+"210","eleter1","Elegant Tern","Thalasseus elegans","L109430","Elkhorn Slough--general (east of Hwy 1 only)","2025-08-15 09:45",40,36.8239201,-121.7426646,TRUE,FALSE,FALSE,"S267500657"
+"211","eleter1","Elegant Tern","Thalasseus elegans","L233548","Point La Jolla--seawatch","2025-08-15 09:34",3,32.8507576,-117.2735641,TRUE,FALSE,FALSE,"S267923275"
+"212","eleter1","Elegant Tern","Thalasseus elegans","L353255","Elkhorn Slough Reserve (NERR)","2025-08-15 09:13",20,36.8182308,-121.7364764,TRUE,FALSE,FALSE,"S267446267"
+"213","eleter1","Elegant Tern","Thalasseus elegans","L216132","Coyote Hills Regional Park","2025-08-15 09:00",20,37.553764,-122.0875025,TRUE,FALSE,FALSE,"S267697265"
+"214","eleter1","Elegant Tern","Thalasseus elegans","L22204587","Sunnyvale Baylands Trail, San Jose US-CA 37.43491, -122.02669","2025-08-15 08:58",1,37.434909,-122.026694,TRUE,FALSE,TRUE,"S267471577"
+"215","eleter1","Elegant Tern","Thalasseus elegans","L17766755","Stevens Creek Tidal Marsh","2025-08-15 08:32",5,37.432818,-122.0695349,TRUE,FALSE,FALSE,"S268094547"
+"216","eleter1","Elegant Tern","Thalasseus elegans","L1558626","MBSP-Bayside Cafe Point","2025-08-15 08:25",40,35.346417,-120.8439536,TRUE,FALSE,TRUE,"S267465011"
+"217","eleter1","Elegant Tern","Thalasseus elegans","L713779","San Lorenzo River mouth","2025-08-15 08:01",300,36.9638097,-122.0124171,TRUE,FALSE,FALSE,"S267427224"
+"218","eleter1","Elegant Tern","Thalasseus elegans","L12518772","Robb Athletic Field, San Diego US-CA 32.75528, -117.24095","2025-08-15 07:49",3,32.755283,-117.240951,TRUE,FALSE,TRUE,"S267445886"
+"219","eleter1","Elegant Tern","Thalasseus elegans","L1076855","Santa Barbara Harbor--Breakwater","2025-08-15 07:08",250,34.4062989,-119.6882558,TRUE,FALSE,FALSE,"S267380414"
+"220","eleter1","Elegant Tern","Thalasseus elegans","L614549","Santa Ana River mouth","2025-08-15 06:32",2,33.6299142,-117.9575443,TRUE,FALSE,FALSE,"S267466374"
+"221","eleter1","Elegant Tern","Thalasseus elegans","L999240","Presidio--Battery Godfrey","2025-08-15 06:30",900,37.8037613,-122.4774715,TRUE,FALSE,FALSE,"S267429561"
+"222","eleter1","Elegant Tern","Thalasseus elegans","L2056847","Grand Caribe Shoreline Park","2025-08-15 06:12",1,32.624211,-117.1293482,TRUE,FALSE,FALSE,"S267371322"
+"223","eleter1","Elegant Tern","Thalasseus elegans","L1482563","Jenner Overlook","2025-08-14 19:24",10,38.4518786,-123.1271242,TRUE,FALSE,FALSE,"S267289300"
+"224","eleter1","Elegant Tern","Thalasseus elegans","L606176","Bodega Head - offshore species and the bluff ONLY","2025-08-14 19:20",8,38.3031875,-123.0648422,TRUE,FALSE,FALSE,"S267302571"
+"225","eleter1","Elegant Tern","Thalasseus elegans","L51526512","22122 East Cliff Drive, Santa Cruz, California, US (36.961, -121.985) T's","2025-08-14 17:22",4,36.9607946,-121.9848747,TRUE,FALSE,TRUE,"S267282826"
+"226","eleter1","Elegant Tern","Thalasseus elegans","L12317414","Daly City—Daisaku Ikeda Canyon (37.6828,-122.4944)","2025-08-14 17:22",1,37.68275,-122.494357,TRUE,FALSE,FALSE,"S267294251"
+"227","eleter1","Elegant Tern","Thalasseus elegans","L12837523","Ventura Harbor Pelagic--harbor to 2 miles offshore","2025-08-14 17:19",15,34.2416775,-119.2871056,TRUE,FALSE,FALSE,"S267420959"
+"228","eleter1","Elegant Tern","Thalasseus elegans","L51529070","Abbotts Lagoon area","2025-08-14 16:51",2,38.118212,-122.942126,TRUE,FALSE,TRUE,"S267293636"
+"229","eleter1","Elegant Tern","Thalasseus elegans","L855316","Ormond Beach and lagoon","2025-08-14 15:09",4,34.1385855,-119.1868941,TRUE,FALSE,FALSE,"S267286827"
+"230","eleter1","Elegant Tern","Thalasseus elegans","L590462","Pt. Reyes--Limantour Beach","2025-08-14 15:05",2,38.0249882,-122.883153,TRUE,FALSE,FALSE,"S267292957"
+"231","eleter1","Elegant Tern","Thalasseus elegans","L1039923","Port Hueneme Beach Park","2025-08-14 14:42",400,34.1428534,-119.1975403,TRUE,FALSE,FALSE,"S267286793"
+"232","eleter1","Elegant Tern","Thalasseus elegans","L730351","Charleston Slough/Coast Casey Forebay","2025-08-14 14:20",1,37.4359191,-122.098918,TRUE,FALSE,FALSE,"S267290547"
+"233","eleter1","Elegant Tern","Thalasseus elegans","L291269","Morro Bay harbor mouth","2025-08-14 14:00",3,35.3640786,-120.8658353,TRUE,FALSE,FALSE,"S267277750"
+"234","eleter1","Elegant Tern","Thalasseus elegans","L1764188","Bodega Bay--Gaffney Pt. - includes Marine Lab and residence entrances","2025-08-14 13:32",2,38.3150602,-123.0578613,TRUE,FALSE,FALSE,"S267248363"
+"235","eleter1","Elegant Tern","Thalasseus elegans","L353768","Pismo Creek mouth","2025-08-14 12:52",1,35.1340046,-120.6392555,TRUE,FALSE,FALSE,"S267463270"
+"236","eleter1","Elegant Tern","Thalasseus elegans","L631250","Elkhorn Slough--boat survey","2025-08-14 12:46",2,36.8146566,-121.7523389,TRUE,FALSE,FALSE,"S267257697"
+"237","eleter1","Elegant Tern","Thalasseus elegans","L715140","La Jolla--Children's Pool (harbor seal haul out)","2025-08-14 12:43",15,32.847647,-117.27882,TRUE,FALSE,FALSE,"S267243195"
+"238","eleter1","Elegant Tern","Thalasseus elegans","L51529778","SWPCP _ southwest corner","2025-08-14 12:34",1,37.4267408,-122.034563,TRUE,FALSE,TRUE,"S267297919"
+"239","eleter1","Elegant Tern","Thalasseus elegans","L578601","Doran Regional Park - entrance pond to jetty","2025-08-14 12:11",9,38.3146057,-123.0438066,TRUE,FALSE,FALSE,"S268002388"
+"240","eleter1","Elegant Tern","Thalasseus elegans","L4856747","Bolinas Lagoon--Harbor Seal haulout","2025-08-14 12:01",10,37.914433,-122.665767,TRUE,FALSE,FALSE,"S267233289"
+"241","eleter1","Elegant Tern","Thalasseus elegans","L51528701","Elkhorn Slough","2025-08-14 11:26",50,36.8126119,-121.7869576,TRUE,FALSE,TRUE,"S267291874"
+"242","eleter1","Elegant Tern","Thalasseus elegans","L776809","Sunnyvale WPCP--East Pond","2025-08-14 11:19",2,37.4286605,-122.0139885,TRUE,FALSE,FALSE,"S267296820"
+"243","eleter1","Elegant Tern","Thalasseus elegans","L21811982","Coal Oil Point Reserve, Goleta US-CA 34.40773, -119.87813","2025-08-14 10:55",140,34.407727,-119.878134,TRUE,FALSE,TRUE,"S267288295"
+"244","eleter1","Elegant Tern","Thalasseus elegans","L256022","Moss Landing Wildlife Area (former salt ponds; some access restricted)","2025-08-14 10:31",27,36.8171904,-121.7794888,TRUE,FALSE,FALSE,"S267295233"
+"245","eleter1","Elegant Tern","Thalasseus elegans","L271497","Humboldt Bay--King Salmon","2025-08-14 10:22",20,40.740336,-124.218596,TRUE,FALSE,FALSE,"S267944187"
+"246","eleter1","Elegant Tern","Thalasseus elegans","L818961","Laguna Creek beach and marsh","2025-08-14 10:15",1,36.9833776,-122.1554614,TRUE,FALSE,FALSE,"S267239702"
+"247","eleter1","Elegant Tern","Thalasseus elegans","L35618494","Hollywood Beach","2025-08-14 10:06",30,34.173236,-119.236045,TRUE,FALSE,TRUE,"S267213429"
+"248","eleter1","Elegant Tern","Thalasseus elegans","L492576","MLK Jr. Regional Shoreline--Garretson Pt.","2025-08-14 09:52",12,37.7506464,-122.2110772,TRUE,FALSE,FALSE,"S267230232"
+"249","eleter1","Elegant Tern","Thalasseus elegans","L3289168","Fiesta Island--north","2025-08-14 09:50",1,32.7838051,-117.2183075,TRUE,FALSE,FALSE,"S267214275"
+"250","eleter1","Elegant Tern","Thalasseus elegans","L3183208","San Diego River--I-5 to Robb Field","2025-08-14 09:30",5,32.7584613,-117.2283376,TRUE,FALSE,TRUE,"S267270416"
+"251","eleter1","Elegant Tern","Thalasseus elegans","L11621541","Elk River: mouth from Truesdale St.","2025-08-14 09:27",32,40.7762752,-124.1942736,TRUE,FALSE,TRUE,"S267260763"
+"252","eleter1","Elegant Tern","Thalasseus elegans","L40986717","Pt Reyes -Abbott's Lagoon Trail: Parking Lot To Ocean, California, US (38.124, -122.936)","2025-08-14 09:16",4,38.1235714,-122.9355765,TRUE,FALSE,TRUE,"S267257695"
+"253","eleter1","Elegant Tern","Thalasseus elegans","L37753960","Hollywood Beach Oxnard","2025-08-14 09:00",50,34.176124,-119.233787,TRUE,FALSE,TRUE,"S267302117"
+"254","eleter1","Elegant Tern","Thalasseus elegans","L1307137","Eureka Waterfront--Elk River mouth","2025-08-14 07:49",35,40.7730994,-124.1965378,TRUE,FALSE,FALSE,"S267231678"
+"255","eleter1","Elegant Tern","Thalasseus elegans","L5004261","Sunset SB--Palm Beach Unit","2025-08-14 07:30",20,36.8678033,-121.8201697,TRUE,FALSE,FALSE,"S267228244"
+"256","eleter1","Elegant Tern","Thalasseus elegans","L839427","Santa Cruz Harbor--lower harbor and jetty","2025-08-14 07:22",3,36.9630553,-122.0021118,TRUE,FALSE,FALSE,"S267281156"
+"257","eleter1","Elegant Tern","Thalasseus elegans","L450184","East Beach","2025-08-14 07:05",NA,34.4158318,-119.6733427,TRUE,FALSE,FALSE,"S267204785"
+"258","eleter1","Elegant Tern","Thalasseus elegans","L15960937","Bolsa Chica Ecological Reserve","2025-08-14 06:58",300,33.6956373,-118.046422,TRUE,FALSE,TRUE,"S267264209"
+"259","eleter1","Elegant Tern","Thalasseus elegans","L673176","Golden Shore Marine Reserve","2025-08-14 06:54",12,33.7639101,-118.2027358,TRUE,FALSE,FALSE,"S267182329"
+"260","eleter1","Elegant Tern","Thalasseus elegans","L860683","Leadbetter Beach","2025-08-14 06:30",55,34.4021207,-119.6984911,TRUE,FALSE,FALSE,"S267177831"
+"261","eleter1","Elegant Tern","Thalasseus elegans","L152143","Pt. Fermin","2025-08-14 06:29",500,33.7058931,-118.2941294,TRUE,FALSE,FALSE,"S267194777"
+"262","eleter1","Elegant Tern","Thalasseus elegans","L590288","Bolinas Lagoon--Pine Gulch","2025-08-14 06:00",10,37.9209857,-122.6904202,TRUE,FALSE,FALSE,"S267280644"
+"263","eleter1","Elegant Tern","Thalasseus elegans","L10035792","JP Home Muir Beach","2025-08-13 22:28",1,37.8645748,-122.5830476,TRUE,FALSE,TRUE,"S267108073"
+"264","eleter1","Elegant Tern","Thalasseus elegans","L1440594","Mission Bay--entrance channel (not river mudflats)","2025-08-13 18:02",3,32.7587111,-117.2494586,TRUE,FALSE,FALSE,"S267091635"
+"265","eleter1","Elegant Tern","Thalasseus elegans","L329541","Half Moon Bay SB--Venice Beach and Pilarcitos/Frenchman's Creek Mouth","2025-08-13 16:51",90,37.4770523,-122.4492789,TRUE,FALSE,FALSE,"S267099808"
+"266","eleter1","Elegant Tern","Thalasseus elegans","L2083999","Seagrove/Powerhouse Parks","2025-08-13 15:48",1,32.9602347,-117.2677152,TRUE,FALSE,FALSE,"S267085643"
+"267","eleter1","Elegant Tern","Thalasseus elegans","L367640","Bayshore Bikeway--7th Street (Ponds 10/10A)","2025-08-13 14:20",1,32.5915005,-117.1180604,TRUE,FALSE,FALSE,"S267067334"
+"268","eleter1","Elegant Tern","Thalasseus elegans","L4034519","Dockweiler Beach--Grand Ave.","2025-08-13 13:44",1100,33.9169922,-118.4300272,TRUE,TRUE,FALSE,"S267075451"
+"269","eleter1","Elegant Tern","Thalasseus elegans","L484321","Turri Road Tidal Ponds","2025-08-13 12:37",3,35.3354332,-120.8218378,TRUE,FALSE,FALSE,"S267050568"
+"270","eleter1","Elegant Tern","Thalasseus elegans","L859942","Bayshore Bikeway--10th Street (Pond 23)","2025-08-13 10:23",NA,32.5901154,-117.1133738,TRUE,FALSE,FALSE,"S267079870"
+"271","eleter1","Elegant Tern","Thalasseus elegans","L218324","Pt. Reyes--Abbotts Lagoon","2025-08-13 10:02",15,38.1190611,-122.9522467,TRUE,FALSE,FALSE,"S267053061"
+"272","eleter1","Elegant Tern","Thalasseus elegans","L2174401","Rio Del Mar SB / Aptos Creek mouth","2025-08-13 09:45",3,36.9686907,-121.9065124,TRUE,FALSE,FALSE,"S267029939"
+"273","eleter1","Elegant Tern","Thalasseus elegans","L351269","Monterey Bay pelagic (MTY Co., 2+ mi offshore)","2025-08-13 09:44",NA,36.7158249,-122.0627976,TRUE,FALSE,FALSE,"S267057647"
+"274","eleter1","Elegant Tern","Thalasseus elegans","L1118263","Manhattan Beach--north beach","2025-08-13 09:25",NA,33.895141,-118.4186697,TRUE,FALSE,FALSE,"S267027250"
+"275","eleter1","Elegant Tern","Thalasseus elegans","L306035","Moonglow Dairy (Fri-Sun only; closed Mon-Thur)","2025-08-13 08:59",1,36.8103654,-121.7667337,TRUE,FALSE,FALSE,"S267017273"
+"276","eleter1","Elegant Tern","Thalasseus elegans","L48441979","Mariner’s Village Construction Site (Restricted Access)","2025-08-13 08:55",5,33.970295,-118.453802,TRUE,FALSE,TRUE,"S267027654"
+"277","eleter1","Elegant Tern","Thalasseus elegans","L635864","Arroyo de la Cruz","2025-08-13 08:48",7,35.7101584,-121.3089323,TRUE,FALSE,FALSE,"S267083093"
+"278","eleter1","Elegant Tern","Thalasseus elegans","L1123060","Pt. Vicente--general area","2025-08-13 08:36",85,33.7438618,-118.4105587,TRUE,FALSE,FALSE,"S267017059"
+"279","eleter1","Elegant Tern","Thalasseus elegans","L51395796","S Carlsbad State Beach-Ponto Beach, Carlsbad US-CA 33.08433, -117.31171","2025-08-13 08:35",1,33.084325,-117.311707,TRUE,FALSE,TRUE,"S267063144"
+"280","eleter1","Elegant Tern","Thalasseus elegans","L13344332","Bolsa Chica Conservancy, Huntington Beach US-CA 33.70091, -118.05031","2025-08-13 08:29",300,33.700906,-118.050309,TRUE,FALSE,TRUE,"S267036371"
+"281","eleter1","Elegant Tern","Thalasseus elegans","L3290173","Bolsa Chica channel","2025-08-13 08:27",NA,33.710179,-118.032875,TRUE,FALSE,TRUE,"S267091832"
+"282","eleter1","Elegant Tern","Thalasseus elegans","L370676","Moss Landing--marina, town & beach (south jetty southwards)","2025-08-13 08:04",7,36.8013642,-121.7879638,TRUE,FALSE,FALSE,"S267005529"
+"283","eleter1","Elegant Tern","Thalasseus elegans","L47383251","Bolsa Chica Ecological Reserve, Huntington Beach US-CA 33.69855, -118.04786","2025-08-13 07:53",50,33.698549,-118.04786,TRUE,FALSE,TRUE,"S267037381"
+"284","eleter1","Elegant Tern","Thalasseus elegans","L2420919","Arroyo Laguna","2025-08-13 07:48",3,35.6515286,-121.2196684,TRUE,FALSE,FALSE,"S267083073"
+"285","eleter1","Elegant Tern","Thalasseus elegans","L1342372","Pt. Reyes--Abbotts Lagoon Trailhead","2025-08-13 07:08",38,38.123366,-122.9353027,TRUE,FALSE,FALSE,"S267041671"
+"286","eleter1","Elegant Tern","Thalasseus elegans","L5730668","Home","2025-08-13 00:00",1,37.9752804,-122.579366,TRUE,FALSE,TRUE,"S266979831"
+"287","eleter1","Elegant Tern","Thalasseus elegans","L213054","Pier 39","2025-08-12 17:15",2,37.81014,-122.4104619,TRUE,FALSE,FALSE,"S267418466"
+"288","eleter1","Elegant Tern","Thalasseus elegans","L2248482","Don Edwards NWR--No Name Trail","2025-08-12 17:14",1,37.5464008,-122.0973837,TRUE,FALSE,FALSE,"S266896727"
+"289","eleter1","Elegant Tern","Thalasseus elegans","L9849167","Doran Regional Park, Bodega Bay US-CA (38.3136,-123.0476)","2025-08-12 15:31",95,38.313599,-123.047569,TRUE,FALSE,TRUE,"S267039614"
+"290","eleter1","Elegant Tern","Thalasseus elegans","L854587","San Francisco Ferry Building","2025-08-12 13:30",6,37.7952236,-122.3942045,TRUE,FALSE,FALSE,"S267283511"
+"291","eleter1","Elegant Tern","Thalasseus elegans","L51439384","Malibu Lagoon State Beach","2025-08-12 11:30",40,34.032676,-118.683379,TRUE,FALSE,TRUE,"S266915387"
+"292","eleter1","Elegant Tern","Thalasseus elegans","L1112464","Shoreline Aquatic Park","2025-08-12 10:55",8,33.7602041,-118.1957674,TRUE,FALSE,FALSE,"S266843856"
+"293","eleter1","Elegant Tern","Thalasseus elegans","L368384","Marina SB and/or Marina Dunes Preserve","2025-08-12 10:47",3,36.6987049,-121.8100548,TRUE,FALSE,FALSE,"S266843499"
+"294","eleter1","Elegant Tern","Thalasseus elegans","L280562","Cabrillo National Monument","2025-08-12 09:41",3,32.6742155,-117.2414321,TRUE,FALSE,FALSE,"S267170130"
+"295","eleter1","Elegant Tern","Thalasseus elegans","L51424969","Hermosa beach","2025-08-12 09:30",400,33.85784,-118.401519,TRUE,FALSE,TRUE,"S266825279"
+"296","eleter1","Elegant Tern","Thalasseus elegans","L51429417","Monterey, California, US (36.621, -121.891)","2025-08-12 09:11",4,36.621428,-121.8909165,TRUE,FALSE,TRUE,"S266844436"
+"297","eleter1","Elegant Tern","Thalasseus elegans","L454234","Sunset SB","2025-08-12 08:55",20,36.8897212,-121.8317049,TRUE,FALSE,FALSE,"S267279099"
+"298","eleter1","Elegant Tern","Thalasseus elegans","L608780","Wilder Ranch SP--Four Mile Beach","2025-08-12 08:42",6,36.9674449,-122.1230525,TRUE,FALSE,FALSE,"S266824493"
+"299","eleter1","Elegant Tern","Thalasseus elegans","L22287082","Terrace Point Overlook","2025-08-12 08:37",1,36.9483241,-122.0653954,TRUE,FALSE,TRUE,"S266807556"
+"300","eleter1","Elegant Tern","Thalasseus elegans","L738199","Ballona Creek--lower","2025-08-12 08:12",23,33.9695101,-118.4419352,TRUE,FALSE,FALSE,"S266818831"
+"301","eleter1","Elegant Tern","Thalasseus elegans","L802205","YMCA--Camp Surf","2025-08-12 07:29",2,32.588024,-117.1323314,TRUE,FALSE,FALSE,"S267059906"
+"302","eleter1","Elegant Tern","Thalasseus elegans","L337489","Audubon Canyon Ranch","2025-08-12 07:11",35,37.93093,-122.68025,TRUE,FALSE,FALSE,"S266826781"
+"303","eleter1","Elegant Tern","Thalasseus elegans","L10738821","Dockweiler State Beach, Los Angeles US-CA (33.9607,-118.4575)","2025-08-12 07:10",1,33.960677,-118.457515,TRUE,FALSE,TRUE,"S266798526"
+"304","eleter1","Elegant Tern","Thalasseus elegans","L241743","Fort Rosecrans National Cemetery (no birding 8a-5p)","2025-08-12 06:26",1,32.6846387,-117.2446284,TRUE,FALSE,FALSE,"S266805245"
+"305","eleter1","Elegant Tern","Thalasseus elegans","L2875175","Morro Bay SP--Natural History Museum","2025-08-11 19:45",2,35.3470547,-120.8437825,TRUE,FALSE,FALSE,"S266744615"
+"306","eleter1","Elegant Tern","Thalasseus elegans","L1659630","Huntington Beach SP","2025-08-11 19:19",NA,33.6380643,-117.9726387,TRUE,FALSE,FALSE,"S266706259"
+"307","eleter1","Elegant Tern","Thalasseus elegans","L1130646","DeAnza Mobile Home Park (walk-in access only)","2025-08-11 18:58",2,36.950858,-122.0608253,TRUE,FALSE,FALSE,"S266704373"
+"308","eleter1","Elegant Tern","Thalasseus elegans","L467982","Foster City Shell Bar","2025-08-11 17:20",6,37.5635405,-122.248714,TRUE,FALSE,FALSE,"S266717185"
+"309","eleter1","Elegant Tern","Thalasseus elegans","L8370067","Oyster Point--Oyster Cove - Oyster Cove Marina - Oyster Point peninsula","2025-08-11 15:06",8,37.66693,-122.3873393,TRUE,FALSE,FALSE,"S266667406"
+"310","eleter1","Elegant Tern","Thalasseus elegans","L590835","Pt. Reyes--New Willows","2025-08-11 14:49",3,37.9974943,-122.9831564,TRUE,FALSE,FALSE,"S266859597"
+"311","eleter1","Elegant Tern","Thalasseus elegans","L1980992","Chicken Ranch Beach","2025-08-11 14:16",2,38.1098433,-122.8651446,TRUE,FALSE,FALSE,"S266700887"
+"312","eleter1","Elegant Tern","Thalasseus elegans","L1289621","Liberty Station--NTC Park","2025-08-11 13:55",3,32.7361368,-117.2114825,TRUE,FALSE,FALSE,"S266660056"
+"313","eleter1","Elegant Tern","Thalasseus elegans","L418752","Tijuana River Valley--Bird & Butterfly Garden (Myers Ranch)","2025-08-11 12:48",2,32.5538589,-117.084619,TRUE,FALSE,FALSE,"S266698123"
+"314","eleter1","Elegant Tern","Thalasseus elegans","L51415094","Elkhorn Slough, Moss Landing US-CA 36.80937, -121.78572","2025-08-11 11:32",25,36.809373,-121.785725,TRUE,FALSE,TRUE,"S266782356"
+"315","eleter1","Elegant Tern","Thalasseus elegans","L2177232","BCER--Pocket Pond","2025-08-11 11:28",1,33.7051701,-118.0467439,TRUE,FALSE,TRUE,"S266647283"
+"316","eleter1","Elegant Tern","Thalasseus elegans","L338560","Mori Pt.","2025-08-11 11:16",62,37.6204026,-122.4934964,TRUE,FALSE,FALSE,"S266861636"
+"317","eleter1","Elegant Tern","Thalasseus elegans","L2948478","Anaheim Bay jetties--scope from Seal Beach","2025-08-11 10:57",1,33.7307642,-118.0976522,TRUE,FALSE,FALSE,"S266702835"
+"318","eleter1","Elegant Tern","Thalasseus elegans","L51389456","Tijuana Slough National Wildlife Refuge, Imperial Beach US-CA 32.56219, -117.13169","2025-08-11 10:49",6,32.562195,-117.131694,TRUE,FALSE,TRUE,"S266658723"
+"319","eleter1","Elegant Tern","Thalasseus elegans","L49267200","Bolsa Chica Ecological Reserve, Huntington Beach US-CA 33.69591, -118.04629","2025-08-11 10:09",39,33.695915,-118.046293,TRUE,FALSE,TRUE,"S266633794"
+"320","eleter1","Elegant Tern","Thalasseus elegans","L2135075","Coal Oil Point Reserve--Dune Pond","2025-08-11 09:45",70,34.4136777,-119.881839,TRUE,FALSE,FALSE,"S266661476"
+"321","eleter1","Elegant Tern","Thalasseus elegans","L24918906","North J Street  Canal, gravel lot.","2025-08-11 08:54",18,34.1404932,-119.1900419,TRUE,FALSE,TRUE,"S266609536"
+"322","eleter1","Elegant Tern","Thalasseus elegans","L6538260","Edgecliff Point","2025-08-11 08:35",14,34.4158474,-119.6379536,TRUE,FALSE,FALSE,"S266620588"
+"323","eleter1","Elegant Tern","Thalasseus elegans","L469984","Kendall-Frost Marsh Reserve","2025-08-11 08:25",2,32.7921946,-117.2309709,TRUE,FALSE,FALSE,"S266608130"
+"324","eleter1","Elegant Tern","Thalasseus elegans","L827977","Bayfront Park (J St.)","2025-08-11 07:19",20,32.6186091,-117.1033868,TRUE,FALSE,FALSE,"S266695948"
+"325","eleter1","Elegant Tern","Thalasseus elegans","L12646660","Backyard","2025-08-10 21:00",2,37.7571452,-122.4858161,TRUE,FALSE,TRUE,"S266499039"
+"326","eleter1","Elegant Tern","Thalasseus elegans","L6498717","Los Angeles Harbor--West Channel / Cabrillo Marina","2025-08-10 18:52",2,33.7197708,-118.2790875,TRUE,FALSE,FALSE,"S266489552"
+"327","eleter1","Elegant Tern","Thalasseus elegans","L20414255","Santa Ana River County Beach, Newport Beach US-CA 33.62742, -117.95510","2025-08-10 18:41",15,33.627415,-117.955102,TRUE,FALSE,TRUE,"S266492574"
+"328","eleter1","Elegant Tern","Thalasseus elegans","L51330017","US (33.514, -118.007)","2025-08-10 17:19",2,33.5144687,-118.0074156,TRUE,FALSE,TRUE,"S266481607"
+"329","eleter1","Elegant Tern","Thalasseus elegans","L190263","Carpinteria Salt Marsh Reserve (restricted access)","2025-08-10 16:46",70,34.3996863,-119.5353699,TRUE,FALSE,FALSE,"S266486026"
+"330","eleter1","Elegant Tern","Thalasseus elegans","L1247080","Half Moon Bay--inshore bay","2025-08-10 16:45",16,37.487663,-122.4694061,TRUE,FALSE,FALSE,"S266643421"
+"331","eleter1","Elegant Tern","Thalasseus elegans","L38517769","Palm Beach US-CA (36.8607,-121.8165)","2025-08-10 16:37",2,36.860746,-121.81651,TRUE,FALSE,TRUE,"S266475282"
+"332","eleter1","Elegant Tern","Thalasseus elegans","L35186697","Pescadero State Beach -- (south)  beach area, seawatch and Seabird Rock - West of Hwy 1 only","2025-08-10 15:30",1,37.2612534,-122.4141312,TRUE,FALSE,FALSE,"S267098379"
+"333","eleter1","Elegant Tern","Thalasseus elegans","L479537","Pt. Reyes--Limantour Spit","2025-08-10 15:10",NA,38.0291868,-122.912786,TRUE,FALSE,FALSE,"S266486152"
+"334","eleter1","Elegant Tern","Thalasseus elegans","L51349670","San Simeon Trail, Cambria US-CA 35.59497, -121.12432","2025-08-10 14:57",1,35.594966,-121.124321,TRUE,FALSE,TRUE,"S266477938"
+"335","eleter1","Elegant Tern","Thalasseus elegans","L526581","Lower Nine Mile Bank (SD Co.)","2025-08-10 14:48",19,32.608881,-117.4237032,TRUE,FALSE,FALSE,"S266607272"
+"336","eleter1","Elegant Tern","Thalasseus elegans","L761141","San Elijo Lagoon--west","2025-08-10 14:18",1,33.0087881,-117.2720733,TRUE,FALSE,FALSE,"S266455101"
+"337","eleter1","Elegant Tern","Thalasseus elegans","L1176938","San Diego Trough (south)","2025-08-10 13:48",25,32.6404157,-117.5626726,TRUE,FALSE,FALSE,"S266607680"
+"338","eleter1","Elegant Tern","Thalasseus elegans","L594346","Belmont Slough--slough along Oracle Pkwy and area behind Oracle","2025-08-10 13:10",3,37.533855,-122.2654102,TRUE,FALSE,FALSE,"S266439493"
+"339","eleter1","Elegant Tern","Thalasseus elegans","L5141312","Shorebird Park - Beach Park Blvd.","2025-08-10 12:30",10,37.5532808,-122.2469759,TRUE,FALSE,FALSE,"S266430251"
+"340","eleter1","Elegant Tern","Thalasseus elegans","L40257866","Bolsa Chica Wetland Entrance","2025-08-10 12:15",15,33.695908,-118.046097,TRUE,FALSE,TRUE,"S266435207"
+"341","eleter1","Elegant Tern","Thalasseus elegans","L22305320","Alameda Island Nearshore","2025-08-10 12:00",5,37.7644471,-122.2913356,TRUE,FALSE,FALSE,"S268112313"
+"342","eleter1","Elegant Tern","Thalasseus elegans","L589151","San Simeon Pier","2025-08-10 11:35",1,35.6430072,-121.1875784,TRUE,FALSE,FALSE,"S266471778"
+"343","eleter1","Elegant Tern","Thalasseus elegans","L7868981","Cypress Grove, Marshall US-CA (38.1657,-122.8991)","2025-08-10 11:27",1,38.165659,-122.899127,TRUE,FALSE,TRUE,"S266426856"
+"344","eleter1","Elegant Tern","Thalasseus elegans","L717370","Thirty Mile Bank (SD Co.)","2025-08-10 11:26",16,32.7125386,-117.7278833,TRUE,FALSE,FALSE,"S266608035"
+"345","eleter1","Elegant Tern","Thalasseus elegans","L2979658","Moran Lake Park","2025-08-10 11:06",8,36.9580539,-121.9754505,TRUE,FALSE,FALSE,"S266416408"
+"346","eleter1","Elegant Tern","Thalasseus elegans","L633128","Half Moon Bay SB--Francis Beach","2025-08-10 11:05",55,37.4688976,-122.4458456,TRUE,FALSE,FALSE,"S266498514"
+"347","eleter1","Elegant Tern","Thalasseus elegans","L9817505","The Corner (SD Co.)","2025-08-10 10:49",2,32.6349214,-117.8047935,TRUE,FALSE,FALSE,"S266608364"
+"348","eleter1","Elegant Tern","Thalasseus elegans","L280205","Santa Rosa Creek mouth","2025-08-10 10:48",8,35.5683274,-121.1102353,TRUE,FALSE,FALSE,"S266471482"
+"349","eleter1","Elegant Tern","Thalasseus elegans","L4739364","Pacific Ave. Overlook--Seawatch","2025-08-10 10:32",15,33.7068131,-118.2879147,TRUE,FALSE,FALSE,"S266411738"
+"350","eleter1","Elegant Tern","Thalasseus elegans","L225859","Salinas River mouth (access now restricted)","2025-08-10 10:32",125,36.7476394,-121.8003697,TRUE,FALSE,FALSE,"S266411682"
+"351","eleter1","Elegant Tern","Thalasseus elegans","L615794","Coal Oil Point Reserve--Devereux Slough","2025-08-10 10:17",NA,34.4136013,-119.8756027,TRUE,FALSE,FALSE,"S266435477"
+"352","eleter1","Elegant Tern","Thalasseus elegans","L51355334","Abbotts Lagoon, Inverness US-CA (38.1106,-122.9457)","2025-08-10 09:59",2,38.110594,-122.945732,TRUE,FALSE,TRUE,"S266500460"
+"353","eleter1","Elegant Tern","Thalasseus elegans","L3269799","Bridgeview Park, Foster City","2025-08-10 09:53",35,37.572576,-122.260977,TRUE,FALSE,FALSE,"S266400533"
+"354","eleter1","Elegant Tern","Thalasseus elegans","L5402521","H Street Viewpoint","2025-08-10 09:41",1,33.040469,-117.296262,TRUE,FALSE,FALSE,"S266393381"
+"355","eleter1","Elegant Tern","Thalasseus elegans","L48824445","Gulf of the Farallones US (37.7586,-122.8028)","2025-08-10 09:25",2,37.758641,-122.802825,TRUE,FALSE,TRUE,"S266501141"
+"356","eleter1","Elegant Tern","Thalasseus elegans","L1311639","San Buenaventura SB","2025-08-10 09:04",3,34.2702834,-119.2771,TRUE,FALSE,FALSE,"S266384513"
+"357","eleter1","Elegant Tern","Thalasseus elegans","L601787","Miramontes Point Coastal Access Trail","2025-08-10 08:34",3,37.4304411,-122.4373162,TRUE,FALSE,FALSE,"S266398042"
+"358","eleter1","Elegant Tern","Thalasseus elegans","L51353088","Kirby Road, Watsonville, California, US (36.84, -121.743)","2025-08-10 08:30",4,36.8402135,-121.7431033,TRUE,FALSE,TRUE,"S266491175"
+"359","eleter1","Elegant Tern","Thalasseus elegans","L466485","Blufftop Coastal Park and Poplar Beach","2025-08-10 08:27",1,37.4543861,-122.4438715,TRUE,FALSE,FALSE,"S266406813"
+"360","eleter1","Elegant Tern","Thalasseus elegans","L51200734","Robert W. Crown Memorial State Beach, Alameda US-CA (37.7599,-122.2669)","2025-08-10 08:25",1,37.759862,-122.26687,TRUE,FALSE,TRUE,"S266365299"
+"361","eleter1","Elegant Tern","Thalasseus elegans","L34690551","Gulf of the Farallones US-CA (37.8244,-122.5577)","2025-08-10 08:24",92,37.824351,-122.557745,TRUE,FALSE,TRUE,"S266500934"
+"362","eleter1","Elegant Tern","Thalasseus elegans","L27822920","8th Street Strand, Hermosa Beach","2025-08-10 08:09",40,33.859418,-118.400832,TRUE,FALSE,TRUE,"S266361027"
+"363","eleter1","Elegant Tern","Thalasseus elegans","L27142125","Sausalito Harbor to GG Bridge","2025-08-10 08:00",14,37.858678,-122.475268,TRUE,FALSE,TRUE,"S266500898"
+"364","eleter1","Elegant Tern","Thalasseus elegans","L1022447","San Gabriel River mouth (ORA Co.)","2025-08-10 07:22",2,33.7421132,-118.1134129,TRUE,FALSE,FALSE,"S266857921"
+"365","eleter1","Elegant Tern","Thalasseus elegans","L27219933","Los Angeles River--Golden Shore to Willow St","2025-08-10 05:45",260,33.7807881,-118.2054536,TRUE,TRUE,TRUE,"S266499722"

@@ -1,89 +1,29 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
-"1","grypar","Gray Partridge","Perdix perdix","L4126185","Ocean Lake WHMA--Long Point Access Area","2025-08-18 15:58",6,43.1751043,-108.6260243,TRUE,FALSE,FALSE,"S268141450","N"
-"2","grypar","Gray Partridge","Perdix perdix","L5505962","Logan Rd","2025-08-18 14:23",4,47.3760749,-114.1571653,TRUE,FALSE,TRUE,"S268129106","N"
-"3","grypar","Gray Partridge","Perdix perdix","L3920848","Holub Greenhouse wetland (private property)","2025-08-18 09:13",2,42.0329802,-93.5403764,TRUE,FALSE,FALSE,"S268069468","N"
-"4","grypar","Gray Partridge","Perdix perdix","L38167073","Salish Hills Drive 20 acre yard","2025-08-18 08:41",3,47.5541904,-114.300079,TRUE,FALSE,TRUE,"S268070994","N"
-"5","grypar","Gray Partridge","Perdix perdix","L51070177","Camas NWR Observation Tower","2025-08-18 06:35",5,43.92829,-112.270032,TRUE,FALSE,TRUE,"S268106732","N"
-"6","grypar","Gray Partridge","Perdix perdix","L247312","Freezout Lake WMA","2025-08-18 06:00",12,47.6657859,-112.0112392,TRUE,FALSE,FALSE,"S268051912","N"
-"7","grypar","Gray Partridge","Perdix perdix","L51700718","Stockade Gulch state land","2025-08-18 05:30",2,46.2264519,-109.1659921,TRUE,FALSE,TRUE,"S268040285","N"
-"8","grypar","Gray Partridge","Perdix perdix","L26674411","Bluebird Trail","2025-08-17 20:39",1,46.9174165,-114.0299507,TRUE,FALSE,TRUE,"S268082812","N"
-"9","grypar","Gray Partridge","Perdix perdix","L51685615","27440–27498 402nd Ave, Parkston US-SD (43.4026,-98.1513)","2025-08-17 20:29",2,43.402578,-98.151254,TRUE,FALSE,TRUE,"S267969104","N"
-"10","grypar","Gray Partridge","Perdix perdix","L51683698","443 Bear Cub Lane, Stevensville, Montana, US (46.547, -114.056)","2025-08-17 20:27",3,46.5467075,-114.0564784,TRUE,FALSE,TRUE,"S267975006","N"
-"11","grypar","Gray Partridge","Perdix perdix","L9781613","Deal Rd. sod farm (private property)","2025-08-17 15:05",4,42.1825909,-91.6795021,TRUE,TRUE,FALSE,"S267960995","N"
-"12","grypar","Gray Partridge","Perdix perdix","L286015","SALEM CORNERS AREA","2025-08-17 10:49",8,43.9924569,-92.5831568,TRUE,FALSE,TRUE,"S267869900","N"
-"13","grypar","Gray Partridge","Perdix perdix","L5201677","Yard","2025-08-17 09:47",6,47.1891219,-111.6126287,TRUE,FALSE,TRUE,"S267881676","N"
-"14","grypar","Gray Partridge","Perdix perdix","L3268672","McNary Wildlife Nature Area & trail","2025-08-17 08:06",1,45.9286872,-119.3130684,TRUE,FALSE,FALSE,"S267959525","N"
-"15","grypar","Gray Partridge","Perdix perdix","L7477079","Prospect Creek","2025-08-17 07:45",8,43.8453426,-116.2915938,TRUE,FALSE,TRUE,"S267850048","N"
-"16","grypar","Gray Partridge","Perdix perdix","L29603618","2300–2316 Exeter Ave, Ionia US-IA 43.02074, -92.45591","2025-08-17 07:20",1,43.020739,-92.455911,TRUE,FALSE,TRUE,"S267804402","N"
-"17","grypar","Gray Partridge","Perdix perdix","L1915425","Camas NWR--Headquarters","2025-08-17 06:35",3,43.9640943,-112.2639656,TRUE,FALSE,FALSE,"S267906305","N"
-"18","grypar","Gray Partridge","Perdix perdix","L35074199","Home","2025-08-16 21:03",NA,47.504326,-114.869526,TRUE,FALSE,TRUE,"S267892401","N"
-"19","grypar","Gray Partridge","Perdix perdix","L51629923","Shupak Ponds","2025-08-16 19:14",6,45.2237066,-109.0264853,TRUE,FALSE,TRUE,"S267727950","N"
-"20","grypar","Gray Partridge","Perdix perdix","L51688526","Fields South of Twin Falls","2025-08-16 19:05",30,42.3459647,-114.5637769,TRUE,FALSE,TRUE,"S267981797","N"
-"21","grypar","Gray Partridge","Perdix perdix","L51626498","East 2950 North, Hansen, Idaho, US (42.426, -114.319)","2025-08-16 18:27",8,42.4264654,-114.3194153,TRUE,FALSE,TRUE,"S267714515","N"
-"22","grypar","Gray Partridge","Perdix perdix","L1168657","Daniels Reservoir","2025-08-16 16:30",30,42.3557532,-112.4455833,TRUE,FALSE,FALSE,"S267918452","N"
-"23","grypar","Gray Partridge","Perdix perdix","L51618191","37001–37637 CR-115, Roseau US-MN 48.93921, -95.96482","2025-08-16 15:49",15,48.939206,-95.964821,TRUE,FALSE,TRUE,"S267682042","N"
-"24","grypar","Gray Partridge","Perdix perdix","L51618067","340 St, Roseau US-MN 48.89133, -95.78238","2025-08-16 14:47",18,48.891327,-95.782379,TRUE,FALSE,TRUE,"S267681494","N"
-"25","grypar","Gray Partridge","Perdix perdix","L51595762","Idaho 77, Albion, Idaho, US (42.367, -113.53)","2025-08-16 08:05",12,42.3674481,-113.5300573,TRUE,FALSE,TRUE,"S267596049","N"
-"26","grypar","Gray Partridge","Perdix perdix","L11221695","Bergamot Ct, Arrowleaf Hills (Cassell’s House)","2025-08-16 07:00",3,45.6498896,-110.9971303,TRUE,FALSE,TRUE,"S267855521","N"
-"27","grypar","Gray Partridge","Perdix perdix","L219764","Potholes Reservoir--Lind Coulee","2025-08-16 05:59",3,46.9914081,-119.2056168,TRUE,FALSE,FALSE,"S267859796","N"
-"28","grypar","Gray Partridge","Perdix perdix","L7073616","WDFW/Audubon site-2018-Ash Hollow-22931-(Restricted)","2025-08-15 15:00",1,46.081669,-118.693821,TRUE,FALSE,FALSE,"S267482776","N"
-"29","grypar","Gray Partridge","Perdix perdix","L51561905","Birdtail Creek Road, Cascade, Montana, US (47.353, -111.969)","2025-08-15 11:20",8,47.3531746,-111.9693698,TRUE,FALSE,TRUE,"S267446722","N"
-"30","grypar","Gray Partridge","Perdix perdix","L150986","East Landfill Kalmar Reservoir","2025-08-15 11:08",7,44.048904,-92.574585,TRUE,FALSE,FALSE,"S267409865","N"
-"31","grypar","Gray Partridge","Perdix perdix","L886866","Mann Creek Reservoir","2025-08-15 10:03",12,44.399571,-116.902256,TRUE,FALSE,FALSE,"S267408306","N"
-"32","grypar","Gray Partridge","Perdix perdix","L3692121","Peaks Rd (private)","2025-08-15 08:20",1,42.7007306,-108.6932373,TRUE,FALSE,TRUE,"S267409866","N"
-"33","grypar","Gray Partridge","Perdix perdix","L728336","Thief Valley Reservoir (Union Co.)","2025-08-15 08:15",8,45.0229344,-117.785368,TRUE,FALSE,FALSE,"S267455104","N"
-"34","grypar","Gray Partridge","Perdix perdix","L7479050","3176 93rd Avenue Southwest, Taylor, North Dakota, US (46.939, -102.412)","2025-08-15 07:17",5,46.9394494,-102.4115981,TRUE,FALSE,TRUE,"S267370581","N"
-"35","grypar","Gray Partridge","Perdix perdix","L51542070","94th Avenue Southwest, Taylor, North Dakota, US (46.938, -102.433)","2025-08-15 06:38",6,46.9382289,-102.4328626,TRUE,FALSE,TRUE,"S267359927","N"
-"36","grypar","Gray Partridge","Perdix perdix","L51522919","83639, Marsing US-ID 43.24344, -116.90936","2025-08-14 09:39",5,43.243437,-116.909358,TRUE,FALSE,TRUE,"S267267795","N"
-"37","grypar","Gray Partridge","Perdix perdix","L726052","Red Canyon","2025-08-14 09:34",11,42.6898487,-108.6645699,TRUE,FALSE,FALSE,"S267285810","N"
-"38","grypar","Gray Partridge","Perdix perdix","L717611","McBride Creek","2025-08-14 09:34",4,43.2481255,-116.936245,TRUE,FALSE,FALSE,"S267267554","N"
-"39","grypar","Gray Partridge","Perdix perdix","L759839","Chipmunk Meadows Road","2025-08-14 09:13",10,43.2701749,-116.948905,TRUE,FALSE,FALSE,"S267267503","N"
-"40","grypar","Gray Partridge","Perdix perdix","L51500854","3201–3383 70th Ave NW, Byron US-MN 44.04552, -92.57842","2025-08-14 08:54",6,44.045515,-92.578423,TRUE,FALSE,TRUE,"S267177339","N"
-"41","grypar","Gray Partridge","Perdix perdix","L9105098","Squaw Creek","2025-08-14 08:42",1,43.444211,-116.8310483,TRUE,FALSE,TRUE,"S267259186","N"
-"42","grypar","Gray Partridge","Perdix perdix","L991670","Harrison/Willow Creek Reservoir","2025-08-14 08:16",3,45.7005388,-111.7032981,TRUE,FALSE,FALSE,"S267391838","N"
-"43","grypar","Gray Partridge","Perdix perdix","L24985156","Sleepy Fox Hollow","2025-08-14 07:30",7,45.7508248,-111.1682007,TRUE,FALSE,TRUE,"S267233840","N"
-"44","grypar","Gray Partridge","Perdix perdix","L9696533","4199 104th Avenue Southwest, Gladstone, North Dakota, US (46.786, -102.636)","2025-08-14 06:44",11,46.7855412,-102.6362044,TRUE,FALSE,TRUE,"S267167495","N"
-"45","grypar","Gray Partridge","Perdix perdix","L51498129","59802, Missoula US-MT (46.8704,-113.9707)","2025-08-14 06:42",12,46.870416,-113.970748,TRUE,FALSE,TRUE,"S267162641","N"
-"46","grypar","Gray Partridge","Perdix perdix","L352009","East Canyon SP--Reservoir","2025-08-13 23:13",1,40.9073716,-111.5928922,TRUE,TRUE,FALSE,"S267302255","N"
-"47","grypar","Gray Partridge","Perdix perdix","L51484265","1094 American Ridge Road","2025-08-13 19:04",10,46.6342383,-116.71792,TRUE,FALSE,TRUE,"S267093758","N"
-"48","grypar","Gray Partridge","Perdix perdix","L51539266","Lincoln Township","2025-08-13 08:34",1,44.051341,-94.319458,TRUE,FALSE,TRUE,"S267343182","N"
-"49","grypar","Gray Partridge","Perdix perdix","L869900","Wild Horse Reservoir","2025-08-13 07:24",5,41.64816,-115.7924652,TRUE,FALSE,FALSE,"S267070578","N"
-"50","grypar","Gray Partridge","Perdix perdix","L35704029","5000–5470 470th St, Buffalo Center US-IA 43.44432, -93.88703","2025-08-13 07:14",5,43.444323,-93.887034,TRUE,FALSE,TRUE,"S266964088","N"
-"51","grypar","Gray Partridge","Perdix perdix","L51455232","47769 County Road R26, Buffalo Center, Iowa, US (43.455, -93.872)","2025-08-13 07:06",5,43.4553885,-93.8724668,TRUE,FALSE,TRUE,"S266962436","N"
-"52","grypar","Gray Partridge","Perdix perdix","L33181387","8000–8898 480th St, Thompson US-IA 43.45871, -93.82005","2025-08-13 06:55",3,43.458711,-93.820046,TRUE,FALSE,TRUE,"S266960408","N"
-"53","grypar","Gray Partridge","Perdix perdix","L51498049","Boise Ridge, Boise, Idaho, US (43.588, -116.055)","2025-08-13 06:15",3,43.5876143,-116.0551167,TRUE,FALSE,TRUE,"S267162224","N"
-"54","grypar","Gray Partridge","Perdix perdix","L41208617","Horace--Diversion Ponds","2025-08-12 20:12",4,46.736309,-96.882928,TRUE,FALSE,FALSE,"S266899650","N"
-"55","grypar","Gray Partridge","Perdix perdix","L11314797","Upper Gem Lake--East Side","2025-08-12 10:18",4,43.4531993,-112.0879269,TRUE,FALSE,FALSE,"S266813852","N"
-"56","grypar","Gray Partridge","Perdix perdix","L2758494","Marmon fields","2025-08-12 09:50",1,48.3729685,-103.6679417,TRUE,FALSE,TRUE,"S266800408","N"
-"57","grypar","Gray Partridge","Perdix perdix","L51410261","Lincoln Highway, Belle Plaine, Iowa, US (41.964, -92.259)","2025-08-12 06:43",10,41.9638968,-92.2594783,TRUE,TRUE,TRUE,"S266755777","N"
-"58","grypar","Gray Partridge","Perdix perdix","L930469","Base Pond","2025-08-12 06:30",NA,48.44876,-106.57691,TRUE,FALSE,FALSE,"S266796414","N"
-"59","grypar","Gray Partridge","Perdix perdix","L19809102","Old Ranch subdivision  (45.803, -120.956)","2025-08-12 06:30",18,45.8034034,-120.9562906,TRUE,FALSE,TRUE,"S267166698","N"
-"60","grypar","Gray Partridge","Perdix perdix","L15114511","Cremer/Rupert Road","2025-08-12 05:46",14,46.0891692,-109.9065377,TRUE,FALSE,FALSE,"S267611725","N"
-"61","grypar","Gray Partridge","Perdix perdix","L15758392","KSLB","2025-08-11 20:10",2,42.6028739,-95.2382366,TRUE,FALSE,TRUE,"S266697842","N"
-"62","grypar","Gray Partridge","Perdix perdix","L51421654","Whitehall Road Southeast, Coulee City, Washington, US (47.54, -119.618)","2025-08-11 19:48",7,47.5403012,-119.6178962,TRUE,FALSE,TRUE,"S266811996","N"
-"63","grypar","Gray Partridge","Perdix perdix","L46256092","Spring Hollow Ranch, (Dave and Ann Marie’s Neighborhood), Felt, ID","2025-08-11 19:28",9,43.850198,-111.154913,TRUE,FALSE,TRUE,"S266700916","N"
-"64","grypar","Gray Partridge","Perdix perdix","L51385137","6137–6143 50th Ave, Carson US-ND 46.53070, -101.46632","2025-08-11 12:53",4,46.530696,-101.46632,TRUE,FALSE,TRUE,"S266641305","N"
-"65","grypar","Gray Partridge","Perdix perdix","L30190352","Washington, US (46.473, -117.852)","2025-08-11 10:30",3,46.4728827,-117.8515857,TRUE,FALSE,TRUE,"S267038297","N"
-"66","grypar","Gray Partridge","Perdix perdix","L35999299","Chalk Bluffs CG - Buffaloberry CG Trail","2025-08-11 09:00",5,42.6768388,-106.6212778,TRUE,FALSE,TRUE,"S266600556","N"
-"67","grypar","Gray Partridge","Perdix perdix","L7494260","Fresno Reservoir","2025-08-11 08:00",8,48.5997317,-109.9464941,TRUE,FALSE,FALSE,"S266691414","N"
-"68","grypar","Gray Partridge","Perdix perdix","L11617976","Cashmere Canyons Preserve","2025-08-11 06:15",1,47.5544501,-120.4412579,TRUE,FALSE,FALSE,"S266648295","N"
-"69","grypar","Gray Partridge","Perdix perdix","L11455964","Cherry & Taylor Yard","2025-08-10 19:55",5,46.871,-113.976143,TRUE,FALSE,TRUE,"S266494194","N"
-"70","grypar","Gray Partridge","Perdix perdix","L51345489","79th Street, Watkins, Iowa, US (41.877, -91.972)","2025-08-10 17:30",7,41.8766352,-91.9722545,TRUE,TRUE,TRUE,"S266459089","N"
-"71","grypar","Gray Partridge","Perdix perdix","L30906027","Fehr Farm","2025-08-10 15:33",1,47.236902,-98.4511,TRUE,FALSE,TRUE,"S266445939","N"
-"72","grypar","Gray Partridge","Perdix perdix","L1758020","Lost Creek--Croydon","2025-08-10 11:00",5,41.0690585,-111.5140689,TRUE,TRUE,FALSE,"S266460701","N"
-"73","grypar","Gray Partridge","Perdix perdix","L27238153","Horseshoe Meadows ponds, N 7000 US-ID 43.73369, -111.24016","2025-08-10 10:51",4,43.733691,-111.240159,TRUE,FALSE,TRUE,"S266389224","N"
-"74","grypar","Gray Partridge","Perdix perdix","L15282506","Misha's Mountain, Missoula, Montana, US (46.922, -114.014)","2025-08-10 09:48",14,46.9219442,-114.0139692,TRUE,FALSE,TRUE,"S266377551","N"
-"75","grypar","Gray Partridge","Perdix perdix","L15151792","52053 110th Street, Story City, Iowa, US (42.195, -93.66)","2025-08-10 08:58",5,42.1954897,-93.6596779,TRUE,FALSE,TRUE,"S266382920","N"
-"76","grypar","Gray Partridge","Perdix perdix","L7162225","Upper Goose Lake","2025-08-10 08:30",5,46.940696,-119.2722197,TRUE,FALSE,FALSE,"S266475832","N"
-"77","grypar","Gray Partridge","Perdix perdix","L51310500","2128 70th Avenue Northwest, Byron, Minnesota, US (44.046, -92.578)","2025-08-10 07:58",16,44.0456549,-92.5783984,TRUE,FALSE,TRUE,"S266313911","N"
-"78","grypar","Gray Partridge","Perdix perdix","L51283764","Freezout Lake south inlet","2025-08-10 07:00",7,47.632499,-112.024751,TRUE,FALSE,TRUE,"S266350444","N"
-"79","grypar","Gray Partridge","Perdix perdix","L22082205","My Yard","2025-08-10 06:45",1,43.078899,-95.878968,TRUE,FALSE,TRUE,"S266985334","N"
-"80","grypar","Gray Partridge","Perdix perdix","L51337866","110–198 Eder Rd, Reed Point US-MT 45.88668, -109.43036","2025-08-10 06:25",9,45.886678,-109.430356,TRUE,FALSE,TRUE,"S266429936","N"
-"81","grypar","Gray Partridge","Perdix perdix","L7192262","9 Mile Canyon Rd","2025-08-10 05:50",1,46.0915185,-118.7627435,TRUE,FALSE,FALSE,"S266469607","N"
-"82","grypar","Gray Partridge","Perdix perdix","L5790353","Lubenow WPA","2025-08-09 20:09",2,45.3202274,-96.0482779,TRUE,FALSE,FALSE,"S266208396","N"
-"83","grypar","Gray Partridge","Perdix perdix","L51287099","14343 OR-206, Condon US-OR 45.33775, -120.32725","2025-08-09 17:27",7,45.337755,-120.327251,TRUE,FALSE,TRUE,"S266203837","N"
-"84","grypar","Gray Partridge","Perdix perdix","L51291801","3999 Road 7 Northwest, Ephrata, Washington, US (47.192, -119.576)","2025-08-09 17:01",3,47.1920501,-119.5758273,TRUE,FALSE,TRUE,"S266222217","N"
-"85","grypar","Gray Partridge","Perdix perdix","L15663445","Fargo--Urban Plains Park","2025-08-09 16:02",10,46.8369631,-96.873478,TRUE,FALSE,FALSE,"S266190730","N"
-"86","grypar","Gray Partridge","Perdix perdix","L4660220","Dry Creek Rd","2025-08-09 12:20",4,44.0576463,-116.5801442,TRUE,FALSE,TRUE,"S266212119","N"
-"87","grypar","Gray Partridge","Perdix perdix","L51265062","Billings Lake WPA","2025-08-09 12:17",4,48.6201986,-98.4923064,TRUE,FALSE,TRUE,"S266117514","N"
-"88","grypar","Gray Partridge","Perdix perdix","L40908433","Idaho Falls Country Club area","2025-08-09 08:39",1,43.394459,-111.987686,TRUE,FALSE,TRUE,"S266079226","N"
+"1","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L342330","Rocky Mountain NP--Medicine Bow Curve","2025-08-19 14:29",5,40.4479738,-105.7516322,TRUE,FALSE,FALSE,"S268319470",NA
+"2","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L51759775","Estes Park, Colorado, US (40.448, -105.75)","2025-08-19 13:03",5,40.4482099,-105.749808,TRUE,FALSE,TRUE,"S268303346",NA
+"3","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L267228","Mount Audubon Trail","2025-08-19 09:00",2,40.10204,-105.59224,TRUE,FALSE,FALSE,"S268319871",NA
+"4","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L51746349","Ptarmigan Lake Trail","2025-08-18 08:17",1,38.7903469,-106.3742162,TRUE,FALSE,TRUE,"S268248214",NA
+"5","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L1629211","Bierstadt Trail","2025-08-17 15:34",3,39.5906564,-105.6865326,TRUE,FALSE,FALSE,"S267936159",NA
+"6","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L1650666","Independence Pass","2025-08-17 12:50",1,39.1083257,-106.5643183,TRUE,FALSE,FALSE,"S267967040",NA
+"7","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L51679683","Rocky Mountain National Park, mt Ida trail  US-CO (40.3669,-105.7859)","2025-08-17 11:30",2,40.366883,-105.785892,TRUE,FALSE,TRUE,"S267943323",NA
+"8","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L748652","Rocky Mountain NP--Tundra Communities Trail & Rock Cut Area","2025-08-17 08:50",3,40.4125762,-105.7330961,TRUE,FALSE,FALSE,"S267932008",NA
+"9","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L51678613","Chihuahua Lake","2025-08-17 07:30",4,39.6376683,-105.8461751,TRUE,FALSE,TRUE,"S267940752",NA
+"10","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L436451","Saddlebag Lake","2025-08-16 12:35",2,37.9669368,-119.2672348,TRUE,TRUE,FALSE,"S267720062","N"
+"11","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L3763661","Glacier NP--Highline Trail-Logan Pass to Chalet","2025-08-16 10:52",3,48.7493415,-113.7455106,TRUE,FALSE,FALSE,"S267698101",NA
+"12","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L3865145","Yosemite NP--May Lake trail and campground","2025-08-16 09:00",5,37.8440464,-119.4922541,TRUE,FALSE,FALSE,"S268168508","N"
+"13","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L51628813","1416–1426 County Road 260, Dillon US-CO 39.60032, -105.83815","2025-08-16 06:41",2,39.600323,-105.838154,TRUE,FALSE,TRUE,"S267723729",NA
+"14","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L51608072","Upper Glacier Gorge","2025-08-15 09:35",4,40.2536588,-105.6338571,TRUE,FALSE,TRUE,"S267645676",NA
+"15","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L51551761","Cottonwood Pass (Chaffee County, CO)","2025-08-15 08:25",1,38.82528,-106.412095,TRUE,FALSE,TRUE,"S267403368",NA
+"16","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L259438","Loveland Pass (Clear Creek Co.)","2025-08-15 07:19",5,39.66464,-105.87891,TRUE,FALSE,FALSE,"S267424670",NA
+"17","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L51520684","Mount Bierstadt Trail, Idaho Springs US-CO (39.5824,-105.6685)","2025-08-14 16:01",7,39.582415,-105.668526,TRUE,FALSE,TRUE,"S267257943",NA
+"18","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L51555108","West Branch Trail, Bellvue US-CO (40.6739,-105.8608)","2025-08-14 11:41",4,40.673924,-105.860772,TRUE,FALSE,TRUE,"S267420506",NA
+"19","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L51523238","Rocky Mountain National Park, Grand Lake US-CO (40.3801,-105.7910)","2025-08-14 11:00",2,40.380057,-105.791008,TRUE,FALSE,TRUE,"S267269150",NA
+"20","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L7976250","Enchantment Basin","2025-08-14 10:11",7,47.4754194,-120.813938,TRUE,FALSE,FALSE,"S267839981",NA
+"21","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L4896621","Fourth of July Campground & Trail","2025-08-13 10:30",2,39.9952215,-105.6352428,TRUE,FALSE,FALSE,"S268238264",NA
+"22","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L342856","Mt. Baker--Ptarmigan Ridge","2025-08-12 17:36",1,48.8337755,-121.7246178,TRUE,FALSE,FALSE,"S267070208",NA
+"23","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L51529015","Wyoming, US (40.683, -105.953)","2025-08-11 14:14",NA,40.6830176,-105.9534007,TRUE,FALSE,TRUE,"S267293371",NA
+"24","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L935835","Rocky Mountain NP--Trail Ridge Rd--Alpine Visitor Center","2025-08-11 07:19",3,40.4408073,-105.754879,TRUE,FALSE,FALSE,"S266571747",NA
+"25","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L753395","Rocky Mountain NP--Medicine Bow Curve & Alpine Visitor Center (please use a more specific hotspot)","2025-08-11 07:07",2,40.4439237,-105.7550415,TRUE,FALSE,FALSE,"S266684094",NA
+"26","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L51356301","Snowking Mountain Ridge","2025-08-10 11:26",3,48.409781,-121.2695925,TRUE,TRUE,TRUE,"S266506446",NA
+"27","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L51353333","Weminuche Creek trail","2025-08-10 07:47",1,37.7048173,-107.3079639,TRUE,FALSE,TRUE,"S266492722",NA
+"28","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L259437","Loveland Pass (Summit Co.)","2025-08-10 06:57",6,39.66264,-105.87942,TRUE,FALSE,FALSE,"S266497601",NA
