@@ -1,29 +1,57 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
-"1","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L342330","Rocky Mountain NP--Medicine Bow Curve","2025-08-19 14:29",5,40.4479738,-105.7516322,TRUE,FALSE,FALSE,"S268319470",NA
-"2","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L51759775","Estes Park, Colorado, US (40.448, -105.75)","2025-08-19 13:03",5,40.4482099,-105.749808,TRUE,FALSE,TRUE,"S268303346",NA
-"3","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L267228","Mount Audubon Trail","2025-08-19 09:00",2,40.10204,-105.59224,TRUE,FALSE,FALSE,"S268319871",NA
-"4","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L51746349","Ptarmigan Lake Trail","2025-08-18 08:17",1,38.7903469,-106.3742162,TRUE,FALSE,TRUE,"S268248214",NA
-"5","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L1629211","Bierstadt Trail","2025-08-17 15:34",3,39.5906564,-105.6865326,TRUE,FALSE,FALSE,"S267936159",NA
-"6","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L1650666","Independence Pass","2025-08-17 12:50",1,39.1083257,-106.5643183,TRUE,FALSE,FALSE,"S267967040",NA
-"7","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L51679683","Rocky Mountain National Park, mt Ida trail  US-CO (40.3669,-105.7859)","2025-08-17 11:30",2,40.366883,-105.785892,TRUE,FALSE,TRUE,"S267943323",NA
-"8","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L748652","Rocky Mountain NP--Tundra Communities Trail & Rock Cut Area","2025-08-17 08:50",3,40.4125762,-105.7330961,TRUE,FALSE,FALSE,"S267932008",NA
-"9","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L51678613","Chihuahua Lake","2025-08-17 07:30",4,39.6376683,-105.8461751,TRUE,FALSE,TRUE,"S267940752",NA
-"10","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L436451","Saddlebag Lake","2025-08-16 12:35",2,37.9669368,-119.2672348,TRUE,TRUE,FALSE,"S267720062","N"
-"11","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L3763661","Glacier NP--Highline Trail-Logan Pass to Chalet","2025-08-16 10:52",3,48.7493415,-113.7455106,TRUE,FALSE,FALSE,"S267698101",NA
-"12","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L3865145","Yosemite NP--May Lake trail and campground","2025-08-16 09:00",5,37.8440464,-119.4922541,TRUE,FALSE,FALSE,"S268168508","N"
-"13","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L51628813","1416–1426 County Road 260, Dillon US-CO 39.60032, -105.83815","2025-08-16 06:41",2,39.600323,-105.838154,TRUE,FALSE,TRUE,"S267723729",NA
-"14","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L51608072","Upper Glacier Gorge","2025-08-15 09:35",4,40.2536588,-105.6338571,TRUE,FALSE,TRUE,"S267645676",NA
-"15","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L51551761","Cottonwood Pass (Chaffee County, CO)","2025-08-15 08:25",1,38.82528,-106.412095,TRUE,FALSE,TRUE,"S267403368",NA
-"16","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L259438","Loveland Pass (Clear Creek Co.)","2025-08-15 07:19",5,39.66464,-105.87891,TRUE,FALSE,FALSE,"S267424670",NA
-"17","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L51520684","Mount Bierstadt Trail, Idaho Springs US-CO (39.5824,-105.6685)","2025-08-14 16:01",7,39.582415,-105.668526,TRUE,FALSE,TRUE,"S267257943",NA
-"18","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L51555108","West Branch Trail, Bellvue US-CO (40.6739,-105.8608)","2025-08-14 11:41",4,40.673924,-105.860772,TRUE,FALSE,TRUE,"S267420506",NA
-"19","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L51523238","Rocky Mountain National Park, Grand Lake US-CO (40.3801,-105.7910)","2025-08-14 11:00",2,40.380057,-105.791008,TRUE,FALSE,TRUE,"S267269150",NA
-"20","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L7976250","Enchantment Basin","2025-08-14 10:11",7,47.4754194,-120.813938,TRUE,FALSE,FALSE,"S267839981",NA
-"21","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L4896621","Fourth of July Campground & Trail","2025-08-13 10:30",2,39.9952215,-105.6352428,TRUE,FALSE,FALSE,"S268238264",NA
-"22","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L342856","Mt. Baker--Ptarmigan Ridge","2025-08-12 17:36",1,48.8337755,-121.7246178,TRUE,FALSE,FALSE,"S267070208",NA
-"23","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L51529015","Wyoming, US (40.683, -105.953)","2025-08-11 14:14",NA,40.6830176,-105.9534007,TRUE,FALSE,TRUE,"S267293371",NA
-"24","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L935835","Rocky Mountain NP--Trail Ridge Rd--Alpine Visitor Center","2025-08-11 07:19",3,40.4408073,-105.754879,TRUE,FALSE,FALSE,"S266571747",NA
-"25","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L753395","Rocky Mountain NP--Medicine Bow Curve & Alpine Visitor Center (please use a more specific hotspot)","2025-08-11 07:07",2,40.4439237,-105.7550415,TRUE,FALSE,FALSE,"S266684094",NA
-"26","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L51356301","Snowking Mountain Ridge","2025-08-10 11:26",3,48.409781,-121.2695925,TRUE,TRUE,TRUE,"S266506446",NA
-"27","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L51353333","Weminuche Creek trail","2025-08-10 07:47",1,37.7048173,-107.3079639,TRUE,FALSE,TRUE,"S266492722",NA
-"28","whtpta1","White-tailed Ptarmigan","Lagopus leucura","L259437","Loveland Pass (Summit Co.)","2025-08-10 06:57",6,39.66264,-105.87942,TRUE,FALSE,FALSE,"S266497601",NA
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
+"1","calgna","California Gnatcatcher","Polioptila californica","L48959699","White Point Nature Education Center Back Door","2025-08-20 11:37",1,33.7168241,-118.3150707,TRUE,FALSE,TRUE,"S268459336"
+"2","calgna","California Gnatcatcher","Polioptila californica","L11153893","Shady Canyon Hiking and Riding Trail, Irvine","2025-08-20 08:51",1,33.6457548,-117.788455,TRUE,FALSE,FALSE,"S268439442"
+"3","calgna","California Gnatcatcher","Polioptila californica","L51786966","Edison Fire Rd, Fillmore US-CA (34.3561,-118.8192)","2025-08-20 08:36",1,34.356062,-118.819194,TRUE,FALSE,TRUE,"S268428589"
+"4","calgna","California Gnatcatcher","Polioptila californica","L18108553","Otay Mesa Open Space Preserve","2025-08-20 08:27",1,32.5552996,-117.0152125,TRUE,FALSE,FALSE,"S268435067"
+"5","calgna","California Gnatcatcher","Polioptila californica","L51789263","Aliso &wood canyon east, Irvine, California, US (33.552, -117.72)","2025-08-20 07:51",1,33.5517063,-117.719551,TRUE,FALSE,TRUE,"S268438422"
+"6","calgna","California Gnatcatcher","Polioptila californica","L46989192","Peters Canyon Regional Park, Orange US-CA 33.78353, -117.76175","2025-08-20 07:30",1,33.783533,-117.761748,TRUE,FALSE,TRUE,"S268465781"
+"7","calgna","California Gnatcatcher","Polioptila californica","L468316","Crystal Cove SP--El Moro","2025-08-20 06:54",5,33.5662776,-117.8219211,TRUE,FALSE,FALSE,"S268444303"
+"8","calgna","California Gnatcatcher","Polioptila californica","L2811498","UC Irvine--Ecological Preserve","2025-08-20 06:34",5,33.6392489,-117.8459483,TRUE,FALSE,FALSE,"S268430768"
+"9","calgna","California Gnatcatcher","Polioptila californica","L3386255","Lake Murray--southeast side","2025-08-19 14:06",1,32.7852326,-117.039897,TRUE,FALSE,FALSE,"S268306532"
+"10","calgna","California Gnatcatcher","Polioptila californica","L3180575","Castaways Park","2025-08-19 13:27",1,33.6191938,-117.9059279,TRUE,FALSE,FALSE,"S268304424"
+"11","calgna","California Gnatcatcher","Polioptila californica","L14263190","Poblado Road Trailhead","2025-08-19 10:06",1,33.0399176,-117.0882399,TRUE,FALSE,FALSE,"S268274735"
+"12","calgna","California Gnatcatcher","Polioptila californica","L392317","Camp Pendleton--Lake O'Neill","2025-08-19 10:02",1,33.329094,-117.3227406,TRUE,FALSE,FALSE,"S268317575"
+"13","calgna","California Gnatcatcher","Polioptila californica","L815817","Frank G. Bonelli RP/Puddingstone Reservoir and vicinity","2025-08-19 09:05",1,34.0870104,-117.8050125,TRUE,FALSE,FALSE,"S268346162"
+"14","calgna","California Gnatcatcher","Polioptila californica","L207063","Upper Newport Bay","2025-08-19 07:50",1,33.6432772,-117.8879356,TRUE,FALSE,FALSE,"S268308921"
+"15","calgna","California Gnatcatcher","Polioptila californica","L1018989","Dana Point Headlands Preserve","2025-08-18 18:35",1,33.4609477,-117.7135277,TRUE,FALSE,FALSE,"S268160553"
+"16","calgna","California Gnatcatcher","Polioptila californica","L1532020","San Dieguito Lagoon--Southeast & Dust Devil Trails","2025-08-18 09:38",3,32.9696861,-117.2395813,TRUE,FALSE,FALSE,"S268106352"
+"17","calgna","California Gnatcatcher","Polioptila californica","L3300802","Future Veteran's Memorial Park","2025-08-18 08:18",1,33.1363539,-117.3021197,TRUE,FALSE,FALSE,"S268081755"
+"18","calgna","California Gnatcatcher","Polioptila californica","L31724496","University of California, Riverside, Riverside US-CA 33.97214, -117.32135","2025-08-18 07:47",1,33.972143,-117.321347,TRUE,FALSE,TRUE,"S268074827"
+"19","calgna","California Gnatcatcher","Polioptila californica","L3135598","Laguna Coast Wilderness Park--Laguna Lakes","2025-08-17 12:35",2,33.6107558,-117.7590415,TRUE,FALSE,FALSE,"S267985692"
+"20","calgna","California Gnatcatcher","Polioptila californica","L51666363","Lake Hodges Way, Escondido, California, US (33.075, -117.113)","2025-08-17 08:11",1,33.0754476,-117.112679,TRUE,FALSE,TRUE,"S267892327"
+"21","calgna","California Gnatcatcher","Polioptila californica","L4413978","Mt. Woodson--east","2025-08-17 08:00",1,33.0066301,-116.9671547,TRUE,FALSE,FALSE,"S267905720"
+"22","calgna","California Gnatcatcher","Polioptila californica","L724385","San Dieguito Lagoon--northeast","2025-08-17 07:56",1,32.9780447,-117.2469413,TRUE,FALSE,FALSE,"S267880347"
+"23","calgna","California Gnatcatcher","Polioptila californica","L3675490","Lake Murray--northwest side","2025-08-17 07:45",1,32.7901775,-117.0456053,TRUE,FALSE,FALSE,"S267888142"
+"24","calgna","California Gnatcatcher","Polioptila californica","L1838049","Santa Ana River at Greenspot Rd.","2025-08-17 07:27",3,34.0985517,-117.1172389,TRUE,TRUE,FALSE,"S267884486"
+"25","calgna","California Gnatcatcher","Polioptila californica","L1123060","Pt. Vicente--general area","2025-08-16 17:09",3,33.7438618,-118.4105587,TRUE,FALSE,FALSE,"S267741089"
+"26","calgna","California Gnatcatcher","Polioptila californica","L5713559","Stoneview Nature Center","2025-08-16 12:51",1,34.0145216,-118.3775321,TRUE,TRUE,FALSE,"S267672593"
+"27","calgna","California Gnatcatcher","Polioptila californica","L3263267","Del Dios Highlands Preserve","2025-08-16 11:20",3,33.0858848,-117.1304861,TRUE,FALSE,FALSE,"S267674641"
+"28","calgna","California Gnatcatcher","Polioptila californica","L46766311","The Crossings At Carlsbad, Carlsbad US-CA 33.13275, -117.30214","2025-08-16 09:40",3,33.132749,-117.302139,TRUE,FALSE,TRUE,"S267666317"
+"29","calgna","California Gnatcatcher","Polioptila californica","L2301399","Crystal Cove SP--Pelican Point","2025-08-16 09:15",1,33.580875,-117.8497517,TRUE,FALSE,FALSE,"S267647711"
+"30","calgna","California Gnatcatcher","Polioptila californica","L16411790","Mission Trails Regional Park, San Diego US-CA 32.83959, -117.04186","2025-08-16 08:07",1,32.839592,-117.041858,TRUE,FALSE,TRUE,"S267660437"
+"31","calgna","California Gnatcatcher","Polioptila californica","L4437887","Hilltop Conservation Park","2025-08-16 07:44",2,33.46412,-117.7090705,TRUE,FALSE,FALSE,"S267620472"
+"32","calgna","California Gnatcatcher","Polioptila californica","L500123","Upper Newport Bay Nature Preserve--Muth Interpretive Center area","2025-08-15 18:53",1,33.6529275,-117.8849691,TRUE,FALSE,FALSE,"S267693386"
+"33","calgna","California Gnatcatcher","Polioptila californica","L404795","Oak Canyon Nature Center, Anaheim","2025-08-15 15:51",1,33.8372351,-117.7554989,TRUE,FALSE,FALSE,"S267494140"
+"34","calgna","California Gnatcatcher","Polioptila californica","L801712","San Elijo Lagoon--west of tracks","2025-08-14 14:50",2,33.0060963,-117.277364,TRUE,FALSE,FALSE,"S267265794"
+"35","calgna","California Gnatcatcher","Polioptila californica","L51519923","Crystal Cove State Park, Newport Coast US-CA 33.57583, -117.79351","2025-08-14 12:37",1,33.575826,-117.793513,TRUE,FALSE,TRUE,"S267254621"
+"36","calgna","California Gnatcatcher","Polioptila californica","L165600","Peters Canyon Reg Park","2025-08-14 08:32",1,33.7780824,-117.7605691,TRUE,FALSE,FALSE,"S267251777"
+"37","calgna","California Gnatcatcher","Polioptila californica","L26100480","180 Bautista Ct, Oceanside US-CA 33.22650, -117.31548","2025-08-13 17:32",1,33.226503,-117.31548,TRUE,FALSE,TRUE,"S267091330"
+"38","calgna","California Gnatcatcher","Polioptila californica","L45635433","Home","2025-08-13 15:20",1,32.720976,-116.812904,TRUE,FALSE,TRUE,"S267696223"
+"39","calgna","California Gnatcatcher","Polioptila californica","L1346833","Upper Newport Bay--boardwalk","2025-08-13 13:46",NA,33.6521463,-117.8818611,TRUE,FALSE,FALSE,"S267056720"
+"40","calgna","California Gnatcatcher","Polioptila californica","L8342451","Dignity Narure Reserve
+1366 Eldean Lane, Oceanside, California, US (33.194, -117.338)","2025-08-13 08:29",1,33.1941514,-117.3375138,TRUE,FALSE,TRUE,"S267016387"
+"41","calgna","California Gnatcatcher","Polioptila californica","L11839730","Otay River Valley--east of 125","2025-08-13 07:40",2,32.6000924,-116.9459411,TRUE,FALSE,FALSE,"S267837146"
+"42","calgna","California Gnatcatcher","Polioptila californica","L49444013","El Corazon Planning Effort, Oceanside US-CA 33.20306, -117.32944","2025-08-13 07:36",1,33.203062,-117.329436,TRUE,FALSE,TRUE,"S267022137"
+"43","calgna","California Gnatcatcher","Polioptila californica","L4548215","El Corazon Park--Garrison Creek Nature Trail","2025-08-13 07:23",4,33.20298,-117.32941,TRUE,FALSE,FALSE,"S267022021"
+"44","calgna","California Gnatcatcher","Polioptila californica","L3385841","Scripps Coastal Reserve--Interpretive Trail (only open 1st Saturdays, 9–11a)","2025-08-13 07:16",7,32.8758738,-117.2470005,TRUE,FALSE,FALSE,"S267077860"
+"45","calgna","California Gnatcatcher","Polioptila californica","L3311348","Lake Hodges--east end (footbridge, lakebed, scrub)","2025-08-13 06:42",1,33.0559773,-117.082199,TRUE,FALSE,FALSE,"S266995876"
+"46","calgna","California Gnatcatcher","Polioptila californica","L4025297","Frank G. Bonelli RP--South and East Access","2025-08-12 18:20",1,34.0821838,-117.800442,TRUE,FALSE,FALSE,"S266900417"
+"47","calgna","California Gnatcatcher","Polioptila californica","L164929","Bolsa Chica Ecological Reserve","2025-08-12 15:34",NA,33.7026531,-118.050735,TRUE,FALSE,FALSE,"S266893024"
+"48","calgna","California Gnatcatcher","Polioptila californica","L3628008","Otay Valley Regional Park--LeMay Pond to 805","2025-08-12 09:51",1,32.5881427,-117.0496926,TRUE,FALSE,FALSE,"S266844817"
+"49","calgna","California Gnatcatcher","Polioptila californica","L280562","Cabrillo National Monument","2025-08-12 09:41",2,32.6742155,-117.2414321,TRUE,FALSE,FALSE,"S267170130"
+"50","calgna","California Gnatcatcher","Polioptila californica","L802200","Otay Valley Regional Park--Fenton Pond Trail","2025-08-12 09:02",1,32.5884853,-117.0758571,TRUE,FALSE,FALSE,"S266811152"
+"51","calgna","California Gnatcatcher","Polioptila californica","L761141","San Elijo Lagoon--west","2025-08-12 08:21",1,33.0087881,-117.2720733,TRUE,FALSE,FALSE,"S266829129"
+"52","calgna","California Gnatcatcher","Polioptila californica","L1267069","Torrey Pines State Reserve--Flintkote Ave.","2025-08-11 15:32",2,32.90862,-117.2333908,TRUE,FALSE,FALSE,"S266684342"
+"53","calgna","California Gnatcatcher","Polioptila californica","L3701194","Manchester Preserve","2025-08-11 08:30",2,33.0322753,-117.2482288,TRUE,FALSE,FALSE,"S266633645"
+"54","calgna","California Gnatcatcher","Polioptila californica","L6465217","San Vicente Reservoir ","2025-08-11 07:48",1,32.9161971,-116.9283915,TRUE,FALSE,FALSE,"S266627646"
+"55","calgna","California Gnatcatcher","Polioptila californica","L577740","San Elijo Lagoon--east","2025-08-11 07:23",2,33.0108355,-117.2505125,TRUE,FALSE,FALSE,"S266676492"
