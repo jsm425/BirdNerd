@@ -1,6 +1,2 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","x00669","Golden-winged x Blue-winged Warbler (hybrid)","Vermivora chrysoptera x cyanoptera","L1514892","Rock Creek Park--Maintenance Yard","2025-08-20 08:17",1,38.9554951,-77.0493486,TRUE,TRUE,FALSE,"S268453275"
-"2","x00669","Golden-winged x Blue-winged Warbler (hybrid)","Vermivora chrysoptera x cyanoptera","L109516","Prospect Park","2025-08-17 08:55",1,40.6602841,-73.9689534,TRUE,TRUE,FALSE,"S267897223"
-"3","x00669","Golden-winged x Blue-winged Warbler (hybrid)","Vermivora chrysoptera x cyanoptera","L126637","Bombay Hook National Wildlife Refuge","2025-08-15 05:48",1,39.2670818,-75.4695511,TRUE,TRUE,FALSE,"S267477150"
-"4","x00669","Golden-winged x Blue-winged Warbler (hybrid)","Vermivora chrysoptera x cyanoptera","L25111750","Cornwall Swamp WMA--Scove Hill access","2025-08-14 06:48",1,43.9199266,-73.1983557,TRUE,TRUE,FALSE,"S267158927"
-"5","x00669","Golden-winged x Blue-winged Warbler (hybrid)","Vermivora chrysoptera x cyanoptera","L4744993","Back River Neck--Evergreen Ln","2025-08-14 06:35",1,39.2621774,-76.4246868,TRUE,TRUE,TRUE,"S267141769"
+"1","snoowl1","Snowy Owl","Bubo scandiacus","L1212588","Utqiaġvik--Fresh Water Lake Rd.","2025-08-13 16:17",1,71.2612449,-156.7718339,TRUE,FALSE,FALSE,"S268413249"
