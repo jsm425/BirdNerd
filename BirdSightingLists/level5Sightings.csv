@@ -1,2 +1,6 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","snoowl1","Snowy Owl","Bubo scandiacus","L1212588","Utqiaġvik--Fresh Water Lake Rd.","2025-08-13 16:17",1,71.2612449,-156.7718339,TRUE,FALSE,FALSE,"S268413249"
+"1","yebloo","Yellow-billed Loon","Gavia adamsii","L9600622","Toolik Lake Public Access","2025-08-22 06:16",1,68.6319721,-149.585038,TRUE,FALSE,FALSE,"S268781797"
+"2","yebloo","Yellow-billed Loon","Gavia adamsii","L34913748","BT1 Access Road","2025-08-20 13:24",3,70.131368,-152.074269,TRUE,FALSE,TRUE,"S268577883"
+"3","yebloo","Yellow-billed Loon","Gavia adamsii","L781318","Gustavus--Forelands","2025-08-18 18:00",1,58.4121436,-135.724411,TRUE,FALSE,FALSE,"S268347180"
+"4","yebloo","Yellow-billed Loon","Gavia adamsii","L1217734","Toolik Field Station","2025-08-18 07:14",2,68.627808,-149.593389,TRUE,FALSE,FALSE,"S268074058"
+"5","yebloo","Yellow-billed Loon","Gavia adamsii","L51632664","99723, Barrow US-AK (69.5608,-148.6181)","2025-08-16 10:35",1,69.560788,-148.618083,TRUE,FALSE,TRUE,"S267739733"
