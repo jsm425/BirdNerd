@@ -1,3 +1,6 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","flfshe","Flesh-footed Shearwater","Ardenna carneipes","L405301","Westport pelagic--Offshore waters","2025-08-27 11:53",1,46.9052455,-124.5355225,TRUE,FALSE,FALSE,"S270255615"
-"2","flfshe","Flesh-footed Shearwater","Ardenna carneipes","L1176938","San Diego Trough (south)","2025-08-23 13:51",1,32.6404157,-117.5626726,TRUE,TRUE,FALSE,"S269106907"
+"1","oahama","Oahu Amakihi","Chlorodrepanis flava","L52288592","99-1849 Aiea Heights Drive, Aiea, Hawaii, US (21.399, -157.899)","2025-08-31 08:10",2,21.3991455,-157.8991482,TRUE,FALSE,TRUE,"S270728173"
+"2","oahama","Oahu Amakihi","Chlorodrepanis flava","L2605984","Ho'omaluhia Botanical Garden","2025-08-30 11:11",3,21.3843521,-157.8057075,TRUE,FALSE,FALSE,"S270475181"
+"3","oahama","Oahu Amakihi","Chlorodrepanis flava","L1042043","ʻAiea Ridge Trail","2025-08-29 12:32",2,21.4059294,-157.8822041,TRUE,FALSE,FALSE,"S270279757"
+"4","oahama","Oahu Amakihi","Chlorodrepanis flava","L320833","Manoa Cliffs Trail","2025-08-28 08:00",2,21.3348122,-157.8145112,TRUE,FALSE,FALSE,"S270089357"
+"5","oahama","Oahu Amakihi","Chlorodrepanis flava","L253053","ʻAiea Loop Trail and Keaīwa Heiau SP","2025-08-27 11:54",5,21.3988172,-157.9000568,TRUE,FALSE,FALSE,"S269927243"
