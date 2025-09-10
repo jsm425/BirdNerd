@@ -1,2 +1,4 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","layduc","Laysan Duck","Anas laysanensis","L7291453","Green Island, Kure Atoll (restricted access)","2025-09-07 14:50",2,28.392533,-178.2939005,TRUE,FALSE,FALSE,"S272150149"
+"1","shtsan","Sharp-tailed Sandpiper","Calidris acuminata","L246497","Gambell (general area)","2025-09-08 08:35",1,63.7793007,-171.7214584,TRUE,FALSE,FALSE,"S272344199"
+"2","shtsan","Sharp-tailed Sandpiper","Calidris acuminata","L261146","St. Paul Island","2025-09-07 17:35",7,57.17012,-170.296751,TRUE,FALSE,FALSE,"S272357761"
+"3","shtsan","Sharp-tailed Sandpiper","Calidris acuminata","L9722521","Naknek Beach","2025-09-01 11:44",1,58.7375317,-157.0647544,TRUE,FALSE,FALSE,"S270986687"
