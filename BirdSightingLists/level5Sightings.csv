@@ -1,4 +1,4 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","shtsan","Sharp-tailed Sandpiper","Calidris acuminata","L246497","Gambell (general area)","2025-09-08 08:35",1,63.7793007,-171.7214584,TRUE,FALSE,FALSE,"S272344199"
-"2","shtsan","Sharp-tailed Sandpiper","Calidris acuminata","L261146","St. Paul Island","2025-09-07 17:35",7,57.17012,-170.296751,TRUE,FALSE,FALSE,"S272357761"
-"3","shtsan","Sharp-tailed Sandpiper","Calidris acuminata","L9722521","Naknek Beach","2025-09-01 11:44",1,58.7375317,-157.0647544,TRUE,FALSE,FALSE,"S270986687"
+"1","bohwax","Bohemian Waxwing","Bombycilla garrulus","L11290631","Home, 2710 E. 20th Ave.","2025-09-03 12:21",3,61.2022571,-149.8314652,TRUE,FALSE,TRUE,"S271320721"
+"2","bohwax","Bohemian Waxwing","Bombycilla garrulus","L721658","Keystone Ridge","2025-09-02 18:15",2,64.9164763,-148.2849684,TRUE,FALSE,TRUE,"S272625305"
+"3","bohwax","Bohemian Waxwing","Bombycilla garrulus","L12024297","Creamer's Field Migration Station","2025-09-01 07:30",3,64.8672274,-147.7463818,TRUE,FALSE,FALSE,"S270981396"
