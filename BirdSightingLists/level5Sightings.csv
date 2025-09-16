@@ -1,2 +1,4 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
-"1","bahgoo","Bar-headed Goose","Anser indicus","L16071618","Glen Hill Farm","2025-09-10 08:00",1,29.1385502,-82.1691188,TRUE,TRUE,FALSE,"S272553145","X"
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
+"1","fotfly","Fork-tailed Flycatcher","Tyrannus savana","L109135","Cape Island--Higbee Beach WMA","2025-09-14 07:50",1,38.9613889,-74.9608333,TRUE,TRUE,FALSE,"S273338349"
+"2","fotfly","Fork-tailed Flycatcher","Tyrannus savana","L275264","Cape Island--Higbee Beach WMA--Dike/Morning Flight Songbird Count","2025-09-14 07:10",1,38.9637983,-74.960618,TRUE,TRUE,FALSE,"S273316128"
+"3","fotfly","Fork-tailed Flycatcher","Tyrannus savana","L1137033","Cape Island--Higbee Beach WMA--Morning Flight platform","2025-09-14 07:09",1,38.96391,-74.96159,TRUE,TRUE,FALSE,"S273323124"
