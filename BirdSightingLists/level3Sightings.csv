@@ -1,337 +1,306 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
-"1","brnowl","American Barn Owl","Tyto furcata","L1443179","Ousterhout farm","2025-09-15 14:15",1,42.4507573,-122.8318927,TRUE,FALSE,TRUE,"S273622526",NA
-"2","brnowl","American Barn Owl","Tyto furcata","L662379","Barr Lake SP--Neidrach Nature Trail & Visitor Center area","2025-09-15 12:10",1,39.9369479,-104.7524576,TRUE,FALSE,FALSE,"S273605084",NA
-"3","brnowl","American Barn Owl","Tyto furcata","L391138","Pt. Reyes--Mendoza Ranch (B Ranch)","2025-09-15 10:50",2,38.0164178,-122.9882956,TRUE,FALSE,FALSE,"S273594486",NA
-"4","brnowl","American Barn Owl","Tyto furcata","L52879747","86004, Flagstaff US-AZ 35.25168, -111.35209","2025-09-15 10:25",1,35.251681,-111.352092,TRUE,TRUE,TRUE,"S273590323",NA
-"5","brnowl","American Barn Owl","Tyto furcata","L1466128","Hollister Chenier Preserve","2025-09-15 10:23",2,29.7488763,-92.8945118,TRUE,FALSE,FALSE,"S273589097",NA
-"6","brnowl","American Barn Owl","Tyto furcata","L1667064","Leque Island--Eide Rd.","2025-09-15 09:30",2,48.2320943,-122.3829746,TRUE,FALSE,FALSE,"S273588894",NA
-"7","brnowl","American Barn Owl","Tyto furcata","L268126","River Lane","2025-09-15 09:00",1,40.1662735,-111.737139,TRUE,FALSE,FALSE,"S273574829",NA
-"8","brnowl","American Barn Owl","Tyto furcata","L374047","Cañada Larga Rd.","2025-09-15 09:00",2,34.3445699,-119.2783928,TRUE,FALSE,FALSE,"S273591491",NA
-"9","brnowl","American Barn Owl","Tyto furcata","L35778102","Bradford & Nelson Shippee Rds. (West of Colony Rd.)","2025-09-15 08:22",2,39.5296375,-121.7808428,TRUE,FALSE,FALSE,"S273578401",NA
-"10","brnowl","American Barn Owl","Tyto furcata","L52882053","Rickreal Hwy 99W turnout","2025-09-15 08:00",1,44.935962,-123.2301895,TRUE,FALSE,TRUE,"S273602875",NA
-"11","brnowl","American Barn Owl","Tyto furcata","L6352166","Bayou Sauvage Urban NWR--Recovery One Rd. (Hwy. 90 to GIWW levee)","2025-09-15 07:39",1,30.0521116,-89.8798298,TRUE,FALSE,FALSE,"S273563545",NA
-"12","brnowl","American Barn Owl","Tyto furcata","L216132","Coyote Hills Regional Park","2025-09-15 07:30",3,37.553764,-122.0875025,TRUE,FALSE,FALSE,"S273584134",NA
-"13","brnowl","American Barn Owl","Tyto furcata","L420195","Big Morongo Canyon Preserve & Covington Park","2025-09-15 07:08",1,34.0497222,-116.5702639,TRUE,FALSE,FALSE,"S273580511",NA
-"14","brnowl","American Barn Owl","Tyto furcata","L7519605","San Diego NWR--Bonita Meadows","2025-09-15 07:03",1,32.6642721,-116.9940602,TRUE,FALSE,FALSE,"S273557172",NA
-"15","brnowl","American Barn Owl","Tyto furcata","L9909888","Coyote Hills Regional Park","2025-09-15 06:30",6,37.555573,-122.092898,TRUE,FALSE,TRUE,"S273611530",NA
-"16","brnowl","American Barn Owl","Tyto furcata","L131619","Holbrook Reservoir","2025-09-15 06:17",1,38.0627775,-103.6097217,TRUE,FALSE,FALSE,"S273551848",NA
-"17","brnowl","American Barn Owl","Tyto furcata","L5226828","Kahoe Road, Kona Paradise Subdivision","2025-09-15 06:03",1,19.3140586,-155.8798558,TRUE,FALSE,TRUE,"S273586607","N"
-"18","brnowl","American Barn Owl","Tyto furcata","L592967","Ridgefield NWR--River 'S' Unit","2025-09-15 06:01",1,45.7990694,-122.7490082,TRUE,FALSE,FALSE,"S273586259",NA
-"19","brnowl","American Barn Owl","Tyto furcata","L52867929","1200 South Arcadia Street, Boise, Idaho, US (43.593, -116.225)","2025-09-15 05:21",1,43.593326,-116.2246656,TRUE,FALSE,TRUE,"S273522268",NA
-"20","brnowl","American Barn Owl","Tyto furcata","L44059412","North Los Altos neighborhood","2025-09-15 05:20",1,37.38854,-122.117435,TRUE,FALSE,TRUE,"S273527548",NA
-"21","brnowl","American Barn Owl","Tyto furcata","L854483","Carmel Valley--Holman Rd.","2025-09-15 04:56",1,36.4792531,-121.7218345,TRUE,FALSE,TRUE,"S273523097",NA
-"22","brnowl","American Barn Owl","Tyto furcata","L52869779","19981 Cabrillo Highway, Half Moon Bay, California, US (37.315, -122.404)","2025-09-15 04:22",1,37.3152937,-122.4036038,TRUE,FALSE,TRUE,"S273536469",NA
-"23","brnowl","American Barn Owl","Tyto furcata","L10035792","JP Home Muir Beach","2025-09-14 22:31",1,37.8645748,-122.5830476,TRUE,FALSE,TRUE,"S273495910",NA
-"24","brnowl","American Barn Owl","Tyto furcata","L22880694","Harbor Center Boulevard, Slidell, Louisiana, US (30.218, -89.772)","2025-09-14 21:15",2,30.2176866,-89.7719703,TRUE,TRUE,TRUE,"S273485096",NA
-"25","brnowl","American Barn Owl","Tyto furcata","L9636795","Hansen Ridge Park","2025-09-14 20:30",1,45.5496964,-122.8265583,TRUE,FALSE,FALSE,"S273492260",NA
-"26","brnowl","American Barn Owl","Tyto furcata","L52856507","39553–39595 CR-827, Belle Glade US-FL 26.61007, -80.70882","2025-09-14 19:56",3,26.610066,-80.708821,TRUE,FALSE,TRUE,"S273471919",NA
-"27","brnowl","American Barn Owl","Tyto furcata","L421038","McAllen Nature Center (LTC 065)","2025-09-14 18:56",2,26.2082122,-98.2659218,TRUE,FALSE,FALSE,"S273480310",NA
-"28","brnowl","American Barn Owl","Tyto furcata","L691421","Terrace Pt. and Coastal Science Campus","2025-09-14 18:49",1,36.9508373,-122.0639798,TRUE,FALSE,FALSE,"S273487487",NA
-"29","brnowl","American Barn Owl","Tyto furcata","L2960656","US-TX-Talpa - Westmoreland Ranch","2025-09-14 18:32",1,31.819338,-99.627398,TRUE,FALSE,TRUE,"S273480457",NA
-"30","brnowl","American Barn Owl","Tyto furcata","L615250","Merced NWR--Auto Tour Route (4.8-mile one-way loop road)","2025-09-14 18:10",1,37.1716364,-120.6203699,TRUE,FALSE,FALSE,"S273486055",NA
-"31","brnowl","American Barn Owl","Tyto furcata","L4795535","Gladeview Rd.","2025-09-14 17:18",1,26.6661316,-80.492734,TRUE,FALSE,FALSE,"S273470042",NA
-"32","brnowl","American Barn Owl","Tyto furcata","L262792","Iowa Dodd Beef/Tyson Ponds","2025-09-14 14:45",1,46.1288528,-118.8985787,TRUE,FALSE,FALSE,"S273484588",NA
-"33","brnowl","American Barn Owl","Tyto furcata","L416575","Willow Island","2025-09-14 13:55",1,29.7842689,-93.2224274,TRUE,FALSE,FALSE,"S273438323",NA
-"34","brnowl","American Barn Owl","Tyto furcata","L275227","Piute Ponds (permit required)","2025-09-14 11:38",1,34.7901193,-118.1181776,TRUE,FALSE,FALSE,"S273477552",NA
-"35","brnowl","American Barn Owl","Tyto furcata","L35034260","Lackey Yard","2025-09-14 11:30",1,34.101194,-117.732342,TRUE,FALSE,TRUE,"S273500149",NA
-"36","brnowl","American Barn Owl","Tyto furcata","L19589371","Revere Rd","2025-09-14 10:50",1,47.169956,-117.939098,TRUE,FALSE,TRUE,"S273470737",NA
-"37","brnowl","American Barn Owl","Tyto furcata","L2182452","Barlow Point Road, Longview","2025-09-14 09:44",1,46.1580454,-123.0384636,TRUE,FALSE,FALSE,"S273399005",NA
-"38","brnowl","American Barn Owl","Tyto furcata","L882153","San Geronimo Ck--Estero Bluffs SP","2025-09-14 09:44",1,35.4487639,-120.9338218,TRUE,FALSE,FALSE,"S273435751",NA
-"39","brnowl","American Barn Owl","Tyto furcata","L4388497","Las Verdes Park","2025-09-14 08:32",1,33.0549754,-117.2776659,TRUE,FALSE,FALSE,"S273380603",NA
-"40","brnowl","American Barn Owl","Tyto furcata","L15561743","Environmental Education Center Don Edwards San Francisco Bay National Wildlife Refuge, San Jose US-CA 37.43889, -121.95987","2025-09-14 08:06",1,37.438892,-121.959869,TRUE,FALSE,TRUE,"S273390881",NA
-"41","brnowl","American Barn Owl","Tyto furcata","L758704","California Botanic Garden (formerly Rancho Santa Ana BG)","2025-09-14 07:58",1,34.1120533,-117.7152014,TRUE,FALSE,FALSE,"S273410841",NA
-"42","brnowl","American Barn Owl","Tyto furcata","L267071","Frager Rd. (north)","2025-09-14 07:48",1,47.418883,-122.2678757,TRUE,FALSE,FALSE,"S273362768",NA
-"43","brnowl","American Barn Owl","Tyto furcata","L4272962","US-California-Angels Camp-4228 Ranch Rd - 38.098x-120.521","2025-09-14 07:27",1,38.0975956,-120.5208282,TRUE,FALSE,TRUE,"S273378376",NA
-"44","brnowl","American Barn Owl","Tyto furcata","L5400014","Camp Creek Rd wetland","2025-09-14 07:25",2,31.0931466,-97.1886635,TRUE,FALSE,TRUE,"S273419457",NA
-"45","brnowl","American Barn Owl","Tyto furcata","L340365","San Felipe Lake / Soap Lake","2025-09-14 06:48",3,36.9822606,-121.461668,TRUE,FALSE,FALSE,"S273492309",NA
-"46","brnowl","American Barn Owl","Tyto furcata","L9199267","Bitter Creek NWR","2025-09-14 06:47",1,34.9303119,-119.3959547,TRUE,FALSE,FALSE,"S273342654",NA
-"47","brnowl","American Barn Owl","Tyto furcata","L52859864","14274–14298 Valley Ford Rd, Valley Ford US-CA 38.31771, -122.92115","2025-09-14 06:19",1,38.317712,-122.921148,TRUE,FALSE,TRUE,"S273487457",NA
-"48","brnowl","American Barn Owl","Tyto furcata","L1146189","Maynard C. Stiles WTP","2025-09-14 06:09",1,35.1955546,-90.0551891,TRUE,FALSE,FALSE,"S273307865",NA
-"49","brnowl","American Barn Owl","Tyto furcata","L1320852","Central Ferry HMU","2025-09-14 06:00",3,46.6284568,-117.8113747,TRUE,FALSE,FALSE,"S273470136",NA
-"50","brnowl","American Barn Owl","Tyto furcata","L22713480","3 Calhoun Sisters Ranch","2025-09-14 06:00",1,37.591642,-121.629946,TRUE,FALSE,TRUE,"S273477773",NA
-"51","brnowl","American Barn Owl","Tyto furcata","L52856165","10434–10508 SR-127, Lacrosse US-WA 46.66831, -117.80087","2025-09-14 05:54",1,46.668314,-117.800868,TRUE,FALSE,TRUE,"S273470312",NA
-"52","brnowl","American Barn Owl","Tyto furcata","L4445264","Poen Rd.","2025-09-14 05:18",2,43.4150238,-116.3666725,TRUE,FALSE,FALSE,"S273294350",NA
-"53","brnowl","American Barn Owl","Tyto furcata","L1756534","bobs pumpkins half moon bay","2025-09-14 05:13",1,37.395792,-122.413652,TRUE,FALSE,TRUE,"S273338277",NA
-"54","brnowl","American Barn Owl","Tyto furcata","L23014267","Seawolf Parkway","2025-09-14 05:10",1,29.3244444,-94.7935544,TRUE,FALSE,TRUE,"S273466115",NA
-"55","brnowl","American Barn Owl","Tyto furcata","L2955666","Monterey--Veterans Memorial Park","2025-09-14 05:05",1,36.5972345,-121.9120646,TRUE,FALSE,FALSE,"S273345464",NA
-"56","brnowl","American Barn Owl","Tyto furcata","L52825363","10470 US-95, Payette US-ID 44.09488, -116.92335","2025-09-14 04:54",2,44.094884,-116.923349,TRUE,FALSE,TRUE,"S273321450",NA
-"57","brnowl","American Barn Owl","Tyto furcata","L52815023","32075 California 198, Lemon Cove, California, US (36.37, -119.033)","2025-09-14 01:00",1,36.3696723,-119.0328068,TRUE,FALSE,TRUE,"S273269949",NA
-"58","brnowl","American Barn Owl","Tyto furcata","L1614675","Mike Higbee SWA","2025-09-14 00:32",1,38.0914397,-102.5287982,TRUE,FALSE,FALSE,"S273375695",NA
-"59","brnowl","American Barn Owl","Tyto furcata","L601812","Black Widow Ranch","2025-09-14",1,33.9856225,-117.3125723,TRUE,FALSE,TRUE,"S273495301",NA
-"60","brnowl","American Barn Owl","Tyto furcata","L7758559","Seabright yard","2025-09-14",1,36.9672647,-122.0078698,TRUE,FALSE,TRUE,"S273607735",NA
-"61","brnowl","American Barn Owl","Tyto furcata","L52811077","12586–12588 SH-101, Las Animas US-CO 37.81564, -103.17816","2025-09-13 22:55",1,37.815644,-103.178165,TRUE,FALSE,TRUE,"S273250821",NA
-"62","brnowl","American Barn Owl","Tyto furcata","L770872","Bird Refuge Rd.","2025-09-13 22:35",1,41.4689719,-112.1759892,TRUE,FALSE,FALSE,"S273251032",NA
-"63","brnowl","American Barn Owl","Tyto furcata","L37753491","Mo's House","2025-09-13 22:24",2,45.4684386,-122.5553707,TRUE,FALSE,TRUE,"S273252760",NA
-"64","brnowl","American Barn Owl","Tyto furcata","L5764627","Broadview Bird Observatory","2025-09-13 22:00",1,47.725029,-122.3629289,TRUE,FALSE,TRUE,"S273370485",NA
-"65","brnowl","American Barn Owl","Tyto furcata","L28621046","39723–40355 N 87th Ave, Peoria US-AZ 33.85832, -112.24210","2025-09-13 21:46",1,33.858319,-112.242097,TRUE,FALSE,TRUE,"S273250174",NA
-"66","brnowl","American Barn Owl","Tyto furcata","L41450369","Bolsa Chica Bird Friends Road","2025-09-13 21:45",1,33.712823,-118.04163,TRUE,FALSE,TRUE,"S273388312",NA
-"67","brnowl","American Barn Owl","Tyto furcata","L895395","Gualala Point Regional Park","2025-09-13 21:38",1,38.7588354,-123.5237503,TRUE,FALSE,FALSE,"S273574265",NA
-"68","brnowl","American Barn Owl","Tyto furcata","L5626861","Two Trees Cottages-324 4th Ave, Seaside","2025-09-13 21:28",1,45.9963896,-123.925857,TRUE,FALSE,TRUE,"S273250175",NA
-"69","brnowl","American Barn Owl","Tyto furcata","L8647568","Massey Creek Meadow","2025-09-13 21:14",1,39.9424082,-121.0528757,TRUE,FALSE,TRUE,"S273248451",NA
-"70","brnowl","American Barn Owl","Tyto furcata","L52810220","19551 Hess Ave, Sonora US-CA 37.97742, -120.33334","2025-09-13 20:45",1,37.977419,-120.333342,TRUE,FALSE,TRUE,"S273247384",NA
-"71","brnowl","American Barn Owl","Tyto furcata","L1238088","Cemetery Rd.--1 mile east of Hwy 395","2025-09-13 20:39",1,38.0365828,-119.124949,TRUE,FALSE,FALSE,"S273248550",NA
-"72","brnowl","American Barn Owl","Tyto furcata","L345551","Hastings Natural History Reservation (restricted access)","2025-09-13 20:30",2,36.388315,-121.5494692,TRUE,FALSE,FALSE,"S273370442",NA
-"73","brnowl","American Barn Owl","Tyto furcata","L52809899","92065, Ramona US-CA 32.98017, -116.83952","2025-09-13 20:29",1,32.980173,-116.839519,TRUE,FALSE,TRUE,"S273246100",NA
-"74","brnowl","American Barn Owl","Tyto furcata","L468516","Hidden Lakes Park (CC Co.)","2025-09-13 20:08",1,37.9772213,-122.0899487,TRUE,FALSE,FALSE,"S273244783",NA
-"75","brnowl","American Barn Owl","Tyto furcata","L18945975","1407 Rocking West Drive, Bishop, California, US (37.378, -118.42)","2025-09-13 19:57",1,37.3778717,-118.4203954,TRUE,FALSE,TRUE,"S273244147",NA
-"76","brnowl","American Barn Owl","Tyto furcata","L39056383","2503–2899 County Road 621 E, Lake Placid US-FL 27.29634, -81.28903","2025-09-13 19:52",1,27.296337,-81.289029,TRUE,FALSE,TRUE,"S273226953",NA
-"77","brnowl","American Barn Owl","Tyto furcata","L1804138","Lime Ridge Open Space--north","2025-09-13 19:32",1,37.9430485,-122.0026175,TRUE,FALSE,FALSE,"S273244244",NA
-"78","brnowl","American Barn Owl","Tyto furcata","L1866452","Cactus Creek Ranch (private - restricted access)","2025-09-13 18:40",1,26.215797,-97.429897,TRUE,FALSE,FALSE,"S273244636",NA
-"79","brnowl","American Barn Owl","Tyto furcata","L2776216","Sedgwick Reserve (restricted access)","2025-09-13 18:19",1,34.692571,-120.0405478,TRUE,FALSE,FALSE,"S273267010",NA
-"80","brnowl","American Barn Owl","Tyto furcata","L269356","Mount Baker--Skyline Divide","2025-09-13 18:00",NA,48.86521,-121.85014,TRUE,FALSE,FALSE,"S273473795",NA
-"81","brnowl","American Barn Owl","Tyto furcata","L52027494","Forest Service Road 9163N, Flagstaff, Arizona, US (35.253, -111.356)","2025-09-13 17:52",1,35.253402,-111.3556375,TRUE,TRUE,TRUE,"S273244395",NA
-"82","brnowl","American Barn Owl","Tyto furcata","L577845","Bodie SHP","2025-09-13 14:06",1,38.2115799,-119.0126181,TRUE,FALSE,FALSE,"S273203477",NA
-"83","brnowl","American Barn Owl","Tyto furcata","L267830","Washtucna","2025-09-13 13:42",5,46.7510721,-118.3175335,TRUE,FALSE,FALSE,"S273243966",NA
-"84","brnowl","American Barn Owl","Tyto furcata","L1509906","Utah Lake Parkway Trail (North Shore)","2025-09-13 13:21",1,40.3622447,-111.8832118,TRUE,FALSE,FALSE,"S273192989",NA
-"85","brnowl","American Barn Owl","Tyto furcata","L8950719","Cherry Creek SP--Dixon Grove area","2025-09-13 12:27",1,39.6512747,-104.8486454,TRUE,FALSE,FALSE,"S273231394",NA
-"86","brnowl","American Barn Owl","Tyto furcata","L50959626","San Francisco Wash","2025-09-13 10:40",3,35.252033,-111.352153,TRUE,TRUE,TRUE,"S273165031",NA
-"87","brnowl","American Barn Owl","Tyto furcata","L52812291","Highway 8 and Greenfield overpass","2025-09-13 10:20",2,32.8120843,-116.9163661,TRUE,FALSE,TRUE,"S273256780",NA
-"88","brnowl","American Barn Owl","Tyto furcata","L208918","Sweetwater Wetlands","2025-09-13 09:26",1,32.2790144,-111.0216061,TRUE,FALSE,FALSE,"S273147221",NA
-"89","brnowl","American Barn Owl","Tyto furcata","L52796485","Duck Club","2025-09-13 09:22",1,37.010406,-120.778461,TRUE,FALSE,TRUE,"S273188870",NA
-"90","brnowl","American Barn Owl","Tyto furcata","L24114231","Elkhart Cemetery, Shelterbelt, & WTP","2025-09-13 08:03",1,37.012227,-101.8914162,TRUE,FALSE,FALSE,"S273122052",NA
-"91","brnowl","American Barn Owl","Tyto furcata","L818100","Lake Herman","2025-09-13 07:46",1,38.0941737,-122.1557808,TRUE,FALSE,FALSE,"S273147971",NA
-"92","brnowl","American Barn Owl","Tyto furcata","L229841","Agua Nueva Park (was Roger Road WRF)","2025-09-13 07:44",1,32.2804902,-111.0272755,TRUE,FALSE,FALSE,"S273164932",NA
-"93","brnowl","American Barn Owl","Tyto furcata","L35642568","coyote hills","2025-09-13 07:28",2,37.5540457,-122.0883993,TRUE,FALSE,TRUE,"S273196081",NA
-"94","brnowl","American Barn Owl","Tyto furcata","L168559","Provo Airport Dike","2025-09-13 07:18",1,40.2186598,-111.7285157,TRUE,FALSE,FALSE,"S273114993",NA
-"95","brnowl","American Barn Owl","Tyto furcata","L21695460","West IRCO Agricultural Area","2025-09-13 07:12",1,27.5880997,-80.5796945,TRUE,FALSE,TRUE,"S273192977",NA
-"96","brnowl","American Barn Owl","Tyto furcata","L466488","Peninsula Open Space Trust--Wavecrest (Smith Field and blufftop area)","2025-09-13 07:08",1,37.4465089,-122.4378368,TRUE,FALSE,FALSE,"S273109430",NA
-"97","brnowl","American Barn Owl","Tyto furcata","L52179814","Lateral Canal Road","2025-09-13 07:01",1,40.0931365,-111.8010328,TRUE,FALSE,TRUE,"S273171821",NA
-"98","brnowl","American Barn Owl","Tyto furcata","L815817","Frank G. Bonelli RP/Puddingstone Reservoir and vicinity","2025-09-13 06:45",1,34.0870104,-117.8050125,TRUE,FALSE,FALSE,"S273226390",NA
-"99","brnowl","American Barn Owl","Tyto furcata","L391136","Pt. Reyes--Drakes Beach (DO NOT INCLUDE Horseshoe Pond or beach/estero beyond Horseshoe Pond)","2025-09-13 06:22",1,38.0271821,-122.9615507,TRUE,FALSE,FALSE,"S273201262",NA
-"100","brnowl","American Barn Owl","Tyto furcata","L870535","Robinson Canyon Rd.--middle (San Francisquito Valley from mp 5 to mp 2)","2025-09-13 05:05",1,36.4586859,-121.798026,TRUE,FALSE,FALSE,"S273211565",NA
-"101","brnowl","American Barn Owl","Tyto furcata","L373341","Robinson Canyon--mp 8.5 to watershed summit (~mp 5)","2025-09-13 04:25",1,36.4895411,-121.8113422,TRUE,FALSE,FALSE,"S273211268",NA
-"102","brnowl","American Barn Owl","Tyto furcata","L3574409","Pine Ridge","2025-09-13 03:00",1,45.7075579,-123.923378,TRUE,FALSE,TRUE,"S273106135",NA
-"103","brnowl","American Barn Owl","Tyto furcata","L2056359","South Waterfront","2025-09-13 03:00",1,45.4977745,-122.6678038,TRUE,FALSE,FALSE,"S273105884",NA
-"104","brnowl","American Barn Owl","Tyto furcata","L21121680","home","2025-09-13 02:59",1,43.838776,-116.492961,TRUE,FALSE,TRUE,"S273116660",NA
-"105","brnowl","American Barn Owl","Tyto furcata","L52760112","1382 Northeast 30th Avenue, Seward, Kansas, US (38.162, -98.693)","2025-09-12 23:33",1,38.1624117,-98.6929219,TRUE,FALSE,TRUE,"S273023816",NA
-"106","brnowl","American Barn Owl","Tyto furcata","L31157234","Ventura--Flint St.","2025-09-12 23:10",1,34.2935317,-119.2985876,TRUE,FALSE,TRUE,"S273029501",NA
-"107","brnowl","American Barn Owl","Tyto furcata","L4379069","Home","2025-09-12 22:50",1,34.175352,-118.334302,TRUE,FALSE,TRUE,"S273027630",NA
-"108","brnowl","American Barn Owl","Tyto furcata","L128987","High Island (UTC 051)","2025-09-12 22:30",1,29.565224,-94.3963361,TRUE,FALSE,FALSE,"S273020436",NA
-"109","brnowl","American Barn Owl","Tyto furcata","L5965386","Hiller Highlands","2025-09-12 22:15",1,37.855396,-122.227206,TRUE,FALSE,TRUE,"S273026287",NA
-"110","brnowl","American Barn Owl","Tyto furcata","L2928839","Astoria - home","2025-09-12 22:07",1,46.1834709,-123.829016,TRUE,FALSE,TRUE,"S273028264",NA
-"111","brnowl","American Barn Owl","Tyto furcata","L11329059","Ruston Home (private)","2025-09-12 21:34",1,47.291385,-122.512268,TRUE,FALSE,TRUE,"S273023946",NA
-"112","brnowl","American Barn Owl","Tyto furcata","L14209325","Highland Park","2025-09-12 21:21",1,35.2331069,-101.6664072,TRUE,FALSE,TRUE,"S273015969",NA
-"113","brnowl","American Barn Owl","Tyto furcata","L20822723","28660 Robinson Canyon Rd, Carmel US-CA (36.5104,-121.8102)","2025-09-12 19:21",1,36.510412,-121.810234,TRUE,FALSE,TRUE,"S273022025",NA
-"114","brnowl","American Barn Owl","Tyto furcata","L6668557","The Rolling Land Company","2025-09-12 17:10",1,32.759099,-117.054679,TRUE,FALSE,TRUE,"S273010857",NA
-"115","brnowl","American Barn Owl","Tyto furcata","L469546","Skagit Wildlife Area--Fir Island Farm Reserve (Hayton Reserve)","2025-09-12 16:07",1,48.3356338,-122.4131659,TRUE,FALSE,FALSE,"S273011177",NA
-"116","brnowl","American Barn Owl","Tyto furcata","L4469021","Alderdale Creek mouth","2025-09-12 14:45",1,45.8359999,-119.9288258,TRUE,FALSE,FALSE,"S272990796",NA
-"117","brnowl","American Barn Owl","Tyto furcata","L22115053","Private Reservoir","2025-09-12 13:37",1,38.437211,-122.370126,TRUE,FALSE,TRUE,"S272976829",NA
-"118","brnowl","American Barn Owl","Tyto furcata","L38649493","67584–67598 Scott Rd, Hines OR 43.50857, -119.17975","2025-09-12 13:27",1,43.508569,-119.179748,TRUE,FALSE,TRUE,"S272975763",NA
-"119","brnowl","American Barn Owl","Tyto furcata","L200588","Natural Bridges SB","2025-09-12 10:41",1,36.9523782,-122.0567107,TRUE,FALSE,FALSE,"S272964046",NA
-"120","brnowl","American Barn Owl","Tyto furcata","L740752","Malheur NWR--Benson Pond","2025-09-12 10:27",1,42.9566738,-118.8657188,TRUE,FALSE,FALSE,"S272959964",NA
-"121","brnowl","American Barn Owl","Tyto furcata","L218324","Pt. Reyes--Abbotts Lagoon","2025-09-12 10:18",1,38.1190611,-122.9522467,TRUE,FALSE,FALSE,"S272980067",NA
-"122","brnowl","American Barn Owl","Tyto furcata","L7797854","Don Edwards NWR--Env. Ed. Ctr. (EEC) and nearby upland areas","2025-09-12 10:12",1,37.438916,-121.959456,TRUE,FALSE,FALSE,"S272957139",NA
-"123","brnowl","American Barn Owl","Tyto furcata","L4715223","Waddell Creek - Brown House ","2025-09-12 09:56",1,37.106495,-122.272585,TRUE,FALSE,TRUE,"S273106362",NA
-"124","brnowl","American Barn Owl","Tyto furcata","L818547","Holbrook--Hidden Cove Golf Course","2025-09-12 09:36",1,34.9194375,-110.1940727,TRUE,FALSE,FALSE,"S272972669",NA
-"125","brnowl","American Barn Owl","Tyto furcata","L52642053","Anchor Inn","2025-09-12 09:04",1,41.2864292,-70.1015282,TRUE,FALSE,TRUE,"S272971581",NA
-"126","brnowl","American Barn Owl","Tyto furcata","L6574159","Siuslaw River--South Jetty (general)","2025-09-12 08:42",1,44.0017135,-124.1344185,TRUE,FALSE,FALSE,"S272964850",NA
-"127","brnowl","American Barn Owl","Tyto furcata","L798090","Tolay Regional Park","2025-09-12 08:35",2,38.2106695,-122.5126648,TRUE,FALSE,FALSE,"S272990716",NA
-"128","brnowl","American Barn Owl","Tyto furcata","L1280089","Pescadero Marsh and Natural Preserve--(South Marsh) trail systems from Pescadero Creek Rd. access","2025-09-12 07:29",1,37.2595835,-122.4114737,TRUE,FALSE,FALSE,"S272934442",NA
-"129","brnowl","American Barn Owl","Tyto furcata","L471741","Villa Creek--Estero Bluffs State Park","2025-09-12 07:27",1,35.4599561,-120.9688341,TRUE,FALSE,FALSE,"S272996411",NA
-"130","brnowl","American Barn Owl","Tyto furcata","L52743247","Hay Barn","2025-09-12 07:25",1,45.394363,-122.3323163,TRUE,FALSE,TRUE,"S272949469",NA
-"131","brnowl","American Barn Owl","Tyto furcata","L282317","Storrie Lake SP","2025-09-12 06:54",1,35.6616165,-105.2316213,TRUE,FALSE,FALSE,"S272920101",NA
-"132","brnowl","American Barn Owl","Tyto furcata","L4105842","Stone Lakes NWR--Peninsula (Central Loop) Station (limited access)","2025-09-12 06:44",1,38.3438861,-121.504696,TRUE,FALSE,FALSE,"S273439635",NA
-"133","brnowl","American Barn Owl","Tyto furcata","L481023","Los Angeles River--Willow St.","2025-09-12 06:00",1,33.8048977,-118.2059383,TRUE,FALSE,FALSE,"S272992902",NA
-"134","brnowl","American Barn Owl","Tyto furcata","L653390","Meadowlark Farm - private property","2025-09-12 05:59",1,38.5586831,-78.8618946,TRUE,FALSE,TRUE,"S272890078",NA
-"135","brnowl","American Barn Owl","Tyto furcata","L5896176","Aliso and Wood Canyons WP -- Wood Canyon Trail","2025-09-12 04:57",1,33.5688612,-117.7479672,TRUE,FALSE,FALSE,"S272940574",NA
-"136","brnowl","American Barn Owl","Tyto furcata","L856260","South Beach SP","2025-09-12 03:00",1,44.6063572,-124.0631104,TRUE,FALSE,FALSE,"S273322638",NA
-"137","brnowl","American Barn Owl","Tyto furcata","L36882804","Flying Flags RV Resort","2025-09-12 02:39",1,34.609205,-120.19186,TRUE,FALSE,TRUE,"S272866577",NA
-"138","brnowl","American Barn Owl","Tyto furcata","L23582564","McMinnville, Oregon, US (45.2, -123.165)","2025-09-12 01:17",1,45.1996423,-123.1650855,TRUE,FALSE,TRUE,"S272861489",NA
-"139","brnowl","American Barn Owl","Tyto furcata","L29048708","Paynes Prairie S.P. campground","2025-09-12 01:01",1,29.526827,-82.2945423,TRUE,FALSE,FALSE,"S272991394",NA
-"140","brnowl","American Barn Owl","Tyto furcata","L6471521","stakeout Virginia's Warbler, Portland (2017)","2025-09-12 01:00",1,45.5731811,-122.6565941,TRUE,FALSE,FALSE,"S272860927",NA
-"141","brnowl","American Barn Owl","Tyto furcata","L16006514","Concordia University","2025-09-11 21:55",1,33.653688,-117.810369,TRUE,FALSE,FALSE,"S272848852",NA
-"142","brnowl","American Barn Owl","Tyto furcata","L2507527","243 Cortez Avenue","2025-09-11 21:10",1,38.5640037,-121.7477685,TRUE,FALSE,TRUE,"S272847350",NA
-"143","brnowl","American Barn Owl","Tyto furcata","L23074775","Corner of McAdoo and Marsh Hawk","2025-09-11 21:09",1,38.6489365,-121.1485739,TRUE,FALSE,TRUE,"S272847650",NA
-"144","brnowl","American Barn Owl","Tyto furcata","L267347","Brady Loop","2025-09-11 21:00",1,46.9766854,-123.5424045,TRUE,FALSE,FALSE,"S273024931",NA
-"145","brnowl","American Barn Owl","Tyto furcata","L3152362","La Mesa","2025-09-11 20:34",1,32.7665315,-117.0287343,TRUE,FALSE,TRUE,"S272845501",NA
-"146","brnowl","American Barn Owl","Tyto furcata","L52721028","Madera Canyon Rd, Green Valley US-AZ 31.85479, -110.97442","2025-09-11 19:54",1,31.854788,-110.974422,TRUE,FALSE,TRUE,"S272843481",NA
-"147","brnowl","American Barn Owl","Tyto furcata","L22959833","Pershing Ave","2025-09-11 19:46",1,32.745164,-117.134263,TRUE,FALSE,TRUE,"S272843094",NA
-"148","brnowl","American Barn Owl","Tyto furcata","L52720888","13745 Powers Rd, Poway US-CA (32.9639,-117.0616)","2025-09-11 19:39",2,32.963864,-117.061584,TRUE,FALSE,TRUE,"S272842748",NA
-"149","brnowl","American Barn Owl","Tyto furcata","L891127","Carson River Park/Silver Saddle Ranch","2025-09-11 17:38",4,39.1363102,-119.7069132,TRUE,FALSE,TRUE,"S272855351",NA
-"150","brnowl","American Barn Owl","Tyto furcata","L1651340","Carson River Park/Silver Saddle Ranch","2025-09-11 17:32",2,39.1304885,-119.7074651,TRUE,FALSE,TRUE,"S272919759",NA
-"151","brnowl","American Barn Owl","Tyto furcata","L19246254","home","2025-09-11 16:44",1,37.486487,-122.251922,TRUE,FALSE,TRUE,"S272829622",NA
-"152","brnowl","American Barn Owl","Tyto furcata","L460136","Pt. Reyes--Nunes Ranch (A Ranch) & Road Forks Pool","2025-09-11 14:52",1,38.0001533,-122.9959291,TRUE,FALSE,FALSE,"S272836791",NA
-"153","brnowl","American Barn Owl","Tyto furcata","L212071","Antelope Island SP--Garr Ranch","2025-09-11 13:42",1,40.9234737,-112.1680972,TRUE,FALSE,FALSE,"S272811170",NA
-"154","brnowl","American Barn Owl","Tyto furcata","L31153040","County Road 16 1/2, Longmont US-CO 40.10917, -105.03735","2025-09-11 10:51",1,40.10917,-105.037347,TRUE,FALSE,TRUE,"S272771891",NA
-"155","brnowl","American Barn Owl","Tyto furcata","L52697302","3326 NW 5th Ave, Gainesville US-FL 29.65564, -82.37149","2025-09-11 10:36",1,29.655636,-82.371494,TRUE,FALSE,TRUE,"S272739162",NA
-"156","brnowl","American Barn Owl","Tyto furcata","L20820372","Keith Whipple Ranch","2025-09-11 10:35",1,41.4722742,-122.8373244,TRUE,FALSE,TRUE,"S272780908",NA
-"157","brnowl","American Barn Owl","Tyto furcata","L718546","Kiptopeke State Park","2025-09-11 09:36",1,37.1691146,-75.9803496,TRUE,TRUE,FALSE,"S273521356",NA
-"158","brnowl","American Barn Owl","Tyto furcata","L5723111","First Creek at Green Valley Ranch","2025-09-11 09:03",1,39.7916002,-104.7623607,TRUE,FALSE,FALSE,"S272771795",NA
-"159","brnowl","American Barn Owl","Tyto furcata","L52640601","Puerco River--downstream from Puerco Pueblo","2025-09-11 08:32",1,34.9737457,-109.8005011,TRUE,FALSE,FALSE,"S272813839",NA
-"160","brnowl","American Barn Owl","Tyto furcata","L3734670","Middle Rock Creek Ln.","2025-09-11 08:28",1,45.5071098,-120.1809668,TRUE,FALSE,FALSE,"S272820461",NA
-"161","brnowl","American Barn Owl","Tyto furcata","L30286902","1375 Brookline Loop, Pleasanton, California, US (37.655, -121.899)","2025-09-11 08:00",1,37.6552608,-121.8985553,TRUE,FALSE,TRUE,"S272949446",NA
-"162","brnowl","American Barn Owl","Tyto furcata","L465135","Starr Ranch","2025-09-11 07:35",1,33.6249383,-117.556833,TRUE,FALSE,FALSE,"S272832236",NA
-"163","brnowl","American Barn Owl","Tyto furcata","L419636","Grasslands Regional Park","2025-09-11 07:30",1,38.4959689,-121.6941027,TRUE,FALSE,FALSE,"S272775196",NA
-"164","brnowl","American Barn Owl","Tyto furcata","L37878758","GSL Shorelands Preserve-Section B (restricted access)","2025-09-11 07:08",1,41.0358111,-112.0039291,TRUE,FALSE,TRUE,"S272757960",NA
-"165","brnowl","American Barn Owl","Tyto furcata","L934338","Mangas Springs","2025-09-11 07:07",1,32.8418443,-108.5108471,TRUE,FALSE,FALSE,"S272738966",NA
-"166","brnowl","American Barn Owl","Tyto furcata","L12054395","Andrew Jackson Dr, Floridatown","2025-09-11 07:04",1,30.5820213,-87.1672769,TRUE,TRUE,TRUE,"S272724704",NA
-"167","brnowl","American Barn Owl","Tyto furcata","L472951","Paloma Ranch","2025-09-11 06:51",1,32.9189081,-112.8944135,TRUE,FALSE,FALSE,"S272830551",NA
-"168","brnowl","American Barn Owl","Tyto furcata","L3236720","Park Presidio Park and Trail","2025-09-11 06:14",1,37.7778159,-122.4724263,TRUE,FALSE,FALSE,"S272727593",NA
-"169","brnowl","American Barn Owl","Tyto furcata","L351484","Marymoor Park","2025-09-11 05:20",1,47.6612642,-122.1184109,TRUE,FALSE,FALSE,"S272974251",NA
-"170","brnowl","American Barn Owl","Tyto furcata","L29340269","Hawi-Vallecito Cultural Preserve","2025-09-11 04:54",1,32.9687355,-116.3906997,TRUE,FALSE,TRUE,"S272708098",NA
-"171","brnowl","American Barn Owl","Tyto furcata","L51199382","Home2","2025-09-11 01:08",1,48.9345044,-122.1448106,TRUE,FALSE,TRUE,"S272689068",NA
-"172","brnowl","American Barn Owl","Tyto furcata","L11343475","Cimarron Rd","2025-09-10 21:57",1,44.0971811,-121.1788808,TRUE,TRUE,TRUE,"S272677782",NA
-"173","brnowl","American Barn Owl","Tyto furcata","L52684577","4072 U.S. Highway 62, Hobbs, New Mexico, US (32.726, -103.085)","2025-09-10 20:56",1,32.7261493,-103.0853546,TRUE,FALSE,TRUE,"S272672923",NA
-"174","brnowl","American Barn Owl","Tyto furcata","L12104925","Home","2025-09-10 20:42",1,32.745759,-116.799527,TRUE,FALSE,TRUE,"S272674772",NA
-"175","brnowl","American Barn Owl","Tyto furcata","L42368656","Garden City Township, Kansas, US (37.909, -100.895)","2025-09-10 20:32",6,37.9093942,-100.8952896,TRUE,FALSE,TRUE,"S272672497",NA
-"176","brnowl","American Barn Owl","Tyto furcata","L18681099","Dutra Estates Park","2025-09-10 20:27",1,37.7766169,-121.2634789,TRUE,FALSE,TRUE,"S272674922",NA
-"177","brnowl","American Barn Owl","Tyto furcata","L52682554","42701, Elizabethtown US-KY (37.6323,-85.7806)","2025-09-10 20:20",2,37.632319,-85.780633,TRUE,TRUE,TRUE,"S272663291",NA
-"178","brnowl","American Barn Owl","Tyto furcata","L523951","Stipson Island Rd.","2025-09-10 19:40",1,39.1890256,-74.9109006,TRUE,TRUE,FALSE,"S272661724",NA
-"179","brnowl","American Barn Owl","Tyto furcata","L4976596","Carmel Valley (San Diego) Residential","2025-09-10 19:40",1,32.9149308,-117.2173997,TRUE,FALSE,TRUE,"S272672518",NA
-"180","brnowl","American Barn Owl","Tyto furcata","L279300","Younger Lagoon (restricted; access only to the overhang)","2025-09-10 19:22",1,36.9506136,-122.0661477,TRUE,FALSE,FALSE,"S272671702",NA
-"181","brnowl","American Barn Owl","Tyto furcata","L765025","Meadowlands District IBA","2025-09-10 19:20",1,40.8060136,-74.0863895,TRUE,FALSE,FALSE,"S272658173",NA
-"182","brnowl","American Barn Owl","Tyto furcata","L52526266","Oxidation Ponds area","2025-09-10 18:27",1,35.247382,-116.661759,TRUE,FALSE,TRUE,"S272676781",NA
-"183","brnowl","American Barn Owl","Tyto furcata","L41289816","Tolay","2025-09-10 17:58",2,38.203006,-122.520457,TRUE,FALSE,TRUE,"S273564298",NA
-"184","brnowl","American Barn Owl","Tyto furcata","L292411","Crescent Lake WMA","2025-09-10 15:08",1,47.8162308,-121.9934082,TRUE,FALSE,FALSE,"S272679035",NA
-"185","brnowl","American Barn Owl","Tyto furcata","L38973799","4106 Rawley Pike","2025-09-10 14:37",1,38.455075,-78.940151,TRUE,FALSE,TRUE,"S273014764",NA
-"186","brnowl","American Barn Owl","Tyto furcata","L52722475","Winding Walk neighborhood","2025-09-10 14:00",1,32.6247402,-116.9615566,TRUE,FALSE,TRUE,"S272850283",NA
-"187","brnowl","American Barn Owl","Tyto furcata","L34530562","Prairie Creek State Park Campground","2025-09-10 13:45",1,41.3247642,-124.0372646,TRUE,FALSE,TRUE,"S273484854",NA
-"188","brnowl","American Barn Owl","Tyto furcata","L11373972","13278–13294 US-395 N, Eltopia US-WA 46.42564, -119.02770","2025-09-10 09:54",1,46.425641,-119.027705,TRUE,FALSE,TRUE,"S272607227",NA
-"189","brnowl","American Barn Owl","Tyto furcata","L52617390","12430 Widgeon Way, Clearlake Oaks US-CA 39.02017, -122.67759","2025-09-10 08:24",1,39.020174,-122.67759,TRUE,FALSE,TRUE,"S272594538",NA
-"190","brnowl","American Barn Owl","Tyto furcata","L1026626","Olompali State Historic Park","2025-09-10 08:12",1,38.1488676,-122.5861359,TRUE,FALSE,FALSE,"S272593055",NA
-"191","brnowl","American Barn Owl","Tyto furcata","L52685110","La Gloria Rd, Paicines US-CA 36.56543, -121.20574","2025-09-10 08:02",1,36.565431,-121.205744,TRUE,FALSE,TRUE,"S272675445",NA
-"192","brnowl","American Barn Owl","Tyto furcata","L285944","Lake Perris State Recreation Area","2025-09-10 07:30",1,33.8622197,-117.1685886,TRUE,FALSE,FALSE,"S272633693",NA
-"193","brnowl","American Barn Owl","Tyto furcata","L305036","Timnath Reservoir","2025-09-10 07:20",2,40.54796,-104.95986,TRUE,FALSE,FALSE,"S272603149",NA
-"194","brnowl","American Barn Owl","Tyto furcata","L6327844","Old Bridge, San Jose, California, US (37.463, -121.999)","2025-09-10 07:07",2,37.4632148,-121.9985624,TRUE,FALSE,TRUE,"S272662507",NA
-"195","brnowl","American Barn Owl","Tyto furcata","L373440","Clifton Court Forebay","2025-09-10 06:45",1,37.8362253,-121.5880108,TRUE,FALSE,FALSE,"S272655679",NA
-"196","brnowl","American Barn Owl","Tyto furcata","L16565422","Shelby Farms Park--Gardner Rd. Marsh","2025-09-10 05:53",1,35.1424179,-89.8488404,TRUE,FALSE,FALSE,"S272567261",NA
-"197","brnowl","American Barn Owl","Tyto furcata","L52579670","Earth & Sky House","2025-09-10 05:50",1,36.561249,-121.902649,TRUE,FALSE,TRUE,"S272565221",NA
-"198","brnowl","American Barn Owl","Tyto furcata","L2937246","Joseph D. Grant CP--ranch house area","2025-09-10 05:43",1,37.3376529,-121.7149504,TRUE,FALSE,FALSE,"S273019461",NA
-"199","brnowl","American Barn Owl","Tyto furcata","L12138932","Pine and 1st","2025-09-10 04:20",1,36.6162524,-121.9090341,TRUE,FALSE,TRUE,"S272546290",NA
-"200","brnowl","American Barn Owl","Tyto furcata","L3932556","1340 Muir Drive","2025-09-10 03:11",1,38.899216,-119.7404516,TRUE,FALSE,TRUE,"S272555546",NA
-"201","brnowl","American Barn Owl","Tyto furcata","L1827865","home-Marin","2025-09-10 00:45",1,37.8957664,-122.5050245,TRUE,FALSE,TRUE,"S272532467",NA
-"202","brnowl","American Barn Owl","Tyto furcata","L20067415","El Pomar Drive","2025-09-09 22:05",1,35.5558011,-120.6236529,TRUE,FALSE,TRUE,"S272518989",NA
-"203","brnowl","American Barn Owl","Tyto furcata","L1772523","Yard & neighborhood--Tam Valley","2025-09-09 21:28",1,37.877557,-122.5333835,TRUE,FALSE,TRUE,"S272518074",NA
-"204","brnowl","American Barn Owl","Tyto furcata","L6073099","Mason Co., Coffee Creek Watershed","2025-09-09 21:00",1,47.2005404,-123.1637268,TRUE,FALSE,TRUE,"S272582480",NA
-"205","brnowl","American Barn Owl","Tyto furcata","L7781274","Weowna Park","2025-09-09 20:47",4,47.5957347,-122.1140601,TRUE,FALSE,FALSE,"S272515667",NA
-"206","brnowl","American Barn Owl","Tyto furcata","L52653188","Regal Cinemas EDH","2025-09-09 20:44",2,38.6520695,-121.0625699,TRUE,FALSE,TRUE,"S272515939",NA
-"207","brnowl","American Barn Owl","Tyto furcata","L11014487","Eureka Slough--Airport Rd. access","2025-09-09 20:30",2,40.8042647,-124.1203659,TRUE,FALSE,FALSE,"S272677958",NA
-"208","brnowl","American Barn Owl","Tyto furcata","L52652792","Ed Powers Road, Bishop, California, US (37.374, -118.478)","2025-09-09 20:24",1,37.3736029,-118.4776019,TRUE,FALSE,TRUE,"S272514550",NA
-"209","brnowl","American Barn Owl","Tyto furcata","L1397177","Half Moon Bay SB--Sweetwood Camp and Dunes Beach to Young Ave.","2025-09-09 19:50",1,37.4829482,-122.448801,TRUE,FALSE,FALSE,"S272517513",NA
-"210","brnowl","American Barn Owl","Tyto furcata","L5115520","Motte Rimrock Reserve","2025-09-09 19:47",2,33.8005783,-117.2549772,TRUE,FALSE,FALSE,"S272582296",NA
-"211","brnowl","American Barn Owl","Tyto furcata","L51884535","Home","2025-09-09 19:12",1,33.2609973,-111.6189074,TRUE,FALSE,TRUE,"S272511360",NA
-"212","brnowl","American Barn Owl","Tyto furcata","L52652243","100 Wildlife Refuge Rd, Glenwood US-WA 45.96546, -121.34254","2025-09-09 18:45",1,45.965461,-121.34254,TRUE,FALSE,TRUE,"S272512060",NA
-"213","brnowl","American Barn Owl","Tyto furcata","L697005","Mission Adobe Nursery","2025-09-09 18:45",1,37.5795316,-121.9909537,TRUE,FALSE,FALSE,"S272525754",NA
-"214","brnowl","American Barn Owl","Tyto furcata","L1790905","Carson River Park/Silver Saddle Ranch","2025-09-09 17:38",2,39.1359229,-119.7066605,TRUE,FALSE,TRUE,"S272620956",NA
-"215","brnowl","American Barn Owl","Tyto furcata","L18859159","33313 County Road 16, Keenesburg, Colorado, US (40.103, -104.427)","2025-09-09 11:38",1,40.1025038,-104.4273297,TRUE,FALSE,TRUE,"S272469482",NA
-"216","brnowl","American Barn Owl","Tyto furcata","L4548014","Swan Falls Dam--below dam","2025-09-09 11:07",1,43.2447025,-116.3783455,TRUE,FALSE,FALSE,"S272456756",NA
-"217","brnowl","American Barn Owl","Tyto furcata","L942775","Tarragona Dr.","2025-09-09 10:49",1,32.7553044,-117.062473,TRUE,FALSE,TRUE,"S272521654",NA
-"218","brnowl","American Barn Owl","Tyto furcata","L710366","Wood River Day Use Area","2025-09-09 09:23",1,42.7085517,-121.9906425,TRUE,FALSE,FALSE,"S272467853",NA
-"219","brnowl","American Barn Owl","Tyto furcata","L52631995","(Restricted Access), 78385, Sarita US-TX 27.17466, -97.86466","2025-09-09 09:09",1,27.174662,-97.864659,TRUE,FALSE,TRUE,"S272411129",NA
-"220","brnowl","American Barn Owl","Tyto furcata","L453386","Pt. Reyes--Fish Docks (DO NOT INCLUDE Chimney Rock area)","2025-09-09 08:33",1,37.9956216,-122.9782104,TRUE,FALSE,FALSE,"S272476894",NA
-"221","brnowl","American Barn Owl","Tyto furcata","L444451","Carmel Valley Road at Tassajara Road & oak savanna eastward (MP 23.5 to 25)","2025-09-09 08:22",1,36.4012422,-121.5810585,TRUE,FALSE,FALSE,"S272513191",NA
-"222","brnowl","American Barn Owl","Tyto furcata","L3215932","Poway Creek","2025-09-09 08:07",1,32.9509914,-117.0495415,TRUE,FALSE,FALSE,"S272450446",NA
-"223","brnowl","American Barn Owl","Tyto furcata","L23720373","Dodd Rd, Burbank US-WA 46.13882, -118.89927","2025-09-09 07:43",2,46.138816,-118.899275,TRUE,FALSE,TRUE,"S272504764",NA
-"224","brnowl","American Barn Owl","Tyto furcata","L6566735","Backyard 2505 Canyon Vw, Pasadena US-CA (34.1810,-118.0979)","2025-09-09 07:00",1,34.180988,-118.097881,TRUE,FALSE,TRUE,"S272430365",NA
-"225","brnowl","American Barn Owl","Tyto furcata","L5676157","Rd-64 pond @ CA-43","2025-09-09 06:48",4,35.9246914,-119.4275971,TRUE,FALSE,FALSE,"S272425140",NA
-"226","brnowl","American Barn Owl","Tyto furcata","L15283355","Water Tank Rd, Hillsboro US-NM (32.9247,-107.5694)","2025-09-09 06:37",1,32.924672,-107.569441,TRUE,FALSE,TRUE,"S272429823",NA
-"227","brnowl","American Barn Owl","Tyto furcata","L1003218","Sevenmile Guard Station","2025-09-09 06:00",1,42.7055736,-122.0744153,TRUE,FALSE,FALSE,"S272397500",NA
-"228","brnowl","American Barn Owl","Tyto furcata","L600481","Redwood Shores Public Library","2025-09-09 05:42",1,37.5300635,-122.258842,TRUE,FALSE,FALSE,"S272403954",NA
-"229","brnowl","American Barn Owl","Tyto furcata","L1328317","Llewellyn Rd.","2025-09-09 05:08",1,44.4776636,-123.2974149,TRUE,FALSE,FALSE,"S272512858",NA
-"230","brnowl","American Barn Owl","Tyto furcata","L52647680","3661–3699 NW Gumpert Rd, Prineville US-OR (44.3303,-120.8927)","2025-09-09 04:16",1,44.330333,-120.892683,TRUE,FALSE,TRUE,"S272489027",NA
-"231","brnowl","American Barn Owl","Tyto furcata","L22809170","Chris San Jose Yard","2025-09-08 22:12",1,37.2767334,-121.9843843,TRUE,FALSE,TRUE,"S272422345",NA
-"232","brnowl","American Barn Owl","Tyto furcata","L350295","Shoshone Village","2025-09-08 21:30",1,35.9778673,-116.2714648,TRUE,FALSE,FALSE,"S272962386",NA
-"233","brnowl","American Barn Owl","Tyto furcata","L41337252","Seaside--Shafer Street","2025-09-08 20:53",1,36.6003421,-121.8429708,TRUE,FALSE,TRUE,"S272422789",NA
-"234","brnowl","American Barn Owl","Tyto furcata","L732662","West Davis Bike Trail","2025-09-08 20:18",1,38.5465544,-121.7791557,TRUE,FALSE,FALSE,"S272338281",NA
-"235","brnowl","American Barn Owl","Tyto furcata","L656782","Cosumnes River Preserve","2025-09-08 19:43",1,38.2658235,-121.4394915,TRUE,FALSE,FALSE,"S272337839",NA
-"236","brnowl","American Barn Owl","Tyto furcata","L50413152","363 Main Street, Redwood City, California, US (37.492, -122.226) My Spot","2025-09-08 18:54",1,37.492125,-122.2262583,TRUE,FALSE,TRUE,"S272334981",NA
-"237","brnowl","American Barn Owl","Tyto furcata","L11281085","Don Edwards Preserve","2025-09-08 18:02",1,37.4356676,-121.9597954,TRUE,FALSE,TRUE,"S272976411",NA
-"238","brnowl","American Barn Owl","Tyto furcata","L27516846","National Training Center/ Fort Irwin, Fort Irwin US-CA 35.24598, -116.66198","2025-09-08 16:24",2,35.245977,-116.661983,TRUE,FALSE,TRUE,"S272327089",NA
-"239","brnowl","American Barn Owl","Tyto furcata","L590835","Pt. Reyes--New Willows","2025-09-08 13:51",1,37.9974943,-122.9831564,TRUE,FALSE,FALSE,"S272343176",NA
-"240","brnowl","American Barn Owl","Tyto furcata","L789514","Pt. Reyes--Junior Mendoza","2025-09-08 13:05",1,38.0244388,-122.9907846,TRUE,FALSE,FALSE,"S272343182",NA
-"241","brnowl","American Barn Owl","Tyto furcata","L52613304","1000 Vanoni Road, Watsonville, California, US (36.918, -121.639)","2025-09-08 11:18",2,36.9183418,-121.6388822,TRUE,FALSE,TRUE,"S272311336",NA
-"242","brnowl","American Barn Owl","Tyto furcata","L12290246","Zalunardo Yard","2025-09-08 08:39",3,44.2709162,-121.012287,TRUE,FALSE,TRUE,"S272263546",NA
-"243","brnowl","American Barn Owl","Tyto furcata","L1417533","Freshwater Farms Reserve","2025-09-08 08:14",1,40.7851941,-124.0950678,TRUE,FALSE,FALSE,"S272258979",NA
-"244","brnowl","American Barn Owl","Tyto furcata","L14927419","Noah's House near LLC","2025-09-08 07:41",1,34.442405,-119.8426241,TRUE,FALSE,TRUE,"S272416836",NA
-"245","brnowl","American Barn Owl","Tyto furcata","L4682243","Summer Lake Wildlife Area--North Orchard","2025-09-08 07:16",1,42.983632,-120.7510114,TRUE,FALSE,FALSE,"S272272181",NA
-"246","brnowl","American Barn Owl","Tyto furcata","L600469","Bateman Island","2025-09-08 07:11",1,46.2405035,-119.2254353,TRUE,FALSE,FALSE,"S272279391",NA
-"247","brnowl","American Barn Owl","Tyto furcata","L36530338","HOME 5050 Euclid Ave, Boulder US-CO 40.00530, -105.23036","2025-09-08 07:01",NA,40.005302,-105.230357,TRUE,FALSE,TRUE,"S272216884",NA
-"248","brnowl","American Barn Owl","Tyto furcata","L35371457","300 Hart Street, Winston, Oregon, US (43.118, -123.417)","2025-09-08 06:24",1,43.1177419,-123.4173231,TRUE,FALSE,TRUE,"S272231735",NA
-"249","brnowl","American Barn Owl","Tyto furcata","L38421382","1964 West Badger Road, Custer, Washington, US (48.965, -122.589)","2025-09-08 05:45",1,48.9646067,-122.5890031,TRUE,FALSE,TRUE,"S272211424",NA
-"250","brnowl","American Barn Owl","Tyto furcata","L52590936","US-101 N, Goleta US-CA 34.44632, -119.95761","2025-09-08 04:44",1,34.446322,-119.957612,TRUE,FALSE,TRUE,"S272197857",NA
-"251","brnowl","American Barn Owl","Tyto furcata","L52579687","408 Grove Street, Half Moon Bay, California, US (37.454, -122.436)","2025-09-08 03:40",1,37.4544612,-122.4363392,TRUE,FALSE,TRUE,"S272189132",NA
-"252","brnowl","American Barn Owl","Tyto furcata","L39382323","my house","2025-09-07 23:18",1,37.48402,-122.26166,TRUE,FALSE,TRUE,"S272165479",NA
-"253","brnowl","American Barn Owl","Tyto furcata","L17384676","Sierra Vista - Magnuson Hotel","2025-09-07 22:22",1,31.555092,-110.300038,TRUE,FALSE,TRUE,"S272242755",NA
-"254","brnowl","American Barn Owl","Tyto furcata","L12613536","Home","2025-09-07 22:19",1,37.5295116,-122.2483895,TRUE,FALSE,TRUE,"S272160355",NA
-"255","brnowl","American Barn Owl","Tyto furcata","L52583012","55631–55699 Oil Dri Rd, Christmas Valley US-OR 43.19975, -120.79997","2025-09-07 22:19",1,43.199752,-120.799968,TRUE,FALSE,TRUE,"S272160308",NA
-"256","brnowl","American Barn Owl","Tyto furcata","L52585112","9920 Benson Rd, Lynden US-WA (49.0020,-122.4587)","2025-09-07 21:59",1,49.001951,-122.458703,TRUE,FALSE,TRUE,"S272171925",NA
-"257","brnowl","American Barn Owl","Tyto furcata","L52582511","8829 NE State Highway 104, Kingston US-WA 47.80950, -122.52907","2025-09-07 21:31",1,47.8095,-122.529068,TRUE,FALSE,TRUE,"S272157731",NA
-"258","brnowl","American Barn Owl","Tyto furcata","L27240998","Asya’s Yard","2025-09-07 21:15",1,39.754888,-121.785655,TRUE,FALSE,TRUE,"S272157033",NA
-"259","brnowl","American Barn Owl","Tyto furcata","L13537338","8025 Southwest 102nd Avenue, Miami, Florida, US (25.694, -80.357)","2025-09-07 21:00",1,25.6940986,-80.3572222,TRUE,FALSE,TRUE,"S272500814",NA
-"260","brnowl","American Barn Owl","Tyto furcata","L990849","Dave's neighborhood","2025-09-07 20:53",1,34.2753163,-119.1528788,TRUE,FALSE,TRUE,"S272156133",NA
-"261","brnowl","American Barn Owl","Tyto furcata","L10842174","FTF Front Porch, Caldwell, Texas, US (30.566, -96.518)","2025-09-07 20:30",1,30.5655009,-96.5175617,TRUE,FALSE,TRUE,"S272155774",NA
-"262","brnowl","American Barn Owl","Tyto furcata","L52581489","Thunder Valley","2025-09-07 19:55",1,38.840267,-121.313624,TRUE,FALSE,TRUE,"S272152884",NA
-"263","brnowl","American Barn Owl","Tyto furcata","L274501","Grand Bay NWR/NERR","2025-09-07 19:07",1,30.4128402,-88.4078837,TRUE,FALSE,FALSE,"S272143511",NA
-"264","brnowl","American Barn Owl","Tyto furcata","L421224","Heritage Community Park and Natural Area","2025-09-07 17:55",1,37.2397586,-80.457859,TRUE,FALSE,FALSE,"S272130841",NA
-"265","brnowl","American Barn Owl","Tyto furcata","L3830415","Falcon State Park--Butterfly Garden (Starr Co.)","2025-09-07 17:29",1,26.5844785,-99.1493234,TRUE,FALSE,FALSE,"S272140979",NA
-"266","brnowl","American Barn Owl","Tyto furcata","L1549391","San Francisco Wash","2025-09-07 17:10",3,35.254845,-111.3725243,TRUE,TRUE,TRUE,"S272149207",NA
-"267","brnowl","American Barn Owl","Tyto furcata","L581841","Browns Farm Rd.","2025-09-07 16:00",12,26.6215822,-80.5616945,TRUE,TRUE,FALSE,"S272144777",NA
-"268","brnowl","American Barn Owl","Tyto furcata","L44152764","Crow’s Nest Natural Area Preserve--Raven Road Access (woodland trails)","2025-09-07 13:30",1,38.362074,-77.342208,TRUE,FALSE,FALSE,"S272184238",NA
-"269","brnowl","American Barn Owl","Tyto furcata","L22195936","Ranch Road 1525, Lorenzo, Texas, US (33.566, -101.472)","2025-09-07 12:43",1,33.5663724,-101.4717454,TRUE,FALSE,TRUE,"S272067970",NA
-"270","brnowl","American Barn Owl","Tyto furcata","L52568521","Lawrence Expy, Sunnyvale US-CA (37.4092,-121.9988)","2025-09-07 12:31",NA,37.409215,-121.998752,TRUE,FALSE,TRUE,"S272091634",NA
-"271","brnowl","American Barn Owl","Tyto furcata","L52564215","8566 N 63rd St, Longmont US-CO 40.13032, -105.20671","2025-09-07 12:04",1,40.130319,-105.206709,TRUE,FALSE,TRUE,"S272073021",NA
-"272","brnowl","American Barn Owl","Tyto furcata","L52571636","63822 Mount Glen Rd, La Grande US-OR (45.3826,-118.0661)","2025-09-07 11:50",1,45.382584,-118.066058,TRUE,FALSE,TRUE,"S272105604",NA
-"273","brnowl","American Barn Owl","Tyto furcata","L365867","Moss Landing Cemetery","2025-09-07 10:50",1,36.7929493,-121.7856628,TRUE,FALSE,FALSE,"S272080917",NA
-"274","brnowl","American Barn Owl","Tyto furcata","L38710285","Ol Farm Rd","2025-09-07 09:00",1,38.7545532,-112.0668884,TRUE,FALSE,TRUE,"S272023725",NA
-"275","brnowl","American Barn Owl","Tyto furcata","L32137338","Home","2025-09-07 08:50",1,39.9921097,-104.778735,TRUE,FALSE,TRUE,"S272039835",NA
-"276","brnowl","American Barn Owl","Tyto furcata","L843781","Cibola NF--Sulphur Canyon Picnic Area","2025-09-07 08:45",1,35.172335,-106.3765812,TRUE,FALSE,FALSE,"S272156383",NA
-"277","brnowl","American Barn Owl","Tyto furcata","L11959660","California Botanic Garden, Claremont US-CA 34.11400, -117.71475","2025-09-07 08:21",2,34.114003,-117.714749,TRUE,FALSE,TRUE,"S272062767",NA
-"278","brnowl","American Barn Owl","Tyto furcata","L212833","Moss Landing Marine Lab","2025-09-07 08:09",1,36.7943768,-121.7866184,TRUE,FALSE,FALSE,"S272050751",NA
-"279","brnowl","American Barn Owl","Tyto furcata","L2304994","MALLORY STREET","2025-09-07 08:00",1,32.706293,-96.7663577,TRUE,FALSE,TRUE,"S272137322",NA
-"280","brnowl","American Barn Owl","Tyto furcata","L1743305","Smoke Creek Desert - Bonham Ranch","2025-09-07 07:05",1,40.3157047,-119.7973088,TRUE,FALSE,FALSE,"S272100077",NA
-"281","brnowl","American Barn Owl","Tyto furcata","L340241","Barr Lake SP--banding station area (pre-2024)","2025-09-07 07:01",1,39.9416367,-104.7515461,TRUE,FALSE,FALSE,"S272031555",NA
-"282","brnowl","American Barn Owl","Tyto furcata","L52548478","Carmel Valley Rd (36.5378,-121.8599)","2025-09-07 06:31",1,36.537823,-121.859913,TRUE,FALSE,TRUE,"S271996223",NA
-"283","brnowl","American Barn Owl","Tyto furcata","L6023139","Pescadero Point Beach","2025-09-07 06:07",1,37.245176,-122.417941,TRUE,FALSE,FALSE,"S272094980",NA
-"284","brnowl","American Barn Owl","Tyto furcata","L52579004","5454 Selmaraine Drive, Culver City, California, US (33.989, -118.402)","2025-09-07 05:50",1,33.9894987,-118.4016263,TRUE,FALSE,TRUE,"S272140829",NA
-"285","brnowl","American Barn Owl","Tyto furcata","L13490816","Towne Rd, Dungeness, WA","2025-09-07 05:22",1,48.132698,-123.134433,TRUE,FALSE,TRUE,"S271976593",NA
-"286","brnowl","American Barn Owl","Tyto furcata","L4135365","Rancho San Rafael Park--Dog Park and South Park areas","2025-09-07 05:08",1,39.5470076,-119.8303968,TRUE,FALSE,FALSE,"S271973069",NA
-"287","brnowl","American Barn Owl","Tyto furcata","L52544283","135 G Street, Chula Vista, California, US (32.64, -117.072)","2025-09-07 05:06",1,32.6401316,-117.0719714,TRUE,FALSE,TRUE,"S271972475",NA
-"288","brnowl","American Barn Owl","Tyto furcata","L22679556","San Marcos Pass Vista Point","2025-09-07 04:41",1,34.5310741,-119.8422447,TRUE,FALSE,FALSE,"S272343096",NA
-"289","brnowl","American Barn Owl","Tyto furcata","L29010846","Batt Slough","2025-09-07 04:32",1,47.8933498,-122.1004324,TRUE,FALSE,FALSE,"S271993139",NA
-"290","brnowl","American Barn Owl","Tyto furcata","L52497276","4639 Lincoln Way, San Francisco US-CA 37.76378, -122.50789","2025-09-07 04:20",1,37.763778,-122.507889,TRUE,FALSE,TRUE,"S272450184",NA
-"291","brnowl","American Barn Owl","Tyto furcata","L4445455","10655 Agate Rd","2025-09-07 04:02",1,42.46904,-122.85268,TRUE,FALSE,TRUE,"S271990093",NA
-"292","brnowl","American Barn Owl","Tyto furcata","L52536229","8800–9498 Island Rd, Etna US-CA 41.57025, -122.85373","2025-09-07 00:58",1,41.570249,-122.853728,TRUE,FALSE,TRUE,"S271937697",NA
-"293","brnowl","American Barn Owl","Tyto furcata","L14426750","Private Balcony","2025-09-07 00:00",1,34.1088013,-118.2902693,TRUE,FALSE,TRUE,"S273433686",NA
-"294","brnowl","American Barn Owl","Tyto furcata","L2169574","Yard Birds, Encinitas","2025-09-06 22:56",1,33.0409751,-117.2410297,TRUE,FALSE,TRUE,"S271923943",NA
-"295","brnowl","American Barn Owl","Tyto furcata","L52882421","Los Gatos Creek County Park, Coalinga US-CA 36.24789, -120.61324","2025-09-06 22:02",1,36.247888,-120.613241,TRUE,FALSE,TRUE,"S273603589",NA
-"296","brnowl","American Barn Owl","Tyto furcata","L14796799","29532–29764 Robinson Canyon Rd, Carmel US-CA 36.47960, -121.80431","2025-09-06 21:13",1,36.479601,-121.80431,TRUE,FALSE,TRUE,"S271919135",NA
-"297","brnowl","American Barn Owl","Tyto furcata","L1567344","Hoko River SP--Cowan Ranch Heritage Site","2025-09-06 21:00",1,48.2637403,-124.3499012,TRUE,FALSE,FALSE,"S271918356",NA
-"298","brnowl","American Barn Owl","Tyto furcata","L8418754","Stanford University--Escondido Village","2025-09-06 20:44",1,37.425329,-122.153921,TRUE,FALSE,FALSE,"S271913975",NA
-"299","brnowl","American Barn Owl","Tyto furcata","L52531546","Lapis Rd, Marina US-CA 36.70855, -121.78950","2025-09-06 20:38",1,36.708552,-121.789501,TRUE,FALSE,TRUE,"S271913894",NA
-"300","brnowl","American Barn Owl","Tyto furcata","L52531068","302 Pope Street, Menlo Park, California, US (37.458, -122.156)","2025-09-06 20:00",1,37.4580454,-122.1560668,TRUE,FALSE,TRUE,"S271911576",NA
-"301","brnowl","American Barn Owl","Tyto furcata","L52530939","Wildcat Campground Loop, Bolinas US-CA 37.97060, -122.79029","2025-09-06 19:54",1,37.970598,-122.790292,TRUE,FALSE,TRUE,"S271911007",NA
-"302","brnowl","American Barn Owl","Tyto furcata","L3978746","Stagecoach Inn Museum","2025-09-06 19:34",2,34.1780925,-118.9120835,TRUE,FALSE,FALSE,"S271909515",NA
-"303","brnowl","American Barn Owl","Tyto furcata","L9071335","Johnson Park","2025-09-06 19:31",1,37.449395,-122.1631622,TRUE,FALSE,FALSE,"S271909175",NA
-"304","brnowl","American Barn Owl","Tyto furcata","L169112","Hassayampa River Preserve","2025-09-06 19:30",2,33.9333419,-112.6946297,TRUE,FALSE,FALSE,"S271923602",NA
-"305","brnowl","American Barn Owl","Tyto furcata","L623357","Paynes Prairie Preserve SP--La Chua Trail","2025-09-06 19:01",1,29.6068756,-82.3031116,TRUE,FALSE,FALSE,"S271895250",NA
-"306","brnowl","American Barn Owl","Tyto furcata","L26642610","Exposition Blvd, Sacramento US-CA 38.59718, -121.44387","2025-09-06 18:42",1,38.597184,-121.443869,TRUE,FALSE,TRUE,"S271905207",NA
-"307","brnowl","American Barn Owl","Tyto furcata","L724301","Wheeler NWR--Blackwell Swamp (NABT 26)","2025-09-06 16:38",1,34.5639407,-86.7787099,TRUE,TRUE,FALSE,"S271889970",NA
-"308","brnowl","American Barn Owl","Tyto furcata","L24191186","SH-325, Felt US-OK 36.73508, -102.80279","2025-09-06 11:51",2,36.735083,-102.802787,TRUE,FALSE,TRUE,"S271838447",NA
-"309","brnowl","American Barn Owl","Tyto furcata","L36061761","Old State Route 26, Washtucna US-WA (46.7441,-118.2026)","2025-09-06 11:44",1,46.744114,-118.202594,TRUE,FALSE,TRUE,"S271844421",NA
-"310","brnowl","American Barn Owl","Tyto furcata","L5125270","Ute Lake SP--Logan Park Marina and Boat Ramp","2025-09-06 11:21",1,35.367897,-103.49078,TRUE,FALSE,FALSE,"S271830382",NA
-"311","brnowl","American Barn Owl","Tyto furcata","L36418243","51881–51905 Mines Rd, Livermore US-CA 37.43565, -121.51284","2025-09-06 11:15",1,37.435654,-121.512839,TRUE,FALSE,TRUE,"S271918286",NA
-"312","brnowl","American Barn Owl","Tyto furcata","L3381737","Dunbar Road farm","2025-09-06 11:00",1,48.4274926,-122.3880105,TRUE,FALSE,TRUE,"S271912818",NA
-"313","brnowl","American Barn Owl","Tyto furcata","L52513956","73937, Felt US-OK (36.7119,-102.8575)","2025-09-06 10:40",2,36.71193,-102.857549,TRUE,FALSE,TRUE,"S271837304",NA
-"314","brnowl","American Barn Owl","Tyto furcata","L52514472","92347, Hinkley US-CA 35.03294, -117.33045","2025-09-06 10:16",1,35.032941,-117.330455,TRUE,FALSE,TRUE,"S271839379",NA
-"315","brnowl","American Barn Owl","Tyto furcata","L52327628","1917 Northeast 249th Avenue, Camas, Washington, US (45.637, -122.418)","2025-09-06 09:56",1,45.6373786,-122.4176809,TRUE,FALSE,TRUE,"S271830072",NA
-"316","brnowl","American Barn Owl","Tyto furcata","L353255","Elkhorn Slough Reserve (NERR)","2025-09-06 09:07",NA,36.8182308,-121.7364764,TRUE,FALSE,FALSE,"S271847536",NA
-"317","brnowl","American Barn Owl","Tyto furcata","L52532419","ABOWs 2025","2025-09-06 08:44",2,37.612467,-121.688434,TRUE,FALSE,TRUE,"S271917639",NA
-"318","brnowl","American Barn Owl","Tyto furcata","L52553601","Fort Ord Natural Reserve, Marina US-CA 36.68105, -121.77510","2025-09-06 08:36",1,36.681051,-121.775097,TRUE,FALSE,TRUE,"S272023648",NA
-"319","brnowl","American Barn Owl","Tyto furcata","L128938","Catalina SP","2025-09-06 08:26",1,32.4244027,-110.9123905,TRUE,FALSE,FALSE,"S271906768",NA
-"320","brnowl","American Barn Owl","Tyto furcata","L11315715","Queen of Heaven Cemetery","2025-09-06 08:23",1,37.9448596,-122.1063846,TRUE,FALSE,FALSE,"S271836750",NA
-"321","brnowl","American Barn Owl","Tyto furcata","L109289","Barr Lake SP","2025-09-06 08:00",2,39.9430556,-104.7625,TRUE,FALSE,FALSE,"S271801183",NA
-"322","brnowl","American Barn Owl","Tyto furcata","L1341883","Coyote Hills Regional Park--Visitor Center area","2025-09-06 07:40",1,37.5533565,-122.0907479,TRUE,FALSE,FALSE,"S271835994",NA
-"323","brnowl","American Barn Owl","Tyto furcata","L5535507","Tonto Creek--Bar X Crossing Rd.","2025-09-06 07:15",1,33.8241781,-111.2873885,TRUE,FALSE,FALSE,"S271904708",NA
-"324","brnowl","American Barn Owl","Tyto furcata","L1391613","Elkhorn Regional Park (YOL Co.)","2025-09-06 07:10",1,38.6615862,-121.6128512,TRUE,FALSE,FALSE,"S271844287",NA
-"325","brnowl","American Barn Owl","Tyto furcata","L6336555","Ladd Marsh Head Quarters","2025-09-06 07:03",1,45.2610599,-118.0156876,TRUE,FALSE,TRUE,"S271776438",NA
-"326","brnowl","American Barn Owl","Tyto furcata","L866150","Eureka Waterfront--Wigi Wetlands","2025-09-06 07:01",1,40.779488,-124.192931,TRUE,FALSE,FALSE,"S271865941",NA
-"327","brnowl","American Barn Owl","Tyto furcata","L5233074","Ladd Marsh WMA HQ","2025-09-06 06:45",1,45.2611288,-118.0160969,TRUE,FALSE,TRUE,"S272101213",NA
-"328","brnowl","American Barn Owl","Tyto furcata","L37773912","Bassett Park","2025-09-06 06:20",4,46.751,-118.3173,TRUE,FALSE,TRUE,"S271806297",NA
-"329","brnowl","American Barn Owl","Tyto furcata","L4537125","Barr Lake SP--South End","2025-09-06 06:11",4,39.9317891,-104.7699738,TRUE,FALSE,FALSE,"S271847024",NA
-"330","brnowl","American Barn Owl","Tyto furcata","L4767879","Sutcliffe (town)","2025-09-06 06:04",1,39.9490625,-119.6007822,TRUE,FALSE,FALSE,"S271759153",NA
-"331","brnowl","American Barn Owl","Tyto furcata","L26029969","Samish Flats","2025-09-06 05:50",1,48.5264055,-122.4142228,TRUE,FALSE,TRUE,"S271839567",NA
-"332","brnowl","American Barn Owl","Tyto furcata","L6313295","Mittry Lake Marsh (north end)","2025-09-06 05:29",1,32.8706576,-114.4543272,TRUE,FALSE,FALSE,"S271782046",NA
-"333","brnowl","American Barn Owl","Tyto furcata","L52493683","23041–23299 W Grand Ave, Wittmann US-AZ 33.80311, -112.56126","2025-09-06 05:07",1,33.803106,-112.561259,TRUE,FALSE,TRUE,"S271743611",NA
-"334","brnowl","American Barn Owl","Tyto furcata","L3281549","Woodward Way, Lakeport","2025-09-06 04:58",1,39.0235571,-122.9208675,TRUE,FALSE,TRUE,"S271760951",NA
-"335","brnowl","American Barn Owl","Tyto furcata","L13701839","Yard - UC Southwest","2025-09-06 03:15",1,32.8484533,-117.2268759,TRUE,FALSE,TRUE,"S271727773",NA
-"336","brnowl","American Barn Owl","Tyto furcata","L52598279","Fort Ross sleep spot","2025-09-06 00:31",1,38.519069,-123.245238,TRUE,FALSE,TRUE,"S272239578",NA
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
+"1","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L1309593","Keystone Ferry Landing","2025-09-16 15:04",12,48.1566961,-122.6702499,TRUE,FALSE,FALSE,"S273787308"
+"2","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52919505","Autumn Wind Pelagic --September 16th 2025 -- Leg 4","2025-09-16 13:22",2,40.79502,-124.3906071,TRUE,FALSE,TRUE,"S273788169"
+"3","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L352281","Pebble Beach--Bird & Seal Rocks","2025-09-16 13:20",2,36.5912431,-121.9640791,TRUE,FALSE,FALSE,"S273791615"
+"4","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L10667594","Mueller Park","2025-09-16 12:52",1,48.2243867,-122.7308893,TRUE,FALSE,FALSE,"S273772395"
+"5","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52919504","Autumn Wind Pelagic --September 16th 2025 -- Leg 3","2025-09-16 12:20",5,40.6470794,-124.4961761,TRUE,FALSE,TRUE,"S273788163"
+"6","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L834171","Deception Pass SP -- West Beach","2025-09-16 11:20",5,48.4000277,-122.6643831,TRUE,FALSE,FALSE,"S273763475"
+"7","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L42092229","41329 Foulweather Bluff Rd NE, Hansville US-WA 47.93902, -122.61430","2025-09-16 11:05",1,47.939018,-122.614304,TRUE,FALSE,TRUE,"S273774590"
+"8","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L818127","Norwegian Point","2025-09-16 11:00",2,47.9173631,-122.5458169,TRUE,FALSE,FALSE,"S273770739"
+"9","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L349636","Rosario Beach / Rosario Head","2025-09-16 10:00",2,48.4162023,-122.6644993,TRUE,FALSE,FALSE,"S273756844"
+"10","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52919500","Autumn Wind Pelagic --September 16th 2025 -- Leg 2","2025-09-16 09:48",12,40.6791582,-124.5984746,TRUE,FALSE,TRUE,"S273788142"
+"11","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L9597284","Point Defiance Park--Dune Peninsula & Wilson Way","2025-09-16 08:49",12,47.3050674,-122.5095794,TRUE,FALSE,FALSE,"S273748069"
+"12","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L298030","Carkeek Park","2025-09-16 08:13",16,47.7126411,-122.377647,TRUE,FALSE,FALSE,"S273766456"
+"13","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L1301167","Point Defiance-Tahlequah Ferry","2025-09-16 08:01",5,47.3174139,-122.5150681,TRUE,FALSE,FALSE,"S273728057"
+"14","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L571490","Discovery Park--West Point","2025-09-16 07:20",6,47.6618703,-122.4355298,TRUE,FALSE,FALSE,"S273741303"
+"15","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L800627","North Spit--old Weyco Settling Pond & deflation plain","2025-09-16 06:57",11,43.4210895,-124.2850935,TRUE,FALSE,FALSE,"S273764518"
+"16","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L374382","Edmonds Waterfront","2025-09-16 06:38",26,47.8119268,-122.3854144,TRUE,FALSE,FALSE,"S273756604"
+"17","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L1329104","Pelagic--inshore to 5 mi offshore (San Mateo Co.)","2025-09-15 15:42",5,37.4584563,-122.5318075,TRUE,FALSE,FALSE,"S273650263"
+"18","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52892831","Strait of Juan de Fuca, Samish TDSA US-WA 48.42142, -122.93978","2025-09-15 15:40",2,48.421419,-122.939776,TRUE,FALSE,TRUE,"S273654856"
+"19","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L800185","Cape Flattery","2025-09-15 14:59",1,48.385884,-124.7266299,TRUE,FALSE,FALSE,"S273634521"
+"20","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L50228831","North Pacific Ocean US (37.3934,-122.6214)","2025-09-15 14:43",22,37.39341,-122.621394,TRUE,FALSE,TRUE,"S273650256"
+"21","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L17518900","San Juan Island--Cattle Point Lighthouse","2025-09-15 13:54",10,48.45063,-122.963337,TRUE,FALSE,FALSE,"S273620253"
+"22","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L50228818","North Pacific Ocean (37.3077,-122.7646)","2025-09-15 13:40",24,37.307671,-122.764555,TRUE,FALSE,TRUE,"S273650249"
+"23","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52893201","Outer Island Excursions - whale watching trip","2025-09-15 13:17",13,48.4047765,-122.9048614,TRUE,FALSE,TRUE,"S273656247"
+"24","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52891803","North Pacific Ocean (37.2401,-122.8912)","2025-09-15 12:40",5,37.24006,-122.891207,TRUE,FALSE,TRUE,"S273650245"
+"25","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52891801","North Pacific Ocean (37.2462,-122.9662)","2025-09-15 11:55",9,37.246162,-122.96617,TRUE,FALSE,TRUE,"S273650238"
+"26","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L2608551","Charles Richey Sr. Viewpoint","2025-09-15 11:46",11,47.5726544,-122.4140185,TRUE,FALSE,FALSE,"S273712759"
+"27","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L1022652","Ketchikan (town)","2025-09-15 11:30",1,55.3427645,-131.6462517,TRUE,FALSE,FALSE,"S273659103"
+"28","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52891797","North Pacific Ocean (37.3354,-123.0005)","2025-09-15 10:56",28,37.335393,-123.000466,TRUE,FALSE,TRUE,"S273650218"
+"29","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L109542","Point No Point","2025-09-15 10:06",6,47.9118696,-122.5283182,TRUE,FALSE,FALSE,"S273611110"
+"30","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52891794","North Pacific Ocean (37.4172,-122.9487)","2025-09-15 09:55",21,37.417218,-122.948723,TRUE,FALSE,TRUE,"S273650213"
+"31","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L331426","Saltwater SP","2025-09-15 09:34",12,47.3733968,-122.3236098,TRUE,FALSE,FALSE,"S273609581"
+"32","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L35798700","Bryce Drive house","2025-09-15 09:30",6,48.48964,-122.6636407,TRUE,FALSE,TRUE,"S273656828"
+"33","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52891793","North Pacific Ocean (37.4343,-122.7783)","2025-09-15 08:56",5,37.434347,-122.778333,TRUE,FALSE,TRUE,"S273650209"
+"34","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L18961121","Boom Rd, Clallam Bay US-WA 48.37697, -124.62509","2025-09-15 08:37",6,48.376972,-124.625089,TRUE,FALSE,TRUE,"S273785756"
+"35","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L190512","Ediz Hook","2025-09-15 08:35",9,48.14035,-123.44711,TRUE,FALSE,FALSE,"S273589839"
+"36","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L35913670","North Pacific Ocean US (37.4511,-122.5953)","2025-09-15 07:57",1,37.451149,-122.595294,TRUE,FALSE,TRUE,"S273650199"
+"37","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L8268918","Alki (including north and south beaches)","2025-09-15 07:55",175,47.5761017,-122.4190941,TRUE,FALSE,FALSE,"S273613189"
+"38","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L35520774","Skiff Point","2025-09-15 07:09",5,47.662815,-122.5003481,TRUE,FALSE,FALSE,"S273557253"
+"39","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L329116","Southeast Farallon Island (Farallon Islands NWR, restricted access)","2025-09-15 07:00",1,37.69852,-123.002789,TRUE,FALSE,FALSE,"S273653832"
+"40","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L128530","Discovery Park","2025-09-15 06:40",67,47.663868,-122.4215317,TRUE,FALSE,FALSE,"S273583662"
+"41","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L6240151","Point Wells","2025-09-14 17:50",3,47.7808376,-122.3976879,TRUE,FALSE,FALSE,"S273652230"
+"42","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L336663","Lighthouse Marine Park, Point Roberts","2025-09-14 17:46",1,48.9722422,-123.0836705,TRUE,FALSE,FALSE,"S273480979"
+"43","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52754177","1974 South Side Road, Friday Harbor, Washington, US (48.661, -123.19)","2025-09-14 16:31",1,48.6611506,-123.189832,TRUE,FALSE,TRUE,"S273469043"
+"44","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L109309","Pt. Pinos--seawatch only","2025-09-14 16:25",1,36.6373821,-121.9357538,TRUE,FALSE,FALSE,"S273478284"
+"45","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52860933","Leg 9: 38.16131, -123.23630","2025-09-14 15:45",18,38.161312,-123.236296,TRUE,FALSE,TRUE,"S273491931"
+"46","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52875248","Monterey Bay Pelagic (36.765, -122.18)","2025-09-14 15:21",3,36.7652508,-122.1796084,TRUE,FALSE,TRUE,"S273569243"
+"47","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52875235","Monterey Bay Pelagic (36.791, -122.236)","2025-09-14 14:55",2,36.7905276,-122.2356477,TRUE,FALSE,TRUE,"S273569177"
+"48","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52860916","Leg 8: 38.04563, -123.39791","2025-09-14 14:34",16,38.045631,-123.39791,TRUE,FALSE,TRUE,"S273491858"
+"49","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52875200","Monterey Bay Pelagic (36.829943, -122.3194687)","2025-09-14 14:24",9,36.829943,-122.3194687,TRUE,FALSE,TRUE,"S273569014"
+"50","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52875152","Monterey Bay Pelagic (36.827491, -122.372181)","2025-09-14 13:53",5,36.8274914,-122.3721806,TRUE,FALSE,TRUE,"S273568779"
+"51","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52860300","Washington, US (48.143, -122.686)","2025-09-14 13:34",1,48.1426236,-122.6863761,TRUE,FALSE,TRUE,"S273489358"
+"52","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52860896","Leg 7: 38.03728, -123.44077","2025-09-14 13:32",40,38.037279,-123.44077,TRUE,FALSE,TRUE,"S273491791"
+"53","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L1460636","Port Townsend-Keystone Ferry (Jefferson Co.)","2025-09-14 13:15",13,48.1260146,-122.7193579,TRUE,FALSE,FALSE,"S273491255"
+"54","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L286501","Tillamook Bay--Barview Jetty","2025-09-14 12:57",1,45.56952,-123.949414,TRUE,FALSE,FALSE,"S273448424"
+"55","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52875105","Monterey Bay Pelagic (36.786999, -122.370449)","2025-09-14 12:57",2,36.7869986,-122.3704489,TRUE,FALSE,TRUE,"S273568546"
+"56","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52860860","Leg 6: 37.99659, -123.52461","2025-09-14 12:30",13,37.996586,-123.52461,TRUE,FALSE,TRUE,"S273491609"
+"57","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L4337834","Point Defiance Park--Owen Beach","2025-09-14 12:27",2,47.3130234,-122.5286669,TRUE,FALSE,FALSE,"S273550899"
+"58","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52875086","Monterey Bay Pelagic (36.7624795,-122.3481371)","2025-09-14 12:22",2,36.7624795,-122.3481371,TRUE,FALSE,TRUE,"S273568284"
+"59","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52874973","Monterey Bay Pelagic (36.6845885,-122.2765777)","2025-09-14 11:46",8,36.6845885,-122.2765777,TRUE,FALSE,TRUE,"S273567919"
+"60","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L34600088","Walden Rock","2025-09-14 11:33",1,55.278673,-131.605519,TRUE,FALSE,TRUE,"S273454112"
+"61","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52860832","Leg 5: 38.05363, -123.57467","2025-09-14 11:29",28,38.053635,-123.574665,TRUE,FALSE,TRUE,"S273491453"
+"62","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52874959","Monterey Bay Pelagic (36.71, -122.229)","2025-09-14 10:59",2,36.7098271,-122.2293447,TRUE,FALSE,TRUE,"S273567795"
+"63","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52841933","Puget Sound, Oak Harbor US-WA 48.13368, -122.69384","2025-09-14 10:31",2,48.13368,-122.693837,TRUE,FALSE,TRUE,"S273405844"
+"64","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52860798","Leg 4: 38.18883, -123.52003","2025-09-14 10:29",6,38.188834,-123.520026,TRUE,FALSE,TRUE,"S273491329"
+"65","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52874939","Monterey Bay Pelagic (36.722, -122.193)","2025-09-14 10:25",4,36.7218141,-122.1932181,TRUE,FALSE,TRUE,"S273567702"
+"66","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L2525541","Newport--NW 68th St. beach access","2025-09-14 10:24",2,44.6876364,-124.0669137,TRUE,FALSE,FALSE,"S273406191"
+"67","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L3954620","Oregon Islands NWR--Table Rock Overlook","2025-09-14 10:19",16,43.1161121,-124.4333861,TRUE,FALSE,FALSE,"S273406816"
+"68","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L8564851","Dungeness NWR","2025-09-14 10:06",7,48.1457113,-123.1860898,TRUE,FALSE,TRUE,"S273455959"
+"69","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52874930","Monterey Bay Pelagic (36.702, -122.175)","2025-09-14 09:51",5,36.7017773,-122.1754835,TRUE,FALSE,TRUE,"S273567634"
+"70","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L29690471","Dungeness NWR","2025-09-14 09:46",9,48.1463111,-123.1865094,TRUE,FALSE,FALSE,"S273411683"
+"71","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L887381","Fort Stevens SP--South Jetty/Parking Area C","2025-09-14 09:29",1,46.2286726,-124.0217721,TRUE,FALSE,FALSE,"S273405112"
+"72","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52860767","Leg 3: 38.24901, -123.39821","2025-09-14 09:28",11,38.249009,-123.398208,TRUE,FALSE,TRUE,"S273491182"
+"73","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L50408707","South Jetty of the Columbia River seawatch near observation tower","2025-09-14 09:20",1,46.2264336,-124.0146764,TRUE,FALSE,TRUE,"S273404241"
+"74","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52874904","Monterey Bay Pelagic (36.701, -122.116)","2025-09-14 09:20",15,36.700757,-122.1157181,TRUE,FALSE,TRUE,"S273567508"
+"75","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L1454902","South Beach, San Juan Island","2025-09-14 08:54",20,48.4556661,-122.9961548,TRUE,FALSE,FALSE,"S273397176"
+"76","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52860738","Leg 2: 38.28017, -123.22762","2025-09-14 08:28",28,38.280168,-123.227617,TRUE,FALSE,TRUE,"S273490968"
+"77","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L21617955","Tolmie SP--seawatch","2025-09-14 08:25",18,47.1209532,-122.776106,TRUE,FALSE,FALSE,"S273422472"
+"78","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52874859","Monterey Bay Pelagic (36.664, -121.954)","2025-09-14 08:18",2,36.6635765,-121.9536702,TRUE,FALSE,TRUE,"S273567301"
+"79","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L829561","Murden Cove & Estuary","2025-09-14 08:00",1,47.6515922,-122.5180721,TRUE,FALSE,FALSE,"S273379143"
+"80","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L1298816","Beach House","2025-09-14 07:57",8,45.252877,-123.966628,TRUE,FALSE,TRUE,"S273379932"
+"81","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L774789","Coquille River--South Jetty ","2025-09-14 07:55",9,43.1222404,-124.4282663,TRUE,FALSE,FALSE,"S273374467"
+"82","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L618528","Monterey Bay pelagic--inshore Monterey Harbor to Pt. Pinos (MTY Co.)","2025-09-14 07:39",1,36.6217017,-121.9037615,TRUE,FALSE,FALSE,"S273371797"
+"83","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L862963","Westport Marina","2025-09-14 07:38",1,46.9096434,-124.1138792,TRUE,FALSE,FALSE,"S273374557"
+"84","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L2843527","Rocky Creek State Park","2025-09-14 07:35",10,44.7854979,-124.0733443,TRUE,FALSE,FALSE,"S273389394"
+"85","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L1018792","Boiler Bay State Wayside","2025-09-14 07:33",2,44.8288173,-124.0658998,TRUE,FALSE,FALSE,"S273401920"
+"86","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52841600","SJI/Anacortes Ferry","2025-09-13 19:02",3,48.5561847,-122.9180958,TRUE,FALSE,TRUE,"S273404673"
+"87","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52809990","Sitka Sound southward into Gulf of Alaska","2025-09-13 18:08",11,56.938076,-135.521713,TRUE,FALSE,TRUE,"S273246534"
+"88","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L3927697","Minor Island","2025-09-13 17:53",NA,48.3241597,-122.819549,TRUE,FALSE,FALSE,"S273442892"
+"89","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L7706326","Smith Island","2025-09-13 17:08",NA,48.318233,-122.8410187,TRUE,FALSE,FALSE,"S273441625"
+"90","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L2180307","West Twin River mouth","2025-09-13 16:02",1,48.1655416,-123.9493847,TRUE,FALSE,FALSE,"S273441703"
+"91","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52860342","North Pacific Ocean (37.396, -122.714) - Alvaro's Adventures 9/13/25 Pelagic Leg 9/10","2025-09-13 15:17",5,37.3955662,-122.7142701,TRUE,FALSE,TRUE,"S273489513"
+"92","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L26281646","Auto selected 48.17869, -122.75889","2025-09-13 15:06",2,48.178688,-122.75889,TRUE,FALSE,TRUE,"S273242929"
+"93","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52808520","Autumn Wind, Leg 6","2025-09-13 14:43",6,40.655652,-124.500426,TRUE,FALSE,TRUE,"S273240341"
+"94","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L634180","Lime Kiln Pt. SP","2025-09-13 14:27",10,48.5147281,-123.149448,TRUE,FALSE,FALSE,"S273236153"
+"95","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52800558","155 Southwest 2nd Street, Newport, Oregon, US (44.636, -124.063)","2025-09-13 14:22",3,44.6357744,-124.0630147,TRUE,FALSE,TRUE,"S273205359"
+"96","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L15141161","Deadman's Bay Reserve","2025-09-13 14:18",10,48.5136958,-123.1462386,TRUE,FALSE,FALSE,"S273236117"
+"97","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52855572","North Pacific Ocean 37.35535, -122.89803 - pelagic leg 8/10","2025-09-13 14:15",17,37.355348,-122.898032,TRUE,FALSE,TRUE,"S273467058"
+"98","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L3927005","Cook Inlet--Dangerous Cape to Cape Elizabeth","2025-09-13 14:13",3,59.3758005,-152.0043125,TRUE,FALSE,FALSE,"S273477332"
+"99","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52855341","North Pacific Ocean 37.34031, -122.96756 - pelagic leg 7/10","2025-09-13 13:54",2,37.340307,-122.96756,TRUE,FALSE,TRUE,"S273465966"
+"100","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L26722782","Kachemak Bay 59.43240, -151.87984","2025-09-13 13:50",1,59.432404,-151.879844,TRUE,FALSE,TRUE,"S273211392"
+"101","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52808510","Autumn Wind, Leg 5","2025-09-13 13:43",9,40.645501,-124.606271,TRUE,FALSE,TRUE,"S273240304"
+"102","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52855289","North Pacific Ocean 37.35291, -123.02138 - pelagic leg 6/10","2025-09-13 12:55",8,37.352912,-123.021385,TRUE,FALSE,TRUE,"S273465649"
+"103","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52809042","Leg 6","2025-09-13 12:52",6,40.679996,-124.613949,TRUE,FALSE,TRUE,"S273242494"
+"104","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L1799504","Kayu Kayu Ac Park","2025-09-13 12:47",1,47.7739592,-122.3925439,TRUE,FALSE,FALSE,"S273193976"
+"105","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52809046","Chum spot STAL chase","2025-09-13 12:29",1,40.683327,-124.613373,TRUE,FALSE,TRUE,"S273242516"
+"106","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L1328030","Nichols Passage (S of Ketchikan)","2025-09-13 12:21",5,55.2270742,-131.6400742,TRUE,FALSE,FALSE,"S273226078"
+"107","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52834824","At Sea. Prince William Sound","2025-09-13 12:04",1,60.314752,-146.796323,TRUE,FALSE,TRUE,"S273374281"
+"108","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L743278","Tokatee Klootchman SP","2025-09-13 12:01",1,44.2082653,-124.1146785,TRUE,FALSE,FALSE,"S273225733"
+"109","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L1252571","Washington Park--Green Point","2025-09-13 12:00",3,48.498746,-122.701145,TRUE,FALSE,FALSE,"S273211925"
+"110","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52860180","North Pacific Ocean (37.409, -122.993) - Alvaro's Adventures 9/14/25 Pelagic Leg 5/10","2025-09-13 11:55",35,37.4088031,-122.9933716,TRUE,FALSE,TRUE,"S273488742"
+"111","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L680973","Cape Arago SP","2025-09-13 11:54",7,43.306011,-124.3990517,TRUE,FALSE,FALSE,"S273191226"
+"112","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52808458","Autumn Wind, Leg 3","2025-09-13 11:43",3,40.679346,-124.601209,TRUE,FALSE,TRUE,"S273240130"
+"113","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52860105","North Pacific Ocean (37.527, -122.922) - Alvaro's Adventures 9/13/25 Pelagic Leg 4/10","2025-09-13 10:54",17,37.5267136,-122.9222599,TRUE,FALSE,TRUE,"S273488533"
+"114","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52808425","Autumn Wind, Leg 2","2025-09-13 10:43",9,40.700342,-124.494054,TRUE,FALSE,TRUE,"S273239968"
+"115","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L372653","Seattle-Winslow Ferry (King Co.)","2025-09-13 10:02",4,47.6046584,-122.4168777,TRUE,FALSE,FALSE,"S273157020"
+"116","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52860053","North Pacific Ocean (37.541, -122.808) - Alvaro's Adventures 9/13/25 Pelagic Leg 3/10","2025-09-13 09:54",33,37.5412626,-122.8079036,TRUE,FALSE,TRUE,"S273488254"
+"117","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52809280","Auto selected 36.86588, -122.02997 FastRaft","2025-09-13 09:52",1,36.865876,-122.02997,TRUE,FALSE,TRUE,"S273243511"
+"118","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52808398","Autumn Wind, Leg 1","2025-09-13 09:43",3,40.764214,-124.251888,TRUE,FALSE,TRUE,"S273239856"
+"119","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52809098","Leg 3","2025-09-13 09:42",5,40.649726,-124.645233,TRUE,FALSE,TRUE,"S273242725"
+"120","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52849537","North Pacific Ocean 37.51667, -122.66232 - pelagic leg 2/10","2025-09-13 09:03",7,37.516672,-122.662317,TRUE,FALSE,TRUE,"S273438692"
+"121","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52784479","Crescent Beach Road, Port Angeles, Washington, US (48.16, -123.711)","2025-09-13 08:57",4,48.1596471,-123.7111844,TRUE,FALSE,TRUE,"S273140556"
+"122","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L684252","Outer Chatham Strait-south end","2025-09-13 08:51",2,56.6996805,-134.5306091,TRUE,FALSE,FALSE,"S273250740"
+"123","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52809107","Leg 2","2025-09-13 08:42",4,40.654176,-124.537001,TRUE,FALSE,TRUE,"S273242773"
+"124","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52795940","Puget Sound, Everett US-WA 47.80439, -122.42412","2025-09-13 08:39",2,47.804388,-122.42412,TRUE,FALSE,TRUE,"S273186684"
+"125","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52809147","Leg 1","2025-09-13 07:37",10,40.760499,-124.261307,TRUE,FALSE,TRUE,"S273242904"
+"126","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L4944874","Olympic NP--Second Beach","2025-09-13 07:30",4,47.8903918,-124.627018,TRUE,FALSE,FALSE,"S273548015"
+"127","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L35984987","South Second Beach (Jefferson Co)","2025-09-13 07:30",4,47.8805535,-124.6112271,TRUE,FALSE,TRUE,"S273467492"
+"128","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L387534","Fay Bainbridge Park","2025-09-13 07:20",12,47.7032927,-122.5071716,TRUE,FALSE,FALSE,"S273124124"
+"129","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L241666","Cape Disappointment SP","2025-09-13 07:20",2,46.2828429,-124.0696335,TRUE,FALSE,FALSE,"S273247897"
+"130","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L824985","Point  Arena Lighthouse- grounds and gate overlook ONLY","2025-09-13 06:48",4,38.954403,-123.7402368,TRUE,FALSE,FALSE,"S273799673"
+"131","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L492504","Restoration Point (restricted access)","2025-09-13 06:30",27,47.583705,-122.480135,TRUE,FALSE,FALSE,"S273213998"
+"132","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52757102","Burrows Bay transect from S to N","2025-09-12 18:17",4,48.450958,-122.678427,TRUE,FALSE,TRUE,"S273011921"
+"133","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52685396","529 Neil Bay Drive, Friday Harbor, Washington, US (48.619, -123.14)","2025-09-12 18:03",2,48.6193386,-123.1400429,TRUE,FALSE,TRUE,"S273010674"
+"134","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52758709","Puget Sound, Everett US-WA","2025-09-12 16:42",8,47.823209,-122.425124,TRUE,FALSE,TRUE,"S273018317"
+"135","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L1406877","832 Gardiner Beach Road my yard","2025-09-12 16:00",1,48.0583226,-122.9198055,TRUE,FALSE,TRUE,"S273023539"
+"136","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52758530","Washington, US (48.367, -122.91)","2025-09-12 15:15",3,48.368,-122.91,TRUE,FALSE,TRUE,"S273017512"
+"137","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L36094254","Strait of Juan de Fuca--Hein Bank","2025-09-12 14:43",2,48.330345,-123.067696,TRUE,FALSE,FALSE,"S273015132"
+"138","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L743257","Strawberry Hill","2025-09-12 14:30",2,44.2540677,-124.1119158,TRUE,FALSE,FALSE,"S273019199"
+"139","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52860760","Leg 8. 9/12/25","2025-09-12 14:19",3,44.55512,-124.28208,TRUE,FALSE,TRUE,"S273491207"
+"140","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52860655","Leg 7. 9/12/25","2025-09-12 13:24",1,44.4883,-124.46378,TRUE,FALSE,TRUE,"S273490729"
+"141","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L1877342","Browns Point Lighthouse Park","2025-09-12 12:47",2,47.3057,-122.44382,TRUE,FALSE,FALSE,"S272980391"
+"142","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52787826","Depoe Bay","2025-09-12 12:30",3,44.8098056,-124.0663677,TRUE,FALSE,TRUE,"S273155035"
+"143","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52860540","Leg 6 9/12/25","2025-09-12 12:28",1,44.42718,-124.6749,TRUE,FALSE,TRUE,"S273490347"
+"144","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L742878","Siuslaw River--South Jetty (jetty only)","2025-09-12 12:05",1,44.0155337,-124.1370106,TRUE,FALSE,FALSE,"S272973206"
+"145","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L23925184","Nichols Passage","2025-09-12 12:00",10,55.288407,-131.594686,TRUE,FALSE,TRUE,"S272992924"
+"146","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L318691","Lincoln Park, Seattle","2025-09-12 11:49",1,47.5302762,-122.3955921,TRUE,FALSE,FALSE,"S272981191"
+"147","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52860402","Leg 5. 9/12/25","2025-09-12 11:40",1,44.3878,-124.80565,TRUE,FALSE,TRUE,"S273489829"
+"148","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L13180011","Mukilteo Ferry Terminal","2025-09-12 09:35",1,47.950236,-122.2959473,TRUE,FALSE,FALSE,"S272996120"
+"149","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L6168669","Maple Grove Beach","2025-09-12 09:32",1,48.2526955,-122.5170271,TRUE,FALSE,FALSE,"S272945307"
+"150","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L48564736","Three Tree Point","2025-09-12 09:32",1,47.450902,-122.379941,TRUE,FALSE,FALSE,"S273007754"
+"151","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52859906","Leg 3 9/12/25","2025-09-12 09:12",5,44.46808,-124.62461,TRUE,FALSE,TRUE,"S273487829"
+"152","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L280301","Edmonds-Kingston Ferry (Snohomish Co.)","2025-09-12 08:56",2,47.8097152,-122.4237442,TRUE,FALSE,FALSE,"S272936318"
+"153","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L793855","Elwha River Mouth -- west access","2025-09-12 08:44",3,48.1454438,-123.5673952,TRUE,FALSE,FALSE,"S273024119"
+"154","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52859767","Leg 2. 9/12/25","2025-09-12 08:12",11,44.54106,-124.43732,TRUE,FALSE,TRUE,"S273487276"
+"155","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L865285","Dungeness Recreation Area","2025-09-12 07:30",7,48.1358788,-123.1915855,TRUE,FALSE,FALSE,"S272954178"
+"156","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52859630","Leg 1. 9/12/25","2025-09-12 07:15",9,44.58674,-124.20632,TRUE,FALSE,TRUE,"S273486760"
+"157","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L12199115","Samish Bay","2025-09-12 07:00",1,48.5907733,-122.4924468,TRUE,FALSE,TRUE,"S272948907"
+"158","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L1633817","Glacier Bay NP--Glacier Bay","2025-09-12 06:59",9,58.6950873,-136.1813779,TRUE,FALSE,FALSE,"S273374614"
+"159","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52746963","Cross Sound to Takanis","2025-09-12 06:56",20,58.112816,-136.499566,TRUE,FALSE,TRUE,"S272965072"
+"160","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L48471609","Shilshole fishing pier","2025-09-11 17:55",1,47.676612,-122.410573,TRUE,FALSE,TRUE,"S272838249"
+"161","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52752163","Auto selected 37.41410, -122.70257","2025-09-11 15:19",4,37.414099,-122.70257,TRUE,FALSE,TRUE,"S272988789"
+"162","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52752118","Auto selected 37.36608, -122.88767","2025-09-11 14:18",26,37.366081,-122.887671,TRUE,FALSE,TRUE,"S272988603"
+"163","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52715738","Ziolkouski Beach Park, Reedsport US-OR 43.66764, -124.20408","2025-09-11 14:16",1,43.667637,-124.204079,TRUE,FALSE,TRUE,"S272817405"
+"164","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L3379908","Westport pelagic--inshore","2025-09-11 14:15",2,46.9066529,-124.1887665,TRUE,FALSE,FALSE,"S273018868"
+"165","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L743430","Bray Pt.","2025-09-11 14:09",2,44.2391814,-124.1116691,TRUE,FALSE,FALSE,"S272833543"
+"166","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52752080","Auto selected 37.33476, -123.01831","2025-09-11 13:18",6,37.334762,-123.01831,TRUE,FALSE,TRUE,"S272988438"
+"167","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L405301","Westport pelagic--Offshore waters","2025-09-11 13:10",4,46.9052455,-124.5355225,TRUE,FALSE,FALSE,"S273018381"
+"168","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L3101637","Westport pelagic--Offshore Pacific County","2025-09-11 12:05",2,46.7285658,-124.5217896,TRUE,FALSE,FALSE,"S273017692"
+"169","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52751928","Auto selected 37.42232, -122.95557","2025-09-11 11:14",6,37.422322,-122.955568,TRUE,FALSE,TRUE,"S272987770"
+"170","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L2875552","SJCR stationary point 1 (tower)","2025-09-11 10:43",3,46.2264812,-124.0142409,TRUE,FALSE,TRUE,"S272781661"
+"171","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L682198","Cross Sound","2025-09-11 10:30",20,58.1846079,-136.5092468,TRUE,TRUE,FALSE,"S272814029"
+"172","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52745864","Auto selected 37.47230, -122.84007","2025-09-11 10:12",14,37.472304,-122.840068,TRUE,FALSE,TRUE,"S272960393"
+"173","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L576813","Port Orford Heads SP","2025-09-11 09:38",3,42.736958,-124.5108461,TRUE,FALSE,FALSE,"S272792016"
+"174","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L26300585","Westport pelagic - shelf edge waters north of Willapa Canyon (Pacific Co.)","2025-09-11 09:35",7,46.6715217,-124.7969608,TRUE,FALSE,FALSE,"S273016921"
+"175","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52745801","Auto selected 37.47228, -122.69073","2025-09-11 09:25",2,37.472279,-122.690733,TRUE,FALSE,TRUE,"S272960117"
+"176","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52745706","Auto selected 37.47917, -122.51590","2025-09-11 08:25",1,37.479168,-122.515895,TRUE,FALSE,TRUE,"S272959720"
+"177","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52717918","2025-09-10 SCZ Pelagic 10/10","2025-09-10 15:42",10,36.8860316,-122.1842935,TRUE,FALSE,TRUE,"S272828927"
+"178","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L267466","Westport Jetty","2025-09-10 14:40",1,46.904704,-124.1343063,TRUE,FALSE,FALSE,"S272672619"
+"179","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52721934","2025-09-10 SCZ Pelagic 9/10","2025-09-10 14:40",80,36.8744694,-122.2892706,TRUE,FALSE,TRUE,"S272847550"
+"180","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L233763","Ebey's Landing","2025-09-10 13:41",1,48.19475,-122.71165,TRUE,FALSE,FALSE,"S273257036"
+"181","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52721769","2025-09-10 SCZ Pelagic 8/10","2025-09-10 13:40",80,36.8434979,-122.3930205,TRUE,FALSE,TRUE,"S272846792"
+"182","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52717882","2025-09-10 SCZ Pelagic 7/10","2025-09-10 12:40",15,36.7581469,-122.54808,TRUE,FALSE,TRUE,"S272828728"
+"183","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L1788797","Ocean Ave (Water St), Edmonds","2025-09-10 12:30",2,47.825776,-122.3687986,TRUE,FALSE,FALSE,"S272770256"
+"184","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52675248","Strait of Juan de Fuca US-WA (48.1182,-122.9607)","2025-09-10 12:00",2,48.118224,-122.960699,TRUE,FALSE,TRUE,"S272626930"
+"185","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L1611343","Haines Wharf Park","2025-09-10 11:45",1,47.8522029,-122.3348368,TRUE,FALSE,FALSE,"S272796342"
+"186","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52717871","2025-09-10 SCZ Pelagic 6/10","2025-09-10 11:40",1,36.6890809,-122.5533403,TRUE,FALSE,TRUE,"S272828669"
+"187","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L302743","Protection Island","2025-09-10 11:10",4,48.1275273,-122.9284031,TRUE,FALSE,FALSE,"S272625250"
+"188","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52754073","2025-09-10 SCZ Pelagic 5/10","2025-09-10 10:40",2,36.7013846,-122.4761971,TRUE,FALSE,TRUE,"S272997381"
+"189","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L467222","Richmond Beach Saltwater Park","2025-09-10 10:35",1,47.7635752,-122.3851633,TRUE,FALSE,FALSE,"S272631893"
+"190","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52673521","Strait of Juan de Fuca US-WA (48.1783,-122.8948)","2025-09-10 09:53",18,48.178313,-122.894817,TRUE,FALSE,TRUE,"S272618992"
+"191","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52717468","2025-09-10 SCZ Pelagic 4/10","2025-09-10 09:40",5,36.721137,-122.4049647,TRUE,FALSE,TRUE,"S272826558"
+"192","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52710212","Rosario Strait, Island County","2025-09-10 09:38",12,48.4864252,-122.7324614,TRUE,FALSE,TRUE,"S272783482"
+"193","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L51477976","North Pacific Ocean, Samish TDSA US-WA (48.4446,-122.7199)","2025-09-10 09:38",12,48.444649,-122.71995,TRUE,FALSE,TRUE,"S272776029"
+"194","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52717234","2025-09-10 SCZ Pelagic 3/10","2025-09-10 08:40",12,36.7557756,-122.3078231,TRUE,FALSE,TRUE,"S272825248"
+"195","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52717212","2025-09-10 SCZ Pelagic 2/10","2025-09-10 07:40",20,36.8041945,-122.1729714,TRUE,FALSE,TRUE,"S272825143"
+"196","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L16331766","Inian Islands (general area)","2025-09-10 06:44",7,58.2569907,-136.3781421,TRUE,FALSE,FALSE,"S272603832"
+"197","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52717155","2025-09-10 SCZ Pelagic 1/10","2025-09-10 06:40",8,36.9009672,-122.0492495,TRUE,FALSE,TRUE,"S272824818"
+"198","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52672153","Autumn Wind Pelagic -- September 9th 2025 -- Leg 9","2025-09-09 17:47",3,40.7420286,-124.2972219,TRUE,FALSE,TRUE,"S272612804"
+"199","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L386085","Port Angeles-Victoria Ferry (US side)","2025-09-09 17:45",4,48.1592153,-123.3860779,TRUE,FALSE,FALSE,"S272677880"
+"200","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52672082","Autumn Wind Pelagic -- September 9th 2025 -- Leg 8","2025-09-09 16:59",7,40.6872479,-124.3904424,TRUE,FALSE,TRUE,"S272612540"
+"201","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L257994","Dash Point Park & Pier","2025-09-09 16:47",3,47.3193071,-122.4272552,TRUE,FALSE,FALSE,"S272513674"
+"202","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L509262","Point Wilson","2025-09-09 15:43",1,48.1442626,-122.7539778,TRUE,FALSE,FALSE,"S272499858"
+"203","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52672060","Autumn Wind Pelagic -- September 9th 2025 -- Leg 7","2025-09-09 15:10",8,40.6644439,-124.4646414,TRUE,FALSE,TRUE,"S272612454"
+"204","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52672042","Autumn Wind Pelagic -- September 9th 2025 -- Leg 6","2025-09-09 14:15",12,40.6859752,-124.5553483,TRUE,FALSE,TRUE,"S272612372"
+"205","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L962225","San Juan Islands ferry","2025-09-09 13:58",4,48.5529782,-122.8422546,TRUE,FALSE,FALSE,"S272502365"
+"206","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52672022","Autumn Wind Pelagic -- September 9th 2025 -- Leg 5","2025-09-09 13:10",4,40.6733473,-124.6632043,TRUE,FALSE,TRUE,"S272612285"
+"207","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52670991","Autumn Wind Pelagic -- September 9th 2025 -- Leg 4","2025-09-09 12:05",3,40.6786614,-124.6116291,TRUE,FALSE,TRUE,"S272607817"
+"208","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L6366248","Pile Point, San Juan Island","2025-09-09 11:46",2,48.4888973,-123.1191444,TRUE,FALSE,FALSE,"S272489085"
+"209","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L4313747","Lyre Conservation Area","2025-09-09 11:17",1,48.1501769,-123.8257748,TRUE,FALSE,FALSE,"S273788151"
+"210","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52666900","Autumn Wind Pelagic -- September 9th 2025 -- Leg 3","2025-09-09 10:39",1,40.7054086,-124.6279886,TRUE,FALSE,TRUE,"S272588838"
+"211","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52641745","Auto selected 58.23626, -136.33425","2025-09-09 10:35",1,58.236263,-136.334253,TRUE,FALSE,TRUE,"S272460367"
+"212","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L464767","Luhr Beach","2025-09-09 10:30",1,47.1004537,-122.7266407,TRUE,FALSE,FALSE,"S272475728"
+"213","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52641792","5 mi S of Softuk Bar","2025-09-09 10:08",2,60.1581583,-144.9757174,TRUE,FALSE,TRUE,"S272460535"
+"214","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52666819","Autumn Wind Pelagic -- September 9th 2025 -- Leg 2","2025-09-09 09:36",1,40.7615393,-124.5538875,TRUE,FALSE,TRUE,"S272588433"
+"215","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L1627186","Titlow Park & Beach","2025-09-09 08:58",2,47.2489682,-122.5517227,TRUE,FALSE,FALSE,"S272441767"
+"216","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52666798","Autumn Wind Pelagic -- September 9th 2025 -- Leg 1","2025-09-09 08:36",33,40.7580462,-124.4225093,TRUE,FALSE,TRUE,"S272588335"
+"217","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52637438","Skiff Point","2025-09-09 07:37",32,47.663406,-122.500749,TRUE,FALSE,TRUE,"S272440514"
+"218","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L9328854","Ellis Family Preserve, Shaw Island","2025-09-09 07:16",4,48.56231,-122.970815,TRUE,FALSE,FALSE,"S272417054"
+"219","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52617345","Idaho Inlet, Elfin Cove US-AK 58.20283, -136.26572","2025-09-08 17:45",1,58.20283,-136.265715,TRUE,FALSE,TRUE,"S272332239"
+"220","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L43568073","Rosario Strait","2025-09-08 16:12",20,48.3823534,-122.7713529,TRUE,FALSE,TRUE,"S272471756"
+"221","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L7900180","North Pointe condominium","2025-09-08 15:45",7,44.8248481,-124.0673704,TRUE,FALSE,TRUE,"S272311843"
+"222","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L1460642","Port Townsend-Keystone Ferry (Island Co.)","2025-09-08 15:35",4,48.1472328,-122.6790196,TRUE,FALSE,FALSE,"S272314330"
+"223","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L941868","Resurrection Bay--Aialik Cape","2025-09-08 15:08",1,59.7062094,-149.5252991,TRUE,FALSE,FALSE,"S272337831"
+"224","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L12160961","Sumner Strait, near Pt. Baker","2025-09-08 14:55",14,56.373892,-133.555939,TRUE,TRUE,TRUE,"S272652625"
+"225","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52614164","Auto selected 37.32386, -122.96834","2025-09-08 14:03",4,37.323864,-122.96834,TRUE,FALSE,TRUE,"S272315689"
+"226","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L590833","La Push","2025-09-08 13:58",10,47.9082232,-124.6395031,TRUE,FALSE,FALSE,"S272339726"
+"227","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L1558814","Montague Is.--Rocky Bay (Pr. William Sound)","2025-09-08 13:55",3,60.3434299,-147.1179199,TRUE,FALSE,FALSE,"S272322699"
+"228","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L14899958","Jensen Bay Road End","2025-09-08 13:40",4,48.4853261,-123.0134382,TRUE,FALSE,TRUE,"S272298791"
+"229","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52614150","Auto selected 37.24812, -123.16118","2025-09-08 13:02",13,37.248119,-123.161179,TRUE,FALSE,TRUE,"S272315623"
+"230","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L36009417","MEN pelagic - Outer Buoy to 5-miles offshore","2025-09-08 12:56",6,39.45456,-123.861341,TRUE,FALSE,TRUE,"S272331855"
+"231","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L578601","Doran Regional Park - entrance pond to jetty","2025-09-08 12:41",1,38.3146057,-123.0438066,TRUE,FALSE,FALSE,"S272292983"
+"232","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52609751","Doran Beach, Bodega Bay US-CA 38.30682, -123.05331","2025-09-08 12:20",1,38.306817,-123.053314,TRUE,FALSE,TRUE,"S272292992"
+"233","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52614129","Auto selected 37.20775, -123.07214","2025-09-08 12:00",4,37.207753,-123.072141,TRUE,FALSE,TRUE,"S272315517"
+"234","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52615798","East of Long Island","2025-09-08 12:00",1,57.7746974,-152.1981961,TRUE,FALSE,TRUE,"S272324780"
+"235","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52617260","Noyo pelagic return leg","2025-09-08 11:44",8,39.495608,-123.918404,TRUE,FALSE,TRUE,"S272331813"
+"236","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L268312","Siuslaw River--North Jetty","2025-09-08 11:07",2,44.0182419,-124.136678,TRUE,FALSE,FALSE,"S272283037"
+"237","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52614117","Auto selected 37.31732, -122.99560","2025-09-08 11:04",30,37.317318,-122.995599,TRUE,FALSE,TRUE,"S272315474"
+"238","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L3883703","Sitka--Harbor","2025-09-08 10:45",1,57.0574415,-135.3578796,TRUE,FALSE,FALSE,"S272293374"
+"239","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L742889","Siuslaw River--North Jetty-Mudflats","2025-09-08 10:42",6,44.0151171,-124.1272044,TRUE,FALSE,FALSE,"S272299387"
+"240","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52614107","Auto selected 37.35048, -122.82810","2025-09-08 10:04",38,37.350477,-122.828096,TRUE,FALSE,TRUE,"S272315404"
+"241","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L36010348","MEN pelagic - Noyo Canyon","2025-09-08 09:58",30,39.546257,-124.003103,TRUE,FALSE,TRUE,"S272331745"
+"242","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52602997","Auto selected 37.38760, -122.66881","2025-09-08 09:15",14,37.387595,-122.668812,TRUE,FALSE,TRUE,"S272262324"
+"243","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L1248391","San Juan County Park","2025-09-08 08:57",2,48.5419248,-123.1605148,TRUE,FALSE,FALSE,"S272277782"
+"244","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L26804134","Upper Noyo Canyon area","2025-09-08 08:27",25,39.557953,-123.972473,TRUE,FALSE,TRUE,"S272331714"
+"245","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52601057","Auto selected 37.42805, -122.51567","2025-09-08 08:18",6,37.428054,-122.515669,TRUE,FALSE,TRUE,"S272253326"
+"246","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52673907","Auto selected 37.42805, -122.51567","2025-09-08 08:18",6,37.42805,-122.51567,TRUE,FALSE,TRUE,"S272677439"
+"247","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L985991","Silver Point","2025-09-08 08:02",1,45.8547974,-123.9647484,TRUE,FALSE,FALSE,"S272242775"
+"248","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L977043","Nearshore pelagic - (MEN Co.)","2025-09-08 07:51",15,39.4163563,-123.8850632,TRUE,FALSE,FALSE,"S272331651"
+"249","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L26025593","American Camp - South Beach Trail Loop","2025-09-08 07:34",2,48.4637882,-123.02259,TRUE,FALSE,TRUE,"S272251317"
+"250","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L267165","Hobuck Beach","2025-09-08 07:04",1,48.3395317,-124.6717641,TRUE,FALSE,FALSE,"S272260331"
+"251","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L6517534","Neah Bay--town and bay only","2025-09-08 06:53",5,48.3666101,-124.6215677,TRUE,FALSE,FALSE,"S272301524"
+"252","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L682181","Sitka Sound","2025-09-08",NA,57.0317632,-135.5122375,TRUE,FALSE,FALSE,"S272365433"
+"253","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L22305731","Seola Beach Dr.","2025-09-07 18:31",3,47.5012403,-122.3732579,TRUE,FALSE,FALSE,"S272148152"
+"254","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L35533054","MEN pelagic--nearshore to 3 miles out","2025-09-07 17:26",2,39.430417,-123.823535,TRUE,FALSE,TRUE,"S272602204"
+"255","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52669848","Noyo Pelagic 9/7/25 leg 9","2025-09-07 16:43",30,39.566474,-123.920484,TRUE,FALSE,TRUE,"S272602838"
+"256","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52608558","3 miles to bay entrance-Steller Sunrise pelagic-7 Sept 2025 40.77455, -124.29373","2025-09-07 15:49",1,40.774554,-124.29373,TRUE,FALSE,TRUE,"S272287362"
+"257","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L27166357","Spieden Island","2025-09-07 15:35",1,48.6403853,-123.134207,TRUE,FALSE,FALSE,"S272428678"
+"258","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52613139","Auto selected 37.40122, -122.70848","2025-09-07 15:26",32,37.401221,-122.708483,TRUE,FALSE,TRUE,"S272310443"
+"259","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52669828","Noyo Pelagic 9/7/25 leg 8","2025-09-07 15:15",10,39.527939,-123.981948,TRUE,FALSE,TRUE,"S272602723"
+"260","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52608551","Leg 8–Steller Sunrise pelagic-7 Sept 2025 40.79703, -124.43313","2025-09-07 15:07",4,40.797035,-124.433132,TRUE,FALSE,TRUE,"S272287326"
+"261","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52613077","Auto selected 37.33901, -122.89800","2025-09-07 14:23",35,37.339009,-122.897996,TRUE,FALSE,TRUE,"S272310177"
+"262","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L36163487","Strait of Juan de Fuca--Coyote Bank (US Side)","2025-09-07 14:22",1,48.274365,-123.258945,TRUE,FALSE,FALSE,"S272249583"
+"263","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52582227","Strait of Juan de Fuca--Coyote Bank (US Side)","2025-09-07 14:22",1,48.265737,-123.19543,TRUE,FALSE,TRUE,"S272156296"
+"264","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52669793","Noyo Pelagic 9/7/25 leg 7","2025-09-07 14:15",20,39.456979,-124.049938,TRUE,FALSE,TRUE,"S272602556"
+"265","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52608541","Leg 7–Steller Sunrise pelagic-7 Sept 2025 40.73719, -124.55612","2025-09-07 14:06",4,40.737188,-124.556123,TRUE,FALSE,TRUE,"S272287287"
+"266","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L5928663","Dungeness NWR--Graveyard Spit (restricted access)","2025-09-07 13:57",2,48.1743426,-123.1378198,TRUE,FALSE,FALSE,"S272156327"
+"267","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52582238","Strait of Juan de Fuca US-WA (48.1698,-123.0487)","2025-09-07 13:47",1,48.169776,-123.048713,TRUE,FALSE,TRUE,"S272156352"
+"268","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52582243","Strait of Juan de Fuca US-WA (48.1551,-123.0050)","2025-09-07 13:35",1,48.155061,-123.005032,TRUE,FALSE,TRUE,"S272156369"
+"269","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52582246","Strait of Juan de Fuca US-WA (48.1271,-122.9882)","2025-09-07 13:26",4,48.127126,-122.988163,TRUE,FALSE,TRUE,"S272156382"
+"270","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52613026","Auto selected 37.27057, -123.07395","2025-09-07 13:18",27,37.27057,-123.073948,TRUE,FALSE,TRUE,"S272309908"
+"271","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52669773","Noyo Pelagic 9/7/25 leg 6","2025-09-07 13:13",6,39.3607,-124.129263,TRUE,FALSE,TRUE,"S272602491"
+"272","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52582254","Strait of Juan de Fuca US-WA (48.1608,-122.9025)","2025-09-07 12:45",5,48.16076,-122.902498,TRUE,FALSE,TRUE,"S272156424"
+"273","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52582255","Strait of Juan de Fuca US-WA (48.2060,-122.8881)","2025-09-07 12:28",1,48.205959,-122.888056,TRUE,FALSE,TRUE,"S272156439"
+"274","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L34755635","Strait of Juan de Fuca--Partridge Bank","2025-09-07 12:13",11,48.2753473,-122.8799494,TRUE,FALSE,FALSE,"S272156492"
+"275","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52612962","Auto selected 37.30341, -123.07996","2025-09-07 12:12",11,37.30341,-123.079961,TRUE,FALSE,TRUE,"S272309542"
+"276","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52608244","Leg 5–Steller Sunrise pelagic-7 Sept 2025 40.67657, -124.92044","2025-09-07 12:04",3,40.676565,-124.920438,TRUE,FALSE,TRUE,"S272286079"
+"277","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52669760","Noyo Pelagic 9/7/25 leg 5","2025-09-07 12:03",30,39.23652,-124.233856,TRUE,FALSE,TRUE,"S272602420"
+"278","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L969137","Pioneer Sea Canyon (SF Co.)","2025-09-07 11:54",10,37.3919819,-123.0303955,TRUE,FALSE,FALSE,"S272160290"
+"279","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52573403","Oceanic Society- Pelagic leg 3 - 2025/09/07","2025-09-07 11:36",8,37.592482,-123.066274,TRUE,FALSE,TRUE,"S272113767"
+"280","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52608215","Leg 4–Steller Sunrise pelagic-7 Sept 2025 40.67842, -124.81637","2025-09-07 11:34",3,40.678417,-124.81637,TRUE,FALSE,TRUE,"S272285992"
+"281","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52612871","Auto selected 37.34776, -122.99583","2025-09-07 11:13",43,37.347759,-122.995831,TRUE,FALSE,TRUE,"S272309009"
+"282","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52669744","Noyo Pelagic 9/7/25 leg 4","2025-09-07 11:03",25,39.145247,-124.230881,TRUE,FALSE,TRUE,"S272602354"
+"283","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52571517","Auto selected 36.64718, -121.95600","2025-09-07 10:39",2,36.647177,-121.955996,TRUE,FALSE,TRUE,"S272105040"
+"284","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52608196","Leg 3–Steller Sunrise pelagic-7 Sept 2025 40.71297, -124.59732","2025-09-07 10:31",5,40.712969,-124.597318,TRUE,FALSE,TRUE,"S272285911"
+"285","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52582296","Strait of Juan de Fuca, Samish TDSA US-WA (48.4314,-122.9272)","2025-09-07 10:31",3,48.431383,-122.927219,TRUE,FALSE,TRUE,"S272156626"
+"286","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L3093171","Whale Rocks","2025-09-07 10:18",6,48.4468605,-122.9430842,TRUE,FALSE,FALSE,"S272156638"
+"287","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52573340","Oceanic Society - Pelagic Leg 2 - 2025/09/07","2025-09-07 10:12",4,37.718018,-122.721281,TRUE,FALSE,TRUE,"S272113486"
+"288","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L36139435","Strait of Juan de Fuca--Salmon Bank","2025-09-07 10:10",12,48.4174754,-122.9789329,TRUE,FALSE,FALSE,"S272156657"
+"289","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L9874511","Eagle Point, San Juan Island, WA","2025-09-07 10:09",2,48.4566739,-123.0364416,TRUE,FALSE,TRUE,"S272671635"
+"290","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52612834","Auto selected 37.39824, -122.88048","2025-09-07 10:08",42,37.398237,-122.880477,TRUE,FALSE,TRUE,"S272308755"
+"291","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52669641","Noyo Pelagic 9/7/25 leg 3","2025-09-07 10:01",25,39.198665,-124.129256,TRUE,FALSE,TRUE,"S272601803"
+"292","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52582306","Strait of Juan de Fuca, Samish TDSA US-WA (48.4294,-123.0597)","2025-09-07 09:54",8,48.429413,-123.059706,TRUE,FALSE,TRUE,"S272156670"
+"293","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52582330","Strait of Juan de Fuca, Samish TDSA US-WA 48.40539, -123.13188","2025-09-07 09:40",6,48.405387,-123.131876,TRUE,FALSE,TRUE,"S272156792"
+"294","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52608187","Leg 2–Steller Sunrise pelagic-7 Sept 2025 40.75526, -124.46660","2025-09-07 09:30",3,40.755257,-124.466598,TRUE,FALSE,TRUE,"S272285841"
+"295","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52612743","Auto selected 37.42695, -122.68688","2025-09-07 08:57",24,37.426951,-122.686883,TRUE,FALSE,TRUE,"S272308339"
+"296","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52669625","Noyo Pelagic 9/7/25 leg 2","2025-09-07 08:57",15,39.289129,-123.991198,TRUE,FALSE,TRUE,"S272601715"
+"297","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L487997","Humboldt Bay--North Spit jetty","2025-09-07 08:50",6,40.764893,-124.2332155,TRUE,FALSE,FALSE,"S272082718"
+"298","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L285366","Golden Gardens Park","2025-09-07 08:45",10,47.6928546,-122.4054806,TRUE,FALSE,FALSE,"S272075722"
+"299","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L2365653","Offshore--continental shelf waters (southern SF Co.)","2025-09-07 08:39",3,37.5148275,-122.8446579,TRUE,FALSE,FALSE,"S272054755"
+"300","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52608167","Leg 1–Steller Sunrise pelagic—7 Sept 2025 40.77999, -124.30166","2025-09-07 08:30",1,40.77999,-124.301657,TRUE,FALSE,TRUE,"S272285742"
+"301","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L284497","John Wayne Marina","2025-09-07 08:15",1,48.0623184,-123.0416377,TRUE,FALSE,FALSE,"S272040857"
+"302","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L2808658","Humboldt pelagic--nearshore to 3 miles offshore (HUM Co.)","2025-09-07 08:10",1,40.7783824,-124.2591047,TRUE,FALSE,FALSE,"S272285659"
+"303","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L782177","Gustavus--Forelands (W of dock to Critical Habitat boundary)","2025-09-07 08:00",4,58.3921763,-135.7899857,TRUE,FALSE,FALSE,"S272134694"
+"304","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52612607","Auto selected 37.45649, -122.50983","2025-09-07 07:56",3,37.456488,-122.509834,TRUE,FALSE,TRUE,"S272307636"
+"305","rhiauk","Rhinoceros Auklet","Cerorhinca monocerata","L52669588","Noyo Pelagic 9/7/25 leg 1","2025-09-07 07:56",18,39.401883,-123.858052,TRUE,FALSE,TRUE,"S272601503"
