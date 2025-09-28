@@ -1,5 +1,2 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","rnxsap1","Red-naped x Red-breasted Sapsucker (hybrid)","Sphyrapicus nuchalis x ruber","L294672","Frenchglen (town)","2025-09-21 11:33",1,42.8265492,-118.914696,TRUE,FALSE,FALSE,"S274758932"
-"2","rnxsap1","Red-naped x Red-breasted Sapsucker (hybrid)","Sphyrapicus nuchalis x ruber","L7181932","Lake Yosemite Co. Park","2025-09-20 07:45",1,37.37125,-120.42867,TRUE,TRUE,FALSE,"S274514185"
-"3","rnxsap1","Red-naped x Red-breasted Sapsucker (hybrid)","Sphyrapicus nuchalis x ruber","L1252839","Floppy Boot Ranch","2025-09-20 07:28",1,41.9486506,-120.2958512,TRUE,FALSE,TRUE,"S274466341"
-"4","rnxsap1","Red-naped x Red-breasted Sapsucker (hybrid)","Sphyrapicus nuchalis x ruber","L128530","Discovery Park","2025-09-20 06:21",1,47.663868,-122.4215317,TRUE,TRUE,FALSE,"S274759140"
+"1","xanmur1","Guadalupe Murrelet","Synthliboramphus hypoleucus","L53131026","Auto selected 37.27045, -123.07072","2025-09-20 12:25",4,37.270446,-123.07072,TRUE,TRUE,TRUE,"S274806709"
