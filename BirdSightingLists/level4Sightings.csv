@@ -1,55 +1,98 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","yeejun","Yellow-eyed Junco","Junco phaeonotus","L296632","Madera Canyon--Madera Kubo B&B","2025-09-28 15:10",1,31.7200828,-110.8787354,TRUE,FALSE,FALSE,"S276179051"
-"2","yeejun","Yellow-eyed Junco","Junco phaeonotus","L129062","Ramsey Canyon Preserve (formerly Mile Hi Ranch)","2025-09-28 11:37",1,31.4473746,-110.307608,TRUE,FALSE,FALSE,"S276126370"
-"3","yeejun","Yellow-eyed Junco","Junco phaeonotus","L753054","Mt. Lemmon--Palisades Visitor Center","2025-09-28 10:13",4,32.4104319,-110.7147995,TRUE,FALSE,FALSE,"S276168799"
-"4","yeejun","Yellow-eyed Junco","Junco phaeonotus","L301174","Mt. Lemmon--Mt Bigelow Rd","2025-09-28 09:28",3,32.4170301,-110.7250857,TRUE,FALSE,FALSE,"S276168773"
-"5","yeejun","Yellow-eyed Junco","Junco phaeonotus","L22783927","Carrie Nation Mine Trail","2025-09-28 08:46",1,31.7094084,-110.8756396,TRUE,FALSE,TRUE,"S276158680"
-"6","yeejun","Yellow-eyed Junco","Junco phaeonotus","L127970","Mt. Lemmon--upper","2025-09-28 08:39",5,32.4404984,-110.7902985,TRUE,FALSE,FALSE,"S276168708"
-"7","yeejun","Yellow-eyed Junco","Junco phaeonotus","L267654","Mt. Lemmon--Marshall Gulch","2025-09-28 07:42",7,32.4280212,-110.7556783,TRUE,FALSE,FALSE,"S276168653"
-"8","yeejun","Yellow-eyed Junco","Junco phaeonotus","L753061","Mt. Lemmon--Summerhaven","2025-09-28 06:43",1,32.4427119,-110.7598686,TRUE,FALSE,FALSE,"S276049598"
-"9","yeejun","Yellow-eyed Junco","Junco phaeonotus","L3651544","Madera Canyon--Old Baldy Trail","2025-09-27 16:53",3,31.7064483,-110.868596,TRUE,FALSE,FALSE,"S276014734"
-"10","yeejun","Yellow-eyed Junco","Junco phaeonotus","L286521","Mt. Lemmon--Ski Valley","2025-09-27 15:29",1,32.4484106,-110.7810647,TRUE,FALSE,FALSE,"S275891255"
-"11","yeejun","Yellow-eyed Junco","Junco phaeonotus","L42273385","Aliperti Cabin (W Turkey Creek)","2025-09-27 11:36",1,31.864886,-109.340902,TRUE,FALSE,TRUE,"S276138319"
-"12","yeejun","Yellow-eyed Junco","Junco phaeonotus","L5525302","W Turkey Creek Rd--Nat'l Forest boundary to road end (mp 8.3-11)","2025-09-27 10:05",2,31.8658952,-109.3487477,TRUE,FALSE,FALSE,"S276138246"
-"13","yeejun","Yellow-eyed Junco","Junco phaeonotus","L2413068","Madera Canyon--Carrie Nation Trail","2025-09-27 08:07",1,31.704511,-110.8764482,TRUE,FALSE,FALSE,"S276147014"
-"14","yeejun","Yellow-eyed Junco","Junco phaeonotus","L720652","Ramsey Canyon Inn (opened 1988)","2025-09-27 06:41",2,31.4486597,-110.3068952,TRUE,FALSE,FALSE,"S275788536"
-"15","yeejun","Yellow-eyed Junco","Junco phaeonotus","L2428094","Summerhaven Place","2025-09-26 14:09",2,32.4418925,-110.758144,TRUE,FALSE,TRUE,"S275661835"
-"16","yeejun","Yellow-eyed Junco","Junco phaeonotus","L53295359","Tucson Avenue, Summerhaven","2025-09-26 10:54",8,32.4444658,-110.7593079,TRUE,FALSE,TRUE,"S275620027"
-"17","yeejun","Yellow-eyed Junco","Junco phaeonotus","L1576897","Mt. Lemmon--E Cap Rock Trail Rd","2025-09-25 13:31",5,32.4413877,-110.7824279,TRUE,FALSE,TRUE,"S275451413"
-"18","yeejun","Yellow-eyed Junco","Junco phaeonotus","L2891977","Mt. Lemmon--Aspen Trail--upper (Marshall Saddle to Radio Ridge)","2025-09-25 12:15",6,32.4388219,-110.7754073,TRUE,FALSE,TRUE,"S275450531"
-"19","yeejun","Yellow-eyed Junco","Junco phaeonotus","L53294275","MGRS plot 99","2025-09-25 11:10",27,32.665978,-109.87626,TRUE,TRUE,TRUE,"S275615075"
-"20","yeejun","Yellow-eyed Junco","Junco phaeonotus","L296633","Madera Canyon--Mt. Wrightson Picnic Area & Upper Canyon Trails","2025-09-25 11:03",1,31.7124,-110.8744,TRUE,FALSE,FALSE,"S275434964"
-"21","yeejun","Yellow-eyed Junco","Junco phaeonotus","L1576851","Mt. Lemmon--Wilderness of Rocks Trail #44","2025-09-25 10:47",4,32.4330957,-110.7781827,TRUE,FALSE,TRUE,"S275440073"
-"22","yeejun","Yellow-eyed Junco","Junco phaeonotus","L26070064","WoR Trail at Lemmon Creek (32.417, -110.798)","2025-09-25 10:09",1,32.4169223,-110.798173,TRUE,FALSE,TRUE,"S275424952"
-"23","yeejun","Yellow-eyed Junco","Junco phaeonotus","L53294224","MGRS plot 286","2025-09-25 09:17",8,32.674011,-109.870342,TRUE,FALSE,TRUE,"S275614852"
-"24","yeejun","Yellow-eyed Junco","Junco phaeonotus","L20889544","Mt. Lemmon--WoR Trail west of LRLO Trail Jct","2025-09-25 08:58",4,32.418225,-110.7944229,TRUE,FALSE,TRUE,"S275423165"
-"25","yeejun","Yellow-eyed Junco","Junco phaeonotus","L2891933","Mt. Lemmon--Jct LRLO#12/WOR#44","2025-09-25 08:53",1,32.4213298,-110.7906953,TRUE,FALSE,TRUE,"S275411073"
-"26","yeejun","Yellow-eyed Junco","Junco phaeonotus","L129068","Mt. Lemmon--Rose Canyon and Lake","2025-09-25 08:03",13,32.3926274,-110.7024693,TRUE,FALSE,FALSE,"S275477440"
-"27","yeejun","Yellow-eyed Junco","Junco phaeonotus","L129033","Mt. Lemmon--Molino Basin","2025-09-25 07:41",1,32.337101,-110.6921005,TRUE,FALSE,FALSE,"S275399877"
-"28","yeejun","Yellow-eyed Junco","Junco phaeonotus","L2891913","Mt. Lemmon--Lemmon Rock L.O. Trail #12","2025-09-25 07:08",4,32.43165,-110.790083,TRUE,FALSE,TRUE,"S275410154"
-"29","yeejun","Yellow-eyed Junco","Junco phaeonotus","L2219647","Mt. Lemmon--Summit Rd end","2025-09-25 06:49",1,32.4406665,-110.7873666,TRUE,FALSE,TRUE,"S275387332"
-"30","yeejun","Yellow-eyed Junco","Junco phaeonotus","L456902","Mt. Graham--Riggs Lake","2025-09-24 17:43",27,32.7080834,-109.964819,TRUE,TRUE,FALSE,"S275324377"
-"31","yeejun","Yellow-eyed Junco","Junco phaeonotus","L936072","Mt. Graham--Hospital Flat CG","2025-09-24 10:58",32,32.6659687,-109.8739243,TRUE,TRUE,FALSE,"S275295314"
-"32","yeejun","Yellow-eyed Junco","Junco phaeonotus","L11853083","Long Park","2025-09-24 08:53",10,31.8877292,-109.2793492,TRUE,FALSE,FALSE,"S275465757"
-"33","yeejun","Yellow-eyed Junco","Junco phaeonotus","L53228788","Mt Lemmon-- pulloff below Willow Canyon Rd US (32.384, -110.694)","2025-09-24 08:49",6,32.3840441,-110.6943723,TRUE,FALSE,TRUE,"S275298047"
-"34","yeejun","Yellow-eyed Junco","Junco phaeonotus","L456900","Mt. Graham--Ash Creek/Columbine area","2025-09-23 17:42",8,32.7047973,-109.9137926,TRUE,FALSE,FALSE,"S275168512"
-"35","yeejun","Yellow-eyed Junco","Junco phaeonotus","L128888","Mt. Lemmon--Bear Canyon (Cypress, Middle Bear, Chihuahua Pine Picnic Areas)","2025-09-23 07:27",3,32.3731003,-110.6912994,TRUE,FALSE,FALSE,"S275137795"
-"36","yeejun","Yellow-eyed Junco","Junco phaeonotus","L53186984","MGRS plot 114","2025-09-22 15:59",2,32.66874,-109.870028,TRUE,FALSE,TRUE,"S275090932"
-"37","yeejun","Yellow-eyed Junco","Junco phaeonotus","L600770","Mt. Graham--Shannon CG","2025-09-22 11:37",3,32.6585532,-109.8574984,TRUE,FALSE,FALSE,"S275078487"
-"38","yeejun","Yellow-eyed Junco","Junco phaeonotus","L21008318","Mt. Graham--Turkey Flat","2025-09-22 10:55",2,32.632362,-109.815598,TRUE,FALSE,FALSE,"S275078511"
-"39","yeejun","Yellow-eyed Junco","Junco phaeonotus","L733406","Mt. Graham--Arcadia CG","2025-09-22 10:29",5,32.648839,-109.8191246,TRUE,FALSE,FALSE,"S275078531"
-"40","yeejun","Yellow-eyed Junco","Junco phaeonotus","L23162990","Chiricahua NM--Natural Bridge Trailhead","2025-09-22 10:05",1,32.0222619,-109.3491407,TRUE,FALSE,FALSE,"S275163282"
-"41","yeejun","Yellow-eyed Junco","Junco phaeonotus","L300587","Pinal Mountains--Sulfide del Rey Campground","2025-09-22 08:06",3,33.29467,-110.86638,TRUE,FALSE,FALSE,"S274941289"
-"42","yeejun","Yellow-eyed Junco","Junco phaeonotus","L53217984","General Hitchcock Highway, Arizona, US (32.373, -110.694)","2025-09-21 15:18",1,32.3725593,-110.694414,TRUE,FALSE,TRUE,"S275244888"
-"43","yeejun","Yellow-eyed Junco","Junco phaeonotus","L28941180","Super Trail, Nogales US-AZ (31.7000,-110.8470)","2025-09-21 14:53",6,31.699986,-110.847003,TRUE,FALSE,TRUE,"S274804027"
-"44","yeejun","Yellow-eyed Junco","Junco phaeonotus","L8812892","Garden Canyon Rd--BETWEEN Upper Picnic Area and Sawmill Canyon","2025-09-21 08:25",2,31.460941,-110.361756,TRUE,FALSE,FALSE,"S274793125"
-"45","yeejun","Yellow-eyed Junco","Junco phaeonotus","L129069","Rustler Park","2025-09-21 08:00",20,31.9030991,-109.2776031,TRUE,FALSE,FALSE,"S274902527"
-"46","yeejun","Yellow-eyed Junco","Junco phaeonotus","L753059","Mt. Lemmon--Incinerator Ridge","2025-09-20 14:35",1,32.4111248,-110.7064819,TRUE,FALSE,FALSE,"S274552874"
-"47","yeejun","Yellow-eyed Junco","Junco phaeonotus","L5716623","Carr Canyon Road--BETWEEN Reef Townsite and Ramsey Vista CGs","2025-09-20 13:36",4,31.4283152,-110.2991402,TRUE,FALSE,FALSE,"S274535400"
-"48","yeejun","Yellow-eyed Junco","Junco phaeonotus","L981376","Mt. Lemmon--Palisades Visitor Center","2025-09-20 12:06",4,32.4104273,-110.7145983,TRUE,FALSE,TRUE,"S274525344"
-"49","yeejun","Yellow-eyed Junco","Junco phaeonotus","L32417036","Mint Springs Trail, Mount Lemmon US-AZ 32.44004, -110.76644","2025-09-20 10:29",4,32.440038,-110.766445,TRUE,FALSE,TRUE,"S274574940"
-"50","yeejun","Yellow-eyed Junco","Junco phaeonotus","L1629017","Mt. Lemmon--Meadow Trail #5A","2025-09-20 09:35",1,32.43792,-110.79269,TRUE,FALSE,TRUE,"S274490382"
-"51","yeejun","Yellow-eyed Junco","Junco phaeonotus","L2219672","Mt. Lemmon--Mt. Lemmon Trail #5","2025-09-20 08:44",1,32.43566,-110.79355,TRUE,FALSE,TRUE,"S274480322"
-"52","yeejun","Yellow-eyed Junco","Junco phaeonotus","L4719215","Mt. Lemmon--Ski Run Rd--Ski Valley to E Cap Rock Trail Rd","2025-09-20 07:17",6,32.4467501,-110.7869697,TRUE,FALSE,TRUE,"S274462144"
-"53","yeejun","Yellow-eyed Junco","Junco phaeonotus","L129031","Miller Canyon Trail","2025-09-20 06:06",2,31.40806,-110.28619,TRUE,FALSE,FALSE,"S274519081"
-"54","yeejun","Yellow-eyed Junco","Junco phaeonotus","L749724","Madera Canyon--Amphitheater","2025-09-19 14:30",5,31.7221396,-110.8797151,TRUE,FALSE,FALSE,"S274312857"
+"","speciesCode","comName","sciName","locId","locName","obsDt","lat","lng","obsValid","obsReviewed","locationPrivate","subId","howMany"
+"1","canvas","Canvasback","Aythya valisineria","L159540","Devils Lake--Lagoons and Marsh","2025-09-29 16:21",48.1096638,-98.8833779,TRUE,FALSE,FALSE,"S276389145",NA
+"2","canvas","Canvasback","Aythya valisineria","L109174","Bear Lake NWR--Rainbow Unit","2025-09-29 16:17",42.1833333,-111.3166667,TRUE,FALSE,FALSE,"S276382025",NA
+"3","canvas","Canvasback","Aythya valisineria","L7192169","Devils Lake--Six Mile Bay","2025-09-29 15:57",48.1202514,-99.0068901,TRUE,FALSE,FALSE,"S276369097",NA
+"4","canvas","Canvasback","Aythya valisineria","L11524943","O'Connell Lake (Benson Co.)","2025-09-29 13:36",48.179486,-99.265743,TRUE,FALSE,FALSE,"S276348785",10
+"5","canvas","Canvasback","Aythya valisineria","L2378932","Ennis Lake--East Shore","2025-09-29 13:23",45.4312423,-111.6536922,TRUE,FALSE,FALSE,"S276355396",4
+"6","canvas","Canvasback","Aythya valisineria","L3942996","Shillapoo Lake","2025-09-29 12:20",45.6956365,-122.7440187,TRUE,FALSE,FALSE,"S276391541",1
+"7","canvas","Canvasback","Aythya valisineria","L922588","Maza Area","2025-09-29 10:03",48.390914,-99.216156,TRUE,FALSE,TRUE,"S276313833",200
+"8","canvas","Canvasback","Aythya valisineria","L11596623","Churchs Ferry--West Wetlands (Benson Co.)","2025-09-29 09:32",48.2759358,-99.2078128,TRUE,FALSE,FALSE,"S276300965",15
+"9","canvas","Canvasback","Aythya valisineria","L448084","Woodland WTP","2025-09-28 18:08",38.6624345,-121.7173585,TRUE,FALSE,FALSE,"S276198954",2
+"10","canvas","Canvasback","Aythya valisineria","L7417451","Ninepipe Rd, Ninepipe Ln to dam","2025-09-28 17:14",47.4500249,-114.1393876,TRUE,FALSE,TRUE,"S276182472",1
+"11","canvas","Canvasback","Aythya valisineria","L53410527","CR 27 Crossing of Channel Nn","2025-09-28 16:36",47.9911845,-98.5188921,TRUE,FALSE,TRUE,"S276166849",30
+"12","canvas","Canvasback","Aythya valisineria","L45773150","Home","2025-09-28 14:04",37.439218,-121.909313,TRUE,FALSE,TRUE,"S276155321",3
+"13","canvas","Canvasback","Aythya valisineria","L53401614","10665 53rd Street Northeast, Brocket, North Dakota, US (48.181, -98.3)","2025-09-28 13:33",48.1806424,-98.2997728,TRUE,FALSE,TRUE,"S276126032",1
+"14","canvas","Canvasback","Aythya valisineria","L966595","Hart Lake","2025-09-28 12:29",42.4392941,-119.8736286,TRUE,FALSE,FALSE,"S276148137",15
+"15","canvas","Canvasback","Aythya valisineria","L33793694","10466 County Road 6, Lakota, North Dakota, US (48.123, -98.344)","2025-09-28 12:25",48.1226733,-98.3439378,TRUE,FALSE,TRUE,"S276122015",1
+"16","canvas","Canvasback","Aythya valisineria","L53396558","59854, Ovando US-MT 46.95433, -113.00228","2025-09-28 11:13",46.954331,-113.002278,TRUE,FALSE,TRUE,"S276147928",2
+"17","canvas","Canvasback","Aythya valisineria","L2866101","Long Lake NWR--C Dike","2025-09-28 11:09",46.6916678,-100.1845517,TRUE,FALSE,FALSE,"S276101919",2
+"18","canvas","Canvasback","Aythya valisineria","L1488817","Box Lake","2025-09-28 10:12",41.6734612,-101.4449589,TRUE,FALSE,FALSE,"S276102867",2
+"19","canvas","Canvasback","Aythya valisineria","L249812","Blacks Creek Bird Reserve","2025-09-28 09:11",43.4584433,-116.1426544,TRUE,FALSE,FALSE,"S276111858",2
+"20","canvas","Canvasback","Aythya valisineria","L686411","Wood River Wetland","2025-09-28 09:01",42.5807466,-121.9327068,TRUE,FALSE,FALSE,"S276107206",2
+"21","canvas","Canvasback","Aythya valisineria","L265647","Maxwell NWR","2025-09-28 07:09",36.5688651,-104.5815831,TRUE,FALSE,FALSE,"S276080487",1
+"22","canvas","Canvasback","Aythya valisineria","L1592528","Yellowstone NP--Mary Bay Picnic Area","2025-09-27 17:45",44.5480051,-110.2962166,TRUE,FALSE,FALSE,"S275914512",1
+"23","canvas","Canvasback","Aythya valisineria","L53354801","U.S. Highway 64, Grenville, New Mexico, US (36.531, -103.509)","2025-09-27 16:49",36.5314208,-103.5088871,TRUE,FALSE,TRUE,"S275896367",4
+"24","canvas","Canvasback","Aythya valisineria","L3940256","Sands WPA--West Unit","2025-09-27 16:10",48.5393197,-109.7490031,TRUE,FALSE,FALSE,"S275912297",1
+"25","canvas","Canvasback","Aythya valisineria","L1219633","Crescent Lake NWR","2025-09-27 12:45",41.7609727,-102.4375534,TRUE,FALSE,FALSE,"S275895832",3
+"26","canvas","Canvasback","Aythya valisineria","L3462481","Yellowstone NP--Arnica Creek Picnic Area","2025-09-27 12:16",44.4730677,-110.5260766,TRUE,FALSE,FALSE,"S275912420",2
+"27","canvas","Canvasback","Aythya valisineria","L575270","Pablo (Reservoir) NWR","2025-09-27 11:36",47.6354366,-114.1597939,TRUE,FALSE,FALSE,"S275846477",6
+"28","canvas","Canvasback","Aythya valisineria","L247312","Freezout Lake WMA","2025-09-27 10:13",47.6657859,-112.0112392,TRUE,FALSE,FALSE,"S275854920",1
+"29","canvas","Canvasback","Aythya valisineria","L2377313","McLaughlin Eastshore SP--Albany access","2025-09-27 09:43",37.890326,-122.314765,TRUE,FALSE,FALSE,"S275848781",1
+"30","canvas","Canvasback","Aythya valisineria","L53334290","1865–1877 WY-130, Saratoga US-WY 41.47678, -106.79915","2025-09-27 09:40",41.476779,-106.799146,TRUE,FALSE,TRUE,"S275805930",1
+"31","canvas","Canvasback","Aythya valisineria","L447435","Hatfield Lake","2025-09-27 09:00",44.1232081,-121.198554,TRUE,FALSE,FALSE,"S275928293",1
+"32","canvas","Canvasback","Aythya valisineria","L1269264","Rock Creek Reservoir (Harney Co.)","2025-09-27 07:57",42.6849592,-119.3080902,TRUE,FALSE,FALSE,"S275881198",1
+"33","canvas","Canvasback","Aythya valisineria","L124349","Swan Lake Nature Study Area (IBA)","2025-09-27 07:30",39.6574142,-119.8457766,TRUE,FALSE,FALSE,"S275844978",10
+"34","canvas","Canvasback","Aythya valisineria","L3520718","Crosby--Carlson WPA","2025-09-26 15:27",48.8871732,-103.3066494,TRUE,FALSE,FALSE,"S275921257",14
+"35","canvas","Canvasback","Aythya valisineria","L299782","Burlington Lake (Goldeneye Reservoir)","2025-09-26 15:23",43.019333,-106.7073727,TRUE,FALSE,FALSE,"S275664813",2
+"36","canvas","Canvasback","Aythya valisineria","L383217","Page WTP","2025-09-26 14:28",36.9123624,-111.4862537,TRUE,FALSE,FALSE,"S275676343",1
+"37","canvas","Canvasback","Aythya valisineria","L1173410","Ducks Unlimited Warm Springs Ponds","2025-09-26 12:30",46.1809001,-112.8020382,TRUE,FALSE,FALSE,"S275807498",4
+"38","canvas","Canvasback","Aythya valisineria","L53292757","586–598 Tok Cutoff Hwy, Gakona US-AK 62.85141, -143.70455","2025-09-26 09:59",62.851414,-143.704546,TRUE,FALSE,TRUE,"S275608340",4
+"39","canvas","Canvasback","Aythya valisineria","L158883","Des Lacs NWR","2025-09-26 09:34",48.6691025,-102.0971815,TRUE,FALSE,FALSE,"S275672292",NA
+"40","canvas","Canvasback","Aythya valisineria","L158589","Lake Helena WMA","2025-09-26 09:00",46.701,-111.9584,TRUE,FALSE,FALSE,"S275626820",1
+"41","canvas","Canvasback","Aythya valisineria","L8162225","Silver Lake","2025-09-26 08:23",39.6431136,-119.9123849,TRUE,FALSE,FALSE,"S275612164",1
+"42","canvas","Canvasback","Aythya valisineria","L1312278","Arco Ponds","2025-09-26 07:57",46.1624744,-112.7791214,TRUE,FALSE,FALSE,"S275811512",94
+"43","canvas","Canvasback","Aythya valisineria","L12332761","Lake Ogallala Platte / Canal diversion","2025-09-26 07:45",41.2105607,-101.6343739,TRUE,FALSE,FALSE,"S275647603",5
+"44","canvas","Canvasback","Aythya valisineria","L1548108","Saratoga Lake and Storer Wetlands","2025-09-26 07:42",41.471583,-106.7899704,TRUE,FALSE,FALSE,"S275649148",7
+"45","canvas","Canvasback","Aythya valisineria","L19683786","Horsehead Lake","2025-09-26 07:20",47.0467571,-99.7853252,TRUE,FALSE,TRUE,"S275673608",2
+"46","canvas","Canvasback","Aythya valisineria","L140460","Big Johnson Reservoir & Bluestem Prairie Open Space","2025-09-25 18:08",38.7482319,-104.6943795,TRUE,FALSE,FALSE,"S275479836",3
+"47","canvas","Canvasback","Aythya valisineria","L989047","South Richmond Marshes (Stege, Hoffman) and Meeker Slough","2025-09-25 16:27",37.9090901,-122.3329122,TRUE,TRUE,FALSE,"S275479036",1
+"48","canvas","Canvasback","Aythya valisineria","L3100556","Alma WTP","2025-09-25 14:39",40.0750065,-99.3764448,TRUE,TRUE,FALSE,"S275445104",2
+"49","canvas","Canvasback","Aythya valisineria","L753439","Cowdrey Reservoir","2025-09-25 09:49",40.8376777,-106.3133454,TRUE,FALSE,FALSE,"S275415162",2
+"50","canvas","Canvasback","Aythya valisineria","L352554","Fargo--Sewage Settling Ponds","2025-09-25 08:57",46.9626441,-96.8402598,TRUE,FALSE,FALSE,"S275460507",2
+"51","canvas","Canvasback","Aythya valisineria","L247318","Benton Lake NWR","2025-09-25 08:39",47.6641904,-111.3007221,TRUE,FALSE,FALSE,"S275413708",48
+"52","canvas","Canvasback","Aythya valisineria","L157684","Milwaukee Coast Guard Impoundment","2025-09-24 17:44",43.0032,-87.8895,TRUE,TRUE,FALSE,"S275318007",1
+"53","canvas","Canvasback","Aythya valisineria","L14992518","Horsehead Lake - south part","2025-09-24 14:05",46.9958702,-99.7869659,TRUE,FALSE,TRUE,"S275590928",1
+"54","canvas","Canvasback","Aythya valisineria","L560859","Russell Lakes SWA","2025-09-24 11:11",37.9427084,-106.1422205,TRUE,FALSE,FALSE,"S275283614",4
+"55","canvas","Canvasback","Aythya valisineria","L598381","Chickahominy Reservoir","2025-09-24 11:08",43.5485481,-119.6205139,TRUE,FALSE,FALSE,"S275290909",6
+"56","canvas","Canvasback","Aythya valisineria","L152122","Palo Alto Baylands","2025-09-24 10:22",37.459167,-122.10445,TRUE,FALSE,FALSE,"S275274890",1
+"57","canvas","Canvasback","Aythya valisineria","L3572935","Swan Lake Nature Study Area (IBA)--Boardwalk","2025-09-24 08:56",39.6531916,-119.856496,TRUE,FALSE,FALSE,"S275277278",NA
+"58","canvas","Canvasback","Aythya valisineria","L53227663","Bird Refuge Closed Units, Perry, Utah, US (41.442, -112.071)","2025-09-24 08:12",41.442163,-112.0711332,TRUE,FALSE,TRUE,"S275292308",2
+"59","canvas","Canvasback","Aythya valisineria","L278706","Ute Lake SP--Main Boat Ramp & Campground","2025-09-24 07:14",35.3575914,-103.4514595,TRUE,TRUE,FALSE,"S275231905",2
+"60","canvas","Canvasback","Aythya valisineria","L27768884","North 7th West Pond","2025-09-23 18:45",43.8936018,-111.7557101,TRUE,FALSE,TRUE,"S275160164",1
+"61","canvas","Canvasback","Aythya valisineria","L4833445","Soda Lake (Sublette Co)","2025-09-23 17:49",42.9626097,-109.8457074,TRUE,FALSE,FALSE,"S275165595",1
+"62","canvas","Canvasback","Aythya valisineria","L9829695","Des Lacs NWR--Munch's Coulee","2025-09-23 16:46",48.614566,-102.013466,TRUE,FALSE,FALSE,"S275144961",NA
+"63","canvas","Canvasback","Aythya valisineria","L7040125","Black Earth Creek Natural Resource Area (Black Earth Creek Headwaters)","2025-09-23 14:05",43.0990503,-89.549617,TRUE,TRUE,FALSE,"S275120324",1
+"64","canvas","Canvasback","Aythya valisineria","L247316","Ninepipe NWR","2025-09-23 13:57",47.4379957,-114.1184238,TRUE,FALSE,FALSE,"S275308516",10
+"65","canvas","Canvasback","Aythya valisineria","L271593","Flat Creek Wildlife Observation Point and Marshes","2025-09-23 11:01",43.4908574,-110.7611319,TRUE,FALSE,FALSE,"S275100632",1
+"66","canvas","Canvasback","Aythya valisineria","L41398482","Zia Reservoir","2025-09-23 09:28",35.5286156,-106.7578337,TRUE,TRUE,FALSE,"S275102436",2
+"67","canvas","Canvasback","Aythya valisineria","L1298375","Split Pond (Reed's Slough)","2025-09-23 09:08",48.1267418,-114.2015076,TRUE,FALSE,FALSE,"S275090358",6
+"68","canvas","Canvasback","Aythya valisineria","L599008","San Luis Reservoir SRA--Medeiros area","2025-09-23 08:59",37.062,-121.03,TRUE,FALSE,FALSE,"S275139344",1
+"69","canvas","Canvasback","Aythya valisineria","L26368804","Starkweather Park","2025-09-23 07:50",37.965658,-122.493565,TRUE,FALSE,TRUE,"S275077958",1
+"70","canvas","Canvasback","Aythya valisineria","L279404","Las Vegas NWR","2025-09-22 12:00",35.548848,-105.1583862,TRUE,FALSE,FALSE,"S274939328",1
+"71","canvas","Canvasback","Aythya valisineria","L3633166","Fontenelle Recreation Area and causeway","2025-09-22 11:01",42.0803559,-110.1578522,TRUE,FALSE,FALSE,"S274980339",1
+"72","canvas","Canvasback","Aythya valisineria","L210723","Salt Lake","2025-09-22 09:03",44.9645052,-96.4437363,TRUE,FALSE,FALSE,"S274902660",2
+"73","canvas","Canvasback","Aythya valisineria","L352958","Fish Springs NWR","2025-09-22 08:02",39.865343,-113.3936175,TRUE,FALSE,FALSE,"S276314242",2
+"74","canvas","Canvasback","Aythya valisineria","L8644413","Merkel WTP","2025-09-21 16:10",32.4838792,-99.9983837,TRUE,TRUE,FALSE,"S274786909",1
+"75","canvas","Canvasback","Aythya valisineria","L14074261","AZ, Page, WTP","2025-09-21 16:04",36.9118911,-111.4874881,TRUE,FALSE,TRUE,"S275149815",2
+"76","canvas","Canvasback","Aythya valisineria","L21386901","Big Johnson Reservoir","2025-09-21 15:57",38.746917,-104.697154,TRUE,FALSE,TRUE,"S274787395",3
+"77","canvas","Canvasback","Aythya valisineria","L492304","Campau Rd. & Pte. Mouillee Headquarters (Wayne County)","2025-09-21 13:48",42.0435503,-83.2002901,TRUE,FALSE,FALSE,"S274743837",1
+"78","canvas","Canvasback","Aythya valisineria","L53115327","18109–18599 560th Ave, Wells US-MN 43.75119, -93.74831","2025-09-21 12:22",43.751189,-93.748313,TRUE,FALSE,TRUE,"S274734832",2
+"79","canvas","Canvasback","Aythya valisineria","L53133021","Lifton Road S, Montpelier","2025-09-21 12:17",42.1939163,-111.2681732,TRUE,FALSE,TRUE,"S274816179",1
+"80","canvas","Canvasback","Aythya valisineria","L1788998","Wells WTP","2025-09-21 12:13",43.7470443,-93.7524643,TRUE,FALSE,FALSE,"S274742192",4
+"81","canvas","Canvasback","Aythya valisineria","L211505","Red Rock Lakes NWR--Upper","2025-09-21 11:13",44.591557,-111.7328195,TRUE,FALSE,FALSE,"S274991032",1
+"82","canvas","Canvasback","Aythya valisineria","L2161814","South Park Wildlife Habitat Management Area","2025-09-21 09:07",43.3965039,-110.7767773,TRUE,FALSE,FALSE,"S274728554",1
+"83","canvas","Canvasback","Aythya valisineria","L726441","LaBonte Park (Laramie)","2025-09-21 08:51",41.3210095,-105.5868959,TRUE,FALSE,FALSE,"S274709030",2
+"84","canvas","Canvasback","Aythya valisineria","L2340843","Imperial NWR--Mesquite Point","2025-09-21 07:59",33.0169494,-114.4983745,TRUE,TRUE,FALSE,"S274719228",1
+"85","canvas","Canvasback","Aythya valisineria","L53114423","Baylands Nature Preserve, Palo Alto US-CA (37.4460,-122.0974)","2025-09-21 07:50",37.446008,-122.097438,TRUE,FALSE,TRUE,"S274730982",1
+"86","canvas","Canvasback","Aythya valisineria","L473873","Plaster Reservoir","2025-09-21 06:59",39.947253,-105.0286102,TRUE,FALSE,FALSE,"S274685836",2
+"87","canvas","Canvasback","Aythya valisineria","L19979955","Freezeout Lake WMA--""The Thumb"" and 4th Ln NW","2025-09-20 17:50",47.6499629,-112.0162926,TRUE,FALSE,FALSE,"S274566485",17
+"88","canvas","Canvasback","Aythya valisineria","L2182908","North Ottawa Impoundment","2025-09-20 12:10",45.9856315,-96.2471008,TRUE,FALSE,FALSE,"S274558663",1
+"89","canvas","Canvasback","Aythya valisineria","L518546","Malheur NWR--Narrows","2025-09-20 11:30",43.2873151,-118.9591885,TRUE,FALSE,FALSE,"S275133048",1
+"90","canvas","Canvasback","Aythya valisineria","L756102","Crescent Lake","2025-09-20 10:58",33.9086052,-109.4197083,TRUE,FALSE,FALSE,"S274571107",1
+"91","canvas","Canvasback","Aythya valisineria","L50104403","Highway 37 Marshes","2025-09-20 10:36",38.141958,-122.364256,TRUE,FALSE,TRUE,"S274496719",1
+"92","canvas","Canvasback","Aythya valisineria","L19979477","Freezout Lake WMA--auto tour route","2025-09-20 10:10",47.6753607,-112.0419934,TRUE,FALSE,FALSE,"S276010238",NA
+"93","canvas","Canvasback","Aythya valisineria","L15058141","Eagle Nest","2025-09-20 10:09",46.1601353,-112.7635017,TRUE,FALSE,TRUE,"S274529770",NA
+"94","canvas","Canvasback","Aythya valisineria","L484226","McNary NWR--Casey Pond","2025-09-20 10:01",46.1618205,-118.9552402,TRUE,FALSE,FALSE,"S274497538",2
+"95","canvas","Canvasback","Aythya valisineria","L1540966","Quartz Lake SRA","2025-09-20 09:10",64.1985267,-145.8261771,TRUE,FALSE,FALSE,"S274573629",1
+"96","canvas","Canvasback","Aythya valisineria","L53069936","South Valley Road, Lima, Montana, US (44.592, -111.711)","2025-09-20 08:31",44.5917716,-111.710859,TRUE,FALSE,TRUE,"S274521330",8
+"97","canvas","Canvasback","Aythya valisineria","L2838788","Bryan-Mohler WPA","2025-09-20 07:40",46.7943462,-100.6259327,TRUE,FALSE,FALSE,"S274421060",2

@@ -1,2 +1,4 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","rotbec","Rose-throated Becard","Pachyramphus aglaiae","L129086","Santa Margarita Ranch (LTC 079) (restricted access - guided groups only)","2025-09-24 05:21",2,26.4856177,-99.0912337,TRUE,TRUE,FALSE,"S275329949"
+"1","mancuc","Mangrove Cuckoo","Coccyzus minor","L12438289","Wildlife Dr, Sanibel US-FL 26.47076, -82.15235","2025-09-28 09:15",1,26.470757,-82.152348,TRUE,FALSE,TRUE,"S276062962"
+"2","mancuc","Mangrove Cuckoo","Coccyzus minor","L13014936","Wildlife Dr, Sanibel US-FL 26.44551, -82.11343","2025-09-22 10:38",2,26.445514,-82.113432,TRUE,FALSE,TRUE,"S274913298"
+"3","mancuc","Mangrove Cuckoo","Coccyzus minor","L823147","J. N. Ding Darling NWR--Wildlife Drive","2025-09-20 07:36",1,26.4540529,-82.1155071,TRUE,FALSE,FALSE,"S274724359"
