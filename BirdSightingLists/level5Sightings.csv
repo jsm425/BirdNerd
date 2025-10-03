@@ -1,6 +1,2 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","blkswi","Black Swift","Cypseloides niger","L5219326","Anza Trail--Tubac kiosk area","2025-09-27 06:15",1,31.6047365,-111.0429811,TRUE,TRUE,FALSE,"S275844218"
-"2","blkswi","Black Swift","Cypseloides niger","L224081","Hawk Hill","2025-09-26 10:00",6,37.8281456,-122.4991411,TRUE,FALSE,FALSE,"S275670955"
-"3","blkswi","Black Swift","Cypseloides niger","L24545639","**Wenatchee Yard—Montana St.","2025-09-25 11:26",1,47.413802,-120.32551,TRUE,FALSE,TRUE,"S275476948"
-"4","blkswi","Black Swift","Cypseloides niger","L6547514","Wylie Slough","2025-09-25 10:54",1,48.325172,-122.377849,TRUE,TRUE,TRUE,"S275464486"
-"5","blkswi","Black Swift","Cypseloides niger","L8436207","South Eugene Meadows","2025-09-22 16:36",1,44.0052267,-123.1245746,TRUE,TRUE,FALSE,"S274983571"
+"1","akepa1","Hawaii Akepa","Loxops coccineus","L695639","Hakalau Forest NWR--Pua Akala Tract (restricted access)","2025-09-27 08:11",4,19.7895,-155.3262,TRUE,TRUE,FALSE,"S275918991"
