@@ -1,2 +1,2 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","x00774","Northern Cardinal x Pyrrhuloxia (hybrid)","Cardinalis cardinalis x sinuatus","L2427011","Chiricahua Mtns.--Whitetail Canyon","2025-10-02 08:02",1,31.9994008,-109.2720124,TRUE,TRUE,TRUE,"S276884426"
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
+"1","yeclov","Yellow-collared Lovebird","Agapornis personatus","L9227134","2140 E. Ruellia Dr., Oro Valley, AZ 85755","2025-10-02 11:54",1,32.4651329,-110.9406059,TRUE,TRUE,TRUE,"S276883778","X"
