@@ -1,2 +1,3 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
-"1","yeclov","Yellow-collared Lovebird","Agapornis personatus","L9227134","2140 E. Ruellia Dr., Oro Valley, AZ 85755","2025-10-02 11:54",1,32.4651329,-110.9406059,TRUE,TRUE,TRUE,"S276883778","X"
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
+"1","x00421","Eurasian x American Wigeon (hybrid)","Mareca penelope x americana","L251458","Homer Spit--Mud Bay","2025-10-04 15:12",1,59.635823,-151.4965296,TRUE,FALSE,FALSE,"S277302984"
+"2","x00421","Eurasian x American Wigeon (hybrid)","Mareca penelope x americana","L1868261","Columbia Slough--Elrod Dr. Access","2025-10-01 13:21",1,45.5835901,-122.6481056,TRUE,FALSE,FALSE,"S276717369"
