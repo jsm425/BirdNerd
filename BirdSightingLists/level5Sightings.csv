@@ -1,3 +1,4 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","x00421","Eurasian x American Wigeon (hybrid)","Mareca penelope x americana","L251458","Homer Spit--Mud Bay","2025-10-04 15:12",1,59.635823,-151.4965296,TRUE,FALSE,FALSE,"S277302984"
-"2","x00421","Eurasian x American Wigeon (hybrid)","Mareca penelope x americana","L1868261","Columbia Slough--Elrod Dr. Access","2025-10-01 13:21",1,45.5835901,-122.6481056,TRUE,FALSE,FALSE,"S276717369"
+"1","brewar","Brewster's Warbler (hybrid)","Vermivora chrysoptera x cyanoptera (F1 hybrid)","L2785672","Larry Taylor Kiwanis Park","2025-10-03 17:21",1,26.9844122,-82.1331961,TRUE,TRUE,FALSE,"S277095201"
+"2","brewar","Brewster's Warbler (hybrid)","Vermivora chrysoptera x cyanoptera (F1 hybrid)","L6436338","Chapman Mountain Nature Preserve","2025-10-03 06:46",1,34.7743418,-86.5494515,TRUE,TRUE,FALSE,"S277029359"
+"3","brewar","Brewster's Warbler (hybrid)","Vermivora chrysoptera x cyanoptera (F1 hybrid)","L679395","Six Mile Creek Greenway","2025-09-30 09:21",1,35.0111936,-80.829742,TRUE,TRUE,FALSE,"S276487213"
