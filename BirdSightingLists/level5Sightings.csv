@@ -1,5 +1,2 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","veggul1","Vega Gull","Larus vegae","L464529","Cape Nome","2025-10-06 09:49",2,64.4353696,-165.0103838,TRUE,FALSE,FALSE,"S277884007"
-"2","veggul1","Vega Gull","Larus vegae","L33511474","Nome Airport","2025-10-05 14:40",2,64.507399,-165.441657,TRUE,FALSE,FALSE,"S277544163"
-"3","veggul1","Vega Gull","Larus vegae","L246497","Gambell (general area)","2025-10-05 09:51",3,63.7793007,-171.7214584,TRUE,FALSE,FALSE,"S277521477"
-"4","veggul1","Vega Gull","Larus vegae","L4049988","Cape Nome","2025-10-03 09:58",2,64.4353828,-165.0113225,TRUE,FALSE,TRUE,"S277086199"
+"1","x00626","Anna's x Rufous Hummingbird (hybrid)","Calypte anna x Selasphorus rufus","L4790127","Olds Creek Bird Sanctuary","2025-09-30 12:14",1,30.6211468,-103.9823824,TRUE,TRUE,TRUE,"S276573607"
