@@ -1,5 +1,2 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
-"1","jabwar","Japanese Bush Warbler","Horornis diphone","L53621086","75-5961 Ali‘i Drive, Kailua-Kona, Hawaii, US (19.625, -155.984)","2025-10-05 16:16",1,19.6247998,-155.9843618,TRUE,FALSE,TRUE,"S277558148","N"
-"2","jabwar","Japanese Bush Warbler","Horornis diphone","L253053","ʻAiea Loop Trail and Keaīwa Heiau SP","2025-10-03 09:17",1,21.3988172,-157.9000568,TRUE,FALSE,FALSE,"S277059784","N"
-"3","jabwar","Japanese Bush Warbler","Horornis diphone","L695639","Hakalau Forest NWR--Pua Akala Tract (restricted access)","2025-10-03 08:55",1,19.7895,-155.3262,TRUE,FALSE,FALSE,"S277294325","N"
-"4","jabwar","Japanese Bush Warbler","Horornis diphone","L53489712","Pahole","2025-09-30 09:26",1,21.5475409,-158.1854439,TRUE,FALSE,TRUE,"S276592432","N"
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
+"1","tufduc","Tufted Duck","Aythya fuligula","L268250","Adak Island","2025-10-01 08:24",1,51.8941856,-176.6443634,TRUE,FALSE,FALSE,"S276751672"
