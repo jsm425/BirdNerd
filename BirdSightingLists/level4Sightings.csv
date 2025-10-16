@@ -1,88 +1,33 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","plsvir","Plumbeous Vireo","Vireo plumbeus","L281844","Montosa Canyon--km 1 (culvert area)","2025-10-14 09:26",1,31.6714585,-110.941082,TRUE,FALSE,FALSE,"S279372915"
-"2","plsvir","Plumbeous Vireo","Vireo plumbeus","L361612","Guadalupe Mts. NP--Dog Canyon (FWTX 18)","2025-10-14 08:02",1,31.992076,-104.835375,TRUE,FALSE,FALSE,"S279408516"
-"3","plsvir","Plumbeous Vireo","Vireo plumbeus","L720787","Florida Canyon--lower","2025-10-14 07:10",1,31.7633436,-110.8458804,TRUE,FALSE,FALSE,"S279365447"
-"4","plsvir","Plumbeous Vireo","Vireo plumbeus","L39251909","Himmel Park, Tucson US-AZ 32.23356, -110.93492","2025-10-14 06:58",1,32.233561,-110.934924,TRUE,FALSE,TRUE,"S279403524"
-"5","plsvir","Plumbeous Vireo","Vireo plumbeus","L22091545","Anthem—Southeast Parkside","2025-10-14 06:45",1,33.847651,-112.103797,TRUE,FALSE,TRUE,"S279345381"
-"6","plsvir","Plumbeous Vireo","Vireo plumbeus","L37828087","Pepperwood Park, Irvine","2025-10-13 14:50",1,33.7064712,-117.76642,TRUE,TRUE,FALSE,"S279260564"
-"7","plsvir","Plumbeous Vireo","Vireo plumbeus","L25770698","13200 Resadince","2025-10-13 11:22",1,35.1053805,-106.492393,TRUE,TRUE,TRUE,"S279201485"
-"8","plsvir","Plumbeous Vireo","Vireo plumbeus","L53977090","2310 A New Mexico 1, Socorro, New Mexico, US (33.988, -106.886)","2025-10-13 09:28",1,33.9881001,-106.8859856,TRUE,TRUE,TRUE,"S279179299"
-"9","plsvir","Plumbeous Vireo","Vireo plumbeus","L6697010","Luis Lopez Yard (33.988, -106.885)","2025-10-13 09:25",1,33.9878886,-106.8851735,TRUE,TRUE,TRUE,"S279160081"
-"10","plsvir","Plumbeous Vireo","Vireo plumbeus","L50208250","1206 E Lester St, Tucson US-AZ","2025-10-13 09:15",1,32.243331,-110.953214,TRUE,FALSE,TRUE,"S279168372"
-"11","plsvir","Plumbeous Vireo","Vireo plumbeus","L367646","Banning Park","2025-10-12 11:34",1,33.7899459,-118.2588422,TRUE,FALSE,FALSE,"S279020101"
-"12","plsvir","Plumbeous Vireo","Vireo plumbeus","L128955","Memorial Park (FWTX 9), El Paso","2025-10-12 09:40",1,31.7894117,-106.4571601,TRUE,FALSE,FALSE,"S278953494"
-"13","plsvir","Plumbeous Vireo","Vireo plumbeus","L1119772","Ohkay Owingeh Fishing Lakes","2025-10-12 09:10",1,36.0239739,-106.074028,TRUE,TRUE,FALSE,"S278971432"
-"14","plsvir","Plumbeous Vireo","Vireo plumbeus","L1289621","Liberty Station--NTC Park","2025-10-12 09:00",1,32.7361368,-117.2114825,TRUE,TRUE,FALSE,"S278993062"
-"15","plsvir","Plumbeous Vireo","Vireo plumbeus","L765027","Las Cienegas NCA--Empire Gulch","2025-10-12 08:48",1,31.7878465,-110.6365728,TRUE,FALSE,FALSE,"S278967381"
-"16","plsvir","Plumbeous Vireo","Vireo plumbeus","L650632","West LA College","2025-10-12 08:42",1,34.0022967,-118.3905602,TRUE,FALSE,FALSE,"S278958773"
-"17","plsvir","Plumbeous Vireo","Vireo plumbeus","L3980928","Tellbrook Park","2025-10-12 08:35",1,32.2602256,-106.7233005,TRUE,TRUE,FALSE,"S278927979"
-"18","plsvir","Plumbeous Vireo","Vireo plumbeus","L1357335","Huntington Central Park--East","2025-10-12 07:40",1,33.7040978,-118.0022383,TRUE,TRUE,FALSE,"S278976786"
-"19","plsvir","Plumbeous Vireo","Vireo plumbeus","L169112","Hassayampa River Preserve","2025-10-12 07:28",1,33.9333419,-112.6946297,TRUE,FALSE,FALSE,"S279043945"
-"20","plsvir","Plumbeous Vireo","Vireo plumbeus","L987246","Silver Creek at Portal-Paradise Rd","2025-10-11 10:49",1,31.9326531,-109.1857933,TRUE,FALSE,FALSE,"S278960297"
-"21","plsvir","Plumbeous Vireo","Vireo plumbeus","L53544764","Pacific Heights tipus","2025-10-11 09:40",1,32.9000962,-117.1929625,TRUE,TRUE,FALSE,"S278665486"
-"22","plsvir","Plumbeous Vireo","Vireo plumbeus","L3347000","Villa La Jolla Park","2025-10-11 08:44",1,32.8572456,-117.23441,TRUE,TRUE,FALSE,"S278688086"
-"23","plsvir","Plumbeous Vireo","Vireo plumbeus","L3824246","Cochise College (Sierra Vista Campus)","2025-10-11 08:09",1,31.5640289,-110.2463329,TRUE,FALSE,FALSE,"S278678470"
-"24","plsvir","Plumbeous Vireo","Vireo plumbeus","L300594","Prescott--Granite Dells","2025-10-11 08:08",1,34.6033333,-112.4166667,TRUE,FALSE,FALSE,"S278604927"
-"25","plsvir","Plumbeous Vireo","Vireo plumbeus","L3496036","Mt. Hope Cemetery","2025-10-11 07:58",1,32.7087755,-117.1130747,TRUE,TRUE,FALSE,"S278682609"
-"26","plsvir","Plumbeous Vireo","Vireo plumbeus","L352346","Santa Gertrudis Lane (foot access only)","2025-10-11 07:48",1,31.5620883,-111.0473766,TRUE,FALSE,FALSE,"S278663608"
-"27","plsvir","Plumbeous Vireo","Vireo plumbeus","L192625","Santee Lakes","2025-10-11 07:23",1,32.8570948,-117.0071411,TRUE,TRUE,FALSE,"S278650759"
-"28","plsvir","Plumbeous Vireo","Vireo plumbeus","L2345696","Vina Vieja, Gwinn and Sunnyslope Parks","2025-10-11 07:05",1,34.1579842,-118.0874081,TRUE,FALSE,FALSE,"S278702002"
-"29","plsvir","Plumbeous Vireo","Vireo plumbeus","L3356908","Home (Sierra Madre)","2025-10-11 07:02",1,34.1614691,-118.0407223,TRUE,FALSE,TRUE,"S278593963"
-"30","plsvir","Plumbeous Vireo","Vireo plumbeus","L4234394","Claremont Village--Area","2025-10-10 11:06",1,34.0956539,-117.7186239,TRUE,FALSE,FALSE,"S278375597"
-"31","plsvir","Plumbeous Vireo","Vireo plumbeus","L40587134","Kearny Mesa residential/office","2025-10-10 09:45",1,32.8261,-117.1436,TRUE,TRUE,TRUE,"S278391042"
-"32","plsvir","Plumbeous Vireo","Vireo plumbeus","L6303208","Primm Forest Preserve","2025-10-10 08:35",1,35.6120577,-115.3844798,TRUE,FALSE,FALSE,"S278447068"
-"33","plsvir","Plumbeous Vireo","Vireo plumbeus","L234314","Anza Trail--Tubac","2025-10-10 07:48",2,31.6128313,-111.040829,TRUE,FALSE,FALSE,"S278398652"
-"34","plsvir","Plumbeous Vireo","Vireo plumbeus","L16728522","Carmel Valley Community Park","2025-10-10 07:47",1,32.948117,-117.234115,TRUE,TRUE,FALSE,"S278362802"
-"35","plsvir","Plumbeous Vireo","Vireo plumbeus","L589332","Jewel of the Creek Preserve","2025-10-10 06:49",1,33.8839627,-111.9550375,TRUE,FALSE,FALSE,"S278369478"
-"36","plsvir","Plumbeous Vireo","Vireo plumbeus","L1070018","Rock Corral Canyon","2025-10-10 06:48",1,31.547472,-111.0989535,TRUE,FALSE,FALSE,"S278430922"
-"37","plsvir","Plumbeous Vireo","Vireo plumbeus","L208287","Elena Gallegos Open Space","2025-10-09 10:12",1,35.1618103,-106.4737415,TRUE,TRUE,FALSE,"S278190584"
-"38","plsvir","Plumbeous Vireo","Vireo plumbeus","L1873547","Camp Creek","2025-10-09 07:09",1,33.9100521,-111.8163773,TRUE,FALSE,FALSE,"S278217433"
-"39","plsvir","Plumbeous Vireo","Vireo plumbeus","L487899","Bear Creek Lake Park","2025-10-08 16:45",1,39.6495504,-105.1536655,TRUE,TRUE,FALSE,"S278721538"
-"40","plsvir","Plumbeous Vireo","Vireo plumbeus","L3380924","AZ-Cochise-Portal--2494 S. Old Canyon Rd. (private)","2025-10-08 12:30",1,31.9063055,-109.1534289,TRUE,FALSE,TRUE,"S278079478"
-"41","plsvir","Plumbeous Vireo","Vireo plumbeus","L270303","Watson Lake and Riparian Preserve","2025-10-08 09:39",1,34.5822319,-112.4259328,TRUE,FALSE,FALSE,"S278047949"
-"42","plsvir","Plumbeous Vireo","Vireo plumbeus","L6754402","Don Knabe Community Regional Park","2025-10-08 09:25",1,33.8501738,-118.0605412,TRUE,FALSE,FALSE,"S278041901"
-"43","plsvir","Plumbeous Vireo","Vireo plumbeus","L625648","North Lake, Irvine","2025-10-08 09:10",1,33.6810683,-117.795496,TRUE,TRUE,FALSE,"S278022280"
-"44","plsvir","Plumbeous Vireo","Vireo plumbeus","L296633","Madera Canyon--Mt. Wrightson Picnic Area & Upper Canyon Trails","2025-10-08 08:00",1,31.7124,-110.8744,TRUE,FALSE,FALSE,"S278043444"
-"45","plsvir","Plumbeous Vireo","Vireo plumbeus","L2413068","Madera Canyon--Carrie Nation Trail","2025-10-08 07:23",1,31.704511,-110.8764482,TRUE,FALSE,FALSE,"S278052437"
-"46","plsvir","Plumbeous Vireo","Vireo plumbeus","L4003980","Faranuf Trail (private), Portal","2025-10-08 07:00",1,31.9143939,-109.1290587,TRUE,FALSE,TRUE,"S278044495"
-"47","plsvir","Plumbeous Vireo","Vireo plumbeus","L168704","Randall Davey Audubon Center","2025-10-07 15:08",1,35.6901148,-105.8881831,TRUE,FALSE,FALSE,"S277913518"
-"48","plsvir","Plumbeous Vireo","Vireo plumbeus","L9904577","Ladybug Saddle","2025-10-07 14:27",1,32.622568,-109.823525,TRUE,FALSE,FALSE,"S277884307"
-"49","plsvir","Plumbeous Vireo","Vireo plumbeus","L797549","Neff Park","2025-10-07 13:17",1,33.8980019,-118.0259809,TRUE,FALSE,FALSE,"S277878510"
-"50","plsvir","Plumbeous Vireo","Vireo plumbeus","L7915074","Lemon Grove Park","2025-10-07 12:51",1,32.7300911,-117.0232058,TRUE,TRUE,FALSE,"S277911717"
-"51","plsvir","Plumbeous Vireo","Vireo plumbeus","L53407753","Serra Mesa residential","2025-10-07 11:00",1,32.8038501,-117.1256865,TRUE,TRUE,TRUE,"S277866687"
-"52","plsvir","Plumbeous Vireo","Vireo plumbeus","L53606660","Pacific Heights Tipus","2025-10-07 09:37",1,32.900092,-117.19323,TRUE,TRUE,TRUE,"S277852103"
-"53","plsvir","Plumbeous Vireo","Vireo plumbeus","L268757","Chatfield SP (Jefferson Co)","2025-10-07 09:24",1,39.5492247,-105.0757527,TRUE,FALSE,FALSE,"S278550148"
-"54","plsvir","Plumbeous Vireo","Vireo plumbeus","L4540580","Steam Pump Ranch","2025-10-07 08:48",2,32.4050156,-110.9499085,TRUE,FALSE,FALSE,"S277864719"
-"55","plsvir","Plumbeous Vireo","Vireo plumbeus","L33594748","Watson Woods, Prescott US-AZ 34.57612, -112.43003","2025-10-07 07:47",1,34.576117,-112.430028,TRUE,FALSE,TRUE,"S277895181"
-"56","plsvir","Plumbeous Vireo","Vireo plumbeus","L7698893","Rancho Santa Cruz","2025-10-07 07:19",1,31.5437758,-111.0414027,TRUE,FALSE,FALSE,"S277841209"
-"57","plsvir","Plumbeous Vireo","Vireo plumbeus","L200055","Cibola NF--Water Canyon","2025-10-07 07:15",3,34.0231527,-107.1310644,TRUE,FALSE,FALSE,"S277888369"
-"58","plsvir","Plumbeous Vireo","Vireo plumbeus","L10786942","Williamson/Wood home - Mill Rd.","2025-10-07 07:07",1,31.4095525,-109.8806739,TRUE,FALSE,TRUE,"S277838746"
-"59","plsvir","Plumbeous Vireo","Vireo plumbeus","L17398895","Ramsey Canyon Cabins & Bird Sanctuary (opened 2022)","2025-10-07 07:07",1,31.4520341,-110.3030107,TRUE,FALSE,FALSE,"S277832299"
-"60","plsvir","Plumbeous Vireo","Vireo plumbeus","L129077","San Bernardino NWR","2025-10-07 06:00",1,31.3558004,-109.261533,TRUE,FALSE,FALSE,"S278083768"
-"61","plsvir","Plumbeous Vireo","Vireo plumbeus","L1400591","Rio Vista Natural Resource Park","2025-10-06 17:18",1,32.2800719,-110.9326502,TRUE,FALSE,FALSE,"S277835442"
-"62","plsvir","Plumbeous Vireo","Vireo plumbeus","L417752","Schabarum Regional Park","2025-10-06 15:10",1,33.983652,-117.9282117,TRUE,FALSE,FALSE,"S277976434"
-"63","plsvir","Plumbeous Vireo","Vireo plumbeus","L798588","Chatfield SP--Audubon Center & Trails","2025-10-06 14:38",1,39.4934273,-105.0918996,TRUE,FALSE,FALSE,"S277725287"
-"64","plsvir","Plumbeous Vireo","Vireo plumbeus","L798992","Reseda Park","2025-10-06 12:17",1,34.1888728,-118.5359573,TRUE,FALSE,FALSE,"S277700891"
-"65","plsvir","Plumbeous Vireo","Vireo plumbeus","L6429857","Coffinger Park","2025-10-06 10:26",1,33.972661,-112.731559,TRUE,FALSE,FALSE,"S277686300"
-"66","plsvir","Plumbeous Vireo","Vireo plumbeus","L4626333","Hollow Park","2025-10-06 10:10",1,40.029849,-111.7257643,TRUE,TRUE,FALSE,"S277691319"
-"67","plsvir","Plumbeous Vireo","Vireo plumbeus","L152140","Hopkins Wilderness Park","2025-10-06 10:00",1,33.8298649,-118.3742416,TRUE,TRUE,FALSE,"S277694005"
-"68","plsvir","Plumbeous Vireo","Vireo plumbeus","L762169","Himmel Park","2025-10-06 09:43",1,32.2334226,-110.9327316,TRUE,FALSE,FALSE,"S278405572"
-"69","plsvir","Plumbeous Vireo","Vireo plumbeus","L211809","Madera Canyon--Proctor Rd.","2025-10-06 08:45",2,31.739938,-110.886147,TRUE,FALSE,FALSE,"S277742501"
-"70","plsvir","Plumbeous Vireo","Vireo plumbeus","L5885483","Mt. Lemmon--Bear Canyon pulloffs 1-3","2025-10-06 08:20",1,32.3627808,-110.7126188,TRUE,FALSE,TRUE,"S277714216"
-"71","plsvir","Plumbeous Vireo","Vireo plumbeus","L505270","Anza Trail--Tumacacori","2025-10-06 07:20",1,31.5694771,-111.0472888,TRUE,FALSE,FALSE,"S277683906"
-"72","plsvir","Plumbeous Vireo","Vireo plumbeus","L2064166","Patagonia Lake SP--Birding Trail","2025-10-06 06:30",2,31.496718,-110.848945,TRUE,FALSE,FALSE,"S277693692"
-"73","plsvir","Plumbeous Vireo","Vireo plumbeus","L3968561","Liberty Station--Woodworth Way","2025-10-05 14:20",1,32.741371,-117.2133708,TRUE,TRUE,FALSE,"S277522607"
-"74","plsvir","Plumbeous Vireo","Vireo plumbeus","L168559","Provo Airport Dike","2025-10-05 09:38",1,40.2301635,-111.7349959,TRUE,TRUE,FALSE,"S277473027"
-"75","plsvir","Plumbeous Vireo","Vireo plumbeus","L53675231","60 Harshaw Creek Road, Patagonia, Arizona, US (31.519, -110.696)","2025-10-05 08:42",NA,31.5186994,-110.6960601,TRUE,FALSE,TRUE,"S277519908"
-"76","plsvir","Plumbeous Vireo","Vireo plumbeus","L3053989","Barstow Community College","2025-10-05 08:09",1,34.8708978,-117.0235991,TRUE,TRUE,FALSE,"S277469673"
-"77","plsvir","Plumbeous Vireo","Vireo plumbeus","L20930290","Katfish Kove","2025-10-05 08:08",1,32.5508113,-107.9220466,TRUE,FALSE,FALSE,"S277445646"
-"78","plsvir","Plumbeous Vireo","Vireo plumbeus","L2113295","Doris J. Thompson (was: Mansfield) Park","2025-10-05 08:07",1,32.2480145,-110.9677505,TRUE,FALSE,FALSE,"S277446768"
-"79","plsvir","Plumbeous Vireo","Vireo plumbeus","L283255","Utah Lake SP","2025-10-05 08:00",1,40.2367208,-111.7394114,TRUE,TRUE,FALSE,"S277450084"
-"80","plsvir","Plumbeous Vireo","Vireo plumbeus","L53681835","Verde River—Ft. McDowell Reservation (restricted access)","2025-10-05 07:46",1,33.609986,-111.676109,TRUE,FALSE,TRUE,"S277550469"
-"81","plsvir","Plumbeous Vireo","Vireo plumbeus","L17947181","McGee Ranch Road","2025-10-05 07:45",1,31.8940845,-111.1783108,TRUE,FALSE,TRUE,"S277489312"
-"82","plsvir","Plumbeous Vireo","Vireo plumbeus","L450816","Pasture Canyon","2025-10-05 07:44",2,36.1281698,-111.2120247,TRUE,FALSE,FALSE,"S277473170"
-"83","plsvir","Plumbeous Vireo","Vireo plumbeus","L48727112","Home","2025-10-05 07:37",1,35.12371,-106.359836,TRUE,FALSE,TRUE,"S277448658"
-"84","plsvir","Plumbeous Vireo","Vireo plumbeus","L14661266","Marose Yard","2025-10-05 07:24",1,32.2671688,-110.9311138,TRUE,FALSE,TRUE,"S277424714"
-"85","plsvir","Plumbeous Vireo","Vireo plumbeus","L4605897","Saguaro Lake Ranch (restricted access)","2025-10-05 07:17",2,33.5613037,-111.53579,TRUE,FALSE,TRUE,"S277478314"
-"86","plsvir","Plumbeous Vireo","Vireo plumbeus","L53671479","Ft. McDowell Yavapai Nation--Verde River West (Restricted Access)","2025-10-05 06:56",1,33.6087274,-111.6800606,TRUE,FALSE,TRUE,"S277504557"
-"87","plsvir","Plumbeous Vireo","Vireo plumbeus","L37366829","State Trust Land at E Canada Dr","2025-10-05 06:14",2,31.489121,-110.215258,TRUE,FALSE,TRUE,"S277519291"
+"","speciesCode","comName","sciName","locId","locName","obsDt","lat","lng","obsValid","obsReviewed","locationPrivate","subId","howMany"
+"1","refboo","Red-footed Booby","Sula sula","L8027824","Kīlauea Point NWR--Overlook (always open)","2025-10-15 09:18",22.2277391,-159.4012624,TRUE,FALSE,FALSE,"S279585197",NA
+"2","refboo","Red-footed Booby","Sula sula","L3024153","Ke'anae Peninsula","2025-10-14 10:49",20.8631428,-156.1441326,TRUE,FALSE,FALSE,"S279456061",3
+"3","refboo","Red-footed Booby","Sula sula","L778983","Molokini Islet","2025-10-14 08:38",20.6337482,-156.4961243,TRUE,FALSE,FALSE,"S279380182",3
+"4","refboo","Red-footed Booby","Sula sula","L7291453","Green Island, Kure Atoll (restricted access)","2025-10-13 17:46",28.392533,-178.2939005,TRUE,FALSE,FALSE,"S279263295",90
+"5","refboo","Red-footed Booby","Sula sula","L875376","Turtle Bay Resort, 'O'ahu","2025-10-13 14:58",21.7051636,-157.9987192,TRUE,FALSE,FALSE,"S279257621",1
+"6","refboo","Red-footed Booby","Sula sula","L9648770","Kahili Beach Preserve (Rock Quarry)","2025-10-13 11:48",22.2180049,-159.3853334,TRUE,FALSE,FALSE,"S279251778",18
+"7","refboo","Red-footed Booby","Sula sula","L128871","Alexander Deussen Park","2025-10-12 07:29",29.9115009,-95.1519012,TRUE,TRUE,FALSE,"S278904671",1
+"8","refboo","Red-footed Booby","Sula sula","L27205306","Kahala Point (seawatch)","2025-10-11 14:43",22.1474677,-159.2955827,TRUE,FALSE,FALSE,"S278867772",1150
+"9","refboo","Red-footed Booby","Sula sula","L53931349","Kilauea Point National Wildlife Refuge, Kilauea US-HI (22.2295,-159.4020)","2025-10-11 13:10",22.229541,-159.401962,TRUE,FALSE,TRUE,"S278795667",10
+"10","refboo","Red-footed Booby","Sula sula","L53899324","Alexander Deussen Park, Houston US-TX 29.91830, -95.14991","2025-10-11 12:00",29.918302,-95.149909,TRUE,TRUE,TRUE,"S278651806",1
+"11","refboo","Red-footed Booby","Sula sula","L53923760","Alexander Deussen Park Boat ramp","2025-10-11 11:35",29.9185726,-95.1491868,TRUE,TRUE,TRUE,"S278757357",1
+"12","refboo","Red-footed Booby","Sula sula","L5129243","Anini Beach Park","2025-10-11 10:38",22.2242584,-159.4498587,TRUE,FALSE,FALSE,"S278738218",8
+"13","refboo","Red-footed Booby","Sula sula","L53892696","Alexander Deussen Park, Houston US-TX 29.91840, -95.14857","2025-10-11 10:23",29.918401,-95.148567,TRUE,TRUE,TRUE,"S278605459",1
+"14","refboo","Red-footed Booby","Sula sula","L53912427","Lake Houston From Duessen By Kayak","2025-10-11 09:51",29.9189445,-95.1493491,TRUE,TRUE,TRUE,"S278699316",1
+"15","refboo","Red-footed Booby","Sula sula","L856224","Ha'ena State Park (general)","2025-10-11 08:57",22.2202244,-159.5803642,TRUE,FALSE,FALSE,"S278764955",1
+"16","refboo","Red-footed Booby","Sula sula","L1040027","La'ie Point","2025-10-11 07:12",21.6484935,-157.9143047,TRUE,FALSE,FALSE,"S278653515",4
+"17","refboo","Red-footed Booby","Sula sula","L53851726","Alexander Deussen Park, Houston US-TX 29.91607, -95.14656","2025-10-10 15:25",29.916065,-95.146562,TRUE,TRUE,TRUE,"S278403069",1
+"18","refboo","Red-footed Booby","Sula sula","L266182","Kilauea Point NWR","2025-10-10 13:36",22.2316072,-159.4019778,TRUE,FALSE,FALSE,"S278457584",50
+"19","refboo","Red-footed Booby","Sula sula","L53840092","Alexander Deussen Park, Houston US-TX 29.91704, -95.14905","2025-10-10 10:28",29.917042,-95.14905,TRUE,TRUE,TRUE,"S278354699",1
+"20","refboo","Red-footed Booby","Sula sula","L11856182","Anahola Beach Park","2025-10-09 15:27",22.1461059,-159.3004123,TRUE,FALSE,FALSE,"S278252018",8
+"21","refboo","Red-footed Booby","Sula sula","L7898615","Secret Beach","2025-10-08 15:34",22.2236907,-159.4111785,TRUE,FALSE,FALSE,"S278081859",50
+"22","refboo","Red-footed Booby","Sula sula","L53773013","Lake Houston, Houston US-TX (29.9194,-95.1477)","2025-10-08 11:30",29.919356,-95.147693,TRUE,TRUE,TRUE,"S278157092",1
+"23","refboo","Red-footed Booby","Sula sula","L24915331","The Hill -- Offshore Palm Beach County","2025-10-08 09:54",26.671465,-79.7878576,TRUE,TRUE,FALSE,"S278000749",1
+"24","refboo","Red-footed Booby","Sula sula","L19381369","Hā'ena State Park--Hā'ena Beach","2025-10-08 08:30",22.220002,-159.566344,TRUE,FALSE,FALSE,"S278044400",1
+"25","refboo","Red-footed Booby","Sula sula","L53771044","Lake Houston, Houston US-TX (29.9312,-95.1398)","2025-10-08 07:30",29.931224,-95.139758,TRUE,TRUE,TRUE,"S278013673",1
+"26","refboo","Red-footed Booby","Sula sula","L53764359","Lake Houston, Houston US-TX","2025-10-08 07:25",29.932571,-95.145198,TRUE,TRUE,TRUE,"S277978605",1
+"27","refboo","Red-footed Booby","Sula sula","L6974201","Haʻena State Park--Keʻe Beach","2025-10-08 06:50",22.2236381,-159.5799586,TRUE,FALSE,FALSE,"S278030948",1
+"28","refboo","Red-footed Booby","Sula sula","L53753299","Larsen’s Beach Kilauea US-HI","2025-10-07 15:48",22.203422,-159.336235,TRUE,FALSE,TRUE,"S277918145",50
+"29","refboo","Red-footed Booby","Sula sula","L1186213","Poʻipū Beach Park","2025-10-06 15:25",21.87229,-159.4540122,TRUE,FALSE,FALSE,"S277739417",3
+"30","refboo","Red-footed Booby","Sula sula","L53713920","3580 Kilauea Road, Kilauea, Hawaii, US (22.228, -159.401)","2025-10-06 09:22",22.2277747,-159.4012266,TRUE,FALSE,TRUE,"S277718108",200
+"31","refboo","Red-footed Booby","Sula sula","L53696829","Lake Houston","2025-10-06 06:57",29.945058,-95.153894,TRUE,TRUE,TRUE,"S277629836",1
+"32","refboo","Red-footed Booby","Sula sula","L855012","Polihale State Park","2025-10-06 06:35",22.0787999,-159.7635269,TRUE,FALSE,FALSE,"S277739341",1
