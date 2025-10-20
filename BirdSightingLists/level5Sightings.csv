@@ -1,2 +1,3 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","bkwvir","Black-whiskered Vireo","Vireo altiloquus","L200830","A. D. Barnes Park","2025-10-15 14:45",1,25.7340827,-80.3108552,TRUE,FALSE,FALSE,"S279592395"
+"1","shicow","Shiny Cowbird","Molothrus bonariensis","L22233265","Larry’s place","2025-10-14 12:42",2,25.467976,-80.520205,TRUE,TRUE,TRUE,"S279369158"
+"2","shicow","Shiny Cowbird","Molothrus bonariensis","L18594757","C-103 Canal East","2025-10-12 07:21",1,25.470815,-80.377728,TRUE,TRUE,TRUE,"S278905672"
