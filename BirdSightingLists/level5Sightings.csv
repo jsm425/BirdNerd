@@ -1,5 +1,2 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","aldfly","Alder Flycatcher","Empidonax alnorum","L582123","Southern Glades Trail (C111 Canal outside ENP)","2025-10-19 15:54",1,25.4034735,-80.5586135,TRUE,TRUE,FALSE,"S280427549"
-"2","aldfly","Alder Flycatcher","Empidonax alnorum","L30350107","Fort De Soto Park","2025-10-14 07:45",1,27.634312,-82.71858,TRUE,TRUE,TRUE,"S279405498"
-"3","aldfly","Alder Flycatcher","Empidonax alnorum","L12988733","Frog Pond WMA--south of Hainlin Mill Sparrow Drive, north of S332D impoundment","2025-10-13 07:03",1,25.5236124,-80.5685538,TRUE,TRUE,FALSE,"S279216663"
-"4","aldfly","Alder Flycatcher","Empidonax alnorum","L297694","Southern Glades WEA--The Annex","2025-10-12 08:15",1,25.384123,-80.5657911,TRUE,TRUE,FALSE,"S278957832"
+"","speciesCode","comName","sciName","locId","locName","obsDt","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
+"1","thbmur","Thick-billed Murre","Uria lomvia","L443195","Sitka (town)","2025-10-18",57.049881,-135.3335381,TRUE,FALSE,FALSE,"S280234147"
