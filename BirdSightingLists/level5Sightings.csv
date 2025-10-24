@@ -1,2 +1,3 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","thbmur","Thick-billed Murre","Uria lomvia","L443195","Sitka (town)","2025-10-18",57.049881,-135.3335381,TRUE,FALSE,FALSE,"S280234147"
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
+"1","mancuc","Mangrove Cuckoo","Coccyzus minor","L12438289","Wildlife Dr, Sanibel US-FL 26.47076, -82.15235","2025-10-21 10:45",1,26.470757,-82.152348,TRUE,FALSE,TRUE,"S280653903"
+"2","mancuc","Mangrove Cuckoo","Coccyzus minor","L823147","J. N. Ding Darling NWR--Wildlife Drive","2025-10-21 08:19",1,26.4540529,-82.1155071,TRUE,FALSE,FALSE,"S280635275"

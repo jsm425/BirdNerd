@@ -1,293 +1,273 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","woothr","Wood Thrush","Hylocichla mustelina","L6235318","Robinson/Vanderah Yard","2025-10-22 18:09",1,29.4823054,-82.2639419,TRUE,FALSE,TRUE,"S280858989"
-"2","woothr","Wood Thrush","Hylocichla mustelina","L48025251","Big Sky Ranch","2025-10-22 17:28",1,34.502179,-89.354388,TRUE,FALSE,TRUE,"S280860255"
-"3","woothr","Wood Thrush","Hylocichla mustelina","L370457","Pearl River WMA--Honey Island Swamp","2025-10-22 16:44",1,30.3980862,-89.7006226,TRUE,FALSE,FALSE,"S280864756"
-"4","woothr","Wood Thrush","Hylocichla mustelina","L27402605","3225 NW 108th Blvd, Gainesville US-FL 29.68350, -82.45663","2025-10-22 16:10",1,29.6835,-82.456625,TRUE,FALSE,TRUE,"S280853691"
-"5","woothr","Wood Thrush","Hylocichla mustelina","L18721336","Derby Bike path wetland","2025-10-22 15:07",1,44.9815534,-72.186432,TRUE,FALSE,TRUE,"S280836224"
-"6","woothr","Wood Thrush","Hylocichla mustelina","L5472292","Chattahoochee River NRA--West Palisades Unit","2025-10-22 13:37",1,33.8885078,-84.4436652,TRUE,FALSE,FALSE,"S280830332"
-"7","woothr","Wood Thrush","Hylocichla mustelina","L683555","Bryant Park (5th-6th Ave. btwn 40th-42nd St.)","2025-10-22 12:08",1,40.7536729,-73.9832322,TRUE,TRUE,FALSE,"S280812895"
-"8","woothr","Wood Thrush","Hylocichla mustelina","L691521","Grant Park, Atlanta","2025-10-22 12:05",1,33.7356894,-84.3711805,TRUE,FALSE,FALSE,"S280820537"
-"9","woothr","Wood Thrush","Hylocichla mustelina","L6459131","Caldwell Station Creek Greenway","2025-10-22 08:42",1,35.4529462,-80.8641633,TRUE,TRUE,FALSE,"S280788077"
-"10","woothr","Wood Thrush","Hylocichla mustelina","L366370","Audubon Park","2025-10-22 08:14",2,29.9253976,-90.128804,TRUE,FALSE,FALSE,"S280818389"
-"11","woothr","Wood Thrush","Hylocichla mustelina","L4963675","A.H. Stephens SP","2025-10-22 08:03",1,33.5638132,-82.8958775,TRUE,FALSE,FALSE,"S280835503"
-"12","woothr","Wood Thrush","Hylocichla mustelina","L124353","Huntington Beach SP","2025-10-22 07:30",1,33.5083,-79.0659,TRUE,FALSE,FALSE,"S280790440"
-"13","woothr","Wood Thrush","Hylocichla mustelina","L2808713","Fants Grove Wildlife Management Area","2025-10-22 07:14",1,34.6129554,-82.8241454,TRUE,FALSE,FALSE,"S280771991"
-"14","woothr","Wood Thrush","Hylocichla mustelina","L13654732","905 Indian Ridge Trail, Hendersonville US-NC 35.27718, -82.60871","2025-10-22 07:12",NA,35.277179,-82.608707,TRUE,FALSE,TRUE,"S280773302"
-"15","woothr","Wood Thrush","Hylocichla mustelina","L37543004","CMH bird garden","2025-10-21 18:38",1,28.9209878,-81.864393,TRUE,FALSE,TRUE,"S280707101"
-"16","woothr","Wood Thrush","Hylocichla mustelina","L16129240","Little Bird Café","2025-10-21 17:01",1,30.862716,-89.1216,TRUE,FALSE,TRUE,"S280701385"
-"17","woothr","Wood Thrush","Hylocichla mustelina","L1140207","Eden Gardens SP & Point Washington","2025-10-21 14:42",1,30.3713967,-86.1202749,TRUE,FALSE,FALSE,"S280698235"
-"18","woothr","Wood Thrush","Hylocichla mustelina","L276283","George C. McGough Nature Park","2025-10-21 13:35",1,27.8830494,-82.8426218,TRUE,FALSE,FALSE,"S280693970"
-"19","woothr","Wood Thrush","Hylocichla mustelina","L2226277","Austin Village South yard","2025-10-21 12:54",1,30.1472911,-92.0220468,TRUE,FALSE,TRUE,"S280677282"
-"20","woothr","Wood Thrush","Hylocichla mustelina","L8482128","Grandin Palatka Lake Butler Trail","2025-10-21 10:43",1,29.7283279,-81.9182897,TRUE,FALSE,FALSE,"S280664083"
-"21","woothr","Wood Thrush","Hylocichla mustelina","L54319735","Palm Point Park, Gainesville US-FL (29.6395,-82.2383)","2025-10-21 10:26",1,29.639505,-82.238282,TRUE,FALSE,TRUE,"S280691604"
-"22","woothr","Wood Thrush","Hylocichla mustelina","L11564212","Cane Creek Mountains Natural Area","2025-10-21 09:44",1,35.9551,-79.41719,TRUE,TRUE,FALSE,"S280655390"
-"23","woothr","Wood Thrush","Hylocichla mustelina","L694088","San Felasco Hammock Preserve SP-- Moonshine Creek/Creek Sink Trails","2025-10-21 09:04",2,29.7144357,-82.460804,TRUE,FALSE,FALSE,"S280648701"
-"24","woothr","Wood Thrush","Hylocichla mustelina","L52649887","Palm Point Park, Gainesville US-FL (29.6376,-82.2387)","2025-10-21 08:44",1,29.637597,-82.238708,TRUE,FALSE,TRUE,"S280691465"
-"25","woothr","Wood Thrush","Hylocichla mustelina","L4529567","St. Marks NWR--Cedar Point Trail","2025-10-21 08:35",1,30.0793849,-84.1785121,TRUE,FALSE,FALSE,"S280652908"
-"26","woothr","Wood Thrush","Hylocichla mustelina","L1395278","St. George Island SP--Youth Camp Area","2025-10-21 08:25",1,29.6917868,-84.7880416,TRUE,FALSE,FALSE,"S280672650"
-"27","woothr","Wood Thrush","Hylocichla mustelina","L618712","LA: Iberville Par.; 3.7 mi. N St. Gabriel, 545 Pecan Drive","2025-10-21 08:00",1,30.3107918,-91.0961008,TRUE,FALSE,TRUE,"S280706506"
-"28","woothr","Wood Thrush","Hylocichla mustelina","L54308407","Bradford pool, 5375 Dray Dr, Wildwood US-FL 28.80298, -81.97850","2025-10-21 07:50",1,28.802978,-81.978504,TRUE,FALSE,TRUE,"S280636949"
-"29","woothr","Wood Thrush","Hylocichla mustelina","L16596886","28739, Hendersonville US-NC 35.27615, -82.60987","2025-10-21 07:00",NA,35.276149,-82.609869,TRUE,FALSE,TRUE,"S280624366"
-"30","woothr","Wood Thrush","Hylocichla mustelina","L919291","Bayfront Park/Village Point (Daphne)","2025-10-21 06:35",3,30.6282373,-87.9195714,TRUE,FALSE,FALSE,"S280671934"
-"31","woothr","Wood Thrush","Hylocichla mustelina","L16674459","Ponciano Yard","2025-10-21 05:27",4,29.669627,-82.362813,TRUE,FALSE,TRUE,"S280601128"
-"32","woothr","Wood Thrush","Hylocichla mustelina","L37748230","8628 Benton Rd, Foley US-AL 30.34914, -87.78444","2025-10-20 17:36",1,30.34914,-87.784444,TRUE,FALSE,TRUE,"S280558866"
-"33","woothr","Wood Thrush","Hylocichla mustelina","L9523167","748 Swanson Ave","2025-10-20 16:09",1,32.745496,-79.913214,TRUE,FALSE,TRUE,"S280557803"
-"34","woothr","Wood Thrush","Hylocichla mustelina","L36506383","Roger Scott Athletic Complex","2025-10-20 16:05",1,30.469098,-87.196496,TRUE,FALSE,FALSE,"S280557760"
-"35","woothr","Wood Thrush","Hylocichla mustelina","L454273","Burden Gardens and Museum","2025-10-20 15:01",1,30.4055815,-91.1030905,TRUE,FALSE,FALSE,"S280544236"
-"36","woothr","Wood Thrush","Hylocichla mustelina","L274991","Fort Mountain SP","2025-10-20 13:44",1,34.750009,-84.714603,TRUE,TRUE,FALSE,"S280569174"
-"37","woothr","Wood Thrush","Hylocichla mustelina","L684740","Inwood Hill Park","2025-10-20 12:30",1,40.8717025,-73.9256904,TRUE,TRUE,FALSE,"S280729537"
-"38","woothr","Wood Thrush","Hylocichla mustelina","L37787939","Turtle Haven","2025-10-20 12:03",1,33.535383,-84.733728,TRUE,FALSE,TRUE,"S280516847"
-"39","woothr","Wood Thrush","Hylocichla mustelina","L2176793","Rittenhouse Square","2025-10-20 11:28",1,39.9494614,-75.1718634,TRUE,FALSE,FALSE,"S280527468"
-"40","woothr","Wood Thrush","Hylocichla mustelina","L2687357","Fort Morgan--Stables","2025-10-20 11:09",1,30.2310581,-88.0105627,TRUE,FALSE,FALSE,"S280526726"
-"41","woothr","Wood Thrush","Hylocichla mustelina","L12387384","San Felasco Hammock Preserve SP--Blue Trail","2025-10-20 10:38",1,29.7179623,-82.4563734,TRUE,FALSE,FALSE,"S280525831"
-"42","woothr","Wood Thrush","Hylocichla mustelina","L18827165","Baton Rouge - Frenchtown Rd Conservation Area","2025-10-20 10:26",1,30.4800233,-90.9861195,TRUE,FALSE,FALSE,"S280509544"
-"43","woothr","Wood Thrush","Hylocichla mustelina","L248659","Quintana Neotropical Bird Sanctuary (UTC 121)","2025-10-20 09:31",1,28.9336226,-95.3087246,TRUE,FALSE,FALSE,"S280498205"
-"44","woothr","Wood Thrush","Hylocichla mustelina","L17500183","Hickory Flat","2025-10-20 08:38",1,34.200424,-84.443777,TRUE,FALSE,TRUE,"S280480319"
-"45","woothr","Wood Thrush","Hylocichla mustelina","L16198337","The Garden","2025-10-20 08:11",1,30.426855,-91.048291,TRUE,FALSE,TRUE,"S280561983"
-"46","woothr","Wood Thrush","Hylocichla mustelina","L2117264","Upper Delta WMA--Clearwater Tract","2025-10-20 08:05",1,31.1311369,-87.899962,TRUE,FALSE,FALSE,"S280473259"
-"47","woothr","Wood Thrush","Hylocichla mustelina","L10313540","Soundside Preserve, 4401 Soundside Dr, Gulf Breeze US-FL (30.3805,-87.0451)","2025-10-20 07:30",1,30.380453,-87.045134,TRUE,FALSE,TRUE,"S280541482"
-"48","woothr","Wood Thrush","Hylocichla mustelina","L635366","Chestnut Ridge Heritage Preserve","2025-10-20 07:22",2,35.1307853,-82.2810946,TRUE,TRUE,FALSE,"S280467117"
-"49","woothr","Wood Thrush","Hylocichla mustelina","L2211535","home plantation","2025-10-20 06:45",1,28.7180334,-81.8733499,TRUE,FALSE,TRUE,"S280464235"
-"50","woothr","Wood Thrush","Hylocichla mustelina","L2232857","Dad's Property","2025-10-20 06:37",1,37.657197,-90.9028745,TRUE,TRUE,TRUE,"S280504092"
-"51","woothr","Wood Thrush","Hylocichla mustelina","L53551220","Neighborhood","2025-10-20 05:56",1,28.2406431,-82.3274159,TRUE,FALSE,TRUE,"S280451077"
-"52","woothr","Wood Thrush","Hylocichla mustelina","L8350023","Atlee Fields, Knox TN US","2025-10-19 21:15",1,35.948507,-84.108686,TRUE,TRUE,TRUE,"S280421769"
-"53","woothr","Wood Thrush","Hylocichla mustelina","L9902904","home 40 ac","2025-10-19 16:25",1,31.3099888,-86.5051198,TRUE,FALSE,TRUE,"S280572830"
-"54","woothr","Wood Thrush","Hylocichla mustelina","L883243","Dauphin Island--Goat Tree","2025-10-19 14:13",2,30.253757,-88.10179,TRUE,FALSE,FALSE,"S280389064"
-"55","woothr","Wood Thrush","Hylocichla mustelina","L11802177","2715 West Terrace Drive, Tampa, Florida, US (27.936, -82.489)","2025-10-19 12:51",1,27.9364151,-82.4894461,TRUE,FALSE,TRUE,"S280364658"
-"56","woothr","Wood Thrush","Hylocichla mustelina","L54247241","Apartment","2025-10-19 12:38",1,35.658884,-82.578025,TRUE,FALSE,TRUE,"S280346712"
-"57","woothr","Wood Thrush","Hylocichla mustelina","L148724","Topsail Hill Preserve SP","2025-10-19 12:20",2,30.370076,-86.2967277,TRUE,FALSE,FALSE,"S280399369"
-"58","woothr","Wood Thrush","Hylocichla mustelina","L1017574","Glenwood Park","2025-10-19 11:58",1,30.4220325,-86.607542,TRUE,FALSE,FALSE,"S280357897"
-"59","woothr","Wood Thrush","Hylocichla mustelina","L6541420","111-199 Livingston Park Drive, Jackson, Mississippi, US (32.322, -90.222)","2025-10-19 11:55",1,32.3219977,-90.2217823,TRUE,FALSE,TRUE,"S280360845"
-"60","woothr","Wood Thrush","Hylocichla mustelina","L724996","Dauphin Island--Shell Mound Park","2025-10-19 11:19",1,30.2561758,-88.1075969,TRUE,FALSE,FALSE,"S280751925"
-"61","woothr","Wood Thrush","Hylocichla mustelina","L30128239","10144 Meadowrun Dr","2025-10-19 09:27",1,27.857405,-82.177285,TRUE,FALSE,TRUE,"S280391671"
-"62","woothr","Wood Thrush","Hylocichla mustelina","L11385126","NW 160th Avenue, Morriston, Florida, US (29.338, -82.395)","2025-10-19 09:18",1,29.3382263,-82.3948903,TRUE,FALSE,TRUE,"S280304965"
-"63","woothr","Wood Thrush","Hylocichla mustelina","L127241","Shoreline Park","2025-10-19 09:01",2,30.3527,-87.1758,TRUE,FALSE,FALSE,"S280339266"
-"64","woothr","Wood Thrush","Hylocichla mustelina","L1035747","Plymouth Bluff Environmental Center--River Trail","2025-10-19 08:45",1,33.5128997,-88.4921533,TRUE,FALSE,FALSE,"S280323326"
-"65","woothr","Wood Thrush","Hylocichla mustelina","L1017255","McDaniel Farm Park","2025-10-19 08:34",1,33.9710183,-84.1244924,TRUE,FALSE,FALSE,"S280344769"
-"66","woothr","Wood Thrush","Hylocichla mustelina","L54303936","Peavine Sneed Creek Rd, Old Fort US-TN 34.99215, -84.62729","2025-10-19 08:10",1,34.992151,-84.627295,TRUE,TRUE,TRUE,"S280610390"
-"67","woothr","Wood Thrush","Hylocichla mustelina","L977034","Reynolds Nature Preserve (Clayton Co.)","2025-10-19 07:54",1,33.5984637,-84.3492508,TRUE,FALSE,FALSE,"S280301955"
-"68","woothr","Wood Thrush","Hylocichla mustelina","L1810919","Marshall Swamp Trail","2025-10-19 07:31",1,29.1843029,-82.0145033,TRUE,FALSE,FALSE,"S280328599"
-"69","woothr","Wood Thrush","Hylocichla mustelina","L21602615","Ponderosa","2025-10-19 07:30",1,32.298772,-95.2626428,TRUE,FALSE,TRUE,"S280334981"
-"70","woothr","Wood Thrush","Hylocichla mustelina","L36412760","Family Home and Environs","2025-10-19 07:09",1,31.281948,-89.3638132,TRUE,FALSE,TRUE,"S280289323"
-"71","woothr","Wood Thrush","Hylocichla mustelina","L306158","BREC Bluebonnet Swamp Nature Center","2025-10-19 06:45",2,30.3696325,-91.1049478,TRUE,FALSE,FALSE,"S280368961"
-"72","woothr","Wood Thrush","Hylocichla mustelina","L36364188","Fort Fremont Passive Park","2025-10-18 18:56",1,32.308805,-80.643554,TRUE,FALSE,TRUE,"S280197824"
-"73","woothr","Wood Thrush","Hylocichla mustelina","L3351145","US-GA-Duluth-2675 Whippoorwill Cir NW","2025-10-18 18:30",1,33.983042,-84.117246,TRUE,FALSE,TRUE,"S280197045"
-"74","woothr","Wood Thrush","Hylocichla mustelina","L165116","Sandy Creek Nature Center","2025-10-18 17:08",1,33.984577,-83.382866,TRUE,FALSE,FALSE,"S280211110"
-"75","woothr","Wood Thrush","Hylocichla mustelina","L54213750","Bayou Tete L’Ours piney wetland","2025-10-18 16:53",1,30.408175,-90.096051,TRUE,FALSE,TRUE,"S280193972"
-"76","woothr","Wood Thrush","Hylocichla mustelina","L472674","Stone Mountain Park","2025-10-18 16:48",1,33.8128138,-84.1552734,TRUE,FALSE,FALSE,"S280186115"
-"77","woothr","Wood Thrush","Hylocichla mustelina","L7003994","Southern Adventist University--Biology Trails","2025-10-18 16:12",1,35.0469591,-85.0582284,TRUE,FALSE,FALSE,"S280176336"
-"78","woothr","Wood Thrush","Hylocichla mustelina","L29845679","Cardinal Cove, private residence, Tallahassee US-FL 30.52636, -84.01188","2025-10-18 14:02",1,30.526362,-84.011883,TRUE,FALSE,TRUE,"S280272525"
-"79","woothr","Wood Thrush","Hylocichla mustelina","L452324","Dawson Forest","2025-10-18 13:30",2,34.351178,-84.1397381,TRUE,TRUE,FALSE,"S280337060"
-"80","woothr","Wood Thrush","Hylocichla mustelina","L209616","High Island--Boy Scout Woods (UTC 055)","2025-10-18 13:01",1,29.5613445,-94.3902236,TRUE,FALSE,FALSE,"S280146670"
-"81","woothr","Wood Thrush","Hylocichla mustelina","L526104","Gosnell Big Woods Preserve—field","2025-10-18 11:14",1,43.2440148,-77.4909067,TRUE,FALSE,FALSE,"S280107241"
-"82","woothr","Wood Thrush","Hylocichla mustelina","L2616477","Brad Bergstrom home","2025-10-18 09:00",1,30.8555139,-83.2942998,TRUE,FALSE,FALSE,"S280330737"
-"83","woothr","Wood Thrush","Hylocichla mustelina","L17656213","Richland Little Suwanee Creek","2025-10-18 08:58",1,34.0063079,-84.0261519,TRUE,FALSE,TRUE,"S280126117"
-"84","woothr","Wood Thrush","Hylocichla mustelina","L786772","Cook’s Trail","2025-10-18 08:57",1,34.0148608,-83.3785138,TRUE,FALSE,FALSE,"S280108900"
-"85","woothr","Wood Thrush","Hylocichla mustelina","L661312","Lefleurs Bluff SP","2025-10-18 08:51",1,32.3300778,-90.147543,TRUE,FALSE,FALSE,"S280112349"
-"86","woothr","Wood Thrush","Hylocichla mustelina","L20805079","American Tobacco Trail--Olive Chapel Road Access","2025-10-18 08:46",1,35.7289383,-78.9312315,TRUE,FALSE,FALSE,"S280065790"
-"87","woothr","Wood Thrush","Hylocichla mustelina","L3932246","Pisgah NF--Davidson River Campground","2025-10-18 08:29",1,35.2830135,-82.7256668,TRUE,FALSE,FALSE,"S280136871"
-"88","woothr","Wood Thrush","Hylocichla mustelina","L54078743","Magnolia Cemetery-2638 23rd Avenue, Meridian, Mississippi, US (32.387, -88.7)","2025-10-18 08:22",1,32.3871117,-88.7002483,TRUE,FALSE,TRUE,"S280086030"
-"89","woothr","Wood Thrush","Hylocichla mustelina","L7984234","Brumley Nature Preserve--North","2025-10-18 08:14",1,36.03391,-79.041909,TRUE,FALSE,FALSE,"S280265108"
-"90","woothr","Wood Thrush","Hylocichla mustelina","L31532875","Heathbrook Cir neighborhood , Asheville US-NC (35.4838,-82.5499)","2025-10-18 07:35",1,35.48377,-82.549862,TRUE,FALSE,TRUE,"S280145922"
-"91","woothr","Wood Thrush","Hylocichla mustelina","L18597358","DAW Property","2025-10-18 07:32",1,35.9684388,-83.3653022,TRUE,TRUE,TRUE,"S280075479"
-"92","woothr","Wood Thrush","Hylocichla mustelina","L9238171","312 Parkway Drive, Newport News, Virginia, US (37.054, -76.495)","2025-10-18 07:32",1,37.0543603,-76.494507,TRUE,FALSE,TRUE,"S280045398"
-"93","woothr","Wood Thrush","Hylocichla mustelina","L29064058","Belton—Shanklin Rd","2025-10-18 07:30",1,31.0197167,-97.4976176,TRUE,TRUE,TRUE,"S280150421"
-"94","woothr","Wood Thrush","Hylocichla mustelina","L12980148","5918 Hampton Leas Lane, Columbia, South Carolina, US (33.972, -80.976)","2025-10-18 07:22",1,33.9717267,-80.9761524,TRUE,TRUE,TRUE,"S280037697"
-"95","woothr","Wood Thrush","Hylocichla mustelina","L4936503","Newnans Lake SF--East Trail (Pithlachocco Trail)","2025-10-18 07:19",1,29.6611775,-82.2544858,TRUE,FALSE,FALSE,"S280072258"
-"96","woothr","Wood Thrush","Hylocichla mustelina","L109521","Congaree NP (Congaree Swamp)","2025-10-18 07:11",1,33.7833333,-80.7833333,TRUE,TRUE,FALSE,"S280174460"
-"97","woothr","Wood Thrush","Hylocichla mustelina","L639013","Blakeley SP--Old Town Nature Trail Boardwalk","2025-10-18 07:02",1,30.7474558,-87.9233835,TRUE,FALSE,FALSE,"S280673677"
-"98","woothr","Wood Thrush","Hylocichla mustelina","L12486427","Brian P's Yard (Private)","2025-10-18 06:40",1,35.9603803,-78.6302295,TRUE,FALSE,FALSE,"S280197207"
-"99","woothr","Wood Thrush","Hylocichla mustelina","L1060652","162 Elm Street, Lewisburg","2025-10-18 06:34",1,30.3735231,-90.0999713,TRUE,FALSE,TRUE,"S280067304"
-"100","woothr","Wood Thrush","Hylocichla mustelina","L2470260","Noxubee NWR (Noxubee Co.) (please consider using more specific location/hotspot)","2025-10-18 06:27",1,33.268404,-88.7860537,TRUE,FALSE,FALSE,"S280121693"
-"101","woothr","Wood Thrush","Hylocichla mustelina","L1492312","Dyson Dr.","2025-10-17 17:56",1,33.779291,-84.315144,TRUE,FALSE,TRUE,"S280066345"
-"102","woothr","Wood Thrush","Hylocichla mustelina","L25618446","St. Charles Place","2025-10-17 17:01",1,30.6065101,-87.9049584,TRUE,FALSE,TRUE,"S279954168"
-"103","woothr","Wood Thrush","Hylocichla mustelina","L54161612","Chickasabogue Park, Chickasaw, Alabama","2025-10-17 16:37",1,30.785959,-88.101652,TRUE,FALSE,TRUE,"S279961869"
-"104","woothr","Wood Thrush","Hylocichla mustelina","L42342043","511 Dyson St, Fairhope US-AL 30.51046, -87.90653","2025-10-17 16:24",2,30.510456,-87.90653,TRUE,FALSE,TRUE,"S279946640"
-"105","woothr","Wood Thrush","Hylocichla mustelina","L7782468","Roswell Riverwalk--Azalea Park","2025-10-17 16:09",1,34.001417,-84.3669158,TRUE,FALSE,FALSE,"S279935991"
-"106","woothr","Wood Thrush","Hylocichla mustelina","L2392306","Big Thicket NP--Kirby Trail","2025-10-17 15:00",1,30.4621326,-94.3512954,TRUE,FALSE,FALSE,"S280233781"
-"107","woothr","Wood Thrush","Hylocichla mustelina","L461158","Spring Island (restricted access)","2025-10-17 15:00",1,32.3264091,-80.8247089,TRUE,FALSE,FALSE,"S279943025"
-"108","woothr","Wood Thrush","Hylocichla mustelina","L2025417","Schiefer Property","2025-10-17 14:55",1,33.483821,-88.9703378,TRUE,FALSE,TRUE,"S279948568"
-"109","woothr","Wood Thrush","Hylocichla mustelina","L54152068","Maclay Gardens State Park, Tallahassee US-FL (30.5299,-84.2528)","2025-10-17 12:43",1,30.529853,-84.252827,TRUE,FALSE,TRUE,"S279920501"
-"110","woothr","Wood Thrush","Hylocichla mustelina","L23399114","Lafayette Co. Home","2025-10-17 11:00",1,34.365524,-89.4630719,TRUE,FALSE,TRUE,"S279925778"
-"111","woothr","Wood Thrush","Hylocichla mustelina","L9215898","Private residence  Huckleberry Springs Rd, Knoxville US-TN (35.9809,-83.7540)","2025-10-17 10:39",2,35.980874,-83.75404,TRUE,TRUE,TRUE,"S280086268"
-"112","woothr","Wood Thrush","Hylocichla mustelina","L20836479","Heritage Park","2025-10-17 10:14",1,33.7590456,-83.4366679,TRUE,FALSE,FALSE,"S279918599"
-"113","woothr","Wood Thrush","Hylocichla mustelina","L54252905","Tellico cabin","2025-10-17 09:09",1,35.287782,-84.094353,TRUE,TRUE,TRUE,"S280371723"
-"114","woothr","Wood Thrush","Hylocichla mustelina","L576682","Tyler SP (PPW-E 065)","2025-10-17 08:42",1,32.4799358,-95.2991867,TRUE,FALSE,FALSE,"S279868826"
-"115","woothr","Wood Thrush","Hylocichla mustelina","L457176","Henderson Park","2025-10-17 08:15",1,33.8679569,-84.2283797,TRUE,FALSE,FALSE,"S279881430"
-"116","woothr","Wood Thrush","Hylocichla mustelina","L7872674","Phipps Park; Gate B","2025-10-17 08:05",1,30.536655,-84.297045,TRUE,FALSE,TRUE,"S279883123"
-"117","woothr","Wood Thrush","Hylocichla mustelina","L127326","Dunedin Hammock City Park","2025-10-17 07:44",1,28.0324,-82.781,TRUE,FALSE,FALSE,"S279925647"
-"118","woothr","Wood Thrush","Hylocichla mustelina","L10280164","Homeplace--Sellers","2025-10-17 06:07",1,34.811093,-85.034397,TRUE,TRUE,TRUE,"S279837481"
-"119","woothr","Wood Thrush","Hylocichla mustelina","L16632188","WCG","2025-10-17 05:46",1,26.163692,-81.769013,TRUE,FALSE,TRUE,"S279897189"
-"120","woothr","Wood Thrush","Hylocichla mustelina","L1830387","Calamar","2025-10-16 18:05",1,34.1719472,-84.246914,TRUE,FALSE,TRUE,"S279771820"
-"121","woothr","Wood Thrush","Hylocichla mustelina","L13470963","Meginnis Arm Canoe Trail","2025-10-16 17:55",1,30.4873975,-84.3045444,TRUE,FALSE,FALSE,"S279798932"
-"122","woothr","Wood Thrush","Hylocichla mustelina","L2665757","Benton Rd., Foley","2025-10-16 17:47",1,30.3519666,-87.7847625,TRUE,FALSE,FALSE,"S279932615"
-"123","woothr","Wood Thrush","Hylocichla mustelina","L1928957","Shawnee National Forest--Pine Hills Campground","2025-10-16 16:13",1,37.5156763,-89.422149,TRUE,TRUE,FALSE,"S279892042"
-"124","woothr","Wood Thrush","Hylocichla mustelina","L4605386","Wheeler NWR--Day Use Area","2025-10-16 15:40",1,34.55233,-86.941177,TRUE,FALSE,FALSE,"S279772377"
-"125","woothr","Wood Thrush","Hylocichla mustelina","L143593","Lake Munson Preserve Park & Dam","2025-10-16 14:12",1,30.365942,-84.3001404,TRUE,FALSE,FALSE,"S279753812"
-"126","woothr","Wood Thrush","Hylocichla mustelina","L298556","Lane Park--Birmingham Botanical Gardens","2025-10-16 11:46",1,33.4877072,-86.7751877,TRUE,FALSE,FALSE,"S279735773"
-"127","woothr","Wood Thrush","Hylocichla mustelina","L32698707","360 Preserve Rd, Murphy US-NC 35.00944, -84.10640","2025-10-16 10:41",1,35.009438,-84.106402,TRUE,FALSE,TRUE,"S279699734"
-"128","woothr","Wood Thrush","Hylocichla mustelina","L14816253","2687 Briarlake Woods Way Northeast, Atlanta, Georgia, US (33.845, -84.279)","2025-10-16 10:08",2,33.8454571,-84.2788536,TRUE,FALSE,TRUE,"S279740976"
-"129","woothr","Wood Thrush","Hylocichla mustelina","L1096072","Bunched Arrowhead Heritage Preserve ","2025-10-16 09:51",2,34.9951463,-82.4032009,TRUE,FALSE,FALSE,"S279738780"
-"130","woothr","Wood Thrush","Hylocichla mustelina","L4261773","Drexel Park","2025-10-16 09:30",1,30.8469847,-83.2850629,TRUE,FALSE,FALSE,"S279704606"
-"131","woothr","Wood Thrush","Hylocichla mustelina","L634755","Hyde Grove","2025-10-16 09:30",1,30.2841313,-81.7603494,TRUE,FALSE,TRUE,"S279780487"
-"132","woothr","Wood Thrush","Hylocichla mustelina","L712403","Sewickley Heights Borough Park","2025-10-16 09:30",1,40.5717511,-80.1449203,TRUE,FALSE,FALSE,"S279745828"
-"133","woothr","Wood Thrush","Hylocichla mustelina","L4542348","South River Trail","2025-10-16 08:51",1,33.6472429,-84.1698432,TRUE,FALSE,TRUE,"S279743258"
-"134","woothr","Wood Thrush","Hylocichla mustelina","L17723112","My yard","2025-10-16 08:49",1,30.8958244,-88.0373422,TRUE,FALSE,TRUE,"S279699617"
-"135","woothr","Wood Thrush","Hylocichla mustelina","L3583384","Lyons Farm","2025-10-16 08:48",1,33.6446884,-84.1670966,TRUE,FALSE,FALSE,"S279738596"
-"136","woothr","Wood Thrush","Hylocichla mustelina","L4081898","UW Lakeshore Nature Preserve (general)","2025-10-16 08:12",1,43.0864973,-89.4301057,TRUE,TRUE,FALSE,"S279725794"
-"137","woothr","Wood Thrush","Hylocichla mustelina","L17997893","Saluda Riverwalk","2025-10-16 08:01",1,34.0135831,-81.0819306,TRUE,FALSE,FALSE,"S279712736"
-"138","woothr","Wood Thrush","Hylocichla mustelina","L5701000","Powhatan Creek Trail","2025-10-16 07:56",1,37.2475351,-76.7677,TRUE,FALSE,FALSE,"S279677822"
-"139","woothr","Wood Thrush","Hylocichla mustelina","L517191","Bolin Creek--Community Park to MLK Blvd.","2025-10-16 07:55",1,35.9249008,-79.04533,TRUE,FALSE,FALSE,"S279676881"
-"140","woothr","Wood Thrush","Hylocichla mustelina","L4524477","Saugalock Forest Reserve  (Private Property - limited access by written permit only)","2025-10-16 07:42",3,32.6363392,-85.5903947,TRUE,FALSE,FALSE,"S279701697"
-"141","woothr","Wood Thrush","Hylocichla mustelina","L258379","Home neighborhood","2025-10-16 07:30",1,30.3603891,-87.1975241,TRUE,FALSE,TRUE,"S279786679"
-"142","woothr","Wood Thrush","Hylocichla mustelina","L4592040","744 Cannon Trail, Franklin, NC, Cartoogechaye area","2025-10-16 07:25",6,35.144563,-83.4582786,TRUE,FALSE,TRUE,"S279740730"
-"143","woothr","Wood Thrush","Hylocichla mustelina","L32538882","Stoneridge Lane","2025-10-16 07:00",1,30.4201978,-90.907868,TRUE,FALSE,TRUE,"S279689627"
-"144","woothr","Wood Thrush","Hylocichla mustelina","L4487107","City Park--Scout Island","2025-10-16 06:53",1,30.0025282,-90.0974482,TRUE,FALSE,FALSE,"S279734957"
-"145","woothr","Wood Thrush","Hylocichla mustelina","L22675939","My Property","2025-10-16 06:53",1,37.564025,-89.204052,TRUE,TRUE,TRUE,"S279748480"
-"146","woothr","Wood Thrush","Hylocichla mustelina","L10824599","Sebring Villas","2025-10-16 06:48",1,27.4737769,-81.4190653,TRUE,FALSE,TRUE,"S280189798"
-"147","woothr","Wood Thrush","Hylocichla mustelina","L54100463","Elsie Boyette Road, Holt, Florida, US (30.793, -86.869)","2025-10-16 06:26",2,30.7931541,-86.8692131,TRUE,FALSE,TRUE,"S279662922"
-"148","woothr","Wood Thrush","Hylocichla mustelina","L2178214","Kramer Woods to CR600W","2025-10-16 06:22",1,37.847193,-87.1508074,TRUE,TRUE,TRUE,"S279702086"
-"149","woothr","Wood Thrush","Hylocichla mustelina","L9157395","US-FL-Sebring: 1700 Elf Drive","2025-10-16 05:39",1,27.4581253,-81.4498252,TRUE,FALSE,TRUE,"S279651031"
-"150","woothr","Wood Thrush","Hylocichla mustelina","L27838226","Olde Cypress Preserve","2025-10-16 05:23",2,26.28173,-81.70983,TRUE,FALSE,TRUE,"S279732255"
-"151","woothr","Wood Thrush","Hylocichla mustelina","L6501135","Bur St","2025-10-16 04:18",1,26.9667,-82.130128,TRUE,FALSE,TRUE,"S280678535"
-"152","woothr","Wood Thrush","Hylocichla mustelina","L4524223","Back yard along Bowlee's Creek, Manatee County","2025-10-16 01:38",1,27.4193845,-82.554394,TRUE,FALSE,TRUE,"S279627388"
-"153","woothr","Wood Thrush","Hylocichla mustelina","L34629548","Dellwood Cove","2025-10-15 17:57",NA,30.4628423,-89.0975571,TRUE,FALSE,TRUE,"S279604145"
-"154","woothr","Wood Thrush","Hylocichla mustelina","L16798480","Home 31067","2025-10-15 17:15",2,32.8301995,-82.9409638,TRUE,FALSE,TRUE,"S279601674"
-"155","woothr","Wood Thrush","Hylocichla mustelina","L52374802","Georgetta Drive, Monte Sano","2025-10-15 17:00",1,34.7390364,-86.5294485,TRUE,FALSE,TRUE,"S279671359"
-"156","woothr","Wood Thrush","Hylocichla mustelina","L28575899","San Felasco Hammock Preserve State Park, Alachua US-FL (29.7718,-82.4720)","2025-10-15 16:46",1,29.771782,-82.471995,TRUE,FALSE,TRUE,"S279698056"
-"157","woothr","Wood Thrush","Hylocichla mustelina","L41445880","Nhome","2025-10-15 16:19",1,32.347112,-90.17529,TRUE,FALSE,TRUE,"S279597804"
-"158","woothr","Wood Thrush","Hylocichla mustelina","L720522","Boyce-Mayview Park","2025-10-15 14:49",1,40.3250191,-80.1015759,TRUE,FALSE,FALSE,"S279595130"
-"159","woothr","Wood Thrush","Hylocichla mustelina","L3480003","Pascagoula Greenwood Cemetery","2025-10-15 14:18",3,30.3501657,-88.5510251,TRUE,FALSE,FALSE,"S279583656"
-"160","woothr","Wood Thrush","Hylocichla mustelina","L4383365","Pascagoula St. Yard list","2025-10-15 14:15",1,30.346524,-88.553267,TRUE,FALSE,TRUE,"S280141436"
-"161","woothr","Wood Thrush","Hylocichla mustelina","L2675295","San Felasco Hammock Preserve SP--US 441 trailhead","2025-10-15 13:38",1,29.7716788,-82.4716187,TRUE,FALSE,FALSE,"S279576844"
-"162","woothr","Wood Thrush","Hylocichla mustelina","L53485431","MD, MoCo, Bethesda, Carriage Hill","2025-10-15 13:30",1,39.0059288,-77.1041965,TRUE,TRUE,TRUE,"S279622041"
-"163","woothr","Wood Thrush","Hylocichla mustelina","L26805796","1027 Davis Crossing Rd, Canton US-MS 32.69268, -89.98707","2025-10-15 13:20",1,32.692678,-89.987068,TRUE,FALSE,TRUE,"S279564056"
-"164","woothr","Wood Thrush","Hylocichla mustelina","L2120169","Ely's Mill, Roaring Fork Road","2025-10-15 12:23",1,35.7159535,-83.4884387,TRUE,FALSE,TRUE,"S279560219"
-"165","woothr","Wood Thrush","Hylocichla mustelina","L1777759","Pass Christian--War Memorial Park","2025-10-15 12:19",1,30.3177123,-89.2402901,TRUE,FALSE,FALSE,"S279608215"
-"166","woothr","Wood Thrush","Hylocichla mustelina","L1143291","City Park--Couturie Forest","2025-10-15 10:49",3,30.0031829,-90.0951501,TRUE,FALSE,FALSE,"S279557828"
-"167","woothr","Wood Thrush","Hylocichla mustelina","L624934","Strayer's Sanctuary","2025-10-15 09:48",1,41.3271309,-85.5203891,TRUE,TRUE,TRUE,"S279560208"
-"168","woothr","Wood Thrush","Hylocichla mustelina","L18627940","My Yard","2025-10-15 09:48",1,35.5513822,-82.1847308,TRUE,TRUE,TRUE,"S279516468"
-"169","woothr","Wood Thrush","Hylocichla mustelina","L53549588","Flying Creek Nature Preserve","2025-10-15 09:43",1,30.550981,-87.897373,TRUE,FALSE,TRUE,"S279555018"
-"170","woothr","Wood Thrush","Hylocichla mustelina","L3925781","Lambert-Sewell Property, DeKalb County","2025-10-15 09:05",1,33.8684201,-84.2013752,TRUE,FALSE,TRUE,"S279571928"
-"171","woothr","Wood Thrush","Hylocichla mustelina","L13669259","Ritz Cracker House","2025-10-15 08:43",1,30.267924,-85.963349,TRUE,FALSE,TRUE,"S279517001"
-"172","woothr","Wood Thrush","Hylocichla mustelina","L2614238","Cathedral Caverns SP","2025-10-15 08:32",1,34.5742054,-86.2201613,TRUE,FALSE,FALSE,"S279502763"
-"173","woothr","Wood Thrush","Hylocichla mustelina","L2156705","Bee Tree County Park","2025-10-15 08:30",1,38.4088432,-90.3266287,TRUE,FALSE,FALSE,"S279562736"
-"174","woothr","Wood Thrush","Hylocichla mustelina","L17928824","Cottonhill","2025-10-15 08:27",1,31.7310265,-84.9653141,TRUE,FALSE,TRUE,"S279574275"
-"175","woothr","Wood Thrush","Hylocichla mustelina","L6436338","Chapman Mountain Nature Preserve","2025-10-15 08:11",1,34.7743418,-86.5494515,TRUE,FALSE,FALSE,"S280565606"
-"176","woothr","Wood Thrush","Hylocichla mustelina","L891347","Reddie Point Preserve","2025-10-15 08:01",1,30.3887022,-81.6199476,TRUE,FALSE,FALSE,"S279504322"
-"177","woothr","Wood Thrush","Hylocichla mustelina","L3529265","Andrew Jackson State Park","2025-10-15 08:00",2,34.8376885,-80.8042073,TRUE,FALSE,FALSE,"S279718814"
-"178","woothr","Wood Thrush","Hylocichla mustelina","L23526656","Our Yard","2025-10-15 07:59",1,35.764736,-78.775801,TRUE,FALSE,TRUE,"S279725782"
-"179","woothr","Wood Thrush","Hylocichla mustelina","L576460","Bear Creek Educational Forest","2025-10-15 07:40",2,30.4771939,-84.6258831,TRUE,FALSE,FALSE,"S279536965"
-"180","woothr","Wood Thrush","Hylocichla mustelina","L833489","Lorimer Park","2025-10-15 07:19",1,40.0969462,-75.0741935,TRUE,TRUE,FALSE,"S279507023"
-"181","woothr","Wood Thrush","Hylocichla mustelina","L34653709","Golf Course Loop","2025-10-15 07:17",1,35.139038,-82.336528,TRUE,FALSE,TRUE,"S279481128"
-"182","woothr","Wood Thrush","Hylocichla mustelina","L35342998","1105 Dublin Dr, Richmond Hill US-GA 31.92494, -81.28107","2025-10-15 07:15",1,31.92494,-81.281071,TRUE,FALSE,TRUE,"S280029975"
-"183","woothr","Wood Thrush","Hylocichla mustelina","L17961091","12238 Cooper Road, Holt, Florida, US (30.666, -86.808)","2025-10-15 07:06",1,30.6655234,-86.8079729,TRUE,FALSE,TRUE,"S279488033"
-"184","woothr","Wood Thrush","Hylocichla mustelina","L5144008","Bell Ave & Bee Ridge Rd.","2025-10-15 06:58",1,27.2982769,-82.5010881,TRUE,FALSE,TRUE,"S279470922"
-"185","woothr","Wood Thrush","Hylocichla mustelina","L53947910","Charles Ray Nix WMA","2025-10-15 06:44",1,34.4033171,-90.0276459,TRUE,FALSE,TRUE,"S279479878"
-"186","woothr","Wood Thrush","Hylocichla mustelina","L5386247","byard - 32.622x-85.473","2025-10-15 06:25",1,32.6221013,-85.4725029,TRUE,FALSE,TRUE,"S279602959"
-"187","woothr","Wood Thrush","Hylocichla mustelina","L6161730","Home, Cypress Falls, North Port","2025-10-15 05:17",2,27.0880338,-82.1419698,TRUE,FALSE,TRUE,"S279586601"
-"188","woothr","Wood Thrush","Hylocichla mustelina","L30881464","2165 Old Augusta Rd S, Rincon US-GA 32.24989, -81.18823","2025-10-15 02:46",1,32.249892,-81.18823,TRUE,FALSE,TRUE,"S279448516"
-"189","woothr","Wood Thrush","Hylocichla mustelina","L1165577","2036 Priest Rd (private)","2025-10-15",1,36.0680156,-86.8356478,TRUE,TRUE,TRUE,"S279537165"
-"190","woothr","Wood Thrush","Hylocichla mustelina","L52636724","NFC Station","2025-10-14 19:00",2,43.6052131,-76.1475847,TRUE,FALSE,TRUE,"S279618727"
-"191","woothr","Wood Thrush","Hylocichla mustelina","L38272971","6312 Apple Ridge Circle, Pensacola, Florida, US (30.473, -87.319)","2025-10-14 18:12",2,30.4731848,-87.3188316,TRUE,FALSE,TRUE,"S279416500"
-"192","woothr","Wood Thrush","Hylocichla mustelina","L46621268","My Home","2025-10-14 18:06",1,29.115937,-82.1490176,TRUE,FALSE,TRUE,"S279411446"
-"193","woothr","Wood Thrush","Hylocichla mustelina","L17287280","Michigan Knob (private)","2025-10-14 17:59",1,38.5742251,-78.100817,TRUE,FALSE,TRUE,"S279423335"
-"194","woothr","Wood Thrush","Hylocichla mustelina","L38783125","Buck Forest","2025-10-14 17:58",NA,30.2074711,-84.2358177,TRUE,FALSE,TRUE,"S279409196"
-"195","woothr","Wood Thrush","Hylocichla mustelina","L13584416","My Yard","2025-10-14 16:15",1,38.8518196,-77.2671569,TRUE,TRUE,TRUE,"S279465555"
-"196","woothr","Wood Thrush","Hylocichla mustelina","L896694","Mitchelville Freedom Park","2025-10-14 13:25",1,32.237216,-80.6868267,TRUE,FALSE,FALSE,"S279397379"
-"197","woothr","Wood Thrush","Hylocichla mustelina","L12445104","home","2025-10-14 12:54",2,34.6996803,-83.4722977,TRUE,FALSE,TRUE,"S279365821"
-"198","woothr","Wood Thrush","Hylocichla mustelina","L1431612","Crabtree Creek Watershed","2025-10-14 11:00",1,35.8169399,-78.858515,TRUE,FALSE,FALSE,"S279550782"
-"199","woothr","Wood Thrush","Hylocichla mustelina","L1305391","Blackwater River SP","2025-10-14 10:54",2,30.7079695,-86.8746901,TRUE,FALSE,FALSE,"S279365198"
-"200","woothr","Wood Thrush","Hylocichla mustelina","L10213005","367 sanj’s Backyard","2025-10-14 10:31",1,39.6812196,-84.0529865,TRUE,FALSE,TRUE,"S279342758"
-"201","woothr","Wood Thrush","Hylocichla mustelina","L13685780","169 Deertree Dr.","2025-10-14 10:30",1,33.8978099,-83.3105159,TRUE,FALSE,TRUE,"S279422566"
-"202","woothr","Wood Thrush","Hylocichla mustelina","L16534179","Kingsnake trail, Congaree Ntl Pk","2025-10-14 10:30",1,33.8145062,-80.7867814,TRUE,FALSE,TRUE,"S279375392"
-"203","woothr","Wood Thrush","Hylocichla mustelina","L53696383","Amberbrook Creek, Grayson US-GA 33.89865, -83.93589","2025-10-14 10:05",2,33.8985748,-83.9354995,TRUE,FALSE,TRUE,"S279376716"
-"204","woothr","Wood Thrush","Hylocichla mustelina","L3218685","Cross Keys Park","2025-10-14 09:49",1,38.0415175,-84.5553625,TRUE,FALSE,FALSE,"S279386894"
-"205","woothr","Wood Thrush","Hylocichla mustelina","L894447","GTM NERR--Yellow Trail","2025-10-14 09:33",1,30.0215435,-81.3360357,TRUE,FALSE,FALSE,"S279425361"
-"206","woothr","Wood Thrush","Hylocichla mustelina","L1114135","Amerson River Park","2025-10-14 09:25",2,32.8763254,-83.6502457,TRUE,FALSE,FALSE,"S279336843"
-"207","woothr","Wood Thrush","Hylocichla mustelina","L48972423","Hamlin Rd.--Mountains-to-Sea Trail Access","2025-10-14 09:22",2,36.0624748,-78.8467818,TRUE,FALSE,FALSE,"S279353692"
-"208","woothr","Wood Thrush","Hylocichla mustelina","L42284596","1201 Mitchell View Drive, Old Fort, North Carolina, US (35.551, -82.185)","2025-10-14 09:21",2,35.5513938,-82.1846414,TRUE,FALSE,TRUE,"S279333822"
-"209","woothr","Wood Thrush","Hylocichla mustelina","L2982306","Charles Towne Landing","2025-10-14 09:16",1,32.8073499,-79.9884939,TRUE,FALSE,FALSE,"S279376249"
-"210","woothr","Wood Thrush","Hylocichla mustelina","L605966","Grand Isle--woods--Lafitte Woods Preserve--Landry-LeBlanc Tract","2025-10-14 09:08",1,29.234199,-89.9931681,TRUE,FALSE,FALSE,"S279371171"
-"211","woothr","Wood Thrush","Hylocichla mustelina","L655727","East Fork SP--South Side","2025-10-14 08:50",1,39.0125816,-84.1348886,TRUE,FALSE,FALSE,"S279468715"
-"212","woothr","Wood Thrush","Hylocichla mustelina","L1050966","Lake Dan Nature Preserve","2025-10-14 08:50",1,28.1584802,-82.6369393,TRUE,FALSE,FALSE,"S279357881"
-"213","woothr","Wood Thrush","Hylocichla mustelina","L22549478","My Hood, Ocean Springs US-MS","2025-10-14 08:36",1,30.407878,-88.807973,TRUE,FALSE,TRUE,"S279884126"
-"214","woothr","Wood Thrush","Hylocichla mustelina","L1357432","private residence-St. Jude Woods","2025-10-14 08:30",1,30.64691,-88.2392006,TRUE,FALSE,TRUE,"S279341533"
-"215","woothr","Wood Thrush","Hylocichla mustelina","L2323084","Fannie's Field","2025-10-14 08:15",1,30.7542928,-84.7253501,TRUE,FALSE,TRUE,"S279366971"
-"216","woothr","Wood Thrush","Hylocichla mustelina","L9146711","HOME in Auburn, AL 36832","2025-10-14 08:10",1,32.5263439,-85.5318616,TRUE,FALSE,TRUE,"S279443150"
-"217","woothr","Wood Thrush","Hylocichla mustelina","L1000300","Gum Swamp Road","2025-10-14 08:06",1,33.3857296,-81.9185257,TRUE,FALSE,FALSE,"S279338484"
-"218","woothr","Wood Thrush","Hylocichla mustelina","L484987","Bald Point SP","2025-10-14 08:04",1,29.9377826,-84.3381304,TRUE,FALSE,FALSE,"S279343125"
-"219","woothr","Wood Thrush","Hylocichla mustelina","L4150815","Friendship Forest Wildlife Sanctuary ","2025-10-14 07:56",1,33.8157946,-84.2362037,TRUE,FALSE,FALSE,"S279341655"
-"220","woothr","Wood Thrush","Hylocichla mustelina","L2975820","Sagamore Hills","2025-10-14 07:48",1,33.8333414,-84.2987823,TRUE,FALSE,TRUE,"S279321787"
-"221","woothr","Wood Thrush","Hylocichla mustelina","L9170881","Sellars Farm State Archeological Area","2025-10-14 07:47",1,36.1655883,-86.2422241,TRUE,TRUE,FALSE,"S279356324"
-"222","woothr","Wood Thrush","Hylocichla mustelina","L5720675","Congaree NP--Visitor Center","2025-10-14 07:45",2,33.8294639,-80.823251,TRUE,FALSE,FALSE,"S279432492"
-"223","woothr","Wood Thrush","Hylocichla mustelina","L11371747","2920 Pearl Drive, Tallahassee, Florida, US (30.485, -84.283)","2025-10-14 07:44",1,30.4848966,-84.2832992,TRUE,FALSE,TRUE,"S279336347"
-"224","woothr","Wood Thrush","Hylocichla mustelina","L13101797","Duncan yard, Gulf Breeze","2025-10-14 07:30",1,30.3604091,-87.197123,TRUE,FALSE,TRUE,"S279423453"
-"225","woothr","Wood Thrush","Hylocichla mustelina","L4162142","309 Carr Lane","2025-10-14 07:24",1,30.593681,-84.273653,TRUE,FALSE,TRUE,"S279299272"
-"226","woothr","Wood Thrush","Hylocichla mustelina","L9850490","Resch NC Yard","2025-10-14 07:15",1,35.3841273,-82.3673916,TRUE,FALSE,TRUE,"S279431235"
-"227","woothr","Wood Thrush","Hylocichla mustelina","L2116701","Waties Island","2025-10-14 07:11",1,33.8488889,-78.5747222,TRUE,FALSE,FALSE,"S279422410"
-"228","woothr","Wood Thrush","Hylocichla mustelina","L465098","Paulks Pasture WMA","2025-10-14 07:06",1,31.3185944,-81.5899658,TRUE,FALSE,FALSE,"S279338568"
-"229","woothr","Wood Thrush","Hylocichla mustelina","L2214256","Three Lakes WMA--Hwy. 60 unit","2025-10-14 07:02",1,27.8326657,-81.1449337,TRUE,FALSE,FALSE,"S279540788"
-"230","woothr","Wood Thrush","Hylocichla mustelina","L20667105","Kiawah Island Banding Station-Little Bear (Restricted Access)","2025-10-14 07:00",1,32.616142,-79.995395,TRUE,FALSE,FALSE,"S279420134"
-"231","woothr","Wood Thrush","Hylocichla mustelina","L458088","Mt. Nebo WMA","2025-10-14 07:00",1,39.454586,-79.3854904,TRUE,TRUE,FALSE,"S279405685"
-"232","woothr","Wood Thrush","Hylocichla mustelina","L12965788","Ruffner Mountain--Eastern Trailhead","2025-10-14 07:00",3,33.558598,-86.6889954,TRUE,FALSE,FALSE,"S279428723"
-"233","woothr","Wood Thrush","Hylocichla mustelina","L978526","Fraker Farm (Private No Access)","2025-10-14 06:55",1,40.6441776,-89.1259003,TRUE,TRUE,FALSE,"S279473424"
-"234","woothr","Wood Thrush","Hylocichla mustelina","L131646","Radnor Lake SP","2025-10-14 06:35",2,36.0602989,-86.8016968,TRUE,FALSE,FALSE,"S279323331"
-"235","woothr","Wood Thrush","Hylocichla mustelina","L2609675","Big Rivers WMA and State Forest (Crittenden Co.)","2025-10-14 06:23",1,37.4962778,-88.0372882,TRUE,FALSE,FALSE,"S279329953"
-"236","woothr","Wood Thrush","Hylocichla mustelina","L985833","Pine Level","2025-10-14 06:23",1,32.5592612,-86.4576441,TRUE,FALSE,TRUE,"S279298111"
-"237","woothr","Wood Thrush","Hylocichla mustelina","L582707","LaRue-Pine Hills Ecological Area","2025-10-14 06:15",1,37.5626093,-89.4411564,TRUE,TRUE,FALSE,"S279954604"
-"238","woothr","Wood Thrush","Hylocichla mustelina","L16771337","Meadow Lea","2025-10-14 05:57",1,30.404048,-91.139771,TRUE,FALSE,TRUE,"S280498800"
-"239","woothr","Wood Thrush","Hylocichla mustelina","L3330516","Plummer's Hollow","2025-10-13 20:41",1,40.665,-78.23028,TRUE,TRUE,FALSE,"S279752508"
-"240","woothr","Wood Thrush","Hylocichla mustelina","L164554","State Botanical Garden of Georgia","2025-10-13 18:12",1,33.9001498,-83.3857394,TRUE,FALSE,FALSE,"S279237415"
-"241","woothr","Wood Thrush","Hylocichla mustelina","L30686486","Yard","2025-10-13 17:46",1,34.532281,-84.288968,TRUE,FALSE,TRUE,"S279226950"
-"242","woothr","Wood Thrush","Hylocichla mustelina","L13733170","751 NE 160th Ave, Williston US-FL 29.34111, -82.50304","2025-10-13 17:37",1,29.341115,-82.503038,TRUE,FALSE,TRUE,"S279233660"
-"243","woothr","Wood Thrush","Hylocichla mustelina","L54019760","LSSI: Old House Alternate to Old House Trail","2025-10-13 17:36",1,31.261997,-81.302177,TRUE,FALSE,TRUE,"S279234755"
-"244","woothr","Wood Thrush","Hylocichla mustelina","L956088","Pisgah NF--Table Rock","2025-10-13 17:34",1,35.8866771,-81.8847084,TRUE,FALSE,FALSE,"S279341612"
-"245","woothr","Wood Thrush","Hylocichla mustelina","L8384226","2130 Double Creek Ln, Milton US-GA (34.1242,-84.2977)","2025-10-13 17:28",1,34.12419,-84.297746,TRUE,FALSE,TRUE,"S279229777"
-"246","woothr","Wood Thrush","Hylocichla mustelina","L16503051","Ellington property Pearl River US-LA 30.37037, -89.80312","2025-10-13 17:21",1,30.370374,-89.803118,TRUE,FALSE,TRUE,"S279235058"
-"247","woothr","Wood Thrush","Hylocichla mustelina","L13554115","10979 Hutchesons Ferry Road, Palmetto, Georgia, US (33.532, -84.743)","2025-10-13 17:20",2,33.5315306,-84.742616,TRUE,FALSE,TRUE,"S279382889"
-"248","woothr","Wood Thrush","Hylocichla mustelina","L337493","Paradise PFA","2025-10-13 16:39",1,31.4010079,-83.3665066,TRUE,FALSE,FALSE,"S279240593"
-"249","woothr","Wood Thrush","Hylocichla mustelina","L36958174","Baars Park","2025-10-13 15:55",1,30.4609448,-87.2048948,TRUE,FALSE,TRUE,"S279477380"
-"250","woothr","Wood Thrush","Hylocichla mustelina","L1452322","Scull Shoals Historic Area","2025-10-13 15:07",1,33.7331912,-83.2693291,TRUE,FALSE,FALSE,"S279350128"
-"251","woothr","Wood Thrush","Hylocichla mustelina","L485133","Taylor's Island","2025-10-13 14:20",1,38.4687105,-76.2998772,TRUE,TRUE,FALSE,"S279331947"
-"252","woothr","Wood Thrush","Hylocichla mustelina","L822406","Waccamaw NWR--Cox Ferry Lake Recreation Area","2025-10-13 14:19",1,33.7921216,-79.0489794,TRUE,FALSE,FALSE,"S279228081"
-"253","woothr","Wood Thrush","Hylocichla mustelina","L2672010","Green Meadows Preserve","2025-10-13 14:06",1,33.9514056,-84.6657515,TRUE,FALSE,FALSE,"S279205568"
-"254","woothr","Wood Thrush","Hylocichla mustelina","L463227","Chapmans Pond and Nature Trails","2025-10-13 13:41",1,29.6184836,-82.4188213,TRUE,FALSE,FALSE,"S279220640"
-"255","woothr","Wood Thrush","Hylocichla mustelina","L3180819","Home","2025-10-13 13:00",1,36.3045391,-80.3232577,TRUE,FALSE,TRUE,"S279355139"
-"256","woothr","Wood Thrush","Hylocichla mustelina","L25284832","Private Residence Near South Blackstock Road, Spartanburg, South Carolina, US (34.925, -81.993)","2025-10-13 12:58",2,34.9249339,-81.9932893,TRUE,FALSE,TRUE,"S279187128"
-"257","woothr","Wood Thrush","Hylocichla mustelina","L5847794","Home 35.828200 -82.341060","2025-10-13 12:53",1,35.8275216,-82.3417997,TRUE,FALSE,TRUE,"S279297740"
-"258","woothr","Wood Thrush","Hylocichla mustelina","L17264472","Private property","2025-10-13 12:32",1,39.505304,-88.086179,TRUE,TRUE,TRUE,"S279224023"
-"259","woothr","Wood Thrush","Hylocichla mustelina","L1328671","Lake Elberta","2025-10-13 11:30",1,30.4297796,-84.3005751,TRUE,FALSE,FALSE,"S279534123"
-"260","woothr","Wood Thrush","Hylocichla mustelina","L270823","Walker Springs Park & Ten Mile Creek Greenway","2025-10-13 11:26",1,35.9281253,-84.069436,TRUE,FALSE,FALSE,"S279194989"
-"261","woothr","Wood Thrush","Hylocichla mustelina","L41237245","Pilot Town Beach Access (Old Neighborhood), Bon Secour NWR","2025-10-13 10:45",1,30.233704,-87.969191,TRUE,FALSE,TRUE,"S279183058"
-"262","woothr","Wood Thrush","Hylocichla mustelina","L1822845","Nine Times Preserve","2025-10-13 10:34",2,34.9483203,-82.801891,TRUE,FALSE,FALSE,"S279338496"
-"263","woothr","Wood Thrush","Hylocichla mustelina","L1009347","Roosevelt Wetland","2025-10-13 10:34",1,27.8708722,-82.6895428,TRUE,FALSE,FALSE,"S279171378"
-"264","woothr","Wood Thrush","Hylocichla mustelina","L1655340","JIBS","2025-10-13 09:48",2,31.0152819,-81.4325099,TRUE,FALSE,TRUE,"S279259943"
-"265","woothr","Wood Thrush","Hylocichla mustelina","L165792","Fort Morgan State Historic Site","2025-10-13 09:47",2,30.2294449,-88.0180432,TRUE,FALSE,FALSE,"S279178136"
-"266","woothr","Wood Thrush","Hylocichla mustelina","L9956467","Luttrell, Tennessee","2025-10-13 09:45",1,36.201103,-83.802859,TRUE,FALSE,TRUE,"S279188614"
-"267","woothr","Wood Thrush","Hylocichla mustelina","L816148","Decatur Cemetery","2025-10-13 09:30",1,33.7808595,-84.2922592,TRUE,FALSE,FALSE,"S279173244"
-"268","woothr","Wood Thrush","Hylocichla mustelina","L42613408","988 Goshen Creek Rd, Clarkesville US-GA 34.77124, -83.60368","2025-10-13 09:20",1,34.771241,-83.603676,TRUE,FALSE,TRUE,"S279149306"
-"269","woothr","Wood Thrush","Hylocichla mustelina","L3844218","Ashley River Park","2025-10-13 09:18",1,32.9589072,-80.199815,TRUE,FALSE,FALSE,"S279255388"
-"270","woothr","Wood Thrush","Hylocichla mustelina","L52605413","4034 Columns Dr SE, Marietta US-GA (33.9237,-84.4361)","2025-10-13 09:16",1,33.923688,-84.436121,TRUE,FALSE,TRUE,"S279339132"
-"271","woothr","Wood Thrush","Hylocichla mustelina","L20993645","14420 U.S. 27, Hamilton, Georgia, US (32.788, -84.871)","2025-10-13 09:14",1,32.7880295,-84.8708188,TRUE,FALSE,TRUE,"S279129515"
-"272","woothr","Wood Thrush","Hylocichla mustelina","L54015606","Snake Road","2025-10-13 09:09",1,37.582387,-89.43945,TRUE,TRUE,TRUE,"S279213185"
-"273","woothr","Wood Thrush","Hylocichla mustelina","L11976796","Yard","2025-10-13 09:00",1,33.9680967,-84.2452825,TRUE,FALSE,TRUE,"S279131507"
-"274","woothr","Wood Thrush","Hylocichla mustelina","L225489","Chattahoochee River NRA--Cochran Shoals Unit","2025-10-13 08:56",1,33.9029531,-84.4446534,TRUE,FALSE,FALSE,"S279176583"
-"275","woothr","Wood Thrush","Hylocichla mustelina","L127365","Saddle Creek Park","2025-10-13 08:50",1,28.0620436,-81.8838501,TRUE,FALSE,FALSE,"S279207301"
-"276","woothr","Wood Thrush","Hylocichla mustelina","L36036240","Pasture, hardwoods, creek, cattle pond (Private)","2025-10-13 08:15",2,30.5233498,-83.9418795,TRUE,FALSE,TRUE,"S279211255"
-"277","woothr","Wood Thrush","Hylocichla mustelina","L16213873","Ruffner Mountain Nature Preserve, Birmingham US-AL 33.55880, -86.68880","2025-10-13 08:14",1,33.558801,-86.688797,TRUE,FALSE,TRUE,"S279182066"
-"278","woothr","Wood Thrush","Hylocichla mustelina","L881666","Ben Burton Park","2025-10-13 08:12",1,33.9600522,-83.4389864,TRUE,FALSE,FALSE,"S279136386"
-"279","woothr","Wood Thrush","Hylocichla mustelina","L13641345","Fort Fremont","2025-10-13 08:09",1,32.3099,-80.643512,TRUE,FALSE,TRUE,"S279117364"
-"280","woothr","Wood Thrush","Hylocichla mustelina","L1118671","Lake Allatoona--Coopers Furnace Park and Overlook","2025-10-13 08:00",1,34.1645585,-84.7336905,TRUE,FALSE,FALSE,"S279153493"
-"281","woothr","Wood Thrush","Hylocichla mustelina","L11396469","Bio-Way Farm (private)","2025-10-13 07:33",1,34.471083,-82.257794,TRUE,FALSE,FALSE,"S279130469"
-"282","woothr","Wood Thrush","Hylocichla mustelina","L265942","Jackson Park","2025-10-13 07:33",1,41.781201,-87.5813341,TRUE,TRUE,FALSE,"S279142941"
-"283","woothr","Wood Thrush","Hylocichla mustelina","L32562999","797 Pleasant Hill Rd, Morgantown US-WV 39.62705, -79.89120","2025-10-13 07:32",1,39.627054,-79.891203,TRUE,FALSE,TRUE,"S279106058"
-"284","woothr","Wood Thrush","Hylocichla mustelina","L41610576","127 Boulder Rock Drive, Palm Coast, Florida, US (29.567, -81.231)","2025-10-13 07:23",1,29.5668482,-81.2310991,TRUE,FALSE,TRUE,"S279115567"
-"285","woothr","Wood Thrush","Hylocichla mustelina","L16730672","905 Indian Ridge Trail, Hendersonville US-NC 35.27742, -82.60937","2025-10-13 07:16",NA,35.277416,-82.609375,TRUE,FALSE,TRUE,"S279100362"
-"286","woothr","Wood Thrush","Hylocichla mustelina","L275683","Myrtle Beach SP","2025-10-13 07:07",1,33.6525976,-78.9268545,TRUE,FALSE,FALSE,"S279229203"
-"287","woothr","Wood Thrush","Hylocichla mustelina","L2438410","Red Mountain Park","2025-10-13 07:02",3,33.4451144,-86.8626405,TRUE,FALSE,FALSE,"S279184412"
-"288","woothr","Wood Thrush","Hylocichla mustelina","L11344160","Eno River Association Woods, West Hillsborough","2025-10-13 07:00",1,36.0679364,-79.1188125,TRUE,FALSE,TRUE,"S279105151"
-"289","woothr","Wood Thrush","Hylocichla mustelina","L7711903","Pineridge Ct Neighborhood","2025-10-13 06:50",1,30.3838847,-90.0576138,TRUE,FALSE,TRUE,"S279125750"
-"290","woothr","Wood Thrush","Hylocichla mustelina","L269297","Kissimmee River Boat Launch (Osceola Co.)","2025-10-13 06:46",1,27.8033571,-81.1988139,TRUE,FALSE,FALSE,"S279529630"
-"291","woothr","Wood Thrush","Hylocichla mustelina","L27114268","243 61st Street Gulf, Marathon US-FL 24.71864, -81.07082","2025-10-13 06:09",1,24.718638,-81.070823,TRUE,FALSE,TRUE,"S279096791"
-"292","woothr","Wood Thrush","Hylocichla mustelina","L21478068","Calhoun house","2025-10-13 05:30",NA,32.529169,-84.997986,TRUE,FALSE,TRUE,"S279146673"
+"","speciesCode","comName","sciName","locId","locName","obsDt","lat","lng","obsValid","obsReviewed","locationPrivate","subId","howMany"
+"1","canvas","Canvasback","Aythya valisineria","L352554","Fargo--Sewage Settling Ponds","2025-10-23 17:45",46.9626441,-96.8402598,TRUE,FALSE,FALSE,"S281001348",NA
+"2","canvas","Canvasback","Aythya valisineria","L1797533","Lake Koshkonong--Bingham Rd. Boat Launch (Jefferson Co.)","2025-10-23 16:55",42.8729881,-89.0129873,TRUE,FALSE,FALSE,"S280997060",1
+"3","canvas","Canvasback","Aythya valisineria","L264663","Kachina Wetlands","2025-10-23 16:06",35.1096843,-111.6895866,TRUE,FALSE,FALSE,"S281008118",2
+"4","canvas","Canvasback","Aythya valisineria","L1092125","Sedona Wetlands Preserve","2025-10-23 15:50",34.829,-111.8964,TRUE,FALSE,FALSE,"S281004651",1
+"5","canvas","Canvasback","Aythya valisineria","L2188466","Juniper Lake","2025-10-23 14:54",42.9177779,-118.3432674,TRUE,FALSE,FALSE,"S280997448",35
+"6","canvas","Canvasback","Aythya valisineria","L37697985","Cummins Lake Argo Mill SiteEly, Nevada, US (39.148, -114.801)","2025-10-23 14:24",39.14826,-114.8005067,TRUE,FALSE,TRUE,"S280993679",6
+"7","canvas","Canvasback","Aythya valisineria","L725880","Dechambeau Ponds","2025-10-23 14:00",38.0506527,-119.0841529,TRUE,FALSE,FALSE,"S280996668",1
+"8","canvas","Canvasback","Aythya valisineria","L815296","Broughton Beach","2025-10-23 13:50",45.6003622,-122.6152539,TRUE,FALSE,FALSE,"S281000255",1
+"9","canvas","Canvasback","Aythya valisineria","L3818029","56th St SE/16th Ave NW stormwater facility, Puyallup","2025-10-23 13:45",47.2056628,-122.3372054,TRUE,FALSE,FALSE,"S280987199",1
+"10","canvas","Canvasback","Aythya valisineria","L140460","Big Johnson Reservoir & Bluestem Prairie Open Space","2025-10-23 13:15",38.7482319,-104.6943795,TRUE,FALSE,FALSE,"S280980656",1
+"11","canvas","Canvasback","Aythya valisineria","L450388","Lake Hood & Lake Spenard","2025-10-23 13:00",61.1787982,-149.9607182,TRUE,FALSE,FALSE,"S281000278",1
+"12","canvas","Canvasback","Aythya valisineria","L151157","Silver Creek Reservoir","2025-10-23 12:52",44.037586,-92.357025,TRUE,FALSE,FALSE,"S280970155",1
+"13","canvas","Canvasback","Aythya valisineria","L1515784","Healy Reservoir","2025-10-23 12:45",44.4134538,-106.6063384,TRUE,FALSE,FALSE,"S280976789",NA
+"14","canvas","Canvasback","Aythya valisineria","L1796157","Olympia--Capitol Lake North Pool","2025-10-23 12:35",47.0400325,-122.9092042,TRUE,FALSE,FALSE,"S280990505",2
+"15","canvas","Canvasback","Aythya valisineria","L29861015","Spring Lake (Scott Co.)","2025-10-23 11:20",44.7020536,-93.4741155,TRUE,FALSE,FALSE,"S280970711",1
+"16","canvas","Canvasback","Aythya valisineria","L272182","Laramie Plains Lakes--Twin Buttes Lake","2025-10-23 10:49",41.2362864,-105.853907,TRUE,FALSE,FALSE,"S280970154",2
+"17","canvas","Canvasback","Aythya valisineria","L5094073","Cross Creek Regional Park","2025-10-23 10:41",38.7130677,-104.6855476,TRUE,FALSE,FALSE,"S280958163",2
+"18","canvas","Canvasback","Aythya valisineria","L3710402","Mud Lake, Ozaukee Co.","2025-10-23 10:40",43.3771908,-88.0234319,TRUE,FALSE,FALSE,"S280951208",1
+"19","canvas","Canvasback","Aythya valisineria","L272218","Laramie Plains Lakes--Lake Hattie Reservoir","2025-10-23 10:21",41.2423606,-105.9257812,TRUE,FALSE,FALSE,"S280965390",6
+"20","canvas","Canvasback","Aythya valisineria","L2609622","Creston Wetland","2025-10-23 10:10",48.200033,-114.1397095,TRUE,FALSE,FALSE,"S280956010",6
+"21","canvas","Canvasback","Aythya valisineria","L232858","Byxbee Park","2025-10-23 10:09",37.4510644,-122.1055913,TRUE,FALSE,FALSE,"S280982839",1
+"22","canvas","Canvasback","Aythya valisineria","L18393698","SH-317 Spur, Del Rio US-TX (29.3429,-100.8219)","2025-10-23 10:07",29.342902,-100.821904,TRUE,FALSE,TRUE,"S280964364",1
+"23","canvas","Canvasback","Aythya valisineria","L277539","South Platte Park","2025-10-23 09:52",39.5800825,-105.0324478,TRUE,FALSE,FALSE,"S280970666",1
+"24","canvas","Canvasback","Aythya valisineria","L582216","Whale Rock Reservoir","2025-10-23 09:48",35.4636527,-120.8708239,TRUE,FALSE,FALSE,"S280988818",4
+"25","canvas","Canvasback","Aythya valisineria","L155200","Standley Lake and Park","2025-10-23 09:47",39.8635031,-105.1222515,TRUE,FALSE,FALSE,"S280962283",5
+"26","canvas","Canvasback","Aythya valisineria","L355373","Salt Lake (SD side)","2025-10-23 09:46",44.9680715,-96.4549424,TRUE,FALSE,FALSE,"S280999278",9
+"27","canvas","Canvasback","Aythya valisineria","L800627","North Spit--old Weyco Settling Pond & deflation plain","2025-10-23 09:13",43.4210895,-124.2850935,TRUE,FALSE,FALSE,"S280969758",3
+"28","canvas","Canvasback","Aythya valisineria","L215383","Gates of the Mountains","2025-10-23 09:02",46.8305931,-111.9483969,TRUE,FALSE,FALSE,"S280955554",1
+"29","canvas","Canvasback","Aythya valisineria","L210723","Salt Lake","2025-10-23 08:46",44.9645052,-96.4437363,TRUE,FALSE,FALSE,"S280935714",116
+"30","canvas","Canvasback","Aythya valisineria","L41398482","Zia Reservoir","2025-10-23 08:32",35.5286156,-106.7578337,TRUE,FALSE,FALSE,"S280952660",9
+"31","canvas","Canvasback","Aythya valisineria","L1027749","Heron Lakes Golf Club--Force Lake","2025-10-23 08:18",45.604911,-122.6953554,TRUE,FALSE,FALSE,"S280948401",2
+"32","canvas","Canvasback","Aythya valisineria","L338760","Highline Lake SP","2025-10-23 08:11",39.2741769,-108.8396124,TRUE,FALSE,FALSE,"S280952923",2
+"33","canvas","Canvasback","Aythya valisineria","L576881","New Buffalo beach and marina","2025-10-23 07:47",41.8007831,-86.7489052,TRUE,FALSE,FALSE,"S280993039",2
+"34","canvas","Canvasback","Aythya valisineria","L8346063","Hines Nature Trail","2025-10-23 07:13",43.5561306,-119.0771071,TRUE,FALSE,FALSE,"S280932313",5
+"35","canvas","Canvasback","Aythya valisineria","L54368012","Best Frontage Rd Pond (44.79336, -117.80949)","2025-10-23 07:09",44.793362,-117.809486,TRUE,FALSE,TRUE,"S280930906",3
+"36","canvas","Canvasback","Aythya valisineria","L12334693","Tres Lagunas","2025-10-23 06:07",34.9550619,-104.6456623,TRUE,FALSE,FALSE,"S280961122",6
+"37","canvas","Canvasback","Aythya valisineria","L51929700","Resevoir Road, Dorrance, Kansas, US (38.947, -98.657)","2025-10-22 17:23",38.947087,-98.6569526,TRUE,FALSE,TRUE,"S280872022",1
+"38","canvas","Canvasback","Aythya valisineria","L152754","Lake George, Hammond","2025-10-22 17:22",41.6683,-87.4986,TRUE,FALSE,FALSE,"S280858502",1
+"39","canvas","Canvasback","Aythya valisineria","L989047","South Richmond Marshes (Stege, Hoffman) and Meeker Slough","2025-10-22 16:35",37.9090901,-122.3329122,TRUE,FALSE,FALSE,"S280871775",1
+"40","canvas","Canvasback","Aythya valisineria","L1921558","Ivins Reservoir","2025-10-22 15:46",37.18101,-113.7148,TRUE,FALSE,TRUE,"S280853286",2
+"41","canvas","Canvasback","Aythya valisineria","L1284489","Russell WTP","2025-10-22 15:29",38.8724752,-98.8408506,TRUE,FALSE,FALSE,"S280846239",5
+"42","canvas","Canvasback","Aythya valisineria","L2700894","Gustavus--Lake Gustavus","2025-10-22 14:46",58.4246351,-135.6892713,TRUE,FALSE,FALSE,"S280877286",1
+"43","canvas","Canvasback","Aythya valisineria","L21946807","Willow Lake-- South Shore","2025-10-22 14:00",34.6013727,-112.437908,TRUE,FALSE,TRUE,"S280866685",NA
+"44","canvas","Canvasback","Aythya valisineria","L375905","Jamestown Sewage Lagoons","2025-10-22 13:32",46.8857148,-98.6328936,TRUE,FALSE,FALSE,"S280833746",175
+"45","canvas","Canvasback","Aythya valisineria","L446072","Medicine Bow NF--Lake Owen","2025-10-22 13:10",41.1484136,-106.1048412,TRUE,FALSE,FALSE,"S280855548",2
+"46","canvas","Canvasback","Aythya valisineria","L343450","Benson STP","2025-10-22 13:06",31.9815,-110.2924,TRUE,FALSE,FALSE,"S280846157",5
+"47","canvas","Canvasback","Aythya valisineria","L4647937","Cedar Point Biological Station","2025-10-22 12:57",41.2095019,-101.6477233,TRUE,FALSE,FALSE,"S280870854",30
+"48","canvas","Canvasback","Aythya valisineria","L46111838","Sheldon NWR--Swan Lake Reservoir","2025-10-22 12:37",41.840104,-119.505155,TRUE,FALSE,FALSE,"S280847427",10
+"49","canvas","Canvasback","Aythya valisineria","L448084","Woodland WTP","2025-10-22 12:33",38.6624345,-121.7173585,TRUE,FALSE,FALSE,"S280847086",10
+"50","canvas","Canvasback","Aythya valisineria","L321969","Lake Sammamish SP","2025-10-22 12:30",47.5597558,-122.0549817,TRUE,FALSE,FALSE,"S280871151",1
+"51","canvas","Canvasback","Aythya valisineria","L1113195","Fish Camp Park, Lake Kegonsa","2025-10-22 12:28",42.9821682,-89.2631046,TRUE,FALSE,FALSE,"S280865433",10
+"52","canvas","Canvasback","Aythya valisineria","L342159","Lake Calumet area--Lake Calumet/Harborside Golf Course","2025-10-22 12:18",41.6880403,-87.5865269,TRUE,FALSE,FALSE,"S280831434",2
+"53","canvas","Canvasback","Aythya valisineria","L493044","Philomath Sewage Ponds (restricted access)","2025-10-22 12:15",44.5185755,-123.3444586,TRUE,FALSE,FALSE,"S280845237",5
+"54","canvas","Canvasback","Aythya valisineria","L212323","Lee Kay Ponds","2025-10-22 12:12",40.7397136,-112.0437241,TRUE,FALSE,FALSE,"S280846074",1
+"55","canvas","Canvasback","Aythya valisineria","L2401299","South Platte Park--Cooley Lake (limited access)","2025-10-22 12:10",39.5813818,-105.0359488,TRUE,FALSE,FALSE,"S280833917",1
+"56","canvas","Canvasback","Aythya valisineria","L7542179","Sheldon NWR--Catnip Reservoir","2025-10-22 11:50",41.912909,-119.4604063,TRUE,FALSE,FALSE,"S280846811",3
+"57","canvas","Canvasback","Aythya valisineria","L158588","Helena Valley Regulating Reservoir","2025-10-22 11:40",46.6399134,-111.8784685,TRUE,FALSE,FALSE,"S280873055",12
+"58","canvas","Canvasback","Aythya valisineria","L124349","Swan Lake Nature Study Area (IBA)","2025-10-22 11:29",39.6574142,-119.8457766,TRUE,FALSE,FALSE,"S280846420",NA
+"59","canvas","Canvasback","Aythya valisineria","L885671","Clear Lake (Yakima Co.)","2025-10-22 11:10",46.6306503,-121.2811516,TRUE,FALSE,FALSE,"S280863257",3
+"60","canvas","Canvasback","Aythya valisineria","L18714827","Carson Park--Braun's Bay","2025-10-22 10:57",44.8062596,-91.5266061,TRUE,FALSE,FALSE,"S280947995",1
+"61","canvas","Canvasback","Aythya valisineria","L266875","Willcox--Lake Cochise and Twin Lakes Golf Course","2025-10-22 10:30",32.2298515,-109.8243175,TRUE,FALSE,FALSE,"S280834720",1
+"62","canvas","Canvasback","Aythya valisineria","L389855","Agate Lake","2025-10-22 10:23",42.4099597,-122.7708006,TRUE,FALSE,FALSE,"S280826134",1
+"63","canvas","Canvasback","Aythya valisineria","L878741","Soscol Water Recycling Facility","2025-10-22 10:15",38.2340171,-122.2826385,TRUE,FALSE,FALSE,"S280850381",12
+"64","canvas","Canvasback","Aythya valisineria","L269367","Pyramid Lake Delta","2025-10-22 10:13",39.8547403,-119.443531,TRUE,FALSE,FALSE,"S280836423",25
+"65","canvas","Canvasback","Aythya valisineria","L2962058","Sheldon NWR--Dufurrena Ponds","2025-10-22 10:02",41.8701361,-119.0230894,TRUE,FALSE,FALSE,"S280846462",3
+"66","canvas","Canvasback","Aythya valisineria","L609358","Pickerel Lake Nature Preserve","2025-10-22 09:35",43.0741545,-85.4690409,TRUE,FALSE,FALSE,"S280791142",1
+"67","canvas","Canvasback","Aythya valisineria","L364919","Quincy Reservoir","2025-10-22 09:30",39.6347124,-104.7777271,TRUE,FALSE,FALSE,"S280815940",2
+"68","canvas","Canvasback","Aythya valisineria","L387496","Ivins Reservoir (Fire Lake Park)","2025-10-22 09:23",37.1810055,-113.7148046,TRUE,FALSE,FALSE,"S280825546",2
+"69","canvas","Canvasback","Aythya valisineria","L591911","Minersville Reservoir--South Side (Hwy 21)","2025-10-22 08:40",38.2200432,-112.8306198,TRUE,FALSE,FALSE,"S280800817",3
+"70","canvas","Canvasback","Aythya valisineria","L283368","Valmont Reservoir Complex","2025-10-22 08:39",40.0255579,-105.1940601,TRUE,FALSE,FALSE,"S280872872",20
+"71","canvas","Canvasback","Aythya valisineria","L272215","Wyoming Hereford Ranch Reservoir #1","2025-10-22 07:46",41.1167222,-104.7379491,TRUE,FALSE,FALSE,"S280796356",2
+"72","canvas","Canvasback","Aythya valisineria","L1016975","Lake Du Bay Dam ","2025-10-22 07:21",44.6571759,-89.6752167,TRUE,FALSE,FALSE,"S280782024",1
+"73","canvas","Canvasback","Aythya valisineria","L6434097","Nantucket","2025-10-22 06:40",41.2703559,-70.0250959,TRUE,FALSE,TRUE,"S280907823",3
+"74","canvas","Canvasback","Aythya valisineria","L2453689","Chisholm Park (NE Ft. Worth)","2025-10-21 16:27",32.8578425,-97.1722648,TRUE,FALSE,FALSE,"S280701443",2
+"75","canvas","Canvasback","Aythya valisineria","L1893170","Cordova--Eyak River Weir","2025-10-21 16:10",60.53125,-145.64471,TRUE,FALSE,FALSE,"S280718842",1
+"76","canvas","Canvasback","Aythya valisineria","L1402778","Lake Hood Dr. & Helio Place intersection","2025-10-21 16:08",61.1874296,-149.9802144,TRUE,FALSE,FALSE,"S280720963",1
+"77","canvas","Canvasback","Aythya valisineria","L453748","Rockport Reservoir & SP","2025-10-21 16:03",40.7691018,-111.397934,TRUE,FALSE,FALSE,"S280713953",3
+"78","canvas","Canvasback","Aythya valisineria","L167351","Twin Lakes","2025-10-21 15:53",58.33481,-134.47717,TRUE,FALSE,FALSE,"S280950290",2
+"79","canvas","Canvasback","Aythya valisineria","L687718","Carson Park","2025-10-21 15:50",44.8046814,-91.525353,TRUE,FALSE,FALSE,"S280693941",1
+"80","canvas","Canvasback","Aythya valisineria","L2224689","Johnson Lake SRA","2025-10-21 15:35",60.2910235,-151.265173,TRUE,TRUE,FALSE,"S280717109",1
+"81","canvas","Canvasback","Aythya valisineria","L577614","Oval Beach","2025-10-21 15:08",42.6640086,-86.2162399,TRUE,FALSE,FALSE,"S280679119",23
+"82","canvas","Canvasback","Aythya valisineria","L267077","Lake Catamount","2025-10-21 14:59",40.3521632,-106.8066736,TRUE,FALSE,FALSE,"S280759237",3
+"83","canvas","Canvasback","Aythya valisineria","L906006","Warm Springs WMA","2025-10-21 14:50",46.1907642,-112.7748299,TRUE,FALSE,FALSE,"S280699853",1
+"84","canvas","Canvasback","Aythya valisineria","L592025","Desert Lake WMA","2025-10-21 14:30",39.3757104,-110.7823563,TRUE,FALSE,FALSE,"S280696940",NA
+"85","canvas","Canvasback","Aythya valisineria","L11588892","Walker SWA","2025-10-21 14:27",39.1055212,-108.6505795,TRUE,FALSE,FALSE,"S280715867",2
+"86","canvas","Canvasback","Aythya valisineria","L7351864","Loon Lake","2025-10-21 14:21",44.0808132,-93.5196532,TRUE,FALSE,FALSE,"S280681261",1
+"87","canvas","Canvasback","Aythya valisineria","L506740","Huntington North Reservoir ","2025-10-21 14:00",39.3463788,-110.9484816,TRUE,FALSE,FALSE,"S280688674",NA
+"88","canvas","Canvasback","Aythya valisineria","L480864","South Platte Park--C470 area","2025-10-21 13:42",39.570896,-105.0411201,TRUE,FALSE,FALSE,"S280684394",1
+"89","canvas","Canvasback","Aythya valisineria","L247318","Benton Lake NWR","2025-10-21 13:25",47.6641904,-111.3007221,TRUE,FALSE,FALSE,"S280708190",2
+"90","canvas","Canvasback","Aythya valisineria","L3017692","Ray Lake Marsh","2025-10-21 13:17",42.9631122,-108.8365746,TRUE,FALSE,FALSE,"S280686318",20
+"91","canvas","Canvasback","Aythya valisineria","L241530","Smith Reservoir SWA","2025-10-21 13:06",37.3919965,-105.534457,TRUE,FALSE,FALSE,"S280724697",6
+"92","canvas","Canvasback","Aythya valisineria","L304168","Rawhide Energy Station/Hamilton Reservoir","2025-10-21 13:03",40.852235,-105.0259988,TRUE,FALSE,FALSE,"S280681994",3
+"93","canvas","Canvasback","Aythya valisineria","L54317252","35 Moon Ranch Rd, Buckhorn US-NM 33.12794, -108.78284","2025-10-21 12:18",33.127941,-108.782836,TRUE,FALSE,TRUE,"S280679805",1
+"94","canvas","Canvasback","Aythya valisineria","L158902","McKenzie Slough","2025-10-21 12:15",46.7942788,-100.4157696,TRUE,FALSE,FALSE,"S280781427",NA
+"95","canvas","Canvasback","Aythya valisineria","L168591","D.C. Everest Park","2025-10-21 12:08",44.938793,-89.639206,TRUE,FALSE,FALSE,"S280664780",2
+"96","canvas","Canvasback","Aythya valisineria","L131615","Lake Henry","2025-10-21 11:58",38.2636986,-103.7109985,TRUE,FALSE,FALSE,"S280678063",2
+"97","canvas","Canvasback","Aythya valisineria","L3133048","Potterville Sewage Ponds (no access)","2025-10-21 11:54",42.631616,-84.7560647,TRUE,FALSE,FALSE,"S280667756",6
+"98","canvas","Canvasback","Aythya valisineria","L776812","Sunnyvale WPCP--West Pond","2025-10-21 11:27",37.426752,-122.0223999,TRUE,FALSE,FALSE,"S280679576",10
+"99","canvas","Canvasback","Aythya valisineria","L11604223","Cutoff Road","2025-10-21 11:17",46.918748,-113.0304226,TRUE,FALSE,TRUE,"S280779096",5
+"100","canvas","Canvasback","Aythya valisineria","L1269264","Rock Creek Reservoir (Harney Co.)","2025-10-21 11:12",42.6849592,-119.3080902,TRUE,FALSE,FALSE,"S280677910",1
+"101","canvas","Canvasback","Aythya valisineria","L279044","Sauvie Island--Rentenaar Rd.","2025-10-21 10:42",45.7574596,-122.776551,TRUE,FALSE,FALSE,"S280670806",5
+"102","canvas","Canvasback","Aythya valisineria","L365439","Pastorius Reservoir","2025-10-21 10:12",37.1999797,-107.8119278,TRUE,FALSE,FALSE,"S280676514",7
+"103","canvas","Canvasback","Aythya valisineria","L3648018","Carpenter Natural Area Trail","2025-10-21 10:08",37.3611526,-108.5882664,TRUE,FALSE,FALSE,"S280666006",9
+"104","canvas","Canvasback","Aythya valisineria","L487464","Juanita Beach Park","2025-10-21 10:08",47.7040147,-122.2153902,TRUE,FALSE,FALSE,"S280725398",2
+"105","canvas","Canvasback","Aythya valisineria","L792565","Crystal Springs Rhododendron Garden","2025-10-21 10:04",45.4779708,-122.6364702,TRUE,FALSE,FALSE,"S280679776",1
+"106","canvas","Canvasback","Aythya valisineria","L352878","Cooney Reservoir","2025-10-21 10:00",45.445252,-109.214379,TRUE,FALSE,FALSE,"S280675710",20
+"107","canvas","Canvasback","Aythya valisineria","L4827152","Kinney Lake","2025-10-21 09:56",45.3140722,-117.1021342,TRUE,FALSE,FALSE,"S280666864",1
+"108","canvas","Canvasback","Aythya valisineria","L27002157","McGee Bay","2025-10-21 09:52",37.618014,-118.757347,TRUE,FALSE,TRUE,"S280697159",5
+"109","canvas","Canvasback","Aythya valisineria","L267812","San Jacinto Wildlife Area--Mystic Lake","2025-10-21 09:34",33.8839706,-117.0884961,TRUE,FALSE,FALSE,"S280697388",9
+"110","canvas","Canvasback","Aythya valisineria","L4952045","Spring Creek Marina","2025-10-21 09:30",40.750118,-115.5677605,TRUE,FALSE,FALSE,"S280677879",3
+"111","canvas","Canvasback","Aythya valisineria","L158888","Minot Sewage Lagoons","2025-10-21 09:22",48.2074032,-101.1662549,TRUE,FALSE,FALSE,"S280660312",11
+"112","canvas","Canvasback","Aythya valisineria","L210257","Weld CR 59 wetlands","2025-10-21 09:15",40.3609628,-104.5068109,TRUE,FALSE,FALSE,"S280651259",6
+"113","canvas","Canvasback","Aythya valisineria","L275081","Gila NF--Quemado Lake","2025-10-21 09:12",34.1341239,-108.4923957,TRUE,FALSE,FALSE,"S280648987",4
+"114","canvas","Canvasback","Aythya valisineria","L28266513","Provo River Delta","2025-10-21 09:08",40.2458762,-111.7205421,TRUE,FALSE,FALSE,"S280663026",1
+"115","canvas","Canvasback","Aythya valisineria","L2325564","Walmart Retention Ponds, Johnsburg","2025-10-21 08:50",42.3705775,-88.2730007,TRUE,FALSE,FALSE,"S280640639",3
+"116","canvas","Canvasback","Aythya valisineria","L17013961","Broughton Beach, Portland US-OR 45.60033, -122.61329","2025-10-21 08:44",45.600332,-122.613295,TRUE,FALSE,TRUE,"S280666359",1
+"117","canvas","Canvasback","Aythya valisineria","L165460","Horseshoe Reservoir","2025-10-21 08:13",40.44303,-105.05396,TRUE,FALSE,FALSE,"S280780205",2
+"118","canvas","Canvasback","Aythya valisineria","L151122","Antelope Island SP--Causeway","2025-10-21 08:12",41.08841,-112.186714,TRUE,FALSE,FALSE,"S280729316",NA
+"119","canvas","Canvasback","Aythya valisineria","L165048","Farmington Bay WMA","2025-10-21 08:06",40.955141,-111.9191396,TRUE,FALSE,FALSE,"S280664845",NA
+"120","canvas","Canvasback","Aythya valisineria","L1502426","Sutherland Reservoir","2025-10-21 07:47",41.1021827,-101.1073152,TRUE,FALSE,FALSE,"S280628431",120
+"121","canvas","Canvasback","Aythya valisineria","L518546","Malheur NWR--Narrows","2025-10-21 07:23",43.2873151,-118.9591885,TRUE,FALSE,FALSE,"S280652639",4
+"122","canvas","Canvasback","Aythya valisineria","L140469","Prewitt Reservoir SWA (Washington Co)","2025-10-21 07:08",40.4146305,-103.3787003,TRUE,FALSE,FALSE,"S280704201",6
+"123","canvas","Canvasback","Aythya valisineria","L54293790","Pickerel Lake Park, Rockford US-MI 43.07284, -85.46513","2025-10-20 18:47",43.072838,-85.465132,TRUE,FALSE,TRUE,"S280565365",1
+"124","canvas","Canvasback","Aythya valisineria","L2337643","Coral Ditch","2025-10-20 17:45",44.7987496,-117.8081346,TRUE,FALSE,FALSE,"S280567653",1
+"125","canvas","Canvasback","Aythya valisineria","L54292974","CA-37 W, Vallejo US-CA (38.1359,-122.3465)","2025-10-20 16:37",38.135911,-122.346533,TRUE,FALSE,TRUE,"S280561539",3
+"126","canvas","Canvasback","Aythya valisineria","L364927","Parker Regional Park (aka Salisbury Equestrian Park)","2025-10-20 16:18",39.5006963,-104.765389,TRUE,FALSE,FALSE,"S280570372",3
+"127","canvas","Canvasback","Aythya valisineria","L1484288","Standley Lake Park--south shore","2025-10-20 15:56",39.85329,-105.1303931,TRUE,FALSE,FALSE,"S280554691",8
+"128","canvas","Canvasback","Aythya valisineria","L1560390","Scottsbluff WTP","2025-10-20 13:45",41.8389696,-103.6064671,TRUE,FALSE,FALSE,"S280536969",2
+"129","canvas","Canvasback","Aythya valisineria","L2411215","Williams Reservoir","2025-10-20 13:21",40.7346409,-84.256382,TRUE,FALSE,FALSE,"S280519802",2
+"130","canvas","Canvasback","Aythya valisineria","L164216","Crex Meadows SWA","2025-10-20 12:38",45.842964,-92.62031,TRUE,FALSE,FALSE,"S280550793",1
+"131","canvas","Canvasback","Aythya valisineria","L2872364","Mountain Plains Heritage Park","2025-10-20 12:23",44.3496932,-106.6829109,TRUE,FALSE,FALSE,"S280555259",2
+"132","canvas","Canvasback","Aythya valisineria","L726694","6th Avenue Marsh","2025-10-20 11:30",44.2090881,-89.7030312,TRUE,FALSE,FALSE,"S280718960",1
+"133","canvas","Canvasback","Aythya valisineria","L1581714","Willow Lake south shore","2025-10-20 10:33",34.6008047,-112.4406966,TRUE,FALSE,TRUE,"S280543725",NA
+"134","canvas","Canvasback","Aythya valisineria","L881969","Hwy. 75 pond (Kansasville)","2025-10-20 10:30",42.6905112,-88.1101799,TRUE,FALSE,FALSE,"S280551114",3
+"135","canvas","Canvasback","Aythya valisineria","L8950719","Cherry Creek SP--Dixon Grove area","2025-10-20 10:19",39.6512747,-104.8486454,TRUE,FALSE,FALSE,"S280517352",3
+"136","canvas","Canvasback","Aythya valisineria","L9861160","Buffalo Thunder Casino Ponds (view from parking lot only)","2025-10-20 10:05",35.8591521,-105.994053,TRUE,FALSE,FALSE,"S280530817",1
+"137","canvas","Canvasback","Aythya valisineria","L3192597","Damonte Ranch Wetlands--Veterans Pkwy Lake and Wetlands","2025-10-20 10:03",39.4202899,-119.7332203,TRUE,FALSE,FALSE,"S280554411",1
+"138","canvas","Canvasback","Aythya valisineria","L460132","Steamboat Rock State Park","2025-10-20 09:58",47.8614341,-119.1204643,TRUE,FALSE,FALSE,"S280572637",1
+"139","canvas","Canvasback","Aythya valisineria","L21520810","Escalante Petrified Forest SP","2025-10-20 09:55",37.7881204,-111.628329,TRUE,FALSE,FALSE,"S280627708",2
+"140","canvas","Canvasback","Aythya valisineria","L597821","Otter Creek Reservoir","2025-10-20 09:09",38.1667523,-112.0166016,TRUE,FALSE,FALSE,"S280553975",2
+"141","canvas","Canvasback","Aythya valisineria","L164819","Dixon Waterfowl Refuge at Hennepin & Hopper Lakes","2025-10-20 09:02",41.2132356,-89.3230426,TRUE,FALSE,FALSE,"S280500404",8
+"142","canvas","Canvasback","Aythya valisineria","L882592","McAlister Park, Lubbock","2025-10-20 08:40",33.5422531,-101.9487476,TRUE,FALSE,FALSE,"S280549417",5
+"143","canvas","Canvasback","Aythya valisineria","L152924","Sand Hollow Reservoir & SP","2025-10-20 08:10",37.1206326,-113.3835411,TRUE,FALSE,FALSE,"S280554221",1
+"144","canvas","Canvasback","Aythya valisineria","L36468789","Lower locks bird blind","2025-10-20 07:45",43.753313,-89.28537,TRUE,FALSE,TRUE,"S280501938",7
+"145","canvas","Canvasback","Aythya valisineria","L2115244","Cecil Depeau Bay Shore Park","2025-10-20 06:53",44.6367194,-87.8010178,TRUE,FALSE,FALSE,"S280472868",1
+"146","canvas","Canvasback","Aythya valisineria","L3020999","Crystal Lake (Stevens Co.)","2025-10-19 17:46",45.5808869,-95.9184551,TRUE,FALSE,FALSE,"S280410878",3
+"147","canvas","Canvasback","Aythya valisineria","L8644413","Merkel WTP","2025-10-19 17:26",32.4838792,-99.9983837,TRUE,FALSE,FALSE,"S280412576",1
+"148","canvas","Canvasback","Aythya valisineria","L5060723","Holmes Road Park","2025-10-19 15:17",44.9898947,-123.9951754,TRUE,FALSE,FALSE,"S280407296",1
+"149","canvas","Canvasback","Aythya valisineria","L991670","Harrison/Willow Creek Reservoir","2025-10-19 15:15",45.7005388,-111.7032981,TRUE,FALSE,FALSE,"S280490371",30
+"150","canvas","Canvasback","Aythya valisineria","L1141050","Laramie Plains Lakes--Meeboer Lake","2025-10-19 14:57",41.2149499,-105.8219433,TRUE,FALSE,FALSE,"S280394200",20
+"151","canvas","Canvasback","Aythya valisineria","L16134714","Holloway Reservoir--The Tubes","2025-10-19 14:17",43.1084911,-83.4631349,TRUE,FALSE,FALSE,"S280367870",1
+"152","canvas","Canvasback","Aythya valisineria","L855583","Lake Pateros","2025-10-19 14:16",48.0822936,-119.7652888,TRUE,FALSE,FALSE,"S280424916",NA
+"153","canvas","Canvasback","Aythya valisineria","L1099948","Lake Zahl NWR","2025-10-19 14:10",48.5571849,-103.668298,TRUE,FALSE,FALSE,"S280387254",24
+"154","canvas","Canvasback","Aythya valisineria","L4343309","Frenchtown Slough","2025-10-19 13:55",47.0203695,-114.2644107,TRUE,FALSE,FALSE,"S280548787",1
+"155","canvas","Canvasback","Aythya valisineria","L1800563","Lake Koshkonong--Kuehn Rd. Boat Launch","2025-10-19 13:53",42.8973948,-88.9593047,TRUE,FALSE,FALSE,"S280371182",4
+"156","canvas","Canvasback","Aythya valisineria","L140470","Lake Hasty (lake and campground)","2025-10-19 13:35",38.0733658,-102.9348135,TRUE,FALSE,FALSE,"S280380358",NA
+"157","canvas","Canvasback","Aythya valisineria","L5773757","Boulder Lake","2025-10-19 13:32",42.8463944,-109.6678448,TRUE,FALSE,FALSE,"S280408046",7
+"158","canvas","Canvasback","Aythya valisineria","L4451115","Frenchtown Gravel Pits","2025-10-19 13:27",47.0292283,-114.2983031,TRUE,FALSE,FALSE,"S280561829",1
+"159","canvas","Canvasback","Aythya valisineria","L1783934","Fish Lake and campground","2025-10-19 13:08",42.3934634,-122.3193312,TRUE,FALSE,FALSE,"S280385708",1
+"160","canvas","Canvasback","Aythya valisineria","L1299773","Somers Slough (Park and Ride)","2025-10-19 12:52",48.095977,-114.2342366,TRUE,FALSE,FALSE,"S280371493",1
+"161","canvas","Canvasback","Aythya valisineria","L1053470","Napa-Sonoma Marshes WA--Huichica Creek Unit - Pond 8","2025-10-19 12:10",38.1956877,-122.3178291,TRUE,FALSE,FALSE,"S280394574",1
+"162","canvas","Canvasback","Aythya valisineria","L504357","Scofield Reservoir & Vicinity","2025-10-19 11:26",39.7553726,-111.1526299,TRUE,FALSE,FALSE,"S280381461",2
+"163","canvas","Canvasback","Aythya valisineria","L279204","Sunnyvale WPCP (please use a more specific hotspot where possible)","2025-10-19 11:04",37.4198391,-122.0144261,TRUE,FALSE,FALSE,"S280420838",2
+"164","canvas","Canvasback","Aythya valisineria","L158613","North Platte NWR--Lake Alice","2025-10-19 10:48",41.9885,-103.6143,TRUE,FALSE,FALSE,"S280425889",6
+"165","canvas","Canvasback","Aythya valisineria","L2442148","Rocky Mountain Arsenal NWR--Lower Derby Lake","2025-10-19 10:29",39.8146676,-104.8424435,TRUE,FALSE,FALSE,"S280430147",7
+"166","canvas","Canvasback","Aythya valisineria","L716316","Lake Morena","2025-10-19 10:15",32.6881683,-116.5258897,TRUE,FALSE,FALSE,"S280384549",2
+"167","canvas","Canvasback","Aythya valisineria","L5781875","Clear Lake County Park","2025-10-19 10:11",44.4634566,-94.5106995,TRUE,FALSE,FALSE,"S280327615",11
+"168","canvas","Canvasback","Aythya valisineria","L5786158","Ebey Waterfront Trail, Marysville","2025-10-19 10:10",48.0458046,-122.1758652,TRUE,FALSE,FALSE,"S280379043",1
+"169","canvas","Canvasback","Aythya valisineria","L1214464","Lavold Reservoir","2025-10-19 09:30",45.9541632,-109.8974419,TRUE,FALSE,FALSE,"S280339015",6
+"170","canvas","Canvasback","Aythya valisineria","L165307","Mann Lake","2025-10-19 09:14",46.371455,-116.8511029,TRUE,FALSE,FALSE,"S280361343",1
+"171","canvas","Canvasback","Aythya valisineria","L163529","Fernhill Wetlands (general)","2025-10-19 09:09",45.5064875,-123.0851855,TRUE,FALSE,FALSE,"S280375731",4
+"172","canvas","Canvasback","Aythya valisineria","L168158","Vega SP","2025-10-19 09:09",39.22338,-107.79534,TRUE,FALSE,FALSE,"S280402257",1
+"173","canvas","Canvasback","Aythya valisineria","L3572935","Swan Lake Nature Study Area (IBA)--Boardwalk","2025-10-19 08:19",39.6531916,-119.856496,TRUE,FALSE,FALSE,"S280330874",40
+"174","canvas","Canvasback","Aythya valisineria","L1384917","Philomath Sewage Ponds--central pond","2025-10-19 07:54",44.5215399,-123.3464885,TRUE,FALSE,TRUE,"S280774626",6
+"175","canvas","Canvasback","Aythya valisineria","L25873065","Lear Blvd Ponds and Wetlands","2025-10-19 07:43",39.6469011,-119.8509521,TRUE,FALSE,FALSE,"S280324739",120
+"176","canvas","Canvasback","Aythya valisineria","L109289","Barr Lake SP","2025-10-19 07:37",39.9430556,-104.7625,TRUE,FALSE,FALSE,"S280419141",3
+"177","canvas","Canvasback","Aythya valisineria","L211111","Metzger Marsh Wildlife Area","2025-10-19 07:28",41.645338,-83.2403183,TRUE,FALSE,FALSE,"S280413244",4
+"178","canvas","Canvasback","Aythya valisineria","L1384916","Philomath Sewage Ponds--south pond","2025-10-19 07:24",44.519245,-123.3463919,TRUE,FALSE,TRUE,"S280774625",8
+"179","canvas","Canvasback","Aythya valisineria","L266967","Great Western Reservoir (closed to public)","2025-10-19 07:15",39.8968365,-105.1522923,TRUE,FALSE,FALSE,"S280317160",1
+"180","canvas","Canvasback","Aythya valisineria","L6550725","Swan Lake Nature Study Area (IBA)--Fleetwood Dr Pumphouse","2025-10-19 07:12",39.6500322,-119.8445847,TRUE,FALSE,FALSE,"S280313678",100
+"181","canvas","Canvasback","Aythya valisineria","L158612","North Platte NWR--Lake Minatare","2025-10-19 06:59",41.9315,-103.4916,TRUE,FALSE,FALSE,"S280424523",5
+"182","canvas","Canvasback","Aythya valisineria","L1613469","Boardman Marina and RV Park","2025-10-18 17:07",45.8426044,-119.7133613,TRUE,FALSE,FALSE,"S280207241",7
+"183","canvas","Canvasback","Aythya valisineria","L11641341","Tewaukon NWR--White Lake","2025-10-18 14:54",45.996304,-97.400006,TRUE,FALSE,FALSE,"S280167019",4
+"184","canvas","Canvasback","Aythya valisineria","L560859","Russell Lakes SWA","2025-10-18 14:49",37.9427084,-106.1422205,TRUE,FALSE,FALSE,"S280190649",7
+"185","canvas","Canvasback","Aythya valisineria","L54203638","Maumee Bay Golf Course","2025-10-18 14:42",41.682172,-83.367539,TRUE,FALSE,TRUE,"S280151336",1
+"186","canvas","Canvasback","Aythya valisineria","L2320631","Yellowstone NP--Indian Pond","2025-10-18 13:24",44.5587388,-110.3243949,TRUE,FALSE,FALSE,"S280370876",4
+"187","canvas","Canvasback","Aythya valisineria","L751487","Santa Maria River Estuary (SLO Co.)","2025-10-18 12:45",34.9722359,-120.6456667,TRUE,FALSE,FALSE,"S280215608",1
+"188","canvas","Canvasback","Aythya valisineria","L1435405","Tongue River Reservoir SP","2025-10-18 12:39",45.1,-106.795,TRUE,FALSE,FALSE,"S280180829",3
+"189","canvas","Canvasback","Aythya valisineria","L2378932","Ennis Lake--East Shore","2025-10-18 12:33",45.4312423,-111.6536922,TRUE,FALSE,FALSE,"S280374892",5
+"190","canvas","Canvasback","Aythya valisineria","L8476413","Cottonwood Park","2025-10-18 12:30",39.6805241,-105.1156194,TRUE,FALSE,FALSE,"S280321578",1
+"191","canvas","Canvasback","Aythya valisineria","L54203027","Ingomar Pond","2025-10-18 12:20",46.5814212,-107.3663951,TRUE,FALSE,TRUE,"S280148730",8
+"192","canvas","Canvasback","Aythya valisineria","L600887","Rancho Guadalupe Dunes Preserve, including Santa Maria River Estuary (SBA Co.)","2025-10-18 11:43",34.9671044,-120.6473815,TRUE,FALSE,FALSE,"S280215990",1
+"193","canvas","Canvasback","Aythya valisineria","L4852400","Baskett Slough NWR--Mofitti Marsh","2025-10-18 11:34",44.9767375,-123.2665345,TRUE,FALSE,FALSE,"S280183799",3
+"194","canvas","Canvasback","Aythya valisineria","L586105","Sue's Pond--Logan River Wetlands and Shorebird Playa","2025-10-18 11:24",41.7320355,-111.8809032,TRUE,FALSE,FALSE,"S280297579",1
+"195","canvas","Canvasback","Aythya valisineria","L247305","Central Park Pond","2025-10-18 11:10",45.8284823,-111.2841328,TRUE,FALSE,FALSE,"S280135113",3
+"196","canvas","Canvasback","Aythya valisineria","L1013954","Columbia Hills SP--Horsethief Lake","2025-10-18 10:38",45.6440482,-121.101265,TRUE,FALSE,FALSE,"S280211548",1
+"197","canvas","Canvasback","Aythya valisineria","L247311","Lee Metcalf NWR","2025-10-18 10:26",46.5553628,-114.0762529,TRUE,FALSE,FALSE,"S280146598",1
+"198","canvas","Canvasback","Aythya valisineria","L151705","Glendalough SP","2025-10-18 10:15",46.3279,-95.6601,TRUE,FALSE,FALSE,"S280118099",2
+"199","canvas","Canvasback","Aythya valisineria","L11304973","Shawano Lake (General)","2025-10-18 10:15",44.808427,-88.496296,TRUE,FALSE,FALSE,"S280413930",24
+"200","canvas","Canvasback","Aythya valisineria","L279404","Las Vegas NWR","2025-10-18 10:12",35.548848,-105.1583862,TRUE,FALSE,FALSE,"S280159881",4
+"201","canvas","Canvasback","Aythya valisineria","L732235","Central Ferry (Garfield Co.)","2025-10-18 09:27",46.6159596,-117.7923203,TRUE,TRUE,FALSE,"S280177072",1
+"202","canvas","Canvasback","Aythya valisineria","L299782","Burlington Lake (Goldeneye Reservoir)","2025-10-18 09:07",43.019333,-106.7073727,TRUE,FALSE,FALSE,"S280165689",20
+"203","canvas","Canvasback","Aythya valisineria","L1384919","Philomath Sewage Ponds--northwest pond","2025-10-18 08:30",44.5243,-123.34667,TRUE,FALSE,TRUE,"S280287807",1
+"204","canvas","Canvasback","Aythya valisineria","L165236","Neenoshe Reservoir","2025-10-18 08:28",38.3390307,-102.6904106,TRUE,FALSE,FALSE,"S280095264",50
+"205","canvas","Canvasback","Aythya valisineria","L1009850","Quanicassee SWA--Finn Rd. terminus","2025-10-18 08:28",43.6308569,-83.7799358,TRUE,FALSE,FALSE,"S280095419",1
+"206","canvas","Canvasback","Aythya valisineria","L265647","Maxwell NWR","2025-10-18 08:24",36.5688651,-104.5815831,TRUE,FALSE,FALSE,"S280123750",3
+"207","canvas","Canvasback","Aythya valisineria","L2208681","Mt. Rainier NP--Louise Lake","2025-10-18 07:45",46.7702036,-121.7175293,TRUE,FALSE,FALSE,"S280131057",1
+"208","canvas","Canvasback","Aythya valisineria","L473873","Plaster Reservoir","2025-10-18 07:24",39.947253,-105.0286102,TRUE,FALSE,FALSE,"S280106255",1
+"209","canvas","Canvasback","Aythya valisineria","L3184596","Lake Sammamish SP--Boat Launch","2025-10-17 17:38",47.5645542,-122.0550401,TRUE,FALSE,FALSE,"S279971371",1
+"210","canvas","Canvasback","Aythya valisineria","L420537","Nob Hill Pond","2025-10-17 16:49",37.5218818,-122.2498887,TRUE,FALSE,FALSE,"S279969443",1
+"211","canvas","Canvasback","Aythya valisineria","L159568","Tewaukon NWR","2025-10-17 15:30",46.0040643,-97.3847303,TRUE,FALSE,FALSE,"S279944367",8
+"212","canvas","Canvasback","Aythya valisineria","L470248","O'Neill Forebay","2025-10-17 14:30",37.0821604,-121.0482216,TRUE,TRUE,FALSE,"S279985048",8
+"213","canvas","Canvasback","Aythya valisineria","L2340625","Bear Lake Regional Park","2025-10-17 13:52",47.9223085,-117.3529577,TRUE,FALSE,FALSE,"S279953588",1
+"214","canvas","Canvasback","Aythya valisineria","L1183477","Cascade Meadow Wetlands and Environmental Science Center","2025-10-17 13:36",44.0386762,-92.5051403,TRUE,FALSE,FALSE,"S279937499",1
+"215","canvas","Canvasback","Aythya valisineria","L54164530","Duluth, Minnesota, US (46.738, -92.059) Bus Turnaround","2025-10-17 13:09",46.7376355,-92.0589415,TRUE,FALSE,TRUE,"S279974767",1
+"216","canvas","Canvasback","Aythya valisineria","L886112","Trempealeau NWR--Entrance Rd. Wetlands","2025-10-17 12:42",44.0522242,-91.5166283,TRUE,FALSE,FALSE,"S279939717",12
+"217","canvas","Canvasback","Aythya valisineria","L1080198","Lake Almanor--Super Ditch","2025-10-17 11:54",40.265577,-121.2404823,TRUE,FALSE,FALSE,"S279927173",4
+"218","canvas","Canvasback","Aythya valisineria","L418084","Park Point--Park Point Rec. Area","2025-10-17 11:40",46.7337486,-92.0542164,TRUE,FALSE,FALSE,"S280023921",1
+"219","canvas","Canvasback","Aythya valisineria","L162766","Union Bay Natural Area/Montlake Fill","2025-10-17 11:30",47.65424,-122.29137,TRUE,FALSE,FALSE,"S280366283",2
+"220","canvas","Canvasback","Aythya valisineria","L1079678","Lake Almanor--Goose Bay","2025-10-17 11:28",40.249136,-121.2252045,TRUE,FALSE,FALSE,"S279924737",8
+"221","canvas","Canvasback","Aythya valisineria","L54151498","Shore Drive, Whitney, Nebraska, US (42.789, -103.285)","2025-10-17 11:09",42.7887775,-103.2850636,TRUE,FALSE,TRUE,"S279918083",5
+"222","canvas","Canvasback","Aythya valisineria","L3232073","Warrenton Sewage Ponds (restricted access)","2025-10-17 10:48",46.1744221,-123.921833,TRUE,FALSE,FALSE,"S279948927",2
+"223","canvas","Canvasback","Aythya valisineria","L3396908","ODOT Pond","2025-10-17 10:30",45.2529174,-118.0348778,TRUE,FALSE,TRUE,"S279915763",1
+"224","canvas","Canvasback","Aythya valisineria","L36726049","Crystal Springs Rhododendron Garden","2025-10-17 10:15",45.480085,-122.63534,TRUE,FALSE,TRUE,"S279973441",1
+"225","canvas","Canvasback","Aythya valisineria","L124350","Virginia Lake","2025-10-17 10:09",39.500583,-119.80673,TRUE,FALSE,FALSE,"S279913398",1
+"226","canvas","Canvasback","Aythya valisineria","L19625949","Union Bay Natural Area","2025-10-17 09:58",47.655172,-122.291615,TRUE,FALSE,TRUE,"S279930708",7
+"227","canvas","Canvasback","Aythya valisineria","L2837420","Hamilton Wetlands","2025-10-17 08:00",38.0578151,-122.5078261,TRUE,FALSE,FALSE,"S279943002",1
+"228","canvas","Canvasback","Aythya valisineria","L778997","State Hwy 51 at Snake River (Elmore Co. side)","2025-10-16 18:16",42.9393567,-115.7510519,TRUE,FALSE,FALSE,"S279788611",2
+"229","canvas","Canvasback","Aythya valisineria","L1312278","Arco Ponds","2025-10-16 17:33",46.1624744,-112.7791214,TRUE,FALSE,FALSE,"S279799099",1
+"230","canvas","Canvasback","Aythya valisineria","L811384","McNary NWR--Peninsula Unit","2025-10-16 15:39",46.148685,-118.966825,TRUE,FALSE,FALSE,"S279786456",8
+"231","canvas","Canvasback","Aythya valisineria","L145063","Silver Lake","2025-10-16 15:30",44.0329475,-92.4569855,TRUE,FALSE,FALSE,"S279782015",1
+"232","canvas","Canvasback","Aythya valisineria","L1305259","Blue Creek Bay","2025-10-16 15:16",47.629884,-116.6736031,TRUE,FALSE,FALSE,"S279947371",1
+"233","canvas","Canvasback","Aythya valisineria","L35796745","Ninepipe dam","2025-10-16 15:15",47.4555336,-114.1371716,TRUE,FALSE,TRUE,"S280788198",2
+"234","canvas","Canvasback","Aythya valisineria","L12672600","Berthoud Reservoir Open Space","2025-10-16 14:56",40.3318116,-105.0860076,TRUE,FALSE,FALSE,"S279773685",1
+"235","canvas","Canvasback","Aythya valisineria","L856570","San Gabriel Coastal Basin Spreading Grounds","2025-10-16 14:20",33.9810187,-118.0824494,TRUE,FALSE,FALSE,"S279772387",1
+"236","canvas","Canvasback","Aythya valisineria","L54125383","County Road 18, Steamboat Springs, Colorado, US (40.349, -106.817)","2025-10-16 13:53",40.3485317,-106.8165837,TRUE,FALSE,TRUE,"S279788468",2
+"237","canvas","Canvasback","Aythya valisineria","L6501671","Bluewater Lake - McKinley County (35.3082,-108.1449)","2025-10-16 13:13",35.308204,-108.144906,TRUE,FALSE,TRUE,"S279797048",1
+"238","canvas","Canvasback","Aythya valisineria","L790888","Port of Wallula","2025-10-16 12:30",46.0604867,-118.9210474,TRUE,FALSE,FALSE,"S280044409",3
+"239","canvas","Canvasback","Aythya valisineria","L140473","Cherry Creek SP","2025-10-16 12:00",39.6402646,-104.8538589,TRUE,FALSE,FALSE,"S279755743",5
+"240","canvas","Canvasback","Aythya valisineria","L2240274","Cherry Creek SP--Swim Beach & Smoky Hill Shelter area","2025-10-16 11:50",39.6453868,-104.8471642,TRUE,FALSE,FALSE,"S279745894",5
+"241","canvas","Canvasback","Aythya valisineria","L164961","Bear River MBR--Auto Tour Loop","2025-10-16 11:28",41.4692291,-112.2947788,TRUE,FALSE,FALSE,"S279792719",2
+"242","canvas","Canvasback","Aythya valisineria","L41325715","Tingley Lake Estates","2025-10-16 11:22",42.116875,-121.778874,TRUE,FALSE,TRUE,"S279743610",1
+"243","canvas","Canvasback","Aythya valisineria","L803520","Lake Shastina","2025-10-16 10:30",41.5162898,-122.3945618,TRUE,FALSE,FALSE,"S279765145",1
+"244","canvas","Canvasback","Aythya valisineria","L2141651","Valmont Overlook (Legion Park)","2025-10-16 08:50",40.016268,-105.1891619,TRUE,FALSE,FALSE,"S279704787",2
+"245","canvas","Canvasback","Aythya valisineria","L954210","Mayfield Slough","2025-10-16 08:10",37.450843,-122.1023512,TRUE,FALSE,FALSE,"S279712667",1
+"246","canvas","Canvasback","Aythya valisineria","L628412","Kern NWR","2025-10-16 07:50",35.7592007,-119.5933604,TRUE,FALSE,FALSE,"S279738807",22
+"247","canvas","Canvasback","Aythya valisineria","L248057","Pte. Mouillee SGA (permit required Sep 1-Dec 15)","2025-10-16 07:46",42.0364452,-83.2114657,TRUE,FALSE,FALSE,"S279742164",1
+"248","canvas","Canvasback","Aythya valisineria","L1086393","Lake Christina (Douglas Co.)","2025-10-15 16:08",46.0967222,-95.7418282,TRUE,FALSE,FALSE,"S279586631",17
+"249","canvas","Canvasback","Aythya valisineria","L1798012","Bruneau Dunes SP--Observatory","2025-10-15 13:43",42.9021617,-115.6905638,TRUE,FALSE,FALSE,"S279575392",3
+"250","canvas","Canvasback","Aythya valisineria","L35349341","Stowe Lake WPA","2025-10-15 12:54",45.9842698,-95.6434403,TRUE,FALSE,FALSE,"S279560430",5
+"251","canvas","Canvasback","Aythya valisineria","L3543611","Fernhill Wetlands--Natural Treatment System (ASoP/CWS survey)","2025-10-15 12:38",45.507174,-123.0879879,TRUE,FALSE,FALSE,"S279586539",1
+"252","canvas","Canvasback","Aythya valisineria","L4016478","Lake Rhoda","2025-10-15 12:17",39.7812999,-105.0579429,TRUE,FALSE,FALSE,"S279565449",2
+"253","canvas","Canvasback","Aythya valisineria","L3966972","Swan Pond WPA--Fish Hatchery Rd.","2025-10-15 11:47",42.9426719,-89.4373584,TRUE,FALSE,FALSE,"S279560183",1
+"254","canvas","Canvasback","Aythya valisineria","L208918","Sweetwater Wetlands","2025-10-15 09:00",32.2790144,-111.0216061,TRUE,FALSE,FALSE,"S279546676",NA
+"255","canvas","Canvasback","Aythya valisineria","L1014785","Vadnais Lake","2025-10-15 08:33",45.0512105,-93.0955696,TRUE,FALSE,FALSE,"S279520068",1
+"256","canvas","Canvasback","Aythya valisineria","L249812","Blacks Creek Bird Reserve","2025-10-14 16:01",43.4584433,-116.1426544,TRUE,FALSE,FALSE,"S279412349",2
+"257","canvas","Canvasback","Aythya valisineria","L339165","North Diversion Channel Outflow (East of Fourth Street Bridge only)","2025-10-14 16:00",35.2084325,-106.6051265,TRUE,FALSE,FALSE,"S279425701",1
+"258","canvas","Canvasback","Aythya valisineria","L518286","Pioneer Home Marsh","2025-10-14 14:48",58.3454294,-134.4974291,TRUE,FALSE,FALSE,"S279421087",1
+"259","canvas","Canvasback","Aythya valisineria","L4505728","Little America Hotel & Resort (private)","2025-10-14 13:51",41.117792,-104.857565,TRUE,FALSE,FALSE,"S279395885",2
+"260","canvas","Canvasback","Aythya valisineria","L14525553","Milk River WMA","2025-10-14 13:15",48.513903,-107.475149,TRUE,FALSE,FALSE,"S279751822",2
+"261","canvas","Canvasback","Aythya valisineria","L3782882","Hwy 37 pullout","2025-10-14 12:07",38.1353024,-122.3446257,TRUE,FALSE,FALSE,"S279393458",3
+"262","canvas","Canvasback","Aythya valisineria","L447435","Hatfield Lake","2025-10-14 12:00",44.1232081,-121.198554,TRUE,FALSE,FALSE,"S279422838",1
+"263","canvas","Canvasback","Aythya valisineria","L3850246","Oregon Rotary Trail","2025-10-14 11:22",42.9428839,-89.4031978,TRUE,FALSE,FALSE,"S279402207",1
+"264","canvas","Canvasback","Aythya valisineria","L42978542","Force Lake","2025-10-14 09:45",45.605195,-122.69455,TRUE,FALSE,TRUE,"S279433820",2
+"265","canvas","Canvasback","Aythya valisineria","L3091619","Des Lacs NWR--Lower Des Lacs Lake","2025-10-14 09:00",48.607187,-102.0095084,TRUE,FALSE,FALSE,"S279354270",24
+"266","canvas","Canvasback","Aythya valisineria","L800184","Log Boom Park (Tracy Owen Station)","2025-10-14 08:30",47.7573005,-122.2639918,TRUE,FALSE,FALSE,"S279352753",8
+"267","canvas","Canvasback","Aythya valisineria","L44932651","Mt. Falls Front Pond on the Parkway","2025-10-14 08:16",36.1483983,-115.9277424,TRUE,FALSE,TRUE,"S279401443",1
+"268","canvas","Canvasback","Aythya valisineria","L280267","Foster Island & Marsh Island","2025-10-14 08:09",47.646592,-122.2909732,TRUE,FALSE,FALSE,"S279399830",1
+"269","canvas","Canvasback","Aythya valisineria","L247316","Ninepipe NWR","2025-10-14 07:55",47.4379957,-114.1184238,TRUE,FALSE,FALSE,"S280403217",10
+"270","canvas","Canvasback","Aythya valisineria","L752930","Hotchkiss Ln.--WTP Ponds (restricted access)","2025-10-14 07:49",43.5551186,-119.0707684,TRUE,FALSE,FALSE,"S279344341",5
+"271","canvas","Canvasback","Aythya valisineria","L384640","Olympia--Capitol Lake","2025-10-14 07:20",47.0326946,-122.9081726,TRUE,FALSE,FALSE,"S279368392",1
+"272","canvas","Canvasback","Aythya valisineria","L11961890","Bukolt Park","2025-10-14 07:04",44.5324318,-89.5998573,TRUE,FALSE,FALSE,"S279308316",2
