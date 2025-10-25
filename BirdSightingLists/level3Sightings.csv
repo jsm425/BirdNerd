@@ -1,273 +1,356 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","lat","lng","obsValid","obsReviewed","locationPrivate","subId","howMany"
-"1","canvas","Canvasback","Aythya valisineria","L352554","Fargo--Sewage Settling Ponds","2025-10-23 17:45",46.9626441,-96.8402598,TRUE,FALSE,FALSE,"S281001348",NA
-"2","canvas","Canvasback","Aythya valisineria","L1797533","Lake Koshkonong--Bingham Rd. Boat Launch (Jefferson Co.)","2025-10-23 16:55",42.8729881,-89.0129873,TRUE,FALSE,FALSE,"S280997060",1
-"3","canvas","Canvasback","Aythya valisineria","L264663","Kachina Wetlands","2025-10-23 16:06",35.1096843,-111.6895866,TRUE,FALSE,FALSE,"S281008118",2
-"4","canvas","Canvasback","Aythya valisineria","L1092125","Sedona Wetlands Preserve","2025-10-23 15:50",34.829,-111.8964,TRUE,FALSE,FALSE,"S281004651",1
-"5","canvas","Canvasback","Aythya valisineria","L2188466","Juniper Lake","2025-10-23 14:54",42.9177779,-118.3432674,TRUE,FALSE,FALSE,"S280997448",35
-"6","canvas","Canvasback","Aythya valisineria","L37697985","Cummins Lake Argo Mill SiteEly, Nevada, US (39.148, -114.801)","2025-10-23 14:24",39.14826,-114.8005067,TRUE,FALSE,TRUE,"S280993679",6
-"7","canvas","Canvasback","Aythya valisineria","L725880","Dechambeau Ponds","2025-10-23 14:00",38.0506527,-119.0841529,TRUE,FALSE,FALSE,"S280996668",1
-"8","canvas","Canvasback","Aythya valisineria","L815296","Broughton Beach","2025-10-23 13:50",45.6003622,-122.6152539,TRUE,FALSE,FALSE,"S281000255",1
-"9","canvas","Canvasback","Aythya valisineria","L3818029","56th St SE/16th Ave NW stormwater facility, Puyallup","2025-10-23 13:45",47.2056628,-122.3372054,TRUE,FALSE,FALSE,"S280987199",1
-"10","canvas","Canvasback","Aythya valisineria","L140460","Big Johnson Reservoir & Bluestem Prairie Open Space","2025-10-23 13:15",38.7482319,-104.6943795,TRUE,FALSE,FALSE,"S280980656",1
-"11","canvas","Canvasback","Aythya valisineria","L450388","Lake Hood & Lake Spenard","2025-10-23 13:00",61.1787982,-149.9607182,TRUE,FALSE,FALSE,"S281000278",1
-"12","canvas","Canvasback","Aythya valisineria","L151157","Silver Creek Reservoir","2025-10-23 12:52",44.037586,-92.357025,TRUE,FALSE,FALSE,"S280970155",1
-"13","canvas","Canvasback","Aythya valisineria","L1515784","Healy Reservoir","2025-10-23 12:45",44.4134538,-106.6063384,TRUE,FALSE,FALSE,"S280976789",NA
-"14","canvas","Canvasback","Aythya valisineria","L1796157","Olympia--Capitol Lake North Pool","2025-10-23 12:35",47.0400325,-122.9092042,TRUE,FALSE,FALSE,"S280990505",2
-"15","canvas","Canvasback","Aythya valisineria","L29861015","Spring Lake (Scott Co.)","2025-10-23 11:20",44.7020536,-93.4741155,TRUE,FALSE,FALSE,"S280970711",1
-"16","canvas","Canvasback","Aythya valisineria","L272182","Laramie Plains Lakes--Twin Buttes Lake","2025-10-23 10:49",41.2362864,-105.853907,TRUE,FALSE,FALSE,"S280970154",2
-"17","canvas","Canvasback","Aythya valisineria","L5094073","Cross Creek Regional Park","2025-10-23 10:41",38.7130677,-104.6855476,TRUE,FALSE,FALSE,"S280958163",2
-"18","canvas","Canvasback","Aythya valisineria","L3710402","Mud Lake, Ozaukee Co.","2025-10-23 10:40",43.3771908,-88.0234319,TRUE,FALSE,FALSE,"S280951208",1
-"19","canvas","Canvasback","Aythya valisineria","L272218","Laramie Plains Lakes--Lake Hattie Reservoir","2025-10-23 10:21",41.2423606,-105.9257812,TRUE,FALSE,FALSE,"S280965390",6
-"20","canvas","Canvasback","Aythya valisineria","L2609622","Creston Wetland","2025-10-23 10:10",48.200033,-114.1397095,TRUE,FALSE,FALSE,"S280956010",6
-"21","canvas","Canvasback","Aythya valisineria","L232858","Byxbee Park","2025-10-23 10:09",37.4510644,-122.1055913,TRUE,FALSE,FALSE,"S280982839",1
-"22","canvas","Canvasback","Aythya valisineria","L18393698","SH-317 Spur, Del Rio US-TX (29.3429,-100.8219)","2025-10-23 10:07",29.342902,-100.821904,TRUE,FALSE,TRUE,"S280964364",1
-"23","canvas","Canvasback","Aythya valisineria","L277539","South Platte Park","2025-10-23 09:52",39.5800825,-105.0324478,TRUE,FALSE,FALSE,"S280970666",1
-"24","canvas","Canvasback","Aythya valisineria","L582216","Whale Rock Reservoir","2025-10-23 09:48",35.4636527,-120.8708239,TRUE,FALSE,FALSE,"S280988818",4
-"25","canvas","Canvasback","Aythya valisineria","L155200","Standley Lake and Park","2025-10-23 09:47",39.8635031,-105.1222515,TRUE,FALSE,FALSE,"S280962283",5
-"26","canvas","Canvasback","Aythya valisineria","L355373","Salt Lake (SD side)","2025-10-23 09:46",44.9680715,-96.4549424,TRUE,FALSE,FALSE,"S280999278",9
-"27","canvas","Canvasback","Aythya valisineria","L800627","North Spit--old Weyco Settling Pond & deflation plain","2025-10-23 09:13",43.4210895,-124.2850935,TRUE,FALSE,FALSE,"S280969758",3
-"28","canvas","Canvasback","Aythya valisineria","L215383","Gates of the Mountains","2025-10-23 09:02",46.8305931,-111.9483969,TRUE,FALSE,FALSE,"S280955554",1
-"29","canvas","Canvasback","Aythya valisineria","L210723","Salt Lake","2025-10-23 08:46",44.9645052,-96.4437363,TRUE,FALSE,FALSE,"S280935714",116
-"30","canvas","Canvasback","Aythya valisineria","L41398482","Zia Reservoir","2025-10-23 08:32",35.5286156,-106.7578337,TRUE,FALSE,FALSE,"S280952660",9
-"31","canvas","Canvasback","Aythya valisineria","L1027749","Heron Lakes Golf Club--Force Lake","2025-10-23 08:18",45.604911,-122.6953554,TRUE,FALSE,FALSE,"S280948401",2
-"32","canvas","Canvasback","Aythya valisineria","L338760","Highline Lake SP","2025-10-23 08:11",39.2741769,-108.8396124,TRUE,FALSE,FALSE,"S280952923",2
-"33","canvas","Canvasback","Aythya valisineria","L576881","New Buffalo beach and marina","2025-10-23 07:47",41.8007831,-86.7489052,TRUE,FALSE,FALSE,"S280993039",2
-"34","canvas","Canvasback","Aythya valisineria","L8346063","Hines Nature Trail","2025-10-23 07:13",43.5561306,-119.0771071,TRUE,FALSE,FALSE,"S280932313",5
-"35","canvas","Canvasback","Aythya valisineria","L54368012","Best Frontage Rd Pond (44.79336, -117.80949)","2025-10-23 07:09",44.793362,-117.809486,TRUE,FALSE,TRUE,"S280930906",3
-"36","canvas","Canvasback","Aythya valisineria","L12334693","Tres Lagunas","2025-10-23 06:07",34.9550619,-104.6456623,TRUE,FALSE,FALSE,"S280961122",6
-"37","canvas","Canvasback","Aythya valisineria","L51929700","Resevoir Road, Dorrance, Kansas, US (38.947, -98.657)","2025-10-22 17:23",38.947087,-98.6569526,TRUE,FALSE,TRUE,"S280872022",1
-"38","canvas","Canvasback","Aythya valisineria","L152754","Lake George, Hammond","2025-10-22 17:22",41.6683,-87.4986,TRUE,FALSE,FALSE,"S280858502",1
-"39","canvas","Canvasback","Aythya valisineria","L989047","South Richmond Marshes (Stege, Hoffman) and Meeker Slough","2025-10-22 16:35",37.9090901,-122.3329122,TRUE,FALSE,FALSE,"S280871775",1
-"40","canvas","Canvasback","Aythya valisineria","L1921558","Ivins Reservoir","2025-10-22 15:46",37.18101,-113.7148,TRUE,FALSE,TRUE,"S280853286",2
-"41","canvas","Canvasback","Aythya valisineria","L1284489","Russell WTP","2025-10-22 15:29",38.8724752,-98.8408506,TRUE,FALSE,FALSE,"S280846239",5
-"42","canvas","Canvasback","Aythya valisineria","L2700894","Gustavus--Lake Gustavus","2025-10-22 14:46",58.4246351,-135.6892713,TRUE,FALSE,FALSE,"S280877286",1
-"43","canvas","Canvasback","Aythya valisineria","L21946807","Willow Lake-- South Shore","2025-10-22 14:00",34.6013727,-112.437908,TRUE,FALSE,TRUE,"S280866685",NA
-"44","canvas","Canvasback","Aythya valisineria","L375905","Jamestown Sewage Lagoons","2025-10-22 13:32",46.8857148,-98.6328936,TRUE,FALSE,FALSE,"S280833746",175
-"45","canvas","Canvasback","Aythya valisineria","L446072","Medicine Bow NF--Lake Owen","2025-10-22 13:10",41.1484136,-106.1048412,TRUE,FALSE,FALSE,"S280855548",2
-"46","canvas","Canvasback","Aythya valisineria","L343450","Benson STP","2025-10-22 13:06",31.9815,-110.2924,TRUE,FALSE,FALSE,"S280846157",5
-"47","canvas","Canvasback","Aythya valisineria","L4647937","Cedar Point Biological Station","2025-10-22 12:57",41.2095019,-101.6477233,TRUE,FALSE,FALSE,"S280870854",30
-"48","canvas","Canvasback","Aythya valisineria","L46111838","Sheldon NWR--Swan Lake Reservoir","2025-10-22 12:37",41.840104,-119.505155,TRUE,FALSE,FALSE,"S280847427",10
-"49","canvas","Canvasback","Aythya valisineria","L448084","Woodland WTP","2025-10-22 12:33",38.6624345,-121.7173585,TRUE,FALSE,FALSE,"S280847086",10
-"50","canvas","Canvasback","Aythya valisineria","L321969","Lake Sammamish SP","2025-10-22 12:30",47.5597558,-122.0549817,TRUE,FALSE,FALSE,"S280871151",1
-"51","canvas","Canvasback","Aythya valisineria","L1113195","Fish Camp Park, Lake Kegonsa","2025-10-22 12:28",42.9821682,-89.2631046,TRUE,FALSE,FALSE,"S280865433",10
-"52","canvas","Canvasback","Aythya valisineria","L342159","Lake Calumet area--Lake Calumet/Harborside Golf Course","2025-10-22 12:18",41.6880403,-87.5865269,TRUE,FALSE,FALSE,"S280831434",2
-"53","canvas","Canvasback","Aythya valisineria","L493044","Philomath Sewage Ponds (restricted access)","2025-10-22 12:15",44.5185755,-123.3444586,TRUE,FALSE,FALSE,"S280845237",5
-"54","canvas","Canvasback","Aythya valisineria","L212323","Lee Kay Ponds","2025-10-22 12:12",40.7397136,-112.0437241,TRUE,FALSE,FALSE,"S280846074",1
-"55","canvas","Canvasback","Aythya valisineria","L2401299","South Platte Park--Cooley Lake (limited access)","2025-10-22 12:10",39.5813818,-105.0359488,TRUE,FALSE,FALSE,"S280833917",1
-"56","canvas","Canvasback","Aythya valisineria","L7542179","Sheldon NWR--Catnip Reservoir","2025-10-22 11:50",41.912909,-119.4604063,TRUE,FALSE,FALSE,"S280846811",3
-"57","canvas","Canvasback","Aythya valisineria","L158588","Helena Valley Regulating Reservoir","2025-10-22 11:40",46.6399134,-111.8784685,TRUE,FALSE,FALSE,"S280873055",12
-"58","canvas","Canvasback","Aythya valisineria","L124349","Swan Lake Nature Study Area (IBA)","2025-10-22 11:29",39.6574142,-119.8457766,TRUE,FALSE,FALSE,"S280846420",NA
-"59","canvas","Canvasback","Aythya valisineria","L885671","Clear Lake (Yakima Co.)","2025-10-22 11:10",46.6306503,-121.2811516,TRUE,FALSE,FALSE,"S280863257",3
-"60","canvas","Canvasback","Aythya valisineria","L18714827","Carson Park--Braun's Bay","2025-10-22 10:57",44.8062596,-91.5266061,TRUE,FALSE,FALSE,"S280947995",1
-"61","canvas","Canvasback","Aythya valisineria","L266875","Willcox--Lake Cochise and Twin Lakes Golf Course","2025-10-22 10:30",32.2298515,-109.8243175,TRUE,FALSE,FALSE,"S280834720",1
-"62","canvas","Canvasback","Aythya valisineria","L389855","Agate Lake","2025-10-22 10:23",42.4099597,-122.7708006,TRUE,FALSE,FALSE,"S280826134",1
-"63","canvas","Canvasback","Aythya valisineria","L878741","Soscol Water Recycling Facility","2025-10-22 10:15",38.2340171,-122.2826385,TRUE,FALSE,FALSE,"S280850381",12
-"64","canvas","Canvasback","Aythya valisineria","L269367","Pyramid Lake Delta","2025-10-22 10:13",39.8547403,-119.443531,TRUE,FALSE,FALSE,"S280836423",25
-"65","canvas","Canvasback","Aythya valisineria","L2962058","Sheldon NWR--Dufurrena Ponds","2025-10-22 10:02",41.8701361,-119.0230894,TRUE,FALSE,FALSE,"S280846462",3
-"66","canvas","Canvasback","Aythya valisineria","L609358","Pickerel Lake Nature Preserve","2025-10-22 09:35",43.0741545,-85.4690409,TRUE,FALSE,FALSE,"S280791142",1
-"67","canvas","Canvasback","Aythya valisineria","L364919","Quincy Reservoir","2025-10-22 09:30",39.6347124,-104.7777271,TRUE,FALSE,FALSE,"S280815940",2
-"68","canvas","Canvasback","Aythya valisineria","L387496","Ivins Reservoir (Fire Lake Park)","2025-10-22 09:23",37.1810055,-113.7148046,TRUE,FALSE,FALSE,"S280825546",2
-"69","canvas","Canvasback","Aythya valisineria","L591911","Minersville Reservoir--South Side (Hwy 21)","2025-10-22 08:40",38.2200432,-112.8306198,TRUE,FALSE,FALSE,"S280800817",3
-"70","canvas","Canvasback","Aythya valisineria","L283368","Valmont Reservoir Complex","2025-10-22 08:39",40.0255579,-105.1940601,TRUE,FALSE,FALSE,"S280872872",20
-"71","canvas","Canvasback","Aythya valisineria","L272215","Wyoming Hereford Ranch Reservoir #1","2025-10-22 07:46",41.1167222,-104.7379491,TRUE,FALSE,FALSE,"S280796356",2
-"72","canvas","Canvasback","Aythya valisineria","L1016975","Lake Du Bay Dam ","2025-10-22 07:21",44.6571759,-89.6752167,TRUE,FALSE,FALSE,"S280782024",1
-"73","canvas","Canvasback","Aythya valisineria","L6434097","Nantucket","2025-10-22 06:40",41.2703559,-70.0250959,TRUE,FALSE,TRUE,"S280907823",3
-"74","canvas","Canvasback","Aythya valisineria","L2453689","Chisholm Park (NE Ft. Worth)","2025-10-21 16:27",32.8578425,-97.1722648,TRUE,FALSE,FALSE,"S280701443",2
-"75","canvas","Canvasback","Aythya valisineria","L1893170","Cordova--Eyak River Weir","2025-10-21 16:10",60.53125,-145.64471,TRUE,FALSE,FALSE,"S280718842",1
-"76","canvas","Canvasback","Aythya valisineria","L1402778","Lake Hood Dr. & Helio Place intersection","2025-10-21 16:08",61.1874296,-149.9802144,TRUE,FALSE,FALSE,"S280720963",1
-"77","canvas","Canvasback","Aythya valisineria","L453748","Rockport Reservoir & SP","2025-10-21 16:03",40.7691018,-111.397934,TRUE,FALSE,FALSE,"S280713953",3
-"78","canvas","Canvasback","Aythya valisineria","L167351","Twin Lakes","2025-10-21 15:53",58.33481,-134.47717,TRUE,FALSE,FALSE,"S280950290",2
-"79","canvas","Canvasback","Aythya valisineria","L687718","Carson Park","2025-10-21 15:50",44.8046814,-91.525353,TRUE,FALSE,FALSE,"S280693941",1
-"80","canvas","Canvasback","Aythya valisineria","L2224689","Johnson Lake SRA","2025-10-21 15:35",60.2910235,-151.265173,TRUE,TRUE,FALSE,"S280717109",1
-"81","canvas","Canvasback","Aythya valisineria","L577614","Oval Beach","2025-10-21 15:08",42.6640086,-86.2162399,TRUE,FALSE,FALSE,"S280679119",23
-"82","canvas","Canvasback","Aythya valisineria","L267077","Lake Catamount","2025-10-21 14:59",40.3521632,-106.8066736,TRUE,FALSE,FALSE,"S280759237",3
-"83","canvas","Canvasback","Aythya valisineria","L906006","Warm Springs WMA","2025-10-21 14:50",46.1907642,-112.7748299,TRUE,FALSE,FALSE,"S280699853",1
-"84","canvas","Canvasback","Aythya valisineria","L592025","Desert Lake WMA","2025-10-21 14:30",39.3757104,-110.7823563,TRUE,FALSE,FALSE,"S280696940",NA
-"85","canvas","Canvasback","Aythya valisineria","L11588892","Walker SWA","2025-10-21 14:27",39.1055212,-108.6505795,TRUE,FALSE,FALSE,"S280715867",2
-"86","canvas","Canvasback","Aythya valisineria","L7351864","Loon Lake","2025-10-21 14:21",44.0808132,-93.5196532,TRUE,FALSE,FALSE,"S280681261",1
-"87","canvas","Canvasback","Aythya valisineria","L506740","Huntington North Reservoir ","2025-10-21 14:00",39.3463788,-110.9484816,TRUE,FALSE,FALSE,"S280688674",NA
-"88","canvas","Canvasback","Aythya valisineria","L480864","South Platte Park--C470 area","2025-10-21 13:42",39.570896,-105.0411201,TRUE,FALSE,FALSE,"S280684394",1
-"89","canvas","Canvasback","Aythya valisineria","L247318","Benton Lake NWR","2025-10-21 13:25",47.6641904,-111.3007221,TRUE,FALSE,FALSE,"S280708190",2
-"90","canvas","Canvasback","Aythya valisineria","L3017692","Ray Lake Marsh","2025-10-21 13:17",42.9631122,-108.8365746,TRUE,FALSE,FALSE,"S280686318",20
-"91","canvas","Canvasback","Aythya valisineria","L241530","Smith Reservoir SWA","2025-10-21 13:06",37.3919965,-105.534457,TRUE,FALSE,FALSE,"S280724697",6
-"92","canvas","Canvasback","Aythya valisineria","L304168","Rawhide Energy Station/Hamilton Reservoir","2025-10-21 13:03",40.852235,-105.0259988,TRUE,FALSE,FALSE,"S280681994",3
-"93","canvas","Canvasback","Aythya valisineria","L54317252","35 Moon Ranch Rd, Buckhorn US-NM 33.12794, -108.78284","2025-10-21 12:18",33.127941,-108.782836,TRUE,FALSE,TRUE,"S280679805",1
-"94","canvas","Canvasback","Aythya valisineria","L158902","McKenzie Slough","2025-10-21 12:15",46.7942788,-100.4157696,TRUE,FALSE,FALSE,"S280781427",NA
-"95","canvas","Canvasback","Aythya valisineria","L168591","D.C. Everest Park","2025-10-21 12:08",44.938793,-89.639206,TRUE,FALSE,FALSE,"S280664780",2
-"96","canvas","Canvasback","Aythya valisineria","L131615","Lake Henry","2025-10-21 11:58",38.2636986,-103.7109985,TRUE,FALSE,FALSE,"S280678063",2
-"97","canvas","Canvasback","Aythya valisineria","L3133048","Potterville Sewage Ponds (no access)","2025-10-21 11:54",42.631616,-84.7560647,TRUE,FALSE,FALSE,"S280667756",6
-"98","canvas","Canvasback","Aythya valisineria","L776812","Sunnyvale WPCP--West Pond","2025-10-21 11:27",37.426752,-122.0223999,TRUE,FALSE,FALSE,"S280679576",10
-"99","canvas","Canvasback","Aythya valisineria","L11604223","Cutoff Road","2025-10-21 11:17",46.918748,-113.0304226,TRUE,FALSE,TRUE,"S280779096",5
-"100","canvas","Canvasback","Aythya valisineria","L1269264","Rock Creek Reservoir (Harney Co.)","2025-10-21 11:12",42.6849592,-119.3080902,TRUE,FALSE,FALSE,"S280677910",1
-"101","canvas","Canvasback","Aythya valisineria","L279044","Sauvie Island--Rentenaar Rd.","2025-10-21 10:42",45.7574596,-122.776551,TRUE,FALSE,FALSE,"S280670806",5
-"102","canvas","Canvasback","Aythya valisineria","L365439","Pastorius Reservoir","2025-10-21 10:12",37.1999797,-107.8119278,TRUE,FALSE,FALSE,"S280676514",7
-"103","canvas","Canvasback","Aythya valisineria","L3648018","Carpenter Natural Area Trail","2025-10-21 10:08",37.3611526,-108.5882664,TRUE,FALSE,FALSE,"S280666006",9
-"104","canvas","Canvasback","Aythya valisineria","L487464","Juanita Beach Park","2025-10-21 10:08",47.7040147,-122.2153902,TRUE,FALSE,FALSE,"S280725398",2
-"105","canvas","Canvasback","Aythya valisineria","L792565","Crystal Springs Rhododendron Garden","2025-10-21 10:04",45.4779708,-122.6364702,TRUE,FALSE,FALSE,"S280679776",1
-"106","canvas","Canvasback","Aythya valisineria","L352878","Cooney Reservoir","2025-10-21 10:00",45.445252,-109.214379,TRUE,FALSE,FALSE,"S280675710",20
-"107","canvas","Canvasback","Aythya valisineria","L4827152","Kinney Lake","2025-10-21 09:56",45.3140722,-117.1021342,TRUE,FALSE,FALSE,"S280666864",1
-"108","canvas","Canvasback","Aythya valisineria","L27002157","McGee Bay","2025-10-21 09:52",37.618014,-118.757347,TRUE,FALSE,TRUE,"S280697159",5
-"109","canvas","Canvasback","Aythya valisineria","L267812","San Jacinto Wildlife Area--Mystic Lake","2025-10-21 09:34",33.8839706,-117.0884961,TRUE,FALSE,FALSE,"S280697388",9
-"110","canvas","Canvasback","Aythya valisineria","L4952045","Spring Creek Marina","2025-10-21 09:30",40.750118,-115.5677605,TRUE,FALSE,FALSE,"S280677879",3
-"111","canvas","Canvasback","Aythya valisineria","L158888","Minot Sewage Lagoons","2025-10-21 09:22",48.2074032,-101.1662549,TRUE,FALSE,FALSE,"S280660312",11
-"112","canvas","Canvasback","Aythya valisineria","L210257","Weld CR 59 wetlands","2025-10-21 09:15",40.3609628,-104.5068109,TRUE,FALSE,FALSE,"S280651259",6
-"113","canvas","Canvasback","Aythya valisineria","L275081","Gila NF--Quemado Lake","2025-10-21 09:12",34.1341239,-108.4923957,TRUE,FALSE,FALSE,"S280648987",4
-"114","canvas","Canvasback","Aythya valisineria","L28266513","Provo River Delta","2025-10-21 09:08",40.2458762,-111.7205421,TRUE,FALSE,FALSE,"S280663026",1
-"115","canvas","Canvasback","Aythya valisineria","L2325564","Walmart Retention Ponds, Johnsburg","2025-10-21 08:50",42.3705775,-88.2730007,TRUE,FALSE,FALSE,"S280640639",3
-"116","canvas","Canvasback","Aythya valisineria","L17013961","Broughton Beach, Portland US-OR 45.60033, -122.61329","2025-10-21 08:44",45.600332,-122.613295,TRUE,FALSE,TRUE,"S280666359",1
-"117","canvas","Canvasback","Aythya valisineria","L165460","Horseshoe Reservoir","2025-10-21 08:13",40.44303,-105.05396,TRUE,FALSE,FALSE,"S280780205",2
-"118","canvas","Canvasback","Aythya valisineria","L151122","Antelope Island SP--Causeway","2025-10-21 08:12",41.08841,-112.186714,TRUE,FALSE,FALSE,"S280729316",NA
-"119","canvas","Canvasback","Aythya valisineria","L165048","Farmington Bay WMA","2025-10-21 08:06",40.955141,-111.9191396,TRUE,FALSE,FALSE,"S280664845",NA
-"120","canvas","Canvasback","Aythya valisineria","L1502426","Sutherland Reservoir","2025-10-21 07:47",41.1021827,-101.1073152,TRUE,FALSE,FALSE,"S280628431",120
-"121","canvas","Canvasback","Aythya valisineria","L518546","Malheur NWR--Narrows","2025-10-21 07:23",43.2873151,-118.9591885,TRUE,FALSE,FALSE,"S280652639",4
-"122","canvas","Canvasback","Aythya valisineria","L140469","Prewitt Reservoir SWA (Washington Co)","2025-10-21 07:08",40.4146305,-103.3787003,TRUE,FALSE,FALSE,"S280704201",6
-"123","canvas","Canvasback","Aythya valisineria","L54293790","Pickerel Lake Park, Rockford US-MI 43.07284, -85.46513","2025-10-20 18:47",43.072838,-85.465132,TRUE,FALSE,TRUE,"S280565365",1
-"124","canvas","Canvasback","Aythya valisineria","L2337643","Coral Ditch","2025-10-20 17:45",44.7987496,-117.8081346,TRUE,FALSE,FALSE,"S280567653",1
-"125","canvas","Canvasback","Aythya valisineria","L54292974","CA-37 W, Vallejo US-CA (38.1359,-122.3465)","2025-10-20 16:37",38.135911,-122.346533,TRUE,FALSE,TRUE,"S280561539",3
-"126","canvas","Canvasback","Aythya valisineria","L364927","Parker Regional Park (aka Salisbury Equestrian Park)","2025-10-20 16:18",39.5006963,-104.765389,TRUE,FALSE,FALSE,"S280570372",3
-"127","canvas","Canvasback","Aythya valisineria","L1484288","Standley Lake Park--south shore","2025-10-20 15:56",39.85329,-105.1303931,TRUE,FALSE,FALSE,"S280554691",8
-"128","canvas","Canvasback","Aythya valisineria","L1560390","Scottsbluff WTP","2025-10-20 13:45",41.8389696,-103.6064671,TRUE,FALSE,FALSE,"S280536969",2
-"129","canvas","Canvasback","Aythya valisineria","L2411215","Williams Reservoir","2025-10-20 13:21",40.7346409,-84.256382,TRUE,FALSE,FALSE,"S280519802",2
-"130","canvas","Canvasback","Aythya valisineria","L164216","Crex Meadows SWA","2025-10-20 12:38",45.842964,-92.62031,TRUE,FALSE,FALSE,"S280550793",1
-"131","canvas","Canvasback","Aythya valisineria","L2872364","Mountain Plains Heritage Park","2025-10-20 12:23",44.3496932,-106.6829109,TRUE,FALSE,FALSE,"S280555259",2
-"132","canvas","Canvasback","Aythya valisineria","L726694","6th Avenue Marsh","2025-10-20 11:30",44.2090881,-89.7030312,TRUE,FALSE,FALSE,"S280718960",1
-"133","canvas","Canvasback","Aythya valisineria","L1581714","Willow Lake south shore","2025-10-20 10:33",34.6008047,-112.4406966,TRUE,FALSE,TRUE,"S280543725",NA
-"134","canvas","Canvasback","Aythya valisineria","L881969","Hwy. 75 pond (Kansasville)","2025-10-20 10:30",42.6905112,-88.1101799,TRUE,FALSE,FALSE,"S280551114",3
-"135","canvas","Canvasback","Aythya valisineria","L8950719","Cherry Creek SP--Dixon Grove area","2025-10-20 10:19",39.6512747,-104.8486454,TRUE,FALSE,FALSE,"S280517352",3
-"136","canvas","Canvasback","Aythya valisineria","L9861160","Buffalo Thunder Casino Ponds (view from parking lot only)","2025-10-20 10:05",35.8591521,-105.994053,TRUE,FALSE,FALSE,"S280530817",1
-"137","canvas","Canvasback","Aythya valisineria","L3192597","Damonte Ranch Wetlands--Veterans Pkwy Lake and Wetlands","2025-10-20 10:03",39.4202899,-119.7332203,TRUE,FALSE,FALSE,"S280554411",1
-"138","canvas","Canvasback","Aythya valisineria","L460132","Steamboat Rock State Park","2025-10-20 09:58",47.8614341,-119.1204643,TRUE,FALSE,FALSE,"S280572637",1
-"139","canvas","Canvasback","Aythya valisineria","L21520810","Escalante Petrified Forest SP","2025-10-20 09:55",37.7881204,-111.628329,TRUE,FALSE,FALSE,"S280627708",2
-"140","canvas","Canvasback","Aythya valisineria","L597821","Otter Creek Reservoir","2025-10-20 09:09",38.1667523,-112.0166016,TRUE,FALSE,FALSE,"S280553975",2
-"141","canvas","Canvasback","Aythya valisineria","L164819","Dixon Waterfowl Refuge at Hennepin & Hopper Lakes","2025-10-20 09:02",41.2132356,-89.3230426,TRUE,FALSE,FALSE,"S280500404",8
-"142","canvas","Canvasback","Aythya valisineria","L882592","McAlister Park, Lubbock","2025-10-20 08:40",33.5422531,-101.9487476,TRUE,FALSE,FALSE,"S280549417",5
-"143","canvas","Canvasback","Aythya valisineria","L152924","Sand Hollow Reservoir & SP","2025-10-20 08:10",37.1206326,-113.3835411,TRUE,FALSE,FALSE,"S280554221",1
-"144","canvas","Canvasback","Aythya valisineria","L36468789","Lower locks bird blind","2025-10-20 07:45",43.753313,-89.28537,TRUE,FALSE,TRUE,"S280501938",7
-"145","canvas","Canvasback","Aythya valisineria","L2115244","Cecil Depeau Bay Shore Park","2025-10-20 06:53",44.6367194,-87.8010178,TRUE,FALSE,FALSE,"S280472868",1
-"146","canvas","Canvasback","Aythya valisineria","L3020999","Crystal Lake (Stevens Co.)","2025-10-19 17:46",45.5808869,-95.9184551,TRUE,FALSE,FALSE,"S280410878",3
-"147","canvas","Canvasback","Aythya valisineria","L8644413","Merkel WTP","2025-10-19 17:26",32.4838792,-99.9983837,TRUE,FALSE,FALSE,"S280412576",1
-"148","canvas","Canvasback","Aythya valisineria","L5060723","Holmes Road Park","2025-10-19 15:17",44.9898947,-123.9951754,TRUE,FALSE,FALSE,"S280407296",1
-"149","canvas","Canvasback","Aythya valisineria","L991670","Harrison/Willow Creek Reservoir","2025-10-19 15:15",45.7005388,-111.7032981,TRUE,FALSE,FALSE,"S280490371",30
-"150","canvas","Canvasback","Aythya valisineria","L1141050","Laramie Plains Lakes--Meeboer Lake","2025-10-19 14:57",41.2149499,-105.8219433,TRUE,FALSE,FALSE,"S280394200",20
-"151","canvas","Canvasback","Aythya valisineria","L16134714","Holloway Reservoir--The Tubes","2025-10-19 14:17",43.1084911,-83.4631349,TRUE,FALSE,FALSE,"S280367870",1
-"152","canvas","Canvasback","Aythya valisineria","L855583","Lake Pateros","2025-10-19 14:16",48.0822936,-119.7652888,TRUE,FALSE,FALSE,"S280424916",NA
-"153","canvas","Canvasback","Aythya valisineria","L1099948","Lake Zahl NWR","2025-10-19 14:10",48.5571849,-103.668298,TRUE,FALSE,FALSE,"S280387254",24
-"154","canvas","Canvasback","Aythya valisineria","L4343309","Frenchtown Slough","2025-10-19 13:55",47.0203695,-114.2644107,TRUE,FALSE,FALSE,"S280548787",1
-"155","canvas","Canvasback","Aythya valisineria","L1800563","Lake Koshkonong--Kuehn Rd. Boat Launch","2025-10-19 13:53",42.8973948,-88.9593047,TRUE,FALSE,FALSE,"S280371182",4
-"156","canvas","Canvasback","Aythya valisineria","L140470","Lake Hasty (lake and campground)","2025-10-19 13:35",38.0733658,-102.9348135,TRUE,FALSE,FALSE,"S280380358",NA
-"157","canvas","Canvasback","Aythya valisineria","L5773757","Boulder Lake","2025-10-19 13:32",42.8463944,-109.6678448,TRUE,FALSE,FALSE,"S280408046",7
-"158","canvas","Canvasback","Aythya valisineria","L4451115","Frenchtown Gravel Pits","2025-10-19 13:27",47.0292283,-114.2983031,TRUE,FALSE,FALSE,"S280561829",1
-"159","canvas","Canvasback","Aythya valisineria","L1783934","Fish Lake and campground","2025-10-19 13:08",42.3934634,-122.3193312,TRUE,FALSE,FALSE,"S280385708",1
-"160","canvas","Canvasback","Aythya valisineria","L1299773","Somers Slough (Park and Ride)","2025-10-19 12:52",48.095977,-114.2342366,TRUE,FALSE,FALSE,"S280371493",1
-"161","canvas","Canvasback","Aythya valisineria","L1053470","Napa-Sonoma Marshes WA--Huichica Creek Unit - Pond 8","2025-10-19 12:10",38.1956877,-122.3178291,TRUE,FALSE,FALSE,"S280394574",1
-"162","canvas","Canvasback","Aythya valisineria","L504357","Scofield Reservoir & Vicinity","2025-10-19 11:26",39.7553726,-111.1526299,TRUE,FALSE,FALSE,"S280381461",2
-"163","canvas","Canvasback","Aythya valisineria","L279204","Sunnyvale WPCP (please use a more specific hotspot where possible)","2025-10-19 11:04",37.4198391,-122.0144261,TRUE,FALSE,FALSE,"S280420838",2
-"164","canvas","Canvasback","Aythya valisineria","L158613","North Platte NWR--Lake Alice","2025-10-19 10:48",41.9885,-103.6143,TRUE,FALSE,FALSE,"S280425889",6
-"165","canvas","Canvasback","Aythya valisineria","L2442148","Rocky Mountain Arsenal NWR--Lower Derby Lake","2025-10-19 10:29",39.8146676,-104.8424435,TRUE,FALSE,FALSE,"S280430147",7
-"166","canvas","Canvasback","Aythya valisineria","L716316","Lake Morena","2025-10-19 10:15",32.6881683,-116.5258897,TRUE,FALSE,FALSE,"S280384549",2
-"167","canvas","Canvasback","Aythya valisineria","L5781875","Clear Lake County Park","2025-10-19 10:11",44.4634566,-94.5106995,TRUE,FALSE,FALSE,"S280327615",11
-"168","canvas","Canvasback","Aythya valisineria","L5786158","Ebey Waterfront Trail, Marysville","2025-10-19 10:10",48.0458046,-122.1758652,TRUE,FALSE,FALSE,"S280379043",1
-"169","canvas","Canvasback","Aythya valisineria","L1214464","Lavold Reservoir","2025-10-19 09:30",45.9541632,-109.8974419,TRUE,FALSE,FALSE,"S280339015",6
-"170","canvas","Canvasback","Aythya valisineria","L165307","Mann Lake","2025-10-19 09:14",46.371455,-116.8511029,TRUE,FALSE,FALSE,"S280361343",1
-"171","canvas","Canvasback","Aythya valisineria","L163529","Fernhill Wetlands (general)","2025-10-19 09:09",45.5064875,-123.0851855,TRUE,FALSE,FALSE,"S280375731",4
-"172","canvas","Canvasback","Aythya valisineria","L168158","Vega SP","2025-10-19 09:09",39.22338,-107.79534,TRUE,FALSE,FALSE,"S280402257",1
-"173","canvas","Canvasback","Aythya valisineria","L3572935","Swan Lake Nature Study Area (IBA)--Boardwalk","2025-10-19 08:19",39.6531916,-119.856496,TRUE,FALSE,FALSE,"S280330874",40
-"174","canvas","Canvasback","Aythya valisineria","L1384917","Philomath Sewage Ponds--central pond","2025-10-19 07:54",44.5215399,-123.3464885,TRUE,FALSE,TRUE,"S280774626",6
-"175","canvas","Canvasback","Aythya valisineria","L25873065","Lear Blvd Ponds and Wetlands","2025-10-19 07:43",39.6469011,-119.8509521,TRUE,FALSE,FALSE,"S280324739",120
-"176","canvas","Canvasback","Aythya valisineria","L109289","Barr Lake SP","2025-10-19 07:37",39.9430556,-104.7625,TRUE,FALSE,FALSE,"S280419141",3
-"177","canvas","Canvasback","Aythya valisineria","L211111","Metzger Marsh Wildlife Area","2025-10-19 07:28",41.645338,-83.2403183,TRUE,FALSE,FALSE,"S280413244",4
-"178","canvas","Canvasback","Aythya valisineria","L1384916","Philomath Sewage Ponds--south pond","2025-10-19 07:24",44.519245,-123.3463919,TRUE,FALSE,TRUE,"S280774625",8
-"179","canvas","Canvasback","Aythya valisineria","L266967","Great Western Reservoir (closed to public)","2025-10-19 07:15",39.8968365,-105.1522923,TRUE,FALSE,FALSE,"S280317160",1
-"180","canvas","Canvasback","Aythya valisineria","L6550725","Swan Lake Nature Study Area (IBA)--Fleetwood Dr Pumphouse","2025-10-19 07:12",39.6500322,-119.8445847,TRUE,FALSE,FALSE,"S280313678",100
-"181","canvas","Canvasback","Aythya valisineria","L158612","North Platte NWR--Lake Minatare","2025-10-19 06:59",41.9315,-103.4916,TRUE,FALSE,FALSE,"S280424523",5
-"182","canvas","Canvasback","Aythya valisineria","L1613469","Boardman Marina and RV Park","2025-10-18 17:07",45.8426044,-119.7133613,TRUE,FALSE,FALSE,"S280207241",7
-"183","canvas","Canvasback","Aythya valisineria","L11641341","Tewaukon NWR--White Lake","2025-10-18 14:54",45.996304,-97.400006,TRUE,FALSE,FALSE,"S280167019",4
-"184","canvas","Canvasback","Aythya valisineria","L560859","Russell Lakes SWA","2025-10-18 14:49",37.9427084,-106.1422205,TRUE,FALSE,FALSE,"S280190649",7
-"185","canvas","Canvasback","Aythya valisineria","L54203638","Maumee Bay Golf Course","2025-10-18 14:42",41.682172,-83.367539,TRUE,FALSE,TRUE,"S280151336",1
-"186","canvas","Canvasback","Aythya valisineria","L2320631","Yellowstone NP--Indian Pond","2025-10-18 13:24",44.5587388,-110.3243949,TRUE,FALSE,FALSE,"S280370876",4
-"187","canvas","Canvasback","Aythya valisineria","L751487","Santa Maria River Estuary (SLO Co.)","2025-10-18 12:45",34.9722359,-120.6456667,TRUE,FALSE,FALSE,"S280215608",1
-"188","canvas","Canvasback","Aythya valisineria","L1435405","Tongue River Reservoir SP","2025-10-18 12:39",45.1,-106.795,TRUE,FALSE,FALSE,"S280180829",3
-"189","canvas","Canvasback","Aythya valisineria","L2378932","Ennis Lake--East Shore","2025-10-18 12:33",45.4312423,-111.6536922,TRUE,FALSE,FALSE,"S280374892",5
-"190","canvas","Canvasback","Aythya valisineria","L8476413","Cottonwood Park","2025-10-18 12:30",39.6805241,-105.1156194,TRUE,FALSE,FALSE,"S280321578",1
-"191","canvas","Canvasback","Aythya valisineria","L54203027","Ingomar Pond","2025-10-18 12:20",46.5814212,-107.3663951,TRUE,FALSE,TRUE,"S280148730",8
-"192","canvas","Canvasback","Aythya valisineria","L600887","Rancho Guadalupe Dunes Preserve, including Santa Maria River Estuary (SBA Co.)","2025-10-18 11:43",34.9671044,-120.6473815,TRUE,FALSE,FALSE,"S280215990",1
-"193","canvas","Canvasback","Aythya valisineria","L4852400","Baskett Slough NWR--Mofitti Marsh","2025-10-18 11:34",44.9767375,-123.2665345,TRUE,FALSE,FALSE,"S280183799",3
-"194","canvas","Canvasback","Aythya valisineria","L586105","Sue's Pond--Logan River Wetlands and Shorebird Playa","2025-10-18 11:24",41.7320355,-111.8809032,TRUE,FALSE,FALSE,"S280297579",1
-"195","canvas","Canvasback","Aythya valisineria","L247305","Central Park Pond","2025-10-18 11:10",45.8284823,-111.2841328,TRUE,FALSE,FALSE,"S280135113",3
-"196","canvas","Canvasback","Aythya valisineria","L1013954","Columbia Hills SP--Horsethief Lake","2025-10-18 10:38",45.6440482,-121.101265,TRUE,FALSE,FALSE,"S280211548",1
-"197","canvas","Canvasback","Aythya valisineria","L247311","Lee Metcalf NWR","2025-10-18 10:26",46.5553628,-114.0762529,TRUE,FALSE,FALSE,"S280146598",1
-"198","canvas","Canvasback","Aythya valisineria","L151705","Glendalough SP","2025-10-18 10:15",46.3279,-95.6601,TRUE,FALSE,FALSE,"S280118099",2
-"199","canvas","Canvasback","Aythya valisineria","L11304973","Shawano Lake (General)","2025-10-18 10:15",44.808427,-88.496296,TRUE,FALSE,FALSE,"S280413930",24
-"200","canvas","Canvasback","Aythya valisineria","L279404","Las Vegas NWR","2025-10-18 10:12",35.548848,-105.1583862,TRUE,FALSE,FALSE,"S280159881",4
-"201","canvas","Canvasback","Aythya valisineria","L732235","Central Ferry (Garfield Co.)","2025-10-18 09:27",46.6159596,-117.7923203,TRUE,TRUE,FALSE,"S280177072",1
-"202","canvas","Canvasback","Aythya valisineria","L299782","Burlington Lake (Goldeneye Reservoir)","2025-10-18 09:07",43.019333,-106.7073727,TRUE,FALSE,FALSE,"S280165689",20
-"203","canvas","Canvasback","Aythya valisineria","L1384919","Philomath Sewage Ponds--northwest pond","2025-10-18 08:30",44.5243,-123.34667,TRUE,FALSE,TRUE,"S280287807",1
-"204","canvas","Canvasback","Aythya valisineria","L165236","Neenoshe Reservoir","2025-10-18 08:28",38.3390307,-102.6904106,TRUE,FALSE,FALSE,"S280095264",50
-"205","canvas","Canvasback","Aythya valisineria","L1009850","Quanicassee SWA--Finn Rd. terminus","2025-10-18 08:28",43.6308569,-83.7799358,TRUE,FALSE,FALSE,"S280095419",1
-"206","canvas","Canvasback","Aythya valisineria","L265647","Maxwell NWR","2025-10-18 08:24",36.5688651,-104.5815831,TRUE,FALSE,FALSE,"S280123750",3
-"207","canvas","Canvasback","Aythya valisineria","L2208681","Mt. Rainier NP--Louise Lake","2025-10-18 07:45",46.7702036,-121.7175293,TRUE,FALSE,FALSE,"S280131057",1
-"208","canvas","Canvasback","Aythya valisineria","L473873","Plaster Reservoir","2025-10-18 07:24",39.947253,-105.0286102,TRUE,FALSE,FALSE,"S280106255",1
-"209","canvas","Canvasback","Aythya valisineria","L3184596","Lake Sammamish SP--Boat Launch","2025-10-17 17:38",47.5645542,-122.0550401,TRUE,FALSE,FALSE,"S279971371",1
-"210","canvas","Canvasback","Aythya valisineria","L420537","Nob Hill Pond","2025-10-17 16:49",37.5218818,-122.2498887,TRUE,FALSE,FALSE,"S279969443",1
-"211","canvas","Canvasback","Aythya valisineria","L159568","Tewaukon NWR","2025-10-17 15:30",46.0040643,-97.3847303,TRUE,FALSE,FALSE,"S279944367",8
-"212","canvas","Canvasback","Aythya valisineria","L470248","O'Neill Forebay","2025-10-17 14:30",37.0821604,-121.0482216,TRUE,TRUE,FALSE,"S279985048",8
-"213","canvas","Canvasback","Aythya valisineria","L2340625","Bear Lake Regional Park","2025-10-17 13:52",47.9223085,-117.3529577,TRUE,FALSE,FALSE,"S279953588",1
-"214","canvas","Canvasback","Aythya valisineria","L1183477","Cascade Meadow Wetlands and Environmental Science Center","2025-10-17 13:36",44.0386762,-92.5051403,TRUE,FALSE,FALSE,"S279937499",1
-"215","canvas","Canvasback","Aythya valisineria","L54164530","Duluth, Minnesota, US (46.738, -92.059) Bus Turnaround","2025-10-17 13:09",46.7376355,-92.0589415,TRUE,FALSE,TRUE,"S279974767",1
-"216","canvas","Canvasback","Aythya valisineria","L886112","Trempealeau NWR--Entrance Rd. Wetlands","2025-10-17 12:42",44.0522242,-91.5166283,TRUE,FALSE,FALSE,"S279939717",12
-"217","canvas","Canvasback","Aythya valisineria","L1080198","Lake Almanor--Super Ditch","2025-10-17 11:54",40.265577,-121.2404823,TRUE,FALSE,FALSE,"S279927173",4
-"218","canvas","Canvasback","Aythya valisineria","L418084","Park Point--Park Point Rec. Area","2025-10-17 11:40",46.7337486,-92.0542164,TRUE,FALSE,FALSE,"S280023921",1
-"219","canvas","Canvasback","Aythya valisineria","L162766","Union Bay Natural Area/Montlake Fill","2025-10-17 11:30",47.65424,-122.29137,TRUE,FALSE,FALSE,"S280366283",2
-"220","canvas","Canvasback","Aythya valisineria","L1079678","Lake Almanor--Goose Bay","2025-10-17 11:28",40.249136,-121.2252045,TRUE,FALSE,FALSE,"S279924737",8
-"221","canvas","Canvasback","Aythya valisineria","L54151498","Shore Drive, Whitney, Nebraska, US (42.789, -103.285)","2025-10-17 11:09",42.7887775,-103.2850636,TRUE,FALSE,TRUE,"S279918083",5
-"222","canvas","Canvasback","Aythya valisineria","L3232073","Warrenton Sewage Ponds (restricted access)","2025-10-17 10:48",46.1744221,-123.921833,TRUE,FALSE,FALSE,"S279948927",2
-"223","canvas","Canvasback","Aythya valisineria","L3396908","ODOT Pond","2025-10-17 10:30",45.2529174,-118.0348778,TRUE,FALSE,TRUE,"S279915763",1
-"224","canvas","Canvasback","Aythya valisineria","L36726049","Crystal Springs Rhododendron Garden","2025-10-17 10:15",45.480085,-122.63534,TRUE,FALSE,TRUE,"S279973441",1
-"225","canvas","Canvasback","Aythya valisineria","L124350","Virginia Lake","2025-10-17 10:09",39.500583,-119.80673,TRUE,FALSE,FALSE,"S279913398",1
-"226","canvas","Canvasback","Aythya valisineria","L19625949","Union Bay Natural Area","2025-10-17 09:58",47.655172,-122.291615,TRUE,FALSE,TRUE,"S279930708",7
-"227","canvas","Canvasback","Aythya valisineria","L2837420","Hamilton Wetlands","2025-10-17 08:00",38.0578151,-122.5078261,TRUE,FALSE,FALSE,"S279943002",1
-"228","canvas","Canvasback","Aythya valisineria","L778997","State Hwy 51 at Snake River (Elmore Co. side)","2025-10-16 18:16",42.9393567,-115.7510519,TRUE,FALSE,FALSE,"S279788611",2
-"229","canvas","Canvasback","Aythya valisineria","L1312278","Arco Ponds","2025-10-16 17:33",46.1624744,-112.7791214,TRUE,FALSE,FALSE,"S279799099",1
-"230","canvas","Canvasback","Aythya valisineria","L811384","McNary NWR--Peninsula Unit","2025-10-16 15:39",46.148685,-118.966825,TRUE,FALSE,FALSE,"S279786456",8
-"231","canvas","Canvasback","Aythya valisineria","L145063","Silver Lake","2025-10-16 15:30",44.0329475,-92.4569855,TRUE,FALSE,FALSE,"S279782015",1
-"232","canvas","Canvasback","Aythya valisineria","L1305259","Blue Creek Bay","2025-10-16 15:16",47.629884,-116.6736031,TRUE,FALSE,FALSE,"S279947371",1
-"233","canvas","Canvasback","Aythya valisineria","L35796745","Ninepipe dam","2025-10-16 15:15",47.4555336,-114.1371716,TRUE,FALSE,TRUE,"S280788198",2
-"234","canvas","Canvasback","Aythya valisineria","L12672600","Berthoud Reservoir Open Space","2025-10-16 14:56",40.3318116,-105.0860076,TRUE,FALSE,FALSE,"S279773685",1
-"235","canvas","Canvasback","Aythya valisineria","L856570","San Gabriel Coastal Basin Spreading Grounds","2025-10-16 14:20",33.9810187,-118.0824494,TRUE,FALSE,FALSE,"S279772387",1
-"236","canvas","Canvasback","Aythya valisineria","L54125383","County Road 18, Steamboat Springs, Colorado, US (40.349, -106.817)","2025-10-16 13:53",40.3485317,-106.8165837,TRUE,FALSE,TRUE,"S279788468",2
-"237","canvas","Canvasback","Aythya valisineria","L6501671","Bluewater Lake - McKinley County (35.3082,-108.1449)","2025-10-16 13:13",35.308204,-108.144906,TRUE,FALSE,TRUE,"S279797048",1
-"238","canvas","Canvasback","Aythya valisineria","L790888","Port of Wallula","2025-10-16 12:30",46.0604867,-118.9210474,TRUE,FALSE,FALSE,"S280044409",3
-"239","canvas","Canvasback","Aythya valisineria","L140473","Cherry Creek SP","2025-10-16 12:00",39.6402646,-104.8538589,TRUE,FALSE,FALSE,"S279755743",5
-"240","canvas","Canvasback","Aythya valisineria","L2240274","Cherry Creek SP--Swim Beach & Smoky Hill Shelter area","2025-10-16 11:50",39.6453868,-104.8471642,TRUE,FALSE,FALSE,"S279745894",5
-"241","canvas","Canvasback","Aythya valisineria","L164961","Bear River MBR--Auto Tour Loop","2025-10-16 11:28",41.4692291,-112.2947788,TRUE,FALSE,FALSE,"S279792719",2
-"242","canvas","Canvasback","Aythya valisineria","L41325715","Tingley Lake Estates","2025-10-16 11:22",42.116875,-121.778874,TRUE,FALSE,TRUE,"S279743610",1
-"243","canvas","Canvasback","Aythya valisineria","L803520","Lake Shastina","2025-10-16 10:30",41.5162898,-122.3945618,TRUE,FALSE,FALSE,"S279765145",1
-"244","canvas","Canvasback","Aythya valisineria","L2141651","Valmont Overlook (Legion Park)","2025-10-16 08:50",40.016268,-105.1891619,TRUE,FALSE,FALSE,"S279704787",2
-"245","canvas","Canvasback","Aythya valisineria","L954210","Mayfield Slough","2025-10-16 08:10",37.450843,-122.1023512,TRUE,FALSE,FALSE,"S279712667",1
-"246","canvas","Canvasback","Aythya valisineria","L628412","Kern NWR","2025-10-16 07:50",35.7592007,-119.5933604,TRUE,FALSE,FALSE,"S279738807",22
-"247","canvas","Canvasback","Aythya valisineria","L248057","Pte. Mouillee SGA (permit required Sep 1-Dec 15)","2025-10-16 07:46",42.0364452,-83.2114657,TRUE,FALSE,FALSE,"S279742164",1
-"248","canvas","Canvasback","Aythya valisineria","L1086393","Lake Christina (Douglas Co.)","2025-10-15 16:08",46.0967222,-95.7418282,TRUE,FALSE,FALSE,"S279586631",17
-"249","canvas","Canvasback","Aythya valisineria","L1798012","Bruneau Dunes SP--Observatory","2025-10-15 13:43",42.9021617,-115.6905638,TRUE,FALSE,FALSE,"S279575392",3
-"250","canvas","Canvasback","Aythya valisineria","L35349341","Stowe Lake WPA","2025-10-15 12:54",45.9842698,-95.6434403,TRUE,FALSE,FALSE,"S279560430",5
-"251","canvas","Canvasback","Aythya valisineria","L3543611","Fernhill Wetlands--Natural Treatment System (ASoP/CWS survey)","2025-10-15 12:38",45.507174,-123.0879879,TRUE,FALSE,FALSE,"S279586539",1
-"252","canvas","Canvasback","Aythya valisineria","L4016478","Lake Rhoda","2025-10-15 12:17",39.7812999,-105.0579429,TRUE,FALSE,FALSE,"S279565449",2
-"253","canvas","Canvasback","Aythya valisineria","L3966972","Swan Pond WPA--Fish Hatchery Rd.","2025-10-15 11:47",42.9426719,-89.4373584,TRUE,FALSE,FALSE,"S279560183",1
-"254","canvas","Canvasback","Aythya valisineria","L208918","Sweetwater Wetlands","2025-10-15 09:00",32.2790144,-111.0216061,TRUE,FALSE,FALSE,"S279546676",NA
-"255","canvas","Canvasback","Aythya valisineria","L1014785","Vadnais Lake","2025-10-15 08:33",45.0512105,-93.0955696,TRUE,FALSE,FALSE,"S279520068",1
-"256","canvas","Canvasback","Aythya valisineria","L249812","Blacks Creek Bird Reserve","2025-10-14 16:01",43.4584433,-116.1426544,TRUE,FALSE,FALSE,"S279412349",2
-"257","canvas","Canvasback","Aythya valisineria","L339165","North Diversion Channel Outflow (East of Fourth Street Bridge only)","2025-10-14 16:00",35.2084325,-106.6051265,TRUE,FALSE,FALSE,"S279425701",1
-"258","canvas","Canvasback","Aythya valisineria","L518286","Pioneer Home Marsh","2025-10-14 14:48",58.3454294,-134.4974291,TRUE,FALSE,FALSE,"S279421087",1
-"259","canvas","Canvasback","Aythya valisineria","L4505728","Little America Hotel & Resort (private)","2025-10-14 13:51",41.117792,-104.857565,TRUE,FALSE,FALSE,"S279395885",2
-"260","canvas","Canvasback","Aythya valisineria","L14525553","Milk River WMA","2025-10-14 13:15",48.513903,-107.475149,TRUE,FALSE,FALSE,"S279751822",2
-"261","canvas","Canvasback","Aythya valisineria","L3782882","Hwy 37 pullout","2025-10-14 12:07",38.1353024,-122.3446257,TRUE,FALSE,FALSE,"S279393458",3
-"262","canvas","Canvasback","Aythya valisineria","L447435","Hatfield Lake","2025-10-14 12:00",44.1232081,-121.198554,TRUE,FALSE,FALSE,"S279422838",1
-"263","canvas","Canvasback","Aythya valisineria","L3850246","Oregon Rotary Trail","2025-10-14 11:22",42.9428839,-89.4031978,TRUE,FALSE,FALSE,"S279402207",1
-"264","canvas","Canvasback","Aythya valisineria","L42978542","Force Lake","2025-10-14 09:45",45.605195,-122.69455,TRUE,FALSE,TRUE,"S279433820",2
-"265","canvas","Canvasback","Aythya valisineria","L3091619","Des Lacs NWR--Lower Des Lacs Lake","2025-10-14 09:00",48.607187,-102.0095084,TRUE,FALSE,FALSE,"S279354270",24
-"266","canvas","Canvasback","Aythya valisineria","L800184","Log Boom Park (Tracy Owen Station)","2025-10-14 08:30",47.7573005,-122.2639918,TRUE,FALSE,FALSE,"S279352753",8
-"267","canvas","Canvasback","Aythya valisineria","L44932651","Mt. Falls Front Pond on the Parkway","2025-10-14 08:16",36.1483983,-115.9277424,TRUE,FALSE,TRUE,"S279401443",1
-"268","canvas","Canvasback","Aythya valisineria","L280267","Foster Island & Marsh Island","2025-10-14 08:09",47.646592,-122.2909732,TRUE,FALSE,FALSE,"S279399830",1
-"269","canvas","Canvasback","Aythya valisineria","L247316","Ninepipe NWR","2025-10-14 07:55",47.4379957,-114.1184238,TRUE,FALSE,FALSE,"S280403217",10
-"270","canvas","Canvasback","Aythya valisineria","L752930","Hotchkiss Ln.--WTP Ponds (restricted access)","2025-10-14 07:49",43.5551186,-119.0707684,TRUE,FALSE,FALSE,"S279344341",5
-"271","canvas","Canvasback","Aythya valisineria","L384640","Olympia--Capitol Lake","2025-10-14 07:20",47.0326946,-122.9081726,TRUE,FALSE,FALSE,"S279368392",1
-"272","canvas","Canvasback","Aythya valisineria","L11961890","Bukolt Park","2025-10-14 07:04",44.5324318,-89.5998573,TRUE,FALSE,FALSE,"S279308316",2
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
+"1","limpki","Limpkin","Aramus guarauna","L53464955","4720 48th Street West, Bradenton, Florida, US (27.457, -82.609)","2025-10-24 19:20",1,27.456825,-82.609428,TRUE,FALSE,TRUE,"S281156017"
+"2","limpki","Limpkin","Aramus guarauna","L697419","Paynes Prairie Preserve SP--US-441 observation deck","2025-10-24 19:02",1,29.5740753,-82.3350487,TRUE,FALSE,FALSE,"S281155253"
+"3","limpki","Limpkin","Aramus guarauna","L3090950","Centre Pointe Lane Pond","2025-10-24 17:45",1,30.474417,-84.237235,TRUE,FALSE,FALSE,"S281146323"
+"4","limpki","Limpkin","Aramus guarauna","L344646","Paynes Prairie Preserve SP--Bolen Bluff Trail","2025-10-24 17:31",1,29.5587838,-82.3245401,TRUE,FALSE,FALSE,"S281152918"
+"5","limpki","Limpkin","Aramus guarauna","L518777","Greenwood Urban Wetlands","2025-10-24 17:29",3,28.5351435,-81.3620853,TRUE,FALSE,FALSE,"S281148850"
+"6","limpki","Limpkin","Aramus guarauna","L25253783","Orlando Mountain Bike Park, Orlando US-FL 28.55839, -81.34952","2025-10-24 16:43",1,28.558394,-81.349516,TRUE,FALSE,TRUE,"S281138965"
+"7","limpki","Limpkin","Aramus guarauna","L54410023","Interstate 75, Naples, Florida, US (26.172, -81.733)","2025-10-24 16:37",1,26.1722373,-81.7331629,TRUE,FALSE,TRUE,"S281134712"
+"8","limpki","Limpkin","Aramus guarauna","L54401687","3823 Regency Cir N, Boca Raton US-FL 26.40055, -80.16338","2025-10-24 16:01",1,26.400552,-80.163379,TRUE,FALSE,TRUE,"S281129466"
+"9","limpki","Limpkin","Aramus guarauna","L54407877","6145 Carrier Drive, Orlando, Florida, US (28.457, -81.467)","2025-10-24 15:32",3,28.4566099,-81.4665161,TRUE,FALSE,TRUE,"S281125881"
+"10","limpki","Limpkin","Aramus guarauna","L714849","Tradewinds Park  -- (North & South)","2025-10-24 14:34",1,26.2742143,-80.1725793,TRUE,FALSE,FALSE,"S281126203"
+"11","limpki","Limpkin","Aramus guarauna","L10843015","Sankofa Wetland Park","2025-10-24 13:32",1,29.9741375,-89.9998498,TRUE,FALSE,FALSE,"S281129723"
+"12","limpki","Limpkin","Aramus guarauna","L3245938","Coral Reef Park","2025-10-24 13:27",1,25.631196,-80.3196073,TRUE,FALSE,FALSE,"S281114330"
+"13","limpki","Limpkin","Aramus guarauna","L12968851","Niblett--Cherokee Rd","2025-10-24 13:00",1,30.081149,-92.841185,TRUE,FALSE,FALSE,"S281154317"
+"14","limpki","Limpkin","Aramus guarauna","L127337","Lettuce Lake County Park","2025-10-24 12:54",2,28.0725,-82.3754,TRUE,FALSE,FALSE,"S281120406"
+"15","limpki","Limpkin","Aramus guarauna","L452007","Orlando Wetlands","2025-10-24 12:32",2,28.5700783,-80.9963373,TRUE,FALSE,FALSE,"S281111958"
+"16","limpki","Limpkin","Aramus guarauna","L29150632","Lettuce Lake Conservation Park, Tampa","2025-10-24 12:04",1,28.074084,-82.375405,TRUE,FALSE,TRUE,"S281099582"
+"17","limpki","Limpkin","Aramus guarauna","L127353","Mead Botanical Gardens","2025-10-24 11:29",1,28.5836,-81.3586,TRUE,FALSE,FALSE,"S281104635"
+"18","limpki","Limpkin","Aramus guarauna","L374880","Lake Eola Park (please do not list exotic swans)","2025-10-24 11:27",2,28.5441162,-81.3731575,TRUE,FALSE,FALSE,"S281103627"
+"19","limpki","Limpkin","Aramus guarauna","L2985106","Lake Hunter","2025-10-24 11:26",2,28.0327243,-81.9660223,TRUE,FALSE,FALSE,"S281100060"
+"20","limpki","Limpkin","Aramus guarauna","L54406621","C-139 Flow Equalization Basin (Restricted Access)","2025-10-24 11:05",24,26.431343,-80.97625,TRUE,FALSE,TRUE,"S281120296"
+"21","limpki","Limpkin","Aramus guarauna","L6435785","Cheyenne Bottoms WA--1A & 4B Dike Rd.","2025-10-24 09:52",1,38.4559076,-98.6334836,TRUE,TRUE,FALSE,"S281084755"
+"22","limpki","Limpkin","Aramus guarauna","L8217969","West Niblett Road","2025-10-24 09:49",2,30.1257685,-92.8601279,TRUE,FALSE,FALSE,"S281099741"
+"23","limpki","Limpkin","Aramus guarauna","L299291","Myakka River SP","2025-10-24 09:35",4,27.2405033,-82.3148167,TRUE,FALSE,FALSE,"S281134319"
+"24","limpki","Limpkin","Aramus guarauna","L2234368","Nathan Benderson Park","2025-10-24 09:35",2,27.3632302,-82.4475861,TRUE,FALSE,FALSE,"S281085091"
+"25","limpki","Limpkin","Aramus guarauna","L1877656","Pinecraft Park","2025-10-24 09:29",1,27.3189746,-82.5037765,TRUE,FALSE,FALSE,"S281081573"
+"26","limpki","Limpkin","Aramus guarauna","L9122350","Grey Hawk Subdivision","2025-10-24 09:28",1,27.4961136,-82.4158811,TRUE,FALSE,FALSE,"S281079406"
+"27","limpki","Limpkin","Aramus guarauna","L627793","Lake Henrietta","2025-10-24 09:24",6,30.4036824,-84.3079448,TRUE,FALSE,FALSE,"S281088358"
+"28","limpki","Limpkin","Aramus guarauna","L3799866","Imperial Marsh","2025-10-24 09:05",4,26.451249,-81.624049,TRUE,FALSE,FALSE,"S281092028"
+"29","limpki","Limpkin","Aramus guarauna","L4073215","Lake Apopka North Shore--McDonald Canal Rd.--Duda (Lake County)","2025-10-24 08:30",1,28.7046871,-81.6656021,TRUE,FALSE,FALSE,"S281081421"
+"30","limpki","Limpkin","Aramus guarauna","L38458589","Lettuce Lake Conservation Park, Tampa US-FL 28.07396, -82.37573","2025-10-24 08:04",3,28.073963,-82.375731,TRUE,FALSE,TRUE,"S281091934"
+"31","limpki","Limpkin","Aramus guarauna","L46636531","A-2 Reservoir","2025-10-24 08:00",1,26.470038,-80.697312,TRUE,FALSE,TRUE,"S281152716"
+"32","limpki","Limpkin","Aramus guarauna","L127407","Audubon Corkscrew Swamp Sanctuary","2025-10-24 08:00",1,26.375442,-81.6040206,TRUE,FALSE,FALSE,"S281127962"
+"33","limpki","Limpkin","Aramus guarauna","L830108","Harns Marsh","2025-10-24 07:57",5,26.6496729,-81.6869336,TRUE,FALSE,FALSE,"S281072153"
+"34","limpki","Limpkin","Aramus guarauna","L10637588","Flint Trail Stand--Orange Trailhead","2025-10-24 07:57",2,26.3325234,-81.6809881,TRUE,FALSE,FALSE,"S281084196"
+"35","limpki","Limpkin","Aramus guarauna","L191421","Central Winds Park","2025-10-24 07:55",2,28.709661,-81.271866,TRUE,FALSE,FALSE,"S281090256"
+"36","limpki","Limpkin","Aramus guarauna","L18253808","Belmont Place (my yard)","2025-10-24 07:53",2,29.614363,-90.771262,TRUE,FALSE,TRUE,"S281073771"
+"37","limpki","Limpkin","Aramus guarauna","L349672","Rhoden Cove Road Landing","2025-10-24 07:49",1,30.5136017,-84.2949014,TRUE,FALSE,FALSE,"S281076168"
+"38","limpki","Limpkin","Aramus guarauna","L444857","Lower Pascagoula WMA--Big slough","2025-10-24 07:37",6,30.6187093,-88.6212158,TRUE,TRUE,FALSE,"S281102466"
+"39","limpki","Limpkin","Aramus guarauna","L1524900","Buffalo Bayou--E. of Cinco Ranch Blvd & W. of TX99","2025-10-24 07:36",1,29.7314308,-95.782625,TRUE,FALSE,FALSE,"S281072120"
+"40","limpki","Limpkin","Aramus guarauna","L15709269","Pinellas Trail - north of Trinity Blvd.","2025-10-24 07:36",1,28.1846456,-82.6538678,TRUE,FALSE,TRUE,"S281082665"
+"41","limpki","Limpkin","Aramus guarauna","L585567","West Regional WTF Wetlands","2025-10-24 07:27",1,27.6131434,-80.5052376,TRUE,FALSE,FALSE,"S281082018"
+"42","limpki","Limpkin","Aramus guarauna","L782931","Lake Trafford--Annie Olesky Park","2025-10-24 07:24",1,26.4330727,-81.485939,TRUE,FALSE,FALSE,"S281155860"
+"43","limpki","Limpkin","Aramus guarauna","L3771249","Lake Gwyn Park","2025-10-24 07:22",1,27.954033,-81.7189479,TRUE,FALSE,FALSE,"S281087890"
+"44","limpki","Limpkin","Aramus guarauna","L224113","Cullinan Park, Sugar Land (UTC 095)","2025-10-24 07:18",12,29.6355459,-95.6603193,TRUE,FALSE,FALSE,"S281118513"
+"45","limpki","Limpkin","Aramus guarauna","L8534664","Exploration Green--Phase 3 (N. of El Dorado)","2025-10-24 07:10",1,29.5737916,-95.1311798,TRUE,FALSE,FALSE,"S281062742"
+"46","limpki","Limpkin","Aramus guarauna","L3860725","Disney's Wilderness Lodge","2025-10-24 00:12",1,28.4103887,-81.5716088,TRUE,FALSE,FALSE,"S281155139"
+"47","limpki","Limpkin","Aramus guarauna","L54386050","Lafayette Heritage Trail Park","2025-10-23 23:33",1,30.4398265,-84.1918933,TRUE,FALSE,TRUE,"S281020809"
+"48","limpki","Limpkin","Aramus guarauna","L9117522","The Meadows","2025-10-23 19:16",1,27.3610725,-82.4692489,TRUE,FALSE,FALSE,"S281004394"
+"49","limpki","Limpkin","Aramus guarauna","L2417165","Twin Oaks Conservation Area","2025-10-23 18:44",1,28.2458245,-81.350466,TRUE,FALSE,FALSE,"S281004739"
+"50","limpki","Limpkin","Aramus guarauna","L54381708","2630 Spurlock Way, Wildwood US-FL 28.80692, -82.01948","2025-10-23 18:16",2,28.806919,-82.019477,TRUE,FALSE,TRUE,"S281000311"
+"51","limpki","Limpkin","Aramus guarauna","L7690785","Middleton Fish Camp","2025-10-23 18:15",1,27.727347,-80.777591,TRUE,FALSE,FALSE,"S281004063"
+"52","limpki","Limpkin","Aramus guarauna","L3686576","Osprey Park--trail","2025-10-23 17:34",3,28.3504488,-81.4422619,TRUE,FALSE,FALSE,"S281023842"
+"53","limpki","Limpkin","Aramus guarauna","L54385975","7106 Pine Valley Street, Bradenton, Florida, US (27.415, -82.434)","2025-10-23 17:32",1,27.4146473,-82.433985,TRUE,FALSE,TRUE,"S281020587"
+"54","limpki","Limpkin","Aramus guarauna","L4857486","Weems Rd. pond","2025-10-23 17:22",1,30.4561601,-84.2225616,TRUE,FALSE,FALSE,"S280990636"
+"55","limpki","Limpkin","Aramus guarauna","L18227735","The Grove - private, gated community","2025-10-23 17:07",2,26.53206,-80.17181,TRUE,FALSE,TRUE,"S281011333"
+"56","limpki","Limpkin","Aramus guarauna","L675849","Lutz Home","2025-10-23 16:49",1,28.1749093,-82.4546671,TRUE,FALSE,TRUE,"S281014894"
+"57","limpki","Limpkin","Aramus guarauna","L1847405","C.S. Lee Park","2025-10-23 16:44",1,28.7146631,-81.036225,TRUE,FALSE,FALSE,"S280994131"
+"58","limpki","Limpkin","Aramus guarauna","L54350711","1000 Tpc Blvd, Ponte Vedra Beach US-FL 30.20178, -81.38449","2025-10-23 16:39",1,30.201776,-81.384486,TRUE,FALSE,TRUE,"S280988491"
+"59","limpki","Limpkin","Aramus guarauna","L623357","Paynes Prairie Preserve SP--La Chua Trail","2025-10-23 16:23",1,29.6068756,-82.3031116,TRUE,FALSE,FALSE,"S280988753"
+"60","limpki","Limpkin","Aramus guarauna","L1009347","Roosevelt Wetland","2025-10-23 15:46",1,27.8708722,-82.6895428,TRUE,FALSE,FALSE,"S280991580"
+"61","limpki","Limpkin","Aramus guarauna","L2235897","Lake Mirror","2025-10-23 15:15",1,28.044069,-81.9518495,TRUE,FALSE,FALSE,"S280975725"
+"62","limpki","Limpkin","Aramus guarauna","L200830","A. D. Barnes Park","2025-10-23 14:22",1,25.7340827,-80.3108552,TRUE,FALSE,FALSE,"S280976313"
+"63","limpki","Limpkin","Aramus guarauna","L2440827","Disney Springs","2025-10-23 14:06",1,28.371344,-81.51448,TRUE,FALSE,FALSE,"S280967355"
+"64","limpki","Limpkin","Aramus guarauna","L42739604","lake carillon","2025-10-23 13:08",1,27.889573,-82.65728,TRUE,FALSE,TRUE,"S280963899"
+"65","limpki","Limpkin","Aramus guarauna","L125099","Cheyenne Bottoms WA","2025-10-23 12:25",1,38.4634203,-98.6551076,TRUE,TRUE,FALSE,"S280976189"
+"66","limpki","Limpkin","Aramus guarauna","L48373982","Park of Commerce Blvd, Boca Raton US-FL (26.3994,-80.0965)","2025-10-23 12:23",1,26.399434,-80.096477,TRUE,FALSE,TRUE,"S280963700"
+"67","limpki","Limpkin","Aramus guarauna","L725966","Myakka River SP -- Boat Ramp Area","2025-10-23 11:52",7,27.2657309,-82.2901297,TRUE,FALSE,FALSE,"S280953439"
+"68","limpki","Limpkin","Aramus guarauna","L54370929","Myakka State Park Road, Sarasota, Florida, US (27.259, -82.288)","2025-10-23 11:45",1,27.2586569,-82.2876317,TRUE,FALSE,TRUE,"S280948190"
+"69","limpki","Limpkin","Aramus guarauna","L50637066","Shenandoah- David Memorial Dr","2025-10-23 11:36",1,30.1916683,-95.4470649,TRUE,FALSE,TRUE,"S280970561"
+"70","limpki","Limpkin","Aramus guarauna","L578456","T.M. Goodwin WMA--Broadmoor Unit","2025-10-23 10:50",3,27.8891565,-80.746336,TRUE,FALSE,FALSE,"S280959078"
+"71","limpki","Limpkin","Aramus guarauna","L17530265","Exxon Sorrento Facility (No Public Access)","2025-10-23 10:45",NA,30.1734761,-90.7881369,TRUE,FALSE,TRUE,"S281070300"
+"72","limpki","Limpkin","Aramus guarauna","L127357","Lake Tohopekaliga--Southport Park","2025-10-23 10:45",2,28.1391726,-81.3619781,TRUE,FALSE,FALSE,"S281006454"
+"73","limpki","Limpkin","Aramus guarauna","L53635414","2552 Glenrise Pl, Wesley Chapel US-FL (28.1941,-82.3741)","2025-10-23 09:47",1,28.194136,-82.374059,TRUE,FALSE,TRUE,"S280926152"
+"74","limpki","Limpkin","Aramus guarauna","L241811","El Franco Lee Park","2025-10-23 09:27",1,29.594929,-95.2589295,TRUE,FALSE,FALSE,"S280944575"
+"75","limpki","Limpkin","Aramus guarauna","L4138659","IslandWalk (access by permission only)","2025-10-23 09:27",2,26.2483903,-81.7121029,TRUE,FALSE,FALSE,"S280949808"
+"76","limpki","Limpkin","Aramus guarauna","L1397299","LeRoy Wright Park","2025-10-23 09:00",1,28.371018,-80.8724556,TRUE,FALSE,FALSE,"S280936206"
+"77","limpki","Limpkin","Aramus guarauna","L54366365","Margate Sports Complex","2025-10-23 08:56",2,26.2510608,-80.1964921,TRUE,FALSE,TRUE,"S280920588"
+"78","limpki","Limpkin","Aramus guarauna","L26547556","6584 Highland Pines Cir, Fort Myers US-FL 26.55849, -81.84441","2025-10-23 08:47",1,26.558488,-81.844415,TRUE,FALSE,TRUE,"S280916408"
+"79","limpki","Limpkin","Aramus guarauna","L40507397","8900–8998 Sheldon Rd, Tampa US-FL 28.03335, -82.58312","2025-10-23 08:46",1,28.033346,-82.583119,TRUE,FALSE,TRUE,"S280933478"
+"80","limpki","Limpkin","Aramus guarauna","L3613531","Lacassine NWR HQ and Visitors Center","2025-10-23 08:45",1,30.006159,-92.7827168,TRUE,FALSE,FALSE,"S280935821"
+"81","limpki","Limpkin","Aramus guarauna","L53510867","Camps Canal, Paynes Prairie Preserve State Park, Gainesville US-FL (29.5763,-82.2537)","2025-10-23 08:31",1,29.576301,-82.253745,TRUE,FALSE,TRUE,"S280965288"
+"82","limpki","Limpkin","Aramus guarauna","L10266251","Island Walk","2025-10-23 08:29",1,27.0373003,-82.3455633,TRUE,FALSE,TRUE,"S280944714"
+"83","limpki","Limpkin","Aramus guarauna","L1903106","Wild Turkey Strand Preserve","2025-10-23 08:10",1,26.5706659,-81.6949029,TRUE,FALSE,FALSE,"S280932854"
+"84","limpki","Limpkin","Aramus guarauna","L1461389","T.M. Goodwin WMA--Original Unit","2025-10-23 08:05",3,27.8452341,-80.7252359,TRUE,FALSE,FALSE,"S280936380"
+"85","limpki","Limpkin","Aramus guarauna","L1142459","Leesburg Waterfront - Venetian Gardens & Marina","2025-10-23 08:02",2,28.8038639,-81.8773778,TRUE,FALSE,FALSE,"S280977284"
+"86","limpki","Limpkin","Aramus guarauna","L9224724","Emeralda Marsh--Public Boat Ramp","2025-10-23 07:52",3,28.9027946,-81.8170195,TRUE,FALSE,FALSE,"S280941045"
+"87","limpki","Limpkin","Aramus guarauna","L43829374","9703 Meadow Field Cir, Tampa US-FL (28.0406,-82.5933)","2025-10-23 07:48",3,28.040564,-82.593307,TRUE,FALSE,TRUE,"S280934411"
+"88","limpki","Limpkin","Aramus guarauna","L4400453","Perico Preserve","2025-10-23 07:36",2,27.4972082,-82.6779646,TRUE,FALSE,FALSE,"S280945556"
+"89","limpki","Limpkin","Aramus guarauna","L28960440","Mayflower Court","2025-10-23 07:30",1,28.6048317,-81.3214445,TRUE,FALSE,TRUE,"S281018875"
+"90","limpki","Limpkin","Aramus guarauna","L7289941","Tammany Trace Reclaimation Area","2025-10-23 07:10",2,30.3937586,-90.0499481,TRUE,FALSE,TRUE,"S280985249"
+"91","limpki","Limpkin","Aramus guarauna","L17069548","Old Myakka Rd Bridge","2025-10-23 07:07",1,27.3015079,-82.2540781,TRUE,FALSE,FALSE,"S280968316"
+"92","limpki","Limpkin","Aramus guarauna","L2214256","Three Lakes WMA--Hwy. 60 unit","2025-10-23 06:21",1,27.8326657,-81.1449337,TRUE,FALSE,FALSE,"S280960861"
+"93","limpki","Limpkin","Aramus guarauna","L29225280","1405 Georgetowne Dr, Sarasota US-FL 27.34566, -82.46522","2025-10-23 01:17",1,27.345662,-82.465221,TRUE,FALSE,TRUE,"S280884103"
+"94","limpki","Limpkin","Aramus guarauna","L54356482","I-10 W at US 61, Sorrento","2025-10-22 18:55",1,30.154117,-90.8091297,TRUE,FALSE,TRUE,"S280873859"
+"95","limpki","Limpkin","Aramus guarauna","L2685255","Pine Glades Natural Area","2025-10-22 18:35",1,26.9416978,-80.257144,TRUE,FALSE,FALSE,"S280865394"
+"96","limpki","Limpkin","Aramus guarauna","L153354","Jay Blanchard Park","2025-10-22 18:01",2,28.580008,-81.23909,TRUE,FALSE,FALSE,"S280864341"
+"97","limpki","Limpkin","Aramus guarauna","L4146455","City Park--Big Lake, New Orleans Museum of Art","2025-10-22 17:31",1,29.9866156,-90.0910796,TRUE,FALSE,FALSE,"S280862175"
+"98","limpki","Limpkin","Aramus guarauna","L17965626","Backyard Stormwater Pond","2025-10-22 17:23",2,27.8083949,-80.4938989,TRUE,FALSE,TRUE,"S280850555"
+"99","limpki","Limpkin","Aramus guarauna","L658907","Long Pond","2025-10-22 16:30",1,30.5329525,-84.2155051,TRUE,FALSE,FALSE,"S280848947"
+"100","limpki","Limpkin","Aramus guarauna","L6435784","Cheyenne Bottoms WA--1A & 4A Dike Rd.","2025-10-22 15:51",1,38.4711313,-98.6324477,TRUE,TRUE,FALSE,"S280875570"
+"101","limpki","Limpkin","Aramus guarauna","L278595","Blue Spring SP","2025-10-22 15:43",1,28.942476,-81.3418172,TRUE,FALSE,FALSE,"S280960346"
+"102","limpki","Limpkin","Aramus guarauna","L14106844","J Turner Butler Blvd, Jacksonville US-FL (30.2511,-81.5350)","2025-10-22 14:39",2,30.251065,-81.535047,TRUE,FALSE,TRUE,"S280831399"
+"103","limpki","Limpkin","Aramus guarauna","L835310","Long Key Natural Area & Nature Center","2025-10-22 14:34",1,26.0756147,-80.3236842,TRUE,FALSE,FALSE,"S280984207"
+"104","limpki","Limpkin","Aramus guarauna","L1368478","Fellsmere Grade Recreation Area (Brevard Co.)","2025-10-22 14:26",1,27.8230303,-80.7078614,TRUE,FALSE,FALSE,"S280836352"
+"105","limpki","Limpkin","Aramus guarauna","L2620730","Sweetwater Wetlands Park","2025-10-22 14:04",2,29.6193055,-82.3285764,TRUE,FALSE,FALSE,"S280835459"
+"106","limpki","Limpkin","Aramus guarauna","L4546388","Cool Springs Retention Pond","2025-10-22 12:37",1,28.1877141,-82.6102781,TRUE,FALSE,FALSE,"S280822603"
+"107","limpki","Limpkin","Aramus guarauna","L15779681","Highland Recreation Complex","2025-10-22 12:18",1,27.9209367,-82.7728308,TRUE,FALSE,FALSE,"S280818895"
+"108","limpki","Limpkin","Aramus guarauna","L46179058","9535 Cavendish Dr, Tampa US-FL (28.0426,-82.5904)","2025-10-22 11:35",1,28.042589,-82.590405,TRUE,FALSE,TRUE,"S280820459"
+"109","limpki","Limpkin","Aramus guarauna","L1017638","Peaceful Waters Sanctuary","2025-10-22 11:30",2,26.631443,-80.2332294,TRUE,FALSE,FALSE,"S280869346"
+"110","limpki","Limpkin","Aramus guarauna","L38196112","Grand Harbor","2025-10-22 10:29",1,27.6834141,-80.3949881,TRUE,FALSE,TRUE,"S280806834"
+"111","limpki","Limpkin","Aramus guarauna","L2057196","Lakeside Park, The Woodlands","2025-10-22 10:21",1,30.2011339,-95.5413902,TRUE,FALSE,FALSE,"S280810972"
+"112","limpki","Limpkin","Aramus guarauna","L44415190","SR-54 E, New Port Richey US-FL 28.20589, -82.66714","2025-10-22 09:56",1,28.205887,-82.667139,TRUE,FALSE,TRUE,"S280810720"
+"113","limpki","Limpkin","Aramus guarauna","L1101205","Loxahatchee NWR--Cypress Swamp Boardwalk","2025-10-22 09:48",1,26.501396,-80.2114432,TRUE,FALSE,FALSE,"S280823037"
+"114","limpki","Limpkin","Aramus guarauna","L2837156","Seminole Park & Happy Tails Dog Park","2025-10-22 09:44",3,26.10223,-80.23419,TRUE,FALSE,FALSE,"S280789554"
+"115","limpki","Limpkin","Aramus guarauna","L54338521","Westchester Country Club, Boynton Beach US-FL (26.4979,-80.1633)","2025-10-22 09:36",1,26.497949,-80.163268,TRUE,FALSE,TRUE,"S280783707"
+"116","limpki","Limpkin","Aramus guarauna","L42060745","Palm Point Park, Gainesville US-FL (29.6368,-82.2383)","2025-10-22 09:24",1,29.636788,-82.238291,TRUE,FALSE,TRUE,"S280836733"
+"117","limpki","Limpkin","Aramus guarauna","L8861700","River Heritage Boulevard, Bradenton, Florida, US (27.494, -82.461)","2025-10-22 09:11",1,27.4940292,-82.4613274,TRUE,FALSE,TRUE,"S280788165"
+"118","limpki","Limpkin","Aramus guarauna","L127331","Boyd Hill Nature Park & Lake Maggiore","2025-10-22 09:08",1,27.7248069,-82.6501069,TRUE,FALSE,FALSE,"S280836210"
+"119","limpki","Limpkin","Aramus guarauna","L376186","""Viera"" Ritch Grissom Memorial Wetlands","2025-10-22 08:55",1,28.228577,-80.7604659,TRUE,FALSE,FALSE,"S280827858"
+"120","limpki","Limpkin","Aramus guarauna","L5488116","Loxahatchee NWR","2025-10-22 08:55",1,26.4993048,-80.2123833,TRUE,FALSE,TRUE,"S280804239"
+"121","limpki","Limpkin","Aramus guarauna","L370903","TNC White Kitchen Preserve","2025-10-22 08:50",1,30.2285026,-89.6773935,TRUE,FALSE,FALSE,"S280840608"
+"122","limpki","Limpkin","Aramus guarauna","L33713828","Back Porch","2025-10-22 08:45",NA,28.246664,-82.362016,TRUE,FALSE,TRUE,"S280781861"
+"123","limpki","Limpkin","Aramus guarauna","L847450","Bay Hill Golf Club","2025-10-22 08:30",4,28.466522,-81.5089202,TRUE,FALSE,TRUE,"S280869602"
+"124","limpki","Limpkin","Aramus guarauna","L3952212","Sweetwater Wetlands Park","2025-10-22 08:21",2,29.6194444,-82.3277778,TRUE,FALSE,TRUE,"S280798578"
+"125","limpki","Limpkin","Aramus guarauna","L349063","Paynes Prairie Preserve SP--Camps Canal","2025-10-22 08:21",1,29.5767856,-82.2557626,TRUE,FALSE,FALSE,"S280775708"
+"126","limpki","Limpkin","Aramus guarauna","L366370","Audubon Park","2025-10-22 08:14",1,29.9253976,-90.128804,TRUE,FALSE,FALSE,"S280818389"
+"127","limpki","Limpkin","Aramus guarauna","L797480","Fred W. Coyle Freedom Park","2025-10-22 08:04",1,26.1745813,-81.7883635,TRUE,FALSE,FALSE,"S280785851"
+"128","limpki","Limpkin","Aramus guarauna","L148362","Lake Lotus Park","2025-10-22 07:48",1,28.6447926,-81.4251633,TRUE,FALSE,FALSE,"S280870574"
+"129","limpki","Limpkin","Aramus guarauna","L1505382","Ocklawaha River","2025-10-22 07:46",3,29.2196264,-81.9853208,TRUE,FALSE,TRUE,"S280804342"
+"130","limpki","Limpkin","Aramus guarauna","L5885113","Ray Wayside Park","2025-10-22 07:39",2,29.2152288,-81.9932091,TRUE,FALSE,FALSE,"S280804357"
+"131","limpki","Limpkin","Aramus guarauna","L6363197","""Palmetto Preserve""","2025-10-22 07:35",1,27.2634357,-80.2877104,TRUE,FALSE,TRUE,"S280835491"
+"132","limpki","Limpkin","Aramus guarauna","L635288","Loxahatchee NWR--Marsh Trail","2025-10-22 07:30",1,26.4928139,-80.2168894,TRUE,FALSE,FALSE,"S280830277"
+"133","limpki","Limpkin","Aramus guarauna","L41325402","Bell St Marsh","2025-10-22 07:30",1,28.2370712,-82.1573561,TRUE,FALSE,FALSE,"S280805137"
+"134","limpki","Limpkin","Aramus guarauna","L53996270","Meadow Woods, FL","2025-10-22 07:28",1,28.3496838,-81.3574829,TRUE,FALSE,TRUE,"S280769055"
+"135","limpki","Limpkin","Aramus guarauna","L129094","Sheldon Lake SP (UTC 033)","2025-10-22 07:26",1,29.857,-95.164,TRUE,FALSE,FALSE,"S280814136"
+"136","limpki","Limpkin","Aramus guarauna","L424819","Six Mile Cypress Slough Preserve","2025-10-22 07:20",1,26.5716209,-81.8258929,TRUE,FALSE,FALSE,"S280795007"
+"137","limpki","Limpkin","Aramus guarauna","L29435098","Brandon Parkway Ponds","2025-10-22 07:18",1,27.9286512,-82.3116613,TRUE,FALSE,FALSE,"S280771720"
+"138","limpki","Limpkin","Aramus guarauna","L10301810","Eagle Lakes Community Park","2025-10-22 07:15",4,26.0758749,-81.7151284,TRUE,FALSE,TRUE,"S280806646"
+"139","limpki","Limpkin","Aramus guarauna","L42185561","Backyard Birds","2025-10-21 19:19",1,28.141571,-82.541933,TRUE,FALSE,TRUE,"S280708939"
+"140","limpki","Limpkin","Aramus guarauna","L131882","Newnans Lake--Earl P. Powers Park","2025-10-21 18:17",1,29.6179943,-82.2511673,TRUE,FALSE,FALSE,"S280707876"
+"141","limpki","Limpkin","Aramus guarauna","L54322183","FBCLJ","2025-10-21 18:09",1,27.3904838,-81.4157527,TRUE,FALSE,TRUE,"S280703307"
+"142","limpki","Limpkin","Aramus guarauna","L109172","Phinizy Swamp Nature Park","2025-10-21 15:16",1,33.3855863,-81.96069,TRUE,TRUE,FALSE,"S280701748"
+"143","limpki","Limpkin","Aramus guarauna","L2368069","Inverness Lakeside Trail","2025-10-21 14:55",1,28.8423806,-82.3330021,TRUE,FALSE,FALSE,"S280681707"
+"144","limpki","Limpkin","Aramus guarauna","L761606","Lacassine NWR--Wildlife Loop only","2025-10-21 14:25",1,30.0011418,-92.8946292,TRUE,FALSE,FALSE,"S280702949"
+"145","limpki","Limpkin","Aramus guarauna","L28597836","Illinois Plant Rd, Lake Arthur US-LA","2025-10-21 14:02",2,30.072273,-92.910977,TRUE,FALSE,TRUE,"S280702340"
+"146","limpki","Limpkin","Aramus guarauna","L3494660","USF--Botanical Garden","2025-10-21 13:42",1,28.0585747,-82.4238968,TRUE,FALSE,FALSE,"S280676995"
+"147","limpki","Limpkin","Aramus guarauna","L26582732","Plantation Preserve","2025-10-21 13:10",1,26.116102,-80.2390713,TRUE,FALSE,TRUE,"S281127512"
+"148","limpki","Limpkin","Aramus guarauna","L30125972","Boyce Tower Rd, Sorrento US-LA 30.14976, -90.80173","2025-10-21 12:54",2,30.149762,-90.801734,TRUE,FALSE,TRUE,"S280680478"
+"149","limpki","Limpkin","Aramus guarauna","L28186365","White Lake, Sugar Land US-TX (29.6384,-95.6602)","2025-10-21 12:00",8,29.63838,-95.66015,TRUE,FALSE,TRUE,"S280717364"
+"150","limpki","Limpkin","Aramus guarauna","L27873094","Hummingbird pool, 3735 Reader Path, Wildwood US-FL 28.79182, -82.05087","2025-10-21 11:12",3,28.791817,-82.050868,TRUE,FALSE,TRUE,"S280661466"
+"151","limpki","Limpkin","Aramus guarauna","L1441984","DuPuis WEA/Management Area (Palm Beach Co.)","2025-10-21 10:30",1,26.9432644,-80.5527068,TRUE,FALSE,FALSE,"S280696130"
+"152","limpki","Limpkin","Aramus guarauna","L861999","Municipal Park (Langan Park)","2025-10-21 10:22",1,30.7053866,-88.1606483,TRUE,FALSE,FALSE,"S280699400"
+"153","limpki","Limpkin","Aramus guarauna","L1948508","Lake Sheri","2025-10-21 10:20",1,30.8489818,-83.3291101,TRUE,TRUE,TRUE,"S280705108"
+"154","limpki","Limpkin","Aramus guarauna","L40855898","Bike ride through my neighborhood","2025-10-21 10:12",1,30.178484,-82.6445112,TRUE,FALSE,TRUE,"S280855129"
+"155","limpki","Limpkin","Aramus guarauna","L12484671","Cora C. Harrison Preserve","2025-10-21 10:12",1,29.7143798,-81.5154111,TRUE,FALSE,FALSE,"S280673275"
+"156","limpki","Limpkin","Aramus guarauna","L36787796","3681–3813 Joe Overstreet Rd, Kenansville US-FL 27.98940, -81.17873","2025-10-21 10:02",2,27.989401,-81.178732,TRUE,FALSE,TRUE,"S280661569"
+"157","limpki","Limpkin","Aramus guarauna","L13345592","Oakland Park","2025-10-21 09:55",1,28.5607337,-81.6157948,TRUE,FALSE,FALSE,"S280645132"
+"158","limpki","Limpkin","Aramus guarauna","L5685332","Carrollwood Village Park","2025-10-21 08:59",2,28.0719212,-82.5256158,TRUE,FALSE,FALSE,"S280648815"
+"159","limpki","Limpkin","Aramus guarauna","L4403240","Panther Point Trail","2025-10-21 08:43",1,27.9836013,-81.8215657,TRUE,FALSE,FALSE,"S280686757"
+"160","limpki","Limpkin","Aramus guarauna","L54318351","Emeralda Marsh","2025-10-21 08:30",2,28.9028293,-81.8034911,TRUE,FALSE,TRUE,"S280685599"
+"161","limpki","Limpkin","Aramus guarauna","L2346012","Lake Destiny (Orange)","2025-10-21 08:26",1,28.6397225,-81.3928798,TRUE,FALSE,TRUE,"S280622898"
+"162","limpki","Limpkin","Aramus guarauna","L2211535","home plantation","2025-10-21 08:14",2,28.7180334,-81.8733499,TRUE,FALSE,TRUE,"S280630057"
+"163","limpki","Limpkin","Aramus guarauna","L21268381","945 Chatsworth Dr, Melbourne US-FL 28.21078, -80.70241","2025-10-21 07:47",1,28.210782,-80.702407,TRUE,FALSE,TRUE,"S280627170"
+"164","limpki","Limpkin","Aramus guarauna","L54303788","Nubbins Slough","2025-10-21 07:40",4,27.20098,-80.738812,TRUE,FALSE,TRUE,"S280626744"
+"165","limpki","Limpkin","Aramus guarauna","L1053298","Nubbin Slough","2025-10-21 07:33",13,27.2006043,-80.7388794,TRUE,FALSE,FALSE,"S280645870"
+"166","limpki","Limpkin","Aramus guarauna","L54324937","11835 Seminole Pratt Whitney Rd, West Palm Beach US-FL 26.85130, -80.29592","2025-10-21 07:15",3,26.851296,-80.295917,TRUE,FALSE,TRUE,"S280716703"
+"167","limpki","Limpkin","Aramus guarauna","L20536131","Oil Well Rd—Flooded Tomato Field","2025-10-21 07:14",1,26.294181,-81.486965,TRUE,FALSE,FALSE,"S280637096"
+"168","limpki","Limpkin","Aramus guarauna","L4408972","""#1"" Yard 7540 S. Grovewood Loop","2025-10-21 07:13",1,28.7547539,-82.2761091,TRUE,FALSE,TRUE,"S280763839"
+"169","limpki","Limpkin","Aramus guarauna","L24131141","Hollywood Rd wetlands","2025-10-21 06:56",7,29.5850426,-90.7642153,TRUE,FALSE,FALSE,"S280646305"
+"170","limpki","Limpkin","Aramus guarauna","L890054","Three Lakes WMA--main unit","2025-10-21 06:17",1,27.9648401,-81.0294056,TRUE,FALSE,FALSE,"S280695633"
+"171","limpki","Limpkin","Aramus guarauna","L54293956","14251–14303 US-90 E, Paradis US-LA (29.8876,-90.4185)","2025-10-20 17:40",2,29.887648,-90.418463,TRUE,FALSE,TRUE,"S280566179"
+"172","limpki","Limpkin","Aramus guarauna","L50238421","Silver lakes","2025-10-20 16:58",1,25.976551,-80.381787,TRUE,FALSE,TRUE,"S280543472"
+"173","limpki","Limpkin","Aramus guarauna","L54286734","Hontoon Island State Park, Deland US-FL 28.97590, -81.35715","2025-10-20 13:50",2,28.975897,-81.357154,TRUE,FALSE,TRUE,"S280530860"
+"174","limpki","Limpkin","Aramus guarauna","L127339","John B. Sargeant, Sr. Memorial Park","2025-10-20 12:58",1,28.0801979,-82.2852051,TRUE,FALSE,FALSE,"S280520978"
+"175","limpki","Limpkin","Aramus guarauna","L1314027","Lake Morton","2025-10-20 11:43",3,28.0375919,-81.9539738,TRUE,FALSE,FALSE,"S280512965"
+"176","limpki","Limpkin","Aramus guarauna","L1900441","Pine Meadows Conservation Area (Small Game Hunt Area)","2025-10-20 10:51",1,28.88406,-81.66308,TRUE,FALSE,FALSE,"S280495254"
+"177","limpki","Limpkin","Aramus guarauna","L16596990","2253 Peachleaf Ct, Longwood US-FL 28.73190, -81.39498","2025-10-20 10:35",1,28.731899,-81.39498,TRUE,FALSE,TRUE,"S280501822"
+"178","limpki","Limpkin","Aramus guarauna","L8336075","IRC Stormwater Egret Marsh (Permission Required)","2025-10-20 09:51",1,27.6084606,-80.4772731,TRUE,FALSE,FALSE,"S280486643"
+"179","limpki","Limpkin","Aramus guarauna","L1268893","Howze Beach","2025-10-20 09:40",1,30.2187228,-89.7795675,TRUE,FALSE,FALSE,"S280495787"
+"180","limpki","Limpkin","Aramus guarauna","L54275663","6300 Lake Shore Drive, Gainesville, Florida, US (29.632, -82.251)","2025-10-20 09:22",1,29.6319924,-82.2508232,TRUE,FALSE,TRUE,"S280476426"
+"181","limpki","Limpkin","Aramus guarauna","L10907975","John Paul Landing Park--Environmental Education Center","2025-10-20 09:20",1,29.9121081,-95.7905095,TRUE,FALSE,FALSE,"S280506732"
+"182","limpki","Limpkin","Aramus guarauna","L234146","The Celery Fields","2025-10-20 09:20",2,27.3253186,-82.4336821,TRUE,FALSE,FALSE,"S280527717"
+"183","limpki","Limpkin","Aramus guarauna","L1168360","Teague Hammock","2025-10-20 08:39",2,27.3125657,-80.5423164,TRUE,FALSE,FALSE,"S280520798"
+"184","limpki","Limpkin","Aramus guarauna","L2975878","Royal Palm Park","2025-10-20 08:39",6,26.1742346,-80.1643288,TRUE,FALSE,FALSE,"S280481014"
+"185","limpki","Limpkin","Aramus guarauna","L27007549","Loxahatchee Slough; South of PGA Blvd. (786); west side of canal south to Beeline Hwy. (710)","2025-10-20 08:17",2,26.8363004,-80.1665378,TRUE,FALSE,TRUE,"S280506820"
+"186","limpki","Limpkin","Aramus guarauna","L54277485","25855 Black Lake Club Road, Maurepas, Louisiana, US (30.26, -90.652)","2025-10-20 08:15",1,30.2597751,-90.6518968,TRUE,TRUE,TRUE,"S280486882"
+"187","limpki","Limpkin","Aramus guarauna","L3860749","Disney's Contemporary Resort -- Boat Dock","2025-10-20 07:48",1,28.4150692,-81.5736634,TRUE,FALSE,FALSE,"S280473041"
+"188","limpki","Limpkin","Aramus guarauna","L840435","Kendale Lakes Park","2025-10-20 07:44",1,25.6925076,-80.426445,TRUE,FALSE,FALSE,"S280494402"
+"189","limpki","Limpkin","Aramus guarauna","L727205","Bonnet Carre Spillway (general area)","2025-10-20 07:32",1,30.0006618,-90.4287478,TRUE,FALSE,FALSE,"S280520733"
+"190","limpki","Limpkin","Aramus guarauna","L727253","Fairview-Riverside SP","2025-10-20 07:29",1,30.4091352,-90.1403922,TRUE,FALSE,FALSE,"S280509522"
+"191","limpki","Limpkin","Aramus guarauna","L8844771","Interlaken Ln and West Crooked Lake, Eustis US-FL (28.8320,-81.6698)","2025-10-20 07:14",1,28.832049,-81.669791,TRUE,FALSE,TRUE,"S280461400"
+"192","limpki","Limpkin","Aramus guarauna","L1085299","Three Lakes WMA--Prairie Lakes Unit","2025-10-20 06:53",1,27.9123525,-81.1302567,TRUE,FALSE,FALSE,"S280538709"
+"193","limpki","Limpkin","Aramus guarauna","L35034448","Cullinan Park Observation Deck","2025-10-19 17:53",10,29.6367442,-95.6604964,TRUE,FALSE,TRUE,"S280501614"
+"194","limpki","Limpkin","Aramus guarauna","L8534693","Exploration Green--Phase 1 (S. of Reseda)","2025-10-19 17:34",3,29.5630787,-95.1203504,TRUE,FALSE,FALSE,"S280411891"
+"195","limpki","Limpkin","Aramus guarauna","L137795","Lafayette Heritage Trail Park","2025-10-19 16:11",1,30.4417858,-84.1915207,TRUE,FALSE,FALSE,"S280418810"
+"196","limpki","Limpkin","Aramus guarauna","L54255054","Linear Park, Davie US-FL (26.0650,-80.2655)","2025-10-19 15:54",4,26.06495,-80.265479,TRUE,FALSE,TRUE,"S280380734"
+"197","limpki","Limpkin","Aramus guarauna","L676978","Crescent Lake Park","2025-10-19 15:38",1,27.7881373,-82.6414776,TRUE,FALSE,FALSE,"S280507600"
+"198","limpki","Limpkin","Aramus guarauna","L11721206","Fontainebleau SP--Nature Trail and Alligator Marsh","2025-10-19 14:29",1,30.334396,-90.0392202,TRUE,FALSE,FALSE,"S280405402"
+"199","limpki","Limpkin","Aramus guarauna","L54251963","Emeralda Marsh Conservation Area Trail, Leesburg US-FL 28.90282, -81.80150","2025-10-19 14:21",1,28.902818,-81.801501,TRUE,FALSE,TRUE,"S280367641"
+"200","limpki","Limpkin","Aramus guarauna","L2509177","Westside Industrial Park","2025-10-19 14:20",1,30.374023,-81.7898762,TRUE,FALSE,FALSE,"S280399195"
+"201","limpki","Limpkin","Aramus guarauna","L855297","Tosohatchee WMA","2025-10-19 11:00",1,28.495247,-80.9501839,TRUE,FALSE,FALSE,"S280406809"
+"202","limpki","Limpkin","Aramus guarauna","L10139092","Winding Cypress","2025-10-19 10:08",1,26.0713023,-81.6770386,TRUE,FALSE,FALSE,"S280330348"
+"203","limpki","Limpkin","Aramus guarauna","L37950634","Bonita Bay--Horseshoe wetlands (restricted access)","2025-10-19 09:58",1,26.348591,-81.820269,TRUE,FALSE,TRUE,"S280314450"
+"204","limpki","Limpkin","Aramus guarauna","L30128239","10144 Meadowrun Dr","2025-10-19 09:27",1,27.857405,-82.177285,TRUE,FALSE,TRUE,"S280391671"
+"205","limpki","Limpkin","Aramus guarauna","L54239454","Unnamed Road, Gainesville, Florida, US (29.615, -82.322)","2025-10-19 09:22",1,29.6146365,-82.3217157,TRUE,FALSE,TRUE,"S280311602"
+"206","limpki","Limpkin","Aramus guarauna","L19881817","Home","2025-10-19 09:10",1,28.2407656,-82.3268959,TRUE,FALSE,TRUE,"S280324135"
+"207","limpki","Limpkin","Aramus guarauna","L38223316","Lettuce Lake Conservation Park, Tampa US-FL 28.07161, -82.37582","2025-10-19 09:10",2,28.071612,-82.375818,TRUE,FALSE,TRUE,"S280506399"
+"208","limpki","Limpkin","Aramus guarauna","L53889514","Lettuce Lake Conservation Park, Tampa US-FL 28.07383, -82.37556","2025-10-19 09:07",1,28.073825,-82.375561,TRUE,FALSE,TRUE,"S280311143"
+"209","limpki","Limpkin","Aramus guarauna","L9133624","Hogeye Recreational Path","2025-10-19 09:06",3,28.8032791,-82.0169592,TRUE,FALSE,FALSE,"S280302875"
+"210","limpki","Limpkin","Aramus guarauna","L1778468","Miccosukee Greenway","2025-10-19 08:59",3,30.4858704,-84.2007637,TRUE,FALSE,FALSE,"S280305412"
+"211","limpki","Limpkin","Aramus guarauna","L4172903","Howard Park","2025-10-19 08:50",1,26.7026069,-80.0610869,TRUE,FALSE,FALSE,"S280312456"
+"212","limpki","Limpkin","Aramus guarauna","L21321015","Bonnet Springs Park","2025-10-19 08:40",1,28.049187,-81.969815,TRUE,FALSE,FALSE,"S280289102"
+"213","limpki","Limpkin","Aramus guarauna","L8073530","10821 Southwest 48th Terrace, Miami, Florida, US (25.723, -80.371)","2025-10-19 08:35",1,25.7224304,-80.3705401,TRUE,FALSE,TRUE,"S280286894"
+"214","limpki","Limpkin","Aramus guarauna","L127408","Loxahatchee NWR","2025-10-19 08:30",1,26.4986442,-80.2246141,TRUE,FALSE,FALSE,"S280380232"
+"215","limpki","Limpkin","Aramus guarauna","L16540724","Buenaventura Lakes, Kissimmee, Florida, US (28.325, -81.344)","2025-10-19 08:29",1,28.3250348,-81.3442499,TRUE,FALSE,TRUE,"S280302163"
+"216","limpki","Limpkin","Aramus guarauna","L19674980","Neighborhood","2025-10-19 08:28",1,26.656695,-80.100272,TRUE,FALSE,TRUE,"S280290536"
+"217","limpki","Limpkin","Aramus guarauna","L614607","Plantation Preserve","2025-10-19 08:28",1,26.1156777,-80.2391624,TRUE,FALSE,FALSE,"S280365809"
+"218","limpki","Limpkin","Aramus guarauna","L1306908","Tall Cypress Natural Area","2025-10-19 08:21",3,26.2768695,-80.214057,TRUE,FALSE,FALSE,"S280621830"
+"219","limpki","Limpkin","Aramus guarauna","L12839160","Mandalay NWR Nature Trail","2025-10-19 08:13",1,29.5504766,-90.7904899,TRUE,FALSE,FALSE,"S280325553"
+"220","limpki","Limpkin","Aramus guarauna","L12173976","Lochloosa Park","2025-10-19 08:10",2,29.5059593,-82.1016216,TRUE,FALSE,FALSE,"S280282287"
+"221","limpki","Limpkin","Aramus guarauna","L54233060","10203 Blanchard Park Trail, Union Park, Florida, US (28.578, -81.24)","2025-10-19 08:00",1,28.578379,-81.2404216,TRUE,FALSE,TRUE,"S280277468"
+"222","limpki","Limpkin","Aramus guarauna","L8649719","Brownie Wise Park","2025-10-19 07:48",1,28.2762918,-81.3876181,TRUE,FALSE,FALSE,"S280327289"
+"223","limpki","Limpkin","Aramus guarauna","L2597318","Eastpointe","2025-10-19 07:45",1,26.8375507,-80.1425171,TRUE,FALSE,TRUE,"S280303118"
+"224","limpki","Limpkin","Aramus guarauna","L44507160",".","2025-10-19 07:42",1,27.2252254,-80.2408295,TRUE,FALSE,TRUE,"S280272066"
+"225","limpki","Limpkin","Aramus guarauna","L444009","Audubon La Nature Center + vicinity","2025-10-19 07:30",24,30.030461,-89.9630499,TRUE,TRUE,TRUE,"S280415923"
+"226","limpki","Limpkin","Aramus guarauna","L127365","Saddle Creek Park","2025-10-19 07:28",5,28.0620436,-81.8838501,TRUE,FALSE,FALSE,"S280328978"
+"227","limpki","Limpkin","Aramus guarauna","L725066","Hontoon Island SP","2025-10-19 07:16",4,28.9689499,-81.3544464,TRUE,FALSE,FALSE,"S280388008"
+"228","limpki","Limpkin","Aramus guarauna","L276578","Maitland Center","2025-10-19 07:10",1,28.6335583,-81.3944104,TRUE,FALSE,FALSE,"S280265960"
+"229","limpki","Limpkin","Aramus guarauna","L12713352","Bayou Country Sport Park","2025-10-19 07:02",1,29.601385,-90.7838057,TRUE,FALSE,FALSE,"S280309189"
+"230","limpki","Limpkin","Aramus guarauna","L41356114","Riley, Infinity Run, The Villages US-FL 28.84374, -82.00491","2025-10-19 06:58",1,28.843743,-82.004915,TRUE,FALSE,TRUE,"S280264856"
+"231","limpki","Limpkin","Aramus guarauna","L6366407","Bayou Sauvage Urban NWR--Ridge Trail","2025-10-19 06:28",2,30.0525807,-89.8798422,TRUE,FALSE,FALSE,"S280423641"
+"232","limpki","Limpkin","Aramus guarauna","L7903191","Orange Lake Resort--West Village","2025-10-18 18:05",1,28.352715,-81.6245367,TRUE,FALSE,FALSE,"S280200571"
+"233","limpki","Limpkin","Aramus guarauna","L54319104","Celery Fields Regional Stormwater Facility, Sarasota US-FL (27.3184,-82.4372)","2025-10-18 17:46",1,27.31839,-82.437233,TRUE,FALSE,TRUE,"S280688256"
+"234","limpki","Limpkin","Aramus guarauna","L39031777","Calusa Trace Park","2025-10-18 17:08",5,28.1370791,-82.5072346,TRUE,FALSE,FALSE,"S280188979"
+"235","limpki","Limpkin","Aramus guarauna","L54208909","US-17 S, Sanford US-FL (28.8159,-81.2758)","2025-10-18 16:37",1,28.815906,-81.275768,TRUE,FALSE,TRUE,"S280172812"
+"236","limpki","Limpkin","Aramus guarauna","L7778797","Rotenberger WMA","2025-10-18 16:09",1,26.3333217,-80.7765806,TRUE,FALSE,FALSE,"S280196418"
+"237","limpki","Limpkin","Aramus guarauna","L28853587","Rienzi Subdivision","2025-10-18 16:00",5,29.812335,-90.805308,TRUE,FALSE,TRUE,"S280564730"
+"238","limpki","Limpkin","Aramus guarauna","L18708513","6151 Lake Osprey Drive, Sarasota, Florida, US (27.384, -82.446)","2025-10-18 15:39",1,27.3841884,-82.4455198,TRUE,FALSE,TRUE,"S280166100"
+"239","limpki","Limpkin","Aramus guarauna","L2792995","Winston Trails (Restricted Access)","2025-10-18 15:32",4,26.5788792,-80.132197,TRUE,FALSE,FALSE,"S280169887"
+"240","limpki","Limpkin","Aramus guarauna","L27794927","McDonalds Retention Pond","2025-10-18 15:04",1,26.528642,-80.121706,TRUE,FALSE,FALSE,"S280155295"
+"241","limpki","Limpkin","Aramus guarauna","L2775776","Wellesley Lake","2025-10-18 14:20",1,26.5660361,-80.0933361,TRUE,FALSE,TRUE,"S280207357"
+"242","limpki","Limpkin","Aramus guarauna","L17546802","Dove Lake","2025-10-18 14:08",3,30.485829,-84.203665,TRUE,FALSE,TRUE,"S280168008"
+"243","limpki","Limpkin","Aramus guarauna","L8823973","Palm Bach Polo","2025-10-18 12:07",10,26.6419776,-80.2458243,TRUE,FALSE,TRUE,"S280166577"
+"244","limpki","Limpkin","Aramus guarauna","L1406824","Dell Holmes Park","2025-10-18 11:59",1,27.7424626,-82.6626306,TRUE,FALSE,FALSE,"S280126140"
+"245","limpki","Limpkin","Aramus guarauna","L54212693","Lake Pithlachocco east shore","2025-10-18 11:55",2,29.654355,-82.198131,TRUE,FALSE,TRUE,"S280189498"
+"246","limpki","Limpkin","Aramus guarauna","L685923","Loxahatchee NWR--Visitor Center","2025-10-18 11:38",1,26.4991985,-80.2124357,TRUE,FALSE,FALSE,"S280135718"
+"247","limpki","Limpkin","Aramus guarauna","L54268146","Busch Gardens Tampa Bay, Tampa US-FL 28.03528, -82.42142","2025-10-18 11:19",1,28.035281,-82.421423,TRUE,FALSE,TRUE,"S280440661"
+"248","limpki","Limpkin","Aramus guarauna","L10950103","Deer Run, Gainesville, Fl","2025-10-18 10:40",1,29.7083212,-82.3981723,TRUE,FALSE,TRUE,"S280128312"
+"249","limpki","Limpkin","Aramus guarauna","L3998307","Florida Atlantic University","2025-10-18 10:16",1,26.3675715,-80.1005888,TRUE,FALSE,FALSE,"S280220967"
+"250","limpki","Limpkin","Aramus guarauna","L12991689","Countryside Community Park","2025-10-18 09:54",1,28.0239431,-82.7274424,TRUE,FALSE,FALSE,"S280078152"
+"251","limpki","Limpkin","Aramus guarauna","L10902957","Oak Harbor","2025-10-18 09:53",1,27.6788275,-80.3980395,TRUE,FALSE,TRUE,"S280124631"
+"252","limpki","Limpkin","Aramus guarauna","L1060408","Lake Ida Park","2025-10-18 09:36",3,26.4799846,-80.0847101,TRUE,FALSE,FALSE,"S280096862"
+"253","limpki","Limpkin","Aramus guarauna","L1572007","Black Bear Wilderness Area","2025-10-18 09:34",4,28.8392356,-81.3581706,TRUE,FALSE,FALSE,"S280132646"
+"254","limpki","Limpkin","Aramus guarauna","L5175094","Exploration Green--Phase 5 (N. of Neptune Lane)","2025-10-18 09:00",4,29.5717098,-95.11573,TRUE,FALSE,FALSE,"S280079002"
+"255","limpki","Limpkin","Aramus guarauna","L6465176","A-1 Flow Equalization Basin (A-1 FEB) [Open Friday - Sunday]","2025-10-18 09:00",1,26.3984897,-80.5940734,TRUE,FALSE,FALSE,"S280174259"
+"256","limpki","Limpkin","Aramus guarauna","L10953467","Cross Bar Ranch (private)","2025-10-18 08:51",1,28.3629029,-82.4553698,TRUE,FALSE,FALSE,"S280091011"
+"257","limpki","Limpkin","Aramus guarauna","L298649","Lake Apopka Wildlife Drive","2025-10-18 08:47",1,28.6691945,-81.5598149,TRUE,FALSE,FALSE,"S280401260"
+"258","limpki","Limpkin","Aramus guarauna","L13149075","Oil Well Rd, Immokalee US-FL 26.30514, -81.29225","2025-10-18 08:41",1,26.30514,-81.292254,TRUE,FALSE,TRUE,"S280116505"
+"259","limpki","Limpkin","Aramus guarauna","L16665115","19575 Liberty Rd, Boca Raton US-FL 26.38507, -80.20205","2025-10-18 08:38",2,26.385073,-80.202052,TRUE,FALSE,TRUE,"S280051285"
+"260","limpki","Limpkin","Aramus guarauna","L54184783","Lake Conroe, Huntsville US-TX 30.55560, -95.63302","2025-10-18 08:33",1,30.555596,-95.633025,TRUE,TRUE,TRUE,"S280067093"
+"261","limpki","Limpkin","Aramus guarauna","L8534682","Exploration Green--Phase 4 (S. of Neptune Lane)","2025-10-18 08:29",8,29.5682255,-95.1182181,TRUE,FALSE,FALSE,"S280074579"
+"262","limpki","Limpkin","Aramus guarauna","L1912718","Carney Island Recreation and Conservation Area","2025-10-18 08:21",1,29.0142804,-81.9651318,TRUE,FALSE,FALSE,"S280076492"
+"263","limpki","Limpkin","Aramus guarauna","L46446662","Bluebird Park And Babcock Trail North, Punta Gorda, Florida, US","2025-10-18 08:20",1,26.7981994,-81.7262998,TRUE,FALSE,TRUE,"S280092336"
+"264","limpki","Limpkin","Aramus guarauna","L54199384","Sheldon Lake State Park","2025-10-18 08:13",7,29.88265,-95.164905,TRUE,FALSE,TRUE,"S280133858"
+"265","limpki","Limpkin","Aramus guarauna","L727338","Morgan City Walking Trail","2025-10-18 07:58",5,29.69723,-91.17934,TRUE,FALSE,FALSE,"S280071409"
+"266","limpki","Limpkin","Aramus guarauna","L247338","Largo Central Park Nature Preserve","2025-10-18 07:51",1,27.913417,-82.7749035,TRUE,FALSE,FALSE,"S280073343"
+"267","limpki","Limpkin","Aramus guarauna","L5176915","Conservatory Park","2025-10-18 07:40",1,27.3968984,-82.4919122,TRUE,FALSE,FALSE,"S280084663"
+"268","limpki","Limpkin","Aramus guarauna","L54137135","Mission Inn Resort","2025-10-18 07:40",1,28.725113,-81.780264,TRUE,FALSE,TRUE,"S280148869"
+"269","limpki","Limpkin","Aramus guarauna","L40827594","Kay’s Paradise","2025-10-18 07:26",1,27.928676,-82.726508,TRUE,FALSE,TRUE,"S280055475"
+"270","limpki","Limpkin","Aramus guarauna","L13961701","Bay Lake, Tampa US-FL 28.07113, -82.49905","2025-10-18 07:26",1,28.071134,-82.499054,TRUE,FALSE,TRUE,"S280120975"
+"271","limpki","Limpkin","Aramus guarauna","L1061691","Corkscrew Regional Ecosystem Watershed--Bird Rookery Swamp Trails","2025-10-18 07:22",1,26.3140166,-81.6349089,TRUE,FALSE,FALSE,"S280099236"
+"272","limpki","Limpkin","Aramus guarauna","L10299022","Lake Howell","2025-10-18 07:19",2,28.6398772,-81.3094394,TRUE,FALSE,FALSE,"S280205153"
+"273","limpki","Limpkin","Aramus guarauna","L148596","SLHNWR (private)","2025-10-18 07:17",1,28.6438255,-81.3941453,TRUE,FALSE,TRUE,"S280120923"
+"274","limpki","Limpkin","Aramus guarauna","L42501754","River Lakes Conservation Area Trail, Melbourne US-FL 28.22946, -80.81093","2025-10-18 07:06",1,28.229464,-80.810932,TRUE,FALSE,TRUE,"S280101997"
+"275","limpki","Limpkin","Aramus guarauna","L3354466","Emeralda Marsh CA--Wildlife Drive Exit Parking Lot","2025-10-18 07:03",NA,28.90279,-81.79877,TRUE,FALSE,FALSE,"S280048556"
+"276","limpki","Limpkin","Aramus guarauna","L2434652","Flooded Field Bird Sanctuary on Oil Well Rd","2025-10-18 07:00",1,26.2941399,-81.4859544,TRUE,FALSE,TRUE,"S280116380"
+"277","limpki","Limpkin","Aramus guarauna","L345435","Powell Creek Preserve","2025-10-18 07:00",2,26.6922002,-81.8675241,TRUE,FALSE,FALSE,"S280789317"
+"278","limpki","Limpkin","Aramus guarauna","L16872171","Powell Creek Preserve","2025-10-18 07:00",2,26.692268,-81.867415,TRUE,FALSE,TRUE,"S280788446"
+"279","limpki","Limpkin","Aramus guarauna","L37425582","Parents' Backyard","2025-10-17 17:09",1,26.5358492,-80.1546692,TRUE,FALSE,TRUE,"S279956958"
+"280","limpki","Limpkin","Aramus guarauna","L390915","Willow Waterhole Greenspace","2025-10-17 16:59",1,29.6502043,-95.4725647,TRUE,FALSE,FALSE,"S279963056"
+"281","limpki","Limpkin","Aramus guarauna","L693113","Audubon-Pennington Nature Park","2025-10-17 16:26",1,27.0103494,-82.085638,TRUE,FALSE,FALSE,"S279958131"
+"282","limpki","Limpkin","Aramus guarauna","L726117","Secret Lake Park","2025-10-17 16:06",2,28.6743231,-81.3268733,TRUE,FALSE,FALSE,"S280034361"
+"283","limpki","Limpkin","Aramus guarauna","L127320","John Chesnut Sr. Park","2025-10-17 16:05",1,28.0922,-82.7067,TRUE,FALSE,FALSE,"S279959508"
+"284","limpki","Limpkin","Aramus guarauna","L54123617","1282 Tuscany Blvd, Venice US-FL 27.08883, -82.40749","2025-10-17 15:18",1,27.088828,-82.407489,TRUE,FALSE,TRUE,"S279938484"
+"285","limpki","Limpkin","Aramus guarauna","L2112270","Lakefront Park","2025-10-17 11:23",2,28.2590675,-81.2834859,TRUE,FALSE,FALSE,"S279979712"
+"286","limpki","Limpkin","Aramus guarauna","L54144130","Winter Haven Hospital Lake Martha","2025-10-17 11:07",1,28.027703,-81.724386,TRUE,FALSE,TRUE,"S279883565"
+"287","limpki","Limpkin","Aramus guarauna","L28499138","Disney Springs, Lake Buena Vista US-FL 28.37153, -81.51845","2025-10-17 10:56",2,28.371529,-81.518449,TRUE,FALSE,TRUE,"S279881859"
+"288","limpki","Limpkin","Aramus guarauna","L54142154","Mission Resort and Club, 10400 Florida 48, Howey-in-the-Hills, Florida, US (28.724, -81.782)","2025-10-17 09:30",1,28.7243264,-81.7823177,TRUE,FALSE,TRUE,"S279872671"
+"289","limpki","Limpkin","Aramus guarauna","L1813976","Rockefeller SWR--Price Lake Rd.","2025-10-17 09:08",1,29.6872754,-92.8362563,TRUE,FALSE,FALSE,"S279936822"
+"290","limpki","Limpkin","Aramus guarauna","L5401453","Lake Sheri","2025-10-17 09:00",1,30.8504431,-83.3296054,TRUE,TRUE,TRUE,"S279936962"
+"291","limpki","Limpkin","Aramus guarauna","L28572858","City Park--Toussaint Blvd.","2025-10-17 08:53",1,30.0179795,-90.0929983,TRUE,FALSE,FALSE,"S279891657"
+"292","limpki","Limpkin","Aramus guarauna","L6638748","Lakeview Park","2025-10-17 08:30",4,27.2895703,-82.4273998,TRUE,FALSE,FALSE,"S279941812"
+"293","limpki","Limpkin","Aramus guarauna","L16812585","Edgewater At Sunbeam (restricted access)","2025-10-17 08:12",1,30.2005984,-81.6042669,TRUE,FALSE,TRUE,"S279858125"
+"294","limpki","Limpkin","Aramus guarauna","L3053262","Rosen Shingle Creek","2025-10-17 08:06",2,28.4270119,-81.434108,TRUE,FALSE,FALSE,"S279857536"
+"295","limpki","Limpkin","Aramus guarauna","L3138875","Neal Preserve","2025-10-17 07:54",1,27.4934671,-82.6858402,TRUE,FALSE,FALSE,"S279864557"
+"296","limpki","Limpkin","Aramus guarauna","L54137149","10400 Florida 48, Howey-in-the-Hills, Florida, US (28.725, -81.782)","2025-10-17 07:45",1,28.7250992,-81.7819525,TRUE,FALSE,TRUE,"S279842223"
+"297","limpki","Limpkin","Aramus guarauna","L127326","Dunedin Hammock City Park","2025-10-17 07:44",2,28.0324,-82.781,TRUE,FALSE,FALSE,"S279925647"
+"298","limpki","Limpkin","Aramus guarauna","L17676046","Enclave Suites","2025-10-17 07:38",NA,28.45735,-81.46752,TRUE,FALSE,TRUE,"S279849004"
+"299","limpki","Limpkin","Aramus guarauna","L132806","Crowder Road Landing","2025-10-17 07:37",1,30.507019,-84.313385,TRUE,FALSE,FALSE,"S279873639"
+"300","limpki","Limpkin","Aramus guarauna","L2117264","Upper Delta WMA--Clearwater Tract","2025-10-17 07:30",1,31.1311369,-87.899962,TRUE,FALSE,FALSE,"S279857901"
+"301","limpki","Limpkin","Aramus guarauna","L631290","West Marsh Preserve","2025-10-17 07:18",4,26.6475354,-81.7027473,TRUE,FALSE,FALSE,"S279871042"
+"302","limpki","Limpkin","Aramus guarauna","L54135191","44 Curtiss Pkwy, Miami Springs US-FL 25.82188, -80.28113","2025-10-17 06:57",1,25.821881,-80.281135,TRUE,FALSE,TRUE,"S279831554"
+"303","limpki","Limpkin","Aramus guarauna","L588398","Buck Island Ranch","2025-10-16 18:44",1,27.1545411,-81.1977705,TRUE,FALSE,FALSE,"S279781624"
+"304","limpki","Limpkin","Aramus guarauna","L54123690","807 Rosa St, Kissimmee US-FL 28.31602, -81.54460","2025-10-16 18:40",1,28.316021,-81.544597,TRUE,FALSE,TRUE,"S279780547"
+"305","limpki","Limpkin","Aramus guarauna","L1871755","John Hargrove Environmental Complex/Delores Fenwick Nature Center (UTC 087A)","2025-10-16 18:38",1,29.5426223,-95.3106022,TRUE,FALSE,FALSE,"S279785758"
+"306","limpki","Limpkin","Aramus guarauna","L16336710","Peaceful Waters Preserve, Wellington US-FL 26.63171, -80.23246","2025-10-16 18:13",1,26.631707,-80.232463,TRUE,FALSE,TRUE,"S279775371"
+"307","limpki","Limpkin","Aramus guarauna","L53996315","9960 Glades Road, Boca Raton, Florida, US (26.365, -80.203)","2025-10-16 17:53",1,26.3646418,-80.202642,TRUE,FALSE,TRUE,"S279777463"
+"308","limpki","Limpkin","Aramus guarauna","L54133241","The Mission Resort","2025-10-16 17:45",1,28.7258164,-81.7841616,TRUE,FALSE,TRUE,"S279824146"
+"309","limpki","Limpkin","Aramus guarauna","L54087175","Shingle Creek Golf Club, Orlando US-FL 28.42382, -81.43435","2025-10-16 17:39",1,28.423819,-81.434353,TRUE,FALSE,TRUE,"S279776234"
+"310","limpki","Limpkin","Aramus guarauna","L54123502","Tampa Bypass Canal at Harney Rd.","2025-10-16 17:26",1,28.0326883,-82.3428316,TRUE,FALSE,TRUE,"S279779602"
+"311","limpki","Limpkin","Aramus guarauna","L6161730","Home, Cypress Falls, North Port","2025-10-16 16:45",1,27.0880338,-82.1419698,TRUE,FALSE,TRUE,"S279763694"
+"312","limpki","Limpkin","Aramus guarauna","L1456371","Bay Hill","2025-10-16 16:15",2,28.4657352,-81.5138623,TRUE,FALSE,TRUE,"S279757883"
+"313","limpki","Limpkin","Aramus guarauna","L7265249","West Village Park","2025-10-16 16:04",1,28.073902,-82.5222987,TRUE,FALSE,FALSE,"S279763090"
+"314","limpki","Limpkin","Aramus guarauna","L675861","Grande Lakes, Orlando","2025-10-16 15:59",2,28.4011085,-81.4307258,TRUE,FALSE,FALSE,"S279769550"
+"315","limpki","Limpkin","Aramus guarauna","L37615566","Lake Wilbur","2025-10-16 15:40",2,28.612325,-81.332808,TRUE,FALSE,TRUE,"S279752211"
+"316","limpki","Limpkin","Aramus guarauna","L2093630","Wekiwa Springs SP (Seminole Co.)","2025-10-16 14:38",1,28.7113476,-81.4483023,TRUE,FALSE,FALSE,"S279759551"
+"317","limpki","Limpkin","Aramus guarauna","L143593","Lake Munson Preserve Park & Dam","2025-10-16 14:12",10,30.365942,-84.3001404,TRUE,FALSE,FALSE,"S279753812"
+"318","limpki","Limpkin","Aramus guarauna","L54138539","Air Boat Rides On Ocklawaha River.","2025-10-16 11:32",1,28.9909093,-81.8349558,TRUE,FALSE,TRUE,"S279851048"
+"319","limpki","Limpkin","Aramus guarauna","L727221","Cameron Prairie NWR","2025-10-16 11:24",1,29.9584693,-93.0886586,TRUE,FALSE,FALSE,"S279728330"
+"320","limpki","Limpkin","Aramus guarauna","L54110709","35011 Oliver Rd, Gueydan US-LA 29.98437, -92.56465","2025-10-16 10:48",1,29.984367,-92.564652,TRUE,FALSE,TRUE,"S279719772"
+"321","limpki","Limpkin","Aramus guarauna","L624720","Emeralda Marsh CA--Wildlife Drive","2025-10-16 10:36",NA,28.88672,-81.7909276,TRUE,FALSE,FALSE,"S279722557"
+"322","limpki","Limpkin","Aramus guarauna","L127338","Morris Bridge County Park","2025-10-16 10:23",14,28.0987032,-82.3120091,TRUE,FALSE,FALSE,"S279746455"
+"323","limpki","Limpkin","Aramus guarauna","L54108462","Spencer Rd, Gueydan US-LA 29.96256, -92.51627","2025-10-16 09:59",1,29.962565,-92.516271,TRUE,FALSE,TRUE,"S279708790"
+"324","limpki","Limpkin","Aramus guarauna","L52018247","3 Saint Andrews Court, Palm Coast, Florida, US (29.54, -81.172)","2025-10-16 09:33",1,29.5404583,-81.1716435,TRUE,FALSE,TRUE,"S279700171"
+"325","limpki","Limpkin","Aramus guarauna","L4167568","Heritage Harbour Lake","2025-10-16 09:14",2,27.4966995,-82.4677134,TRUE,FALSE,FALSE,"S279714777"
+"326","limpki","Limpkin","Aramus guarauna","L54000272","Tequesta condo with pond","2025-10-16 08:48",1,26.981842,-80.13198,TRUE,FALSE,TRUE,"S279690272"
+"327","limpki","Limpkin","Aramus guarauna","L450139","Savannah NWR--Laurel Hill Wildlife Dr","2025-10-16 08:23",1,32.1655799,-81.1152447,TRUE,TRUE,FALSE,"S279730505"
+"328","limpki","Limpkin","Aramus guarauna","L10262115","Jean Lafitte NHP & Pres--Barataria Preserve--Bayou Coquille Trail","2025-10-16 08:04",1,29.7936115,-90.1223022,TRUE,FALSE,FALSE,"S279685354"
+"329","limpki","Limpkin","Aramus guarauna","L6364505","Masters Tract Stormwater Treatment Facility","2025-10-16 08:02",2,29.686897,-81.4758325,TRUE,FALSE,FALSE,"S279741288"
+"330","limpki","Limpkin","Aramus guarauna","L2339271","White Lake Wetlands Conservation Area--Birding and Nature Trail","2025-10-16 07:54",1,29.9194095,-92.5131333,TRUE,FALSE,FALSE,"S279698952"
+"331","limpki","Limpkin","Aramus guarauna","L52900944","122 Rosa Bella View, DeBary US-FL 28.87839, -81.36197","2025-10-16 07:51",1,28.878386,-81.361974,TRUE,FALSE,TRUE,"S279669276"
+"332","limpki","Limpkin","Aramus guarauna","L28730686","Trumpet Tree House","2025-10-16 07:40",1,27.282904,-80.453695,TRUE,FALSE,TRUE,"S279670725"
+"333","limpki","Limpkin","Aramus guarauna","L2793571","Okeeheelee Park","2025-10-16 07:39",4,26.6527518,-80.1575804,TRUE,FALSE,FALSE,"S279683848"
+"334","limpki","Limpkin","Aramus guarauna","L1015140","Possum Branch Preserve","2025-10-16 07:20",1,28.0454136,-82.7083611,TRUE,FALSE,FALSE,"S279729877"
+"335","limpki","Limpkin","Aramus guarauna","L6979593","Picayune Strand SF--Merritt Pump Station","2025-10-16 07:07",7,26.14132,-81.492508,TRUE,FALSE,FALSE,"S279685725"
+"336","limpki","Limpkin","Aramus guarauna","L305312","Lakes Park","2025-10-16 07:05",1,26.5271649,-81.8765643,TRUE,FALSE,FALSE,"S280787353"
+"337","limpki","Limpkin","Aramus guarauna","L16854171","Lakes Regional Park","2025-10-16 07:05",1,26.528372,-81.877415,TRUE,FALSE,TRUE,"S280786164"
+"338","limpki","Limpkin","Aramus guarauna","L405338","Frog Pond WMA--Lucky Hammock","2025-10-16 07:04",1,25.396439,-80.566581,TRUE,FALSE,FALSE,"S279687852"
+"339","limpki","Limpkin","Aramus guarauna","L3107741","Laas Farm (private)","2025-10-15 22:30",2,29.9074366,-96.0036763,TRUE,TRUE,FALSE,"S279626971"
+"340","limpki","Limpkin","Aramus guarauna","L1134094","Fletcher Park (formerly Lake Bonny Park)","2025-10-15 18:00",2,28.0358494,-81.9348335,TRUE,FALSE,FALSE,"S279601596"
+"341","limpki","Limpkin","Aramus guarauna","L53629869","Bradford Walking Trail","2025-10-15 17:24",1,28.805807,-81.979117,TRUE,FALSE,TRUE,"S279600608"
+"342","limpki","Limpkin","Aramus guarauna","L3037383","68th Ave Flood Control Area","2025-10-15 17:15",1,27.8338106,-82.7053249,TRUE,FALSE,FALSE,"S279588071"
+"343","limpki","Limpkin","Aramus guarauna","L143084","Wakodahatchee Wetlands","2025-10-15 15:26",5,26.4781984,-80.144738,TRUE,FALSE,FALSE,"S279578904"
+"344","limpki","Limpkin","Aramus guarauna","L54076499","South Carolina, US (33.599, -80.521)","2025-10-15 11:52",1,33.5987783,-80.5213157,TRUE,TRUE,TRUE,"S279545793"
+"345","limpki","Limpkin","Aramus guarauna","L54078152","15877 W J Janes Memorial Scenic Dr, Copeland US-FL 25.94831, -81.36048","2025-10-15 11:10",1,25.948313,-81.360481,TRUE,FALSE,TRUE,"S279553874"
+"346","limpki","Limpkin","Aramus guarauna","L54082229","Hibiscus Golf Course","2025-10-15 10:50",1,26.1089134,-81.7375157,TRUE,FALSE,TRUE,"S279573428"
+"347","limpki","Limpkin","Aramus guarauna","L54073004","6903 Superior Street Cir, Sarasota US-FL 27.42007, -82.48334","2025-10-15 10:46",1,27.420068,-82.48334,TRUE,FALSE,TRUE,"S279520951"
+"348","limpki","Limpkin","Aramus guarauna","L10160735","700 Universe Blvd, Juno Beach US-FL (26.8608,-80.0603)","2025-10-15 10:00",1,26.860786,-80.060269,TRUE,FALSE,TRUE,"S279608049"
+"349","limpki","Limpkin","Aramus guarauna","L127273","River Rise Preserve SP","2025-10-15 09:45",2,29.8621,-82.6027,TRUE,FALSE,FALSE,"S279562018"
+"350","limpki","Limpkin","Aramus guarauna","L4425488","Terra Ceia Preserve SP--Hightower Trail","2025-10-15 08:05",1,27.5813861,-82.5726682,TRUE,FALSE,FALSE,"S279510432"
+"351","limpki","Limpkin","Aramus guarauna","L39373170","127 Rosa Bella View, DeBary US-FL 28.87813, -81.36146","2025-10-15 08:03",1,28.878129,-81.361457,TRUE,FALSE,TRUE,"S279489358"
+"352","limpki","Limpkin","Aramus guarauna","L1011494","Aripeka Sandhills Preserve","2025-10-15 07:35",1,28.4179283,-82.6581287,TRUE,FALSE,FALSE,"S279519798"
+"353","limpki","Limpkin","Aramus guarauna","L837165","Eagle Lakes Community Park","2025-10-15 07:19",1,26.0773686,-81.7141414,TRUE,FALSE,FALSE,"S279560708"
+"354","limpki","Limpkin","Aramus guarauna","L1023544","Wellington Environmental Preserve","2025-10-15 07:18",1,26.6293528,-80.3059387,TRUE,FALSE,FALSE,"S279520257"
+"355","limpki","Limpkin","Aramus guarauna","L5441958","Three Forks Marsh","2025-10-15 07:15",1,27.9818264,-80.754795,TRUE,FALSE,FALSE,"S279508953"

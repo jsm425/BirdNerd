@@ -1,3 +1,6 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","mancuc","Mangrove Cuckoo","Coccyzus minor","L12438289","Wildlife Dr, Sanibel US-FL 26.47076, -82.15235","2025-10-21 10:45",1,26.470757,-82.152348,TRUE,FALSE,TRUE,"S280653903"
-"2","mancuc","Mangrove Cuckoo","Coccyzus minor","L823147","J. N. Ding Darling NWR--Wildlife Drive","2025-10-21 08:19",1,26.4540529,-82.1155071,TRUE,FALSE,FALSE,"S280635275"
+"1","yelrai","Yellow Rail","Coturnicops noveboracensis","L12968851","Niblett--Cherokee Rd","2025-10-24 13:00",2,30.081149,-92.841185,TRUE,FALSE,FALSE,"S281154317"
+"2","yelrai","Yellow Rail","Coturnicops noveboracensis","L54401877","1522 East College Avenue, Normal, Illinois, US (40.511, -88.958)","2025-10-24 11:06",1,40.5107903,-88.9583844,TRUE,TRUE,TRUE,"S281098336"
+"3","yelrai","Yellow Rail","Coturnicops noveboracensis","L54380328","70549, Lake Arthur US-LA 30.05163, -92.86370","2025-10-23 11:53",4,30.051627,-92.8637,TRUE,FALSE,TRUE,"S280993482"
+"4","yelrai","Yellow Rail","Coturnicops noveboracensis","L12968811","Niblett--Watkins Rd","2025-10-21 11:50",2,30.097409,-92.859811,TRUE,FALSE,FALSE,"S280702221"
+"5","yelrai","Yellow Rail","Coturnicops noveboracensis","L3934103","Park No. 566","2025-10-20 08:14",1,41.7487879,-87.5365198,TRUE,TRUE,FALSE,"S280507478"
