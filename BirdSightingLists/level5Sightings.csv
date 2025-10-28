@@ -1,2 +1,5 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","swtkit","Swallow-tailed Kite","Elanoides forficatus","L54373632","8 Mile Road, Galveston, Texas, US (29.243, -94.887)","2025-10-23 12:06",2,29.2426119,-94.887189,TRUE,FALSE,TRUE,"S280961457"
+"1","yegvir","Yellow-green Vireo","Vireo flavoviridis","L200830","A. D. Barnes Park","2025-10-26 15:00",1,25.7340827,-80.3108552,TRUE,TRUE,FALSE,"S281564015"
+"2","yegvir","Yellow-green Vireo","Vireo flavoviridis","L129065","Resaca de la Palma SP WBC (Brownsville) (LTC 048)","2025-10-22 09:07",1,25.9965839,-97.5690513,TRUE,TRUE,FALSE,"S280817492"
+"3","yegvir","Yellow-green Vireo","Vireo flavoviridis","L276426","Grays Harbor NWR","2025-10-18 14:57",1,46.9731644,-123.9436064,TRUE,TRUE,FALSE,"S280217324"
+"4","yegvir","Yellow-green Vireo","Vireo flavoviridis","L109532","Grays Harbor NWR--Bowerman Basin","2025-10-18 09:49",1,46.9788811,-123.9381495,TRUE,TRUE,FALSE,"S280188159"
