@@ -1,11 +1,7 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","lat","lng","obsValid","obsReviewed","locationPrivate","subId","howMany"
-"1","brnnod","Brown Noddy","Anous stolidus","L1147537","Na Pali Coast--tour boat route","2025-10-28 05:40",22.1718906,-159.7059517,TRUE,FALSE,FALSE,"S281791532",NA
-"2","brnnod","Brown Noddy","Anous stolidus","L7291453","Green Island, Kure Atoll (restricted access)","2025-10-27 17:54",28.392533,-178.2939005,TRUE,FALSE,FALSE,"S281732027",100
-"3","brnnod","Brown Noddy","Anous stolidus","L128923","Boca Chica Beach (LTC 043)--USA side","2025-10-27 14:45",25.9965217,-97.1502972,TRUE,TRUE,FALSE,"S281716907",1
-"4","brnnod","Brown Noddy","Anous stolidus","L7830812","Makapu’u PointLighthouse Trail (Seawatch)","2025-10-27 13:23",21.2997417,-157.652397,TRUE,FALSE,FALSE,"S281719293",3
-"5","brnnod","Brown Noddy","Anous stolidus","L1040027","La'ie Point","2025-10-25 07:30",21.6484935,-157.9143047,TRUE,FALSE,FALSE,"S281355215",18
-"6","brnnod","Brown Noddy","Anous stolidus","L1105848","Makapu'u Beach Park","2025-10-24 06:19",21.3139641,-157.6612008,TRUE,FALSE,FALSE,"S281107363",8
-"7","brnnod","Brown Noddy","Anous stolidus","L54291017","Ka'ena Point State Park, Waianae US-HI 21.55687, -158.25074","2025-10-20 10:40",21.556873,-158.25074,TRUE,FALSE,TRUE,"S280551468",5
-"8","brnnod","Brown Noddy","Anous stolidus","L54296844","Rockjumper and Hawaii Bird Tours’ Kona Pelagic: 10.19.25 (8) 19.53121, -156.04529","2025-10-19 13:16",19.531209,-156.045286,TRUE,FALSE,TRUE,"S280579043",2
-"9","brnnod","Brown Noddy","Anous stolidus","L54271791","Rockjumper and Hawaii Bird Tours’ Kona Pelagic: 10.19.25 (4) 19.66316, -156.25108","2025-10-19 09:15",19.663165,-156.251081,TRUE,FALSE,TRUE,"S280454537",2
-"10","brnnod","Brown Noddy","Anous stolidus","L54270187","Rockjumper and Hawaii Bird Tours’ Kona Pelagic: 10.19.25 (2) 19.69400, -156.08377","2025-10-19 07:15",19.693997,-156.083774,TRUE,FALSE,TRUE,"S280449065",1
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
+"1","brtcur","Bristle-thighed Curlew","Numenius tahitiensis","L54451278","49 Black Sand Beach","2025-10-25 09:48",1,19.932854,-155.880981,TRUE,FALSE,TRUE,"S281320086"
+"2","brtcur","Bristle-thighed Curlew","Numenius tahitiensis","L1076157","Kahuku Golf Course and Pasture","2025-10-25 07:01",8,21.6810297,-157.9448315,TRUE,FALSE,FALSE,"S281319770"
+"3","brtcur","Bristle-thighed Curlew","Numenius tahitiensis","L10708325","Mauna Lani--South Golf Courses (restricted access)","2025-10-24 15:33",2,19.93893,-155.8671355,TRUE,FALSE,FALSE,"S281185514"
+"4","brtcur","Bristle-thighed Curlew","Numenius tahitiensis","L54352944","Kings Highway Foot Trail, Kamuela US-HI 19.93270, -155.87125","2025-10-22 12:13",1,19.932699,-155.87125,TRUE,FALSE,TRUE,"S280856719"
+"5","brtcur","Bristle-thighed Curlew","Numenius tahitiensis","L54296090","Kings Highway Foot Trail, Kamuela US-HI 19.93169, -155.87175","2025-10-20 17:10",3,19.931692,-155.871753,TRUE,FALSE,TRUE,"S280575859"
+"6","brtcur","Bristle-thighed Curlew","Numenius tahitiensis","L54292015","James Campbell National Wild Refuge, Kahuku US-HI 21.68371, -157.95462","2025-10-20 12:11",6,21.683709,-157.954622,TRUE,FALSE,TRUE,"S280556545"
