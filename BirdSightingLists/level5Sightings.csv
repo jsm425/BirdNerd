@@ -1,6 +1,2 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","thbkin","Thick-billed Kingbird","Tyrannus crassirostris","L771621","Bellevue Memorial Park","2025-10-29 12:00",1,34.0734573,-117.6747322,TRUE,TRUE,FALSE,"S281956196"
-"2","thbkin","Thick-billed Kingbird","Tyrannus crassirostris","L28134078","Griffith Park--Mineral Wells Trail","2025-10-29 09:15",1,34.1406496,-118.2891666,TRUE,TRUE,FALSE,"S281953362"
-"3","thbkin","Thick-billed Kingbird","Tyrannus crassirostris","L38750106","Alta Loma Creek equestrian trail","2025-10-27 06:57",1,34.1577454,-117.586953,TRUE,TRUE,FALSE,"S281644086"
-"4","thbkin","Thick-billed Kingbird","Tyrannus crassirostris","L4549794","Sunnyside Cemetery","2025-10-23 16:45",1,33.805197,-118.1789858,TRUE,TRUE,FALSE,"S281011057"
-"5","thbkin","Thick-billed Kingbird","Tyrannus crassirostris","L8264995","Willow Springs Park","2025-10-23 11:08",1,33.8073199,-118.1779452,TRUE,TRUE,FALSE,"S280968823"
+"1","akepa1","Hawaii Akepa","Loxops coccineus","L695639","Hakalau Forest NWR--Pua Akala Tract (restricted access)","2025-10-30 08:00",1,19.7895,-155.3262,TRUE,TRUE,FALSE,"S282115034"
