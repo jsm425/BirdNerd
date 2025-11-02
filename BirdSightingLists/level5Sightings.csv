@@ -1,2 +1,5 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","akepa1","Hawaii Akepa","Loxops coccineus","L695639","Hakalau Forest NWR--Pua Akala Tract (restricted access)","2025-10-30 08:00",1,19.7895,-155.3262,TRUE,TRUE,FALSE,"S282115034"
+"1","buwwar","Blue-winged Warbler","Vermivora cyanoptera","L132806","Crowder Road Landing","2025-10-26 06:00",1,30.507019,-84.313385,TRUE,FALSE,FALSE,"S281720424"
+"2","buwwar","Blue-winged Warbler","Vermivora cyanoptera","L127353","Mead Botanical Gardens","2025-10-25 07:10",1,28.5836,-81.3586,TRUE,FALSE,FALSE,"S281303819"
+"3","buwwar","Blue-winged Warbler","Vermivora cyanoptera","L1017574","Glenwood Park","2025-10-24 10:11",1,30.4220325,-86.607542,TRUE,FALSE,FALSE,"S281098772"
+"4","buwwar","Blue-winged Warbler","Vermivora cyanoptera","L14356314","Crosbie Family Preserve","2025-10-24 08:31",1,42.198262,-70.801305,TRUE,TRUE,FALSE,"S281094929"
