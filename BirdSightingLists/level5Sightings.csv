@@ -1,5 +1,3 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","buwwar","Blue-winged Warbler","Vermivora cyanoptera","L132806","Crowder Road Landing","2025-10-26 06:00",1,30.507019,-84.313385,TRUE,FALSE,FALSE,"S281720424"
-"2","buwwar","Blue-winged Warbler","Vermivora cyanoptera","L127353","Mead Botanical Gardens","2025-10-25 07:10",1,28.5836,-81.3586,TRUE,FALSE,FALSE,"S281303819"
-"3","buwwar","Blue-winged Warbler","Vermivora cyanoptera","L1017574","Glenwood Park","2025-10-24 10:11",1,30.4220325,-86.607542,TRUE,FALSE,FALSE,"S281098772"
-"4","buwwar","Blue-winged Warbler","Vermivora cyanoptera","L14356314","Crosbie Family Preserve","2025-10-24 08:31",1,42.198262,-70.801305,TRUE,TRUE,FALSE,"S281094929"
+"1","rugdov","Ruddy Ground Dove","Columbina talpacoti","L246739","Furnace Creek Ranch--The Ranch at Death Valley","2025-10-30 11:45",1,36.4588031,-116.8723547,TRUE,TRUE,FALSE,"S282083844"
+"2","rugdov","Ruddy Ground Dove","Columbina talpacoti","L19494205","Death Valley National Park, The Ranch at Death Valley","2025-10-30 07:45",1,36.4589883,-116.871434,TRUE,TRUE,TRUE,"S282238741"
