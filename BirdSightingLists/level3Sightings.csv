@@ -1,297 +1,265 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","bktspa","Black-throated Sparrow","Amphispiza bilineata","L166979","Boyce Thompson Arboretum","2025-11-04 14:21",1,33.2795082,-111.158756,TRUE,FALSE,FALSE,"S282923540"
-"2","bktspa","Black-throated Sparrow","Amphispiza bilineata","L54795685","S Gas Pipeline Rd, Goodyear US-AZ 33.03960, -112.23506","2025-11-04 11:25",1,33.039601,-112.235057,TRUE,FALSE,TRUE,"S282899788"
-"3","bktspa","Black-throated Sparrow","Amphispiza bilineata","L357634","Cibola NF--Embudito Canyon","2025-11-04 11:01",1,35.1357734,-106.4816809,TRUE,FALSE,FALSE,"S282896993"
-"4","bktspa","Black-throated Sparrow","Amphispiza bilineata","L190925","Salt River--Coon Bluff Recreation Area","2025-11-04 10:12",2,33.5471399,-111.6454576,TRUE,FALSE,FALSE,"S282909966"
-"5","bktspa","Black-throated Sparrow","Amphispiza bilineata","L9968783","Lake Pleasant--Pipeline Canyon Trail (Maricopa Co.)","2025-11-04 09:41",4,33.8814137,-112.3057272,TRUE,FALSE,FALSE,"S282892681"
-"6","bktspa","Black-throated Sparrow","Amphispiza bilineata","L350281","El Rio Open Space Preserve","2025-11-04 09:20",1,32.392141,-111.1384898,TRUE,FALSE,FALSE,"S282883596"
-"7","bktspa","Black-throated Sparrow","Amphispiza bilineata","L129072","Sabino Canyon Recreation Area","2025-11-04 08:47",1,32.3300526,-110.7944301,TRUE,FALSE,FALSE,"S282882555"
-"8","bktspa","Black-throated Sparrow","Amphispiza bilineata","L2704087","Granite Gap","2025-11-04 08:43",2,32.0955147,-108.9699447,TRUE,FALSE,FALSE,"S282882114"
-"9","bktspa","Black-throated Sparrow","Amphispiza bilineata","L128938","Catalina SP","2025-11-04 08:38",2,32.4244027,-110.9123905,TRUE,FALSE,FALSE,"S282891698"
-"10","bktspa","Black-throated Sparrow","Amphispiza bilineata","L2590456","3650 CR 437 Cherokee, TX","2025-11-04 08:30",1,30.9623766,-98.6788054,TRUE,FALSE,TRUE,"S282923473"
-"11","bktspa","Black-throated Sparrow","Amphispiza bilineata","L2623415","Joshua Drive","2025-11-04 08:30",6,35.5831347,-114.260553,TRUE,FALSE,TRUE,"S282897259"
-"12","bktspa","Black-throated Sparrow","Amphispiza bilineata","L5275087","Salero Ranch: Poorwill Canyon wash","2025-11-04 08:23",6,31.601316,-110.908577,TRUE,FALSE,TRUE,"S282875316"
-"13","bktspa","Black-throated Sparrow","Amphispiza bilineata","L7605038","Veterans Memorial Park, Sierra Vista","2025-11-04 08:14",1,31.5568043,-110.2681768,TRUE,FALSE,FALSE,"S282878841"
-"14","bktspa","Black-throated Sparrow","Amphispiza bilineata","L689527","Sabino Dam and downstream riparian","2025-11-04 08:11",1,32.3131068,-110.8113941,TRUE,FALSE,FALSE,"S282871065"
-"15","bktspa","Black-throated Sparrow","Amphispiza bilineata","L6982987","2450-2470 East Avenida De Posada, Tucson, Arizona, US (32.32, -110.936)","2025-11-04 08:10",4,32.3200561,-110.9355358,TRUE,FALSE,TRUE,"S282865135"
-"16","bktspa","Black-throated Sparrow","Amphispiza bilineata","L5975563","Indian Canyons--Murray Canyon","2025-11-04 08:05",6,33.7521761,-116.5488911,TRUE,FALSE,FALSE,"S282891174"
-"17","bktspa","Black-throated Sparrow","Amphispiza bilineata","L1075433","101 Poorwill Canyon Ct, Salero Ranch (yard)","2025-11-04 08:05",2,31.6094605,-110.9072828,TRUE,FALSE,TRUE,"S282875254"
-"18","bktspa","Black-throated Sparrow","Amphispiza bilineata","L128879","Arizona-Sonora Desert Museum (please do not report captive birds)","2025-11-04 08:00",2,32.2437113,-111.168125,TRUE,FALSE,FALSE,"S282880264"
-"19","bktspa","Black-throated Sparrow","Amphispiza bilineata","L378730","North Mountain Park","2025-11-04 08:00",2,33.593969,-112.075331,TRUE,FALSE,FALSE,"S282880817"
-"20","bktspa","Black-throated Sparrow","Amphispiza bilineata","L128870","Agua Caliente Park","2025-11-04 07:53",3,32.2806015,-110.7303009,TRUE,FALSE,FALSE,"S282877441"
-"21","bktspa","Black-throated Sparrow","Amphispiza bilineata","L39766906","Lost Dutchman SP","2025-11-04 07:52",7,33.455284,-111.481354,TRUE,FALSE,TRUE,"S282885150"
-"22","bktspa","Black-throated Sparrow","Amphispiza bilineata","L6718077","3 Canyons Ranch (west of Deer Ridge Trail)","2025-11-04 07:43",6,31.4089416,-110.2331257,TRUE,FALSE,TRUE,"S282883089"
-"23","bktspa","Black-throated Sparrow","Amphispiza bilineata","L42215049","Salt River Shore, Phoenix US-AZ 33.41602, -112.02731","2025-11-04 07:40",3,33.416023,-112.027309,TRUE,FALSE,TRUE,"S282911126"
-"24","bktspa","Black-throated Sparrow","Amphispiza bilineata","L13674003","Our Property, S. Roadrunner Rd, Portal, Az","2025-11-04 07:28",2,31.899905,-109.108897,TRUE,FALSE,TRUE,"S282854000"
-"25","bktspa","Black-throated Sparrow","Amphispiza bilineata","L17345174","Vistoso Trails Nature Preserve","2025-11-04 07:15",2,32.4544094,-110.9822788,TRUE,FALSE,FALSE,"S282875422"
-"26","bktspa","Black-throated Sparrow","Amphispiza bilineata","L3565887","11467 N. Eagle Peak Drive","2025-11-04 07:15",2,32.4147477,-110.9904957,TRUE,FALSE,TRUE,"S282880843"
-"27","bktspa","Black-throated Sparrow","Amphispiza bilineata","L14288665","Paloma Community Park","2025-11-04 07:15",4,33.7509803,-112.2498518,TRUE,FALSE,FALSE,"S282909802"
-"28","bktspa","Black-throated Sparrow","Amphispiza bilineata","L1115897","Canoa Ranch Conservation Park","2025-11-04 07:07",1,31.7948045,-111.0156226,TRUE,FALSE,FALSE,"S282884008"
-"29","bktspa","Black-throated Sparrow","Amphispiza bilineata","L29117391","Arizona National Golf Club, Tucson US-AZ","2025-11-04 07:07",1,32.301393,-110.777901,TRUE,FALSE,TRUE,"S282857360"
-"30","bktspa","Black-throated Sparrow","Amphispiza bilineata","L280913","Rancho Lomitas","2025-11-04 07:04",1,26.4871971,-98.8227511,TRUE,FALSE,FALSE,"S282922220"
-"31","bktspa","Black-throated Sparrow","Amphispiza bilineata","L169375","Inks Lake SP (HOTE 021)","2025-11-04 07:00",1,30.7431179,-98.368218,TRUE,FALSE,FALSE,"S282867253"
-"32","bktspa","Black-throated Sparrow","Amphispiza bilineata","L1744163","South Mountain Park--Pima Canyon Trail","2025-11-04 06:58",2,33.3628854,-111.9855282,TRUE,FALSE,FALSE,"S282866462"
-"33","bktspa","Black-throated Sparrow","Amphispiza bilineata","L27373176","Allen-Mathis Home, Hereford, Arizona, US (31.424, -110.126)","2025-11-04 06:57",1,31.4240896,-110.1256971,TRUE,FALSE,TRUE,"S282859621"
-"34","bktspa","Black-throated Sparrow","Amphispiza bilineata","L1873547","Camp Creek","2025-11-04 06:53",2,33.9100521,-111.8163773,TRUE,FALSE,FALSE,"S282893999"
-"35","bktspa","Black-throated Sparrow","Amphispiza bilineata","L23000614","306 Bartizon Dr, Borrego Springs US-CA 33.27737, -116.39707","2025-11-04 06:26",1,33.277369,-116.39707,TRUE,FALSE,TRUE,"S282865825"
-"36","bktspa","Black-throated Sparrow","Amphispiza bilineata","L7886071","JK Hill-Hillsboro US-NM (32.9207,-107.5756)","2025-11-04 06:02",1,32.92071,-107.575583,TRUE,FALSE,TRUE,"S282839616"
-"37","bktspa","Black-throated Sparrow","Amphispiza bilineata","L6182108","Skyline Regional Park","2025-11-03 17:18",1,33.481675,-112.5592983,TRUE,FALSE,FALSE,"S282787707"
-"38","bktspa","Black-throated Sparrow","Amphispiza bilineata","L22059339","Wolff Yard, 476 E. Corte Pasadera Cobrizo, Green Valley US-AZ","2025-11-03 16:15",1,31.832615,-110.974984,TRUE,FALSE,TRUE,"S282786993"
-"39","bktspa","Black-throated Sparrow","Amphispiza bilineata","L28069033","SBR Home to Robson Circle East (restricted access)","2025-11-03 15:40",2,32.593747,-110.906961,TRUE,FALSE,TRUE,"S282786005"
-"40","bktspa","Black-throated Sparrow","Amphispiza bilineata","L516628","Devils River SNA— Del Norte Unit (HOTW 015)","2025-11-03 13:20",1,29.9406182,-100.9710073,TRUE,FALSE,FALSE,"S282787371"
-"41","bktspa","Black-throated Sparrow","Amphispiza bilineata","L54773485","N Victor St, Ridgecrest US-CA 35.64193, -117.77653","2025-11-03 11:57",2,35.641935,-117.776529,TRUE,FALSE,TRUE,"S282786066"
-"42","bktspa","Black-throated Sparrow","Amphispiza bilineata","L6750468","Reach 11--Bullfrog Pond","2025-11-03 11:41",1,33.6551267,-111.9686402,TRUE,FALSE,FALSE,"S282751534"
-"43","bktspa","Black-throated Sparrow","Amphispiza bilineata","L374196","Junction WTP (HOTW 090)","2025-11-03 11:15",1,30.4978483,-99.7418475,TRUE,FALSE,FALSE,"S282761320"
-"44","bktspa","Black-throated Sparrow","Amphispiza bilineata","L40198831","Pontatoc Trail #410--lower","2025-11-03 10:20",1,32.342072,-110.898236,TRUE,FALSE,TRUE,"S282751150"
-"45","bktspa","Black-throated Sparrow","Amphispiza bilineata","L54774840","West Mahalia Road, Goodyear US-AZ (33.0436,-112.2371)","2025-11-03 09:49",2,33.043615,-112.237115,TRUE,FALSE,TRUE,"S282792572"
-"46","bktspa","Black-throated Sparrow","Amphispiza bilineata","L53858682","Tanner's Hood","2025-11-03 09:46",2,31.977195,-110.694146,TRUE,FALSE,TRUE,"S282747035"
-"47","bktspa","Black-throated Sparrow","Amphispiza bilineata","L3114179","Ranch House","2025-11-03 08:55",6,30.3345,-101.221,TRUE,FALSE,TRUE,"S282920304"
-"48","bktspa","Black-throated Sparrow","Amphispiza bilineata","L10235391","1188 YardBirds, Green Valley US-AZ (31.8562,-110.9608)","2025-11-03 08:47",1,31.8561598,-110.9606013,TRUE,FALSE,TRUE,"S282900536"
-"49","bktspa","Black-throated Sparrow","Amphispiza bilineata","L3759872","Aravaipa Canyon Wilderness (BLM permit required)","2025-11-03 08:32",2,32.9191925,-110.5286729,TRUE,FALSE,FALSE,"S282741783"
-"50","bktspa","Black-throated Sparrow","Amphispiza bilineata","L54760246","Elephant Mountain WMA Campsites","2025-11-03 08:14",16,30.04856,-103.569558,TRUE,FALSE,TRUE,"S282718468"
-"51","bktspa","Black-throated Sparrow","Amphispiza bilineata","L53397165","9595 E Sabino Estates Dr, Tucson US-AZ 32.30502, -110.78714","2025-11-03 08:12",3,32.305024,-110.787141,TRUE,FALSE,TRUE,"S282727168"
-"52","bktspa","Black-throated Sparrow","Amphispiza bilineata","L25604337","Private Residence 1500 Greystone Ranch Rd, Burnet US-TX 30.66089, -98.15604","2025-11-03 08:08",2,30.660891,-98.156039,TRUE,FALSE,TRUE,"S282725986"
-"53","bktspa","Black-throated Sparrow","Amphispiza bilineata","L8952710","Sierra Vista Rd, Sunny Glen, Alpine TX","2025-11-03 08:05",2,30.3789562,-103.73066,TRUE,FALSE,TRUE,"S282723533"
-"54","bktspa","Black-throated Sparrow","Amphispiza bilineata","L2329012","Salero Ranch Unit 1: Poorwill Canyon Ct","2025-11-03 08:03",2,31.601424,-110.903346,TRUE,FALSE,TRUE,"S282754529"
-"55","bktspa","Black-throated Sparrow","Amphispiza bilineata","L1151548","Naranja Town Park","2025-11-03 07:44",3,32.4124291,-110.9840584,TRUE,FALSE,FALSE,"S282736608"
-"56","bktspa","Black-throated Sparrow","Amphispiza bilineata","L668805","Anza-Borrego Desert SP--Visitor Center","2025-11-03 07:40",1,33.257811,-116.4061224,TRUE,FALSE,FALSE,"S282737055"
-"57","bktspa","Black-throated Sparrow","Amphispiza bilineata","L53222987","Granite Mountain Trailhead","2025-11-03 07:38",6,33.7703251,-111.7892491,TRUE,FALSE,FALSE,"S282738595"
-"58","bktspa","Black-throated Sparrow","Amphispiza bilineata","L29474178","5000 E Via Estancia Miraval, Tucson US-AZ 32.50775, -110.88476","2025-11-03 07:26",2,32.507755,-110.884758,TRUE,FALSE,TRUE,"S282727233"
-"59","bktspa","Black-throated Sparrow","Amphispiza bilineata","L290333","Arthur Pack Regional Park","2025-11-03 07:25",1,32.3733753,-111.0535231,TRUE,FALSE,FALSE,"S282735016"
-"60","bktspa","Black-throated Sparrow","Amphispiza bilineata","L54762562","Reimers Ranch Park, Dripping Springs US-TX 30.36389, -98.12334","2025-11-03 07:18",2,30.363887,-98.123338,TRUE,FALSE,TRUE,"S282731183"
-"61","bktspa","Black-throated Sparrow","Amphispiza bilineata","L11153273","Market East","2025-11-03 07:15",2,31.6044697,-111.0455754,TRUE,FALSE,TRUE,"S282742392"
-"62","bktspa","Black-throated Sparrow","Amphispiza bilineata","L54774498","Ragged Top, IFNM, Marana US-AZ (32.4496,-111.4903)","2025-11-03 07:10",2,32.449626,-111.49034,TRUE,FALSE,TRUE,"S282790743"
-"63","bktspa","Black-throated Sparrow","Amphispiza bilineata","L52801812","New Mexico 9, Deming, New Mexico, US (31.851, -107.955)","2025-11-03 07:08",1,31.8510924,-107.9551559,TRUE,FALSE,TRUE,"S282722611"
-"64","bktspa","Black-throated Sparrow","Amphispiza bilineata","L129086","Santa Margarita Ranch (LTC 079) (restricted access - guided groups only)","2025-11-03 07:05",4,26.4856177,-99.0912337,TRUE,FALSE,FALSE,"S282759880"
-"65","bktspa","Black-throated Sparrow","Amphispiza bilineata","L54763665","2764 Borrego Springs Road, Borrego Springs, California, US (33.246, -116.374)","2025-11-03 07:04",1,33.2461415,-116.374254,TRUE,FALSE,TRUE,"S282736875"
-"66","bktspa","Black-throated Sparrow","Amphispiza bilineata","L1193300","Joshua Tree NP--Jumbo Rocks Campground","2025-11-03 07:01",2,33.9920675,-116.0635722,TRUE,FALSE,FALSE,"S282768992"
-"67","bktspa","Black-throated Sparrow","Amphispiza bilineata","L6528619","Windy Hill Ranch","2025-11-03 07:00",1,30.8963889,-98.7538889,TRUE,FALSE,TRUE,"S282704795"
-"68","bktspa","Black-throated Sparrow","Amphispiza bilineata","L8409896","Sloan Canyon NCA--Petroglyph Canyon","2025-11-03 06:55",1,35.9016593,-115.1247733,TRUE,FALSE,FALSE,"S282757075"
-"69","bktspa","Black-throated Sparrow","Amphispiza bilineata","L18373083","NM-9 Corrizalillo Spring","2025-11-03 06:43",1,31.84544,-107.978912,TRUE,FALSE,FALSE,"S282722639"
-"70","bktspa","Black-throated Sparrow","Amphispiza bilineata","L1430233","Finger Rock Trail--trailhead to spring","2025-11-03 06:37",2,32.34433,-110.90819,TRUE,FALSE,TRUE,"S282710740"
-"71","bktspa","Black-throated Sparrow","Amphispiza bilineata","L27937535","Castle Hot Springs Resort (Private Property)","2025-11-03 06:22",NA,33.9827776,-112.3618312,TRUE,FALSE,TRUE,"S282777601"
-"72","bktspa","Black-throated Sparrow","Amphispiza bilineata","L20329824","Oro Valley Home (private)","2025-11-03 06:00",1,32.4330004,-110.9912966,TRUE,FALSE,TRUE,"S282799302"
-"73","bktspa","Black-throated Sparrow","Amphispiza bilineata","L54741646","Kimble County Airport, Junction US-TX 30.50949, -99.76555","2025-11-02 18:06",3,30.509491,-99.765552,TRUE,FALSE,TRUE,"S282705583"
-"74","bktspa","Black-throated Sparrow","Amphispiza bilineata","L3191846","Silver Creek","2025-11-02 17:02",1,28.27446,-99.24677,TRUE,FALSE,TRUE,"S282648918"
-"75","bktspa","Black-throated Sparrow","Amphispiza bilineata","L12036882","SBR Nature Trial","2025-11-02 16:35",4,32.5808875,-110.9233211,TRUE,FALSE,TRUE,"S282652371"
-"76","bktspa","Black-throated Sparrow","Amphispiza bilineata","L54612928","Marathon Rd, Alpine US-TX 29.59937, -103.19536","2025-11-02 16:20",2,29.59937,-103.195355,TRUE,FALSE,TRUE,"S282640079"
-"77","bktspa","Black-throated Sparrow","Amphispiza bilineata","L32258596","Sabino Vista yard nr Crestwood / Larrea, Tucson","2025-11-02 14:47",2,32.27733,-110.815652,TRUE,FALSE,TRUE,"S282629517"
-"78","bktspa","Black-throated Sparrow","Amphispiza bilineata","L37616792","Whitetail Ranchita","2025-11-02 14:18",1,30.635555,-98.128777,TRUE,FALSE,TRUE,"S282637831"
-"79","bktspa","Black-throated Sparrow","Amphispiza bilineata","L303988","Cienega Creek Preserve (permit required)","2025-11-02 12:59",2,32.01793,-110.6429,TRUE,FALSE,FALSE,"S282623188"
-"80","bktspa","Black-throated Sparrow","Amphispiza bilineata","L1193297","Joshua Tree NP--Arch Rock/White Tank area","2025-11-02 12:56",3,33.9851531,-116.0165691,TRUE,FALSE,FALSE,"S282650000"
-"81","bktspa","Black-throated Sparrow","Amphispiza bilineata","L54719067","Penny Howe Trail","2025-11-02 12:12",6,33.58269,-112.065949,TRUE,FALSE,TRUE,"S282595845"
-"82","bktspa","Black-throated Sparrow","Amphispiza bilineata","L4411635","Joshua Tree NP--Pine City","2025-11-02 11:30",2,34.0238379,-116.078254,TRUE,FALSE,FALSE,"S282631310"
-"83","bktspa","Black-throated Sparrow","Amphispiza bilineata","L305948","Milton Reimers Ranch Park","2025-11-02 11:26",2,30.3641504,-98.1237811,TRUE,FALSE,FALSE,"S282605430"
-"84","bktspa","Black-throated Sparrow","Amphispiza bilineata","L128993","Hueco Tanks SP & Historic Site (FWTX 5)","2025-11-02 10:01",1,31.9214283,-106.0467612,TRUE,FALSE,FALSE,"S282658094"
-"85","bktspa","Black-throated Sparrow","Amphispiza bilineata","L360452","Big Bend NP--Panther Junction","2025-11-02 09:40",2,29.3281624,-103.2064569,TRUE,FALSE,FALSE,"S282625079"
-"86","bktspa","Black-throated Sparrow","Amphispiza bilineata","L128900","Big Bend NP--Government Spring","2025-11-02 09:32",1,29.3400002,-103.2557983,TRUE,FALSE,FALSE,"S282544305"
-"87","bktspa","Black-throated Sparrow","Amphispiza bilineata","L4468543","LRGV NWR--La Puerta Tract","2025-11-02 09:11",3,26.3444892,-98.7320763,TRUE,FALSE,FALSE,"S282553248"
-"88","bktspa","Black-throated Sparrow","Amphispiza bilineata","L16238788","La Paloma","2025-11-02 09:02",3,27.8639052,-98.4210248,TRUE,FALSE,TRUE,"S282569833"
-"89","bktspa","Black-throated Sparrow","Amphispiza bilineata","L23884712","Los Arrieros Loop","2025-11-02 08:45",5,26.506871,-99.08065,TRUE,FALSE,TRUE,"S282556197"
-"90","bktspa","Black-throated Sparrow","Amphispiza bilineata","L454404","San Angelo SP--South Unit (HOTW 109)","2025-11-02 08:41",6,31.4677918,-100.5033213,TRUE,FALSE,FALSE,"S282555360"
-"91","bktspa","Black-throated Sparrow","Amphispiza bilineata","L38916334","Starr Co.—Old 83 Rd X Santa Margarita Rd","2025-11-02 08:16",4,26.4981706,-99.0760829,TRUE,FALSE,FALSE,"S282529495"
-"92","bktspa","Black-throated Sparrow","Amphispiza bilineata","L275969","Rockhound SP--Spring Canyon Area","2025-11-02 08:15",2,32.147084,-107.618991,TRUE,FALSE,FALSE,"S282848766"
-"93","bktspa","Black-throated Sparrow","Amphispiza bilineata","L17120366","Home","2025-11-02 08:01",1,32.450747,-111.069334,TRUE,FALSE,TRUE,"S282562053"
-"94","bktspa","Black-throated Sparrow","Amphispiza bilineata","L353980","Tucson Mountain Park--Gates Pass","2025-11-02 08:00",1,32.2227528,-111.1004416,TRUE,FALSE,FALSE,"S282799307"
-"95","bktspa","Black-throated Sparrow","Amphispiza bilineata","L54718457","West Mahalia Road, Goodyear US-AZ (33.0432,-112.2369)","2025-11-02 07:59",2,33.04325,-112.236901,TRUE,FALSE,TRUE,"S282593254"
-"96","bktspa","Black-throated Sparrow","Amphispiza bilineata","L129033","Mt. Lemmon--Molino Basin","2025-11-02 07:58",1,32.337101,-110.6921005,TRUE,FALSE,FALSE,"S282598555"
-"97","bktspa","Black-throated Sparrow","Amphispiza bilineata","L15142650","Mariposa Corner","2025-11-02 07:50",1,32.212097,-110.74585,TRUE,FALSE,TRUE,"S282531387"
-"98","bktspa","Black-throated Sparrow","Amphispiza bilineata","L42633809","4315 N Camino del Obispo, Tucson US-AZ (32.2857,-110.9300)#2","2025-11-02 07:50",1,32.285672,-110.930024,TRUE,FALSE,TRUE,"S282531011"
-"99","bktspa","Black-throated Sparrow","Amphispiza bilineata","L54701135","Alex’s-AZ 32.37069, -111.04261","2025-11-02 07:46",2,32.370694,-111.042607,TRUE,FALSE,TRUE,"S282618458"
-"100","bktspa","Black-throated Sparrow","Amphispiza bilineata","L54702465","76943, Ozona US-TX private property","2025-11-02 07:43",8,30.098261,-101.34954,TRUE,FALSE,TRUE,"S282512038"
-"101","bktspa","Black-throated Sparrow","Amphispiza bilineata","L3286634","Morning Star Ranch - Winery Springs Cyn.","2025-11-02 07:39",2,31.5651832,-110.937242,TRUE,FALSE,TRUE,"S282546022"
-"102","bktspa","Black-throated Sparrow","Amphispiza bilineata","L10278083","Tortolita Preserve","2025-11-02 07:30",6,32.4462972,-111.1064845,TRUE,FALSE,FALSE,"S282579768"
-"103","bktspa","Black-throated Sparrow","Amphispiza bilineata","L27412346","Clem","2025-11-02 07:06",3,33.808915,-113.175266,TRUE,FALSE,TRUE,"S282595390"
-"104","bktspa","Black-throated Sparrow","Amphispiza bilineata","L21728627","Mountain Creek Ranch East","2025-11-02 07:04",2,32.0736092,-110.6572808,TRUE,FALSE,TRUE,"S282523433"
-"105","bktspa","Black-throated Sparrow","Amphispiza bilineata","L1444127","McDowell Sonoran Preserve--Gateway Area","2025-11-02 06:50",4,33.6492166,-111.8604858,TRUE,FALSE,FALSE,"S282551169"
-"106","bktspa","Black-throated Sparrow","Amphispiza bilineata","L1074570","Joshua Tree NP--Indian Cove area","2025-11-02 06:10",2,34.0947477,-116.1629963,TRUE,FALSE,FALSE,"S282572361"
-"107","bktspa","Black-throated Sparrow","Amphispiza bilineata","L2527820","La Paloma","2025-11-01 18:09",3,27.864459,-98.424953,TRUE,FALSE,TRUE,"S282422263"
-"108","bktspa","Black-throated Sparrow","Amphispiza bilineata","L54506554","Marathon Rd","2025-11-01 17:32",2,29.5982865,-103.2011003,TRUE,FALSE,TRUE,"S282625607"
-"109","bktspa","Black-throated Sparrow","Amphispiza bilineata","L54685993","301–381 Clay Young Rd, Burnet US-TX 30.72513, -98.38305","2025-11-01 17:22",4,30.725134,-98.38305,TRUE,FALSE,TRUE,"S282433643"
-"110","bktspa","Black-throated Sparrow","Amphispiza bilineata","L357868","Saguaro Lake","2025-11-01 17:01",1,33.5740415,-111.5377575,TRUE,FALSE,FALSE,"S282492950"
-"111","bktspa","Black-throated Sparrow","Amphispiza bilineata","L579526","Inks Dam National Fish Hatchery","2025-11-01 17:00",2,30.7229857,-98.3884907,TRUE,FALSE,FALSE,"S282805453"
-"112","bktspa","Black-throated Sparrow","Amphispiza bilineata","L8411071","3 Canyons Blvd grasslands","2025-11-01 16:54",3,31.4091101,-110.1272348,TRUE,FALSE,FALSE,"S282436688"
-"113","bktspa","Black-throated Sparrow","Amphispiza bilineata","L859711","Rockhound SP","2025-11-01 15:33",9,32.1843299,-107.611084,TRUE,FALSE,FALSE,"S282848461"
-"114","bktspa","Black-throated Sparrow","Amphispiza bilineata","L52323431","Engle Lake","2025-11-01 15:30",6,33.1788509,-107.0431742,TRUE,FALSE,TRUE,"S282403949"
-"115","bktspa","Black-throated Sparrow","Amphispiza bilineata","L38913091","Santa Rita Ranch III, Vail","2025-11-01 14:20",2,31.9397342,-110.7613207,TRUE,FALSE,TRUE,"S282406087"
-"116","bktspa","Black-throated Sparrow","Amphispiza bilineata","L17952326","Beeline Highway--Ballantine Trailhead","2025-11-01 14:20",8,33.7646447,-111.4935518,TRUE,FALSE,FALSE,"S282434716"
-"117","bktspa","Black-throated Sparrow","Amphispiza bilineata","L9968140","Lake Pleasant--Ten Lane Boat Ramp","2025-11-01 12:18",1,33.854128,-112.2898587,TRUE,FALSE,FALSE,"S282384259"
-"118","bktspa","Black-throated Sparrow","Amphispiza bilineata","L1316683","Brady Creek Reservoir/Lake Brady Park","2025-11-01 11:57",1,31.1364548,-99.3979025,TRUE,FALSE,FALSE,"S282409880"
-"119","bktspa","Black-throated Sparrow","Amphispiza bilineata","L9968122","Lake Pleasant--Scorpion Bay Marina","2025-11-01 11:21",1,33.8735359,-112.2947101,TRUE,FALSE,FALSE,"S282378277"
-"120","bktspa","Black-throated Sparrow","Amphispiza bilineata","L343974","Organ Mountains-Desert Peaks NM--Dripping Springs NA Fillmore Canyon","2025-11-01 10:56",1,32.3374143,-106.5869475,TRUE,FALSE,FALSE,"S282373987"
-"121","bktspa","Black-throated Sparrow","Amphispiza bilineata","L284044","Lost Dutchman SP","2025-11-01 10:44",2,33.459,-111.482,TRUE,FALSE,FALSE,"S282375307"
-"122","bktspa","Black-throated Sparrow","Amphispiza bilineata","L12787892","7037 Calle Estancias","2025-11-01 10:11",1,32.3131397,-106.8853967,TRUE,FALSE,TRUE,"S282528183"
-"123","bktspa","Black-throated Sparrow","Amphispiza bilineata","L195968","Joshua Tree NP--Cottonwood Spring","2025-11-01 09:51",3,33.7365145,-115.809819,TRUE,FALSE,FALSE,"S282417585"
-"124","bktspa","Black-throated Sparrow","Amphispiza bilineata","L838747","Colossal Cave Mountain Park","2025-11-01 09:37",3,32.0631918,-110.6370771,TRUE,FALSE,FALSE,"S282384360"
-"125","bktspa","Black-throated Sparrow","Amphispiza bilineata","L129053","Pedernales Falls State Park (HOTE 050)","2025-11-01 09:00",1,30.3067833,-98.2512236,TRUE,FALSE,FALSE,"S282358276"
-"126","bktspa","Black-throated Sparrow","Amphispiza bilineata","L6692498","Wee Thump Joshua Tree Wilderness 03 (Desert Avicaching 2018)","2025-11-01 09:00",1,35.5503913,-115.0827751,TRUE,FALSE,FALSE,"S282390673"
-"127","bktspa","Black-throated Sparrow","Amphispiza bilineata","L38806939","Grassland Yard","2025-11-01 08:57",2,31.9378743,-110.7617693,TRUE,FALSE,TRUE,"S282353482"
-"128","bktspa","Black-throated Sparrow","Amphispiza bilineata","L54459092","CR 193","2025-11-01 08:53",1,31.681858,-99.091033,TRUE,FALSE,TRUE,"S282320995"
-"129","bktspa","Black-throated Sparrow","Amphispiza bilineata","L8397180","West Puesta Del Sol, Whetstone","2025-11-01 08:19",2,31.6837898,-110.3886416,TRUE,FALSE,TRUE,"S282659344"
-"130","bktspa","Black-throated Sparrow","Amphispiza bilineata","L39563036","171 West Milligan Gulch Road, Socorro, New Mexico, US (33.669, -107.115)","2025-11-01 08:18",3,33.6686151,-107.1153814,TRUE,FALSE,TRUE,"S282319745"
-"131","bktspa","Black-throated Sparrow","Amphispiza bilineata","L35094893","McDowell Sonoran Preserve--Quartz Trailhead","2025-11-01 07:57",3,33.6267429,-111.8570584,TRUE,FALSE,FALSE,"S282361064"
-"132","bktspa","Black-throated Sparrow","Amphispiza bilineata","L21728254","Pistol Hill","2025-11-01 07:50",4,32.0650642,-110.6547667,TRUE,FALSE,TRUE,"S282333015"
-"133","bktspa","Black-throated Sparrow","Amphispiza bilineata","L15247130","Casa de Coverdill (Private Residence)","2025-11-01 07:41",2,32.2755781,-110.8335759,TRUE,FALSE,TRUE,"S282347876"
-"134","bktspa","Black-throated Sparrow","Amphispiza bilineata","L39407676","Tanque Verde Ranch (please check in @ reception office)","2025-11-01 07:39",1,32.2420804,-110.6842503,TRUE,FALSE,FALSE,"S282343520"
-"135","bktspa","Black-throated Sparrow","Amphispiza bilineata","L37916766","Unnamed Road, Rochelle, Texas, US (31.277, -99.139)","2025-11-01 07:32",2,31.2773141,-99.1385943,TRUE,FALSE,TRUE,"S282326465"
-"136","bktspa","Black-throated Sparrow","Amphispiza bilineata","L54676660","Hunt","2025-11-01 07:30",1,34.234387,-111.97353,TRUE,FALSE,TRUE,"S282394659"
-"137","bktspa","Black-throated Sparrow","Amphispiza bilineata","L2113696","Saguaro NP--West--King Canyon Trail","2025-11-01 07:30",2,32.2479964,-111.1668992,TRUE,FALSE,FALSE,"S282799662"
-"138","bktspa","Black-throated Sparrow","Amphispiza bilineata","L420195","Big Morongo Canyon Preserve & Covington Park","2025-11-01 07:27",3,34.0497222,-116.5702639,TRUE,FALSE,FALSE,"S282366038"
-"139","bktspa","Black-throated Sparrow","Amphispiza bilineata","L17138033","AZ: Green Valley, BBAP Bird Sanctuary 2","2025-11-01 07:19",1,31.8023549,-111.029918,TRUE,FALSE,TRUE,"S282333317"
-"140","bktspa","Black-throated Sparrow","Amphispiza bilineata","L900289","Anza-Borrego Desert SP--Palm Canyon & Campground","2025-11-01 07:15",1,33.2698067,-116.4183164,TRUE,FALSE,FALSE,"S282374590"
-"141","bktspa","Black-throated Sparrow","Amphispiza bilineata","L54664711","Arizona National Scenic Trail, Nogales (31.58101, -110.76264)","2025-11-01 07:00",3,31.581005,-110.762638,TRUE,FALSE,TRUE,"S282339455"
-"142","bktspa","Black-throated Sparrow","Amphispiza bilineata","L15884891","Dad And Pats House","2025-11-01 06:58",3,33.728414,-111.930611,TRUE,FALSE,TRUE,"S282334662"
-"143","bktspa","Black-throated Sparrow","Amphispiza bilineata","L3705390","McDowell Sonoran Preserve--Tom's Thumb Area","2025-11-01 06:46",6,33.6818137,-111.8113992,TRUE,FALSE,FALSE,"S282338616"
-"144","bktspa","Black-throated Sparrow","Amphispiza bilineata","L54659051","Hampton Inn Marana","2025-11-01 06:45",2,32.3785004,-111.0994405,TRUE,FALSE,TRUE,"S282312754"
-"145","bktspa","Black-throated Sparrow","Amphispiza bilineata","L18461951","Neighborhood","2025-11-01 06:36",2,32.299075,-110.833703,TRUE,FALSE,TRUE,"S282331460"
-"146","bktspa","Black-throated Sparrow","Amphispiza bilineata","L21824340","Canyon Ranch","2025-10-31 17:10",1,32.2836166,-110.8101592,TRUE,FALSE,TRUE,"S282241262"
-"147","bktspa","Black-throated Sparrow","Amphispiza bilineata","L41843213","Johnnie Lang Connector","2025-10-31 16:30",7,34.036008,-116.204242,TRUE,FALSE,TRUE,"S282244830"
-"148","bktspa","Black-throated Sparrow","Amphispiza bilineata","L5578351","Sky Ranch","2025-10-31 16:00",2,32.4183604,-111.0557038,TRUE,FALSE,TRUE,"S282756020"
-"149","bktspa","Black-throated Sparrow","Amphispiza bilineata","L12157979","Lake Carlsbad - Beach Park","2025-10-31 14:39",3,32.430603,-104.220537,TRUE,FALSE,FALSE,"S282222688"
-"150","bktspa","Black-throated Sparrow","Amphispiza bilineata","L3479611","Burnet--FM963 Pond","2025-10-31 14:38",1,30.7741691,-98.2176018,TRUE,FALSE,FALSE,"S282311921"
-"151","bktspa","Black-throated Sparrow","Amphispiza bilineata","L11038382","Thunderbird Conservation Park","2025-10-31 14:28",2,33.6914288,-112.1899285,TRUE,FALSE,FALSE,"S282239508"
-"152","bktspa","Black-throated Sparrow","Amphispiza bilineata","L2241536","Inks Lake SP--Trail around SE corner of lake","2025-10-31 13:34",4,30.7329965,-98.3682132,TRUE,FALSE,FALSE,"S282405388"
-"153","bktspa","Black-throated Sparrow","Amphispiza bilineata","L37273651","Blanco Cr. @ CR342","2025-10-31 11:46",1,29.330393,-99.568178,TRUE,FALSE,TRUE,"S282201786"
-"154","bktspa","Black-throated Sparrow","Amphispiza bilineata","L18423281","Loco Road Yard","2025-10-31 11:30",1,32.4924583,-107.9857407,TRUE,FALSE,TRUE,"S282202014"
-"155","bktspa","Black-throated Sparrow","Amphispiza bilineata","L189761","Organ Mountains-Desert Peaks NM--Dripping Springs NA","2025-10-31 10:36",3,32.32773,-106.59024,TRUE,FALSE,FALSE,"S282411288"
-"156","bktspa","Black-throated Sparrow","Amphispiza bilineata","L37919859","CR-101, Knippa","2025-10-31 10:16",1,29.330013,-99.641477,TRUE,FALSE,TRUE,"S282187653"
-"157","bktspa","Black-throated Sparrow","Amphispiza bilineata","L938672","Usery Mountain Regional Park","2025-10-31 10:16",3,33.474,-111.615385,TRUE,FALSE,FALSE,"S282205576"
-"158","bktspa","Black-throated Sparrow","Amphispiza bilineata","L573076","Big Bend NP--South Rim Trail","2025-10-31 10:12",2,29.2252197,-103.3004951,TRUE,FALSE,FALSE,"S282242780"
-"159","bktspa","Black-throated Sparrow","Amphispiza bilineata","L54632762","Perrin Road","2025-10-31 10:12",1,32.532382,-107.908045,TRUE,FALSE,TRUE,"S282187736"
-"160","bktspa","Black-throated Sparrow","Amphispiza bilineata","L300609","Salt River--Granite Reef Recreation Area","2025-10-31 10:08",2,33.5145045,-111.6815139,TRUE,FALSE,FALSE,"S282199909"
-"161","bktspa","Black-throated Sparrow","Amphispiza bilineata","L30571049","BLM, Piñon, NM (32.502, -105.473)","2025-10-31 10:01",7,32.5018963,-105.4728917,TRUE,FALSE,TRUE,"S282382057"
-"162","bktspa","Black-throated Sparrow","Amphispiza bilineata","L263942","Christmas Mountains Oasis (access by permission only)","2025-10-31 10:00",1,29.4917768,-103.4670389,TRUE,FALSE,FALSE,"S282201339"
-"163","bktspa","Black-throated Sparrow","Amphispiza bilineata","L8523547","White Tanks--Goat Camp Trail","2025-10-31 09:27",8,33.568719,-112.505439,TRUE,FALSE,FALSE,"S282240217"
-"164","bktspa","Black-throated Sparrow","Amphispiza bilineata","L54631750","Perrin Road (South of Katfish Kove","2025-10-31 09:19",1,32.44556,-107.922475,TRUE,FALSE,TRUE,"S282183025"
-"165","bktspa","Black-throated Sparrow","Amphispiza bilineata","L128981","Guadalupe Mts. NP--Frijole Ranch (FWTX 16)","2025-10-31 09:02",4,31.9074905,-104.8013279,TRUE,FALSE,FALSE,"S282192124"
-"166","bktspa","Black-throated Sparrow","Amphispiza bilineata","L1580375","Portal--Foothills Road","2025-10-31 08:30",1,31.9682184,-109.1565519,TRUE,FALSE,FALSE,"S282177378"
-"167","bktspa","Black-throated Sparrow","Amphispiza bilineata","L973472","las Cienegas grasslands","2025-10-31 08:24",2,31.7024572,-110.5922842,TRUE,FALSE,TRUE,"S282188533"
-"168","bktspa","Black-throated Sparrow","Amphispiza bilineata","L1129937","Salero Ranch Unit 1 Poorwill Cyn to Bond Canyon","2025-10-31 08:18",2,31.5946207,-110.9038067,TRUE,FALSE,TRUE,"S282199860"
-"169","bktspa","Black-throated Sparrow","Amphispiza bilineata","L998968","Case Natural Resource Park","2025-10-31 08:10",2,32.2138359,-110.7807577,TRUE,FALSE,FALSE,"S282400654"
-"170","bktspa","Black-throated Sparrow","Amphispiza bilineata","L54631603","S Coronado Memorial Rd, Hereford US-AZ 31.37361, -110.20721","2025-10-31 08:08",1,31.373609,-110.207206,TRUE,FALSE,TRUE,"S282182257"
-"171","bktspa","Black-throated Sparrow","Amphispiza bilineata","L1052368","Big Bend NP--Daniels Ranch Rd.","2025-10-31 08:05",1,29.1839794,-102.9645274,TRUE,FALSE,FALSE,"S282206559"
-"172","bktspa","Black-throated Sparrow","Amphispiza bilineata","L7218477","Desert View Conservation Area","2025-10-31 07:53",3,34.1142207,-116.2847042,TRUE,FALSE,FALSE,"S282200791"
-"173","bktspa","Black-throated Sparrow","Amphispiza bilineata","L17754923","Apache Wash Trailhead","2025-10-31 07:53",2,33.768235,-112.044355,TRUE,FALSE,FALSE,"S282748943"
-"174","bktspa","Black-throated Sparrow","Amphispiza bilineata","L1100233","Agua Caliente County Park","2025-10-31 07:17",3,32.9503072,-116.3034582,TRUE,FALSE,FALSE,"S282589170"
-"175","bktspa","Black-throated Sparrow","Amphispiza bilineata","L1586823","Saguaro NP--East--Lower Chiminea Canyon","2025-10-31 07:16",2,32.1534807,-110.6086395,TRUE,FALSE,FALSE,"S282176293"
-"176","bktspa","Black-throated Sparrow","Amphispiza bilineata","L765455","Freedom Park","2025-10-31 07:10",1,32.1974045,-110.8865547,TRUE,FALSE,FALSE,"S282189847"
-"177","bktspa","Black-throated Sparrow","Amphispiza bilineata","L54114719","981 W Camino Sagasta, Green Valley US-AZ 31.83090, -111.00708","2025-10-31 07:03",2,31.830903,-111.007078,TRUE,FALSE,TRUE,"S282170431"
-"178","bktspa","Black-throated Sparrow","Amphispiza bilineata","L1034257","Rillito River--Swan Rd to Columbus Blvd","2025-10-31 06:51",3,32.2723779,-110.8963541,TRUE,FALSE,TRUE,"S282175592"
-"179","bktspa","Black-throated Sparrow","Amphispiza bilineata","L18462451","Neighborhood","2025-10-31 06:42",4,32.296942,-110.83256,TRUE,FALSE,TRUE,"S282185284"
-"180","bktspa","Black-throated Sparrow","Amphispiza bilineata","L697052","Cave Creek Regional Park","2025-10-31 06:20",1,33.8311845,-112.001034,TRUE,FALSE,FALSE,"S282321211"
-"181","bktspa","Black-throated Sparrow","Amphispiza bilineata","L29360849","DDD Beavers Knoll","2025-10-30 17:45",1,29.196922,-99.750099,TRUE,FALSE,TRUE,"S282201818"
-"182","bktspa","Black-throated Sparrow","Amphispiza bilineata","L35966793","Sabino Vista Hills neighborhood","2025-10-30 17:43",1,32.279368,-110.815178,TRUE,FALSE,TRUE,"S282112713"
-"183","bktspa","Black-throated Sparrow","Amphispiza bilineata","L8384161","Canyon Lake--Acacia Picnic Area","2025-10-30 16:01",2,33.5374345,-111.4326914,TRUE,FALSE,FALSE,"S282111756"
-"184","bktspa","Black-throated Sparrow","Amphispiza bilineata","L373230","Tucson Mountain Park--David Yetman Trail-Camino de Oeste Trailhead","2025-10-30 15:36",1,32.2263561,-111.062863,TRUE,FALSE,FALSE,"S282108985"
-"185","bktspa","Black-throated Sparrow","Amphispiza bilineata","L39465740","Hacienda Del Sol Guest Ranch Resort (restricted access)","2025-10-30 14:07",2,32.307707,-110.913881,TRUE,FALSE,FALSE,"S282202847"
-"186","bktspa","Black-throated Sparrow","Amphispiza bilineata","L289812","Canyon of the Eagles (HOTE 020)","2025-10-30 13:30",1,30.8773,-98.438,TRUE,FALSE,FALSE,"S282081358"
-"187","bktspa","Black-throated Sparrow","Amphispiza bilineata","L1489972","Sonoran Desert Preserve","2025-10-30 13:00",18,33.7499205,-112.089797,TRUE,FALSE,FALSE,"S282801740"
-"188","bktspa","Black-throated Sparrow","Amphispiza bilineata","L4073128","Patagonia Lake dam/spillway area","2025-10-30 12:40",1,31.4891873,-110.8682724,TRUE,FALSE,FALSE,"S282395316"
-"189","bktspa","Black-throated Sparrow","Amphispiza bilineata","L20920014","Round Mountain Dam Number 2","2025-10-30 11:40",4,32.543182,-109.089968,TRUE,FALSE,FALSE,"S282112493"
-"190","bktspa","Black-throated Sparrow","Amphispiza bilineata","L13494290","Oliver Lee Memorial SP--Riparian Nature Trail","2025-10-30 10:50",2,32.748744,-105.9134408,TRUE,FALSE,FALSE,"S282067439"
-"191","bktspa","Black-throated Sparrow","Amphispiza bilineata","L9101671","South Llano River SP--Juniper blind","2025-10-30 10:29",1,30.4451176,-99.7978554,TRUE,FALSE,FALSE,"S282057083"
-"192","bktspa","Black-throated Sparrow","Amphispiza bilineata","L273411","Tucson Bird Alliance Mason Center","2025-10-30 10:05",6,32.3655786,-111.0477639,TRUE,FALSE,FALSE,"S282068339"
-"193","bktspa","Black-throated Sparrow","Amphispiza bilineata","L54610851","South Llano River State Park, Junction US-TX 30.44516, -99.80425","2025-10-30 09:31",5,30.445164,-99.804255,TRUE,FALSE,TRUE,"S282080452"
-"194","bktspa","Black-throated Sparrow","Amphispiza bilineata","L37184738","600 E Saguaro Dr, Benson US-AZ 31.94059, -110.29285","2025-10-30 09:05",1,31.940586,-110.29285,TRUE,FALSE,TRUE,"S282066260"
-"195","bktspa","Black-throated Sparrow","Amphispiza bilineata","L54613411","Saltbush flats, fleur de lis road, 89003, Beatty US-NV 37.04773, -116.70218","2025-10-30 09:04",1,37.047735,-116.702176,TRUE,FALSE,TRUE,"S282093063"
-"196","bktspa","Black-throated Sparrow","Amphispiza bilineata","L54608570","5710 N Sabino Canyon Rd, Tucson US-AZ 32.30985, -110.82253","2025-10-30 08:59",2,32.309849,-110.822527,TRUE,FALSE,TRUE,"S282069347"
-"197","bktspa","Black-throated Sparrow","Amphispiza bilineata","L580481","Mt. Lemmon--Babad Do'ag Vista","2025-10-30 08:36",1,32.30937,-110.721,TRUE,FALSE,FALSE,"S282113332"
-"198","bktspa","Black-throated Sparrow","Amphispiza bilineata","L54642693","U.S. 95 Access Road, Needles, California, US (34.67, -114.63)","2025-10-30 08:00",1,34.670149,-114.6299567,TRUE,FALSE,TRUE,"S282235175"
-"199","bktspa","Black-throated Sparrow","Amphispiza bilineata","L38663810","Lake Pleasant--Bobcat Day Use Area","2025-10-30 07:48",3,33.8509572,-112.2846661,TRUE,FALSE,TRUE,"S282073127"
-"200","bktspa","Black-throated Sparrow","Amphispiza bilineata","L129060","Portal","2025-10-30 07:34",1,31.9136009,-109.1408005,TRUE,FALSE,FALSE,"S282057988"
-"201","bktspa","Black-throated Sparrow","Amphispiza bilineata","L749795","Grasslands between Proctor Rd and Florida Wash","2025-10-30 07:13",4,31.769332,-110.8873272,TRUE,FALSE,FALSE,"S282172803"
-"202","bktspa","Black-throated Sparrow","Amphispiza bilineata","L9213623","Westward Look Wyndham Grand Resort and Spa (restricted access)","2025-10-30 06:52",4,32.3424017,-110.9655996,TRUE,FALSE,FALSE,"S282043563"
-"203","bktspa","Black-throated Sparrow","Amphispiza bilineata","L17641324","Maricopa Trail--Sun Valley Trailhead","2025-10-30 06:51",2,33.6381502,-112.4700022,TRUE,FALSE,FALSE,"S282073433"
-"204","bktspa","Black-throated Sparrow","Amphispiza bilineata","L54629672","White House Canyon Rd, Green Valley US-AZ (31.7924,-110.8808)","2025-10-30 06:48",3,31.792375,-110.880796,TRUE,FALSE,TRUE,"S282172770"
-"205","bktspa","Black-throated Sparrow","Amphispiza bilineata","L128907","Big Bend NP--Rio Grande Village (FWTX 44)","2025-10-29 17:59",1,29.1809226,-102.9557133,TRUE,FALSE,FALSE,"S281982781"
-"206","bktspa","Black-throated Sparrow","Amphispiza bilineata","L7252289","Cactus Springs","2025-10-29 17:01",1,36.5772053,-115.7230067,TRUE,FALSE,FALSE,"S281978955"
-"207","bktspa","Black-throated Sparrow","Amphispiza bilineata","L54463104","McDowell Sonoran Preserve, Scottsdale US-AZ 33.64546, -111.84874","2025-10-29 16:27",3,33.645465,-111.848737,TRUE,FALSE,TRUE,"S281984225"
-"208","bktspa","Black-throated Sparrow","Amphispiza bilineata","L2719426","Fort Clark Springs WT ponds (request key at gate check-in)","2025-10-29 16:25",3,29.2727734,-100.4257679,TRUE,FALSE,FALSE,"S281964783"
-"209","bktspa","Black-throated Sparrow","Amphispiza bilineata","L51885202","Marathon Rd, Alpine US-TX 29.59829, -103.20097","2025-10-29 16:21",2,29.598294,-103.200969,TRUE,FALSE,TRUE,"S281982639"
-"210","bktspa","Black-throated Sparrow","Amphispiza bilineata","L54588542","Sonoran Mountain Preserve, Phoenix US-AZ 33.76815, -112.04617","2025-10-29 14:03",1,33.768154,-112.04617,TRUE,FALSE,TRUE,"S281972280"
-"211","bktspa","Black-throated Sparrow","Amphispiza bilineata","L789151","Apache Lake (Maricopa Co.)","2025-10-29 14:00",2,33.5790159,-111.2566566,TRUE,FALSE,FALSE,"S281964123"
-"212","bktspa","Black-throated Sparrow","Amphispiza bilineata","L54593520","Big Wash Mtn Bike Trail","2025-10-29 13:16",6,32.489436,-110.933338,TRUE,FALSE,TRUE,"S281994759"
-"213","bktspa","Black-throated Sparrow","Amphispiza bilineata","L913088","Fort Lancaster Overlook / Sheffield Rest Area","2025-10-29 12:58",1,30.6780349,-101.6727483,TRUE,FALSE,FALSE,"S281942857"
-"214","bktspa","Black-throated Sparrow","Amphispiza bilineata","L54583833","East Railroad Springs Road, Goldfield US-NV 37.63306, -117.27865","2025-10-29 12:15",1,37.633058,-117.278648,TRUE,FALSE,TRUE,"S281948999"
-"215","bktspa","Black-throated Sparrow","Amphispiza bilineata","L21368934","Tonto National Forest, Mesa US-AZ 33.49505, -111.61688","2025-10-29 11:40",4,33.495045,-111.616883,TRUE,FALSE,TRUE,"S281989885"
-"216","bktspa","Black-throated Sparrow","Amphispiza bilineata","L876716","Bosque del Apache NWR--South Loop (formerly Marsh Loop)","2025-10-29 11:07",1,33.7831424,-106.8928528,TRUE,FALSE,FALSE,"S281948745"
-"217","bktspa","Black-throated Sparrow","Amphispiza bilineata","L54584012","Desert west of N Brahma Rd, Vail","2025-10-29 10:24",1,31.975389,-110.819418,TRUE,FALSE,TRUE,"S281949831"
-"218","bktspa","Black-throated Sparrow","Amphispiza bilineata","L17219558","Yost Escarpment Trail","2025-10-29 10:00",1,32.9289224,-107.0052333,TRUE,FALSE,TRUE,"S281932864"
-"219","bktspa","Black-throated Sparrow","Amphispiza bilineata","L28921574","McDowell Mountain Regional Park--Rowland Campground","2025-10-29 09:02",6,33.693941,-111.734096,TRUE,FALSE,FALSE,"S282167192"
-"220","bktspa","Black-throated Sparrow","Amphispiza bilineata","L1409812","Death Valley NP--Darwin Falls Trail","2025-10-29 09:00",2,36.3204224,-117.522,TRUE,FALSE,FALSE,"S282619556"
-"221","bktspa","Black-throated Sparrow","Amphispiza bilineata","L28066181","mcgrady wash, Ajo, Arizona, US (32.381, -112.903)","2025-10-29 08:50",5,32.3810165,-112.9027497,TRUE,FALSE,TRUE,"S281943219"
-"222","bktspa","Black-throated Sparrow","Amphispiza bilineata","L1465453","Argus Mtns.--Indian Joe Canyon","2025-10-29 08:41",1,35.8263156,-117.3901523,TRUE,FALSE,FALSE,"S281955920"
-"223","bktspa","Black-throated Sparrow","Amphispiza bilineata","L1911920","Indian Canyons--Palm Canyon","2025-10-29 08:23",1,33.7379378,-116.5386343,TRUE,FALSE,FALSE,"S281938312"
-"224","bktspa","Black-throated Sparrow","Amphispiza bilineata","L5219326","Anza Trail--Tubac kiosk area","2025-10-29 07:23",2,31.6047365,-111.0429811,TRUE,FALSE,FALSE,"S281931378"
-"225","bktspa","Black-throated Sparrow","Amphispiza bilineata","L3197842","Highway Tank","2025-10-29 06:53",2,32.3265519,-112.7879405,TRUE,FALSE,FALSE,"S281925521"
-"226","bktspa","Black-throated Sparrow","Amphispiza bilineata","L48598837","Casa de Quamme","2025-10-29 06:16",4,32.1146146,-110.8525547,TRUE,FALSE,TRUE,"S281901164"
-"227","bktspa","Black-throated Sparrow","Amphispiza bilineata","L2593129","Lower Rio Grande Valley NWR--Yturria Tract","2025-10-28 18:33",6,26.2680954,-98.5357557,TRUE,FALSE,FALSE,"S282116478"
-"228","bktspa","Black-throated Sparrow","Amphispiza bilineata","L8110430","Phoenix Mountains Preserve--40th Street trailhead","2025-10-28 17:28",1,33.567723,-111.9967697,TRUE,FALSE,FALSE,"S282744527"
-"229","bktspa","Black-throated Sparrow","Amphispiza bilineata","L8415815","Pima Canyon Trailhead","2025-10-28 17:26",1,32.3530314,-110.9480878,TRUE,FALSE,FALSE,"S281923774"
-"230","bktspa","Black-throated Sparrow","Amphispiza bilineata","L48010606","Franklin Mountains SP—McKelligon Canyon","2025-10-28 15:52",1,31.8423164,-106.4886003,TRUE,FALSE,FALSE,"S281839964"
-"231","bktspa","Black-throated Sparrow","Amphispiza bilineata","L774996","Rillito River Park--Columbus Weed Patch","2025-10-28 14:53",5,32.2732364,-110.9032059,TRUE,FALSE,FALSE,"S281840596"
-"232","bktspa","Black-throated Sparrow","Amphispiza bilineata","L209809","Joshua Tree NP--Barker Dam area","2025-10-28 14:17",1,34.0309,-116.1463,TRUE,FALSE,FALSE,"S281842817"
-"233","bktspa","Black-throated Sparrow","Amphispiza bilineata","L357429","Scottsdale--Chaparral Park","2025-10-28 14:12",NA,33.5110032,-111.906631,TRUE,FALSE,FALSE,"S282139551"
-"234","bktspa","Black-throated Sparrow","Amphispiza bilineata","L29031568","21715 Dolan Creek Road, Del Rio, Texas, US (29.94, -100.97) Park Host Site","2025-10-28 14:10",1,29.9396528,-100.9701976,TRUE,FALSE,TRUE,"S281823367"
-"235","bktspa","Black-throated Sparrow","Amphispiza bilineata","L449853","Chihuahuan Desert Research Institute (FWTX 21)","2025-10-28 12:49",1,30.5380904,-103.8373661,TRUE,FALSE,FALSE,"S281830098"
-"236","bktspa","Black-throated Sparrow","Amphispiza bilineata","L2634028","Enchanted Rock SNA (Gillespie Co)","2025-10-28 10:42",2,30.4958792,-98.8198864,TRUE,FALSE,FALSE,"S281817229"
-"237","bktspa","Black-throated Sparrow","Amphispiza bilineata","L14915725","Knobs Summit","2025-10-28 10:30",2,30.3081438,-98.5986909,TRUE,FALSE,TRUE,"S281903187"
-"238","bktspa","Black-throated Sparrow","Amphispiza bilineata","L23920885","Spring Creek/Oak Creek Valley","2025-10-28 09:25",1,34.744123,-111.9148223,TRUE,FALSE,TRUE,"S281821212"
-"239","bktspa","Black-throated Sparrow","Amphispiza bilineata","L482942","Pace Bend Park","2025-10-28 09:23",3,30.4417921,-98.0358982,TRUE,FALSE,FALSE,"S281808596"
-"240","bktspa","Black-throated Sparrow","Amphispiza bilineata","L270969","Catalina Regional Park--pond","2025-10-28 09:22",3,32.461507,-110.9046225,TRUE,FALSE,FALSE,"S281851562"
-"241","bktspa","Black-throated Sparrow","Amphispiza bilineata","L677603","Whitehouse Canyon Road","2025-10-28 09:05",2,31.8156935,-110.9143853,TRUE,FALSE,FALSE,"S282741796"
-"242","bktspa","Black-throated Sparrow","Amphispiza bilineata","L1361443","McDowell Sonoran Preserve--Brown's Ranch Area","2025-10-28 08:52",6,33.7800123,-111.8411449,TRUE,FALSE,FALSE,"S281804360"
-"243","bktspa","Black-throated Sparrow","Amphispiza bilineata","L4824842","Big Bend NP--Sotol Vista Overlook","2025-10-28 08:51",3,29.2145745,-103.3763541,TRUE,FALSE,FALSE,"S281774268"
-"244","bktspa","Black-throated Sparrow","Amphispiza bilineata","L589669","City of Rocks SP","2025-10-28 08:21",10,32.5910812,-107.9753494,TRUE,FALSE,FALSE,"S281798648"
-"245","bktspa","Black-throated Sparrow","Amphispiza bilineata","L13526336","Home  back porch, Tonto Basin, AZ (33.8606,-111.2939)","2025-10-28 08:00",4,33.860554,-111.293872,TRUE,FALSE,TRUE,"S282547285"
-"246","bktspa","Black-throated Sparrow","Amphispiza bilineata","L283468","South Llano River SP (HOTW 093)","2025-10-28 07:30",2,30.4391651,-99.8128617,TRUE,FALSE,FALSE,"S281988445"
-"247","bktspa","Black-throated Sparrow","Amphispiza bilineata","L128914","Portal--Big Thicket","2025-10-28 07:28",2,31.9204006,-109.1275024,TRUE,FALSE,FALSE,"S281794991"
-"248","bktspa","Black-throated Sparrow","Amphispiza bilineata","L4003980","Faranuf Trail (private), Portal","2025-10-28 07:00",1,31.9143939,-109.1290587,TRUE,FALSE,TRUE,"S281809771"
-"249","bktspa","Black-throated Sparrow","Amphispiza bilineata","L54551567","5710 N Sabino Canyon Rd, Tucson US-AZ 32.30973, -110.82337","2025-10-28 06:54",4,32.309727,-110.823366,TRUE,FALSE,TRUE,"S281788340"
-"250","bktspa","Black-throated Sparrow","Amphispiza bilineata","L5203823","Little Cat Mountain loop trail","2025-10-28 06:48",3,32.1910127,-111.0758972,TRUE,FALSE,TRUE,"S281787478"
-"251","bktspa","Black-throated Sparrow","Amphispiza bilineata","L54536289","Esperero Trail, Tucson US-AZ 32.30919, -110.82031","2025-10-27 15:47",2,32.309195,-110.820314,TRUE,FALSE,TRUE,"S281714310"
-"252","bktspa","Black-throated Sparrow","Amphispiza bilineata","L54163483","4972 N Ventana Ridge Pl, Tucson US-AZ (32.2979,-110.8312)","2025-10-27 15:25",5,32.297925,-110.831164,TRUE,FALSE,TRUE,"S281712768"
-"253","bktspa","Black-throated Sparrow","Amphispiza bilineata","L13830170","Davis Mountains SP—Indian Lodge","2025-10-27 11:14",3,30.5926688,-103.9434099,TRUE,FALSE,FALSE,"S281674287"
-"254","bktspa","Black-throated Sparrow","Amphispiza bilineata","L24383934","5210 E Calle Barril, Tucson US-AZ 32.29441, -110.88131","2025-10-27 10:30",2,32.294413,-110.881305,TRUE,FALSE,TRUE,"S281926644"
-"255","bktspa","Black-throated Sparrow","Amphispiza bilineata","L2267302","McDowell Sonoran Preserve--Lost Dog Wash Area","2025-10-27 10:05",15,33.6023094,-111.8108471,TRUE,FALSE,FALSE,"S281687805"
-"256","bktspa","Black-throated Sparrow","Amphispiza bilineata","L624897","Michael Skinner's Yard","2025-10-27 10:00",1,32.2457687,-111.0678801,TRUE,FALSE,TRUE,"S281789650"
-"257","bktspa","Black-throated Sparrow","Amphispiza bilineata","L499773","Cook's Slough Sanctuary (HOTW 025)","2025-10-27 09:26",2,29.1873567,-99.7886572,TRUE,FALSE,FALSE,"S281676198"
-"258","bktspa","Black-throated Sparrow","Amphispiza bilineata","L9974269","Lake Pleasant--Castle Creek (Four Lane) Boat Ramp (Yavapai Co.)","2025-10-27 09:24",1,33.9059846,-112.3090083,TRUE,FALSE,FALSE,"S281663632"
-"259","bktspa","Black-throated Sparrow","Amphispiza bilineata","L690063","Embudo Canyon","2025-10-27 08:42",1,35.0990608,-106.4779472,TRUE,FALSE,FALSE,"S281674073"
-"260","bktspa","Black-throated Sparrow","Amphispiza bilineata","L23144303","Quebradas Back Country Byway, San Antonio US-NM 34.03594, -106.78001","2025-10-27 08:33",4,34.035935,-106.78001,TRUE,FALSE,TRUE,"S281695165"
-"261","bktspa","Black-throated Sparrow","Amphispiza bilineata","L18495857","Turkey Barn Lane","2025-10-27 08:20",1,30.887998,-99.625703,TRUE,FALSE,TRUE,"S281637407"
-"262","bktspa","Black-throated Sparrow","Amphispiza bilineata","L54518488","Neighborhood rd Saddle Ridge","2025-10-27 08:16",1,30.644715,-98.122455,TRUE,FALSE,TRUE,"S281627378"
-"263","bktspa","Black-throated Sparrow","Amphispiza bilineata","L4033827","Tucson Mountains--Sweetwater Preserve","2025-10-27 08:02",4,32.2790785,-111.0819349,TRUE,FALSE,FALSE,"S281680733"
-"264","bktspa","Black-throated Sparrow","Amphispiza bilineata","L18740128","South Mountain Park--Bursera Trailhead","2025-10-27 07:39",1,33.303143,-112.101264,TRUE,FALSE,FALSE,"S281659353"
-"265","bktspa","Black-throated Sparrow","Amphispiza bilineata","L1889862","Saguaro NP--East--Douglas Spring Trail","2025-10-27 07:20",3,32.2348945,-110.6854404,TRUE,FALSE,FALSE,"S281654917"
-"266","bktspa","Black-throated Sparrow","Amphispiza bilineata","L727924","Sonora- Will Carver Pk","2025-10-26 16:55",1,30.5810315,-100.6473827,TRUE,FALSE,FALSE,"S281550073"
-"267","bktspa","Black-throated Sparrow","Amphispiza bilineata","L21698412","Bobcat Day Use Area—Lake Pleasant Regional Park","2025-10-26 16:20",2,33.850955,-112.285147,TRUE,FALSE,TRUE,"S281569464"
-"268","bktspa","Black-throated Sparrow","Amphispiza bilineata","L54504112","11438 Arizona 181, Willcox, Arizona, US (32.007, -109.425)","2025-10-26 15:45",2,32.0068223,-109.425033,TRUE,FALSE,TRUE,"S281558409"
-"269","bktspa","Black-throated Sparrow","Amphispiza bilineata","L13892021","Crosscut Trailhead","2025-10-26 14:17",14,33.4714468,-111.4693669,TRUE,FALSE,FALSE,"S281588592"
-"270","bktspa","Black-throated Sparrow","Amphispiza bilineata","L129123","Portal--Willow Tank","2025-10-26 14:00",1,31.8145008,-109.0595016,TRUE,FALSE,FALSE,"S281555015"
-"271","bktspa","Black-throated Sparrow","Amphispiza bilineata","L387458","Beaver Dam Slope (incl. Lytle Ranch Rd)","2025-10-26 13:41",2,37.1070121,-113.9810085,TRUE,FALSE,FALSE,"S281529454"
-"272","bktspa","Black-throated Sparrow","Amphispiza bilineata","L11229243","Our 'Habitat at Home'","2025-10-26 12:35",1,32.3066877,-110.9521783,TRUE,FALSE,TRUE,"S281530647"
-"273","bktspa","Black-throated Sparrow","Amphispiza bilineata","L3959912","Organ Pipe Cactus NM--Main Campground & Sewage Ponds","2025-10-26 11:39",1,31.93938,-112.811074,TRUE,FALSE,FALSE,"S281720854"
-"274","bktspa","Black-throated Sparrow","Amphispiza bilineata","L54515965","FM-170, Presidio US-TX 29.29659, -103.94382","2025-10-26 11:26",2,29.296594,-103.943816,TRUE,FALSE,TRUE,"S281613033"
-"275","bktspa","Black-throated Sparrow","Amphispiza bilineata","L54492043","22830 North 130th Street, Scottsdale, Arizona, US (33.694, -111.802)","2025-10-26 10:57",2,33.6941341,-111.8017375,TRUE,FALSE,TRUE,"S281504701"
-"276","bktspa","Black-throated Sparrow","Amphispiza bilineata","L169112","Hassayampa River Preserve","2025-10-26 10:46",1,33.9333419,-112.6946297,TRUE,FALSE,FALSE,"S281674447"
-"277","bktspa","Black-throated Sparrow","Amphispiza bilineata","L1412850","Gila NF--Confluence of Mogollon Creek and Gila River","2025-10-26 10:27",1,33.0417513,-108.5304444,TRUE,FALSE,FALSE,"S281563725"
-"278","bktspa","Black-throated Sparrow","Amphispiza bilineata","L21579966","McDowell Sonoran Preserve, Scottsdale US-AZ 33.76990, -111.84056","2025-10-26 10:14",2,33.769899,-111.840557,TRUE,FALSE,TRUE,"S281511103"
-"279","bktspa","Black-throated Sparrow","Amphispiza bilineata","L299012","Oracle State Park","2025-10-26 10:04",2,32.6083177,-110.7335132,TRUE,FALSE,FALSE,"S281581217"
-"280","bktspa","Black-throated Sparrow","Amphispiza bilineata","L54491763","Lost Goldmine East Trailhead, Gold Canyon, AZ","2025-10-26 09:50",7,33.392039,-111.353793,TRUE,FALSE,TRUE,"S281503424"
-"281","bktspa","Black-throated Sparrow","Amphispiza bilineata","L1010763","364 Leah Lane","2025-10-26 09:40",2,32.7586056,-109.0881014,TRUE,FALSE,TRUE,"S281508780"
-"282","bktspa","Black-throated Sparrow","Amphispiza bilineata","L129091","Seminole Canyon SP (HOTE 011)","2025-10-26 09:39",6,29.6935703,-101.3185787,TRUE,FALSE,FALSE,"S281519293"
-"283","bktspa","Black-throated Sparrow","Amphispiza bilineata","L54481437","Neighborhood roads","2025-10-26 09:25",3,30.629412,-98.130413,TRUE,FALSE,TRUE,"S281458756"
-"284","bktspa","Black-throated Sparrow","Amphispiza bilineata","L54493462","Barksdale Road Northeast, Deming, New Mexico, US (32.445, -107.363)","2025-10-26 08:54",1,32.4452945,-107.362948,TRUE,FALSE,TRUE,"S281510817"
-"285","bktspa","Black-throated Sparrow","Amphispiza bilineata","L276694","Valley of Fires Recreation Area","2025-10-26 08:22",3,33.6796452,-105.9244068,TRUE,FALSE,FALSE,"S281496494"
-"286","bktspa","Black-throated Sparrow","Amphispiza bilineata","L387879","Morgan City Wash","2025-10-26 08:21",1,33.8349181,-112.276926,TRUE,FALSE,FALSE,"S281549396"
-"287","bktspa","Black-throated Sparrow","Amphispiza bilineata","L8501766","Amistad NRA--Diablo East Boat Ramp and Marina","2025-10-26 08:20",4,29.471531,-101.013131,TRUE,FALSE,FALSE,"S281518355"
-"288","bktspa","Black-throated Sparrow","Amphispiza bilineata","L54491165","14280 West Mile Wide Road, Marana, Arizona, US (32.248, -111.264)","2025-10-26 08:11",1,32.248144,-111.26446,TRUE,FALSE,TRUE,"S281501495"
-"289","bktspa","Black-throated Sparrow","Amphispiza bilineata","L54494789","Parque South Mountain, Phoenix US-AZ 33.33241, -112.01974","2025-10-26 08:05",2,33.332408,-112.019743,TRUE,FALSE,TRUE,"S281516250"
-"290","bktspa","Black-throated Sparrow","Amphispiza bilineata","L36757752","La Perla Riverfront","2025-10-26 08:04",2,27.156748,-99.431547,TRUE,FALSE,TRUE,"S281539782"
-"291","bktspa","Black-throated Sparrow","Amphispiza bilineata","L40318555","McDowell Mountain Regional Park--North Trail","2025-10-26 08:03",7,33.7191996,-111.6965389,TRUE,FALSE,FALSE,"S281491058"
-"292","bktspa","Black-throated Sparrow","Amphispiza bilineata","L423815","Whitewater Preserve","2025-10-26 08:00",1,33.9887687,-116.6559255,TRUE,FALSE,FALSE,"S281584808"
-"293","bktspa","Black-throated Sparrow","Amphispiza bilineata","L1838049","Santa Ana River at Greenspot Rd.","2025-10-26 07:50",1,34.0985517,-117.1172389,TRUE,TRUE,FALSE,"S281496646"
-"294","bktspa","Black-throated Sparrow","Amphispiza bilineata","L387543","Papago Park","2025-10-26 06:50",4,33.4564,-111.95,TRUE,FALSE,FALSE,"S281760558"
-"295","bktspa","Black-throated Sparrow","Amphispiza bilineata","L2637269","Horseshoe Reservoir (Maricopa County)","2025-10-26 06:30",6,33.9871393,-111.7210436,TRUE,FALSE,FALSE,"S281567123"
-"296","bktspa","Black-throated Sparrow","Amphispiza bilineata","L54492010","Organ Pipe Cactus NM--Growler Wash SW of Bates Well","2025-10-26 06:24",8,32.163519,-112.961564,TRUE,FALSE,TRUE,"S281504564"
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
+"1","hrshaw","Harris's Hawk","Parabuteo unicinctus","L361434","Dixieland Park, Harlingen","2025-11-05 17:12",2,26.1659152,-97.7168655,TRUE,FALSE,FALSE,"S283058528",NA
+"2","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54826422","New Carmen Ave, Brownsville US-TX 26.01036, -97.57037","2025-11-05 17:09",1,26.010358,-97.570366,TRUE,FALSE,TRUE,"S283056198",NA
+"3","hrshaw","Harris's Hawk","Parabuteo unicinctus","L246727","Anzalduas Park (LTC 068)","2025-11-05 16:40",1,26.1384105,-98.3327866,TRUE,FALSE,FALSE,"S283053501",NA
+"4","hrshaw","Harris's Hawk","Parabuteo unicinctus","L273764","Hugh Ramsey Park (Harlingen Arroyo Colorado) WBC (LTC 026)","2025-11-05 16:28",1,26.1857402,-97.6641657,TRUE,FALSE,FALSE,"S283058511",NA
+"5","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54825379","15319–15403 Jimenez Rd, San Benito US-TX 26.08864, -97.77782","2025-11-05 16:17",1,26.088643,-97.77782,TRUE,FALSE,TRUE,"S283050792",NA
+"6","hrshaw","Harris's Hawk","Parabuteo unicinctus","L18539716","Madero Pond","2025-11-05 16:06",2,26.168058,-98.329695,TRUE,FALSE,FALSE,"S283049825",NA
+"7","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54824755","28690 Rangerville Rd, Harlingen US-TX 26.14323, -97.71809","2025-11-05 15:51",1,26.143227,-97.718094,TRUE,FALSE,TRUE,"S283047560",NA
+"8","hrshaw","Harris's Hawk","Parabuteo unicinctus","L129065","Resaca de la Palma SP WBC (Brownsville) (LTC 048)","2025-11-05 15:00",4,25.9965839,-97.5690513,TRUE,FALSE,FALSE,"S283056550",NA
+"9","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54823587","New Carmen Ave, Brownsville US-TX 26.01544, -97.56975","2025-11-05 14:58",1,26.015436,-97.569748,TRUE,FALSE,TRUE,"S283041955",NA
+"10","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54823490","29628 SH-100, San Benito US-TX 26.07748, -97.54723","2025-11-05 14:53",1,26.077475,-97.547226,TRUE,FALSE,TRUE,"S283041507",NA
+"11","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54823541","6292–6366 FM-1732, Brownsville US-TX 26.01948, -97.58437","2025-11-05 14:52",1,26.019476,-97.584371,TRUE,FALSE,TRUE,"S283041737",NA
+"12","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54823384","3308 Faoulty Drive, Harlingen, Texas, US (26.191, -97.656)","2025-11-05 14:50",1,26.190953,-97.6559993,TRUE,FALSE,TRUE,"S283041022",NA
+"13","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54822718","10405 U S Military Highway 281, Brownsville, Texas, US (26.018, -97.609)","2025-11-05 14:16",1,26.0180201,-97.6087662,TRUE,FALSE,TRUE,"S283037482",NA
+"14","hrshaw","Harris's Hawk","Parabuteo unicinctus","L2766420","San Benito--Rice Tract Oasis (Barreda Garden rd. x Rice Tract rd.)","2025-11-05 14:05",1,26.0796814,-97.5815105,TRUE,FALSE,FALSE,"S283050432",NA
+"15","hrshaw","Harris's Hawk","Parabuteo unicinctus","L5120106","Cameron Co.--CR1599","2025-11-05 13:42",1,26.2852195,-97.6587099,TRUE,FALSE,FALSE,"S283036929",NA
+"16","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1850000","San Juan Wetlands","2025-11-05 13:32",1,26.1606244,-98.157516,TRUE,FALSE,FALSE,"S283045379",NA
+"17","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1210076","McAllen--Parakeet roost (10th Str. N&S of Trenton rd.)","2025-11-05 13:01",2,26.2687567,-98.2188574,TRUE,FALSE,FALSE,"S283030045",NA
+"18","hrshaw","Harris's Hawk","Parabuteo unicinctus","L2222304","Cameron Co.--TX100 (E. Ocean Blvd.)","2025-11-05 12:35",1,26.0737452,-97.3741007,TRUE,FALSE,FALSE,"S283027349",NA
+"19","hrshaw","Harris's Hawk","Parabuteo unicinctus","L2431927","San Simon","2025-11-05 12:25",1,32.26372,-109.2040372,TRUE,FALSE,TRUE,"S283034728",NA
+"20","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54820341","78870, Knippa US-TX 29.38001, -99.67165","2025-11-05 12:19",4,29.380013,-99.671648,TRUE,FALSE,TRUE,"S283025470",NA
+"21","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1312741","Buena Vista Dr.--b/w Old Port Dr./CR350 & Ocean Blvd./CR100","2025-11-05 11:57",5,26.1078935,-97.3495102,TRUE,FALSE,FALSE,"S283038753",NA
+"22","hrshaw","Harris's Hawk","Parabuteo unicinctus","L259855","Estero Llano Grande SP WBC (LTC 054)","2025-11-05 11:51",1,26.1268335,-97.9578167,TRUE,FALSE,FALSE,"S283058965",NA
+"23","hrshaw","Harris's Hawk","Parabuteo unicinctus","L283726","South Padre Is.--WBC/Conv. Center/Laguna Madre Trail (LTC 035)","2025-11-05 11:51",1,26.1400912,-97.1748233,TRUE,FALSE,FALSE,"S283052689",NA
+"24","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54819655","Auto selected 26.08055, -97.58121","2025-11-05 11:48",2,26.080555,-97.581205,TRUE,FALSE,TRUE,"S283021934",NA
+"25","hrshaw","Harris's Hawk","Parabuteo unicinctus","L17759069","South Texas Ecotourism Center","2025-11-05 11:26",1,26.09276,-97.29624,TRUE,FALSE,FALSE,"S283038540",NA
+"26","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54819362","Kleberg Co., US-77","2025-11-05 11:25",1,27.307816,-97.817949,TRUE,FALSE,TRUE,"S283020394",NA
+"27","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54819042","E Ocean Blvd, Laguna Vista US-TX 26.08531, -97.26888","2025-11-05 11:22",1,26.085314,-97.268883,TRUE,FALSE,TRUE,"S283018612",NA
+"28","hrshaw","Harris's Hawk","Parabuteo unicinctus","L129085","Santa Ana NWR (LTC 059)","2025-11-05 11:20",1,26.0813003,-98.1351399,TRUE,FALSE,FALSE,"S283037323",NA
+"29","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54818174","E 14th St, Port Isabel US-TX 26.05520, -97.23810","2025-11-05 10:44",1,26.055199,-97.238102,TRUE,FALSE,TRUE,"S283014119",NA
+"30","hrshaw","Harris's Hawk","Parabuteo unicinctus","L770565","South Padre Is.--Birding and Nature Center","2025-11-05 10:39",1,26.1374628,-97.1739367,TRUE,FALSE,FALSE,"S283031429",NA
+"31","hrshaw","Harris's Hawk","Parabuteo unicinctus","L229841","Agua Nueva Park (was Roger Road WRF)","2025-11-05 10:35",1,32.2804902,-111.0272755,TRUE,FALSE,FALSE,"S283048778",NA
+"32","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54795350","1851–1899 N 72nd Pl, Scottsdale US-AZ (33.4685,-111.9249)","2025-11-05 10:16",1,33.468523,-111.924929,TRUE,FALSE,TRUE,"S283018433",NA
+"33","hrshaw","Harris's Hawk","Parabuteo unicinctus","L23644307","USFWS — La Gloria (No Public Access)","2025-11-05 10:09",1,26.060397,-97.808738,TRUE,FALSE,TRUE,"S283036747",NA
+"34","hrshaw","Harris's Hawk","Parabuteo unicinctus","L190217","Evelyn Hallman Park","2025-11-05 10:05",3,33.4480905,-111.9371943,TRUE,FALSE,FALSE,"S283051270",NA
+"35","hrshaw","Harris's Hawk","Parabuteo unicinctus","L17888936","Laguna Atascosa NWR--Pelican Lake","2025-11-05 10:03",1,26.2013894,-97.3358761,TRUE,FALSE,FALSE,"S283019886",NA
+"36","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54816654","37537–37865 E Ocean Blvd, Brownsville US-TX 26.06758, -97.41933","2025-11-05 09:42",3,26.067581,-97.419331,TRUE,FALSE,TRUE,"S283005740",NA
+"37","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1495267","King Ranch--Norias Division--Center/HQ area","2025-11-05 09:21",4,26.7721022,-97.7013494,TRUE,FALSE,FALSE,"S283024606",NA
+"38","hrshaw","Harris's Hawk","Parabuteo unicinctus","L514799","Palo Alto Battlefield NHP (LTC 031)","2025-11-05 09:15",2,26.0191488,-97.4760676,TRUE,FALSE,FALSE,"S283002656",NA
+"39","hrshaw","Harris's Hawk","Parabuteo unicinctus","L29863056","West Magee Road","2025-11-05 09:05",1,32.3514809,-111.007217,TRUE,FALSE,TRUE,"S283014596",NA
+"40","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54824304","Palo Alto Private Property Inholding","2025-11-05 08:43",1,26.0046227,-97.4641176,TRUE,FALSE,TRUE,"S283045281",NA
+"41","hrshaw","Harris's Hawk","Parabuteo unicinctus","L299012","Oracle State Park","2025-11-05 08:29",2,32.6083177,-110.7335132,TRUE,FALSE,FALSE,"S283028221",NA
+"42","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54339395","810 La Cuchilla Street, La Grulla, Texas, US (26.267, -98.66)","2025-11-05 08:22",1,26.2674525,-98.6596338,TRUE,FALSE,TRUE,"S283011427",NA
+"43","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54816085","3802 Farm to Market Road 511, Brownsville, Texas, US (26.002, -97.466)","2025-11-05 08:07",1,26.0020518,-97.4661577,TRUE,FALSE,TRUE,"S283002778",NA
+"44","hrshaw","Harris's Hawk","Parabuteo unicinctus","L3322724","Cameron Co.--TX100--Aplomado Viewing Area","2025-11-05 07:48",2,26.0913939,-97.3272438,TRUE,FALSE,FALSE,"S282992860",NA
+"45","hrshaw","Harris's Hawk","Parabuteo unicinctus","L389757","Old Port Isabel Rd","2025-11-05 07:42",3,26.0057269,-97.4183462,TRUE,FALSE,FALSE,"S283013267",NA
+"46","hrshaw","Harris's Hawk","Parabuteo unicinctus","L45712116","Bayside Drive, Los Fresnos, Texas, US (26.182, -97.35)","2025-11-05 07:42",2,26.1820317,-97.3495183,TRUE,FALSE,TRUE,"S283008309",NA
+"47","hrshaw","Harris's Hawk","Parabuteo unicinctus","L267156","Danny Lopez Park (formerly Columbus Park)","2025-11-05 07:41",2,32.2856814,-111.0346556,TRUE,FALSE,FALSE,"S283015989",NA
+"48","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54824741","27306–27308 US-59, Bruni US-TX 27.77538, -98.84353","2025-11-05 07:40",1,27.775375,-98.843529,TRUE,FALSE,TRUE,"S283047474",NA
+"49","hrshaw","Harris's Hawk","Parabuteo unicinctus","L999878","Northsight Park","2025-11-05 07:35",3,33.6122247,-111.8988848,TRUE,FALSE,FALSE,"S283009349",NA
+"50","hrshaw","Harris's Hawk","Parabuteo unicinctus","L144858","Riparian Preserve at Gilbert Water Ranch","2025-11-05 07:32",1,33.3614502,-111.7339478,TRUE,FALSE,FALSE,"S283020544",NA
+"51","hrshaw","Harris's Hawk","Parabuteo unicinctus","L4935482","Rio Vista Community Park/Riparian Area","2025-11-05 07:30",1,33.615206,-112.246615,TRUE,FALSE,FALSE,"S283043480",NA
+"52","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54813030","STRIPES","2025-11-05 07:26",3,25.962371,-97.42446,TRUE,FALSE,TRUE,"S282984749",NA
+"53","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54818190","Danny Lopez Park, Tucson US-AZ 32.28348, -111.03548","2025-11-05 07:22",1,32.28348,-111.03548,TRUE,FALSE,TRUE,"S283014238",NA
+"54","hrshaw","Harris's Hawk","Parabuteo unicinctus","L288854","Laguna Atascosa NWR--Bayside Drive","2025-11-05 07:15",1,26.2163251,-97.3425493,TRUE,FALSE,FALSE,"S282986307",NA
+"55","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54825618","Hwy 100 And Buena Vista Boulevard","2025-11-05 07:15",3,26.0904038,-97.3487826,TRUE,FALSE,TRUE,"S283052025",NA
+"56","hrshaw","Harris's Hawk","Parabuteo unicinctus","L723082","Laguna Atascosa NWR--Buena Vista Blvd. (within refuge)","2025-11-05 07:10",2,26.2112414,-97.3515916,TRUE,FALSE,FALSE,"S283024291",NA
+"57","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1126444","Laguna Seca Ranch","2025-11-05 07:08",7,26.5118247,-98.1917667,TRUE,FALSE,FALSE,"S283009132",NA
+"58","hrshaw","Harris's Hawk","Parabuteo unicinctus","L3153546","Rio Grande River--by boat N. of Anzalduas Dam (USA side)","2025-11-05 07:00",1,26.1619478,-98.3328885,TRUE,FALSE,FALSE,"S283029465",NA
+"59","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54821691","King Ranch Visitor Center","2025-11-05 07:00",8,26.7196717,-97.6153278,TRUE,FALSE,TRUE,"S283026402",NA
+"60","hrshaw","Harris's Hawk","Parabuteo unicinctus","L507911","King Ranch--Norias Division (Kenedy Co.)","2025-11-05 06:47",2,26.7876524,-97.7707243,TRUE,FALSE,FALSE,"S283026820",NA
+"61","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54821529","harlingen Convention Center Parking lot","2025-11-05 06:30",1,26.1991125,-97.7238607,TRUE,FALSE,TRUE,"S283032094",NA
+"62","hrshaw","Harris's Hawk","Parabuteo unicinctus","L16865025","Rio Grande Valley Birding Festival HQ / Harlingen Convention Center area","2025-11-05 06:25",1,26.1988943,-97.7245322,TRUE,FALSE,FALSE,"S282980846",NA
+"63","hrshaw","Harris's Hawk","Parabuteo unicinctus","L2415560","Cameron Co.--TX100 Resacas","2025-11-05 06:21",1,26.0795175,-97.568357,TRUE,FALSE,FALSE,"S283033073",NA
+"64","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1023607","Bejarano McFarland Memorial Park","2025-11-04 17:44",1,26.0806209,-97.2511321,TRUE,FALSE,FALSE,"S282923450",NA
+"65","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54800650","IH-69E S, Combes US-TX (26.2533,-97.7301)","2025-11-04 17:38",1,26.253318,-97.730149,TRUE,FALSE,TRUE,"S282923023",NA
+"66","hrshaw","Harris's Hawk","Parabuteo unicinctus","L816225","Harlingen Convention Center","2025-11-04 17:15",1,26.1996901,-97.708261,TRUE,FALSE,FALSE,"S282924027",NA
+"67","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1670263","San Benito--Rice Tract Road","2025-11-04 17:14",1,26.0790261,-97.5886559,TRUE,FALSE,FALSE,"S283010431",NA
+"68","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1650652","Tempe Town Lake--Pedestrian Bridge","2025-11-04 15:40",2,33.4334758,-111.9486773,TRUE,FALSE,FALSE,"S283023829",NA
+"69","hrshaw","Harris's Hawk","Parabuteo unicinctus","L41119390","Bentsen-Rio Grande Valley SP--Kingfisher Overlook","2025-11-04 15:21",2,26.1787168,-98.3866459,TRUE,FALSE,FALSE,"S282920631",NA
+"70","hrshaw","Harris's Hawk","Parabuteo unicinctus","L6087334","Raymondville Memorial Park Cemetery","2025-11-04 15:19",2,26.4840633,-97.751727,TRUE,FALSE,FALSE,"S282922072",NA
+"71","hrshaw","Harris's Hawk","Parabuteo unicinctus","L2125666","King Ranch Visitor Center","2025-11-04 15:17",2,27.5199373,-97.8960156,TRUE,FALSE,FALSE,"S282908516",NA
+"72","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54797026","US-281 S, Alice US-TX 27.68962, -98.07936","2025-11-04 14:57",1,27.689618,-98.07936,TRUE,FALSE,TRUE,"S282906090",NA
+"73","hrshaw","Harris's Hawk","Parabuteo unicinctus","L715412","Higley and Ocotillo Rds. ponds","2025-11-04 14:44",1,33.2533311,-111.7181683,TRUE,FALSE,FALSE,"S282917117",NA
+"74","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54803084","1400–1426 W Ina Rd, Tucson US-AZ (32.3372,-110.9960)","2025-11-04 14:38",1,32.337213,-110.996001,TRUE,FALSE,TRUE,"S282933985",NA
+"75","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54795910","FM-624, Tilden US-TX 28.10596, -98.48499","2025-11-04 14:10",2,28.105961,-98.484988,TRUE,FALSE,TRUE,"S282900888",NA
+"76","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54795698","FM-624, Tilden US-TX 28.17670, -98.70199","2025-11-04 13:54",4,28.176704,-98.701987,TRUE,FALSE,TRUE,"S282899863",NA
+"77","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1524491","Santa Margarita Ranch (La Salle Co.)(now closed to public)","2025-11-04 13:40",3,28.1284142,-99.044019,TRUE,FALSE,FALSE,"S282897732",NA
+"78","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54794851","10943–10963 RM-624, Cotulla US-TX 28.32256, -99.09879","2025-11-04 13:24",1,28.322561,-99.098794,TRUE,FALSE,TRUE,"S282895809",NA
+"79","hrshaw","Harris's Hawk","Parabuteo unicinctus","L16885482","Frontage Road Pond","2025-11-04 13:00",2,26.2816532,-97.7550344,TRUE,FALSE,TRUE,"S282897275",NA
+"80","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54802347","Hugh Ramsey Nature Park, Harlingen US-TX (26.1863,-97.6625)","2025-11-04 12:36",1,26.186318,-97.662482,TRUE,FALSE,TRUE,"S282930898",NA
+"81","hrshaw","Harris's Hawk","Parabuteo unicinctus","L2848303","Kenedy Co.--US77 parking area","2025-11-04 12:27",1,26.695577,-97.7680555,TRUE,FALSE,FALSE,"S282941892",NA
+"82","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54793584","17151–17285 FM-117, Dilley US-TX 28.80747, -99.37979","2025-11-04 12:25",1,28.80747,-99.379789,TRUE,FALSE,TRUE,"S282890092",NA
+"83","hrshaw","Harris's Hawk","Parabuteo unicinctus","L2392487","Laguna Vista Nature Trail","2025-11-04 12:19",1,26.1009454,-97.29914,TRUE,FALSE,FALSE,"S282901833",NA
+"84","hrshaw","Harris's Hawk","Parabuteo unicinctus","L421038","McAllen Nature Center (LTC 065)","2025-11-04 11:21",1,26.2082122,-98.2659218,TRUE,FALSE,FALSE,"S282892072",NA
+"85","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54792134","27339 Rice Tract Road, San Benito, Texas, US (26.081, -97.582)","2025-11-04 11:12",2,26.0809728,-97.5823808,TRUE,FALSE,TRUE,"S282882992",NA
+"86","hrshaw","Harris's Hawk","Parabuteo unicinctus","L129005","Laguna Atascosa NWR (LTC 024)","2025-11-04 11:00",2,26.2295776,-97.3466982,TRUE,FALSE,FALSE,"S282964887",NA
+"87","hrshaw","Harris's Hawk","Parabuteo unicinctus","L517989","Bracketville Rest Stop (HOTW 017)","2025-11-04 10:51",2,29.2806906,-100.3235757,TRUE,FALSE,FALSE,"S282879667",NA
+"88","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54792626","202 and 24 St","2025-11-04 10:18",1,33.4622864,-112.0215067,TRUE,FALSE,TRUE,"S282885671",NA
+"89","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54790313","19291–19883 E Brown Tract Rd, Rio Hondo US-TX 26.27857, -97.52490","2025-11-04 10:14",1,26.278569,-97.524895,TRUE,FALSE,TRUE,"S282873528",NA
+"90","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54789682","McDonald Rd, San Benito US-TX 26.16710, -97.62694","2025-11-04 10:04",1,26.167101,-97.626944,TRUE,FALSE,TRUE,"S282870167",NA
+"91","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1673684","San Benito Wetlands (restricted access)","2025-11-04 09:59",1,26.1739485,-97.6235167,TRUE,FALSE,FALSE,"S282869250",NA
+"92","hrshaw","Harris's Hawk","Parabuteo unicinctus","L4244612","Laguna Atascosa NWR--from General Brant Rd","2025-11-04 09:52",1,26.200586,-97.4147467,TRUE,FALSE,FALSE,"S282868130",NA
+"93","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54761783","US-281 N, Alice US-TX (27.5499,-98.0979)","2025-11-04 08:16",1,27.549919,-98.097935,TRUE,FALSE,TRUE,"S282874604",NA
+"94","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54809825","E Brown Tract Rd, Rio Hondo US-TX 26.31239, -97.51886","2025-11-04 07:56",2,26.312386,-97.518858,TRUE,FALSE,TRUE,"S282964057",NA
+"95","hrshaw","Harris's Hawk","Parabuteo unicinctus","L287881","Brownsville Landfill (LTC 041) - check in at office","2025-11-04 07:49",1,25.9365631,-97.3924657,TRUE,FALSE,FALSE,"S282868049",NA
+"96","hrshaw","Harris's Hawk","Parabuteo unicinctus","L3319969","Brushline Rd.--FM490 to FM186","2025-11-04 07:37",2,26.4751445,-98.0530643,TRUE,FALSE,FALSE,"S282933094",NA
+"97","hrshaw","Harris's Hawk","Parabuteo unicinctus","L13904752","my backyard","2025-11-04 07:37",2,33.394505,-112.0211905,TRUE,FALSE,TRUE,"S282855599",NA
+"98","hrshaw","Harris's Hawk","Parabuteo unicinctus","L741639","Cameron Company/Port Isabel Reservoir & Holly Beach rd.","2025-11-04 07:29",2,26.120398,-97.3143947,TRUE,FALSE,FALSE,"S282851701",NA
+"99","hrshaw","Harris's Hawk","Parabuteo unicinctus","L129070","Sabal Palm Sanctuary (LTC 042)","2025-11-04 07:21",1,25.85233,-97.4176839,TRUE,FALSE,FALSE,"S282859761",NA
+"100","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54784654","1690–1932 Milpa Verde, Brownsville US-TX 25.87981, -97.45088","2025-11-04 07:10",1,25.879812,-97.450879,TRUE,FALSE,TRUE,"S282840982",NA
+"101","hrshaw","Harris's Hawk","Parabuteo unicinctus","L280913","Rancho Lomitas","2025-11-04 07:04",1,26.4871971,-98.8227511,TRUE,FALSE,FALSE,"S282922220",NA
+"102","hrshaw","Harris's Hawk","Parabuteo unicinctus","L9498990","Chateau De Vie 4","2025-11-04 07:00",4,33.5106047,-111.9013766,TRUE,FALSE,TRUE,"S282852613",NA
+"103","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54784317","22688 Buena Vista Boulevard, Los Fresnos, Texas, US (26.12, -97.339)","2025-11-04 06:55",4,26.1198109,-97.3385185,TRUE,FALSE,TRUE,"S282838537",NA
+"104","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1871151","Tres Rios Overbank Wetlands (permit required)","2025-11-04 06:47",1,33.389402,-112.2597653,TRUE,FALSE,FALSE,"S282876696",NA
+"105","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54772929","22688 Buena Vista Boulevard, Los Fresnos, Texas, US (26.112, -97.316)","2025-11-03 17:23",6,26.1119726,-97.3159919,TRUE,FALSE,TRUE,"S282783326",NA
+"106","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54739911","78582, Rio Grande City US-TX 26.48548, -98.82040","2025-11-03 17:00",1,26.485478,-98.820404,TRUE,FALSE,TRUE,"S282822086",NA
+"107","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54772331","22688 Buena Vista Boulevard, Los Fresnos, Texas, US (26.237, -97.347)","2025-11-03 16:52",1,26.236652,-97.3465698,TRUE,FALSE,TRUE,"S282780438",NA
+"108","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54772140","US-77 S, Sarita US-TX 27.17695, -97.79360","2025-11-03 16:42",1,27.176949,-97.793601,TRUE,FALSE,TRUE,"S282779293",NA
+"109","hrshaw","Harris's Hawk","Parabuteo unicinctus","L336009","National Butterfly Center--General & area North of Levee","2025-11-03 16:42",2,26.1796025,-98.3664483,TRUE,FALSE,FALSE,"S282870817",NA
+"110","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54771739","5155–5245 FM-117, La Pryor US-TX 29.06602, -99.70863","2025-11-03 16:24",2,29.066016,-99.708633,TRUE,FALSE,TRUE,"S282777123",NA
+"111","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54772567","Thunderbird Adventist Academy, Scottsdale US-AZ 33.60901, -111.92265","2025-11-03 16:11",2,33.609014,-111.922653,TRUE,FALSE,TRUE,"S282784787",NA
+"112","hrshaw","Harris's Hawk","Parabuteo unicinctus","L128890","Bentsen-Rio Grande Val. SP WBC (Mission) (LTC 069)","2025-11-03 15:46",3,26.1849709,-98.3793885,TRUE,FALSE,FALSE,"S282788382",NA
+"113","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1050482","TX48--Shrimp Basin Bridge / Zapata Memorial Boat Ramp/ San Martin Lake outlet","2025-11-03 15:42",2,26.0023329,-97.2999001,TRUE,FALSE,FALSE,"S282781795",NA
+"114","hrshaw","Harris's Hawk","Parabuteo unicinctus","L880379","Skunk Creek Riparian Area/Trailhead","2025-11-03 15:28",3,33.6231698,-112.2361135,TRUE,FALSE,FALSE,"S282802246",NA
+"115","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54774510","20830 W Silverbell Rd, Marana US-AZ (32.4450,-111.4131)","2025-11-03 15:25",1,32.445008,-111.413052,TRUE,FALSE,TRUE,"S282790827",NA
+"116","hrshaw","Harris's Hawk","Parabuteo unicinctus","L4760296","San Benito--Gamble rd. at Hudson rd. wetlands","2025-11-03 15:15",1,26.0910518,-97.6478952,TRUE,FALSE,FALSE,"S282790086",NA
+"117","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54775139","Los Fresnos east","2025-11-03 15:10",1,26.0703213,-97.4598016,TRUE,FALSE,TRUE,"S282794129",NA
+"118","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54768838","536 FM-2098, Falcon Heights US-TX 26.55767, -99.12215","2025-11-03 14:29",1,26.55767,-99.12215,TRUE,FALSE,TRUE,"S282763023",NA
+"119","hrshaw","Harris's Hawk","Parabuteo unicinctus","L21966551","Sunland Memorial Cemetery","2025-11-03 13:59",1,33.6270912,-112.2900352,TRUE,FALSE,FALSE,"S282771068",NA
+"120","hrshaw","Harris's Hawk","Parabuteo unicinctus","L129125","Woodland Rd., Tucson","2025-11-03 12:22",1,32.2518324,-110.8064827,TRUE,FALSE,FALSE,"S282766160",NA
+"121","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54769786","Incidental Texas","2025-11-03 12:05",3,26.06123,-97.23756,TRUE,FALSE,TRUE,"S282767753",NA
+"122","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54716698","21403 N Palm Desert Dr, Sun City West US-AZ 33.67764, -112.34273","2025-11-03 11:34",1,33.677638,-112.342728,TRUE,FALSE,TRUE,"S282757308",NA
+"123","hrshaw","Harris's Hawk","Parabuteo unicinctus","L27541335","South Scottsdale, AZ","2025-11-03 10:40",2,33.462695,-111.896196,TRUE,FALSE,TRUE,"S282784537",NA
+"124","hrshaw","Harris's Hawk","Parabuteo unicinctus","L5678029","Carreta Creek WTP, Bishop","2025-11-03 10:30",2,27.5626683,-97.7957532,TRUE,FALSE,FALSE,"S282943419",NA
+"125","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54767551","78541, Edinburg US-TX 26.32679, -98.15197","2025-11-03 10:10",2,26.326789,-98.151966,TRUE,FALSE,TRUE,"S282756577",NA
+"126","hrshaw","Harris's Hawk","Parabuteo unicinctus","L288849","Laguna Atascosa NWR--HQ and Kiskadee Trail","2025-11-03 09:55",1,26.2285086,-97.3475226,TRUE,FALSE,FALSE,"S282780245",NA
+"127","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54761455","22688 Buena Vista Boulevard, Los Fresnos, Texas, US (26.121, -97.34)","2025-11-03 09:42",1,26.1209458,-97.3396975,TRUE,FALSE,TRUE,"S282725578",NA
+"128","hrshaw","Harris's Hawk","Parabuteo unicinctus","L7071943","Bentsen-Rio Grande Valley SP--La Familia Nature ctr. area","2025-11-03 09:13",2,26.183803,-98.38074,TRUE,FALSE,FALSE,"S282767637",NA
+"129","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54760441","34270–34324 Barreda Garden Rd, San Benito US-TX 26.05419, -97.58341","2025-11-03 09:07",1,26.054194,-97.58341,TRUE,FALSE,TRUE,"S282719676",NA
+"130","hrshaw","Harris's Hawk","Parabuteo unicinctus","L567274","Boca Chica - Lower Rio Grande Valley NWR (LTC 043)","2025-11-03 08:49",2,25.9779488,-97.1947652,TRUE,FALSE,FALSE,"S282716744",NA
+"131","hrshaw","Harris's Hawk","Parabuteo unicinctus","L8626038","SRP ponds","2025-11-03 08:34",1,33.441654,-111.95136,TRUE,FALSE,FALSE,"S282733727",NA
+"132","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1879333","Hazel Bazemore Park Hawkwatch Platform","2025-11-03 08:26",3,27.8660551,-97.6427346,TRUE,FALSE,FALSE,"S282800489",NA
+"133","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54772290","Buena Vista Dr, Los Fresnos US-TX 26.13296, -97.35028","2025-11-03 08:21",3,26.132962,-97.350276,TRUE,FALSE,TRUE,"S282780168",NA
+"134","hrshaw","Harris's Hawk","Parabuteo unicinctus","L7760097","Old Price Road/88th St.","2025-11-03 08:00",1,33.2158951,-111.8929549,TRUE,FALSE,TRUE,"S282768079",NA
+"135","hrshaw","Harris's Hawk","Parabuteo unicinctus","L6448572","Friendship Village","2025-11-03 08:00",1,33.3895315,-111.8815631,TRUE,FALSE,FALSE,"S282738610",NA
+"136","hrshaw","Harris's Hawk","Parabuteo unicinctus","L23740774","my neighborhood","2025-11-03 06:49",1,33.6818695,-112.3918457,TRUE,FALSE,TRUE,"S282710399",NA
+"137","hrshaw","Harris's Hawk","Parabuteo unicinctus","L560027","Jacumba--town, pond, fields","2025-11-03 05:45",5,32.6190835,-116.1874054,TRUE,TRUE,FALSE,"S282770442",NA
+"138","hrshaw","Harris's Hawk","Parabuteo unicinctus","L453195","Lake Texana--Navidad River Boat Ramp (US59)","2025-11-02 17:45",1,29.0215008,-96.5693951,TRUE,FALSE,FALSE,"S282664454",NA
+"139","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54762200","Gainey Ranch Golf Club, Scottsdale US-AZ 33.56905, -111.91440","2025-11-02 17:36",1,33.569048,-111.914403,TRUE,FALSE,TRUE,"S282729523",NA
+"140","hrshaw","Harris's Hawk","Parabuteo unicinctus","L53227626","Jesus Maria Road","2025-11-02 17:20",1,26.5560979,-97.9689234,TRUE,FALSE,TRUE,"S282648786",NA
+"141","hrshaw","Harris's Hawk","Parabuteo unicinctus","L40911776","Falcon Lake State Park -- Bird Blind (Starr Co.)","2025-11-02 16:54",1,26.5845966,-99.1500102,TRUE,FALSE,FALSE,"S282638612",NA
+"142","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54730053","6595 West Missouri Street, Tucson, Arizona, US (32.166, -111.105)","2025-11-02 16:43",1,32.1660358,-111.1054916,TRUE,FALSE,TRUE,"S282646931",NA
+"143","hrshaw","Harris's Hawk","Parabuteo unicinctus","L128962","Falcon State Park—SE portion (Starr Co.)  (LTC 084)","2025-11-02 16:12",1,26.5836148,-99.1452921,TRUE,FALSE,FALSE,"S282651839",NA
+"144","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54723494","22688 Buena Vista Boulevard, Los Fresnos, Texas, US (26.112, -97.326)","2025-11-02 14:58",2,26.1118031,-97.3264999,TRUE,FALSE,TRUE,"S282615341",NA
+"145","hrshaw","Harris's Hawk","Parabuteo unicinctus","L2764095","Hanka Sod (former Superior Turf Farms) / Weaver rd.","2025-11-02 14:29",3,26.1039435,-97.7723229,TRUE,FALSE,FALSE,"S282668685",NA
+"146","hrshaw","Harris's Hawk","Parabuteo unicinctus","L27927786","keim 17dr","2025-11-02 14:25",1,33.5267755,-112.0963672,TRUE,FALSE,TRUE,"S282717625",NA
+"147","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54719075","1624 N Raul Longoria Rd, San Juan US-TX 26.20745, -98.15277","2025-11-02 13:15",1,26.207454,-98.152773,TRUE,FALSE,TRUE,"S282595883",NA
+"148","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54731811","21351 Escapees Way, Congress, Arizona, US (34.105, -112.832)","2025-11-02 13:10",2,34.1052654,-112.8315291,TRUE,TRUE,TRUE,"S282655916",NA
+"149","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54715980","Old Charco-Blanco Rd, Rio Grande City US-TX 26.46543, -98.82626","2025-11-02 12:04",1,26.46543,-98.826257,TRUE,FALSE,TRUE,"S282581487",NA
+"150","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54725970","Double Adobe Rd, McNeal US-AZ (31.4670,-109.6892)","2025-11-02 12:01",2,31.466963,-109.689157,TRUE,FALSE,TRUE,"S282626702",NA
+"151","hrshaw","Harris's Hawk","Parabuteo unicinctus","L276835","LRGV NWR--La Sal del Rey (LTC 005)","2025-11-02 11:42",1,26.5305713,-98.0540943,TRUE,FALSE,FALSE,"S282653270",NA
+"152","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54722908","1646–1870 FM-541, Floresville US-TX 29.05349, -98.10430","2025-11-02 11:35",1,29.053495,-98.104299,TRUE,TRUE,TRUE,"S282612832",NA
+"153","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54706512","Nicklaus Drive Fountain Hills AZ 33.57908, -111.71383","2025-11-02 11:23",3,33.579076,-111.713828,TRUE,FALSE,TRUE,"S282592250",NA
+"154","hrshaw","Harris's Hawk","Parabuteo unicinctus","L23666787","Unitarian Universalist Church","2025-11-02 10:56",1,27.6855349,-97.3522153,TRUE,FALSE,TRUE,"S282567080",NA
+"155","hrshaw","Harris's Hawk","Parabuteo unicinctus","L17392109","Shelter Valley--general area","2025-11-02 10:52",4,33.0707803,-116.4372306,TRUE,TRUE,FALSE,"S282601172",NA
+"156","hrshaw","Harris's Hawk","Parabuteo unicinctus","L2423315","San Benito--Yost pond","2025-11-02 10:20",1,26.1133656,-97.6292968,TRUE,FALSE,FALSE,"S282586596",NA
+"157","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54713163","North Pinal Parkway Avenue, Florence, Arizona","2025-11-02 10:01",1,33.0466612,-111.3791142,TRUE,FALSE,TRUE,"S282568039",NA
+"158","hrshaw","Harris's Hawk","Parabuteo unicinctus","L16238788","La Paloma","2025-11-02 09:02",1,27.8639052,-98.4210248,TRUE,FALSE,TRUE,"S282569833",NA
+"159","hrshaw","Harris's Hawk","Parabuteo unicinctus","L2266657","Laguna Atascosa NWR--Lakeside Drive","2025-11-02 08:48",1,26.2335321,-97.3533726,TRUE,FALSE,FALSE,"S282545075",NA
+"160","hrshaw","Harris's Hawk","Parabuteo unicinctus","L23884712","Los Arrieros Loop","2025-11-02 08:45",2,26.506871,-99.08065,TRUE,FALSE,TRUE,"S282556197",NA
+"161","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54769359","6340 West Grovers Avenue, Glendale, Arizona, US (33.648, -112.195)","2025-11-02 08:41",3,33.6476016,-112.1952845,TRUE,FALSE,TRUE,"S282765448",NA
+"162","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54708023","Pinal Pioneer Pkwy, Tucson US-AZ 32.58000, -110.95178","2025-11-02 08:27",1,32.579996,-110.951783,TRUE,FALSE,TRUE,"S282541830",NA
+"163","hrshaw","Harris's Hawk","Parabuteo unicinctus","L38916334","Starr Co.—Old 83 Rd X Santa Margarita Rd","2025-11-02 08:16",1,26.4981706,-99.0760829,TRUE,FALSE,FALSE,"S282529495",NA
+"164","hrshaw","Harris's Hawk","Parabuteo unicinctus","L26789935","5301 East Glenn Street At Beverly","2025-11-02 08:13",3,32.2579445,-110.8795065,TRUE,FALSE,TRUE,"S282537561",NA
+"165","hrshaw","Harris's Hawk","Parabuteo unicinctus","L14126906","South 28th St  (bird from road)","2025-11-02 07:44",1,33.3905919,-112.021551,TRUE,FALSE,TRUE,"S282554005",NA
+"166","hrshaw","Harris's Hawk","Parabuteo unicinctus","L26445598","Backyard","2025-11-02 07:26",1,25.992129,-97.507516,TRUE,FALSE,TRUE,"S282506261",NA
+"167","hrshaw","Harris's Hawk","Parabuteo unicinctus","L6610585","Ranado windmill area","2025-11-02 07:00",6,27.0767945,-98.884982,TRUE,FALSE,FALSE,"S282692068",NA
+"168","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54701659","La Joya Incidentals","2025-11-02 06:54",1,26.256621,-98.449886,TRUE,FALSE,TRUE,"S282507389",NA
+"169","hrshaw","Harris's Hawk","Parabuteo unicinctus","L18078847","210 West 2nd Avenue, Ajo","2025-11-02 06:47",1,32.3800019,-112.8640239,TRUE,FALSE,TRUE,"S282519114",NA
+"170","hrshaw","Harris's Hawk","Parabuteo unicinctus","L20973859","Quartzite Drive","2025-11-02 06:47",1,32.9107012,-111.2718299,TRUE,FALSE,TRUE,"S282921122",NA
+"171","hrshaw","Harris's Hawk","Parabuteo unicinctus","L999592","Las Palomas WMA--Longoria Unit (restricted access)","2025-11-02 06:28",1,26.3201907,-97.8229523,TRUE,FALSE,FALSE,"S282907697",NA
+"172","hrshaw","Harris's Hawk","Parabuteo unicinctus","L375162","King Ranch--Santa Gertrudis Unit (CTC 087)","2025-11-01 15:00",4,27.5183197,-97.9093409,TRUE,FALSE,FALSE,"S282610701",NA
+"173","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54722092","butterfly center","2025-11-01 14:32",2,26.176963,-98.365647,TRUE,FALSE,TRUE,"S282609408",NA
+"174","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1421699","Combes Lake","2025-11-01 13:42",1,26.2473895,-97.7229595,TRUE,FALSE,FALSE,"S282381864",NA
+"175","hrshaw","Harris's Hawk","Parabuteo unicinctus","L8463998","Tonto National Forest, Mesa US-AZ (33.5363,-111.6411)","2025-11-01 13:29",1,33.536258,-111.64115,TRUE,FALSE,TRUE,"S282479826",NA
+"176","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54667319","E Ocean Blvd, Los Fresnos US-TX 26.06617, -97.39771","2025-11-01 11:35",3,26.066168,-97.397709,TRUE,FALSE,TRUE,"S282351463",NA
+"177","hrshaw","Harris's Hawk","Parabuteo unicinctus","L16427089","42917–43891 Santa Isabel Blvd, Laguna Vista US-TX 26.11665, -97.33530","2025-11-01 11:00",1,26.116651,-97.335297,TRUE,FALSE,TRUE,"S282343761",NA
+"178","hrshaw","Harris's Hawk","Parabuteo unicinctus","L455142","Rousseau Sod Farm (restricted access)","2025-11-01 10:55",1,33.522882,-111.8430412,TRUE,FALSE,FALSE,"S282399260",NA
+"179","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54675386","Incidental Texas","2025-11-01 10:48",1,26.13397,-97.35035,TRUE,FALSE,TRUE,"S282387396",NA
+"180","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54669388","204 West Genematas Drive, Tucson, Arizona, US (32.3, -110.978)","2025-11-01 10:20",1,32.2996353,-110.9779134,TRUE,FALSE,TRUE,"S282360981",NA
+"181","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54584453","Driving Buena Vista Boulevard, Los Fresnos, Texas, US (26.124, -97.342)","2025-11-01 09:56",2,26.1238,-97.342454,TRUE,FALSE,TRUE,"S282329086",NA
+"182","hrshaw","Harris's Hawk","Parabuteo unicinctus","L11838284","Bentsen-Rio Grande Valley SP—Primitive Camping Area","2025-11-01 09:33",1,26.1774664,-98.3836279,TRUE,FALSE,FALSE,"S282425256",NA
+"183","hrshaw","Harris's Hawk","Parabuteo unicinctus","L22845230","San Ysidro","2025-11-01 08:23",1,32.362177,-106.815188,TRUE,FALSE,TRUE,"S282398385",NA
+"184","hrshaw","Harris's Hawk","Parabuteo unicinctus","L4258738","Bentsen-Rio Grande Val. SP--Kiskadee Bird Blind","2025-11-01 08:10",1,26.1764248,-98.3861887,TRUE,FALSE,FALSE,"S282356581",NA
+"185","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54663187","Common Ground Church - 17251 S La Cañada Dr, Sahuarita US-AZ 31.93637, -110.99407","2025-11-01 08:08",2,31.936371,-110.994073,TRUE,TRUE,TRUE,"S282332418",NA
+"186","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54657656","FM-187 Sabinal to Utopia","2025-11-01 07:59",1,29.42234,-99.469697,TRUE,FALSE,TRUE,"S282305445",NA
+"187","hrshaw","Harris's Hawk","Parabuteo unicinctus","L2113696","Saguaro NP--West--King Canyon Trail","2025-11-01 07:30",1,32.2479964,-111.1668992,TRUE,FALSE,FALSE,"S282799662",NA
+"188","hrshaw","Harris's Hawk","Parabuteo unicinctus","L129086","Santa Margarita Ranch (LTC 079) (restricted access - guided groups only)","2025-11-01 07:21",3,26.4856177,-99.0912337,TRUE,FALSE,FALSE,"S282409733",NA
+"189","hrshaw","Harris's Hawk","Parabuteo unicinctus","L10708311","Lone Mountain Trailhead","2025-11-01 07:00",1,33.5047949,-111.6175318,TRUE,FALSE,FALSE,"S282397386",NA
+"190","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54661255","1473 E Whiteley St, Apache Junction US-AZ 33.45285, -111.53010","2025-11-01 07:00",1,33.452845,-111.530096,TRUE,FALSE,TRUE,"S282323733",NA
+"191","hrshaw","Harris's Hawk","Parabuteo unicinctus","L5948468","Moon Valley Park","2025-11-01 06:32",1,33.6273485,-112.0809075,TRUE,FALSE,FALSE,"S282331149",NA
+"192","hrshaw","Harris's Hawk","Parabuteo unicinctus","L51225828","Vaughn Avenue Basin","2025-11-01",1,33.3566192,-111.7953532,TRUE,FALSE,FALSE,"S282652007",NA
+"193","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1143835","Calhoun Co.--FM1289 Rice Fields","2025-10-31 17:36",1,28.5151594,-96.6066456,TRUE,FALSE,FALSE,"S282241039",NA
+"194","hrshaw","Harris's Hawk","Parabuteo unicinctus","L40110751","East Vista Monte Drive","2025-10-31 17:26",1,31.9557469,-110.7665161,TRUE,TRUE,TRUE,"S282240138",NA
+"195","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54643451","N Scottsdale Rd, Paradise Valley US-AZ 33.56893, -111.92614","2025-10-31 17:15",1,33.568929,-111.926142,TRUE,FALSE,TRUE,"S282238617",NA
+"196","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54644167","Usery Pass Rd, Mesa US-AZ (33.5075,-111.6174)","2025-10-31 17:10",3,33.507472,-111.617448,TRUE,FALSE,TRUE,"S282241586",NA
+"197","hrshaw","Harris's Hawk","Parabuteo unicinctus","L39296892","7387 Kickin Horse Trail, Julian US-CA 33.07332, -116.43758","2025-10-31 17:03",4,33.073318,-116.437581,TRUE,TRUE,TRUE,"S282239874",NA
+"198","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54639576","17015–17039 Carretera 281 S, Falfurrias US-TX 27.28503, -98.13349","2025-10-31 15:54",1,27.285033,-98.133486,TRUE,FALSE,TRUE,"S282219988",NA
+"199","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54640816","Roadside Incidental","2025-10-31 12:31",1,26.06464,-97.58183,TRUE,FALSE,TRUE,"S282226533",NA
+"200","hrshaw","Harris's Hawk","Parabuteo unicinctus","L613081","Bentsen-Rio Grande Val. SP--Hawk Watch","2025-10-31 10:59",2,26.1690952,-98.3805352,TRUE,FALSE,FALSE,"S282187454",NA
+"201","hrshaw","Harris's Hawk","Parabuteo unicinctus","L42394547","New Carmen Ave, Brownsville US-TX 26.01211, -97.57014","2025-10-31 10:43",5,26.012109,-97.570144,TRUE,FALSE,TRUE,"S282183628",NA
+"202","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54631683","33490 Barreda Garden Rd, San Benito US-TX 26.07369, -97.58058","2025-10-31 10:35",1,26.073689,-97.580578,TRUE,FALSE,TRUE,"S282182700",NA
+"203","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54678687","St.Augustine School","2025-10-31 10:30",2,32.2063085,-110.8041422,TRUE,FALSE,TRUE,"S282401351",NA
+"204","hrshaw","Harris's Hawk","Parabuteo unicinctus","L938672","Usery Mountain Regional Park","2025-10-31 10:16",1,33.474,-111.615385,TRUE,FALSE,FALSE,"S282205576",NA
+"205","hrshaw","Harris's Hawk","Parabuteo unicinctus","L38806084","S Conway Ave, Mission US-TX 26.18581, -98.33096","2025-10-31 09:51",1,26.185809,-98.33096,TRUE,FALSE,TRUE,"S282174357",NA
+"206","hrshaw","Harris's Hawk","Parabuteo unicinctus","L346021","Vernon Ave yard","2025-10-31 09:24",1,33.4740986,-111.9596002,TRUE,FALSE,TRUE,"S282293989",NA
+"207","hrshaw","Harris's Hawk","Parabuteo unicinctus","L367115","Eldorado Park","2025-10-31 09:05",2,33.4701843,-111.9160938,TRUE,FALSE,FALSE,"S282206086",NA
+"208","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54619068","35275 W Cartegna Ln, Maricopa US-AZ 33.05134, -111.94646","2025-10-31 07:58",1,33.051342,-111.946457,TRUE,FALSE,TRUE,"S282235526",NA
+"209","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54616158","6595 W Missouri St, Tucson US-AZ 32.16605, -111.10510","2025-10-31 07:41",4,32.166052,-111.105099,TRUE,FALSE,TRUE,"S282177065",NA
+"210","hrshaw","Harris's Hawk","Parabuteo unicinctus","L21805521","5746–5866 FM-1352, Alice US-TX (27.6688,-97.9987)","2025-10-30 18:45",3,27.668788,-97.998734,TRUE,FALSE,TRUE,"S282108677",NA
+"211","hrshaw","Harris's Hawk","Parabuteo unicinctus","L53984428","Pharr(Private Property)","2025-10-30 18:40",3,26.225014,-98.215821,TRUE,FALSE,TRUE,"S282197654",NA
+"212","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54615478","Buena Vista Blvd/510","2025-10-30 15:15",4,26.1349302,-97.3506351,TRUE,FALSE,TRUE,"S282103581",NA
+"213","hrshaw","Harris's Hawk","Parabuteo unicinctus","L129106","Tanque Verde Wash--Wentworth Rd.","2025-10-30 14:10",1,32.2400762,-110.7208975,TRUE,FALSE,FALSE,"S282116490",NA
+"214","hrshaw","Harris's Hawk","Parabuteo unicinctus","L19571273","Dayton--Fishing Pond & Park","2025-10-30 12:35",1,46.3136034,-117.9738726,TRUE,TRUE,FALSE,"S282117456","X"
+"215","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54607231","44092 Palmito Hill Rd, Brownsville US-TX 25.94074, -97.29059","2025-10-30 11:48",2,25.940744,-97.29059,TRUE,FALSE,TRUE,"S282062384",NA
+"216","hrshaw","Harris's Hawk","Parabuteo unicinctus","L50000772","Chapman Ranch - CR 51 (west of FM 70 to King Ranch gate)","2025-10-30 09:41",1,27.5847051,-97.5027682,TRUE,FALSE,TRUE,"S282047878",NA
+"217","hrshaw","Harris's Hawk","Parabuteo unicinctus","L38665302","1627 North Pinal Avenue, Casa Grande, Arizona, US (32.895, -111.758)","2025-10-30 09:31",3,32.8947596,-111.7579374,TRUE,FALSE,TRUE,"S282060254",NA
+"218","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54608269","Desert near Brahma Rd","2025-10-30 08:01",2,31.974576,-110.819403,TRUE,TRUE,TRUE,"S282067710",NA
+"219","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1583722","Tempe: Marlborough Park neighborhood","2025-10-30 07:52",1,33.4483263,-111.9330702,TRUE,FALSE,TRUE,"S282126919",NA
+"220","hrshaw","Harris's Hawk","Parabuteo unicinctus","L2923923","Tucson--Glenn St/N Houghton Rd","2025-10-30 06:58",1,32.2581174,-110.7722712,TRUE,FALSE,TRUE,"S282037828",NA
+"221","hrshaw","Harris's Hawk","Parabuteo unicinctus","L39169412","2930 W Placita Enrica, Tucson US-AZ 32.33359, -111.02918","2025-10-30 06:53",4,32.333591,-111.029182,TRUE,FALSE,TRUE,"S282036952",NA
+"222","hrshaw","Harris's Hawk","Parabuteo unicinctus","L245447","Fort Lowell Park and Pantano Wash","2025-10-30 06:40",1,32.2605631,-110.8727628,TRUE,FALSE,FALSE,"S282074625",NA
+"223","hrshaw","Harris's Hawk","Parabuteo unicinctus","L25830450","West Wenden Drive, Arizona City, Arizona, US (32.752, -111.663)","2025-10-29 16:49",3,32.7522167,-111.6633967,TRUE,FALSE,TRUE,"S281976914",NA
+"224","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54589359","3175 North Campbell Avenue, Tucson, Arizona, US (32.265, -110.944)","2025-10-29 16:37",2,32.2645816,-110.9441981,TRUE,FALSE,TRUE,"S281976126",NA
+"225","hrshaw","Harris's Hawk","Parabuteo unicinctus","L39932111","First Tree 1209 North Schultz Street, Casa Grande, Arizona, US (32.885, -111.766)","2025-10-29 14:51",1,32.8849886,-111.7661379,TRUE,FALSE,TRUE,"S281966944",NA
+"226","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54586100","Ina And La Canada Rds, Arizona, US (32.337, -110.995)","2025-10-29 13:59",2,32.3367992,-110.9950106,TRUE,FALSE,TRUE,"S281959995",NA
+"227","hrshaw","Harris's Hawk","Parabuteo unicinctus","L43395302","EIA (Private property/restricted access)","2025-10-29 13:22",1,26.2747338,-98.1620371,TRUE,FALSE,TRUE,"S282043982",NA
+"228","hrshaw","Harris's Hawk","Parabuteo unicinctus","L4356764","Sun City West, Paintbrush Drive, AZ","2025-10-29 12:28",3,33.669592,-112.3369217,TRUE,FALSE,TRUE,"S281952661",NA
+"229","hrshaw","Harris's Hawk","Parabuteo unicinctus","L290332","Evergreen Cemetery","2025-10-29 11:59",1,32.2649478,-110.9811517,TRUE,FALSE,FALSE,"S281950571",NA
+"230","hrshaw","Harris's Hawk","Parabuteo unicinctus","L3630286","Stonecreek Golf Club","2025-10-29 10:16",1,33.5907848,-111.978332,TRUE,FALSE,FALSE,"S281948283",NA
+"231","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54577743","1442–1450 FM-624, Tilden US-TX 28.13276, -98.55213","2025-10-29 09:44",1,28.132764,-98.552129,TRUE,FALSE,TRUE,"S281917735",NA
+"232","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54580407","S Houghton Rd, Tucson (32.19976, -110.77278)","2025-10-29 09:43",3,32.199756,-110.772781,TRUE,FALSE,TRUE,"S281930904",NA
+"233","hrshaw","Harris's Hawk","Parabuteo unicinctus","L28921574","McDowell Mountain Regional Park--Rowland Campground","2025-10-29 09:02",1,33.693941,-111.734096,TRUE,FALSE,FALSE,"S282167192",NA
+"234","hrshaw","Harris's Hawk","Parabuteo unicinctus","L15410297","Resaca de la Palma State Park, Brownsville US-TX 25.99615, -97.56931","2025-10-29 08:33",1,25.99615,-97.569314,TRUE,FALSE,TRUE,"S281931230",NA
+"235","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1416114","Riggs and Price Rds. ponds","2025-10-29 08:05",2,33.2193147,-111.892638,TRUE,FALSE,FALSE,"S281962381",NA
+"236","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54574087","IH-37 N, Three Rivers US-TX 28.61445, -98.22941","2025-10-29 08:05",1,28.614452,-98.229412,TRUE,FALSE,TRUE,"S281898414",NA
+"237","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54579456","12523 W Mile Wide Rd, Tucson US-AZ 32.24807, -111.23384","2025-10-29 07:55",4,32.248072,-111.233838,TRUE,FALSE,TRUE,"S281926228",NA
+"238","hrshaw","Harris's Hawk","Parabuteo unicinctus","L515005","Falcon State Park--NW of Butterfly Garden (Zapata Co.) (Cenizo, Cactus, Javelina Loops & Boat Ramp)","2025-10-29 07:20",1,26.5881587,-99.1506837,TRUE,FALSE,FALSE,"S281986995",NA
+"239","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54563999","4194–4298 FM-1017, Rio Grande City US-TX 26.74068, -98.58581","2025-10-28 18:25",1,26.740682,-98.58581,TRUE,FALSE,TRUE,"S281850513",NA
+"240","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54561630","22688 Buena Vista Boulevard, Los Fresnos, Texas, US (26.085, -97.269)","2025-10-28 17:40",1,26.0853775,-97.2692002,TRUE,FALSE,TRUE,"S281838514",NA
+"241","hrshaw","Harris's Hawk","Parabuteo unicinctus","L38078087","Queen Creek Wash Trail (Pecan Circle)","2025-10-28 17:21",1,33.2317196,-111.6101168,TRUE,FALSE,FALSE,"S281847870",NA
+"242","hrshaw","Harris's Hawk","Parabuteo unicinctus","L18215794","Retama Village RV Resort","2025-10-28 16:00",1,26.1901016,-98.378191,TRUE,FALSE,FALSE,"S281861827",NA
+"243","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54561548","715 West McMurray Boulevard, Casa Grande, Arizona, US (32.887, -111.765)","2025-10-28 15:14",1,32.886757,-111.7653483,TRUE,FALSE,TRUE,"S281838124",NA
+"244","hrshaw","Harris's Hawk","Parabuteo unicinctus","L710850","Glendale Recharge Ponds","2025-10-28 14:45",1,33.5242237,-112.286582,TRUE,FALSE,FALSE,"S281846457",NA
+"245","hrshaw","Harris's Hawk","Parabuteo unicinctus","L208918","Sweetwater Wetlands","2025-10-28 13:00",1,32.2790144,-111.0216061,TRUE,FALSE,FALSE,"S281839081",NA
+"246","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1108587","Canada del Oro Riverfront Park","2025-10-28 12:35",1,32.3967018,-110.976646,TRUE,FALSE,FALSE,"S281856847",NA
+"247","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1148441","Estero Llano Grande SP--Tropical Zone only","2025-10-28 09:39",1,26.124386,-97.9585648,TRUE,FALSE,FALSE,"S281788146",NA
+"248","hrshaw","Harris's Hawk","Parabuteo unicinctus","L27645728","202 and 101 intersection","2025-10-28 09:26",1,33.4358585,-111.8931187,TRUE,FALSE,TRUE,"S281802601",NA
+"249","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1361443","McDowell Sonoran Preserve--Brown's Ranch Area","2025-10-28 08:52",5,33.7800123,-111.8411449,TRUE,FALSE,FALSE,"S281804360",NA
+"250","hrshaw","Harris's Hawk","Parabuteo unicinctus","L21351112","215-247 N. Cody Loop, Oracle Az","2025-10-28 07:30",4,32.6024655,-110.7586688,TRUE,FALSE,TRUE,"S281939530",NA
+"251","hrshaw","Harris's Hawk","Parabuteo unicinctus","L28255401","10710 E Migratory Pl, Tucson US-AZ 32.22095, -110.76392","2025-10-27 14:09",1,32.220955,-110.763916,TRUE,FALSE,TRUE,"S281695696",NA
+"252","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54528742","22688 Buena Vista Boulevard, Los Fresnos, Texas, US (26.094, -97.291)","2025-10-27 13:51",1,26.0943329,-97.2913973,TRUE,FALSE,TRUE,"S281678492",NA
+"253","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54533008","N College Ave, Tempe US-AZ 33.44992, -111.93515","2025-10-27 13:22",3,33.449918,-111.935148,TRUE,FALSE,TRUE,"S281698781",NA
+"254","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54526346","US-77 N, Sarita US-TX 26.69993, -97.76842","2025-10-27 12:27",1,26.69993,-97.768416,TRUE,FALSE,TRUE,"S281667418",NA
+"255","hrshaw","Harris's Hawk","Parabuteo unicinctus","L17641324","Maricopa Trail--Sun Valley Trailhead","2025-10-27 11:54",1,33.6381502,-112.4700022,TRUE,FALSE,FALSE,"S281728969",NA
+"256","hrshaw","Harris's Hawk","Parabuteo unicinctus","L20695432","Matagorda Co.—CR414","2025-10-27 11:40",1,29.0336694,-96.0798344,TRUE,TRUE,FALSE,"S281666500",NA
+"257","hrshaw","Harris's Hawk","Parabuteo unicinctus","L42310093","West side park McAllen Texas","2025-10-27 11:09",2,26.203161,-98.264555,TRUE,FALSE,TRUE,"S281675140",NA
+"258","hrshaw","Harris's Hawk","Parabuteo unicinctus","L2088372","Lake Como","2025-10-27 10:30",1,28.5357673,-81.3519261,TRUE,TRUE,FALSE,"S281643410","X"
+"259","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54531903","8804 North 90th Street, Scottsdale, Arizona, US (33.565, -111.889)","2025-10-27 09:30",1,33.5649227,-111.888685,TRUE,FALSE,TRUE,"S281693392",NA
+"260","hrshaw","Harris's Hawk","Parabuteo unicinctus","L499773","Cook's Slough Sanctuary (HOTW 025)","2025-10-27 09:26",1,29.1873567,-99.7886572,TRUE,FALSE,FALSE,"S281676198",NA
+"261","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1487217","Santa Ana NWR--Pintail Lakes Trail","2025-10-27 08:36",2,26.0787993,-98.1330503,TRUE,FALSE,FALSE,"S281652777",NA
+"262","hrshaw","Harris's Hawk","Parabuteo unicinctus","L40149315","San Benito - Resaca de los Fresnos at Russell","2025-10-27 08:30",1,26.1525391,-97.6325787,TRUE,FALSE,FALSE,"S281642249",NA
+"263","hrshaw","Harris's Hawk","Parabuteo unicinctus","L9310338","Tempe Women's Club Park","2025-10-27 08:14",1,33.443123,-111.931006,TRUE,FALSE,FALSE,"S281653138",NA
+"264","hrshaw","Harris's Hawk","Parabuteo unicinctus","L52359858","Road heading to Rancho Blanco","2025-10-27 08:10",1,27.3198261,-99.494606,TRUE,FALSE,TRUE,"S281679903",NA
