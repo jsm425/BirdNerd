@@ -1,2 +1,6 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
-"1","rudshe","Ruddy Shelduck","Tadorna ferruginea","L16071618","Glen Hill Farm","2025-10-28 08:08",8,29.1385502,-82.1691188,TRUE,TRUE,FALSE,"S281758604","X"
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
+"1","wewvir2","Western Warbling Vireo","Vireo swainsoni","L387783","Bohnett Park","2025-11-05 14:00",1,34.4173452,-119.7130823,TRUE,TRUE,FALSE,"S283061308"
+"2","wewvir2","Western Warbling Vireo","Vireo swainsoni","L166979","Boyce Thompson Arboretum","2025-11-04 10:52",1,33.2795082,-111.158756,TRUE,TRUE,FALSE,"S282906854"
+"3","wewvir2","Western Warbling Vireo","Vireo swainsoni","L1027901","University of Southern California","2025-11-03 07:18",1,34.02077,-118.2846612,TRUE,TRUE,FALSE,"S282728797"
+"4","wewvir2","Western Warbling Vireo","Vireo swainsoni","L482415","Tri-City Regional Park, Placentia","2025-11-02 16:03",1,33.9037612,-117.8660059,TRUE,TRUE,FALSE,"S282664527"
+"5","wewvir2","Western Warbling Vireo","Vireo swainsoni","L280831","Santa Catalina Island--Avalon area","2025-11-01 09:27",1,33.3424927,-118.3267611,TRUE,TRUE,FALSE,"S282414756"

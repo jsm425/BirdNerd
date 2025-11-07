@@ -1,265 +1,275 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
-"1","hrshaw","Harris's Hawk","Parabuteo unicinctus","L361434","Dixieland Park, Harlingen","2025-11-05 17:12",2,26.1659152,-97.7168655,TRUE,FALSE,FALSE,"S283058528",NA
-"2","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54826422","New Carmen Ave, Brownsville US-TX 26.01036, -97.57037","2025-11-05 17:09",1,26.010358,-97.570366,TRUE,FALSE,TRUE,"S283056198",NA
-"3","hrshaw","Harris's Hawk","Parabuteo unicinctus","L246727","Anzalduas Park (LTC 068)","2025-11-05 16:40",1,26.1384105,-98.3327866,TRUE,FALSE,FALSE,"S283053501",NA
-"4","hrshaw","Harris's Hawk","Parabuteo unicinctus","L273764","Hugh Ramsey Park (Harlingen Arroyo Colorado) WBC (LTC 026)","2025-11-05 16:28",1,26.1857402,-97.6641657,TRUE,FALSE,FALSE,"S283058511",NA
-"5","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54825379","15319–15403 Jimenez Rd, San Benito US-TX 26.08864, -97.77782","2025-11-05 16:17",1,26.088643,-97.77782,TRUE,FALSE,TRUE,"S283050792",NA
-"6","hrshaw","Harris's Hawk","Parabuteo unicinctus","L18539716","Madero Pond","2025-11-05 16:06",2,26.168058,-98.329695,TRUE,FALSE,FALSE,"S283049825",NA
-"7","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54824755","28690 Rangerville Rd, Harlingen US-TX 26.14323, -97.71809","2025-11-05 15:51",1,26.143227,-97.718094,TRUE,FALSE,TRUE,"S283047560",NA
-"8","hrshaw","Harris's Hawk","Parabuteo unicinctus","L129065","Resaca de la Palma SP WBC (Brownsville) (LTC 048)","2025-11-05 15:00",4,25.9965839,-97.5690513,TRUE,FALSE,FALSE,"S283056550",NA
-"9","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54823587","New Carmen Ave, Brownsville US-TX 26.01544, -97.56975","2025-11-05 14:58",1,26.015436,-97.569748,TRUE,FALSE,TRUE,"S283041955",NA
-"10","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54823490","29628 SH-100, San Benito US-TX 26.07748, -97.54723","2025-11-05 14:53",1,26.077475,-97.547226,TRUE,FALSE,TRUE,"S283041507",NA
-"11","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54823541","6292–6366 FM-1732, Brownsville US-TX 26.01948, -97.58437","2025-11-05 14:52",1,26.019476,-97.584371,TRUE,FALSE,TRUE,"S283041737",NA
-"12","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54823384","3308 Faoulty Drive, Harlingen, Texas, US (26.191, -97.656)","2025-11-05 14:50",1,26.190953,-97.6559993,TRUE,FALSE,TRUE,"S283041022",NA
-"13","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54822718","10405 U S Military Highway 281, Brownsville, Texas, US (26.018, -97.609)","2025-11-05 14:16",1,26.0180201,-97.6087662,TRUE,FALSE,TRUE,"S283037482",NA
-"14","hrshaw","Harris's Hawk","Parabuteo unicinctus","L2766420","San Benito--Rice Tract Oasis (Barreda Garden rd. x Rice Tract rd.)","2025-11-05 14:05",1,26.0796814,-97.5815105,TRUE,FALSE,FALSE,"S283050432",NA
-"15","hrshaw","Harris's Hawk","Parabuteo unicinctus","L5120106","Cameron Co.--CR1599","2025-11-05 13:42",1,26.2852195,-97.6587099,TRUE,FALSE,FALSE,"S283036929",NA
-"16","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1850000","San Juan Wetlands","2025-11-05 13:32",1,26.1606244,-98.157516,TRUE,FALSE,FALSE,"S283045379",NA
-"17","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1210076","McAllen--Parakeet roost (10th Str. N&S of Trenton rd.)","2025-11-05 13:01",2,26.2687567,-98.2188574,TRUE,FALSE,FALSE,"S283030045",NA
-"18","hrshaw","Harris's Hawk","Parabuteo unicinctus","L2222304","Cameron Co.--TX100 (E. Ocean Blvd.)","2025-11-05 12:35",1,26.0737452,-97.3741007,TRUE,FALSE,FALSE,"S283027349",NA
-"19","hrshaw","Harris's Hawk","Parabuteo unicinctus","L2431927","San Simon","2025-11-05 12:25",1,32.26372,-109.2040372,TRUE,FALSE,TRUE,"S283034728",NA
-"20","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54820341","78870, Knippa US-TX 29.38001, -99.67165","2025-11-05 12:19",4,29.380013,-99.671648,TRUE,FALSE,TRUE,"S283025470",NA
-"21","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1312741","Buena Vista Dr.--b/w Old Port Dr./CR350 & Ocean Blvd./CR100","2025-11-05 11:57",5,26.1078935,-97.3495102,TRUE,FALSE,FALSE,"S283038753",NA
-"22","hrshaw","Harris's Hawk","Parabuteo unicinctus","L259855","Estero Llano Grande SP WBC (LTC 054)","2025-11-05 11:51",1,26.1268335,-97.9578167,TRUE,FALSE,FALSE,"S283058965",NA
-"23","hrshaw","Harris's Hawk","Parabuteo unicinctus","L283726","South Padre Is.--WBC/Conv. Center/Laguna Madre Trail (LTC 035)","2025-11-05 11:51",1,26.1400912,-97.1748233,TRUE,FALSE,FALSE,"S283052689",NA
-"24","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54819655","Auto selected 26.08055, -97.58121","2025-11-05 11:48",2,26.080555,-97.581205,TRUE,FALSE,TRUE,"S283021934",NA
-"25","hrshaw","Harris's Hawk","Parabuteo unicinctus","L17759069","South Texas Ecotourism Center","2025-11-05 11:26",1,26.09276,-97.29624,TRUE,FALSE,FALSE,"S283038540",NA
-"26","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54819362","Kleberg Co., US-77","2025-11-05 11:25",1,27.307816,-97.817949,TRUE,FALSE,TRUE,"S283020394",NA
-"27","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54819042","E Ocean Blvd, Laguna Vista US-TX 26.08531, -97.26888","2025-11-05 11:22",1,26.085314,-97.268883,TRUE,FALSE,TRUE,"S283018612",NA
-"28","hrshaw","Harris's Hawk","Parabuteo unicinctus","L129085","Santa Ana NWR (LTC 059)","2025-11-05 11:20",1,26.0813003,-98.1351399,TRUE,FALSE,FALSE,"S283037323",NA
-"29","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54818174","E 14th St, Port Isabel US-TX 26.05520, -97.23810","2025-11-05 10:44",1,26.055199,-97.238102,TRUE,FALSE,TRUE,"S283014119",NA
-"30","hrshaw","Harris's Hawk","Parabuteo unicinctus","L770565","South Padre Is.--Birding and Nature Center","2025-11-05 10:39",1,26.1374628,-97.1739367,TRUE,FALSE,FALSE,"S283031429",NA
-"31","hrshaw","Harris's Hawk","Parabuteo unicinctus","L229841","Agua Nueva Park (was Roger Road WRF)","2025-11-05 10:35",1,32.2804902,-111.0272755,TRUE,FALSE,FALSE,"S283048778",NA
-"32","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54795350","1851–1899 N 72nd Pl, Scottsdale US-AZ (33.4685,-111.9249)","2025-11-05 10:16",1,33.468523,-111.924929,TRUE,FALSE,TRUE,"S283018433",NA
-"33","hrshaw","Harris's Hawk","Parabuteo unicinctus","L23644307","USFWS — La Gloria (No Public Access)","2025-11-05 10:09",1,26.060397,-97.808738,TRUE,FALSE,TRUE,"S283036747",NA
-"34","hrshaw","Harris's Hawk","Parabuteo unicinctus","L190217","Evelyn Hallman Park","2025-11-05 10:05",3,33.4480905,-111.9371943,TRUE,FALSE,FALSE,"S283051270",NA
-"35","hrshaw","Harris's Hawk","Parabuteo unicinctus","L17888936","Laguna Atascosa NWR--Pelican Lake","2025-11-05 10:03",1,26.2013894,-97.3358761,TRUE,FALSE,FALSE,"S283019886",NA
-"36","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54816654","37537–37865 E Ocean Blvd, Brownsville US-TX 26.06758, -97.41933","2025-11-05 09:42",3,26.067581,-97.419331,TRUE,FALSE,TRUE,"S283005740",NA
-"37","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1495267","King Ranch--Norias Division--Center/HQ area","2025-11-05 09:21",4,26.7721022,-97.7013494,TRUE,FALSE,FALSE,"S283024606",NA
-"38","hrshaw","Harris's Hawk","Parabuteo unicinctus","L514799","Palo Alto Battlefield NHP (LTC 031)","2025-11-05 09:15",2,26.0191488,-97.4760676,TRUE,FALSE,FALSE,"S283002656",NA
-"39","hrshaw","Harris's Hawk","Parabuteo unicinctus","L29863056","West Magee Road","2025-11-05 09:05",1,32.3514809,-111.007217,TRUE,FALSE,TRUE,"S283014596",NA
-"40","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54824304","Palo Alto Private Property Inholding","2025-11-05 08:43",1,26.0046227,-97.4641176,TRUE,FALSE,TRUE,"S283045281",NA
-"41","hrshaw","Harris's Hawk","Parabuteo unicinctus","L299012","Oracle State Park","2025-11-05 08:29",2,32.6083177,-110.7335132,TRUE,FALSE,FALSE,"S283028221",NA
-"42","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54339395","810 La Cuchilla Street, La Grulla, Texas, US (26.267, -98.66)","2025-11-05 08:22",1,26.2674525,-98.6596338,TRUE,FALSE,TRUE,"S283011427",NA
-"43","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54816085","3802 Farm to Market Road 511, Brownsville, Texas, US (26.002, -97.466)","2025-11-05 08:07",1,26.0020518,-97.4661577,TRUE,FALSE,TRUE,"S283002778",NA
-"44","hrshaw","Harris's Hawk","Parabuteo unicinctus","L3322724","Cameron Co.--TX100--Aplomado Viewing Area","2025-11-05 07:48",2,26.0913939,-97.3272438,TRUE,FALSE,FALSE,"S282992860",NA
-"45","hrshaw","Harris's Hawk","Parabuteo unicinctus","L389757","Old Port Isabel Rd","2025-11-05 07:42",3,26.0057269,-97.4183462,TRUE,FALSE,FALSE,"S283013267",NA
-"46","hrshaw","Harris's Hawk","Parabuteo unicinctus","L45712116","Bayside Drive, Los Fresnos, Texas, US (26.182, -97.35)","2025-11-05 07:42",2,26.1820317,-97.3495183,TRUE,FALSE,TRUE,"S283008309",NA
-"47","hrshaw","Harris's Hawk","Parabuteo unicinctus","L267156","Danny Lopez Park (formerly Columbus Park)","2025-11-05 07:41",2,32.2856814,-111.0346556,TRUE,FALSE,FALSE,"S283015989",NA
-"48","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54824741","27306–27308 US-59, Bruni US-TX 27.77538, -98.84353","2025-11-05 07:40",1,27.775375,-98.843529,TRUE,FALSE,TRUE,"S283047474",NA
-"49","hrshaw","Harris's Hawk","Parabuteo unicinctus","L999878","Northsight Park","2025-11-05 07:35",3,33.6122247,-111.8988848,TRUE,FALSE,FALSE,"S283009349",NA
-"50","hrshaw","Harris's Hawk","Parabuteo unicinctus","L144858","Riparian Preserve at Gilbert Water Ranch","2025-11-05 07:32",1,33.3614502,-111.7339478,TRUE,FALSE,FALSE,"S283020544",NA
-"51","hrshaw","Harris's Hawk","Parabuteo unicinctus","L4935482","Rio Vista Community Park/Riparian Area","2025-11-05 07:30",1,33.615206,-112.246615,TRUE,FALSE,FALSE,"S283043480",NA
-"52","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54813030","STRIPES","2025-11-05 07:26",3,25.962371,-97.42446,TRUE,FALSE,TRUE,"S282984749",NA
-"53","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54818190","Danny Lopez Park, Tucson US-AZ 32.28348, -111.03548","2025-11-05 07:22",1,32.28348,-111.03548,TRUE,FALSE,TRUE,"S283014238",NA
-"54","hrshaw","Harris's Hawk","Parabuteo unicinctus","L288854","Laguna Atascosa NWR--Bayside Drive","2025-11-05 07:15",1,26.2163251,-97.3425493,TRUE,FALSE,FALSE,"S282986307",NA
-"55","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54825618","Hwy 100 And Buena Vista Boulevard","2025-11-05 07:15",3,26.0904038,-97.3487826,TRUE,FALSE,TRUE,"S283052025",NA
-"56","hrshaw","Harris's Hawk","Parabuteo unicinctus","L723082","Laguna Atascosa NWR--Buena Vista Blvd. (within refuge)","2025-11-05 07:10",2,26.2112414,-97.3515916,TRUE,FALSE,FALSE,"S283024291",NA
-"57","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1126444","Laguna Seca Ranch","2025-11-05 07:08",7,26.5118247,-98.1917667,TRUE,FALSE,FALSE,"S283009132",NA
-"58","hrshaw","Harris's Hawk","Parabuteo unicinctus","L3153546","Rio Grande River--by boat N. of Anzalduas Dam (USA side)","2025-11-05 07:00",1,26.1619478,-98.3328885,TRUE,FALSE,FALSE,"S283029465",NA
-"59","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54821691","King Ranch Visitor Center","2025-11-05 07:00",8,26.7196717,-97.6153278,TRUE,FALSE,TRUE,"S283026402",NA
-"60","hrshaw","Harris's Hawk","Parabuteo unicinctus","L507911","King Ranch--Norias Division (Kenedy Co.)","2025-11-05 06:47",2,26.7876524,-97.7707243,TRUE,FALSE,FALSE,"S283026820",NA
-"61","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54821529","harlingen Convention Center Parking lot","2025-11-05 06:30",1,26.1991125,-97.7238607,TRUE,FALSE,TRUE,"S283032094",NA
-"62","hrshaw","Harris's Hawk","Parabuteo unicinctus","L16865025","Rio Grande Valley Birding Festival HQ / Harlingen Convention Center area","2025-11-05 06:25",1,26.1988943,-97.7245322,TRUE,FALSE,FALSE,"S282980846",NA
-"63","hrshaw","Harris's Hawk","Parabuteo unicinctus","L2415560","Cameron Co.--TX100 Resacas","2025-11-05 06:21",1,26.0795175,-97.568357,TRUE,FALSE,FALSE,"S283033073",NA
-"64","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1023607","Bejarano McFarland Memorial Park","2025-11-04 17:44",1,26.0806209,-97.2511321,TRUE,FALSE,FALSE,"S282923450",NA
-"65","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54800650","IH-69E S, Combes US-TX (26.2533,-97.7301)","2025-11-04 17:38",1,26.253318,-97.730149,TRUE,FALSE,TRUE,"S282923023",NA
-"66","hrshaw","Harris's Hawk","Parabuteo unicinctus","L816225","Harlingen Convention Center","2025-11-04 17:15",1,26.1996901,-97.708261,TRUE,FALSE,FALSE,"S282924027",NA
-"67","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1670263","San Benito--Rice Tract Road","2025-11-04 17:14",1,26.0790261,-97.5886559,TRUE,FALSE,FALSE,"S283010431",NA
-"68","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1650652","Tempe Town Lake--Pedestrian Bridge","2025-11-04 15:40",2,33.4334758,-111.9486773,TRUE,FALSE,FALSE,"S283023829",NA
-"69","hrshaw","Harris's Hawk","Parabuteo unicinctus","L41119390","Bentsen-Rio Grande Valley SP--Kingfisher Overlook","2025-11-04 15:21",2,26.1787168,-98.3866459,TRUE,FALSE,FALSE,"S282920631",NA
-"70","hrshaw","Harris's Hawk","Parabuteo unicinctus","L6087334","Raymondville Memorial Park Cemetery","2025-11-04 15:19",2,26.4840633,-97.751727,TRUE,FALSE,FALSE,"S282922072",NA
-"71","hrshaw","Harris's Hawk","Parabuteo unicinctus","L2125666","King Ranch Visitor Center","2025-11-04 15:17",2,27.5199373,-97.8960156,TRUE,FALSE,FALSE,"S282908516",NA
-"72","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54797026","US-281 S, Alice US-TX 27.68962, -98.07936","2025-11-04 14:57",1,27.689618,-98.07936,TRUE,FALSE,TRUE,"S282906090",NA
-"73","hrshaw","Harris's Hawk","Parabuteo unicinctus","L715412","Higley and Ocotillo Rds. ponds","2025-11-04 14:44",1,33.2533311,-111.7181683,TRUE,FALSE,FALSE,"S282917117",NA
-"74","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54803084","1400–1426 W Ina Rd, Tucson US-AZ (32.3372,-110.9960)","2025-11-04 14:38",1,32.337213,-110.996001,TRUE,FALSE,TRUE,"S282933985",NA
-"75","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54795910","FM-624, Tilden US-TX 28.10596, -98.48499","2025-11-04 14:10",2,28.105961,-98.484988,TRUE,FALSE,TRUE,"S282900888",NA
-"76","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54795698","FM-624, Tilden US-TX 28.17670, -98.70199","2025-11-04 13:54",4,28.176704,-98.701987,TRUE,FALSE,TRUE,"S282899863",NA
-"77","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1524491","Santa Margarita Ranch (La Salle Co.)(now closed to public)","2025-11-04 13:40",3,28.1284142,-99.044019,TRUE,FALSE,FALSE,"S282897732",NA
-"78","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54794851","10943–10963 RM-624, Cotulla US-TX 28.32256, -99.09879","2025-11-04 13:24",1,28.322561,-99.098794,TRUE,FALSE,TRUE,"S282895809",NA
-"79","hrshaw","Harris's Hawk","Parabuteo unicinctus","L16885482","Frontage Road Pond","2025-11-04 13:00",2,26.2816532,-97.7550344,TRUE,FALSE,TRUE,"S282897275",NA
-"80","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54802347","Hugh Ramsey Nature Park, Harlingen US-TX (26.1863,-97.6625)","2025-11-04 12:36",1,26.186318,-97.662482,TRUE,FALSE,TRUE,"S282930898",NA
-"81","hrshaw","Harris's Hawk","Parabuteo unicinctus","L2848303","Kenedy Co.--US77 parking area","2025-11-04 12:27",1,26.695577,-97.7680555,TRUE,FALSE,FALSE,"S282941892",NA
-"82","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54793584","17151–17285 FM-117, Dilley US-TX 28.80747, -99.37979","2025-11-04 12:25",1,28.80747,-99.379789,TRUE,FALSE,TRUE,"S282890092",NA
-"83","hrshaw","Harris's Hawk","Parabuteo unicinctus","L2392487","Laguna Vista Nature Trail","2025-11-04 12:19",1,26.1009454,-97.29914,TRUE,FALSE,FALSE,"S282901833",NA
-"84","hrshaw","Harris's Hawk","Parabuteo unicinctus","L421038","McAllen Nature Center (LTC 065)","2025-11-04 11:21",1,26.2082122,-98.2659218,TRUE,FALSE,FALSE,"S282892072",NA
-"85","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54792134","27339 Rice Tract Road, San Benito, Texas, US (26.081, -97.582)","2025-11-04 11:12",2,26.0809728,-97.5823808,TRUE,FALSE,TRUE,"S282882992",NA
-"86","hrshaw","Harris's Hawk","Parabuteo unicinctus","L129005","Laguna Atascosa NWR (LTC 024)","2025-11-04 11:00",2,26.2295776,-97.3466982,TRUE,FALSE,FALSE,"S282964887",NA
-"87","hrshaw","Harris's Hawk","Parabuteo unicinctus","L517989","Bracketville Rest Stop (HOTW 017)","2025-11-04 10:51",2,29.2806906,-100.3235757,TRUE,FALSE,FALSE,"S282879667",NA
-"88","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54792626","202 and 24 St","2025-11-04 10:18",1,33.4622864,-112.0215067,TRUE,FALSE,TRUE,"S282885671",NA
-"89","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54790313","19291–19883 E Brown Tract Rd, Rio Hondo US-TX 26.27857, -97.52490","2025-11-04 10:14",1,26.278569,-97.524895,TRUE,FALSE,TRUE,"S282873528",NA
-"90","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54789682","McDonald Rd, San Benito US-TX 26.16710, -97.62694","2025-11-04 10:04",1,26.167101,-97.626944,TRUE,FALSE,TRUE,"S282870167",NA
-"91","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1673684","San Benito Wetlands (restricted access)","2025-11-04 09:59",1,26.1739485,-97.6235167,TRUE,FALSE,FALSE,"S282869250",NA
-"92","hrshaw","Harris's Hawk","Parabuteo unicinctus","L4244612","Laguna Atascosa NWR--from General Brant Rd","2025-11-04 09:52",1,26.200586,-97.4147467,TRUE,FALSE,FALSE,"S282868130",NA
-"93","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54761783","US-281 N, Alice US-TX (27.5499,-98.0979)","2025-11-04 08:16",1,27.549919,-98.097935,TRUE,FALSE,TRUE,"S282874604",NA
-"94","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54809825","E Brown Tract Rd, Rio Hondo US-TX 26.31239, -97.51886","2025-11-04 07:56",2,26.312386,-97.518858,TRUE,FALSE,TRUE,"S282964057",NA
-"95","hrshaw","Harris's Hawk","Parabuteo unicinctus","L287881","Brownsville Landfill (LTC 041) - check in at office","2025-11-04 07:49",1,25.9365631,-97.3924657,TRUE,FALSE,FALSE,"S282868049",NA
-"96","hrshaw","Harris's Hawk","Parabuteo unicinctus","L3319969","Brushline Rd.--FM490 to FM186","2025-11-04 07:37",2,26.4751445,-98.0530643,TRUE,FALSE,FALSE,"S282933094",NA
-"97","hrshaw","Harris's Hawk","Parabuteo unicinctus","L13904752","my backyard","2025-11-04 07:37",2,33.394505,-112.0211905,TRUE,FALSE,TRUE,"S282855599",NA
-"98","hrshaw","Harris's Hawk","Parabuteo unicinctus","L741639","Cameron Company/Port Isabel Reservoir & Holly Beach rd.","2025-11-04 07:29",2,26.120398,-97.3143947,TRUE,FALSE,FALSE,"S282851701",NA
-"99","hrshaw","Harris's Hawk","Parabuteo unicinctus","L129070","Sabal Palm Sanctuary (LTC 042)","2025-11-04 07:21",1,25.85233,-97.4176839,TRUE,FALSE,FALSE,"S282859761",NA
-"100","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54784654","1690–1932 Milpa Verde, Brownsville US-TX 25.87981, -97.45088","2025-11-04 07:10",1,25.879812,-97.450879,TRUE,FALSE,TRUE,"S282840982",NA
-"101","hrshaw","Harris's Hawk","Parabuteo unicinctus","L280913","Rancho Lomitas","2025-11-04 07:04",1,26.4871971,-98.8227511,TRUE,FALSE,FALSE,"S282922220",NA
-"102","hrshaw","Harris's Hawk","Parabuteo unicinctus","L9498990","Chateau De Vie 4","2025-11-04 07:00",4,33.5106047,-111.9013766,TRUE,FALSE,TRUE,"S282852613",NA
-"103","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54784317","22688 Buena Vista Boulevard, Los Fresnos, Texas, US (26.12, -97.339)","2025-11-04 06:55",4,26.1198109,-97.3385185,TRUE,FALSE,TRUE,"S282838537",NA
-"104","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1871151","Tres Rios Overbank Wetlands (permit required)","2025-11-04 06:47",1,33.389402,-112.2597653,TRUE,FALSE,FALSE,"S282876696",NA
-"105","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54772929","22688 Buena Vista Boulevard, Los Fresnos, Texas, US (26.112, -97.316)","2025-11-03 17:23",6,26.1119726,-97.3159919,TRUE,FALSE,TRUE,"S282783326",NA
-"106","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54739911","78582, Rio Grande City US-TX 26.48548, -98.82040","2025-11-03 17:00",1,26.485478,-98.820404,TRUE,FALSE,TRUE,"S282822086",NA
-"107","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54772331","22688 Buena Vista Boulevard, Los Fresnos, Texas, US (26.237, -97.347)","2025-11-03 16:52",1,26.236652,-97.3465698,TRUE,FALSE,TRUE,"S282780438",NA
-"108","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54772140","US-77 S, Sarita US-TX 27.17695, -97.79360","2025-11-03 16:42",1,27.176949,-97.793601,TRUE,FALSE,TRUE,"S282779293",NA
-"109","hrshaw","Harris's Hawk","Parabuteo unicinctus","L336009","National Butterfly Center--General & area North of Levee","2025-11-03 16:42",2,26.1796025,-98.3664483,TRUE,FALSE,FALSE,"S282870817",NA
-"110","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54771739","5155–5245 FM-117, La Pryor US-TX 29.06602, -99.70863","2025-11-03 16:24",2,29.066016,-99.708633,TRUE,FALSE,TRUE,"S282777123",NA
-"111","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54772567","Thunderbird Adventist Academy, Scottsdale US-AZ 33.60901, -111.92265","2025-11-03 16:11",2,33.609014,-111.922653,TRUE,FALSE,TRUE,"S282784787",NA
-"112","hrshaw","Harris's Hawk","Parabuteo unicinctus","L128890","Bentsen-Rio Grande Val. SP WBC (Mission) (LTC 069)","2025-11-03 15:46",3,26.1849709,-98.3793885,TRUE,FALSE,FALSE,"S282788382",NA
-"113","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1050482","TX48--Shrimp Basin Bridge / Zapata Memorial Boat Ramp/ San Martin Lake outlet","2025-11-03 15:42",2,26.0023329,-97.2999001,TRUE,FALSE,FALSE,"S282781795",NA
-"114","hrshaw","Harris's Hawk","Parabuteo unicinctus","L880379","Skunk Creek Riparian Area/Trailhead","2025-11-03 15:28",3,33.6231698,-112.2361135,TRUE,FALSE,FALSE,"S282802246",NA
-"115","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54774510","20830 W Silverbell Rd, Marana US-AZ (32.4450,-111.4131)","2025-11-03 15:25",1,32.445008,-111.413052,TRUE,FALSE,TRUE,"S282790827",NA
-"116","hrshaw","Harris's Hawk","Parabuteo unicinctus","L4760296","San Benito--Gamble rd. at Hudson rd. wetlands","2025-11-03 15:15",1,26.0910518,-97.6478952,TRUE,FALSE,FALSE,"S282790086",NA
-"117","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54775139","Los Fresnos east","2025-11-03 15:10",1,26.0703213,-97.4598016,TRUE,FALSE,TRUE,"S282794129",NA
-"118","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54768838","536 FM-2098, Falcon Heights US-TX 26.55767, -99.12215","2025-11-03 14:29",1,26.55767,-99.12215,TRUE,FALSE,TRUE,"S282763023",NA
-"119","hrshaw","Harris's Hawk","Parabuteo unicinctus","L21966551","Sunland Memorial Cemetery","2025-11-03 13:59",1,33.6270912,-112.2900352,TRUE,FALSE,FALSE,"S282771068",NA
-"120","hrshaw","Harris's Hawk","Parabuteo unicinctus","L129125","Woodland Rd., Tucson","2025-11-03 12:22",1,32.2518324,-110.8064827,TRUE,FALSE,FALSE,"S282766160",NA
-"121","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54769786","Incidental Texas","2025-11-03 12:05",3,26.06123,-97.23756,TRUE,FALSE,TRUE,"S282767753",NA
-"122","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54716698","21403 N Palm Desert Dr, Sun City West US-AZ 33.67764, -112.34273","2025-11-03 11:34",1,33.677638,-112.342728,TRUE,FALSE,TRUE,"S282757308",NA
-"123","hrshaw","Harris's Hawk","Parabuteo unicinctus","L27541335","South Scottsdale, AZ","2025-11-03 10:40",2,33.462695,-111.896196,TRUE,FALSE,TRUE,"S282784537",NA
-"124","hrshaw","Harris's Hawk","Parabuteo unicinctus","L5678029","Carreta Creek WTP, Bishop","2025-11-03 10:30",2,27.5626683,-97.7957532,TRUE,FALSE,FALSE,"S282943419",NA
-"125","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54767551","78541, Edinburg US-TX 26.32679, -98.15197","2025-11-03 10:10",2,26.326789,-98.151966,TRUE,FALSE,TRUE,"S282756577",NA
-"126","hrshaw","Harris's Hawk","Parabuteo unicinctus","L288849","Laguna Atascosa NWR--HQ and Kiskadee Trail","2025-11-03 09:55",1,26.2285086,-97.3475226,TRUE,FALSE,FALSE,"S282780245",NA
-"127","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54761455","22688 Buena Vista Boulevard, Los Fresnos, Texas, US (26.121, -97.34)","2025-11-03 09:42",1,26.1209458,-97.3396975,TRUE,FALSE,TRUE,"S282725578",NA
-"128","hrshaw","Harris's Hawk","Parabuteo unicinctus","L7071943","Bentsen-Rio Grande Valley SP--La Familia Nature ctr. area","2025-11-03 09:13",2,26.183803,-98.38074,TRUE,FALSE,FALSE,"S282767637",NA
-"129","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54760441","34270–34324 Barreda Garden Rd, San Benito US-TX 26.05419, -97.58341","2025-11-03 09:07",1,26.054194,-97.58341,TRUE,FALSE,TRUE,"S282719676",NA
-"130","hrshaw","Harris's Hawk","Parabuteo unicinctus","L567274","Boca Chica - Lower Rio Grande Valley NWR (LTC 043)","2025-11-03 08:49",2,25.9779488,-97.1947652,TRUE,FALSE,FALSE,"S282716744",NA
-"131","hrshaw","Harris's Hawk","Parabuteo unicinctus","L8626038","SRP ponds","2025-11-03 08:34",1,33.441654,-111.95136,TRUE,FALSE,FALSE,"S282733727",NA
-"132","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1879333","Hazel Bazemore Park Hawkwatch Platform","2025-11-03 08:26",3,27.8660551,-97.6427346,TRUE,FALSE,FALSE,"S282800489",NA
-"133","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54772290","Buena Vista Dr, Los Fresnos US-TX 26.13296, -97.35028","2025-11-03 08:21",3,26.132962,-97.350276,TRUE,FALSE,TRUE,"S282780168",NA
-"134","hrshaw","Harris's Hawk","Parabuteo unicinctus","L7760097","Old Price Road/88th St.","2025-11-03 08:00",1,33.2158951,-111.8929549,TRUE,FALSE,TRUE,"S282768079",NA
-"135","hrshaw","Harris's Hawk","Parabuteo unicinctus","L6448572","Friendship Village","2025-11-03 08:00",1,33.3895315,-111.8815631,TRUE,FALSE,FALSE,"S282738610",NA
-"136","hrshaw","Harris's Hawk","Parabuteo unicinctus","L23740774","my neighborhood","2025-11-03 06:49",1,33.6818695,-112.3918457,TRUE,FALSE,TRUE,"S282710399",NA
-"137","hrshaw","Harris's Hawk","Parabuteo unicinctus","L560027","Jacumba--town, pond, fields","2025-11-03 05:45",5,32.6190835,-116.1874054,TRUE,TRUE,FALSE,"S282770442",NA
-"138","hrshaw","Harris's Hawk","Parabuteo unicinctus","L453195","Lake Texana--Navidad River Boat Ramp (US59)","2025-11-02 17:45",1,29.0215008,-96.5693951,TRUE,FALSE,FALSE,"S282664454",NA
-"139","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54762200","Gainey Ranch Golf Club, Scottsdale US-AZ 33.56905, -111.91440","2025-11-02 17:36",1,33.569048,-111.914403,TRUE,FALSE,TRUE,"S282729523",NA
-"140","hrshaw","Harris's Hawk","Parabuteo unicinctus","L53227626","Jesus Maria Road","2025-11-02 17:20",1,26.5560979,-97.9689234,TRUE,FALSE,TRUE,"S282648786",NA
-"141","hrshaw","Harris's Hawk","Parabuteo unicinctus","L40911776","Falcon Lake State Park -- Bird Blind (Starr Co.)","2025-11-02 16:54",1,26.5845966,-99.1500102,TRUE,FALSE,FALSE,"S282638612",NA
-"142","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54730053","6595 West Missouri Street, Tucson, Arizona, US (32.166, -111.105)","2025-11-02 16:43",1,32.1660358,-111.1054916,TRUE,FALSE,TRUE,"S282646931",NA
-"143","hrshaw","Harris's Hawk","Parabuteo unicinctus","L128962","Falcon State Park—SE portion (Starr Co.)  (LTC 084)","2025-11-02 16:12",1,26.5836148,-99.1452921,TRUE,FALSE,FALSE,"S282651839",NA
-"144","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54723494","22688 Buena Vista Boulevard, Los Fresnos, Texas, US (26.112, -97.326)","2025-11-02 14:58",2,26.1118031,-97.3264999,TRUE,FALSE,TRUE,"S282615341",NA
-"145","hrshaw","Harris's Hawk","Parabuteo unicinctus","L2764095","Hanka Sod (former Superior Turf Farms) / Weaver rd.","2025-11-02 14:29",3,26.1039435,-97.7723229,TRUE,FALSE,FALSE,"S282668685",NA
-"146","hrshaw","Harris's Hawk","Parabuteo unicinctus","L27927786","keim 17dr","2025-11-02 14:25",1,33.5267755,-112.0963672,TRUE,FALSE,TRUE,"S282717625",NA
-"147","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54719075","1624 N Raul Longoria Rd, San Juan US-TX 26.20745, -98.15277","2025-11-02 13:15",1,26.207454,-98.152773,TRUE,FALSE,TRUE,"S282595883",NA
-"148","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54731811","21351 Escapees Way, Congress, Arizona, US (34.105, -112.832)","2025-11-02 13:10",2,34.1052654,-112.8315291,TRUE,TRUE,TRUE,"S282655916",NA
-"149","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54715980","Old Charco-Blanco Rd, Rio Grande City US-TX 26.46543, -98.82626","2025-11-02 12:04",1,26.46543,-98.826257,TRUE,FALSE,TRUE,"S282581487",NA
-"150","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54725970","Double Adobe Rd, McNeal US-AZ (31.4670,-109.6892)","2025-11-02 12:01",2,31.466963,-109.689157,TRUE,FALSE,TRUE,"S282626702",NA
-"151","hrshaw","Harris's Hawk","Parabuteo unicinctus","L276835","LRGV NWR--La Sal del Rey (LTC 005)","2025-11-02 11:42",1,26.5305713,-98.0540943,TRUE,FALSE,FALSE,"S282653270",NA
-"152","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54722908","1646–1870 FM-541, Floresville US-TX 29.05349, -98.10430","2025-11-02 11:35",1,29.053495,-98.104299,TRUE,TRUE,TRUE,"S282612832",NA
-"153","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54706512","Nicklaus Drive Fountain Hills AZ 33.57908, -111.71383","2025-11-02 11:23",3,33.579076,-111.713828,TRUE,FALSE,TRUE,"S282592250",NA
-"154","hrshaw","Harris's Hawk","Parabuteo unicinctus","L23666787","Unitarian Universalist Church","2025-11-02 10:56",1,27.6855349,-97.3522153,TRUE,FALSE,TRUE,"S282567080",NA
-"155","hrshaw","Harris's Hawk","Parabuteo unicinctus","L17392109","Shelter Valley--general area","2025-11-02 10:52",4,33.0707803,-116.4372306,TRUE,TRUE,FALSE,"S282601172",NA
-"156","hrshaw","Harris's Hawk","Parabuteo unicinctus","L2423315","San Benito--Yost pond","2025-11-02 10:20",1,26.1133656,-97.6292968,TRUE,FALSE,FALSE,"S282586596",NA
-"157","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54713163","North Pinal Parkway Avenue, Florence, Arizona","2025-11-02 10:01",1,33.0466612,-111.3791142,TRUE,FALSE,TRUE,"S282568039",NA
-"158","hrshaw","Harris's Hawk","Parabuteo unicinctus","L16238788","La Paloma","2025-11-02 09:02",1,27.8639052,-98.4210248,TRUE,FALSE,TRUE,"S282569833",NA
-"159","hrshaw","Harris's Hawk","Parabuteo unicinctus","L2266657","Laguna Atascosa NWR--Lakeside Drive","2025-11-02 08:48",1,26.2335321,-97.3533726,TRUE,FALSE,FALSE,"S282545075",NA
-"160","hrshaw","Harris's Hawk","Parabuteo unicinctus","L23884712","Los Arrieros Loop","2025-11-02 08:45",2,26.506871,-99.08065,TRUE,FALSE,TRUE,"S282556197",NA
-"161","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54769359","6340 West Grovers Avenue, Glendale, Arizona, US (33.648, -112.195)","2025-11-02 08:41",3,33.6476016,-112.1952845,TRUE,FALSE,TRUE,"S282765448",NA
-"162","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54708023","Pinal Pioneer Pkwy, Tucson US-AZ 32.58000, -110.95178","2025-11-02 08:27",1,32.579996,-110.951783,TRUE,FALSE,TRUE,"S282541830",NA
-"163","hrshaw","Harris's Hawk","Parabuteo unicinctus","L38916334","Starr Co.—Old 83 Rd X Santa Margarita Rd","2025-11-02 08:16",1,26.4981706,-99.0760829,TRUE,FALSE,FALSE,"S282529495",NA
-"164","hrshaw","Harris's Hawk","Parabuteo unicinctus","L26789935","5301 East Glenn Street At Beverly","2025-11-02 08:13",3,32.2579445,-110.8795065,TRUE,FALSE,TRUE,"S282537561",NA
-"165","hrshaw","Harris's Hawk","Parabuteo unicinctus","L14126906","South 28th St  (bird from road)","2025-11-02 07:44",1,33.3905919,-112.021551,TRUE,FALSE,TRUE,"S282554005",NA
-"166","hrshaw","Harris's Hawk","Parabuteo unicinctus","L26445598","Backyard","2025-11-02 07:26",1,25.992129,-97.507516,TRUE,FALSE,TRUE,"S282506261",NA
-"167","hrshaw","Harris's Hawk","Parabuteo unicinctus","L6610585","Ranado windmill area","2025-11-02 07:00",6,27.0767945,-98.884982,TRUE,FALSE,FALSE,"S282692068",NA
-"168","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54701659","La Joya Incidentals","2025-11-02 06:54",1,26.256621,-98.449886,TRUE,FALSE,TRUE,"S282507389",NA
-"169","hrshaw","Harris's Hawk","Parabuteo unicinctus","L18078847","210 West 2nd Avenue, Ajo","2025-11-02 06:47",1,32.3800019,-112.8640239,TRUE,FALSE,TRUE,"S282519114",NA
-"170","hrshaw","Harris's Hawk","Parabuteo unicinctus","L20973859","Quartzite Drive","2025-11-02 06:47",1,32.9107012,-111.2718299,TRUE,FALSE,TRUE,"S282921122",NA
-"171","hrshaw","Harris's Hawk","Parabuteo unicinctus","L999592","Las Palomas WMA--Longoria Unit (restricted access)","2025-11-02 06:28",1,26.3201907,-97.8229523,TRUE,FALSE,FALSE,"S282907697",NA
-"172","hrshaw","Harris's Hawk","Parabuteo unicinctus","L375162","King Ranch--Santa Gertrudis Unit (CTC 087)","2025-11-01 15:00",4,27.5183197,-97.9093409,TRUE,FALSE,FALSE,"S282610701",NA
-"173","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54722092","butterfly center","2025-11-01 14:32",2,26.176963,-98.365647,TRUE,FALSE,TRUE,"S282609408",NA
-"174","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1421699","Combes Lake","2025-11-01 13:42",1,26.2473895,-97.7229595,TRUE,FALSE,FALSE,"S282381864",NA
-"175","hrshaw","Harris's Hawk","Parabuteo unicinctus","L8463998","Tonto National Forest, Mesa US-AZ (33.5363,-111.6411)","2025-11-01 13:29",1,33.536258,-111.64115,TRUE,FALSE,TRUE,"S282479826",NA
-"176","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54667319","E Ocean Blvd, Los Fresnos US-TX 26.06617, -97.39771","2025-11-01 11:35",3,26.066168,-97.397709,TRUE,FALSE,TRUE,"S282351463",NA
-"177","hrshaw","Harris's Hawk","Parabuteo unicinctus","L16427089","42917–43891 Santa Isabel Blvd, Laguna Vista US-TX 26.11665, -97.33530","2025-11-01 11:00",1,26.116651,-97.335297,TRUE,FALSE,TRUE,"S282343761",NA
-"178","hrshaw","Harris's Hawk","Parabuteo unicinctus","L455142","Rousseau Sod Farm (restricted access)","2025-11-01 10:55",1,33.522882,-111.8430412,TRUE,FALSE,FALSE,"S282399260",NA
-"179","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54675386","Incidental Texas","2025-11-01 10:48",1,26.13397,-97.35035,TRUE,FALSE,TRUE,"S282387396",NA
-"180","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54669388","204 West Genematas Drive, Tucson, Arizona, US (32.3, -110.978)","2025-11-01 10:20",1,32.2996353,-110.9779134,TRUE,FALSE,TRUE,"S282360981",NA
-"181","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54584453","Driving Buena Vista Boulevard, Los Fresnos, Texas, US (26.124, -97.342)","2025-11-01 09:56",2,26.1238,-97.342454,TRUE,FALSE,TRUE,"S282329086",NA
-"182","hrshaw","Harris's Hawk","Parabuteo unicinctus","L11838284","Bentsen-Rio Grande Valley SP—Primitive Camping Area","2025-11-01 09:33",1,26.1774664,-98.3836279,TRUE,FALSE,FALSE,"S282425256",NA
-"183","hrshaw","Harris's Hawk","Parabuteo unicinctus","L22845230","San Ysidro","2025-11-01 08:23",1,32.362177,-106.815188,TRUE,FALSE,TRUE,"S282398385",NA
-"184","hrshaw","Harris's Hawk","Parabuteo unicinctus","L4258738","Bentsen-Rio Grande Val. SP--Kiskadee Bird Blind","2025-11-01 08:10",1,26.1764248,-98.3861887,TRUE,FALSE,FALSE,"S282356581",NA
-"185","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54663187","Common Ground Church - 17251 S La Cañada Dr, Sahuarita US-AZ 31.93637, -110.99407","2025-11-01 08:08",2,31.936371,-110.994073,TRUE,TRUE,TRUE,"S282332418",NA
-"186","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54657656","FM-187 Sabinal to Utopia","2025-11-01 07:59",1,29.42234,-99.469697,TRUE,FALSE,TRUE,"S282305445",NA
-"187","hrshaw","Harris's Hawk","Parabuteo unicinctus","L2113696","Saguaro NP--West--King Canyon Trail","2025-11-01 07:30",1,32.2479964,-111.1668992,TRUE,FALSE,FALSE,"S282799662",NA
-"188","hrshaw","Harris's Hawk","Parabuteo unicinctus","L129086","Santa Margarita Ranch (LTC 079) (restricted access - guided groups only)","2025-11-01 07:21",3,26.4856177,-99.0912337,TRUE,FALSE,FALSE,"S282409733",NA
-"189","hrshaw","Harris's Hawk","Parabuteo unicinctus","L10708311","Lone Mountain Trailhead","2025-11-01 07:00",1,33.5047949,-111.6175318,TRUE,FALSE,FALSE,"S282397386",NA
-"190","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54661255","1473 E Whiteley St, Apache Junction US-AZ 33.45285, -111.53010","2025-11-01 07:00",1,33.452845,-111.530096,TRUE,FALSE,TRUE,"S282323733",NA
-"191","hrshaw","Harris's Hawk","Parabuteo unicinctus","L5948468","Moon Valley Park","2025-11-01 06:32",1,33.6273485,-112.0809075,TRUE,FALSE,FALSE,"S282331149",NA
-"192","hrshaw","Harris's Hawk","Parabuteo unicinctus","L51225828","Vaughn Avenue Basin","2025-11-01",1,33.3566192,-111.7953532,TRUE,FALSE,FALSE,"S282652007",NA
-"193","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1143835","Calhoun Co.--FM1289 Rice Fields","2025-10-31 17:36",1,28.5151594,-96.6066456,TRUE,FALSE,FALSE,"S282241039",NA
-"194","hrshaw","Harris's Hawk","Parabuteo unicinctus","L40110751","East Vista Monte Drive","2025-10-31 17:26",1,31.9557469,-110.7665161,TRUE,TRUE,TRUE,"S282240138",NA
-"195","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54643451","N Scottsdale Rd, Paradise Valley US-AZ 33.56893, -111.92614","2025-10-31 17:15",1,33.568929,-111.926142,TRUE,FALSE,TRUE,"S282238617",NA
-"196","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54644167","Usery Pass Rd, Mesa US-AZ (33.5075,-111.6174)","2025-10-31 17:10",3,33.507472,-111.617448,TRUE,FALSE,TRUE,"S282241586",NA
-"197","hrshaw","Harris's Hawk","Parabuteo unicinctus","L39296892","7387 Kickin Horse Trail, Julian US-CA 33.07332, -116.43758","2025-10-31 17:03",4,33.073318,-116.437581,TRUE,TRUE,TRUE,"S282239874",NA
-"198","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54639576","17015–17039 Carretera 281 S, Falfurrias US-TX 27.28503, -98.13349","2025-10-31 15:54",1,27.285033,-98.133486,TRUE,FALSE,TRUE,"S282219988",NA
-"199","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54640816","Roadside Incidental","2025-10-31 12:31",1,26.06464,-97.58183,TRUE,FALSE,TRUE,"S282226533",NA
-"200","hrshaw","Harris's Hawk","Parabuteo unicinctus","L613081","Bentsen-Rio Grande Val. SP--Hawk Watch","2025-10-31 10:59",2,26.1690952,-98.3805352,TRUE,FALSE,FALSE,"S282187454",NA
-"201","hrshaw","Harris's Hawk","Parabuteo unicinctus","L42394547","New Carmen Ave, Brownsville US-TX 26.01211, -97.57014","2025-10-31 10:43",5,26.012109,-97.570144,TRUE,FALSE,TRUE,"S282183628",NA
-"202","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54631683","33490 Barreda Garden Rd, San Benito US-TX 26.07369, -97.58058","2025-10-31 10:35",1,26.073689,-97.580578,TRUE,FALSE,TRUE,"S282182700",NA
-"203","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54678687","St.Augustine School","2025-10-31 10:30",2,32.2063085,-110.8041422,TRUE,FALSE,TRUE,"S282401351",NA
-"204","hrshaw","Harris's Hawk","Parabuteo unicinctus","L938672","Usery Mountain Regional Park","2025-10-31 10:16",1,33.474,-111.615385,TRUE,FALSE,FALSE,"S282205576",NA
-"205","hrshaw","Harris's Hawk","Parabuteo unicinctus","L38806084","S Conway Ave, Mission US-TX 26.18581, -98.33096","2025-10-31 09:51",1,26.185809,-98.33096,TRUE,FALSE,TRUE,"S282174357",NA
-"206","hrshaw","Harris's Hawk","Parabuteo unicinctus","L346021","Vernon Ave yard","2025-10-31 09:24",1,33.4740986,-111.9596002,TRUE,FALSE,TRUE,"S282293989",NA
-"207","hrshaw","Harris's Hawk","Parabuteo unicinctus","L367115","Eldorado Park","2025-10-31 09:05",2,33.4701843,-111.9160938,TRUE,FALSE,FALSE,"S282206086",NA
-"208","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54619068","35275 W Cartegna Ln, Maricopa US-AZ 33.05134, -111.94646","2025-10-31 07:58",1,33.051342,-111.946457,TRUE,FALSE,TRUE,"S282235526",NA
-"209","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54616158","6595 W Missouri St, Tucson US-AZ 32.16605, -111.10510","2025-10-31 07:41",4,32.166052,-111.105099,TRUE,FALSE,TRUE,"S282177065",NA
-"210","hrshaw","Harris's Hawk","Parabuteo unicinctus","L21805521","5746–5866 FM-1352, Alice US-TX (27.6688,-97.9987)","2025-10-30 18:45",3,27.668788,-97.998734,TRUE,FALSE,TRUE,"S282108677",NA
-"211","hrshaw","Harris's Hawk","Parabuteo unicinctus","L53984428","Pharr(Private Property)","2025-10-30 18:40",3,26.225014,-98.215821,TRUE,FALSE,TRUE,"S282197654",NA
-"212","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54615478","Buena Vista Blvd/510","2025-10-30 15:15",4,26.1349302,-97.3506351,TRUE,FALSE,TRUE,"S282103581",NA
-"213","hrshaw","Harris's Hawk","Parabuteo unicinctus","L129106","Tanque Verde Wash--Wentworth Rd.","2025-10-30 14:10",1,32.2400762,-110.7208975,TRUE,FALSE,FALSE,"S282116490",NA
-"214","hrshaw","Harris's Hawk","Parabuteo unicinctus","L19571273","Dayton--Fishing Pond & Park","2025-10-30 12:35",1,46.3136034,-117.9738726,TRUE,TRUE,FALSE,"S282117456","X"
-"215","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54607231","44092 Palmito Hill Rd, Brownsville US-TX 25.94074, -97.29059","2025-10-30 11:48",2,25.940744,-97.29059,TRUE,FALSE,TRUE,"S282062384",NA
-"216","hrshaw","Harris's Hawk","Parabuteo unicinctus","L50000772","Chapman Ranch - CR 51 (west of FM 70 to King Ranch gate)","2025-10-30 09:41",1,27.5847051,-97.5027682,TRUE,FALSE,TRUE,"S282047878",NA
-"217","hrshaw","Harris's Hawk","Parabuteo unicinctus","L38665302","1627 North Pinal Avenue, Casa Grande, Arizona, US (32.895, -111.758)","2025-10-30 09:31",3,32.8947596,-111.7579374,TRUE,FALSE,TRUE,"S282060254",NA
-"218","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54608269","Desert near Brahma Rd","2025-10-30 08:01",2,31.974576,-110.819403,TRUE,TRUE,TRUE,"S282067710",NA
-"219","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1583722","Tempe: Marlborough Park neighborhood","2025-10-30 07:52",1,33.4483263,-111.9330702,TRUE,FALSE,TRUE,"S282126919",NA
-"220","hrshaw","Harris's Hawk","Parabuteo unicinctus","L2923923","Tucson--Glenn St/N Houghton Rd","2025-10-30 06:58",1,32.2581174,-110.7722712,TRUE,FALSE,TRUE,"S282037828",NA
-"221","hrshaw","Harris's Hawk","Parabuteo unicinctus","L39169412","2930 W Placita Enrica, Tucson US-AZ 32.33359, -111.02918","2025-10-30 06:53",4,32.333591,-111.029182,TRUE,FALSE,TRUE,"S282036952",NA
-"222","hrshaw","Harris's Hawk","Parabuteo unicinctus","L245447","Fort Lowell Park and Pantano Wash","2025-10-30 06:40",1,32.2605631,-110.8727628,TRUE,FALSE,FALSE,"S282074625",NA
-"223","hrshaw","Harris's Hawk","Parabuteo unicinctus","L25830450","West Wenden Drive, Arizona City, Arizona, US (32.752, -111.663)","2025-10-29 16:49",3,32.7522167,-111.6633967,TRUE,FALSE,TRUE,"S281976914",NA
-"224","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54589359","3175 North Campbell Avenue, Tucson, Arizona, US (32.265, -110.944)","2025-10-29 16:37",2,32.2645816,-110.9441981,TRUE,FALSE,TRUE,"S281976126",NA
-"225","hrshaw","Harris's Hawk","Parabuteo unicinctus","L39932111","First Tree 1209 North Schultz Street, Casa Grande, Arizona, US (32.885, -111.766)","2025-10-29 14:51",1,32.8849886,-111.7661379,TRUE,FALSE,TRUE,"S281966944",NA
-"226","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54586100","Ina And La Canada Rds, Arizona, US (32.337, -110.995)","2025-10-29 13:59",2,32.3367992,-110.9950106,TRUE,FALSE,TRUE,"S281959995",NA
-"227","hrshaw","Harris's Hawk","Parabuteo unicinctus","L43395302","EIA (Private property/restricted access)","2025-10-29 13:22",1,26.2747338,-98.1620371,TRUE,FALSE,TRUE,"S282043982",NA
-"228","hrshaw","Harris's Hawk","Parabuteo unicinctus","L4356764","Sun City West, Paintbrush Drive, AZ","2025-10-29 12:28",3,33.669592,-112.3369217,TRUE,FALSE,TRUE,"S281952661",NA
-"229","hrshaw","Harris's Hawk","Parabuteo unicinctus","L290332","Evergreen Cemetery","2025-10-29 11:59",1,32.2649478,-110.9811517,TRUE,FALSE,FALSE,"S281950571",NA
-"230","hrshaw","Harris's Hawk","Parabuteo unicinctus","L3630286","Stonecreek Golf Club","2025-10-29 10:16",1,33.5907848,-111.978332,TRUE,FALSE,FALSE,"S281948283",NA
-"231","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54577743","1442–1450 FM-624, Tilden US-TX 28.13276, -98.55213","2025-10-29 09:44",1,28.132764,-98.552129,TRUE,FALSE,TRUE,"S281917735",NA
-"232","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54580407","S Houghton Rd, Tucson (32.19976, -110.77278)","2025-10-29 09:43",3,32.199756,-110.772781,TRUE,FALSE,TRUE,"S281930904",NA
-"233","hrshaw","Harris's Hawk","Parabuteo unicinctus","L28921574","McDowell Mountain Regional Park--Rowland Campground","2025-10-29 09:02",1,33.693941,-111.734096,TRUE,FALSE,FALSE,"S282167192",NA
-"234","hrshaw","Harris's Hawk","Parabuteo unicinctus","L15410297","Resaca de la Palma State Park, Brownsville US-TX 25.99615, -97.56931","2025-10-29 08:33",1,25.99615,-97.569314,TRUE,FALSE,TRUE,"S281931230",NA
-"235","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1416114","Riggs and Price Rds. ponds","2025-10-29 08:05",2,33.2193147,-111.892638,TRUE,FALSE,FALSE,"S281962381",NA
-"236","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54574087","IH-37 N, Three Rivers US-TX 28.61445, -98.22941","2025-10-29 08:05",1,28.614452,-98.229412,TRUE,FALSE,TRUE,"S281898414",NA
-"237","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54579456","12523 W Mile Wide Rd, Tucson US-AZ 32.24807, -111.23384","2025-10-29 07:55",4,32.248072,-111.233838,TRUE,FALSE,TRUE,"S281926228",NA
-"238","hrshaw","Harris's Hawk","Parabuteo unicinctus","L515005","Falcon State Park--NW of Butterfly Garden (Zapata Co.) (Cenizo, Cactus, Javelina Loops & Boat Ramp)","2025-10-29 07:20",1,26.5881587,-99.1506837,TRUE,FALSE,FALSE,"S281986995",NA
-"239","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54563999","4194–4298 FM-1017, Rio Grande City US-TX 26.74068, -98.58581","2025-10-28 18:25",1,26.740682,-98.58581,TRUE,FALSE,TRUE,"S281850513",NA
-"240","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54561630","22688 Buena Vista Boulevard, Los Fresnos, Texas, US (26.085, -97.269)","2025-10-28 17:40",1,26.0853775,-97.2692002,TRUE,FALSE,TRUE,"S281838514",NA
-"241","hrshaw","Harris's Hawk","Parabuteo unicinctus","L38078087","Queen Creek Wash Trail (Pecan Circle)","2025-10-28 17:21",1,33.2317196,-111.6101168,TRUE,FALSE,FALSE,"S281847870",NA
-"242","hrshaw","Harris's Hawk","Parabuteo unicinctus","L18215794","Retama Village RV Resort","2025-10-28 16:00",1,26.1901016,-98.378191,TRUE,FALSE,FALSE,"S281861827",NA
-"243","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54561548","715 West McMurray Boulevard, Casa Grande, Arizona, US (32.887, -111.765)","2025-10-28 15:14",1,32.886757,-111.7653483,TRUE,FALSE,TRUE,"S281838124",NA
-"244","hrshaw","Harris's Hawk","Parabuteo unicinctus","L710850","Glendale Recharge Ponds","2025-10-28 14:45",1,33.5242237,-112.286582,TRUE,FALSE,FALSE,"S281846457",NA
-"245","hrshaw","Harris's Hawk","Parabuteo unicinctus","L208918","Sweetwater Wetlands","2025-10-28 13:00",1,32.2790144,-111.0216061,TRUE,FALSE,FALSE,"S281839081",NA
-"246","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1108587","Canada del Oro Riverfront Park","2025-10-28 12:35",1,32.3967018,-110.976646,TRUE,FALSE,FALSE,"S281856847",NA
-"247","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1148441","Estero Llano Grande SP--Tropical Zone only","2025-10-28 09:39",1,26.124386,-97.9585648,TRUE,FALSE,FALSE,"S281788146",NA
-"248","hrshaw","Harris's Hawk","Parabuteo unicinctus","L27645728","202 and 101 intersection","2025-10-28 09:26",1,33.4358585,-111.8931187,TRUE,FALSE,TRUE,"S281802601",NA
-"249","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1361443","McDowell Sonoran Preserve--Brown's Ranch Area","2025-10-28 08:52",5,33.7800123,-111.8411449,TRUE,FALSE,FALSE,"S281804360",NA
-"250","hrshaw","Harris's Hawk","Parabuteo unicinctus","L21351112","215-247 N. Cody Loop, Oracle Az","2025-10-28 07:30",4,32.6024655,-110.7586688,TRUE,FALSE,TRUE,"S281939530",NA
-"251","hrshaw","Harris's Hawk","Parabuteo unicinctus","L28255401","10710 E Migratory Pl, Tucson US-AZ 32.22095, -110.76392","2025-10-27 14:09",1,32.220955,-110.763916,TRUE,FALSE,TRUE,"S281695696",NA
-"252","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54528742","22688 Buena Vista Boulevard, Los Fresnos, Texas, US (26.094, -97.291)","2025-10-27 13:51",1,26.0943329,-97.2913973,TRUE,FALSE,TRUE,"S281678492",NA
-"253","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54533008","N College Ave, Tempe US-AZ 33.44992, -111.93515","2025-10-27 13:22",3,33.449918,-111.935148,TRUE,FALSE,TRUE,"S281698781",NA
-"254","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54526346","US-77 N, Sarita US-TX 26.69993, -97.76842","2025-10-27 12:27",1,26.69993,-97.768416,TRUE,FALSE,TRUE,"S281667418",NA
-"255","hrshaw","Harris's Hawk","Parabuteo unicinctus","L17641324","Maricopa Trail--Sun Valley Trailhead","2025-10-27 11:54",1,33.6381502,-112.4700022,TRUE,FALSE,FALSE,"S281728969",NA
-"256","hrshaw","Harris's Hawk","Parabuteo unicinctus","L20695432","Matagorda Co.—CR414","2025-10-27 11:40",1,29.0336694,-96.0798344,TRUE,TRUE,FALSE,"S281666500",NA
-"257","hrshaw","Harris's Hawk","Parabuteo unicinctus","L42310093","West side park McAllen Texas","2025-10-27 11:09",2,26.203161,-98.264555,TRUE,FALSE,TRUE,"S281675140",NA
-"258","hrshaw","Harris's Hawk","Parabuteo unicinctus","L2088372","Lake Como","2025-10-27 10:30",1,28.5357673,-81.3519261,TRUE,TRUE,FALSE,"S281643410","X"
-"259","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54531903","8804 North 90th Street, Scottsdale, Arizona, US (33.565, -111.889)","2025-10-27 09:30",1,33.5649227,-111.888685,TRUE,FALSE,TRUE,"S281693392",NA
-"260","hrshaw","Harris's Hawk","Parabuteo unicinctus","L499773","Cook's Slough Sanctuary (HOTW 025)","2025-10-27 09:26",1,29.1873567,-99.7886572,TRUE,FALSE,FALSE,"S281676198",NA
-"261","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1487217","Santa Ana NWR--Pintail Lakes Trail","2025-10-27 08:36",2,26.0787993,-98.1330503,TRUE,FALSE,FALSE,"S281652777",NA
-"262","hrshaw","Harris's Hawk","Parabuteo unicinctus","L40149315","San Benito - Resaca de los Fresnos at Russell","2025-10-27 08:30",1,26.1525391,-97.6325787,TRUE,FALSE,FALSE,"S281642249",NA
-"263","hrshaw","Harris's Hawk","Parabuteo unicinctus","L9310338","Tempe Women's Club Park","2025-10-27 08:14",1,33.443123,-111.931006,TRUE,FALSE,FALSE,"S281653138",NA
-"264","hrshaw","Harris's Hawk","Parabuteo unicinctus","L52359858","Road heading to Rancho Blanco","2025-10-27 08:10",1,27.3198261,-99.494606,TRUE,FALSE,TRUE,"S281679903",NA
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
+"1","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L9476849","Bosque del Apache NWR--Bike Trail","2025-11-06 16:04",1,33.7944281,-106.8726492,TRUE,FALSE,FALSE,"S283205139"
+"2","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L863943","Mt. Lemmon--Chihuahua Pine Picnic Area (Bear Canyon)","2025-11-06 14:12",2,32.3747288,-110.6908393,TRUE,FALSE,TRUE,"S283194806"
+"3","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L387193","Ahakhav Tribal Preserve","2025-11-06 13:27",2,34.132,-114.333,TRUE,FALSE,FALSE,"S283201580"
+"4","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L859369","Harry Griffen Regional Park","2025-11-06 13:16",1,32.7859369,-116.98789,TRUE,FALSE,FALSE,"S283197564"
+"5","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L247122","Paton Center for Hummingbirds (Patons' Yard)","2025-11-06 12:00",1,31.5390131,-110.7606337,TRUE,FALSE,FALSE,"S283202504"
+"6","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L390362","Granite Basin Lake","2025-11-06 11:11",5,34.6168572,-112.5493392,TRUE,FALSE,FALSE,"S283201539"
+"7","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L753061","Mt. Lemmon--Summerhaven","2025-11-06 11:08",1,32.4427119,-110.7598686,TRUE,FALSE,FALSE,"S283204114"
+"8","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L753059","Mt. Lemmon--Incinerator Ridge","2025-11-06 10:50",2,32.4111248,-110.7064819,TRUE,FALSE,FALSE,"S283184085"
+"9","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L587039","Niles Community Park","2025-11-06 10:39",1,37.5734604,-121.9812441,TRUE,TRUE,FALSE,"S283194943"
+"10","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L622663","Niles Park--Shinn Pond","2025-11-06 10:30",1,37.5739366,-121.9845057,TRUE,TRUE,FALSE,"S283175734"
+"11","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L296633","Madera Canyon--Mt. Wrightson Picnic Area & Upper Canyon Trails","2025-11-06 09:04",1,31.7124,-110.8744,TRUE,FALSE,FALSE,"S283191675"
+"12","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L34672071","Willow Lake Park, Prescott US-AZ 34.60924, -112.43954","2025-11-06 09:04",1,34.609236,-112.439537,TRUE,FALSE,TRUE,"S283169333"
+"13","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L129062","Ramsey Canyon Preserve (formerly Mile Hi Ranch)","2025-11-06 09:03",1,31.4473746,-110.307608,TRUE,FALSE,FALSE,"S283191706"
+"14","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L299012","Oracle State Park","2025-11-06 08:51",1,32.6083177,-110.7335132,TRUE,FALSE,FALSE,"S283203928"
+"15","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L386168","Highlands Center--Lynx Creek Site","2025-11-06 08:49",1,34.5240958,-112.3933554,TRUE,FALSE,FALSE,"S283179448"
+"16","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L284416","Arivaca Lake","2025-11-06 08:46",3,31.5302935,-111.2521748,TRUE,FALSE,FALSE,"S283182688"
+"17","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L166979","Boyce Thompson Arboretum","2025-11-06 08:21",1,33.2795082,-111.158756,TRUE,FALSE,FALSE,"S283202108"
+"18","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L169112","Hassayampa River Preserve","2025-11-06 08:19",1,33.9333419,-112.6946297,TRUE,FALSE,FALSE,"S283171548"
+"19","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L2427011","Chiricahua Mtns.--Whitetail Canyon","2025-11-06 07:51",3,31.9994008,-109.2720124,TRUE,FALSE,TRUE,"S283164357"
+"20","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L559334","Zion NP--Canyon Overlook Trail","2025-11-06 07:33",1,37.2133784,-112.9424572,TRUE,FALSE,FALSE,"S283151742"
+"21","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L20223024","1402 North Kentucky Street, Silver City, New Mexico, US (32.78, -108.285)","2025-11-06 07:30",2,32.7801512,-108.2852473,TRUE,FALSE,TRUE,"S283136017"
+"22","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L735377","Zion NP--Visitor Center & Campgrounds","2025-11-06 07:06",1,37.2004753,-112.9866922,TRUE,FALSE,FALSE,"S283158092"
+"23","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L1416495","1. Mule Pass Yard","2025-11-06 07:00",2,31.4641892,-109.9561961,TRUE,FALSE,TRUE,"S283180816"
+"24","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L420195","Big Morongo Canyon Preserve & Covington Park","2025-11-06 06:57",1,34.0497222,-116.5702639,TRUE,FALSE,FALSE,"S283168490"
+"25","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L1379425","Cienega Creek Preserve--Colossal Cave Rd (permit required)","2025-11-06 06:51",1,32.0485976,-110.6968059,TRUE,FALSE,FALSE,"S283186398"
+"26","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L350281","El Rio Open Space Preserve","2025-11-06 06:32",1,32.392141,-111.1384898,TRUE,FALSE,FALSE,"S283145738"
+"27","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L21676666","Canal","2025-11-05 16:47",1,33.513838,-112.001595,TRUE,FALSE,TRUE,"S283065690"
+"28","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L12619229","Blue Haven Rd--between Paton's and the Preserve","2025-11-05 15:20",1,31.5356696,-110.7645165,TRUE,FALSE,FALSE,"S283072844"
+"29","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L18976002","Davis Mtns SP--Interpretive Center","2025-11-05 14:32",1,30.5956658,-103.9304521,TRUE,FALSE,FALSE,"S283053835"
+"30","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L518866","Green River SP","2025-11-05 14:10",1,38.989903,-110.1524019,TRUE,FALSE,FALSE,"S283056294"
+"31","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L241746","Lake Cuyamaca","2025-11-05 13:45",1,32.9880758,-116.5812492,TRUE,FALSE,FALSE,"S283056611"
+"32","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L54825342","4951–4999 Granite Basin Rd, Prescott US-AZ 34.61365, -112.54665","2025-11-05 13:04",1,34.613648,-112.546648,TRUE,FALSE,TRUE,"S283050583"
+"33","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L129021","Madera Canyon--Madera Picnic Area","2025-11-05 12:56",1,31.7271702,-110.8807518,TRUE,FALSE,FALSE,"S283035727"
+"34","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L1583240","Huachuca Canyon--lower picnic area","2025-11-05 11:44",1,31.5411676,-110.3741764,TRUE,FALSE,FALSE,"S283031383"
+"35","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L27241402","Upper Scotia canyon","2025-11-05 11:30",4,31.4552757,-110.3979948,TRUE,FALSE,TRUE,"S283059984"
+"36","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L268114","Madera Canyon--Santa Rita Lodge","2025-11-05 11:29",1,31.7251514,-110.8801067,TRUE,FALSE,FALSE,"S283035187"
+"37","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L54824758","Niles Community Park","2025-11-05 11:00",1,37.57306,-121.9832,TRUE,TRUE,TRUE,"S283049223"
+"38","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L54826355","4975 Granite Basin Rd, Prescott US-AZ 34.61336, -112.54546","2025-11-05 10:46",1,34.613358,-112.545458,TRUE,FALSE,TRUE,"S283055884"
+"39","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L9594221","See Springs Trail No. 185","2025-11-05 10:35",1,34.3455809,-111.0142119,TRUE,FALSE,FALSE,"S283147838"
+"40","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L2413068","Madera Canyon--Carrie Nation Trail","2025-11-05 10:30",1,31.704511,-110.8764482,TRUE,FALSE,FALSE,"S283199007"
+"41","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L54824773","East Turkey Run Rd. Summerhaven","2025-11-05 10:30",2,32.4453353,-110.7615745,TRUE,FALSE,TRUE,"S283049458"
+"42","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L129104","Sunnyside Canyon","2025-11-05 10:00",2,31.442,-110.396,TRUE,FALSE,FALSE,"S283059774"
+"43","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L54820241","Arroyo Varrido","2025-11-05 09:49",1,34.2048831,-106.8150201,TRUE,FALSE,TRUE,"S283024992"
+"44","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L211809","Madera Canyon--Proctor Rd.","2025-11-05 09:42",2,31.739938,-110.886147,TRUE,FALSE,FALSE,"S283058338"
+"45","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L54581561","The Green","2025-11-05 09:18",1,31.9682387,-110.9701914,TRUE,FALSE,FALSE,"S283014949"
+"46","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L3601258","Isabella Lee Natural Preserve","2025-11-05 09:10",1,32.2426592,-110.7814242,TRUE,FALSE,FALSE,"S283030248"
+"47","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L485352","Red Rock Canyon NCA--Willow Springs","2025-11-05 08:49",1,36.161257,-115.4985407,TRUE,FALSE,FALSE,"S283057167"
+"48","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L128910","Big Bend NP--Santa Elena Canyon (FWTX 39)","2025-11-05 08:29",1,29.1668521,-103.6106873,TRUE,FALSE,FALSE,"S283013285"
+"49","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L139900","Floyd Lamb Park at Tule Springs","2025-11-05 08:24",1,36.3249025,-115.266594,TRUE,FALSE,FALSE,"S283070638"
+"50","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L813473","Battiste's Bird Garden","2025-11-05 08:17",1,31.4204234,-110.2475023,TRUE,FALSE,FALSE,"S283014606"
+"51","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L228773","Saint Andrew's Abbey","2025-11-05 08:10",1,34.4571,-117.8687,TRUE,FALSE,FALSE,"S283040869"
+"52","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L9551246","Aspen Springs--Dispersed Camping (head of Aspen Creek Spring)","2025-11-05 08:07",1,34.4985413,-112.5405319,TRUE,FALSE,FALSE,"S283016765"
+"53","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L281844","Montosa Canyon--km 1 (culvert area)","2025-11-05 08:05",2,31.6714585,-110.941082,TRUE,FALSE,FALSE,"S283070038"
+"54","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L352346","Santa Gertrudis Lane (foot access only)","2025-11-05 08:01",2,31.5620883,-111.0473766,TRUE,FALSE,FALSE,"S283033088"
+"55","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L281846","The Lakes at Castle Rock","2025-11-05 08:00",1,32.2491071,-110.7933046,TRUE,FALSE,FALSE,"S283030223"
+"56","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L11304440","Middle Percha Cr.eek/Gila NF 40E","2025-11-05 08:00",1,32.912899,-107.7288551,TRUE,FALSE,TRUE,"S283066998"
+"57","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L7420665","Page Springs--South Wildlife Viewing Area","2025-11-05 08:00",1,34.7595237,-111.8898694,TRUE,FALSE,FALSE,"S283030298"
+"58","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L375967","Madera Canyon--Pima Co.","2025-11-05 07:58",1,31.7310142,-110.881319,TRUE,FALSE,FALSE,"S283013980"
+"59","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L1168305","Rio Grande Botanic Garden","2025-11-05 07:55",1,35.093077,-106.6813606,TRUE,FALSE,FALSE,"S283017354"
+"60","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L3089218","Boulder City--Hemenway Park","2025-11-05 07:49",1,35.9955833,-114.8319112,TRUE,FALSE,FALSE,"S283008145"
+"61","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L5417939","River Ranch WMA (NMDGF permit required)","2025-11-05 07:47",1,32.5872032,-107.922062,TRUE,FALSE,FALSE,"S283035021"
+"62","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L3824198","US-CA-Kern--Weldon--Kelso Valley--Bird Springs neighborhood","2025-11-05 07:46",1,35.560495,-118.220604,TRUE,FALSE,TRUE,"S283071632"
+"63","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L281275","Gila NF--Lake Roberts","2025-11-05 07:34",1,33.0309178,-108.1571163,TRUE,FALSE,FALSE,"S283026847"
+"64","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L324045","Portal--Cave Creek Ranch","2025-11-05 07:30",1,31.9041957,-109.1561556,TRUE,FALSE,FALSE,"S283006729"
+"65","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L800002","Anthem--Southeast Parkside","2025-11-05 07:25",1,33.8466096,-112.1118844,TRUE,FALSE,TRUE,"S283024744"
+"66","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L684335","Organ Pipe Cactus NM--Alamo Canyon","2025-11-05 07:19",1,32.0664673,-112.7164087,TRUE,FALSE,FALSE,"S283053048"
+"67","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L264669","Ashurst Lake","2025-11-05 07:19",1,35.0206708,-111.4031728,TRUE,FALSE,FALSE,"S283048903"
+"68","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L12371210","Arizona Birding Guides feeders--Visitors Welcome","2025-11-05 07:19",1,31.5432844,-110.7519356,TRUE,FALSE,FALSE,"S283021258"
+"69","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L201225","Prescott--Willow Lake","2025-11-05 07:10",1,34.605,-112.438,TRUE,FALSE,FALSE,"S283061684"
+"70","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L22091545","Anthem—Southeast Parkside","2025-11-05 07:08",1,33.847651,-112.103797,TRUE,FALSE,TRUE,"S283010873"
+"71","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L838090","Seneca/Ridgeway area","2025-11-05 06:42",2,32.2475404,-110.8653452,TRUE,FALSE,FALSE,"S282990084"
+"72","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L15283355","Water Tank Rd, Hillsboro US-NM (32.9247,-107.5694)","2025-11-05 06:42",1,32.924672,-107.569441,TRUE,FALSE,TRUE,"S283008648"
+"73","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L3380924","AZ-Cochise-Portal--2494 S. Old Canyon Rd. (private)","2025-11-05 06:30",3,31.9063055,-109.1534289,TRUE,FALSE,TRUE,"S283070725"
+"74","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L249523","Caballo Lake SP--Riverside Recreation Area (below dam)","2025-11-05 00:00",2,32.8915794,-107.2956401,TRUE,FALSE,FALSE,"S283188408"
+"75","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L208918","Sweetwater Wetlands","2025-11-04 16:42",1,32.2790144,-111.0216061,TRUE,FALSE,FALSE,"S282925192"
+"76","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L21668192","Quintero Riparian","2025-11-04 15:52",1,33.833964,-112.419091,TRUE,FALSE,TRUE,"S282925535"
+"77","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L1179757","Independence Woodlot","2025-11-04 13:00",1,36.8066048,-118.1932864,TRUE,FALSE,FALSE,"S282935174"
+"78","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L6770504","Pantano River Park--Glenn St/Sahuara Ave (opened 2018)","2025-11-04 11:39",1,32.257666,-110.866469,TRUE,FALSE,FALSE,"S282898305"
+"79","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L2746334","Casa Blanca Canyon","2025-11-04 10:46",1,31.6286532,-110.7535386,TRUE,FALSE,FALSE,"S282888967"
+"80","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L12395387","Scottsdale Rotary Park","2025-11-04 10:03",1,33.5624536,-111.9091147,TRUE,FALSE,FALSE,"S282920010"
+"81","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L1211296","Upper Water Canyon","2025-11-04 09:32",1,35.8377417,-106.360103,TRUE,TRUE,FALSE,"S282908036"
+"82","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L387148","Mojave Narrows Regional Park","2025-11-04 09:26",1,34.5129928,-117.2708559,TRUE,FALSE,FALSE,"S282893904"
+"83","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L1145419","Corrales Bosque--La Entrada/East Ella","2025-11-04 09:22",1,35.2204294,-106.606689,TRUE,FALSE,FALSE,"S282887655"
+"84","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L54850760","White Rock Mountain Loop","2025-11-04 09:12",1,36.182289,-115.485403,TRUE,FALSE,TRUE,"S283185565"
+"85","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L12395330","Gila NF--Little Cherry Creek Road and Trail","2025-11-04 08:52",1,32.8993275,-108.228703,TRUE,FALSE,FALSE,"S282891665"
+"86","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L49735728","Descanso","2025-11-04 08:35",2,32.860507,-116.608197,TRUE,FALSE,TRUE,"S282874628"
+"87","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L898415","Leasburg Dam State Park","2025-11-04 08:25",1,32.4952844,-106.9220352,TRUE,FALSE,TRUE,"S282883078"
+"88","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L286733","Oak Flat","2025-11-04 07:30",1,33.3090655,-111.0508132,TRUE,FALSE,FALSE,"S282907927"
+"89","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L129099","Cave Creek Canyon--South Fork","2025-11-04 07:28",1,31.8688764,-109.1883919,TRUE,FALSE,FALSE,"S282935364"
+"90","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L129080","San Pedro RNCA--San Pedro House and trails","2025-11-04 07:01",1,31.5478992,-110.1408997,TRUE,FALSE,FALSE,"S282903401"
+"91","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L168656","Desert NWR--Corn Creek (Field Station)","2025-11-04 06:58",1,36.438797,-115.359566,TRUE,FALSE,FALSE,"S283039097"
+"92","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L729118","Santa Cruz River--Sunset Rd. to Camino del Cerro","2025-11-04 06:40",1,32.2993125,-111.0430877,TRUE,FALSE,FALSE,"S282894083"
+"93","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L40366090","University of Arizona--Community Garden area","2025-11-03 17:14",1,32.2384048,-110.9508393,TRUE,FALSE,FALSE,"S282788221"
+"94","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L2776216","Sedgwick Reserve (restricted access)","2025-11-03 16:12",1,34.692571,-120.0405478,TRUE,TRUE,FALSE,"S282890580"
+"95","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L2673862","San Vicente Cienega Trail","2025-11-03 16:09",1,32.7629823,-108.2704689,TRUE,FALSE,FALSE,"S282793846"
+"96","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L10988604","Organ Pipe Cactus NM--Visitor Center","2025-11-03 15:47",1,31.9548358,-112.8013151,TRUE,FALSE,FALSE,"S282782961"
+"97","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L43805174","42E Forest Service Road, San Simon, Arizona, US (31.879, -109.178)","2025-11-03 15:42",2,31.8788398,-109.1776528,TRUE,FALSE,TRUE,"S282868439"
+"98","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L765027","Las Cienegas NCA--Empire Gulch","2025-11-03 15:30",2,31.7878465,-110.6365728,TRUE,FALSE,FALSE,"S282783633"
+"99","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L2241908","Zion NP--Grotto Picnic Area","2025-11-03 14:35",1,37.2586155,-112.9517055,TRUE,FALSE,FALSE,"S282803378"
+"100","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L212323","Lee Kay Ponds","2025-11-03 14:31",1,40.7397136,-112.0437241,TRUE,FALSE,FALSE,"S282802588"
+"101","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L284779","Mt. Lemmon--Gordon Hirabayashi RA (Prison Camp)","2025-11-03 14:15",1,32.3377823,-110.718673,TRUE,FALSE,FALSE,"S282783638"
+"102","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L337028","Spring Mountain Ranch SP","2025-11-03 13:41",3,36.0690146,-115.4588759,TRUE,FALSE,FALSE,"S282782417"
+"103","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L281626","Blue Diamond","2025-11-03 12:51",2,36.04637,-115.40384,TRUE,FALSE,TRUE,"S282771175"
+"104","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L1115897","Canoa Ranch Conservation Park","2025-11-03 12:36",1,31.7948045,-111.0156226,TRUE,FALSE,FALSE,"S282760199"
+"105","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L1497396","Palo Verde Ecological Reserve","2025-11-03 12:17",3,33.6997237,-114.4989152,TRUE,FALSE,FALSE,"S282806605"
+"106","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L3769169","Mt. Springs Saloon","2025-11-03 12:09",1,36.020316,-115.508962,TRUE,FALSE,TRUE,"S282763553"
+"107","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L2142077","Coconino National Forest--Double Springs","2025-11-03 11:55",1,34.9427291,-111.4914036,TRUE,FALSE,FALSE,"S282800895"
+"108","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L233427","Oak Creek Canyon--middle elevation","2025-11-03 11:15",3,34.9363818,-111.7455037,TRUE,FALSE,FALSE,"S282751880"
+"109","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L302348","Dead Horse Ranch SP","2025-11-03 10:50",1,34.751972,-112.0131749,TRUE,FALSE,FALSE,"S282911844"
+"110","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L42715659","White Rock Mountain Loop, Las Vegas US-NV 36.17973, -115.48091","2025-11-03 10:15",1,36.179731,-115.480906,TRUE,FALSE,TRUE,"S282788786"
+"111","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L280975","Elephant Butte Lake SP--Paseo del Rio","2025-11-03 10:05",1,33.151188,-107.203,TRUE,FALSE,FALSE,"S282886704"
+"112","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L140673","Zion NP","2025-11-03 09:29",1,37.2285636,-112.9654984,TRUE,FALSE,FALSE,"S282780870"
+"113","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L30769550","Riverfront Park, Cottonwood US-AZ 34.74964, -112.02164","2025-11-03 09:24",1,34.749641,-112.021642,TRUE,FALSE,TRUE,"S282746868"
+"114","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L54764356","Niles Community Park, Fremont US-CA (37.5739,-121.9820)","2025-11-03 09:20",1,37.573871,-121.981992,TRUE,TRUE,TRUE,"S282740128"
+"115","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L5076617","US-AZ-Prescott-335 Sterba St - 34.5468x-112.4962","2025-11-03 08:54",1,34.54682,-112.49619,TRUE,FALSE,TRUE,"S282733733"
+"116","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L2714898","The Jail Trail","2025-11-03 08:23",3,34.7496668,-112.0269971,TRUE,FALSE,FALSE,"S282872481"
+"117","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L456897","Torrance Ranch","2025-11-03 08:16",1,37.0029254,-116.7242163,TRUE,FALSE,FALSE,"S282735253"
+"118","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L129068","Mt. Lemmon--Rose Canyon and Lake","2025-11-03 08:12",1,32.3926274,-110.7024693,TRUE,FALSE,FALSE,"S282770571"
+"119","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L2006286","Las Cienegas NCA--Maternity Well","2025-11-03 07:30",2,31.7617997,-110.665475,TRUE,FALSE,FALSE,"S282797770"
+"120","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L130617","Rancho San Rafael Park","2025-11-03 07:25",1,39.5464016,-119.8256171,TRUE,FALSE,FALSE,"S282742691"
+"121","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L4712195","Sycamore Creek--upper Beeline Hwy","2025-11-03 07:23",1,33.9117312,-111.4825845,TRUE,FALSE,FALSE,"S282787511"
+"122","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L1052368","Big Bend NP--Daniels Ranch Rd.","2025-11-03 07:07",1,29.1839794,-102.9645274,TRUE,FALSE,FALSE,"S282749171"
+"123","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L31306781","Mariposa Park","2025-11-03 07:06",1,35.3635954,-106.688167,TRUE,FALSE,TRUE,"S282721702"
+"124","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L27504685","Rio Grande Valley SP--Central Ave. Eastside Bosque Trails","2025-11-03 06:51",1,35.0912423,-106.6797674,TRUE,FALSE,FALSE,"S282730625"
+"125","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L229841","Agua Nueva Park (was Roger Road WRF)","2025-11-03 06:48",1,32.2804902,-111.0272755,TRUE,FALSE,FALSE,"S282756039"
+"126","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L6122550","4247 Cottonwood Rd, Silver City US-NM (32.8120,-108.2750)","2025-11-03 06:31",1,32.812036,-108.274995,TRUE,FALSE,TRUE,"S282736317"
+"127","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L129086","Santa Margarita Ranch (LTC 079) (restricted access - guided groups only)","2025-11-02 16:57",1,26.4856177,-99.0912337,TRUE,TRUE,FALSE,"S282900016"
+"128","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L21976076","Soldier's Creek Park","2025-11-02 15:54",1,31.5618989,-110.3065109,TRUE,FALSE,FALSE,"S282648251"
+"129","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L200055","Cibola NF--Water Canyon","2025-11-02 15:44",2,34.0231527,-107.1310644,TRUE,FALSE,FALSE,"S282639200"
+"130","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L33526349","Harshaw Creek--Brush Hill Ranch","2025-11-02 15:32",1,31.484867,-110.695989,TRUE,FALSE,TRUE,"S282648029"
+"131","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L245447","Fort Lowell Park and Pantano Wash","2025-11-02 13:52",1,32.2605631,-110.8727628,TRUE,FALSE,FALSE,"S282629794"
+"132","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L720652","Ramsey Canyon Inn (opened 1988)","2025-11-02 12:30",1,31.4486597,-110.3068952,TRUE,FALSE,FALSE,"S282604941"
+"133","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L32470037","Zion NP--Temple of Sinawava","2025-11-02 12:25",1,37.2849956,-112.9475415,TRUE,FALSE,FALSE,"S282727843"
+"134","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L949294","Gila NF--Apache Creek Campground","2025-11-02 12:15",2,33.8291074,-108.6266541,TRUE,FALSE,FALSE,"S282722138"
+"135","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L266621","Page Springs Fish Hatchery--Bubbling Ponds Preserve","2025-11-02 11:41",1,34.7669646,-111.8950832,TRUE,FALSE,FALSE,"S282661408"
+"136","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L1358840","Bosque del Apache NWR--North Loop (formerly Farm Loop)","2025-11-02 11:27",1,33.8151614,-106.8722406,TRUE,FALSE,FALSE,"S282599490"
+"137","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L38029435","McGee Ranch Cemetery","2025-11-02 11:08",2,31.89375,-111.179806,TRUE,FALSE,TRUE,"S282597685"
+"138","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L789339","Payson--Green Valley Park","2025-11-02 10:45",1,34.2309111,-111.343646,TRUE,FALSE,FALSE,"S282646687"
+"139","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L42328477","Spicer Ranch","2025-11-02 10:15",2,36.993454,-116.716118,TRUE,FALSE,FALSE,"S282593725"
+"140","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L54721729","U.S. 180, Reserve, New Mexico, US (33.554, -108.933)","2025-11-02 10:06",1,33.5539447,-108.9330801,TRUE,FALSE,TRUE,"S282607784"
+"141","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L876716","Bosque del Apache NWR--South Loop (formerly Marsh Loop)","2025-11-02 09:58",1,33.7831424,-106.8928528,TRUE,FALSE,FALSE,"S282720852"
+"142","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L22187274","Verde Valley School","2025-11-02 08:58",1,34.804655,-111.805741,TRUE,FALSE,TRUE,"S282588207"
+"143","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L3114179","Ranch House","2025-11-02 08:45",1,30.3345,-101.221,TRUE,FALSE,TRUE,"S282919522"
+"144","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L29206850","1825 Monroe Lane, Camp Verde, Arizona, US (34.543, -111.868)","2025-11-02 08:38",1,34.5433098,-111.8684359,TRUE,FALSE,TRUE,"S282557577"
+"145","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L269204","Huachuca Canyon","2025-11-02 08:30",1,31.5313995,-110.3805093,TRUE,FALSE,FALSE,"S282622701"
+"146","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L15878119","Wallace Road","2025-11-02 08:30",1,31.9217987,-106.6423792,TRUE,FALSE,FALSE,"S282581808"
+"147","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L54642913","6600–6698 S Musgrove Rd, Skull Valley US-AZ 34.45141, -112.68721","2025-11-02 08:11",1,34.45141,-112.687207,TRUE,FALSE,TRUE,"S282550516"
+"148","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L283449","Forty Niner Country Club","2025-11-02 08:11",1,32.2488084,-110.7349778,TRUE,FALSE,FALSE,"S282579037"
+"149","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L54709834","6701 S Musgrove Rd, Skull Valley US-AZ 34.44923, -112.68716","2025-11-02 08:10",1,34.449227,-112.687158,TRUE,FALSE,TRUE,"S282551421"
+"150","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L17947181","McGee Ranch Road","2025-11-02 08:00",1,31.8940845,-111.1783108,TRUE,FALSE,TRUE,"S282619206"
+"151","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L54666743","Little America, Flagstaff","2025-11-02 07:49",1,35.1892624,-111.6221824,TRUE,FALSE,TRUE,"S282544368"
+"152","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L2404493","Glen Arbor Park","2025-11-02 07:49",1,33.5845441,-117.2165197,TRUE,FALSE,FALSE,"S282569742"
+"153","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L1037685","Tanque Verde Wash--Tanque Verde Loop Rd.","2025-11-02 07:30",1,32.2412452,-110.7554054,TRUE,FALSE,FALSE,"S282576952"
+"154","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L372919","Coronado National Memorial","2025-11-02 07:15",1,31.3459405,-110.2535668,TRUE,FALSE,FALSE,"S282624140"
+"155","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L879119","Fairgrounds and Park","2025-11-02 06:59",1,37.6949891,-118.0916548,TRUE,FALSE,FALSE,"S282537689"
+"156","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L10651203","Hassayampa River--Kerkes Trailhead","2025-11-02 06:54",4,33.968474,-112.72588,TRUE,FALSE,FALSE,"S282650385"
+"157","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L16855799","Chino Valley, Josie Trl","2025-11-02 06:45",1,34.751266,-112.52241,TRUE,FALSE,TRUE,"S282558106"
+"158","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L882305","305 Donna, WR","2025-11-02 06:40",1,35.8185613,-106.2018755,TRUE,TRUE,TRUE,"S282532031"
+"159","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L11973499","5272 La Canada Blvd, La Cañada Flintridge US-CA 34.22167, -118.20438","2025-11-02 06:30",1,34.221673,-118.204377,TRUE,FALSE,TRUE,"S282553661"
+"160","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L37746334","PGA West (restricted access)","2025-11-02 06:10",1,33.63574,-116.26794,TRUE,FALSE,TRUE,"S282594019"
+"161","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L54686342","55382–55518 E Florence Kelvin Hwy, Kearny US-AZ 33.11502, -110.97417","2025-11-01 16:31",1,33.115016,-110.974174,TRUE,FALSE,TRUE,"S282435418"
+"162","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L1071832","Grand Canyon NP--Phantom Ranch","2025-11-01 15:08",1,36.1004173,-112.0952332,TRUE,FALSE,FALSE,"S282857525"
+"163","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L54683939","2011 South Turkey Creek Road, Portal, Arizona, US (31.941, -109.219)","2025-11-01 13:38",1,31.9408024,-109.2185182,TRUE,FALSE,TRUE,"S282424543"
+"164","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L279921","Peppersauce Canyon","2025-11-01 12:35",2,32.5379839,-110.716606,TRUE,FALSE,FALSE,"S282419310"
+"165","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L1190205","Cibola Valley Conservation Area","2025-11-01 11:44",2,33.4106209,-114.6632338,TRUE,FALSE,FALSE,"S282439027"
+"166","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L5956309","Cabin 98-114, Glenwood US-NM (33.3220,-108.8756)","2025-11-01 11:11",2,33.322025,-108.875579,TRUE,FALSE,TRUE,"S282740571"
+"167","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L190925","Salt River--Coon Bluff Recreation Area","2025-11-01 10:56",1,33.5471399,-111.6454576,TRUE,FALSE,FALSE,"S282529896"
+"168","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L1092125","Sedona Wetlands Preserve","2025-11-01 10:16",NA,34.829,-111.8964,TRUE,FALSE,FALSE,"S282377462"
+"169","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L12787892","7037 Calle Estancias","2025-11-01 10:11",1,32.3131397,-106.8853967,TRUE,FALSE,TRUE,"S282528183"
+"170","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L129125","Woodland Rd., Tucson","2025-11-01 09:43",1,32.2518324,-110.8064827,TRUE,FALSE,FALSE,"S282380679"
+"171","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L1487068","Diamond A Ranch Water Tank, Picacho","2025-11-01 09:18",1,33.3396135,-105.0720524,TRUE,FALSE,FALSE,"S282338133"
+"172","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L43708897","548 W Diamond Rd, Payson US-AZ 34.32788, -111.19226","2025-11-01 09:15",1,34.327883,-111.192257,TRUE,FALSE,TRUE,"S282781045"
+"173","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L54665084","12916 W Cedar St, Skull Valley US-AZ 34.44934, -112.69231","2025-11-01 08:51",2,34.449344,-112.692309,TRUE,FALSE,TRUE,"S282352697"
+"174","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L6214264","Tonto Creek--Gisela","2025-11-01 08:50",1,34.0883702,-111.2865727,TRUE,FALSE,FALSE,"S282440114"
+"175","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L779171","Burro Creek CG","2025-11-01 08:41",1,34.535268,-113.452549,TRUE,FALSE,FALSE,"S282350048"
+"176","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L129060","Portal","2025-11-01 08:39",2,31.9136009,-109.1408005,TRUE,FALSE,FALSE,"S282423260"
+"177","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L734193","Paige Creek","2025-11-01 08:34",1,32.1529069,-110.4528093,TRUE,FALSE,FALSE,"S282388910"
+"178","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L17072414","Wallace Rd.","2025-11-01 08:30",1,31.9218062,-106.6423247,TRUE,FALSE,TRUE,"S282378976"
+"179","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L31583025","Doll Baby Ranch Road just west of golf course","2025-11-01 08:15",1,34.233675,-111.362259,TRUE,FALSE,TRUE,"S282338555"
+"180","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L1141965","Mt. Lemmon--Sunset Trailhead (lower Bear Wallow)","2025-11-01 08:03",1,32.4275106,-110.7422505,TRUE,FALSE,FALSE,"S282390679"
+"181","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L2064166","Patagonia Lake SP--Birding Trail","2025-11-01 08:01",1,31.496718,-110.848945,TRUE,FALSE,FALSE,"S282405938"
+"182","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L129052","Patagonia-Sonoita Creek Preserve","2025-11-01 08:00",1,31.528,-110.775,TRUE,FALSE,FALSE,"S282381512"
+"183","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L32258596","Sabino Vista yard nr Crestwood / Larrea, Tucson","2025-11-01 07:54",1,32.27733,-110.815652,TRUE,FALSE,TRUE,"S282329621"
+"184","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L44965802","Courtyards at Northern","2025-11-01 07:52",2,33.551547,-112.09357,TRUE,FALSE,TRUE,"S282332724"
+"185","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L27117909","NV State Route 3C—riparian south of Fletcher","2025-11-01 07:00",2,38.348364,-118.907893,TRUE,FALSE,TRUE,"S282373922"
+"186","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L53996373","KD/Lower Farm","2025-11-01 06:54",2,33.660244,-113.455734,TRUE,FALSE,TRUE,"S282395363"
+"187","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L128958","San Pedro RNCA--Escapule Wash","2025-11-01 06:53",1,31.6100006,-110.1669998,TRUE,FALSE,FALSE,"S282340029"
+"188","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L2229749","2911 E Granite Gardens Dr","2025-11-01 06:51",1,34.6049843,-112.4136581,TRUE,FALSE,TRUE,"S282324814"
+"189","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L834429","Kiwanis Park","2025-11-01 06:44",1,33.3739933,-111.939311,TRUE,FALSE,FALSE,"S282332399"
+"190","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L848304","Salt River--Goldfield Recreation Area","2025-11-01 06:42",1,33.5534649,-111.6225891,TRUE,FALSE,FALSE,"S282348340"
+"191","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L4230882","Cibola area--Experimental Reveg Site","2025-11-01 06:40",1,33.3556637,-114.7012266,TRUE,FALSE,FALSE,"S282347026"
+"192","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L2627481","Rimrock House","2025-11-01 06:15",1,34.6308394,-111.7931843,TRUE,FALSE,TRUE,"S282431291"
+"193","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L768735","Harshaw Creek Road","2025-10-31 15:15",1,31.506978,-110.6798543,TRUE,FALSE,FALSE,"S282239472"
+"194","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L12607553","14421 N Glen Hollow Pl, Oro Valley US-AZ 32.46750, -110.94914","2025-10-31 13:40",1,32.467496,-110.949142,TRUE,FALSE,TRUE,"S282218671"
+"195","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L128877","Aravaipa Canyon Road--west (Pinal Co.)","2025-10-31 12:10",1,32.8837571,-110.581613,TRUE,FALSE,FALSE,"S282543500"
+"196","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L472187","Winterhaven neighborhood","2025-10-31 11:06",1,32.2688457,-110.9305859,TRUE,FALSE,FALSE,"S282213898"
+"197","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L843548","Patagonia--Geoffrey Platts Trail","2025-10-31 10:27",1,31.5328784,-110.7675612,TRUE,FALSE,FALSE,"S282253986"
+"198","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L573076","Big Bend NP--South Rim Trail","2025-10-31 10:12",1,29.2252197,-103.3004951,TRUE,FALSE,FALSE,"S282242780"
+"199","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L152134","Chilao--Visitor Center","2025-10-31 09:57",1,34.326745,-118.0047137,TRUE,FALSE,FALSE,"S282239003"
+"200","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L2410489","Gila Box RNCA--Riverview Campground","2025-10-31 09:18",1,32.884849,-109.4799775,TRUE,FALSE,FALSE,"S282354505"
+"201","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L54638296","385 South Main Street, Paradise Valley, Nevada, US (36.351, -115.644)","2025-10-31 09:15",1,36.3509837,-115.6437198,TRUE,FALSE,TRUE,"S282213890"
+"202","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L4645082","Gila NF--Deadman Canyon Trail","2025-10-31 08:54",3,32.6160721,-108.4068258,TRUE,FALSE,FALSE,"S282198860"
+"203","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L684301","Tucson Botanical Gardens","2025-10-31 08:48",1,32.2482323,-110.9086132,TRUE,FALSE,FALSE,"S282197833"
+"204","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L17840540","stakeout Golden-winged Warbler, Salt River Rec. Area (2022)","2025-10-31 08:48",1,33.517422,-111.674054,TRUE,FALSE,FALSE,"S282361200"
+"205","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L3166224","Dry Beaver Creek--Stagestop riparian area","2025-10-31 08:45",1,34.7159259,-111.7840996,TRUE,FALSE,FALSE,"S282211160"
+"206","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L5750423","Rio Mesa Station (restricted access)","2025-10-31 08:40",2,38.7992853,-109.2046978,TRUE,FALSE,FALSE,"S282640111"
+"207","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L12721176","Prescott Canyon Estates","2025-10-31 08:37",2,34.5557675,-112.4266801,TRUE,FALSE,TRUE,"S282236412"
+"208","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L271618","Percha Dam SP","2025-10-31 08:17",1,32.8668999,-107.3059559,TRUE,FALSE,FALSE,"S282189944"
+"209","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L362009","Wenima WA","2025-10-31 08:08",1,34.1873109,-109.3044806,TRUE,FALSE,FALSE,"S282235277"
+"210","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L54631850","Beaver Dam Mountains Wilderness, Littlefield US-AZ 36.98191, -113.81770","2025-10-31 08:03",1,36.981914,-113.817704,TRUE,FALSE,TRUE,"S282183500"
+"211","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L11823584","Los Poblanos Inn","2025-10-31 07:48",1,35.1473724,-106.665748,TRUE,FALSE,FALSE,"S282185462"
+"212","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L11814160","Paradise (town)","2025-10-31 07:47",1,37.4810991,-118.6060702,TRUE,TRUE,FALSE,"S282220482"
+"213","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L151670","Mogollon","2025-10-31 07:45",1,33.3974166,-108.7980795,TRUE,FALSE,FALSE,"S282165439"
+"214","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L281856","Grand Canyon NP--South Rim","2025-10-31 07:30",1,36.016,-112.09,TRUE,FALSE,FALSE,"S282761358"
+"215","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L129077","San Bernardino NWR","2025-10-31 06:30",2,31.3558004,-109.261533,TRUE,FALSE,FALSE,"S282373298"
+"216","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L54627444","Auto selected 36.98133, -113.81462","2025-10-30 20:21",1,36.981332,-113.814624,TRUE,FALSE,TRUE,"S282161394"
+"217","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L581690","Luckie Park","2025-10-30 17:13",1,34.1489624,-116.0377264,TRUE,FALSE,FALSE,"S282110104"
+"218","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L1821971","Chiricahua NM--Bonita Canyon CG","2025-10-30 15:55",1,32.0112829,-109.3551126,TRUE,FALSE,FALSE,"S282656220"
+"219","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L128909","Big Bend NP--Sam Nail Ranch","2025-10-30 14:14",1,29.2792853,-103.3688332,TRUE,FALSE,FALSE,"S282087763"
+"220","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L129106","Tanque Verde Wash--Wentworth Rd.","2025-10-30 14:10",6,32.2400762,-110.7208975,TRUE,TRUE,FALSE,"S282116490"
+"221","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L5655832","Zion NP--Big Bend","2025-10-30 13:56",1,37.2733015,-112.9457617,TRUE,FALSE,FALSE,"S282214527"
+"222","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L249423","Castroville Regional Pk (HOTE 113)","2025-10-30 13:36",1,29.3424773,-98.8826299,TRUE,TRUE,FALSE,"S282115027"
+"223","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L1091644","La Posta Quemada Ranch","2025-10-30 13:00",1,32.0512984,-110.6363797,TRUE,FALSE,FALSE,"S282104291"
+"224","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L351239","Little Colorado River--South Fork","2025-10-30 11:25",1,34.0880439,-109.412984,TRUE,FALSE,FALSE,"S282077797"
+"225","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L267654","Mt. Lemmon--Marshall Gulch","2025-10-30 11:06",3,32.4280212,-110.7556783,TRUE,FALSE,FALSE,"S282077884"
+"226","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L2494220","Pagosa Springs--San Juan River Walk","2025-10-30 10:56",1,37.2658234,-107.011106,TRUE,FALSE,FALSE,"S282076796"
+"227","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L2954201","Las Cienegas NCA--Cottonwood Tanks","2025-10-30 08:55",1,31.761537,-110.6195044,TRUE,FALSE,FALSE,"S282077520"
+"228","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L128888","Mt. Lemmon--Bear Canyon (Cypress, Middle Bear, Chihuahua Pine Picnic Areas)","2025-10-30 08:44",3,32.3731003,-110.6912994,TRUE,FALSE,FALSE,"S282068041"
+"229","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L392317","Camp Pendleton--Lake O'Neill","2025-10-30 08:40",1,33.329094,-117.3227406,TRUE,FALSE,FALSE,"S282106379"
+"230","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L12269654","Kelso Creek Canyon Home","2025-10-30 08:14",1,35.560601,-118.2210697,TRUE,FALSE,TRUE,"S282049421"
+"231","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L274916","Cibola NF--Balsam Glade","2025-10-30 08:14",1,35.2138011,-106.4079608,TRUE,FALSE,FALSE,"S282047100"
+"232","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L33695897","Muir Western Homestead","2025-10-30 07:50",1,40.4748086,-111.8273715,TRUE,TRUE,TRUE,"S282051338"
+"233","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L999878","Northsight Park","2025-10-30 07:31",1,33.6122247,-111.8988848,TRUE,FALSE,FALSE,"S282062926"
+"234","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L268207","Melrose Woods","2025-10-30 07:22",2,34.4343548,-103.7991207,TRUE,TRUE,FALSE,"S282054220"
+"235","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L12495505","East Lawn Palms Cemetery","2025-10-30 07:18",1,32.2524506,-110.8688954,TRUE,FALSE,FALSE,"S282054029"
+"236","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L1847188","La Llorona Trail Extension","2025-10-30 07:09",1,32.2653601,-106.8259735,TRUE,FALSE,FALSE,"S282045379"
+"237","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L3021004","Duncan Birding Trail","2025-10-30 06:41",4,32.7226257,-109.102073,TRUE,FALSE,FALSE,"S282067917"
+"238","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L560027","Jacumba--town, pond, fields","2025-10-30 06:28",1,32.6190835,-116.1874054,TRUE,FALSE,FALSE,"S282064765"
+"239","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L267156","Danny Lopez Park (formerly Columbus Park)","2025-10-30 06:25",1,32.2856814,-111.0346556,TRUE,FALSE,FALSE,"S282064416"
+"240","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L2262809","Big Bend NP--Chisos Basin Campground","2025-10-29 16:53",1,29.2761238,-103.3025122,TRUE,FALSE,FALSE,"S281966435"
+"241","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L942502","Santa Fe Canyon Preserve","2025-10-29 15:42",1,35.6883371,-105.8927482,TRUE,FALSE,FALSE,"S281972798"
+"242","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L4135365","Rancho San Rafael Park--Dog Park and South Park areas","2025-10-29 15:18",1,39.5470076,-119.8303968,TRUE,FALSE,FALSE,"S281977265"
+"243","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L1457135","Gila Hot Springs","2025-10-29 15:02",1,33.1953785,-108.2047625,TRUE,FALSE,FALSE,"S282318802"
+"244","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L320213","Paradise--George Walker House","2025-10-29 12:37",1,31.9350554,-109.2191966,TRUE,FALSE,FALSE,"S281958444"
+"245","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L129069","Rustler Park","2025-10-29 09:46",1,31.9030991,-109.2776031,TRUE,FALSE,FALSE,"S281958668"
+"246","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L50042862","Santa Rita lodge","2025-10-29 09:38",3,31.725142,-110.8800745,TRUE,FALSE,TRUE,"S281937709"
+"247","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L208278","Lytle Ranch Preserve","2025-10-29 09:32",5,37.1434192,-114.0232372,TRUE,FALSE,FALSE,"S281931571"
+"248","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L831293","White Spar CG","2025-10-29 08:20",1,34.5095626,-112.4775553,TRUE,FALSE,FALSE,"S282065196"
+"249","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L1385761","Woods Canyon trail","2025-10-29 08:10",1,34.7559724,-111.7497516,TRUE,FALSE,TRUE,"S281967574"
+"250","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L9451870","Spring Mountains NRA--Lower Lovell Canyon","2025-10-29 07:45",1,36.0311955,-115.5553479,TRUE,FALSE,FALSE,"S281949519"
+"251","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L54582833","Coronado National Forest, Patagonia US-AZ 31.49388, -110.70657","2025-10-29 07:43",2,31.493878,-110.706566,TRUE,FALSE,TRUE,"S281943444"
+"252","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L44334043","Springs preserve","2025-10-29 07:43",1,36.171892,-115.187398,TRUE,FALSE,TRUE,"S281915631"
+"253","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L583547","Davis Mountains Resort (Restricted Access)","2025-10-29 07:30",1,30.6173798,-104.0970039,TRUE,FALSE,FALSE,"S281920845"
+"254","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L54561602","L'Auberge de Sedona","2025-10-29 07:15",1,34.8686092,-111.7599785,TRUE,FALSE,TRUE,"S282055649"
+"255","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L5238840","E Mountain View Road (private residence)","2025-10-29 07:00",1,31.3853692,-110.2273214,TRUE,FALSE,TRUE,"S281931389"
+"256","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L2439998","Desert Breeze Park","2025-10-29 06:59",1,33.312903,-111.9197041,TRUE,FALSE,FALSE,"S281926124"
+"257","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L1138376","My House","2025-10-28 16:26",1,35.0866026,-111.6943717,TRUE,FALSE,TRUE,"S281847540"
+"258","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L54561704","16702 East Colossal Cave Road, Vail, Arizona, US (32.05, -110.637)","2025-10-28 15:37",1,32.0500696,-110.6373587,TRUE,FALSE,TRUE,"S281838857"
+"259","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L1627416","Rancho Vistoso--Wildlife Ridge Park","2025-10-28 14:11",1,32.4288477,-110.9701076,TRUE,FALSE,FALSE,"S281856852"
+"260","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L128887","Mt. Lemmon--Bear Canyon (General Hitchcock Campground)","2025-10-28 13:37",1,32.3771019,-110.6850967,TRUE,FALSE,FALSE,"S281958401"
+"261","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L18847789","Mt. Lemmon--Butterfly Trail","2025-10-28 12:39",1,32.429357,-110.739172,TRUE,FALSE,FALSE,"S281860058"
+"262","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L128939","Cave Creek Canyon","2025-10-28 10:37",1,31.8935,-109.166851,TRUE,FALSE,FALSE,"S281827099"
+"263","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L54554749","900 Stanford, Irvine, California, US (33.656, -117.843)","2025-10-28 10:14",1,33.6561015,-117.8426137,TRUE,FALSE,TRUE,"S281804335"
+"264","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L17152833","Middle Percha Creek","2025-10-28 10:13",1,32.9155133,-107.7180954,TRUE,FALSE,TRUE,"S281811536"
+"265","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L18726082","Vista Canyon Park","2025-10-28 09:27",1,33.3000089,-112.0194405,TRUE,FALSE,FALSE,"S281813872"
+"266","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L11486737","Spencer (town)","2025-10-28 09:19",1,44.357637,-112.184984,TRUE,FALSE,FALSE,"S281787285"
+"267","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L51526314","Grayhawk Park SE Bench","2025-10-28 09:05",1,33.672862,-111.919845,TRUE,FALSE,TRUE,"S281794541"
+"268","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L31706757","Wilson Trail","2025-10-28 09:00",1,34.9255689,-111.7350608,TRUE,FALSE,TRUE,"S281856442"
+"269","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L437030","Laguna Mtns.--Agua Dulce Creek/Wooded Hill","2025-10-28 08:49",1,32.8536337,-116.4356279,TRUE,FALSE,FALSE,"S281840163"
+"270","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L20930290","Katfish Kove","2025-10-28 08:46",1,32.5508113,-107.9220466,TRUE,FALSE,FALSE,"S281809336"
+"271","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L31019590","Cibola NF - Hop Canyon Trail","2025-10-28 08:41",1,34.0399638,-107.2035184,TRUE,FALSE,FALSE,"S281826580"
+"272","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L2732436","Whitman Mission National Historic Site","2025-10-28 08:03",1,46.0416633,-118.465147,TRUE,TRUE,FALSE,"S281798413"
+"273","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L16775232","Marriott Canyon Villas - Scottsdale","2025-10-28 08:00",1,33.6834607,-111.9718176,TRUE,FALSE,TRUE,"S281816006"
+"274","rensap","Red-naped Sapsucker","Sphyrapicus nuchalis","L250958","Lakeside Park","2025-10-28 06:37",1,32.1861206,-110.8162263,TRUE,FALSE,FALSE,"S281788487"
