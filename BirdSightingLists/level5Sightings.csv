@@ -1,3 +1,2 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","wispet","Wilson's Storm-Petrel","Oceanites oceanicus","L54820447","North Atlantic off of North Carolina 36.14031, -74.76452","2025-11-03 15:07",8,36.140309,-74.764522,TRUE,FALSE,TRUE,"S283026099"
-"2","wispet","Wilson's Storm-Petrel","Oceanites oceanicus","L54820431","North Atlantic off of North Carolina, 36.31908, -74.82669","2025-11-03 13:51",2,36.319078,-74.826693,TRUE,FALSE,TRUE,"S283025982"
+"1","doveki","Dovekie","Alle alle","L805337","Nauset Beach, Orleans","2025-11-09 06:29",1,41.7888489,-69.9355316,TRUE,FALSE,FALSE,"S283718688"
