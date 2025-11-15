@@ -1,62 +1,28 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","lat","lng","obsValid","obsReviewed","locationPrivate","subId","howMany"
-"1","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L259855","Estero Llano Grande SP WBC (LTC 054)","2025-11-13 12:19",26.1268335,-97.9578167,TRUE,FALSE,FALSE,"S284302764",NA
-"2","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L3197842","Highway Tank","2025-11-13 07:48",32.3265519,-112.7879405,TRUE,FALSE,FALSE,"S284289874",1
-"3","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L275524","Seaman Rd Sewage Lagoons (restricted access)","2025-11-13 07:10",30.500325,-88.7982038,TRUE,TRUE,FALSE,"S284294727",1
-"4","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L2891001","Ajo Community Golf Course","2025-11-12 15:53",32.4499385,-112.850318,TRUE,FALSE,FALSE,"S284205477",1
-"5","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L144858","Riparian Preserve at Gilbert Water Ranch","2025-11-12 14:33",33.3614502,-111.7339478,TRUE,FALSE,FALSE,"S284269542",1
-"6","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L5657784","Gulf Islands National Seashore--Battery Langdon","2025-11-12 09:24",30.318321,-87.262167,TRUE,TRUE,FALSE,"S284175929",1
-"7","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L377456","Cypremort Point and environs","2025-11-12 07:40",29.7160849,-91.8580627,TRUE,TRUE,TRUE,"S284180402",1
-"8","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L1052368","Big Bend NP--Daniels Ranch Rd.","2025-11-12 07:12",29.1839794,-102.9645274,TRUE,FALSE,FALSE,"S284173613",1
-"9","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L284416","Arivaca Lake","2025-11-12 07:03",31.5302935,-111.2521748,TRUE,FALSE,FALSE,"S284174687",1
-"10","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L1744163","South Mountain Park--Pima Canyon Trail","2025-11-12 06:42",33.3628854,-111.9855282,TRUE,FALSE,FALSE,"S284138793",1
-"11","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L126637","Bombay Hook National Wildlife Refuge","2025-11-11 15:30",39.2670818,-75.4695511,TRUE,TRUE,FALSE,"S284061394",1
-"12","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L869458","Bombay Hook NWR--Saltmarsh Boardwalk Trail","2025-11-11 14:38",39.2540522,-75.4608325,TRUE,TRUE,FALSE,"S284041913",1
-"13","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L657122","Bombay Hook NWR--Refuge Headquarters","2025-11-11 11:35",39.2597968,-75.4731452,TRUE,TRUE,FALSE,"S284042179",1
-"14","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L55045875","19977, Smyrna US-DE 39.25481, -75.46298","2025-11-11 10:16",39.254808,-75.462976,TRUE,TRUE,TRUE,"S284118032",1
-"15","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L5125329","West Ravenna Rd.","2025-11-11 10:02",29.6686111,-89.9774773,TRUE,TRUE,FALSE,"S284034158",3
-"16","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L10843015","Sankofa Wetland Park","2025-11-11 09:25",29.9741375,-89.9998498,TRUE,TRUE,FALSE,"S284027606",1
-"17","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L11407515","Bayou Sauvage Urban NWR--lake levee east (I-10 to old bike path)","2025-11-11 08:54",30.1338076,-89.8732915,TRUE,TRUE,FALSE,"S284043662",1
-"18","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L7909626","Chantilly Ecological Sanctuary at Briar Creek","2025-11-11 08:19",35.206546,-80.8083645,TRUE,TRUE,FALSE,"S284015415",1
-"19","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L3587762","CAVE CREEK RANCH","2025-11-11 07:57",31.90438,-109.156113,TRUE,FALSE,TRUE,"S284003263",1
-"20","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L3488305","Longwood Retention Pond","2025-11-11 07:45",29.975448,-95.6399935,TRUE,FALSE,FALSE,"S284015495",1
-"21","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L6566020","Pitchfork Old River to Colorado River Island","2025-11-10 13:16",28.718558,-96.00558,TRUE,FALSE,TRUE,"S283935662",1
-"22","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L129075","Salineño Wildlife Preserve (LTC 080)","2025-11-10 08:03",26.5148584,-99.1162062,TRUE,FALSE,FALSE,"S283941883",1
-"23","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L477641","Boulware Springs Park","2025-11-09 07:55",29.6220792,-82.3079824,TRUE,TRUE,FALSE,"S283737259",1
-"24","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L788875","Paynes Prairie Preserve SP--Cones Dike Trail","2025-11-09 07:15",29.5652838,-82.2805166,TRUE,TRUE,FALSE,"S283781257",1
-"25","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L350281","El Rio Open Space Preserve","2025-11-09 07:09",32.392141,-111.1384898,TRUE,FALSE,FALSE,"S283734437",1
-"26","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L498924","W Ravenna Rd (Phoenix Quad)","2025-11-09 07:00",29.6645623,-89.9942493,TRUE,TRUE,TRUE,"S283786320",3
-"27","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L650632","West LA College","2025-11-08 10:11",34.0022967,-118.3905602,TRUE,TRUE,FALSE,"S283539193",1
-"28","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L1444127","McDowell Sonoran Preserve--Gateway Area","2025-11-08 08:55",33.6492166,-111.8604858,TRUE,FALSE,FALSE,"S283518144",1
-"29","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L373257","Fort Bend Co.--Davis Estates rd. area","2025-11-08 08:52",29.3923821,-95.7195781,TRUE,FALSE,FALSE,"S283522371",2
-"30","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L31906424","19202 Red Fish Bay Rd, Raymondville US-TX (26.4837,-97.7007)","2025-11-08 08:48",26.483728,-97.700718,TRUE,FALSE,TRUE,"S283489857",1
-"31","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L819351","White Tank Mountain Regional Park","2025-11-08 07:48",33.5763768,-112.5086387,TRUE,FALSE,FALSE,"S283520532",1
-"32","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L54917298","Hooper Farms Rd","2025-11-08 07:46",28.6544405,-81.5559922,TRUE,TRUE,TRUE,"S283527413",1
-"33","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L298649","Lake Apopka Wildlife Drive","2025-11-08 07:32",28.6691945,-81.5598149,TRUE,TRUE,FALSE,"S283530607",1
-"34","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L54458666","Hooper Farms Rd.","2025-11-08 07:02",28.654723,-81.562928,TRUE,TRUE,TRUE,"S283585583",1
-"35","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L54881396","1601 Sunset St, Pascagoula US-MS 30.35158, -88.54457","2025-11-07 13:54",30.351581,-88.544566,TRUE,TRUE,TRUE,"S283347148",1
-"36","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L281803","Calvary Catholic Cemetery","2025-11-07 10:15",27.8820034,-82.708061,TRUE,TRUE,FALSE,"S283297456",1
-"37","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L284334","Estrella Mountain Regional Park","2025-11-07 08:06",33.3844217,-112.3823583,TRUE,FALSE,FALSE,"S283317619",2
-"38","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L12736651","Lake Apopka Northshore- Hooper Farms road. Orange Co.","2025-11-07 08:03",28.6545942,-81.5561798,TRUE,TRUE,TRUE,"S283299810",1
-"39","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L757626","WolfSoul's house","2025-11-07 07:12",32.3934835,-111.1412881,TRUE,FALSE,TRUE,"S283291858",1
-"40","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L249887","Quinta Mazatlan WBC (LTC 063)","2025-11-06 11:18",26.176876,-98.2309932,TRUE,FALSE,FALSE,"S283171255",1
-"41","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L300609","Salt River--Granite Reef Recreation Area","2025-11-06 11:07",33.5145045,-111.6815139,TRUE,FALSE,FALSE,"S284012818",1
-"42","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L54842797","78385, Sarita US-TX 26.67735, -97.66316","2025-11-06 09:49",26.677347,-97.66316,TRUE,FALSE,TRUE,"S283390913",1
-"43","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L54850828","White Tank Mountain Regional Park, Waddell US-AZ 33.58726, -112.51212","2025-11-06 09:18",33.587258,-112.512117,TRUE,FALSE,TRUE,"S283185835",1
-"44","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L9783145","Ocala Wetland Recharge Park","2025-11-06 08:22",29.209398,-82.1602022,TRUE,TRUE,FALSE,"S283192057",1
-"45","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L21428397","Wild Horse Pass Interpretive Trail","2025-11-06 07:39",33.2696111,-111.9941577,TRUE,FALSE,FALSE,"S283163663",1
-"46","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L753007","Scottsdale Camelback Resort","2025-11-06 07:20",33.5024152,-111.9449973,TRUE,FALSE,TRUE,"S283140615",1
-"47","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L39201476","13510 E Singing Hills Trail, Sonoita US-AZ 31.75961, -110.70571 (restricted access)","2025-11-06 07:18",31.759605,-110.70571,TRUE,FALSE,TRUE,"S283143134",1
-"48","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L276835","LRGV NWR--La Sal del Rey (LTC 005)","2025-11-06 07:10",26.5305713,-98.0540943,TRUE,FALSE,FALSE,"S283174404",1
-"49","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L507911","King Ranch--Norias Division (Kenedy Co.)","2025-11-06 06:44",26.7876524,-97.7707243,TRUE,FALSE,FALSE,"S283171715",1
-"50","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L318918","South Padre Is.--Valley Land Fund lots (LTC 036)","2025-11-05 11:27",26.0988053,-97.1678612,TRUE,TRUE,FALSE,"S283036024",1
-"51","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L190217","Evelyn Hallman Park","2025-11-05 10:05",33.4480905,-111.9371943,TRUE,FALSE,FALSE,"S283051270",1
-"52","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L6736123","Clay Point Park","2025-11-05 09:19",30.4036451,-88.8655955,TRUE,TRUE,FALSE,"S283003728",1
-"53","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L2339271","White Lake Wetlands Conservation Area--Birding and Nature Trail","2025-11-05 08:34",29.9194095,-92.5131333,TRUE,TRUE,FALSE,"S283040367",1
-"54","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L727287","Joyce WMA","2025-11-05 08:01",30.39726,-90.42913,TRUE,TRUE,FALSE,"S283013918",1
-"55","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L32982923","Nighthawk Native Nursery, Tucson, Arizona, US (32.203, -111.209)","2025-11-05 07:39",32.2028633,-111.208825,TRUE,FALSE,TRUE,"S283000734",1
-"56","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L17445771","Gilbert Regional Park","2025-11-04 13:58",33.257109,-111.726166,TRUE,FALSE,FALSE,"S282909591",1
-"57","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L242130","Manasquan Reservoir IBA","2025-11-04 13:00",40.1789389,-74.2084408,TRUE,TRUE,FALSE,"S283925004",1
-"58","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L127244","Okaloosa Holding Ponds (RESTRICTED ACCESS AREA)","2025-11-04 08:13",30.4742,-86.6236,TRUE,TRUE,FALSE,"S282884925",1
-"59","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L18835336","Base 2.0","2025-11-04 07:52",28.953106,-97.268994,TRUE,FALSE,TRUE,"S282854842",1
-"60","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L37949798","Clay Point South of Railway Tracks","2025-11-04 07:23",30.402992,-88.86345,TRUE,TRUE,TRUE,"S282868334",1
-"61","astfly","Ash-throated Flycatcher","Myiarchus cinerascens","L30779381","Scenic Loop Owl Spot","2025-11-04 07:11",32.339861,-112.870842,TRUE,FALSE,TRUE,"S282930742",4
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
+"1","dusgro","Dusky Grouse","Dendragapus obscurus","L4668778","Bandelier NM--Cerro Grande Trail","2025-11-13 08:28",1,35.8484241,-106.4217804,TRUE,FALSE,FALSE,"S284302070"
+"2","dusgro","Dusky Grouse","Dendragapus obscurus","L1672523","MPG Ranch--West Slope Baldy Mtn (forest) (restricted access)","2025-11-11 11:51",1,46.7087354,-113.9842701,TRUE,FALSE,FALSE,"S284040189"
+"3","dusgro","Dusky Grouse","Dendragapus obscurus","L1324954","Lower Gem Lake--West Side","2025-11-11 09:00",2,43.4234827,-112.0996642,TRUE,FALSE,FALSE,"S284030614"
+"4","dusgro","Dusky Grouse","Dendragapus obscurus","L265763","Mt. Spokane SP","2025-11-11 06:41",1,47.9062481,-117.1487233,TRUE,TRUE,FALSE,"S284041038"
+"5","dusgro","Dusky Grouse","Dendragapus obscurus","L41114024","348 First St, Saguache US-CO 38.08741, -106.13225","2025-11-10 15:27",1,38.087413,-106.132248,TRUE,FALSE,TRUE,"S283931045"
+"6","dusgro","Dusky Grouse","Dendragapus obscurus","L55004967","Livingston Peak trail above Suce Creek Trail, Livingston US-MT 45.59928, -110.50447","2025-11-10 12:09",1,45.599283,-110.50447,TRUE,FALSE,TRUE,"S283928333"
+"7","dusgro","Dusky Grouse","Dendragapus obscurus","L55006797","Arizona National Scenic Trail, Marble Canyon US-AZ 36.41898, -112.08851","2025-11-10 12:08",5,36.418976,-112.088511,TRUE,FALSE,TRUE,"S283936525"
+"8","dusgro","Dusky Grouse","Dendragapus obscurus","L55098768","(44.275, -119.287) Billy Fields Rd.","2025-11-10 11:06",1,44.2746241,-119.2870983,TRUE,FALSE,TRUE,"S284425999"
+"9","dusgro","Dusky Grouse","Dendragapus obscurus","L2258883","Big John Flat","2025-11-10 10:55",1,38.3461451,-112.4007583,TRUE,FALSE,FALSE,"S283915164"
+"10","dusgro","Dusky Grouse","Dendragapus obscurus","L54999322","Show Me the Horse Trail","2025-11-10 10:43",1,46.571887,-112.087382,TRUE,FALSE,TRUE,"S283902600"
+"11","dusgro","Dusky Grouse","Dendragapus obscurus","L48287172","Kendall Skyline Rd (Kendall Monument to Patrick Spring)","2025-11-10 06:52",1,46.1805001,-117.7636341,TRUE,FALSE,TRUE,"S283948436"
+"12","dusgro","Dusky Grouse","Dendragapus obscurus","L190742","Powder Mountain Ski Resort","2025-11-09 13:14",1,41.379925,-111.781784,TRUE,FALSE,FALSE,"S283784520"
+"13","dusgro","Dusky Grouse","Dendragapus obscurus","L16694021","Uhlhorn Trail #493","2025-11-09 12:06",8,46.8231181,-109.2624231,TRUE,FALSE,FALSE,"S283948065"
+"14","dusgro","Dusky Grouse","Dendragapus obscurus","L11918138","North Fork Deep Creek Trail","2025-11-09 09:33",1,45.5487872,-110.4250471,TRUE,FALSE,FALSE,"S283779084"
+"15","dusgro","Dusky Grouse","Dendragapus obscurus","L2329337","Carson NF--Italianos Trail","2025-11-09 09:09",1,36.58446,-105.495665,TRUE,FALSE,FALSE,"S283879546"
+"16","dusgro","Dusky Grouse","Dendragapus obscurus","L10064321","Ángel de fuego Santuario de Aves","2025-11-08 14:55",3,36.3729956,-105.2678248,TRUE,FALSE,TRUE,"S283725332"
+"17","dusgro","Dusky Grouse","Dendragapus obscurus","L17396611","Jemez Springs","2025-11-08 10:45",1,35.7702315,-106.6914741,TRUE,FALSE,FALSE,"S283582577"
+"18","dusgro","Dusky Grouse","Dendragapus obscurus","L3019299","Rocky Mountain NP--Flattop Mountain Trail","2025-11-08 09:02",2,40.3145158,-105.6767714,TRUE,FALSE,FALSE,"S283583408"
+"19","dusgro","Dusky Grouse","Dendragapus obscurus","L148617","Home","2025-11-07 08:06",1,39.9875157,-105.2661739,TRUE,FALSE,TRUE,"S283295788"
+"20","dusgro","Dusky Grouse","Dendragapus obscurus","L7702793","Ephraim Canyon Road","2025-11-06 09:45",1,39.342728,-111.5586948,TRUE,FALSE,TRUE,"S283199238"
+"21","dusgro","Dusky Grouse","Dendragapus obscurus","L54863220","Signal Hill","2025-11-06 04:00",1,43.0937072,-110.2143482,TRUE,FALSE,TRUE,"S283254487"
+"22","dusgro","Dusky Grouse","Dendragapus obscurus","L27866186","98856, Twisp US-WA (48.3612,-120.1023)mill hill","2025-11-05 14:24",1,48.361168,-120.102341,TRUE,FALSE,TRUE,"S283058023"
+"23","dusgro","Dusky Grouse","Dendragapus obscurus","L1624857","Storm Castle Trail","2025-11-05 13:55",1,45.4471553,-111.2234458,TRUE,FALSE,FALSE,"S283140312"
+"24","dusgro","Dusky Grouse","Dendragapus obscurus","L2982325","Yellowstone NP--Beaver Ponds Trail (WY)","2025-11-05 13:35",1,44.9864963,-110.7089281,TRUE,FALSE,FALSE,"S283050631"
+"25","dusgro","Dusky Grouse","Dendragapus obscurus","L54827448","Old Fall River Road, Estes Park US-CO 40.41473, -105.66087","2025-11-05 12:22",2,40.41473,-105.660872,TRUE,FALSE,TRUE,"S283061264"
+"26","dusgro","Dusky Grouse","Dendragapus obscurus","L1236887","Grand Teton NP--Emma Matilda Lake","2025-11-05 08:23",1,43.8892331,-110.531044,TRUE,FALSE,FALSE,"S283061535"
+"27","dusgro","Dusky Grouse","Dendragapus obscurus","L54873073","82083, Rock River US-WY (41.4012,-106.1006)","2025-11-05 06:13",1,41.401158,-106.100571,TRUE,FALSE,TRUE,"S283308441"
