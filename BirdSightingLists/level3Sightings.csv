@@ -1,242 +1,212 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","whtswi","White-throated Swift","Aeronautes saxatalis","L9629914","Arbor Park, Seal Beach","2025-11-17 13:08",35,33.7834865,-118.0499354,TRUE,FALSE,FALSE,"S284975795"
-"2","whtswi","White-throated Swift","Aeronautes saxatalis","L160935","Ballona Freshwater Marsh","2025-11-17 13:01",25,33.9701285,-118.4305573,TRUE,FALSE,FALSE,"S284978064"
-"3","whtswi","White-throated Swift","Aeronautes saxatalis","L1552663","Ken Malloy Harbor Regional Park","2025-11-17 11:20",15,33.7874582,-118.2939363,TRUE,FALSE,FALSE,"S284969675"
-"4","whtswi","White-throated Swift","Aeronautes saxatalis","L374927","American River Parkway--Nimbus Fish Hatchery downstream to Upper Sunrise Nimbus Road Parking Area","2025-11-17 10:43",26,38.6341872,-121.2253864,TRUE,FALSE,FALSE,"S284974376"
-"5","whtswi","White-throated Swift","Aeronautes saxatalis","L55215604","3201 Marina Way, National City, California, US (32.651, -117.109)","2025-11-17 10:04",6,32.6508177,-117.1090785,TRUE,FALSE,TRUE,"S284952441"
-"6","whtswi","White-throated Swift","Aeronautes saxatalis","L55216828","4455 Radford Ave, Los Angeles US-CA (34.1521,-118.3922)","2025-11-17 09:57",1,34.152121,-118.39222,TRUE,FALSE,TRUE,"S284958236"
-"7","whtswi","White-throated Swift","Aeronautes saxatalis","L1129739","Finger Rock Canyon","2025-11-17 09:57",NA,32.3407384,-110.9098148,TRUE,FALSE,FALSE,"S284962220"
-"8","whtswi","White-throated Swift","Aeronautes saxatalis","L39473665","Foxhall Drive Area (San Marcos)","2025-11-17 09:18",2,33.1261873,-117.1780364,TRUE,FALSE,TRUE,"S284955663"
-"9","whtswi","White-throated Swift","Aeronautes saxatalis","L595298","Lower Arroyo Seco","2025-11-17 09:07",12,34.137561,-118.1677651,TRUE,FALSE,FALSE,"S284960800"
-"10","whtswi","White-throated Swift","Aeronautes saxatalis","L815568","Harbor Island","2025-11-17 09:03",2,32.7251763,-117.1967814,TRUE,FALSE,FALSE,"S284979977"
-"11","whtswi","White-throated Swift","Aeronautes saxatalis","L55217676","Aliso Creek - Santa Margarita Pkwy to El Toro Bridge","2025-11-17 08:54",NA,33.6547041,-117.6597366,TRUE,FALSE,TRUE,"S284962410"
-"12","whtswi","White-throated Swift","Aeronautes saxatalis","L1106747","Sabino Canyon Rec Area--Blackett's Ridge Trail","2025-11-17 07:53",3,32.3234114,-110.7990783,TRUE,FALSE,TRUE,"S284934910"
-"13","whtswi","White-throated Swift","Aeronautes saxatalis","L1499485","Sabino Canyon Rec Area--Blackett's Ridge high point (4420)","2025-11-17 07:41",14,32.32532,-110.79142,TRUE,FALSE,TRUE,"S284923508"
-"14","whtswi","White-throated Swift","Aeronautes saxatalis","L360452","Big Bend NP--Panther Junction","2025-11-17 07:09",3,29.3281624,-103.2064569,TRUE,FALSE,FALSE,"S284962738"
-"15","whtswi","White-throated Swift","Aeronautes saxatalis","L21192531","Fort Rosecrans National Cemetery, San Diego US-CA 32.68876, -117.24513","2025-11-17 06:50",11,32.688757,-117.245128,TRUE,FALSE,TRUE,"S284944251"
-"16","whtswi","White-throated Swift","Aeronautes saxatalis","L109339","IRWD San Joaquin Marsh & Wildlife Sanctuary, Irvine","2025-11-17 06:25",1,33.6637274,-117.8426814,TRUE,FALSE,FALSE,"S284944161"
-"17","whtswi","White-throated Swift","Aeronautes saxatalis","L55197245","260 La Varona Pl, Escondido US-CA (33.0794,-117.0671)","2025-11-16 16:14",15,33.079393,-117.067117,TRUE,FALSE,TRUE,"S284858540"
-"18","whtswi","White-throated Swift","Aeronautes saxatalis","L2165781","Rose Canyon Park--eastern access trail","2025-11-16 15:54",24,32.8589153,-117.1923637,TRUE,FALSE,FALSE,"S284858209"
-"19","whtswi","White-throated Swift","Aeronautes saxatalis","L2917328","Chiricahua NM--Echo Canyon Loop Trail only","2025-11-16 14:53",1,32.0076393,-109.3151236,TRUE,FALSE,FALSE,"S284973893"
-"20","whtswi","White-throated Swift","Aeronautes saxatalis","L33294737","Washington Ave East","2025-11-16 14:23",5,37.89235,-122.301448,TRUE,FALSE,TRUE,"S284847693"
-"21","whtswi","White-throated Swift","Aeronautes saxatalis","L23914036","Personal Location","2025-11-16 14:10",7,37.3540241,-122.0571461,TRUE,FALSE,TRUE,"S284855476"
-"22","whtswi","White-throated Swift","Aeronautes saxatalis","L3317448","The Lakes--Private Property","2025-11-16 13:42",20,35.51434,-120.67129,TRUE,FALSE,FALSE,"S284837551"
-"23","whtswi","White-throated Swift","Aeronautes saxatalis","L4895842","Los Angeles River--Atlantic Blvd. to Slauson Ave.","2025-11-16 13:14",5,33.9908755,-118.175683,TRUE,FALSE,FALSE,"S284868131"
-"24","whtswi","White-throated Swift","Aeronautes saxatalis","L6429438","Mission Trails Regional Park--Lake Murray Blvd. trailhead","2025-11-16 12:52",8,32.8159194,-117.0101291,TRUE,FALSE,FALSE,"S284853174"
-"25","whtswi","White-throated Swift","Aeronautes saxatalis","L2573827","Upper Santa Ana River--Imperial Hwy to Yorba Linda Blvd.","2025-11-16 12:35",3,33.8649871,-117.7695656,TRUE,FALSE,FALSE,"S284835764"
-"26","whtswi","White-throated Swift","Aeronautes saxatalis","L152149","Bette Davis Picnic Area","2025-11-16 12:33",6,34.1576843,-118.2978616,TRUE,FALSE,FALSE,"S284830294"
-"27","whtswi","White-throated Swift","Aeronautes saxatalis","L682050","Lake Sherwood","2025-11-16 12:28",18,34.1384655,-118.8731647,TRUE,FALSE,FALSE,"S284838367"
-"28","whtswi","White-throated Swift","Aeronautes saxatalis","L616118","Bob Jones Trail","2025-11-16 11:38",11,35.1886907,-120.7193907,TRUE,FALSE,FALSE,"S284855693"
-"29","whtswi","White-throated Swift","Aeronautes saxatalis","L14790681","Palo Alto Flood Control Basin--E. Bayshore Rd. ponds","2025-11-16 11:06",7,37.4357271,-122.1061825,TRUE,FALSE,FALSE,"S284818964"
-"30","whtswi","White-throated Swift","Aeronautes saxatalis","L164929","Bolsa Chica Ecological Reserve","2025-11-16 11:00",25,33.7026531,-118.050735,TRUE,FALSE,FALSE,"S284869506"
-"31","whtswi","White-throated Swift","Aeronautes saxatalis","L55188565","Sycamore Park","2025-11-16 10:50",4,33.8624223,-117.7433378,TRUE,FALSE,TRUE,"S284820590"
-"32","whtswi","White-throated Swift","Aeronautes saxatalis","L12968236","Bolsa Chica Ecological Reserve-Backside (restricted access)","2025-11-16 10:28",1,33.7025628,-118.035571,TRUE,FALSE,FALSE,"S284812509"
-"33","whtswi","White-throated Swift","Aeronautes saxatalis","L731118","Marian Bear Natural Memorial Park--Regents Rd.","2025-11-16 10:17",15,32.8410212,-117.216745,TRUE,FALSE,FALSE,"S284813494"
-"34","whtswi","White-throated Swift","Aeronautes saxatalis","L28925855","Shadow Rock Park","2025-11-16 09:59",5,34.0176479,-117.416143,TRUE,FALSE,FALSE,"S284809705"
-"35","whtswi","White-throated Swift","Aeronautes saxatalis","L686946","Ed Levin CP--Spring Valley area","2025-11-16 09:57",3,37.4457324,-121.8471551,TRUE,FALSE,FALSE,"S284831503"
-"36","whtswi","White-throated Swift","Aeronautes saxatalis","L13945362","Kendall Way at 2nd St. drainage pond","2025-11-16 09:16",3,38.5467598,-121.7268815,TRUE,FALSE,FALSE,"S284796721"
-"37","whtswi","White-throated Swift","Aeronautes saxatalis","L2878457","Hansen Spreading Grounds","2025-11-16 09:00",30,34.2532614,-118.3924055,TRUE,FALSE,FALSE,"S284833030"
-"38","whtswi","White-throated Swift","Aeronautes saxatalis","L1912052","O'Neill Regional Park--Arroyo Trabuco Wilderness (Santa Margarita to Oso)","2025-11-16 08:28",8,33.620516,-117.6243067,TRUE,FALSE,FALSE,"S284804730"
-"39","whtswi","White-throated Swift","Aeronautes saxatalis","L21587254","San Diego River--east of Qualcomm Way","2025-11-16 08:09",10,32.7725263,-117.1384299,TRUE,FALSE,FALSE,"S284802975"
-"40","whtswi","White-throated Swift","Aeronautes saxatalis","L216132","Coyote Hills Regional Park","2025-11-16 08:00",30,37.553764,-122.0875025,TRUE,FALSE,FALSE,"S284856625"
-"41","whtswi","White-throated Swift","Aeronautes saxatalis","L508729","Huntington Central Park--Shipley Nature Center","2025-11-15 15:54",1,33.7032414,-118.0085759,TRUE,FALSE,FALSE,"S284669125"
-"42","whtswi","White-throated Swift","Aeronautes saxatalis","L677049","Rotary Nature Center","2025-11-15 12:54",6,37.8071944,-122.2559479,TRUE,FALSE,FALSE,"S284689836"
-"43","whtswi","White-throated Swift","Aeronautes saxatalis","L55164584","Holiday Inn, Suisun City","2025-11-15 10:56",16,38.242076,-122.038389,TRUE,FALSE,TRUE,"S284703318"
-"44","whtswi","White-throated Swift","Aeronautes saxatalis","L225850","American River Parkway--Lower Sunrise","2025-11-15 10:37",3,38.6269421,-121.2749183,TRUE,FALSE,FALSE,"S284835284"
-"45","whtswi","White-throated Swift","Aeronautes saxatalis","L518641","Gibson Ranch County Park","2025-11-15 09:50",5,38.7243734,-121.4024919,TRUE,FALSE,FALSE,"S284637086"
-"46","whtswi","White-throated Swift","Aeronautes saxatalis","L128982","Guadalupe Mts. NP--Pine Springs (incl. Visitor Ctr)","2025-11-15 09:30",3,31.896,-104.822,TRUE,FALSE,FALSE,"S284785430"
-"47","whtswi","White-throated Swift","Aeronautes saxatalis","L817806","Mt. Lemmon--Windy Point","2025-11-15 09:21",1,32.3680368,-110.7164812,TRUE,FALSE,FALSE,"S284593030"
-"48","whtswi","White-throated Swift","Aeronautes saxatalis","L629205","University of Arizona","2025-11-14 17:00",1,32.2321157,-110.9511852,TRUE,FALSE,FALSE,"S284476302"
-"49","whtswi","White-throated Swift","Aeronautes saxatalis","L27302545","Visitor Section  North Outer Loop, Livermore, California, US (37.688, -121.698)","2025-11-14 16:47",1,37.6881009,-121.698005,TRUE,FALSE,TRUE,"S284476807"
-"50","whtswi","White-throated Swift","Aeronautes saxatalis","L300659","Stanford University--campus","2025-11-14 16:40",25,37.4321365,-122.1689129,TRUE,FALSE,FALSE,"S284476375"
-"51","whtswi","White-throated Swift","Aeronautes saxatalis","L1586916","Putah Creek--Fishing Access #1 (YOL Co.)","2025-11-14 15:39",6,38.5148499,-122.0782516,TRUE,FALSE,FALSE,"S284486850"
-"52","whtswi","White-throated Swift","Aeronautes saxatalis","L8652306","Gateway Plaza, Vallejo US-CA (38.1347,-122.2171)","2025-11-14 13:49",1,38.134705,-122.217092,TRUE,FALSE,TRUE,"S284460382"
-"53","whtswi","White-throated Swift","Aeronautes saxatalis","L12380409","Vasona Lake County Park, Los Gatos US-CA 37.24138, -121.97281","2025-11-14 11:03",6,37.241379,-121.972806,TRUE,FALSE,TRUE,"S284486627"
-"54","whtswi","White-throated Swift","Aeronautes saxatalis","L247953","Sweetwater Reservoir","2025-11-14 09:44",10,32.6909342,-116.9966808,TRUE,FALSE,FALSE,"S284442276"
-"55","whtswi","White-throated Swift","Aeronautes saxatalis","L2248482","Don Edwards NWR--No Name Trail","2025-11-14 09:39",8,37.5464008,-122.0973837,TRUE,FALSE,FALSE,"S284444638"
-"56","whtswi","White-throated Swift","Aeronautes saxatalis","L1124286","Crown Memorial SB--Crab Cove area","2025-11-14 08:36",1,37.7684076,-122.2774389,TRUE,FALSE,FALSE,"S284448480"
-"57","whtswi","White-throated Swift","Aeronautes saxatalis","L129105","Sycamore Canyon (Pajarito Mountains)","2025-11-14 08:35",16,31.4290009,-111.1905975,TRUE,FALSE,FALSE,"S284554001"
-"58","whtswi","White-throated Swift","Aeronautes saxatalis","L29643771","Solano Hill - Gateview Crest","2025-11-14 08:23",3,37.8899529,-122.3042945,TRUE,FALSE,TRUE,"S284421693"
-"59","whtswi","White-throated Swift","Aeronautes saxatalis","L55114641","La Barge Canyon Trail, Arizona, US (33.504, -111.398)","2025-11-14 07:55",30,33.5037476,-111.3977897,TRUE,FALSE,TRUE,"S284598589"
-"60","whtswi","White-throated Swift","Aeronautes saxatalis","L387543","Papago Park","2025-11-14 07:18",4,33.4564,-111.95,TRUE,FALSE,FALSE,"S284407951"
-"61","whtswi","White-throated Swift","Aeronautes saxatalis","L212641","Briones Regional Park","2025-11-14 06:55",12,37.9380572,-122.1346222,TRUE,FALSE,FALSE,"S284480594"
-"62","whtswi","White-throated Swift","Aeronautes saxatalis","L1396236","Anaheim Coves Park (aka Burris Basin)","2025-11-13 15:16",40,33.8257044,-117.869868,TRUE,FALSE,FALSE,"S284335839"
-"63","whtswi","White-throated Swift","Aeronautes saxatalis","L27822415","Castaic Creek","2025-11-13 15:10",5,34.589809,-118.6564,TRUE,FALSE,TRUE,"S284334312"
-"64","whtswi","White-throated Swift","Aeronautes saxatalis","L474333","Frank G. Bonelli RP--North Access","2025-11-13 14:33",8,34.0921622,-117.8010347,TRUE,FALSE,FALSE,"S284337829"
-"65","whtswi","White-throated Swift","Aeronautes saxatalis","L36448090","Dominguez Channel--Del Amo Blvd to Avalon Blvd","2025-11-13 13:43",8,33.844098,-118.2663498,TRUE,FALSE,FALSE,"S284334025"
-"66","whtswi","White-throated Swift","Aeronautes saxatalis","L14155845","Lambert Park","2025-11-13 13:29",4,34.085285,-118.0197287,TRUE,FALSE,FALSE,"S284326166"
-"67","whtswi","White-throated Swift","Aeronautes saxatalis","L4752233","Old Family Ranch","2025-11-13 12:53",3,33.7675895,-117.7938647,TRUE,FALSE,TRUE,"S284319465"
-"68","whtswi","White-throated Swift","Aeronautes saxatalis","L2282343","UC Los Angeles--William Andrews Clark Memorial Library","2025-11-13 12:17",2,34.0330256,-118.3143023,TRUE,FALSE,FALSE,"S284322747"
-"69","whtswi","White-throated Swift","Aeronautes saxatalis","L21906402","Westchester Home","2025-11-13 11:00",1,33.9710829,-118.4074129,TRUE,FALSE,TRUE,"S284315025"
-"70","whtswi","White-throated Swift","Aeronautes saxatalis","L8812892","Garden Canyon Rd--BETWEEN Upper Picnic Area and Sawmill Canyon","2025-11-13 10:34",4,31.460941,-110.361756,TRUE,FALSE,FALSE,"S284453464"
-"71","whtswi","White-throated Swift","Aeronautes saxatalis","L55080017","6331–6345 Fairfax Rd, Bakersfield US-CA (35.4135,-118.9371)","2025-11-13 10:21",1,35.41353,-118.937066,TRUE,FALSE,TRUE,"S284302143"
-"72","whtswi","White-throated Swift","Aeronautes saxatalis","L20408084","7010 N Golden State Blvd, Fresno US-CA (36.8384,-119.9234)","2025-11-13 09:53",4,36.838401,-119.923432,TRUE,FALSE,TRUE,"S284303855"
-"73","whtswi","White-throated Swift","Aeronautes saxatalis","L229936","Mission Trails Regional Park--Kumeyaay Lake & campground ONLY","2025-11-13 09:35",2,32.8417935,-117.0320288,TRUE,FALSE,FALSE,"S284311533"
-"74","whtswi","White-throated Swift","Aeronautes saxatalis","L8341990","La Jolla Colony Park","2025-11-13 09:14",2,32.861766,-117.2271983,TRUE,FALSE,FALSE,"S284298758"
-"75","whtswi","White-throated Swift","Aeronautes saxatalis","L418752","Tijuana River Valley--Bird & Butterfly Garden (Myers Ranch)","2025-11-13 09:07",6,32.5538589,-117.084619,TRUE,FALSE,FALSE,"S284302833"
-"76","whtswi","White-throated Swift","Aeronautes saxatalis","L5786034","Talbert Regional Park (North)","2025-11-13 08:11",19,33.6606925,-117.9456997,TRUE,FALSE,FALSE,"S284344208"
-"77","whtswi","White-throated Swift","Aeronautes saxatalis","L336013","Lake Los Carneros Park","2025-11-13 07:55",14,34.44322,-119.84975,TRUE,FALSE,FALSE,"S284303847"
-"78","whtswi","White-throated Swift","Aeronautes saxatalis","L867976","Santa Ana River--Hamilton Ave. to Adams Ave.","2025-11-13 07:40",2,33.6608532,-117.9482746,TRUE,FALSE,FALSE,"S284289018"
-"79","whtswi","White-throated Swift","Aeronautes saxatalis","L600290","Fairview Park, Costa Mesa","2025-11-13 07:00",2,33.662014,-117.9413974,TRUE,FALSE,FALSE,"S284343933"
-"80","whtswi","White-throated Swift","Aeronautes saxatalis","L815817","Frank G. Bonelli RP/Puddingstone Reservoir and vicinity","2025-11-13 06:50",20,34.0870104,-117.8050125,TRUE,FALSE,FALSE,"S284355526"
-"81","whtswi","White-throated Swift","Aeronautes saxatalis","L601812","Black Widow Ranch","2025-11-13",10,33.9856225,-117.3125723,TRUE,FALSE,TRUE,"S284354555"
-"82","whtswi","White-throated Swift","Aeronautes saxatalis","L55062911","I-15 N, Hesperia US-CA 34.27820, -117.45119","2025-11-12 16:47",50,34.278204,-117.451188,TRUE,FALSE,TRUE,"S284211163"
-"83","whtswi","White-throated Swift","Aeronautes saxatalis","L16832058","Santa Monica Mountains National Recreation Area, Topanga US-CA 34.11257, -118.63485","2025-11-12 16:46",15,34.112568,-118.634845,TRUE,FALSE,TRUE,"S284211645"
-"84","whtswi","White-throated Swift","Aeronautes saxatalis","L17755774","San Thomas Aquino Creek near work","2025-11-12 16:04",1,37.4120211,-121.9796522,TRUE,FALSE,TRUE,"S284208311"
-"85","whtswi","White-throated Swift","Aeronautes saxatalis","L54263690","Solons Alley","2025-11-12 16:01",2,38.5667479,-121.4865272,TRUE,FALSE,TRUE,"S284204637"
-"86","whtswi","White-throated Swift","Aeronautes saxatalis","L517284","Pasadena City Hall","2025-11-12 15:42",12,34.1478259,-118.1432819,TRUE,FALSE,FALSE,"S284265348"
-"87","whtswi","White-throated Swift","Aeronautes saxatalis","L55062746","205–223 Corson St, Pasadena US-CA 34.15126, -118.14579","2025-11-12 15:39",150,34.151263,-118.145793,TRUE,FALSE,TRUE,"S284210433"
-"88","whtswi","White-throated Swift","Aeronautes saxatalis","L268066","Capitol Mall","2025-11-12 15:15",56,38.581272,-121.5066494,TRUE,FALSE,FALSE,"S284202530"
-"89","whtswi","White-throated Swift","Aeronautes saxatalis","L987274","Coronado NM--Montezuma Pass","2025-11-12 14:58",2,31.3506739,-110.2854631,TRUE,FALSE,FALSE,"S284218171"
-"90","whtswi","White-throated Swift","Aeronautes saxatalis","L940460","Mission Valley Preserve/Sefton Park","2025-11-12 14:57",5,32.762172,-117.1938769,TRUE,FALSE,FALSE,"S284202648"
-"91","whtswi","White-throated Swift","Aeronautes saxatalis","L225853","American River Parkway--Upper Sunrise","2025-11-12 14:50",28,38.6344668,-121.2476875,TRUE,FALSE,FALSE,"S284227763"
-"92","whtswi","White-throated Swift","Aeronautes saxatalis","L372919","Coronado National Memorial","2025-11-12 14:03",4,31.3459405,-110.2535668,TRUE,FALSE,FALSE,"S284215374"
-"93","whtswi","White-throated Swift","Aeronautes saxatalis","L1608963","Penitencia Creek Trail","2025-11-12 13:38",2,37.3924312,-121.8375721,TRUE,FALSE,FALSE,"S284195012"
-"94","whtswi","White-throated Swift","Aeronautes saxatalis","L6566182","Bay Park, 4834 Huron Avenue, San Diego, California, US (32.796, -117.196)","2025-11-12 13:11",5,32.796341,-117.1958369,TRUE,FALSE,TRUE,"S284188670"
-"95","whtswi","White-throated Swift","Aeronautes saxatalis","L1989447","Border Field SP & Goat Canyon","2025-11-12 09:26",34,32.5434819,-117.1081371,TRUE,FALSE,FALSE,"S284173055"
-"96","whtswi","White-throated Swift","Aeronautes saxatalis","L3300802","Veterans Memorial Park (planned)","2025-11-12 09:26",2,33.1363539,-117.3021197,TRUE,FALSE,FALSE,"S284196900"
-"97","whtswi","White-throated Swift","Aeronautes saxatalis","L447347","UC Davis--Arboretum","2025-11-12 09:03",2,38.5309118,-121.7603159,TRUE,FALSE,FALSE,"S284163677"
-"98","whtswi","White-throated Swift","Aeronautes saxatalis","L10335941","Torrey Hills Mesa","2025-11-12 08:54",5,32.930259,-117.218614,TRUE,FALSE,FALSE,"S284163027"
-"99","whtswi","White-throated Swift","Aeronautes saxatalis","L2093003","Fairview Park Wetlands","2025-11-12 08:20",NA,33.6664968,-117.940979,TRUE,FALSE,FALSE,"S284174131"
-"100","whtswi","White-throated Swift","Aeronautes saxatalis","L949191","Tahquitz Canyon","2025-11-12 08:04",NA,33.80531,-116.558434,TRUE,FALSE,FALSE,"S284171834"
-"101","whtswi","White-throated Swift","Aeronautes saxatalis","L38286691","7098 W Herndon Ave, Fresno US-CA 36.83572, -119.91840","2025-11-12 07:15",6,36.835723,-119.918397,TRUE,FALSE,TRUE,"S284154360"
-"102","whtswi","White-throated Swift","Aeronautes saxatalis","L1052368","Big Bend NP--Daniels Ranch Rd.","2025-11-12 07:12",4,29.1839794,-102.9645274,TRUE,FALSE,FALSE,"S284173613"
-"103","whtswi","White-throated Swift","Aeronautes saxatalis","L757716","San Diego River--estuary (Old Sea World Dr.)","2025-11-12 07:07",1,32.7597508,-117.2179803,TRUE,FALSE,FALSE,"S284140764"
-"104","whtswi","White-throated Swift","Aeronautes saxatalis","L715898","Whelan Lake Bird Sanctuary (permission required)","2025-11-12 07:07",2,33.2424922,-117.3364091,TRUE,FALSE,FALSE,"S284169249"
-"105","whtswi","White-throated Swift","Aeronautes saxatalis","L38449575","2800 2nd Ave","2025-11-11 16:41",2,38.554197,-121.477473,TRUE,FALSE,TRUE,"S284075132"
-"106","whtswi","White-throated Swift","Aeronautes saxatalis","L11611565","3056 Braemar Dr, Santa Barbara US-CA 34.40691, -119.74346","2025-11-11 16:39",1,34.40691,-119.743456,TRUE,FALSE,TRUE,"S284076288"
-"107","whtswi","White-throated Swift","Aeronautes saxatalis","L38458551","Western Solano Ave","2025-11-11 16:32",2,37.889804,-122.301601,TRUE,FALSE,TRUE,"S284075341"
-"108","whtswi","White-throated Swift","Aeronautes saxatalis","L55061942","Airline Hwy X Union Road","2025-11-11 15:00",2,36.8266,-121.38275,TRUE,FALSE,TRUE,"S284206537"
-"109","whtswi","White-throated Swift","Aeronautes saxatalis","L16921237","Pullman & McCormick, Costa Mesa","2025-11-11 14:30",1,33.6821785,-117.8747971,TRUE,FALSE,TRUE,"S284066289"
-"110","whtswi","White-throated Swift","Aeronautes saxatalis","L404795","Oak Canyon Nature Center, Anaheim","2025-11-11 13:54",3,33.8372351,-117.7554989,TRUE,FALSE,FALSE,"S284073122"
-"111","whtswi","White-throated Swift","Aeronautes saxatalis","L1367369","East Canyon","2025-11-11 13:28",3,34.3410634,-118.5407637,TRUE,FALSE,FALSE,"S284081505"
-"112","whtswi","White-throated Swift","Aeronautes saxatalis","L1164868","Upper Claremont Canyon--UC Preserve","2025-11-11 13:26",25,37.8697211,-122.2229433,TRUE,FALSE,FALSE,"S284080084"
-"113","whtswi","White-throated Swift","Aeronautes saxatalis","L128907","Big Bend NP--Rio Grande Village (FWTX 44)","2025-11-11 12:40",2,29.1809226,-102.9557133,TRUE,FALSE,FALSE,"S284034014"
-"114","whtswi","White-throated Swift","Aeronautes saxatalis","L681305","Granite Regional Park","2025-11-11 12:35",6,38.543802,-121.4015436,TRUE,FALSE,FALSE,"S284064452"
-"115","whtswi","White-throated Swift","Aeronautes saxatalis","L6182805","Bel Air--Verano Road Area","2025-11-11 12:02",1,34.0941391,-118.4620839,TRUE,FALSE,TRUE,"S284158052"
-"116","whtswi","White-throated Swift","Aeronautes saxatalis","L2427038","Joshua Tree NP--Ryan Mountain","2025-11-11 10:55",1,33.985588,-116.134717,TRUE,FALSE,FALSE,"S284085261"
-"117","whtswi","White-throated Swift","Aeronautes saxatalis","L34825948","Pierce and Washington","2025-11-11 10:37",1,37.88943,-122.306042,TRUE,FALSE,TRUE,"S284036164"
-"118","whtswi","White-throated Swift","Aeronautes saxatalis","L199245","Pt. Lobos State Reserve","2025-11-11 10:19",1,36.5194581,-121.9497013,TRUE,FALSE,FALSE,"S284088350"
-"119","whtswi","White-throated Swift","Aeronautes saxatalis","L382781","Legg Lake","2025-11-11 10:10",1,34.031892,-118.060112,TRUE,FALSE,FALSE,"S284040986"
-"120","whtswi","White-throated Swift","Aeronautes saxatalis","L4598666","Aliso and Wood Canyons WP--Aliso Creek Trail to Wood Canyon Trail","2025-11-11 10:07",5,33.5467599,-117.7232051,TRUE,FALSE,FALSE,"S284039941"
-"121","whtswi","White-throated Swift","Aeronautes saxatalis","L17527363","Buena Vista Park Trail, Vista US-CA 33.15460, -117.24739","2025-11-11 10:04",1,33.154596,-117.247386,TRUE,FALSE,TRUE,"S284425285"
-"122","whtswi","White-throated Swift","Aeronautes saxatalis","L54998577","Bonelli Bluffs RV Resort","2025-11-11 09:53",20,34.085383,-117.797095,TRUE,FALSE,TRUE,"S284028058"
-"123","whtswi","White-throated Swift","Aeronautes saxatalis","L896384","Mt. Wilson Observatory","2025-11-11 09:43",2,34.225021,-118.0565286,TRUE,FALSE,FALSE,"S284081619"
-"124","whtswi","White-throated Swift","Aeronautes saxatalis","L28134078","Griffith Park--Mineral Wells Trail","2025-11-11 09:30",2,34.1406496,-118.2891666,TRUE,FALSE,FALSE,"S284167492"
-"125","whtswi","White-throated Swift","Aeronautes saxatalis","L37448335","CA-56 E, San Diego US-CA (32.9567,-117.1855)","2025-11-11 09:20",1,32.956716,-117.185497,TRUE,FALSE,TRUE,"S284048373"
-"126","whtswi","White-throated Swift","Aeronautes saxatalis","L55024294","110 West Olive Avenue, Burbank, California, US (34.177, -118.312)","2025-11-11 08:57",6,34.1773555,-118.3123105,TRUE,FALSE,TRUE,"S284020350"
-"127","whtswi","White-throated Swift","Aeronautes saxatalis","L458123","Sweetwater Channel--tidal & riparian","2025-11-11 08:50",11,32.6583601,-117.082422,TRUE,FALSE,FALSE,"S284026525"
-"128","whtswi","White-throated Swift","Aeronautes saxatalis","L1193294","Joshua Tree NP--Hall of Horrors","2025-11-11 08:47",8,33.9995346,-116.1467314,TRUE,FALSE,FALSE,"S284029238"
-"129","whtswi","White-throated Swift","Aeronautes saxatalis","L794370","Presidio Park","2025-11-11 08:27",2,32.7579913,-117.1928083,TRUE,FALSE,FALSE,"S284133609"
-"130","whtswi","White-throated Swift","Aeronautes saxatalis","L481023","Los Angeles River--Willow St.","2025-11-11 08:15",2,33.8048977,-118.2059383,TRUE,FALSE,FALSE,"S284025626"
-"131","whtswi","White-throated Swift","Aeronautes saxatalis","L423815","Whitewater Preserve","2025-11-11 08:09",20,33.9887687,-116.6559255,TRUE,FALSE,FALSE,"S284036357"
-"132","whtswi","White-throated Swift","Aeronautes saxatalis","L1300216","Joshua Tree NP--Hidden Valley area","2025-11-11 08:08",4,34.014585,-116.171998,TRUE,FALSE,FALSE,"S284025933"
-"133","whtswi","White-throated Swift","Aeronautes saxatalis","L732299","Hansen Dam","2025-11-11 08:08",1,34.2670624,-118.385067,TRUE,FALSE,FALSE,"S284024366"
-"134","whtswi","White-throated Swift","Aeronautes saxatalis","L1053553","Pinnacles NP--Condor Gulch Trail","2025-11-11 07:46",20,36.4855387,-121.1927605,TRUE,FALSE,FALSE,"S284078671"
-"135","whtswi","White-throated Swift","Aeronautes saxatalis","L37205950","Finger Rock Trail, Tucson, Arizona, US (32.352, -110.899)","2025-11-11 07:35",2,32.3522347,-110.8988919,TRUE,FALSE,TRUE,"S284070521"
-"136","whtswi","White-throated Swift","Aeronautes saxatalis","L468473","Newport Pier","2025-11-11 07:27",3,33.6059343,-117.9312801,TRUE,FALSE,FALSE,"S284019126"
-"137","whtswi","White-throated Swift","Aeronautes saxatalis","L225847","American River Parkway--Sailor Bar","2025-11-11 06:54",38,38.6337613,-121.235827,TRUE,FALSE,FALSE,"S284048050"
-"138","whtswi","White-throated Swift","Aeronautes saxatalis","L469984","Kendall-Frost Marsh Reserve","2025-11-11 06:45",4,32.7921946,-117.2309709,TRUE,FALSE,FALSE,"S284487565"
-"139","whtswi","White-throated Swift","Aeronautes saxatalis","L798992","Reseda Park","2025-11-10 16:14",7,34.1888728,-118.5359573,TRUE,FALSE,FALSE,"S283944748"
-"140","whtswi","White-throated Swift","Aeronautes saxatalis","L1445311","Vasquez Rocks County Park","2025-11-10 16:05",3,34.4806219,-118.3198886,TRUE,FALSE,FALSE,"S283945204"
-"141","whtswi","White-throated Swift","Aeronautes saxatalis","L167991","Batiquitos Lagoon--north side trails","2025-11-10 15:25",1,33.091669,-117.2960981,TRUE,FALSE,FALSE,"S283942201"
-"142","whtswi","White-throated Swift","Aeronautes saxatalis","L11622377","House, Napa, California, US (38.294, -122.239)","2025-11-10 13:10",6,38.2943517,-122.2392917,TRUE,FALSE,TRUE,"S283925471"
-"143","whtswi","White-throated Swift","Aeronautes saxatalis","L2085681","RR Donnelley San Diego","2025-11-10 12:47",10,32.7147906,-117.1159744,TRUE,FALSE,TRUE,"S283919781"
-"144","whtswi","White-throated Swift","Aeronautes saxatalis","L55103204","Lunada Bay pullout overlook","2025-11-10 12:32",4,33.770169,-118.420755,TRUE,FALSE,TRUE,"S284421881"
-"145","whtswi","White-throated Swift","Aeronautes saxatalis","L32332085","Cerro San Luis north side","2025-11-10 11:53",6,35.285995,-120.688289,TRUE,FALSE,TRUE,"S283929261"
-"146","whtswi","White-throated Swift","Aeronautes saxatalis","L817809","Mt. Lemmon--Geology Vista","2025-11-10 11:31",2,32.3706013,-110.7111275,TRUE,FALSE,FALSE,"S283943601"
-"147","whtswi","White-throated Swift","Aeronautes saxatalis","L1030029","My yard","2025-11-10 11:19",12,38.5531935,-121.3505186,TRUE,FALSE,TRUE,"S283911188"
-"148","whtswi","White-throated Swift","Aeronautes saxatalis","L55004500","CA-46, Paso Robles US-CA 35.64316, -120.68320","2025-11-10 11:05",8,35.643162,-120.683198,TRUE,FALSE,TRUE,"S283925969"
-"149","whtswi","White-throated Swift","Aeronautes saxatalis","L42313021","Backyard/TP Neighborhood","2025-11-10 10:50",1,38.5445169,-121.430652,TRUE,FALSE,TRUE,"S283911256"
-"150","whtswi","White-throated Swift","Aeronautes saxatalis","L54999957","UC Davis Arboretum and Public Garden, Davis US-CA 38.53475, -121.75017","2025-11-10 10:37",6,38.534748,-121.750165,TRUE,FALSE,TRUE,"S283905511"
-"151","whtswi","White-throated Swift","Aeronautes saxatalis","L353788","Morro Rock","2025-11-10 10:30",14,35.3693972,-120.8670566,TRUE,FALSE,FALSE,"S283912323"
-"152","whtswi","White-throated Swift","Aeronautes saxatalis","L856570","San Gabriel Coastal Basin Spreading Grounds","2025-11-10 10:30",2,33.9810187,-118.0824494,TRUE,FALSE,FALSE,"S283952168"
-"153","whtswi","White-throated Swift","Aeronautes saxatalis","L2162544","Panoramic Hill (neighborhood)","2025-11-10 10:19",22,37.867735,-122.241265,TRUE,FALSE,FALSE,"S283913525"
-"154","whtswi","White-throated Swift","Aeronautes saxatalis","L25399691","950 N San Pedro St, San Jose US-CA (37.3536,-121.9052)","2025-11-10 10:15",2,37.353588,-121.905174,TRUE,FALSE,TRUE,"S283903865"
-"155","whtswi","White-throated Swift","Aeronautes saxatalis","L18949938","Scenic Drive Overlook, El Paso","2025-11-10 10:10",3,31.7826118,-106.479739,TRUE,FALSE,FALSE,"S283896377"
-"156","whtswi","White-throated Swift","Aeronautes saxatalis","L163561","San Jacinto Wildlife Area","2025-11-10 10:09",3,33.8854488,-117.104104,TRUE,FALSE,FALSE,"S283954369"
-"157","whtswi","White-throated Swift","Aeronautes saxatalis","L54765043","Redwood City Caltrain Station","2025-11-10 09:51",5,37.485928,-122.232052,TRUE,FALSE,TRUE,"S283899769"
-"158","whtswi","White-throated Swift","Aeronautes saxatalis","L911465","UC Davis--California Raptor Center","2025-11-10 09:42",30,38.517633,-121.7563677,TRUE,FALSE,FALSE,"S283909288"
-"159","whtswi","White-throated Swift","Aeronautes saxatalis","L15720675","Sunnyvale - Hwy 237 at Maude","2025-11-10 09:20",1,37.3948683,-122.0462433,TRUE,FALSE,TRUE,"S283947119"
-"160","whtswi","White-throated Swift","Aeronautes saxatalis","L1123060","Pt. Vicente--general area","2025-11-10 09:05",1,33.7438618,-118.4105587,TRUE,FALSE,FALSE,"S283911792"
-"161","whtswi","White-throated Swift","Aeronautes saxatalis","L2198410","Griffith Park--Old Zoo trails","2025-11-10 08:31",5,34.1349978,-118.288132,TRUE,FALSE,FALSE,"S283905430"
-"162","whtswi","White-throated Swift","Aeronautes saxatalis","L224081","Hawk Hill","2025-11-10 08:21",1,37.8281456,-122.4991411,TRUE,FALSE,FALSE,"S283932562"
-"163","whtswi","White-throated Swift","Aeronautes saxatalis","L38659199","O’Neill Regional Park Arroyo Trabuco Trail: Park Gate to Santa Margarita","2025-11-10 08:12",16,33.649574,-117.602324,TRUE,FALSE,TRUE,"S283897078"
-"164","whtswi","White-throated Swift","Aeronautes saxatalis","L210015","Desert Botanical Garden","2025-11-10 08:03",6,33.4618165,-111.9436349,TRUE,FALSE,FALSE,"S283896536"
-"165","whtswi","White-throated Swift","Aeronautes saxatalis","L597003","Berkeley Aquatic Park","2025-11-10 08:03",1,37.855813,-122.2977448,TRUE,FALSE,FALSE,"S283901423"
-"166","whtswi","White-throated Swift","Aeronautes saxatalis","L2095537","Crestridge Ecological Reserve--La Crest Heights access","2025-11-10 08:01",7,32.8151046,-116.8731245,TRUE,FALSE,FALSE,"S283897942"
-"167","whtswi","White-throated Swift","Aeronautes saxatalis","L4197326","Guadalupe River Park","2025-11-10 07:16",2,37.3439932,-121.9047475,TRUE,FALSE,FALSE,"S283901700"
-"168","whtswi","White-throated Swift","Aeronautes saxatalis","L12024568","CA-99 N, Fresno US-CA 36.84328, -119.93139","2025-11-10 07:06",3,36.843281,-119.931391,TRUE,FALSE,TRUE,"S283879922"
-"169","whtswi","White-throated Swift","Aeronautes saxatalis","L10008335","RSM - Trabuco Creek Trail bike path, Avenida Empresa trailhead","2025-11-09 16:08",35,33.6412316,-117.6088103,TRUE,FALSE,TRUE,"S283825791"
-"170","whtswi","White-throated Swift","Aeronautes saxatalis","L1764657","Creekside Park (ALA Co.)","2025-11-09 15:27",30,37.8979879,-122.304048,TRUE,FALSE,FALSE,"S283806318"
-"171","whtswi","White-throated Swift","Aeronautes saxatalis","L3100509","San Mateo Point & Creek (Trestles Beach)","2025-11-09 13:59",2,33.3877407,-117.5951415,TRUE,FALSE,FALSE,"S283898490"
-"172","whtswi","White-throated Swift","Aeronautes saxatalis","L8287151","English Springs Park","2025-11-09 13:20",1,33.9956265,-117.7573671,TRUE,FALSE,FALSE,"S283788242"
-"173","whtswi","White-throated Swift","Aeronautes saxatalis","L54972830","San Francisco Bay Trail, Richmond US-CA 37.93172, -122.34824","2025-11-09 12:48",12,37.931718,-122.348238,TRUE,FALSE,TRUE,"S283773497"
-"174","whtswi","White-throated Swift","Aeronautes saxatalis","L38542139","Owl Nest (Private)","2025-11-09 12:44",9,34.114355,-118.60872,TRUE,FALSE,TRUE,"S283772627"
-"175","whtswi","White-throated Swift","Aeronautes saxatalis","L516058","Hansen Dam--east basin","2025-11-09 12:30",1,34.2627496,-118.3757973,TRUE,FALSE,FALSE,"S283818318"
-"176","whtswi","White-throated Swift","Aeronautes saxatalis","L54723927","Jack W. Lyle Park, Menlo Park US-CA (37.4446,-122.1837)","2025-11-09 12:14",1,37.444625,-122.183714,TRUE,FALSE,TRUE,"S283767963"
-"177","whtswi","White-throated Swift","Aeronautes saxatalis","L1357335","Huntington Central Park--East","2025-11-09 12:10",5,33.7040978,-118.0022383,TRUE,FALSE,FALSE,"S283828183"
-"178","whtswi","White-throated Swift","Aeronautes saxatalis","L506890","Peters Canyon Creek--Edinger to 5 Freeway","2025-11-09 12:08",5,33.7110071,-117.7980173,TRUE,FALSE,FALSE,"S283775690"
-"179","whtswi","White-throated Swift","Aeronautes saxatalis","L2698912","Ed Levin CP--Sandy Wool-Elm areas","2025-11-09 12:04",2,37.4559362,-121.8632054,TRUE,FALSE,FALSE,"S283822917"
-"180","whtswi","White-throated Swift","Aeronautes saxatalis","L1379880","Ridge St., Fair Oaks","2025-11-09 11:55",6,38.6362307,-121.2690431,TRUE,FALSE,TRUE,"S283813549"
-"181","whtswi","White-throated Swift","Aeronautes saxatalis","L1480551","Butler Bridge","2025-11-09 11:24",25,38.2439623,-122.2854693,TRUE,FALSE,FALSE,"S283758924"
-"182","whtswi","White-throated Swift","Aeronautes saxatalis","L55039793","La Quinta - Ripon","2025-11-09 11:13",5,37.7535306,-121.1414337,TRUE,FALSE,TRUE,"S284090312"
-"183","whtswi","White-throated Swift","Aeronautes saxatalis","L54983006","South Valley Freeway, Gilroy, California, US (37.022, -121.566)","2025-11-09 11:13",1,37.0224469,-121.5664539,TRUE,FALSE,TRUE,"S283820272"
-"184","whtswi","White-throated Swift","Aeronautes saxatalis","L54967165","Prairie City Rd, Rancho Cordova US-CA 38.64064, -121.15617","2025-11-09 10:34",40,38.640643,-121.156167,TRUE,FALSE,TRUE,"S283749489"
-"185","whtswi","White-throated Swift","Aeronautes saxatalis","L54971272","Tom's Thumb Trail, Scottsdale US-AZ 33.67814, -111.80939","2025-11-09 10:33",2,33.678136,-111.809385,TRUE,FALSE,TRUE,"S283766689"
-"186","whtswi","White-throated Swift","Aeronautes saxatalis","L55005005","I-5","2025-11-09 10:00",1,34.112092,-118.265566,TRUE,FALSE,TRUE,"S283928480"
-"187","whtswi","White-throated Swift","Aeronautes saxatalis","L678896","Coyote Creek Golf Course","2025-11-09 09:55",10,37.1916299,-121.704129,TRUE,FALSE,FALSE,"S283782413"
-"188","whtswi","White-throated Swift","Aeronautes saxatalis","L54965458","Lake Hodges 15, San Diego, California, US (33.053, -117.086)","2025-11-09 09:54",NA,33.0532561,-117.0855375,TRUE,FALSE,TRUE,"S283742194"
-"189","whtswi","White-throated Swift","Aeronautes saxatalis","L10138287","Fleet Street Area (Carlsbad)","2025-11-09 09:38",6,33.1286764,-117.3164663,TRUE,FALSE,FALSE,"S283747215"
-"190","whtswi","White-throated Swift","Aeronautes saxatalis","L54964760","Dwight D. Eisenhower Highway, Auburn, California, US (38.936, -121.054)","2025-11-09 09:36",4,38.9361076,-121.0536575,TRUE,FALSE,TRUE,"S283738994"
-"191","whtswi","White-throated Swift","Aeronautes saxatalis","L55058560","Black Point Park & Ride","2025-11-09 09:35",6,38.1051833,-122.5132656,TRUE,FALSE,TRUE,"S284186095"
-"192","whtswi","White-throated Swift","Aeronautes saxatalis","L54984882","Park and Ride lot, Atherton Ave at Hwy 37","2025-11-09 09:35",2,38.1052047,-122.512945,TRUE,FALSE,TRUE,"S283828301"
-"193","whtswi","White-throated Swift","Aeronautes saxatalis","L832828","Pinnacles NP--Bear Gulch Trail","2025-11-09 09:19",12,36.4777231,-121.1852074,TRUE,FALSE,FALSE,"S283780553"
-"194","whtswi","White-throated Swift","Aeronautes saxatalis","L352836","Putah Creek--Fishing Access #2 (YOL Co.)","2025-11-09 09:16",25,38.514269,-122.073003,TRUE,FALSE,FALSE,"S283796145"
-"195","whtswi","White-throated Swift","Aeronautes saxatalis","L2365606","Stanford University--Arizona Garden","2025-11-09 09:07",3,37.435933,-122.171393,TRUE,FALSE,FALSE,"S283758811"
-"196","whtswi","White-throated Swift","Aeronautes saxatalis","L859369","Harry Griffen Regional Park","2025-11-09 08:56",2,32.7859369,-116.98789,TRUE,FALSE,FALSE,"S283770660"
-"197","whtswi","White-throated Swift","Aeronautes saxatalis","L1785666","Iron Horse Trail - Rudgear to Hillgrade","2025-11-09 08:49",1,37.8734154,-122.049524,TRUE,FALSE,TRUE,"S283737916"
-"198","whtswi","White-throated Swift","Aeronautes saxatalis","L6528214","Griffith Park--Toyon Landfill (Not open to public on weekdays)","2025-11-09 08:40",20,34.1436692,-118.3021546,TRUE,FALSE,FALSE,"S283778516"
-"199","whtswi","White-throated Swift","Aeronautes saxatalis","L1053539","Pinnacles NP--Rim & South High Peaks Trail","2025-11-09 08:36",12,36.477171,-121.1872673,TRUE,FALSE,FALSE,"S283807067"
-"200","whtswi","White-throated Swift","Aeronautes saxatalis","L54590965","Porter Road","2025-11-09 08:32",11,32.755086,-117.005773,TRUE,FALSE,TRUE,"S283735606"
-"201","whtswi","White-throated Swift","Aeronautes saxatalis","L689845","Auburn SRA--Confluence Area","2025-11-09 07:59",2,38.9155704,-121.0359122,TRUE,FALSE,FALSE,"S283774183"
-"202","whtswi","White-throated Swift","Aeronautes saxatalis","L468267","Irvine Lake","2025-11-09 07:40",17,33.7737252,-117.7176476,TRUE,FALSE,FALSE,"S283765363"
-"203","whtswi","White-throated Swift","Aeronautes saxatalis","L10850051","Canada Rd. at Hwy 92/Hwy 280 intersection","2025-11-09 07:35",12,37.505396,-122.339425,TRUE,FALSE,FALSE,"S283730937"
-"204","whtswi","White-throated Swift","Aeronautes saxatalis","L1838049","Santa Ana River at Greenspot Rd.","2025-11-09 07:17",8,34.0985517,-117.1172389,TRUE,FALSE,FALSE,"S283753091"
-"205","whtswi","White-throated Swift","Aeronautes saxatalis","L16765881","San Marcos Foothills Preserve--West Mesa","2025-11-09 07:04",1,34.46036,-119.76813,TRUE,FALSE,FALSE,"S283805284"
-"206","whtswi","White-throated Swift","Aeronautes saxatalis","L388622","Caltech campus","2025-11-09 07:00",20,34.1366907,-118.1254292,TRUE,FALSE,FALSE,"S283738673"
-"207","whtswi","White-throated Swift","Aeronautes saxatalis","L194688","Sepulveda Basin--East of Woodley Ave","2025-11-09 06:17",1,34.1767221,-118.4737308,TRUE,FALSE,FALSE,"S283909603"
-"208","whtswi","White-throated Swift","Aeronautes saxatalis","L3171526","Aliso Creek","2025-11-08 16:24",2,33.557248,-117.7176315,TRUE,FALSE,FALSE,"S283613242"
-"209","whtswi","White-throated Swift","Aeronautes saxatalis","L17635501","Tustin Legacy Park","2025-11-08 15:55",2,33.7055458,-117.8409781,TRUE,FALSE,FALSE,"S284152848"
-"210","whtswi","White-throated Swift","Aeronautes saxatalis","L6338443","Manzano & El Arbol riparian","2025-11-08 15:51",25,33.1273024,-117.3290204,TRUE,FALSE,FALSE,"S283595915"
-"211","whtswi","White-throated Swift","Aeronautes saxatalis","L6293015","Guadalupe Mts. NP--Guadalupe Peak Trail","2025-11-08 15:26",5,31.8924706,-104.8527391,TRUE,FALSE,FALSE,"S283724596"
-"212","whtswi","White-throated Swift","Aeronautes saxatalis","L6786589","San Gabriel Mtns.--Mt Lowe Eaton Saddle to Mt Lowe Trail Camp","2025-11-08 15:15",4,34.2318158,-118.1079626,TRUE,FALSE,FALSE,"S283612534"
-"213","whtswi","White-throated Swift","Aeronautes saxatalis","L54931329","Avenue 12, Madera US-CA 36.92373, -120.01922","2025-11-08 14:52",5,36.923733,-120.019223,TRUE,FALSE,TRUE,"S283585193"
-"214","whtswi","White-throated Swift","Aeronautes saxatalis","L129097","Lincoln NF--Sitting Bull Falls","2025-11-08 13:05",8,32.2428017,-104.6962967,TRUE,FALSE,FALSE,"S283565441"
-"215","whtswi","White-throated Swift","Aeronautes saxatalis","L54927875","Radiance Circle, CH","2025-11-08 12:54",1,38.691443,-121.320433,TRUE,FALSE,TRUE,"S283570366"
-"216","whtswi","White-throated Swift","Aeronautes saxatalis","L1053551","Pinnacles NP--High Peaks Trail (steep narrow section)","2025-11-08 12:08",2,36.4841154,-121.1979854,TRUE,FALSE,FALSE,"S283602656"
-"217","whtswi","White-throated Swift","Aeronautes saxatalis","L1161988","Argus Mtns.--Great Falls Basin WSA","2025-11-08 12:04",2,35.8552744,-117.3816848,TRUE,FALSE,FALSE,"S283613903"
-"218","whtswi","White-throated Swift","Aeronautes saxatalis","L2666069","Joshua Tree NP--Quail Springs","2025-11-08 12:00",6,34.0399002,-116.1968565,TRUE,FALSE,FALSE,"S284634896"
-"219","whtswi","White-throated Swift","Aeronautes saxatalis","L54924252","7901 Freeport Boulevard, Sacramento, California, US (38.469, -121.498)","2025-11-08 11:58",1,38.4691913,-121.497866,TRUE,FALSE,TRUE,"S283554913"
-"220","whtswi","White-throated Swift","Aeronautes saxatalis","L54923928","PwC office","2025-11-08 11:58",7,37.3273135,-121.8890254,TRUE,FALSE,TRUE,"S283553564"
-"221","whtswi","White-throated Swift","Aeronautes saxatalis","L1168716","640 Panoramic Way, Berkeley, CA 94704","2025-11-08 11:42",1,37.8676376,-122.2426834,TRUE,FALSE,TRUE,"S284781030"
-"222","whtswi","White-throated Swift","Aeronautes saxatalis","L13341873","1627 Roadrunner Rut, Pioneertown","2025-11-08 11:30",2,34.2192905,-116.5113407,TRUE,FALSE,TRUE,"S283596619"
-"223","whtswi","White-throated Swift","Aeronautes saxatalis","L30067570","Cataldi Park","2025-11-08 11:22",13,37.401997,-121.870147,TRUE,FALSE,FALSE,"S283553899"
-"224","whtswi","White-throated Swift","Aeronautes saxatalis","L9383602","Boyd Deep Canyon Research Station (Restricted Access)","2025-11-08 11:21",8,33.6478985,-116.3767471,TRUE,FALSE,FALSE,"S283816634"
-"225","whtswi","White-throated Swift","Aeronautes saxatalis","L10657604","Ed Levin CP--Calera Creek Trail","2025-11-08 11:20",6,37.4632324,-121.8746074,TRUE,FALSE,FALSE,"S283602147"
-"226","whtswi","White-throated Swift","Aeronautes saxatalis","L10404628","Heritage Park--Palo Alto (SCL Co.)","2025-11-08 10:54",2,37.444095,-122.157196,TRUE,FALSE,FALSE,"S283541825"
-"227","whtswi","White-throated Swift","Aeronautes saxatalis","L1048119","Salmon Creek trail","2025-11-08 10:51",6,35.8196436,-121.3523283,TRUE,FALSE,FALSE,"S283607291"
-"228","whtswi","White-throated Swift","Aeronautes saxatalis","L11618311","3056 Braemar Dr, Santa Barbara US-CA 34.40712, -119.74336","2025-11-08 10:47",1,34.407115,-119.743361,TRUE,FALSE,TRUE,"S283548911"
-"229","whtswi","White-throated Swift","Aeronautes saxatalis","L54920769","Hwy 101 / 12 interchange bridge","2025-11-08 10:30",1,38.4319499,-122.7156142,TRUE,FALSE,TRUE,"S283540568"
-"230","whtswi","White-throated Swift","Aeronautes saxatalis","L13011240","8969 La Serena Dr, Fair Oaks US-CA 38.64805, -121.22207","2025-11-08 10:22",4,38.648048,-121.222066,TRUE,FALSE,TRUE,"S283535854"
-"231","whtswi","White-throated Swift","Aeronautes saxatalis","L225843","American River Parkway--Sacramento Bar","2025-11-08 10:19",NA,38.6276289,-121.2824971,TRUE,FALSE,FALSE,"S283599735"
-"232","whtswi","White-throated Swift","Aeronautes saxatalis","L198791","Hahamongna Watershed Park (formerly Oak Grove Park)","2025-11-08 10:06",1,34.1933989,-118.1758332,TRUE,FALSE,FALSE,"S283569188"
-"233","whtswi","White-throated Swift","Aeronautes saxatalis","L632002","Quail Hill Preserve, Irvine","2025-11-08 10:03",6,33.6536375,-117.7858829,TRUE,FALSE,FALSE,"S283608318"
-"234","whtswi","White-throated Swift","Aeronautes saxatalis","L54918376","Downtown Burbank, Burbank US-CA 34.17889, -118.31258","2025-11-08 09:44",15,34.178886,-118.312585,TRUE,FALSE,TRUE,"S283530088"
-"235","whtswi","White-throated Swift","Aeronautes saxatalis","L2118996","Buena Vista Park (LA Co.)","2025-11-08 09:36",20,34.1520665,-118.3283087,TRUE,FALSE,FALSE,"S283567398"
-"236","whtswi","White-throated Swift","Aeronautes saxatalis","L25180739","Drake Park and Greenbelt","2025-11-08 09:04",40,33.778604,-118.20184,TRUE,FALSE,FALSE,"S283538674"
-"237","whtswi","White-throated Swift","Aeronautes saxatalis","L4146292","Sycamore Canyon (Whittier, CA)","2025-11-08 08:09",5,34.004289,-118.0543345,TRUE,FALSE,FALSE,"S283545008"
-"238","whtswi","White-throated Swift","Aeronautes saxatalis","L14692661","Red Tail Ridge, Newport Beach, California, US (33.598, -117.796)","2025-11-08 07:52",1,33.5982356,-117.795667,TRUE,FALSE,TRUE,"S283582838"
-"239","whtswi","White-throated Swift","Aeronautes saxatalis","L251279","Parkway Lakes","2025-11-08 07:43",5,37.2306487,-121.7545116,TRUE,FALSE,FALSE,"S283550436"
-"240","whtswi","White-throated Swift","Aeronautes saxatalis","L1909077","Stevens Creek Trail--south of El Camino Real","2025-11-08 07:24",1,37.3718465,-122.0674188,TRUE,FALSE,FALSE,"S283509545"
-"241","whtswi","White-throated Swift","Aeronautes saxatalis","L2022665","The Sands RV & Golf Resort","2025-11-08 07:03",1,33.9292247,-116.4822543,TRUE,FALSE,FALSE,"S283505619"
+"","speciesCode","comName","sciName","locId","locName","obsDt","lat","lng","obsValid","obsReviewed","locationPrivate","subId","howMany"
+"1","lobthr","Long-billed Thrasher","Toxostoma longirostre","L55240107","Bird blind, Estero Llano Grande State Park, Mercedes US-TX 26.12365, -97.95811","2025-11-18 16:12",26.123652,-97.958111,TRUE,FALSE,TRUE,"S285107734",NA
+"2","lobthr","Long-billed Thrasher","Toxostoma longirostre","L4186190","Zavala Co.--Nueces River North Stretch","2025-11-18 16:08",29.0324205,-99.8297167,TRUE,FALSE,TRUE,"S285112936",1
+"3","lobthr","Long-billed Thrasher","Toxostoma longirostre","L5986679","Los Fresnos Nature Park","2025-11-18 15:04",26.0797392,-97.475051,TRUE,FALSE,FALSE,"S285100512",1
+"4","lobthr","Long-billed Thrasher","Toxostoma longirostre","L129065","Resaca de la Palma SP WBC (Brownsville) (LTC 048)","2025-11-18 13:53",25.9965839,-97.5690513,TRUE,FALSE,FALSE,"S285102398",4
+"5","lobthr","Long-billed Thrasher","Toxostoma longirostre","L336009","National Butterfly Center--General & area North of Levee","2025-11-18 13:42",26.1796025,-98.3664483,TRUE,FALSE,FALSE,"S285102375",1
+"6","lobthr","Long-billed Thrasher","Toxostoma longirostre","L1911958","Cameron Co.--Ted Hunt rd. resacas","2025-11-18 13:12",26.1696128,-97.3839283,TRUE,FALSE,FALSE,"S285085316",1
+"7","lobthr","Long-billed Thrasher","Toxostoma longirostre","L273764","Hugh Ramsey Park (Harlingen Arroyo Colorado) WBC (LTC 026)","2025-11-18 13:08",26.1857402,-97.6641657,TRUE,FALSE,FALSE,"S285092846",1
+"8","lobthr","Long-billed Thrasher","Toxostoma longirostre","L55241353","8435 Sabal Palm Grove Road, Brownsville, Texas, US (25.852, -97.421)","2025-11-18 12:04",25.8523207,-97.4211188,TRUE,FALSE,TRUE,"S285085521",1
+"9","lobthr","Long-billed Thrasher","Toxostoma longirostre","L1148441","Estero Llano Grande SP--Tropical Zone only","2025-11-18 11:38",26.124386,-97.9585648,TRUE,FALSE,FALSE,"S285110911",2
+"10","lobthr","Long-billed Thrasher","Toxostoma longirostre","L128962","Falcon State Park—SE portion (Starr Co.)  (LTC 084)","2025-11-18 11:12",26.5836148,-99.1452921,TRUE,FALSE,FALSE,"S285087401",1
+"11","lobthr","Long-billed Thrasher","Toxostoma longirostre","L24919971","Hazel Bazemore—Callallen Park","2025-11-18 10:50",27.8650961,-97.6407874,TRUE,FALSE,FALSE,"S285072089",NA
+"12","lobthr","Long-billed Thrasher","Toxostoma longirostre","L14915647","Woodcrest Park","2025-11-18 10:24",29.5384178,-98.3468552,TRUE,FALSE,TRUE,"S285075080",1
+"13","lobthr","Long-billed Thrasher","Toxostoma longirostre","L249889","Edinburg Scenic Wetlands WBC (LTC 061)","2025-11-18 10:08",26.2905822,-98.1351909,TRUE,FALSE,FALSE,"S285079894",3
+"14","lobthr","Long-billed Thrasher","Toxostoma longirostre","L6627752","Laguna Atascosa NWR--Prairie Trail (south of General Brant Rd.)","2025-11-18 10:07",26.1943568,-97.4026126,TRUE,FALSE,FALSE,"S285085659",1
+"15","lobthr","Long-billed Thrasher","Toxostoma longirostre","L55237451","Estero Llano Grande State Park, Weslaco US-TX 26.12334, -97.95777","2025-11-18 10:07",26.123336,-97.957771,TRUE,FALSE,TRUE,"S285064639",NA
+"16","lobthr","Long-billed Thrasher","Toxostoma longirostre","L163665","San Antonio Botanical Garden (HOTE 096)","2025-11-18 10:00",29.4574171,-98.4593011,TRUE,FALSE,FALSE,"S285065410",2
+"17","lobthr","Long-billed Thrasher","Toxostoma longirostre","L283726","South Padre Is.--WBC/Conv. Center/Laguna Madre Trail (LTC 035)","2025-11-18 09:56",26.1400912,-97.1748233,TRUE,FALSE,FALSE,"S285062907",1
+"18","lobthr","Long-billed Thrasher","Toxostoma longirostre","L1322059","Santa Ana NWR--Willow Lakes","2025-11-18 09:40",26.0799512,-98.1399679,TRUE,FALSE,FALSE,"S285067609",2
+"19","lobthr","Long-billed Thrasher","Toxostoma longirostre","L37972278","399 Mustang Ln, Sandia US-TX 27.95732, -97.85014","2025-11-18 09:30",27.957316,-97.850141,TRUE,FALSE,TRUE,"S285058814",2
+"20","lobthr","Long-billed Thrasher","Toxostoma longirostre","L613081","Bentsen-Rio Grande Val. SP--Hawk Watch","2025-11-18 09:20",26.1690952,-98.3805352,TRUE,FALSE,FALSE,"S285057733",1
+"21","lobthr","Long-billed Thrasher","Toxostoma longirostre","L1140356","Goose Island SP--Campground area","2025-11-18 09:08",28.137621,-96.9889086,TRUE,FALSE,FALSE,"S285058626",1
+"22","lobthr","Long-billed Thrasher","Toxostoma longirostre","L770565","South Padre Is.--Birding and Nature Center","2025-11-18 08:40",26.1374628,-97.1739367,TRUE,FALSE,FALSE,"S285078233",1
+"23","lobthr","Long-billed Thrasher","Toxostoma longirostre","L375369","Laredo- Las Palmas Trail & Zacate Creek","2025-11-18 08:36",27.4994356,-99.4944084,TRUE,FALSE,FALSE,"S285071962",1
+"24","lobthr","Long-billed Thrasher","Toxostoma longirostre","L287918","Salineño Wildlife Preserve--DeWind's Yard","2025-11-18 08:31",26.514616,-99.1155021,TRUE,FALSE,FALSE,"S285056114",2
+"25","lobthr","Long-billed Thrasher","Toxostoma longirostre","L128890","Bentsen-Rio Grande Val. SP WBC (Mission) (LTC 069)","2025-11-18 08:27",26.1849709,-98.3793885,TRUE,FALSE,FALSE,"S285103391",3
+"26","lobthr","Long-billed Thrasher","Toxostoma longirostre","L421038","McAllen Nature Center (LTC 065)","2025-11-18 08:06",26.2082122,-98.2659218,TRUE,FALSE,FALSE,"S285066345",1
+"27","lobthr","Long-billed Thrasher","Toxostoma longirostre","L8904238","Lake Corpus Christ SP--Bird's Nest Shelter Area","2025-11-18 07:56",28.0601607,-97.8809571,TRUE,FALSE,FALSE,"S285057154",1
+"28","lobthr","Long-billed Thrasher","Toxostoma longirostre","L259855","Estero Llano Grande SP WBC (LTC 054)","2025-11-18 07:55",26.1268335,-97.9578167,TRUE,FALSE,FALSE,"S285075874",1
+"29","lobthr","Long-billed Thrasher","Toxostoma longirostre","L1487217","Santa Ana NWR--Pintail Lakes Trail","2025-11-18 07:52",26.0787993,-98.1330503,TRUE,FALSE,FALSE,"S285057241",1
+"30","lobthr","Long-billed Thrasher","Toxostoma longirostre","L129070","Sabal Palm Sanctuary (LTC 042)","2025-11-18 07:50",25.85233,-97.4176839,TRUE,FALSE,FALSE,"S285058656",3
+"31","lobthr","Long-billed Thrasher","Toxostoma longirostre","L682367","Adolph Thomae County Park","2025-11-18 07:40",26.3458064,-97.4078751,TRUE,FALSE,FALSE,"S285085180",2
+"32","lobthr","Long-billed Thrasher","Toxostoma longirostre","L38041147","Aegolius Basterds LRGV (Private Residence)","2025-11-18 07:38",26.1842336,-98.3811696,TRUE,FALSE,TRUE,"S285041417",1
+"33","lobthr","Long-billed Thrasher","Toxostoma longirostre","L2266657","Laguna Atascosa NWR--Lakeside Drive","2025-11-18 07:35",26.2335321,-97.3533726,TRUE,FALSE,FALSE,"S285075907",2
+"34","lobthr","Long-billed Thrasher","Toxostoma longirostre","L374166","Pollywog Pond (CTC 077)","2025-11-18 07:32",27.8627509,-97.612361,TRUE,FALSE,FALSE,"S285043480",1
+"35","lobthr","Long-billed Thrasher","Toxostoma longirostre","L129085","Santa Ana NWR (LTC 059)","2025-11-18 07:32",26.0813003,-98.1351399,TRUE,FALSE,FALSE,"S285070064",2
+"36","lobthr","Long-billed Thrasher","Toxostoma longirostre","L11014997","Oso Bay Wetlands Preserve--Holly Hike & Bike Trail","2025-11-18 07:26",27.6748465,-97.3289764,TRUE,FALSE,FALSE,"S285048663",4
+"37","lobthr","Long-billed Thrasher","Toxostoma longirostre","L1174771","Bentsen-Rio Grande Val. SP--HQ Buildings area","2025-11-18 07:20",26.1856055,-98.3799398,TRUE,FALSE,FALSE,"S285044692",2
+"38","lobthr","Long-billed Thrasher","Toxostoma longirostre","L6855472","Laguna Atascosa NWR--West Lake Trail (north of General Brant Rd.)","2025-11-18 07:18",26.197853,-97.4020871,TRUE,FALSE,FALSE,"S285067139",1
+"39","lobthr","Long-billed Thrasher","Toxostoma longirostre","L35387480","1011 Beltway Parkway, Laredo, Texas, US (27.686, -99.466)","2025-11-18 07:17",27.6855991,-99.4655737,TRUE,FALSE,TRUE,"S285044173",1
+"40","lobthr","Long-billed Thrasher","Toxostoma longirostre","L55237752","Old Military Road, Rio Grande City, Texas, US (26.274, -98.612)","2025-11-18 07:11",26.2740372,-98.6119334,TRUE,FALSE,TRUE,"S285066262",1
+"41","lobthr","Long-billed Thrasher","Toxostoma longirostre","L129075","Salineño Wildlife Preserve (LTC 080)","2025-11-18 07:09",26.5148584,-99.1162062,TRUE,FALSE,FALSE,"S285056175",1
+"42","lobthr","Long-billed Thrasher","Toxostoma longirostre","L21034811","UTRGV—Duckhead (Limited Access)","2025-11-18 06:27",25.8988206,-97.4752593,TRUE,FALSE,FALSE,"S285091973",3
+"43","lobthr","Long-billed Thrasher","Toxostoma longirostre","L41379882","Bentsen-Rio Grande Val. SP--Resaca Vieja Trail","2025-11-17 17:38",26.1804281,-98.381582,TRUE,FALSE,TRUE,"S285039911",3
+"44","lobthr","Long-billed Thrasher","Toxostoma longirostre","L3830415","Falcon State Park--Butterfly Garden (Starr Co.)","2025-11-17 14:05",26.5844785,-99.1493234,TRUE,FALSE,FALSE,"S284966341",1
+"45","lobthr","Long-billed Thrasher","Toxostoma longirostre","L278450","UTRGV Brownsville (campus & resacas)","2025-11-17 12:38",25.8954255,-97.4872156,TRUE,FALSE,FALSE,"S284995332",4
+"46","lobthr","Long-billed Thrasher","Toxostoma longirostre","L5254890","Hebbronville--Our Lady of Guadalupe Cemetery","2025-11-17 10:17",27.2967758,-98.6620409,TRUE,FALSE,FALSE,"S284942117",1
+"47","lobthr","Long-billed Thrasher","Toxostoma longirostre","L288849","Laguna Atascosa NWR--HQ and Kiskadee Trail","2025-11-17 08:50",26.2285086,-97.3475226,TRUE,FALSE,FALSE,"S285023888",1
+"48","lobthr","Long-billed Thrasher","Toxostoma longirostre","L803232","Muschalek Farms","2025-11-17 08:46",29.074897,-97.6535761,TRUE,FALSE,TRUE,"S284930794",2
+"49","lobthr","Long-billed Thrasher","Toxostoma longirostre","L213585","Warbler Woods Bird Sanctuary","2025-11-17 08:35",29.609375,-98.2426827,TRUE,FALSE,FALSE,"S284942820",1
+"50","lobthr","Long-billed Thrasher","Toxostoma longirostre","L39797335","Jimenez Rd, San Benito US-TX (26.0903,-97.7628)","2025-11-17 08:34",26.090256,-97.762822,TRUE,FALSE,TRUE,"S284920210",1
+"51","lobthr","Long-billed Thrasher","Toxostoma longirostre","L723082","Laguna Atascosa NWR--Buena Vista Blvd. (within refuge)","2025-11-17 07:50",26.2112414,-97.3515916,TRUE,FALSE,FALSE,"S284961698",1
+"52","lobthr","Long-billed Thrasher","Toxostoma longirostre","L55214027","Estero Llano Grande State Park, Mercedes US-TX 26.12729, -97.95832","2025-11-17 07:29",26.127286,-97.958318,TRUE,FALSE,TRUE,"S284943929",2
+"53","lobthr","Long-billed Thrasher","Toxostoma longirostre","L4350377","National Butterfly Center--South of levee","2025-11-17 07:19",26.1738318,-98.3657885,TRUE,FALSE,FALSE,"S284924048",1
+"54","lobthr","Long-billed Thrasher","Toxostoma longirostre","L2424615","Resaca de la Palma National Battlefield","2025-11-17 07:15",25.937467,-97.4865282,TRUE,FALSE,FALSE,"S284913638",1
+"55","lobthr","Long-billed Thrasher","Toxostoma longirostre","L41119390","Bentsen-Rio Grande Valley SP--Kingfisher Overlook","2025-11-17 07:11",26.1787168,-98.3866459,TRUE,FALSE,FALSE,"S284917310",1
+"56","lobthr","Long-billed Thrasher","Toxostoma longirostre","L507911","King Ranch--Norias Division (Kenedy Co.)","2025-11-17 07:00",26.7876524,-97.7707243,TRUE,FALSE,FALSE,"S284951116",1
+"57","lobthr","Long-billed Thrasher","Toxostoma longirostre","L129086","Santa Margarita Ranch (LTC 079) (restricted access - guided groups only)","2025-11-17 06:44",26.4856177,-99.0912337,TRUE,FALSE,FALSE,"S284998815",6
+"58","lobthr","Long-billed Thrasher","Toxostoma longirostre","L12277936","La Casa Oso","2025-11-17 06:34",27.6651287,-97.3396652,TRUE,FALSE,TRUE,"S285033150",1
+"59","lobthr","Long-billed Thrasher","Toxostoma longirostre","L551288","Uvalde County, TX--Memorial  Park Leona River","2025-11-16 16:41",29.2096758,-99.7784972,TRUE,FALSE,TRUE,"S284850495",1
+"60","lobthr","Long-billed Thrasher","Toxostoma longirostre","L574896","Fort Inge Historic Pk (HOTW-026)","2025-11-16 16:10",29.1837889,-99.7679186,TRUE,FALSE,FALSE,"S284841140",1
+"61","lobthr","Long-billed Thrasher","Toxostoma longirostre","L17912168","Estero Llano Grande State Park, Weslaco US-TX 26.12639, -97.95654","2025-11-16 15:35",26.126389,-97.956542,TRUE,FALSE,TRUE,"S284844219",1
+"62","lobthr","Long-billed Thrasher","Toxostoma longirostre","L11214061","Wiltshire Yard","2025-11-16 15:30",29.482295,-98.440618,TRUE,FALSE,TRUE,"S284858934",1
+"63","lobthr","Long-billed Thrasher","Toxostoma longirostre","L2979766","Oso Bay Wetlands Preserve","2025-11-16 15:25",27.6680951,-97.3299247,TRUE,FALSE,FALSE,"S284997092",1
+"64","lobthr","Long-billed Thrasher","Toxostoma longirostre","L714512","Sunset Lake  (Portland)","2025-11-16 15:10",27.8679131,-97.3274088,TRUE,FALSE,FALSE,"S284862769",1
+"65","lobthr","Long-billed Thrasher","Toxostoma longirostre","L515005","Falcon State Park--NW of Butterfly Garden (Zapata Co.) (Cenizo, Cactus, Javelina Loops & Boat Ramp)","2025-11-16 14:15",26.5881587,-99.1506837,TRUE,FALSE,FALSE,"S284837388",1
+"66","lobthr","Long-billed Thrasher","Toxostoma longirostre","L269692","Lake Findley (Lake Alice)","2025-11-16 14:08",27.7888887,-98.0641977,TRUE,FALSE,FALSE,"S284932917",1
+"67","lobthr","Long-billed Thrasher","Toxostoma longirostre","L299624","Starr County Park (Falcon Heights)(LTC 082)","2025-11-16 13:48",26.5651323,-99.1261541,TRUE,FALSE,FALSE,"S284847453",1
+"68","lobthr","Long-billed Thrasher","Toxostoma longirostre","L209876","Frontera Audubon Center (LTC 058)","2025-11-16 12:53",26.1479755,-97.9897937,TRUE,FALSE,FALSE,"S284993173",2
+"69","lobthr","Long-billed Thrasher","Toxostoma longirostre","L2392487","Laguna Vista Nature Trail","2025-11-16 12:42",26.1009454,-97.29914,TRUE,FALSE,FALSE,"S284859500",1
+"70","lobthr","Long-billed Thrasher","Toxostoma longirostre","L7872507","Collins Cemetery, Alice","2025-11-16 12:06",27.751548,-98.04725,TRUE,FALSE,FALSE,"S284933067",1
+"71","lobthr","Long-billed Thrasher","Toxostoma longirostre","L1318914","San Antonio Zoo","2025-11-16 11:02",29.4631777,-98.4725887,TRUE,FALSE,FALSE,"S284862838",1
+"72","lobthr","Long-billed Thrasher","Toxostoma longirostre","L1189369","Santa Ana NWR--Cattail Lake","2025-11-16 10:49",26.0732248,-98.1527996,TRUE,FALSE,FALSE,"S284796146",3
+"73","lobthr","Long-billed Thrasher","Toxostoma longirostre","L39874229","78886, Yancey US-TX 29.22887, -99.30375","2025-11-16 10:11",29.22887,-99.303748,TRUE,FALSE,TRUE,"S284804647",1
+"74","lobthr","Long-billed Thrasher","Toxostoma longirostre","L5234764","Kinney Co.--FM674 Pond across from Shahan Ranch rd","2025-11-16 10:07",29.4051031,-100.4154511,TRUE,FALSE,FALSE,"S284803331",1
+"75","lobthr","Long-billed Thrasher","Toxostoma longirostre","L20748803","2023 Elm Shadow, San Antonio US-TX 29.55423, -98.55075","2025-11-16 08:52",29.554225,-98.550754,TRUE,FALSE,TRUE,"S284764612",1
+"76","lobthr","Long-billed Thrasher","Toxostoma longirostre","L569911","Saxet Lakes","2025-11-16 08:49",28.7718356,-97.030387,TRUE,FALSE,FALSE,"S284786120",1
+"77","lobthr","Long-billed Thrasher","Toxostoma longirostre","L264959","Dick Kleberg Pk (CTC 088)","2025-11-16 08:49",27.4725299,-97.8609684,TRUE,FALSE,FALSE,"S285054452",1
+"78","lobthr","Long-billed Thrasher","Toxostoma longirostre","L5130620","US-TX-Port Lavaca-1163-1167 Louis Walker Rd - 28.4673x-96.7677","2025-11-16 08:30",28.467329,-96.767653,TRUE,FALSE,TRUE,"S284779289",1
+"79","lobthr","Long-billed Thrasher","Toxostoma longirostre","L288854","Laguna Atascosa NWR--Bayside Drive","2025-11-16 08:21",26.2163251,-97.3425493,TRUE,FALSE,FALSE,"S284770509",1
+"80","lobthr","Long-billed Thrasher","Toxostoma longirostre","L1291613","King private property","2025-11-16 08:13",29.4811862,-97.6635003,TRUE,FALSE,TRUE,"S284931571",1
+"81","lobthr","Long-billed Thrasher","Toxostoma longirostre","L28277615","Lander Rd, Victoria US-TX 28.62934, -96.86651","2025-11-16 07:56",28.629341,-96.86651,TRUE,FALSE,TRUE,"S284782092",1
+"82","lobthr","Long-billed Thrasher","Toxostoma longirostre","L20487831","Caribbean Drive Ponds, Corpus Christi","2025-11-16 07:54",27.6486304,-97.3262139,TRUE,FALSE,FALSE,"S284752905",1
+"83","lobthr","Long-billed Thrasher","Toxostoma longirostre","L41046413","Lake Casa Blanca International State Park, Laredo US-TX 27.54485, -99.44120","2025-11-16 07:52",27.544855,-99.441205,TRUE,FALSE,TRUE,"S284766449",3
+"84","lobthr","Long-billed Thrasher","Toxostoma longirostre","L55009446","County Road 43, Corpus Christi US-TX 27.61170, -97.43776","2025-11-16 07:30",27.611704,-97.43776,TRUE,FALSE,TRUE,"S284901998",1
+"85","lobthr","Long-billed Thrasher","Toxostoma longirostre","L5254868","Green Hill Cemetry","2025-11-16 07:23",27.3536448,-98.7504036,TRUE,FALSE,FALSE,"S284778519",1
+"86","lobthr","Long-billed Thrasher","Toxostoma longirostre","L1866452","Cactus Creek Ranch (private - restricted access)","2025-11-16 07:20",26.215797,-97.429897,TRUE,FALSE,FALSE,"S285082086",1
+"87","lobthr","Long-billed Thrasher","Toxostoma longirostre","L129005","Laguna Atascosa NWR (LTC 024)","2025-11-16 07:09",26.2295776,-97.3466982,TRUE,FALSE,FALSE,"S284868043",7
+"88","lobthr","Long-billed Thrasher","Toxostoma longirostre","L21529885","Blue Bunting Lodge","2025-11-16 07:08",26.140993,-97.883783,TRUE,FALSE,TRUE,"S284761420",1
+"89","lobthr","Long-billed Thrasher","Toxostoma longirostre","L1797405","Laredo- Ranchito Road Ponds","2025-11-16 06:36",27.5461038,-99.4430847,TRUE,FALSE,FALSE,"S284745031",2
+"90","lobthr","Long-billed Thrasher","Toxostoma longirostre","L453211","Rockport Demo Bird Garden & Wetlands Pond (CTC 050)","2025-11-16 06:34",28.0483584,-97.042172,TRUE,FALSE,FALSE,"S284745951",1
+"91","lobthr","Long-billed Thrasher","Toxostoma longirostre","L21805521","5746–5866 FM-1352, Alice US-TX (27.6688,-97.9987)","2025-11-15 17:40",27.668788,-97.998734,TRUE,FALSE,TRUE,"S284671211",1
+"92","lobthr","Long-billed Thrasher","Toxostoma longirostre","L2659764","Salineño City Park","2025-11-15 16:08",26.5280656,-99.0956537,TRUE,FALSE,FALSE,"S284675464",1
+"93","lobthr","Long-billed Thrasher","Toxostoma longirostre","L374130","Blucher Park (CTC 071)","2025-11-15 15:29",27.791317,-97.399174,TRUE,FALSE,FALSE,"S284648927",1
+"94","lobthr","Long-billed Thrasher","Toxostoma longirostre","L9659059","L E Ramey County Park","2025-11-15 14:15",27.4762076,-97.8297101,TRUE,FALSE,FALSE,"S284640912",2
+"95","lobthr","Long-billed Thrasher","Toxostoma longirostre","L1879333","Hazel Bazemore Park Hawkwatch Platform","2025-11-15 12:30",27.8660551,-97.6427346,TRUE,FALSE,FALSE,"S284808765",1
+"96","lobthr","Long-billed Thrasher","Toxostoma longirostre","L28494561","Choke Canyon SP (Calliham Unit)--Rec Center area","2025-11-15 11:36",28.4800631,-98.348663,TRUE,FALSE,FALSE,"S284614205",1
+"97","lobthr","Long-billed Thrasher","Toxostoma longirostre","L225644","Holt Paradise Pond, Port Aransas","2025-11-15 11:20",27.8342117,-97.0720157,TRUE,FALSE,FALSE,"S284603944",1
+"98","lobthr","Long-billed Thrasher","Toxostoma longirostre","L499773","Cook's Slough Sanctuary (HOTW 025)","2025-11-15 10:38",29.1873567,-99.7886572,TRUE,FALSE,FALSE,"S284640272",2
+"99","lobthr","Long-billed Thrasher","Toxostoma longirostre","L15549005","Leon Creek Greenway--Fox Park Trailhead","2025-11-15 10:29",29.5717028,-98.6183023,TRUE,FALSE,FALSE,"S284622982",2
+"100","lobthr","Long-billed Thrasher","Toxostoma longirostre","L28027005","Maverick County Quemado Area","2025-11-15 10:22",28.9532,-100.597447,TRUE,FALSE,TRUE,"S284598225",1
+"101","lobthr","Long-billed Thrasher","Toxostoma longirostre","L30417560","Fort Clark Springs—Las Moras Creek Trails NE (gate check-in required)","2025-11-15 09:32",29.2980984,-100.4177142,TRUE,FALSE,FALSE,"S284624407",4
+"102","lobthr","Long-billed Thrasher","Toxostoma longirostre","L55142157","Falcon State Park, Roma US-TX 26.58449, -99.14961","2025-11-15 08:49",26.584494,-99.149614,TRUE,FALSE,TRUE,"S284605936",3
+"103","lobthr","Long-billed Thrasher","Toxostoma longirostre","L160563","Mitchell Lake Audubon Center (HOTE 103)","2025-11-15 08:33",29.3105956,-98.4996938,TRUE,FALSE,FALSE,"S284664946",1
+"104","lobthr","Long-billed Thrasher","Toxostoma longirostre","L55134510","Maverick Co FM 1908 and canal area","2025-11-15 08:33",29.018918,-100.569785,TRUE,FALSE,TRUE,"S284569866",3
+"105","lobthr","Long-billed Thrasher","Toxostoma longirostre","L39571579","Home","2025-11-15 08:08",28.7622307,-97.8412571,TRUE,FALSE,TRUE,"S284680767",2
+"106","lobthr","Long-billed Thrasher","Toxostoma longirostre","L2527820","La Paloma","2025-11-15 08:08",27.864459,-98.424953,TRUE,FALSE,TRUE,"S284569325",2
+"107","lobthr","Long-billed Thrasher","Toxostoma longirostre","L55147995","Laguna Atascosa NWR- Granjeno Trail","2025-11-15 08:05",26.214845,-97.3314614,TRUE,FALSE,TRUE,"S284633256",3
+"108","lobthr","Long-billed Thrasher","Toxostoma longirostre","L17549865","Estero Llano Grande State Park, Weslaco US-TX 26.12638, -97.95723","2025-11-15 07:59",26.126385,-97.95723,TRUE,FALSE,TRUE,"S284673709",2
+"109","lobthr","Long-billed Thrasher","Toxostoma longirostre","L55137828","Varga’s Ranch","2025-11-15 07:24",27.247017,-99.438641,TRUE,FALSE,TRUE,"S284586395",2
+"110","lobthr","Long-billed Thrasher","Toxostoma longirostre","L55136598","358 Recreational Road 8, Calliham, Texas, US (28.483, -98.343)","2025-11-15 07:10",28.4825297,-98.3429244,TRUE,FALSE,TRUE,"S284580333",1
+"111","lobthr","Long-billed Thrasher","Toxostoma longirostre","L55131944","Jara Chinas Rd, Edinburg US-TX 26.35777, -98.46639","2025-11-15 06:54",26.357771,-98.466385,TRUE,FALSE,TRUE,"S284556367",1
+"112","lobthr","Long-billed Thrasher","Toxostoma longirostre","L34946541","UPTON BACKYARD","2025-11-15 06:42",26.0782037,-97.459842,TRUE,FALSE,TRUE,"S284540276",1
+"113","lobthr","Long-billed Thrasher","Toxostoma longirostre","L27666845","Vargas Ranch(private)","2025-11-15 06:38",27.2543984,-99.433801,TRUE,FALSE,TRUE,"S284625904",3
+"114","lobthr","Long-billed Thrasher","Toxostoma longirostre","L28900326","Home","2025-11-15 06:29",26.1886042,-98.3712675,TRUE,FALSE,TRUE,"S284543872",2
+"115","lobthr","Long-billed Thrasher","Toxostoma longirostre","L2933470","Placedo Creek","2025-11-15 06:25",28.710162,-96.6690445,TRUE,FALSE,FALSE,"S284901075",2
+"116","lobthr","Long-billed Thrasher","Toxostoma longirostre","L29360849","DDD Beavers Knoll","2025-11-14 17:02",29.196922,-99.750099,TRUE,FALSE,TRUE,"S284540988",2
+"117","lobthr","Long-billed Thrasher","Toxostoma longirostre","L273461","Goose Island SP (CTC 048)","2025-11-14 16:26",28.13255,-96.985052,TRUE,FALSE,FALSE,"S284669821",1
+"118","lobthr","Long-billed Thrasher","Toxostoma longirostre","L17888936","Laguna Atascosa NWR--Pelican Lake","2025-11-14 15:52",26.2013894,-97.3358761,TRUE,FALSE,FALSE,"S284471706",1
+"119","lobthr","Long-billed Thrasher","Toxostoma longirostre","L55114808","HQ, mesquite trail etc.","2025-11-14 15:50",26.229474,-97.347395,TRUE,FALSE,TRUE,"S284475463",2
+"120","lobthr","Long-billed Thrasher","Toxostoma longirostre","L260173","San Juan Yard","2025-11-14 15:23",26.1984912,-98.142079,TRUE,FALSE,TRUE,"S284463224",2
+"121","lobthr","Long-billed Thrasher","Toxostoma longirostre","L2207333","TX48--Bahia Grande - Brownsville ship channel Canal area","2025-11-14 14:34",26.0155428,-97.2762966,TRUE,FALSE,FALSE,"S284461078",1
+"122","lobthr","Long-billed Thrasher","Toxostoma longirostre","L2896681","Gladys Porter Zoo/ Dean Porter Park  (UTC 046)","2025-11-14 13:41",25.9133345,-97.4954331,TRUE,FALSE,FALSE,"S284442671",1
+"123","lobthr","Long-billed Thrasher","Toxostoma longirostre","L20821537","Caesar Kleberg Wildlife Center (access weekdays)","2025-11-14 12:33",27.531519,-97.890066,TRUE,FALSE,FALSE,"S284440688",6
+"124","lobthr","Long-billed Thrasher","Toxostoma longirostre","L36042756","Apartment - Brownsville","2025-11-14 11:36",25.934148,-97.4756438,TRUE,FALSE,TRUE,"S284426912",1
+"125","lobthr","Long-billed Thrasher","Toxostoma longirostre","L55110123","Bentsen-Rio Grande Valley State Park, Mission US-TX 26.18368, -98.38059","2025-11-14 10:53",26.183679,-98.38059,TRUE,FALSE,TRUE,"S284454338",2
+"126","lobthr","Long-billed Thrasher","Toxostoma longirostre","L6087334","Raymondville Memorial Park Cemetery","2025-11-14 09:10",26.4840633,-97.751727,TRUE,FALSE,FALSE,"S284413402",1
+"127","lobthr","Long-billed Thrasher","Toxostoma longirostre","L13511181","La Paloma","2025-11-14 08:40",27.8595588,-98.4188303,TRUE,FALSE,TRUE,"S284416799",1
+"128","lobthr","Long-billed Thrasher","Toxostoma longirostre","L1154119","Santa Ana NWR--Observation Tower","2025-11-14 08:15",26.0773969,-98.1382392,TRUE,FALSE,FALSE,"S284415340",2
+"129","lobthr","Long-billed Thrasher","Toxostoma longirostre","L1391443","Ebony Hills Golf Course and surrounding residential area","2025-11-14 07:47",26.2863235,-98.1700573,TRUE,FALSE,TRUE,"S284431883",1
+"130","lobthr","Long-billed Thrasher","Toxostoma longirostre","L28768056","Santa Ana","2025-11-14 07:35",26.077477,-98.1348,TRUE,FALSE,TRUE,"S284416596",1
+"131","lobthr","Long-billed Thrasher","Toxostoma longirostre","L569668","Wesley Seale Dam and City of C.C. Wildlife Sanctuary (CTC079)","2025-11-14 07:29",28.042028,-97.8614039,TRUE,FALSE,FALSE,"S284413733",2
+"132","lobthr","Long-billed Thrasher","Toxostoma longirostre","L16982346","CR 1168","2025-11-14 06:56",27.974405,-97.681212,TRUE,FALSE,TRUE,"S284386848",1
+"133","lobthr","Long-billed Thrasher","Toxostoma longirostre","L22435859","USFWS Phillips Banco — No Public Access","2025-11-14 06:34",25.926462,-97.527692,TRUE,FALSE,TRUE,"S284443945",5
+"134","lobthr","Long-billed Thrasher","Toxostoma longirostre","L16872663","Blanco Lake, Uvalde US-TX (29.2658,-99.5337)","2025-11-13 17:48",29.265795,-99.533701,TRUE,FALSE,TRUE,"S284339082",1
+"135","lobthr","Long-billed Thrasher","Toxostoma longirostre","L53477519","Jesus Maria Road","2025-11-13 17:12",26.560559,-97.968679,TRUE,FALSE,TRUE,"S284343528",2
+"136","lobthr","Long-billed Thrasher","Toxostoma longirostre","L302786","Hazel Bazemore County Park (CTC 078)","2025-11-13 16:00",27.8666445,-97.6416233,TRUE,FALSE,FALSE,"S284425873",2
+"137","lobthr","Long-billed Thrasher","Toxostoma longirostre","L249887","Quinta Mazatlan WBC (LTC 063)","2025-11-13 15:48",26.176876,-98.2309932,TRUE,FALSE,FALSE,"S284335538",4
+"138","lobthr","Long-billed Thrasher","Toxostoma longirostre","L1673684","San Benito Wetlands (restricted access)","2025-11-13 11:34",26.1739485,-97.6235167,TRUE,FALSE,FALSE,"S284300848",1
+"139","lobthr","Long-billed Thrasher","Toxostoma longirostre","L1850000","San Juan Wetlands","2025-11-13 10:39",26.1606244,-98.157516,TRUE,FALSE,FALSE,"S284297861",1
+"140","lobthr","Long-billed Thrasher","Toxostoma longirostre","L388977","Harlingen Thicket WBC (LTC 028)","2025-11-13 10:16",26.1784519,-97.6854086,TRUE,FALSE,FALSE,"S284302063",1
+"141","lobthr","Long-billed Thrasher","Toxostoma longirostre","L3328096","Salineno--Dump Road","2025-11-13 10:09",26.5296996,-99.106797,TRUE,FALSE,FALSE,"S284335897",1
+"142","lobthr","Long-billed Thrasher","Toxostoma longirostre","L8660080","Aransas NWR--Oak Sanctuary Trail (Aransas Co.)","2025-11-13 09:50",28.287376,-96.8102854,TRUE,FALSE,FALSE,"S284288117",1
+"143","lobthr","Long-billed Thrasher","Toxostoma longirostre","L17672765","Chapman Ranch - CR 14 South (of 286)","2025-11-13 09:37",27.615539,-97.464158,TRUE,FALSE,TRUE,"S284282621",2
+"144","lobthr","Long-billed Thrasher","Toxostoma longirostre","L31906424","19202 Red Fish Bay Rd, Raymondville US-TX (26.4837,-97.7007)","2025-11-13 09:09",26.483728,-97.700718,TRUE,FALSE,TRUE,"S284279263",1
+"145","lobthr","Long-billed Thrasher","Toxostoma longirostre","L50000772","Chapman Ranch - CR 51 (west of FM 70 to King Ranch gate)","2025-11-13 09:02",27.5847051,-97.5027682,TRUE,FALSE,TRUE,"S284276881",1
+"146","lobthr","Long-billed Thrasher","Toxostoma longirostre","L2125666","King Ranch Visitor Center","2025-11-13 08:31",27.5199373,-97.8960156,TRUE,FALSE,FALSE,"S284726301",1
+"147","lobthr","Long-billed Thrasher","Toxostoma longirostre","L17194974","Estero Llano Grande State Park, Weslaco US-TX 26.12374, -97.95603","2025-11-13 08:08",26.123741,-97.956027,TRUE,FALSE,TRUE,"S284315636",1
+"148","lobthr","Long-billed Thrasher","Toxostoma longirostre","L9125207","Bexar Co. Park/Waters at Deerfield","2025-11-13 08:04",29.6047902,-98.5172614,TRUE,FALSE,TRUE,"S284316668",1
+"149","lobthr","Long-billed Thrasher","Toxostoma longirostre","L718255","Laguna Atascosa NWR--Alligator Pond","2025-11-13 07:49",26.2301638,-97.3688006,TRUE,FALSE,FALSE,"S284269089",1
+"150","lobthr","Long-billed Thrasher","Toxostoma longirostre","L375230","Bishop City Park (CTC 085)","2025-11-13 07:33",27.5802355,-97.8023529,TRUE,FALSE,FALSE,"S284270494",3
+"151","lobthr","Long-billed Thrasher","Toxostoma longirostre","L34990250","Beavers Knoll loop","2025-11-13 07:21",29.1936096,-99.7463196,TRUE,FALSE,TRUE,"S284313439",2
+"152","lobthr","Long-billed Thrasher","Toxostoma longirostre","L2338913","Aransas NWR--Big Tree Trail","2025-11-13 07:09",28.2525656,-96.7910099,TRUE,FALSE,FALSE,"S284274587",1
+"153","lobthr","Long-billed Thrasher","Toxostoma longirostre","L55073229","County Road 43, Corpus Christi US-TX 27.60842, -97.43768","2025-11-13 06:58",27.60842,-97.437677,TRUE,FALSE,TRUE,"S284264340",1
+"154","lobthr","Long-billed Thrasher","Toxostoma longirostre","L1586667","(-1) Alamo - Cottage Bird Sanctuary","2025-11-12 15:45",26.1796802,-98.1180856,TRUE,FALSE,TRUE,"S284196221",1
+"155","lobthr","Long-billed Thrasher","Toxostoma longirostre","L55062078","Falcon State Park, Falcon US-TX 26.59026, -99.15342","2025-11-12 14:50",26.590256,-99.153423,TRUE,FALSE,TRUE,"S284207754",3
+"156","lobthr","Long-billed Thrasher","Toxostoma longirostre","L246727","Anzalduas Park (LTC 068)","2025-11-12 14:20",26.1384105,-98.3327866,TRUE,FALSE,FALSE,"S284189623",1
+"157","lobthr","Long-billed Thrasher","Toxostoma longirostre","L7071934","Bentsen-Rio Grande Valley SP--Green Jay Blind","2025-11-12 13:52",26.176812,-98.389983,TRUE,FALSE,FALSE,"S284176021",1
+"158","lobthr","Long-billed Thrasher","Toxostoma longirostre","L55053908","County Road 3750, Raymondville US-TX 26.53246, -97.95532","2025-11-12 11:19",26.532463,-97.955323,TRUE,FALSE,TRUE,"S284163580",1
+"159","lobthr","Long-billed Thrasher","Toxostoma longirostre","L612847","Orphanage Road Ponds","2025-11-12 09:57",26.29504,-97.76622,TRUE,FALSE,FALSE,"S284159028",1
+"160","lobthr","Long-billed Thrasher","Toxostoma longirostre","L15410297","Resaca de la Palma State Park, Brownsville US-TX 25.99615, -97.56931","2025-11-12 09:47",25.99615,-97.569314,TRUE,FALSE,TRUE,"S284163458",1
+"161","lobthr","Long-billed Thrasher","Toxostoma longirostre","L4258738","Bentsen-Rio Grande Val. SP--Kiskadee Bird Blind","2025-11-12 09:21",26.1764248,-98.3861887,TRUE,FALSE,FALSE,"S284169702",1
+"162","lobthr","Long-billed Thrasher","Toxostoma longirostre","L39844283","117 Daisy Street, Weslaco, Texas, US (26.15, -97.96)","2025-11-12 09:19",26.1500714,-97.959873,TRUE,FALSE,TRUE,"S284140923",NA
+"163","lobthr","Long-billed Thrasher","Toxostoma longirostre","L280913","Rancho Lomitas","2025-11-12 08:28",26.4871971,-98.8227511,TRUE,FALSE,FALSE,"S284161307",1
+"164","lobthr","Long-billed Thrasher","Toxostoma longirostre","L3471518","LRGV NWR--Brush Line rd. area","2025-11-12 08:20",26.5127827,-98.0463192,TRUE,FALSE,FALSE,"S284135294",1
+"165","lobthr","Long-billed Thrasher","Toxostoma longirostre","L898229","Pauraque Ridge","2025-11-12 08:15",28.5442293,-97.8245401,TRUE,FALSE,TRUE,"S284190844",1
+"166","lobthr","Long-billed Thrasher","Toxostoma longirostre","L129008","Laguna Atascosa NWR--Osprey Overlook","2025-11-12 08:15",26.2338009,-97.3643036,TRUE,FALSE,FALSE,"S284139661",1
+"167","lobthr","Long-billed Thrasher","Toxostoma longirostre","L17759069","South Texas Ecotourism Center","2025-11-12 08:03",26.09276,-97.29624,TRUE,FALSE,FALSE,"S284135805",1
+"168","lobthr","Long-billed Thrasher","Toxostoma longirostre","L1415138","Aransas NWR--Heron Flats Trail (Aransas Co.)","2025-11-12 07:35",28.3015409,-96.8063205,TRUE,FALSE,FALSE,"S284184565",5
+"169","lobthr","Long-billed Thrasher","Toxostoma longirostre","L38407809","residence","2025-11-12 07:31",28.7620986,-97.8413199,TRUE,FALSE,TRUE,"S284134017",2
+"170","lobthr","Long-billed Thrasher","Toxostoma longirostre","L267204","Suter Wildlife Refuge (CTC 069)","2025-11-12 07:30",27.7085274,-97.3379721,TRUE,FALSE,FALSE,"S284161695",1
+"171","lobthr","Long-billed Thrasher","Toxostoma longirostre","L55052111","Longoria, La Grulla, Texas, US (26.257, -98.657)","2025-11-12 07:12",26.2569582,-98.656953,TRUE,FALSE,TRUE,"S284154224",1
+"172","lobthr","Long-billed Thrasher","Toxostoma longirostre","L2330440","Aransas NWR--Rail Trail","2025-11-12 06:57",28.3089147,-96.8013954,TRUE,FALSE,FALSE,"S284183394",1
+"173","lobthr","Long-billed Thrasher","Toxostoma longirostre","L741639","Cameron Company/Port Isabel Reservoir & Holly Beach rd.","2025-11-11 17:31",26.120398,-97.3143947,TRUE,FALSE,FALSE,"S284071567",1
+"174","lobthr","Long-billed Thrasher","Toxostoma longirostre","L8223827","Lower Rio Grande Valley National Wildlife Refuge, Palmview US-TX (26.1817,-98.3763)","2025-11-11 14:49",26.181676,-98.376308,TRUE,FALSE,TRUE,"S284066938",1
+"175","lobthr","Long-billed Thrasher","Toxostoma longirostre","L6464907","Falfurrias Cemetery","2025-11-11 14:16",27.236163,-98.1497848,TRUE,FALSE,FALSE,"S284052722",3
+"176","lobthr","Long-billed Thrasher","Toxostoma longirostre","L1021359","Aransas NWR--Jones Lake (Calhoun Co.)","2025-11-11 12:38",28.256223,-96.7946577,TRUE,FALSE,FALSE,"S284034517",1
+"177","lobthr","Long-billed Thrasher","Toxostoma longirostre","L1155581","Texas A&M--Corpus Christi","2025-11-11 11:38",27.7113045,-97.3275375,TRUE,FALSE,FALSE,"S284033698",2
+"178","lobthr","Long-billed Thrasher","Toxostoma longirostre","L55027901","1503 Lila Road, Edinburg, Texas, US (26.535, -97.973)","2025-11-11 11:18",26.5349094,-97.9725471,TRUE,FALSE,TRUE,"S284037125",4
+"179","lobthr","Long-billed Thrasher","Toxostoma longirostre","L39632736","Island Fields Loop, Los Fresnos, Texas, US (26.224, -97.353)","2025-11-11 09:36",26.2243889,-97.3529316,TRUE,FALSE,TRUE,"S284032822",2
+"180","lobthr","Long-billed Thrasher","Toxostoma longirostre","L1882190","Linda S. Castro Nature Sanctuary","2025-11-11 09:33",28.0740695,-97.0416845,TRUE,FALSE,FALSE,"S284053878",2
+"181","lobthr","Long-billed Thrasher","Toxostoma longirostre","L1021344","Aransas NWR--Wildlife Tower (Calhoun Co.)","2025-11-11 09:30",28.2504014,-96.7894328,TRUE,FALSE,FALSE,"S284058961",1
+"182","lobthr","Long-billed Thrasher","Toxostoma longirostre","L2961471","Knolle Ranch","2025-11-11 08:53",27.9719658,-97.8255701,TRUE,FALSE,FALSE,"S284344870",2
+"183","lobthr","Long-billed Thrasher","Toxostoma longirostre","L513691","Wright's Pond area","2025-11-11 08:30",27.9097131,-97.7807236,TRUE,FALSE,FALSE,"S284344886",1
+"184","lobthr","Long-billed Thrasher","Toxostoma longirostre","L21916040","Camp Riverview","2025-11-11 08:05",29.570271,-99.727389,TRUE,FALSE,TRUE,"S283995556",1
+"185","lobthr","Long-billed Thrasher","Toxostoma longirostre","L521782","Santa Ana NWR","2025-11-11 07:35",26.0833817,-98.1387663,TRUE,FALSE,TRUE,"S284022069",1
+"186","lobthr","Long-billed Thrasher","Toxostoma longirostre","L1263591","Laredo- North Central Park","2025-11-11 07:29",27.6001374,-99.4713843,TRUE,FALSE,FALSE,"S284004514",2
+"187","lobthr","Long-billed Thrasher","Toxostoma longirostre","L5691548","US-TX-Harlingen-15790-15868 Garrett Rd - 26.1707x-97.7681","2025-11-11 07:15",26.170671,-97.768121,TRUE,FALSE,TRUE,"S283991421",1
+"188","lobthr","Long-billed Thrasher","Toxostoma longirostre","L318918","South Padre Is.--Valley Land Fund lots (LTC 036)","2025-11-11 07:08",26.0988053,-97.1678612,TRUE,FALSE,FALSE,"S284170152",1
+"189","lobthr","Long-billed Thrasher","Toxostoma longirostre","L569909","Riverside Park (CTC 027), Victoria","2025-11-11 06:40",28.8101559,-97.0273025,TRUE,FALSE,FALSE,"S284021101",1
+"190","lobthr","Long-billed Thrasher","Toxostoma longirostre","L27901281","Bentsen-Rio Grande Valley State Park, Mission US-TX 26.18369, -98.38085","2025-11-10 16:35",26.18369,-98.38085,TRUE,FALSE,TRUE,"S283950914",3
+"191","lobthr","Long-billed Thrasher","Toxostoma longirostre","L9413262","Oleander Acres RV Resort","2025-11-10 13:22",26.1814355,-98.3304537,TRUE,FALSE,FALSE,"S283915638",2
+"192","lobthr","Long-billed Thrasher","Toxostoma longirostre","L29453393","Rio Grande River--Salineño to Santa Margarita Ranch (by boat)","2025-11-10 12:56",26.5067971,-99.1097303,TRUE,FALSE,FALSE,"S283935676",3
+"193","lobthr","Long-billed Thrasher","Toxostoma longirostre","L54999591","7355 Padre Blvd, South Padre Island US-TX 26.14049, -97.17511","2025-11-10 11:30",26.140486,-97.175107,TRUE,FALSE,TRUE,"S283903866",1
+"194","lobthr","Long-billed Thrasher","Toxostoma longirostre","L39107749","Howe garden area, TX A&M - Kingsville","2025-11-10 11:28",27.525831,-97.883726,TRUE,FALSE,TRUE,"S283906753",1
+"195","lobthr","Long-billed Thrasher","Toxostoma longirostre","L1272938","Chapman Ranch","2025-11-10 09:52",27.5855791,-97.4555969,TRUE,FALSE,FALSE,"S283887571",2
+"196","lobthr","Long-billed Thrasher","Toxostoma longirostre","L55008556","CR 12","2025-11-10 09:23",27.600805,-97.504445,TRUE,FALSE,TRUE,"S283945464",1
+"197","lobthr","Long-billed Thrasher","Toxostoma longirostre","L39633524","Chapman Ranch - CR 6 to CR 8 (including CR's 43, 45, 47)","2025-11-10 08:29",27.572055,-97.448817,TRUE,FALSE,TRUE,"S283874708",1
+"198","lobthr","Long-billed Thrasher","Toxostoma longirostre","L3715748","Max A Mandel Golf Course","2025-11-10 07:30",27.660146,-99.66685,TRUE,FALSE,FALSE,"S283876247",1
+"199","lobthr","Long-billed Thrasher","Toxostoma longirostre","L55018195","3001 Augusta National Drive, Harlingen, Texas, US (26.183, -97.647)","2025-11-10 07:00",26.1831258,-97.646881,TRUE,FALSE,TRUE,"S283988690",NA
+"200","lobthr","Long-billed Thrasher","Toxostoma longirostre","L1797069","Estero Llano Grande State Park","2025-11-10 06:27",26.1249875,-97.9571278,TRUE,FALSE,TRUE,"S283943687",4
+"201","lobthr","Long-billed Thrasher","Toxostoma longirostre","L54977730","16300–16760 Jimenez Rd, San Benito US-TX 26.09045, -97.75927","2025-11-09 16:38",26.09045,-97.759266,TRUE,FALSE,TRUE,"S283794539",2
+"202","lobthr","Long-billed Thrasher","Toxostoma longirostre","L526580","Uvalde County, TX--Montell Coleman/Clarke Homestead","2025-11-09 14:44",29.5374232,-100.0104439,TRUE,FALSE,TRUE,"S283775880",1
+"203","lobthr","Long-billed Thrasher","Toxostoma longirostre","L1126444","Laguna Seca Ranch","2025-11-09 14:31",26.5118247,-98.1917667,TRUE,FALSE,FALSE,"S283799754",2
+"204","lobthr","Long-billed Thrasher","Toxostoma longirostre","L497138","LRGV NWR--Cannon Road (LTC-050)","2025-11-09 14:02",26.0757882,-97.7853584,TRUE,FALSE,FALSE,"S283773701",1
+"205","lobthr","Long-billed Thrasher","Toxostoma longirostre","L14083082","Edinburg Scenic Wetlands","2025-11-09 14:00",26.2922298,-98.135032,TRUE,FALSE,TRUE,"S283785272",2
+"206","lobthr","Long-billed Thrasher","Toxostoma longirostre","L54982330","78541, Edinburg US-TX (26.5047,-98.1892)","2025-11-09 09:01",26.504741,-98.189157,TRUE,FALSE,TRUE,"S283817072",1
+"207","lobthr","Long-billed Thrasher","Toxostoma longirostre","L284157","Laguna Atascosa NWR--Bahia Grande Unit (restricted access)","2025-11-09 08:47",26.041662,-97.282077,TRUE,FALSE,FALSE,"S283767049",1
+"208","lobthr","Long-billed Thrasher","Toxostoma longirostre","L1440249","Rio Beef Farm Feed Lot Area","2025-11-09 07:20",26.5368323,-97.9857151,TRUE,FALSE,FALSE,"S283751832",1
+"209","lobthr","Long-billed Thrasher","Toxostoma longirostre","L1331912","Santa Ana NWR--Entry and Parking lot","2025-11-09 07:05",26.0826692,-98.1356089,TRUE,FALSE,FALSE,"S283723294",2
+"210","lobthr","Long-billed Thrasher","Toxostoma longirostre","L55151781","600 Sunset Dr, McAllen US-TX (26.1764,-98.2296)","2025-11-09 06:24",26.176393,-98.229614,TRUE,FALSE,TRUE,"S284647468",1
+"211","lobthr","Long-billed Thrasher","Toxostoma longirostre","L39366566","78076, Zapata US-TX 26.93599, -99.15231","2025-11-09 06:18",26.935995,-99.152312,TRUE,FALSE,TRUE,"S283692659",2
