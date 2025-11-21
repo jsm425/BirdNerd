@@ -1,4 +1,2 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","rusbun","Rustic Bunting","Emberiza rustica","L14689730","OceansideTC, Sitka, Alaska, US (57.066, -135.366)","2025-11-12 14:37",1,57.066291,-135.365713,TRUE,TRUE,TRUE,"S284201258"
-"2","rusbun","Rustic Bunting","Emberiza rustica","L55061096","1709 Halibut Point Road, Sitka, Alaska, US (57.066, -135.366)","2025-11-12 14:35",1,57.0661946,-135.3658205,TRUE,TRUE,TRUE,"S284200788"
-"3","rusbun","Rustic Bunting","Emberiza rustica","L19604840","Sitka--Cascade Creek Overlook","2025-11-11 12:27",1,57.0754539,-135.3723409,TRUE,TRUE,FALSE,"S284056252"
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
+"1","afcdov1","African Collared-Dove","Streptopelia roseogrisea","L144858","Riparian Preserve at Gilbert Water Ranch","2025-11-15 07:20",1,33.3614502,-111.7339478,TRUE,TRUE,FALSE,"S284642025","X"
