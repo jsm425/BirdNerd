@@ -1,3 +1,6 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","rnxsap1","Red-naped x Red-breasted Sapsucker (hybrid)","Sphyrapicus nuchalis x ruber","L12838633","Broadview - 1st Ave x 136th St","2025-11-30 11:30",1,47.728253,-122.358248,TRUE,TRUE,TRUE,"S286841803"
-"2","rnxsap1","Red-naped x Red-breasted Sapsucker (hybrid)","Sphyrapicus nuchalis x ruber","L5116960","Hollister Hills SVRA--central entrance","2025-11-25 10:14",1,36.769474,-121.414847,TRUE,TRUE,FALSE,"S286167535"
+"1","chwwid","Chuck-will's-widow","Antrostomus carolinensis","L27643509","6015 SW 88th Ct, Miami US-FL (25.7128,-80.3372)","2025-11-29 13:58",1,25.712822,-80.337215,TRUE,FALSE,TRUE,"S286679765"
+"2","chwwid","Chuck-will's-widow","Antrostomus carolinensis","L127446","Key West Tropical Forest & Botanical Gardens","2025-11-29 11:03",1,24.5734,-81.7496,TRUE,FALSE,FALSE,"S286656431"
+"3","chwwid","Chuck-will's-widow","Antrostomus carolinensis","L2144376","Big Cypress National Preserve--Turner River Rd. & Upper Wagonwheel Rd.","2025-11-29 08:00",1,25.9940012,-81.2626505,TRUE,FALSE,FALSE,"S286911989"
+"4","chwwid","Chuck-will's-widow","Antrostomus carolinensis","L768468","Dagny Johnson Key Largo Hammock Botanical SP","2025-11-28 12:12",1,25.280242,-80.2973986,TRUE,FALSE,FALSE,"S286874155"
+"5","chwwid","Chuck-will's-widow","Antrostomus carolinensis","L127439","Key Largo Hammocks State Botanical Site","2025-11-28 05:54",1,25.1758333,-80.3694444,TRUE,FALSE,FALSE,"S286874438"
