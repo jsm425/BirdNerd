@@ -1,2 +1,5 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
-"1","rintea1","Ringed Teal","Callonetta leucophrys","L13978187","Wheatley's Pond","2025-11-27 07:34",1,39.2830957,-75.6325471,TRUE,TRUE,FALSE,"S286338105","X"
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
+"1","elepai4","Oahu Elepaio","Chasiempis ibidis","L253053","ʻAiea Loop Trail and Keaīwa Heiau SP","2025-12-06 13:28",2,21.3988172,-157.9000568,TRUE,TRUE,FALSE,"S287610155"
+"2","elepai4","Oahu Elepaio","Chasiempis ibidis","L285799","Kuli'ou'ou Valley Trail","2025-12-03 13:13",4,21.3108002,-157.7279675,TRUE,TRUE,FALSE,"S287237556"
+"3","elepai4","Oahu Elepaio","Chasiempis ibidis","L4306756","Wiliwilinui Ridge Trail","2025-12-02 07:38",1,21.3152355,-157.7596378,TRUE,TRUE,FALSE,"S287077578"
+"4","elepai4","Oahu Elepaio","Chasiempis ibidis","L43520688","Wailupe Gulch","2025-11-29 08:00",2,21.3065633,-157.7534704,TRUE,TRUE,TRUE,"S286687720"
