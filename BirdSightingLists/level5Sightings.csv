@@ -1,5 +1,3 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","elepai4","Oahu Elepaio","Chasiempis ibidis","L253053","ʻAiea Loop Trail and Keaīwa Heiau SP","2025-12-06 13:28",2,21.3988172,-157.9000568,TRUE,TRUE,FALSE,"S287610155"
-"2","elepai4","Oahu Elepaio","Chasiempis ibidis","L285799","Kuli'ou'ou Valley Trail","2025-12-03 13:13",4,21.3108002,-157.7279675,TRUE,TRUE,FALSE,"S287237556"
-"3","elepai4","Oahu Elepaio","Chasiempis ibidis","L4306756","Wiliwilinui Ridge Trail","2025-12-02 07:38",1,21.3152355,-157.7596378,TRUE,TRUE,FALSE,"S287077578"
-"4","elepai4","Oahu Elepaio","Chasiempis ibidis","L43520688","Wailupe Gulch","2025-11-29 08:00",2,21.3065633,-157.7534704,TRUE,TRUE,TRUE,"S286687720"
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
+"1","swagoo3","Swan x Canada Goose (hybrid)","Anser cygnoides x Branta canadensis","L504403","John Heinz NWR--impoundment (Philadelphia Co.)","2025-12-05 14:58",1,39.8893501,-75.2601457,TRUE,FALSE,FALSE,"S287579466","X"
+"2","swagoo3","Swan x Canada Goose (hybrid)","Anser cygnoides x Branta canadensis","L10961905","Riverbottom Park, Montrose US-CO 38.46587, -107.87957","2025-12-02 09:31",1,38.465875,-107.879569,TRUE,FALSE,TRUE,"S287107872","X"
