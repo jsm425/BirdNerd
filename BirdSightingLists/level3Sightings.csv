@@ -1,313 +1,219 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","caster1","Caspian Tern","Hydroprogne caspia","L129067","Rollover Pass (UTC 056)","2025-12-10 17:14",2,29.5100602,-94.5008326,TRUE,FALSE,FALSE,"S288080579"
-"2","caster1","Caspian Tern","Hydroprogne caspia","L882829","Myakka River SP -- Birdwalk","2025-12-10 17:01",2,27.2763735,-82.2702599,TRUE,FALSE,FALSE,"S288081223"
-"3","caster1","Caspian Tern","Hydroprogne caspia","L1155581","Texas A&M--Corpus Christi","2025-12-10 15:38",2,27.7113045,-97.3275375,TRUE,FALSE,FALSE,"S288075315"
-"4","caster1","Caspian Tern","Hydroprogne caspia","L16573893","Cape Canaveral National Seashore--Apollo Beach--Parking Area 1","2025-12-10 15:04",3,28.9369371,-80.8298673,TRUE,FALSE,FALSE,"S288062775"
-"5","caster1","Caspian Tern","Hydroprogne caspia","L5063962","South Padre Is.--County Park mudflats N. of Conv Ctr.","2025-12-10 14:30",5,26.1440832,-97.1757324,TRUE,FALSE,FALSE,"S288067959"
-"6","caster1","Caspian Tern","Hydroprogne caspia","L267204","Suter Wildlife Refuge (CTC 069)","2025-12-10 14:23",2,27.7085274,-97.3379721,TRUE,FALSE,FALSE,"S288068991"
-"7","caster1","Caspian Tern","Hydroprogne caspia","L16574019","Cape Canaveral National Seashore--Apollo Beach--Parking Area 3","2025-12-10 12:59",1,28.898409,-80.8034339,TRUE,FALSE,FALSE,"S288050712"
-"8","caster1","Caspian Tern","Hydroprogne caspia","L770565","South Padre Is.--Birding and Nature Center","2025-12-10 12:57",7,26.1374628,-97.1739367,TRUE,FALSE,FALSE,"S288075814"
-"9","caster1","Caspian Tern","Hydroprogne caspia","L127316","Fred Howard County Park","2025-12-10 12:57",1,28.1532114,-82.7937412,TRUE,FALSE,FALSE,"S288051531"
-"10","caster1","Caspian Tern","Hydroprogne caspia","L127381","Merritt Island NWR--Black Point Wildlife Drive","2025-12-10 12:09",1,28.6575241,-80.7545391,TRUE,FALSE,FALSE,"S288060493"
-"11","caster1","Caspian Tern","Hydroprogne caspia","L768907","Fort Sumter National Monument (not for observations from ferry ride)","2025-12-10 11:30",2,32.7519107,-79.8746395,TRUE,FALSE,FALSE,"S288050258"
-"12","caster1","Caspian Tern","Hydroprogne caspia","L55867869","Santa Ana River Trail, Orange US-CA 33.84427, -117.85195","2025-12-10 11:23",1,33.844266,-117.851946,TRUE,FALSE,TRUE,"S288061699"
-"13","caster1","Caspian Tern","Hydroprogne caspia","L18609510","Deep Hole--Myakka SP Wilderness Trail","2025-12-10 11:18",2,27.215375,-82.3381957,TRUE,FALSE,FALSE,"S288050131"
-"14","caster1","Caspian Tern","Hydroprogne caspia","L4121740","Bolsa Chica--Brightwater area","2025-12-10 10:42",4,33.7074915,-118.0453974,TRUE,FALSE,FALSE,"S288059360"
-"15","caster1","Caspian Tern","Hydroprogne caspia","L164929","Bolsa Chica Ecological Reserve","2025-12-10 10:32",3,33.7026531,-118.050735,TRUE,FALSE,FALSE,"S288064034"
-"16","caster1","Caspian Tern","Hydroprogne caspia","L283726","South Padre Is.--WBC/Conv. Center/Laguna Madre Trail (LTC 035)","2025-12-10 10:00",8,26.1400912,-97.1748233,TRUE,FALSE,FALSE,"S288057590"
-"17","caster1","Caspian Tern","Hydroprogne caspia","L725966","Myakka River SP -- Boat Ramp Area","2025-12-10 09:54",2,27.2657309,-82.2901297,TRUE,FALSE,FALSE,"S288049643"
-"18","caster1","Caspian Tern","Hydroprogne caspia","L2423907","Bahia Beach Nature Preserve","2025-12-10 09:31",1,27.7214102,-82.463159,TRUE,FALSE,FALSE,"S288042016"
-"19","caster1","Caspian Tern","Hydroprogne caspia","L803473","Delta Lake (LTC 008)","2025-12-10 08:44",3,26.4110759,-97.9576871,TRUE,FALSE,FALSE,"S288074289"
-"20","caster1","Caspian Tern","Hydroprogne caspia","L271497","Humboldt Bay--King Salmon","2025-12-10 08:39",2,40.740336,-124.218596,TRUE,FALSE,FALSE,"S288041843"
-"21","caster1","Caspian Tern","Hydroprogne caspia","L246727","Anzalduas Park (LTC 068)","2025-12-10 08:18",8,26.1384105,-98.3327866,TRUE,FALSE,FALSE,"S288037446"
-"22","caster1","Caspian Tern","Hydroprogne caspia","L497742","Yuma East Wetlands","2025-12-10 08:00",2,32.7207934,-114.6065962,TRUE,TRUE,FALSE,"S288058722"
-"23","caster1","Caspian Tern","Hydroprogne caspia","L338428","Indian Point (CTC 073)","2025-12-10 07:37",3,27.8525492,-97.3559312,TRUE,FALSE,FALSE,"S288026514"
-"24","caster1","Caspian Tern","Hydroprogne caspia","L192383","Key Vista Nature Park","2025-12-10 07:31",1,28.1986225,-82.7820253,TRUE,FALSE,FALSE,"S288034274"
-"25","caster1","Caspian Tern","Hydroprogne caspia","L299291","Myakka River SP","2025-12-10 07:18",3,27.2405033,-82.3148167,TRUE,FALSE,FALSE,"S288062079"
-"26","caster1","Caspian Tern","Hydroprogne caspia","L130767","Aransas NWR (CTC 037) (Aransas Co.)","2025-12-10 07:15",2,28.3108004,-96.8011664,TRUE,FALSE,FALSE,"S288080970"
-"27","caster1","Caspian Tern","Hydroprogne caspia","L129061","Galveston--Apffel Park / East Beach (UTC 062)","2025-12-10 07:12",1,29.33169,-94.73242,TRUE,FALSE,FALSE,"S288031311"
-"28","caster1","Caspian Tern","Hydroprogne caspia","L837173","Ten Thousand Islands NWR--Marsh Trail & Observation Tower","2025-12-10 07:01",1,25.973478,-81.5542603,TRUE,FALSE,FALSE,"S288016334"
-"29","caster1","Caspian Tern","Hydroprogne caspia","L4425488","Terra Ceia Preserve SP--Hightower Trail","2025-12-10 06:57",3,27.5813861,-82.5726682,TRUE,FALSE,FALSE,"S288053086"
-"30","caster1","Caspian Tern","Hydroprogne caspia","L55858953","Auto selected 25.13653, -80.93834","2025-12-10 06:55",2,25.136532,-80.938344,TRUE,FALSE,TRUE,"S288013778"
-"31","caster1","Caspian Tern","Hydroprogne caspia","L1504749","Galveston--Moody Gardens","2025-12-10 06:34",2,29.2744864,-94.8543092,TRUE,FALSE,FALSE,"S288018072"
-"32","caster1","Caspian Tern","Hydroprogne caspia","L1165694","Bolsa Chica--walkbridge/inner bay","2025-12-09 16:40",NA,33.6965128,-118.0451372,TRUE,FALSE,FALSE,"S287980608"
-"33","caster1","Caspian Tern","Hydroprogne caspia","L1125706","Big Talbot Island SP--Spoonbill Pond (includes parking & boat ramp)","2025-12-09 16:12",4,30.5101704,-81.4585671,TRUE,FALSE,FALSE,"S287965815"
-"34","caster1","Caspian Tern","Hydroprogne caspia","L39794182","Forest Lake Church Trail","2025-12-09 15:45",1,28.6721966,-81.4422036,TRUE,FALSE,FALSE,"S287965165"
-"35","caster1","Caspian Tern","Hydroprogne caspia","L283140","Jetty Park","2025-12-09 15:23",1,28.4064535,-80.5924523,TRUE,FALSE,FALSE,"S287965797"
-"36","caster1","Caspian Tern","Hydroprogne caspia","L714512","Sunset Lake  (Portland)","2025-12-09 15:20",2,27.8679131,-97.3274088,TRUE,FALSE,FALSE,"S287966465"
-"37","caster1","Caspian Tern","Hydroprogne caspia","L17169615","1 Yard NIB: HB, Cobblestone Lane","2025-12-09 15:00",1,33.711109,-118.034427,TRUE,FALSE,TRUE,"S288044852"
-"38","caster1","Caspian Tern","Hydroprogne caspia","L28109045","Indian Point Park—Nueces Co. marshes (SE portion)","2025-12-09 14:50",1,27.851863,-97.353277,TRUE,FALSE,FALSE,"S287965493"
-"39","caster1","Caspian Tern","Hydroprogne caspia","L129028","McFaddin NWR (UTC 028)","2025-12-09 14:36",1,29.6896815,-94.0934926,TRUE,FALSE,FALSE,"S287972584"
-"40","caster1","Caspian Tern","Hydroprogne caspia","L2151654","Little Talbot Island SP--Ft George Inlet","2025-12-09 13:51",1,30.4222499,-81.415788,TRUE,FALSE,FALSE,"S287949640"
-"41","caster1","Caspian Tern","Hydroprogne caspia","L578456","T.M. Goodwin WMA--Broadmoor Unit","2025-12-09 13:45",NA,27.8891565,-80.746336,TRUE,FALSE,FALSE,"S287978079"
-"42","caster1","Caspian Tern","Hydroprogne caspia","L127438","Everglades NP--Flamingo","2025-12-09 13:38",16,25.1416,-80.9255,TRUE,FALSE,FALSE,"S287950633"
-"43","caster1","Caspian Tern","Hydroprogne caspia","L7341266","Robinson Preserve South","2025-12-09 13:30",2,27.5095641,-82.6649941,TRUE,FALSE,FALSE,"S287987357"
-"44","caster1","Caspian Tern","Hydroprogne caspia","L127288","Little Talbot Island SP","2025-12-09 13:02",3,30.460105,-81.4154828,TRUE,FALSE,FALSE,"S287962422"
-"45","caster1","Caspian Tern","Hydroprogne caspia","L4734681","Canaveral National Seashore--Lot #3","2025-12-09 13:00",1,28.6589857,-80.6351089,TRUE,FALSE,FALSE,"S287961223"
-"46","caster1","Caspian Tern","Hydroprogne caspia","L2436474","Everglades NP--overlook from ranger station","2025-12-09 12:46",1,25.1404867,-80.923233,TRUE,FALSE,FALSE,"S287939905"
-"47","caster1","Caspian Tern","Hydroprogne caspia","L4100205","Port Aransas Beach (Access Rd 1 to Horace Caldwell Pier)","2025-12-09 12:30",3,27.8190375,-97.0614195,TRUE,FALSE,FALSE,"S287978681"
-"48","caster1","Caspian Tern","Hydroprogne caspia","L1923258","Canaveral National Seashore--Lot #1","2025-12-09 12:14",1,28.6546154,-80.6318625,TRUE,FALSE,FALSE,"S287943860"
-"49","caster1","Caspian Tern","Hydroprogne caspia","L234146","The Celery Fields","2025-12-09 12:00",1,27.3253186,-82.4336821,TRUE,FALSE,FALSE,"S287979411"
-"50","caster1","Caspian Tern","Hydroprogne caspia","L279620","Lake Okeechobee--Levee Park","2025-12-09 11:08",2,26.7620261,-80.9215622,TRUE,FALSE,FALSE,"S287978094"
-"51","caster1","Caspian Tern","Hydroprogne caspia","L1032547","Fort Morgan--Mobile Point","2025-12-09 10:33",1,30.2253848,-88.0279326,TRUE,FALSE,FALSE,"S287940121"
-"52","caster1","Caspian Tern","Hydroprogne caspia","L127324","Honeymoon Island SP","2025-12-09 10:28",1,28.0706,-82.8314,TRUE,FALSE,FALSE,"S287927397"
-"53","caster1","Caspian Tern","Hydroprogne caspia","L288854","Laguna Atascosa NWR--Bayside Drive","2025-12-09 10:25",1,26.2163251,-97.3425493,TRUE,FALSE,FALSE,"S287960289"
-"54","caster1","Caspian Tern","Hydroprogne caspia","L2736659","Laguna Lake (MRN Co.)","2025-12-09 10:13",1,38.2055438,-122.7523041,TRUE,FALSE,FALSE,"S287969195"
-"55","caster1","Caspian Tern","Hydroprogne caspia","L22602988","Montana de Oro SP--Bluff Trail","2025-12-09 10:06",5,35.2734427,-120.8914733,TRUE,FALSE,TRUE,"S287958517"
-"56","caster1","Caspian Tern","Hydroprogne caspia","L123565","Merritt Island NWR (Please consider using more specific locations)","2025-12-09 10:01",2,28.6628762,-80.7234192,TRUE,FALSE,FALSE,"S287960461"
-"57","caster1","Caspian Tern","Hydroprogne caspia","L1316658","Morro Bay SP--Marina/Boardwalk Trail","2025-12-09 10:00",6,35.3445235,-120.8418006,TRUE,FALSE,FALSE,"S287954073"
-"58","caster1","Caspian Tern","Hydroprogne caspia","L713205","Meaher SP","2025-12-09 09:55",1,30.6655138,-87.9324138,TRUE,FALSE,FALSE,"S287923521"
-"59","caster1","Caspian Tern","Hydroprogne caspia","L4151589","Anzalduas Park","2025-12-09 09:41",3,26.1397757,-98.3290412,TRUE,FALSE,TRUE,"S287930438"
-"60","caster1","Caspian Tern","Hydroprogne caspia","L958707","Upper Santa Ana River--Lincoln Ave. to Glassell St.","2025-12-09 09:24",1,33.8396591,-117.8591609,TRUE,FALSE,FALSE,"S287985734"
-"61","caster1","Caspian Tern","Hydroprogne caspia","L877727","Lake Parker Park","2025-12-09 09:20",1,28.0786541,-81.9464529,TRUE,FALSE,FALSE,"S287924577"
-"62","caster1","Caspian Tern","Hydroprogne caspia","L1403743","Everglades NP--Flamingo Amphitheatre","2025-12-09 09:15",1,25.137089,-80.9324605,TRUE,FALSE,FALSE,"S287916080"
-"63","caster1","Caspian Tern","Hydroprogne caspia","L127340","E.G. Simmons Regional Park","2025-12-09 09:10",1,27.7424,-82.4693,TRUE,FALSE,FALSE,"S287920553"
-"64","caster1","Caspian Tern","Hydroprogne caspia","L587449","Alfred McKethan Park (Pine Island)","2025-12-09 09:04",2,28.5686365,-82.6557577,TRUE,FALSE,FALSE,"S287930562"
-"65","caster1","Caspian Tern","Hydroprogne caspia","L9661274","US-LA-Plaquemines (29.4939,-89.9151)","2025-12-09 08:45",1,29.493855,-89.915098,TRUE,FALSE,TRUE,"S287935355"
-"66","caster1","Caspian Tern","Hydroprogne caspia","L479690","Pt. Reyes--Limantour Beach Path","2025-12-09 08:18",1,38.0268982,-122.8827238,TRUE,FALSE,FALSE,"S287973717"
-"67","caster1","Caspian Tern","Hydroprogne caspia","L55837855","Caloosahatchee River, Cape Coral US-FL 26.55136, -81.92540","2025-12-09 08:17",1,26.551363,-81.925403,TRUE,FALSE,TRUE,"S287903262"
-"68","caster1","Caspian Tern","Hydroprogne caspia","L370905","Crab Park","2025-12-09 08:08",2,40.6420284,-124.3029857,TRUE,FALSE,FALSE,"S287923279"
-"69","caster1","Caspian Tern","Hydroprogne caspia","L129075","Salineño Wildlife Preserve (LTC 080)","2025-12-09 07:25",1,26.5148584,-99.1162062,TRUE,FALSE,FALSE,"S287927800"
-"70","caster1","Caspian Tern","Hydroprogne caspia","L18304897","Everglades NP--Ten Thousand Islands (Monroe Co.)","2025-12-09 07:08",1,25.7962978,-81.2987423,TRUE,FALSE,FALSE,"S287977085"
-"71","caster1","Caspian Tern","Hydroprogne caspia","L1023544","Wellington Environmental Preserve","2025-12-09 07:06",1,26.6293528,-80.3059387,TRUE,FALSE,FALSE,"S287922406"
-"72","caster1","Caspian Tern","Hydroprogne caspia","L1476942","Packery Channel Jetties","2025-12-09 06:56",2,27.6144051,-97.2011572,TRUE,FALSE,FALSE,"S287914215"
-"73","caster1","Caspian Tern","Hydroprogne caspia","L6955274","Sweetwater Nature Preserve, Galveston","2025-12-09 06:38",3,29.2713019,-94.8805797,TRUE,FALSE,FALSE,"S287905626"
-"74","caster1","Caspian Tern","Hydroprogne caspia","L298649","Lake Apopka Wildlife Drive","2025-12-09 06:32",7,28.6691945,-81.5598149,TRUE,FALSE,FALSE,"S287972307"
-"75","caster1","Caspian Tern","Hydroprogne caspia","L251839","Sweet Springs Nature Preserve","2025-12-09 06:28",1,35.3217375,-120.8422726,TRUE,FALSE,FALSE,"S287917013"
-"76","caster1","Caspian Tern","Hydroprogne caspia","L631718","Ventura Harbor--Marina Park","2025-12-08 16:20",1,34.2542014,-119.2683935,TRUE,FALSE,FALSE,"S287866836"
-"77","caster1","Caspian Tern","Hydroprogne caspia","L1396236","Anaheim Coves Park (aka Burris Basin)","2025-12-08 15:57",2,33.8257044,-117.869868,TRUE,FALSE,FALSE,"S287866525"
-"78","caster1","Caspian Tern","Hydroprogne caspia","L55829254","601 El Moro Ave, Los Osos US-CA 35.32005, -120.85182","2025-12-08 15:52",2,35.320052,-120.851822,TRUE,FALSE,TRUE,"S287864258"
-"79","caster1","Caspian Tern","Hydroprogne caspia","L55826806","San Bernard Wildlife Refuge, Brazoria US-TX 28.88251, -95.58157","2025-12-08 14:52",1,28.882512,-95.581567,TRUE,FALSE,TRUE,"S287852359"
-"80","caster1","Caspian Tern","Hydroprogne caspia","L127332","Fort De Soto Park","2025-12-08 14:45",1,27.6327266,-82.718157,TRUE,FALSE,FALSE,"S287858123"
-"81","caster1","Caspian Tern","Hydroprogne caspia","L1131629","Lake Seminole Park","2025-12-08 14:03",2,27.8452331,-82.7763927,TRUE,FALSE,FALSE,"S287850518"
-"82","caster1","Caspian Tern","Hydroprogne caspia","L581830","Belle Glade Marina & Torry Island","2025-12-08 12:36",1,26.7063982,-80.7168961,TRUE,FALSE,FALSE,"S287830341"
-"83","caster1","Caspian Tern","Hydroprogne caspia","L284040","Marathon (ex-Amoco) Settling Ponds, Texas City (UTC 073)","2025-12-08 12:04",1,29.3547009,-94.9236903,TRUE,FALSE,FALSE,"S287830745"
-"84","caster1","Caspian Tern","Hydroprogne caspia","L6505728","Sabine NWR--Hog Island Gully RA","2025-12-08 11:35",1,29.9098218,-93.3836335,TRUE,FALSE,FALSE,"S287825657"
-"85","caster1","Caspian Tern","Hydroprogne caspia","L276368","Packery Channel Park (CTC 064)","2025-12-08 11:35",1,27.6264996,-97.2204369,TRUE,FALSE,FALSE,"S287827487"
-"86","caster1","Caspian Tern","Hydroprogne caspia","L366758","Archbishop Fiorenza Park--W.of Eldridge Pkwy (Eldridge Retention Basin)","2025-12-08 11:13",1,29.7193575,-95.6289482,TRUE,FALSE,FALSE,"S287827868"
-"87","caster1","Caspian Tern","Hydroprogne caspia","L127286","Huguenot Memorial City Park","2025-12-08 11:09",1,30.4112444,-81.4206594,TRUE,FALSE,FALSE,"S287836469"
-"88","caster1","Caspian Tern","Hydroprogne caspia","L577195","Merritt Island NWR--Peacocks Pocket","2025-12-08 10:23",3,28.6081849,-80.7289124,TRUE,FALSE,FALSE,"S287866899"
-"89","caster1","Caspian Tern","Hydroprogne caspia","L498948","Siesta Key Public Beach","2025-12-08 10:13",1,27.2643958,-82.5517845,TRUE,FALSE,FALSE,"S287829916"
-"90","caster1","Caspian Tern","Hydroprogne caspia","L1896322","Jocelyn Nungaray NWR-- Shoveler Pond Loop","2025-12-08 10:12",1,29.6138335,-94.5452351,TRUE,FALSE,FALSE,"S287820910"
-"91","caster1","Caspian Tern","Hydroprogne caspia","L559416","Lake Apopka North Shore--Orange County section (Please consider using more specific locations)","2025-12-08 10:02",13,28.6893446,-81.5995327,TRUE,FALSE,FALSE,"S287817700"
-"92","caster1","Caspian Tern","Hydroprogne caspia","L22577253","Oso Bay—Ocean Drive mud flats just E. of Texas A&M Corpus Christi campus","2025-12-08 09:43",5,27.7101193,-97.3150831,TRUE,FALSE,FALSE,"S287813280"
-"93","caster1","Caspian Tern","Hydroprogne caspia","L917920","Merritt Island NWR--Haulover Canal Area","2025-12-08 09:17",3,28.7374281,-80.7546186,TRUE,FALSE,FALSE,"S287866675"
-"94","caster1","Caspian Tern","Hydroprogne caspia","L449889","Patriot's Point -- nature trail and surrounding areas","2025-12-08 09:15",5,32.7912107,-79.9011505,TRUE,FALSE,FALSE,"S287812197"
-"95","caster1","Caspian Tern","Hydroprogne caspia","L22430616","South Bay boat ramp and Water Plant Road","2025-12-08 09:04",1,26.6828707,-80.7267713,TRUE,FALSE,TRUE,"S287861122"
-"96","caster1","Caspian Tern","Hydroprogne caspia","L266063","Lynchburg Ferry & Crosby-Lynchburg Rd.","2025-12-08 08:54",1,29.761741,-95.0804847,TRUE,FALSE,FALSE,"S287807622"
-"97","caster1","Caspian Tern","Hydroprogne caspia","L301036","San Carlos Bay/Bunche Beach Preserve","2025-12-08 08:50",4,26.476174,-81.9673795,TRUE,FALSE,FALSE,"S287818365"
-"98","caster1","Caspian Tern","Hydroprogne caspia","L4154794","Canaveral National Seashore","2025-12-08 08:38",1,28.6460579,-80.6774851,TRUE,FALSE,FALSE,"S287801587"
-"99","caster1","Caspian Tern","Hydroprogne caspia","L29227681","Orlando Apopka Airport Industrial Area","2025-12-08 08:19",7,28.7067118,-81.5827368,TRUE,FALSE,TRUE,"S287854452"
-"100","caster1","Caspian Tern","Hydroprogne caspia","L429923","Pine Gully Park (UTC 079)","2025-12-08 08:16",1,29.5909701,-94.9947882,TRUE,FALSE,FALSE,"S287810931"
-"101","caster1","Caspian Tern","Hydroprogne caspia","L632896","Lake Belleview","2025-12-08 08:15",1,27.9465497,-82.7934623,TRUE,FALSE,FALSE,"S287807941"
-"102","caster1","Caspian Tern","Hydroprogne caspia","L49267200","Bolsa Chica Ecological Reserve, Huntington Beach US-CA 33.69591, -118.04629","2025-12-08 08:15",5,33.695915,-118.046293,TRUE,FALSE,TRUE,"S287863175"
-"103","caster1","Caspian Tern","Hydroprogne caspia","L55816179","Saint James City","2025-12-08 08:12",1,26.501797,-82.083403,TRUE,FALSE,TRUE,"S287793339"
-"104","caster1","Caspian Tern","Hydroprogne caspia","L894997","Pete's Place,  530 N. Pennsylvania Ave. Lake Alfred, FL","2025-12-08 08:00",1,28.097613,-81.7327452,TRUE,FALSE,TRUE,"S287862843"
-"105","caster1","Caspian Tern","Hydroprogne caspia","L471741","Villa Creek--Estero Bluffs State Park","2025-12-08 07:17",1,35.4599561,-120.9688341,TRUE,FALSE,FALSE,"S287864859"
-"106","caster1","Caspian Tern","Hydroprogne caspia","L8534664","Exploration Green--Phase 3 (N. of El Dorado)","2025-12-08 07:13",3,29.5737916,-95.1311798,TRUE,FALSE,FALSE,"S287795831"
-"107","caster1","Caspian Tern","Hydroprogne caspia","L1043861","Nu'upia Ponds WMA - Marine Corps Base Hawaii","2025-12-08 06:59",1,21.4331362,-157.7493167,TRUE,TRUE,FALSE,"S287830905"
-"108","caster1","Caspian Tern","Hydroprogne caspia","L43383544","16001–16695 Dauphin Island Pkwy, Coden US-AL (30.3495,-88.1219)","2025-12-07 16:00",1,30.349531,-88.121928,TRUE,FALSE,TRUE,"S287990065"
-"109","caster1","Caspian Tern","Hydroprogne caspia","L1657549","Marine Corps Base Hawaii - H-3 Gate Access Path","2025-12-07 15:51",1,21.4279299,-157.7581082,TRUE,TRUE,FALSE,"S287749885"
-"110","caster1","Caspian Tern","Hydroprogne caspia","L1021344","Aransas NWR--Wildlife Tower (Calhoun Co.)","2025-12-07 15:34",2,28.2504014,-96.7894328,TRUE,FALSE,FALSE,"S287728642"
-"111","caster1","Caspian Tern","Hydroprogne caspia","L958620","Upper Santa Ana River--Taft Ave. to Lincoln Ave.","2025-12-07 15:25",5,33.8260771,-117.866478,TRUE,FALSE,FALSE,"S287744748"
-"112","caster1","Caspian Tern","Hydroprogne caspia","L422541","Leonabelle Turnbull Birding Ctr. (CTC 057)","2025-12-07 13:54",2,27.8275297,-97.0789558,TRUE,FALSE,FALSE,"S287716314"
-"113","caster1","Caspian Tern","Hydroprogne caspia","L21741924","Silverleaf/Neal Communities","2025-12-07 13:43",1,27.55357,-82.45398,TRUE,FALSE,FALSE,"S287709140"
-"114","caster1","Caspian Tern","Hydroprogne caspia","L1106225","Circle B Bar Reserve","2025-12-07 13:30",1,27.9959173,-81.8652327,TRUE,FALSE,FALSE,"S287855011"
-"115","caster1","Caspian Tern","Hydroprogne caspia","L4822292","Anaheim Bay--Sunset Aquatic Marina","2025-12-07 12:37",1,33.7279512,-118.0775464,TRUE,FALSE,FALSE,"S287755988"
-"116","caster1","Caspian Tern","Hydroprogne caspia","L790316","Merritt Island NWR (Volusia co.) (Please consider using more specific locations)","2025-12-07 12:36",1,28.7989978,-80.8400631,TRUE,FALSE,FALSE,"S287692383"
-"117","caster1","Caspian Tern","Hydroprogne caspia","L896549","South Padre Is.--Queen Isabella causeway east end","2025-12-07 11:58",8,26.0852396,-97.1698773,TRUE,FALSE,FALSE,"S287696707"
-"118","caster1","Caspian Tern","Hydroprogne caspia","L562768","Redhead Pond WMA (CTC 066)","2025-12-07 11:47",4,27.6396071,-97.2881842,TRUE,FALSE,FALSE,"S287689550"
-"119","caster1","Caspian Tern","Hydroprogne caspia","L1050482","TX48--Shrimp Basin Bridge / Zapata Memorial Boat Ramp/ San Martin Lake outlet","2025-12-07 11:10",8,26.0023329,-97.2999001,TRUE,FALSE,FALSE,"S287782657"
-"120","caster1","Caspian Tern","Hydroprogne caspia","L3575503","North end of Wakefield Road","2025-12-07 10:55",2,29.816891,-93.345351,TRUE,FALSE,FALSE,"S287731399"
-"121","caster1","Caspian Tern","Hydroprogne caspia","L303269","Port Aransas Jetty (CTC 058)","2025-12-07 10:44",1,27.8348271,-97.046015,TRUE,FALSE,FALSE,"S287681811"
-"122","caster1","Caspian Tern","Hydroprogne caspia","L273461","Goose Island SP (CTC 048)","2025-12-07 10:32",1,28.13255,-96.985052,TRUE,FALSE,FALSE,"S287697121"
-"123","caster1","Caspian Tern","Hydroprogne caspia","L128962","Falcon State Park—SE portion (Starr Co.)  (LTC 084)","2025-12-07 10:27",2,26.5836148,-99.1452921,TRUE,FALSE,FALSE,"S287679912"
-"124","caster1","Caspian Tern","Hydroprogne caspia","L588630","Terra Ceia Preserve SP","2025-12-07 10:11",1,27.6011072,-82.5519562,TRUE,FALSE,FALSE,"S287707703"
-"125","caster1","Caspian Tern","Hydroprogne caspia","L286498","Wall Springs Park","2025-12-07 10:05",1,28.10779,-82.77169,TRUE,FALSE,FALSE,"S287673487"
-"126","caster1","Caspian Tern","Hydroprogne caspia","L55789363","11652 Florida 60, Tampa, Florida, US (27.972, -82.608) Causeway Trail","2025-12-07 10:02",2,27.9717498,-82.6076036,TRUE,FALSE,TRUE,"S287665269"
-"127","caster1","Caspian Tern","Hydroprogne caspia","L198798","Shollenberger Park","2025-12-07 09:58",1,38.2262552,-122.5976274,TRUE,TRUE,FALSE,"S287704286"
-"128","caster1","Caspian Tern","Hydroprogne caspia","L2248482","Don Edwards NWR--No Name Trail","2025-12-07 09:53",2,37.5464008,-122.0973837,TRUE,TRUE,FALSE,"S287709406"
-"129","caster1","Caspian Tern","Hydroprogne caspia","L492468","North Point Natural Area--Morro Bay","2025-12-07 09:53",1,35.407079,-120.8717568,TRUE,FALSE,FALSE,"S287732956"
-"130","caster1","Caspian Tern","Hydroprogne caspia","L510858","Courtney Campbell Causeway (Pinellas Co.)","2025-12-07 09:52",1,27.9632485,-82.6800583,TRUE,FALSE,FALSE,"S287708145"
-"131","caster1","Caspian Tern","Hydroprogne caspia","L1096078","Goose Island SP--Big Tree/Lamar Beach rd area","2025-12-07 09:33",3,28.1497681,-96.976254,TRUE,FALSE,FALSE,"S287740891"
-"132","caster1","Caspian Tern","Hydroprogne caspia","L3281732","Sea Breeze Point","2025-12-07 09:24",1,27.5672039,-82.5692832,TRUE,FALSE,FALSE,"S287706002"
-"133","caster1","Caspian Tern","Hydroprogne caspia","L18016249","CCISD Education Village","2025-12-07 08:35",1,29.505789,-95.025691,TRUE,FALSE,TRUE,"S287688302"
-"134","caster1","Caspian Tern","Hydroprogne caspia","L1896421","Jocelyn Nungaray NWR--White-fronted Goose Unit","2025-12-07 08:32",5,29.609066,-94.535253,TRUE,FALSE,FALSE,"S287721097"
-"135","caster1","Caspian Tern","Hydroprogne caspia","L728680","Cove Harbor Bird Sanctuary","2025-12-07 08:26",1,27.9969687,-97.0727921,TRUE,FALSE,FALSE,"S287657997"
-"136","caster1","Caspian Tern","Hydroprogne caspia","L1147536","Kennedy Causeway Wetlands--E. side / Pk Rd 22 Exit","2025-12-07 08:24",10,27.6329348,-97.2344112,TRUE,FALSE,FALSE,"S287653192"
-"137","caster1","Caspian Tern","Hydroprogne caspia","L9845309","1102 Harbor Village Drive, Corpus Christi, Texas, US (27.691, -97.321)","2025-12-07 08:04",1,27.6905893,-97.3206588,TRUE,FALSE,TRUE,"S287650600"
-"138","caster1","Caspian Tern","Hydroprogne caspia","L903856","Ft. Moultrie National Monument","2025-12-07 07:50",1,32.7588311,-79.8567868,TRUE,FALSE,FALSE,"S287739705"
-"139","caster1","Caspian Tern","Hydroprogne caspia","L389616","Merritt Island NWR--Shiloh Marsh Rd. (Volusia Co.)","2025-12-07 07:14",2,28.8277356,-80.8509703,TRUE,FALSE,FALSE,"S287652581"
-"140","caster1","Caspian Tern","Hydroprogne caspia","L3338099","Oso Creek Park, Corpus Christi","2025-12-07 07:04",1,27.641366,-97.3890391,TRUE,FALSE,FALSE,"S287652299"
-"141","caster1","Caspian Tern","Hydroprogne caspia","L9240820","Audubon Birds, 453 Audubon Boulevard, New Orleans, Louisiana, US (29.954, -90.112)","2025-12-07 06:18",1,29.9535216,-90.111656,TRUE,FALSE,TRUE,"S287721752"
-"142","caster1","Caspian Tern","Hydroprogne caspia","L465122","Sonny Bono Salton Sea NWR--Rock Hill Trail","2025-12-07 06:12",1,33.1788315,-115.6226921,TRUE,FALSE,FALSE,"S287748221"
-"143","caster1","Caspian Tern","Hydroprogne caspia","L2121096","San Joaquin Wildlife Sanctuary--Treehill Trail","2025-12-06 16:03",2,33.6672044,-117.838347,TRUE,FALSE,FALSE,"S287587922"
-"144","caster1","Caspian Tern","Hydroprogne caspia","L468473","Newport Pier","2025-12-06 15:38",1,33.6059343,-117.9312801,TRUE,FALSE,FALSE,"S287726649"
-"145","caster1","Caspian Tern","Hydroprogne caspia","L55719134","Howard Frankland Bridge","2025-12-06 15:36",1,27.927852,-82.587542,TRUE,FALSE,TRUE,"S287573751"
-"146","caster1","Caspian Tern","Hydroprogne caspia","L127370","Lake Jackson","2025-12-06 15:25",1,27.4918,-81.4631,TRUE,FALSE,FALSE,"S287563724"
-"147","caster1","Caspian Tern","Hydroprogne caspia","L835809","Folly Beach Fishing Pier","2025-12-06 14:53",1,32.652325,-79.9380764,TRUE,FALSE,FALSE,"S287561602"
-"148","caster1","Caspian Tern","Hydroprogne caspia","L5834334","Pine Island--Heritage River Road Wetlands/ Carlucci Boat Ramp","2025-12-06 14:51",1,30.3945488,-81.4672916,TRUE,FALSE,FALSE,"S287553697"
-"149","caster1","Caspian Tern","Hydroprogne caspia","L55763014","Carlos Bay, Texas, US (28.122, -96.903)","2025-12-06 14:47",1,28.1224015,-96.9030243,TRUE,FALSE,TRUE,"S287556120"
-"150","caster1","Caspian Tern","Hydroprogne caspia","L2373907","Bodega Harbor--Spud Point and marina","2025-12-06 14:42",2,38.3273494,-123.0563378,TRUE,TRUE,FALSE,"S287597329"
-"151","caster1","Caspian Tern","Hydroprogne caspia","L55767518","Port Aransas Beach, Port Aransas US-TX 27.80531, -97.07496","2025-12-06 14:39",45,27.805309,-97.074965,TRUE,FALSE,TRUE,"S287561755"
-"152","caster1","Caspian Tern","Hydroprogne caspia","L376635","Kaufer-Hubert Memorial Park (CTC 092)","2025-12-06 14:35",1,27.3196959,-97.6841211,TRUE,FALSE,FALSE,"S287558371"
-"153","caster1","Caspian Tern","Hydroprogne caspia","L42185561","Backyard Birds","2025-12-06 14:34",1,28.141571,-82.541933,TRUE,FALSE,TRUE,"S287544797"
-"154","caster1","Caspian Tern","Hydroprogne caspia","L247561","Ballona Creek--mouth, jetties, and breakwater","2025-12-06 14:16",4,33.9638739,-118.4563213,TRUE,FALSE,FALSE,"S287656337"
-"155","caster1","Caspian Tern","Hydroprogne caspia","L55764865","King’s Inn","2025-12-06 14:04",1,27.333434,-97.691938,TRUE,FALSE,TRUE,"S287549819"
-"156","caster1","Caspian Tern","Hydroprogne caspia","L806695","Aransas Bay--Rockport/Fulton to Aransas NWR by boat","2025-12-06 13:41",1,28.1347449,-96.912117,TRUE,FALSE,FALSE,"S287579047"
-"157","caster1","Caspian Tern","Hydroprogne caspia","L792451","Fort Fisher--Federal Point/The Rocks","2025-12-06 13:17",2,33.9593705,-77.9415151,TRUE,FALSE,FALSE,"S287781746"
-"158","caster1","Caspian Tern","Hydroprogne caspia","L821447","Alimacani Park and Boat Ramp","2025-12-06 13:16",2,30.4202685,-81.4203,TRUE,FALSE,FALSE,"S287556543"
-"159","caster1","Caspian Tern","Hydroprogne caspia","L129107","Texas City Dike (UTC 074)","2025-12-06 12:43",1,29.3838952,-94.867115,TRUE,FALSE,FALSE,"S287544662"
-"160","caster1","Caspian Tern","Hydroprogne caspia","L775210","St. Joseph's Island--North Jetty (Aransas Co.)","2025-12-06 12:11",3,27.8374443,-97.0411205,TRUE,FALSE,FALSE,"S287590741"
-"161","caster1","Caspian Tern","Hydroprogne caspia","L2338913","Aransas NWR--Big Tree Trail","2025-12-06 12:10",1,28.2525656,-96.7910099,TRUE,FALSE,FALSE,"S287557848"
-"162","caster1","Caspian Tern","Hydroprogne caspia","L165792","Fort Morgan State Historic Site","2025-12-06 11:08",2,30.2294449,-88.0180432,TRUE,FALSE,FALSE,"S287530631"
-"163","caster1","Caspian Tern","Hydroprogne caspia","L298487","McLaughlin Eastshore SP--Berkeley Meadow","2025-12-06 11:06",2,37.8670193,-122.3102331,TRUE,TRUE,FALSE,"S287551823"
-"164","caster1","Caspian Tern","Hydroprogne caspia","L577193","Scottsmoor Landing","2025-12-06 10:20",1,28.7709695,-80.8451271,TRUE,FALSE,FALSE,"S287521425"
-"165","caster1","Caspian Tern","Hydroprogne caspia","L318918","South Padre Is.--Valley Land Fund lots (LTC 036)","2025-12-06 10:17",1,26.0988053,-97.1678612,TRUE,FALSE,FALSE,"S287522223"
-"166","caster1","Caspian Tern","Hydroprogne caspia","L40595667","San Patricio Co.-- Aransas Pass","2025-12-06 10:12",1,27.9085744,-97.1482715,TRUE,FALSE,TRUE,"S287592201"
-"167","caster1","Caspian Tern","Hydroprogne caspia","L266064","San Jacinto Battleground (UTC 041)","2025-12-06 10:03",1,29.7506484,-95.0770891,TRUE,FALSE,FALSE,"S287537558"
-"168","caster1","Caspian Tern","Hydroprogne caspia","L248017","Bolivar Flats Shorebird Sanctuary","2025-12-06 09:57",1,29.3711371,-94.7287083,TRUE,FALSE,FALSE,"S287533052"
-"169","caster1","Caspian Tern","Hydroprogne caspia","L127377","Smyrna Dunes Park","2025-12-06 09:57",1,29.0694,-80.9132,TRUE,FALSE,FALSE,"S287562862"
-"170","caster1","Caspian Tern","Hydroprogne caspia","L2039395","Galveston--Boddeker Rd","2025-12-06 09:32",2,29.3339241,-94.7480679,TRUE,FALSE,FALSE,"S287520902"
-"171","caster1","Caspian Tern","Hydroprogne caspia","L1340108","Bolivar Flats Shorebird Sanctuary--17th Str. Jetty","2025-12-06 09:28",1,29.3681375,-94.7474419,TRUE,FALSE,FALSE,"S287504738"
-"172","caster1","Caspian Tern","Hydroprogne caspia","L373401","Humboldt Bay NWR--Hookton Slough Unit","2025-12-06 08:52",2,40.6773021,-124.2222512,TRUE,FALSE,FALSE,"S287545547"
-"173","caster1","Caspian Tern","Hydroprogne caspia","L515005","Falcon State Park--NW of Butterfly Garden (Zapata Co.) (Cenizo, Cactus, Javelina Loops & Boat Ramp)","2025-12-06 08:52",2,26.5881587,-99.1506837,TRUE,FALSE,FALSE,"S287557244"
-"174","caster1","Caspian Tern","Hydroprogne caspia","L351584","Ventura Settling Ponds","2025-12-06 08:00",2,34.2381312,-119.2615056,TRUE,FALSE,FALSE,"S287605363"
-"175","caster1","Caspian Tern","Hydroprogne caspia","L127331","Boyd Hill Nature Park & Lake Maggiore","2025-12-06 07:58",1,27.7248069,-82.6501069,TRUE,FALSE,FALSE,"S287534603"
-"176","caster1","Caspian Tern","Hydroprogne caspia","L13776948","Huguenot Memorial Park, Jacksonville US-FL 30.41258, -81.41938","2025-12-06 07:54",2,30.412583,-81.419385,TRUE,FALSE,TRUE,"S287496657"
-"177","caster1","Caspian Tern","Hydroprogne caspia","L38395519","6109 SH-361, Corpus Christi US-TX 27.74635, -97.12154","2025-12-06 07:40",8,27.746353,-97.121537,TRUE,FALSE,TRUE,"S287483133"
-"178","caster1","Caspian Tern","Hydroprogne caspia","L793778","Port Aransas Nature Preserve at Charlie's Pasture","2025-12-06 07:40",3,27.8327765,-97.0873833,TRUE,FALSE,FALSE,"S287503688"
-"179","caster1","Caspian Tern","Hydroprogne caspia","L231988","Kathryn Abbey Hanna Park","2025-12-06 07:26",NA,30.3713664,-81.4073128,TRUE,FALSE,FALSE,"S287499194"
-"180","caster1","Caspian Tern","Hydroprogne caspia","L43016517","Lake Apopka Wildlife Drive","2025-12-06 07:15",20,28.698004,-81.609442,TRUE,TRUE,TRUE,"S287500158"
-"181","caster1","Caspian Tern","Hydroprogne caspia","L353768","Pismo Creek mouth","2025-12-06 07:04",1,35.1340046,-120.6392555,TRUE,FALSE,FALSE,"S287760898"
-"182","caster1","Caspian Tern","Hydroprogne caspia","L1428653","Elfin Forest Preserve","2025-12-06 06:58",5,35.3337626,-120.8267537,TRUE,FALSE,FALSE,"S287509095"
-"183","caster1","Caspian Tern","Hydroprogne caspia","L53891475","Rural Mims roads north of Wiley and east of US-1","2025-12-06 06:45",15,28.672707,-80.827992,TRUE,FALSE,TRUE,"S287518281"
-"184","caster1","Caspian Tern","Hydroprogne caspia","L129086","Santa Margarita Ranch (LTC 079) (restricted access - guided groups only)","2025-12-06 06:42",1,26.4856177,-99.0912337,TRUE,FALSE,FALSE,"S287562013"
-"185","caster1","Caspian Tern","Hydroprogne caspia","L8021037","Matthew Turner Park","2025-12-05 17:09",1,38.0622872,-122.1790088,TRUE,FALSE,FALSE,"S287435673"
-"186","caster1","Caspian Tern","Hydroprogne caspia","L1336895","Lamar Beach Rd","2025-12-05 17:05",1,28.1456435,-96.9734859,TRUE,FALSE,FALSE,"S287428350"
-"187","caster1","Caspian Tern","Hydroprogne caspia","L55727153","11 Prawn St, St. Augustine US-FL","2025-12-05 16:43",1,29.889859,-81.323116,TRUE,FALSE,TRUE,"S287422978"
-"188","caster1","Caspian Tern","Hydroprogne caspia","L4133887","Jocelyn Nungaray NWR-- bay water offshore of Frozen Pt. (Galveston Co.)","2025-12-05 16:26",1,29.542712,-94.5256052,TRUE,FALSE,FALSE,"S287426028"
-"189","caster1","Caspian Tern","Hydroprogne caspia","L55797778","Lakeview Park","2025-12-05 16:00",3,29.935125,-95.165775,TRUE,FALSE,TRUE,"S287706212"
-"190","caster1","Caspian Tern","Hydroprogne caspia","L1322301","Conn Brown Harbor, Aransas Pass (Aransas Co. portion)","2025-12-05 16:00",2,27.9077031,-97.1345901,TRUE,FALSE,FALSE,"S287492223"
-"191","caster1","Caspian Tern","Hydroprogne caspia","L22747932","Shepard Park","2025-12-05 15:42",1,28.3579502,-80.6053108,TRUE,FALSE,FALSE,"S287424698"
-"192","caster1","Caspian Tern","Hydroprogne caspia","L1009347","Roosevelt Wetland","2025-12-05 15:28",1,27.8708722,-82.6895428,TRUE,FALSE,FALSE,"S287423914"
-"193","caster1","Caspian Tern","Hydroprogne caspia","L1598413","Lake Apopka Loop Trail--northeast section","2025-12-05 15:23",6,28.6435091,-81.5636897,TRUE,FALSE,FALSE,"S287411213"
-"194","caster1","Caspian Tern","Hydroprogne caspia","L129005","Laguna Atascosa NWR (LTC 024)","2025-12-05 15:11",1,26.2295776,-97.3466982,TRUE,FALSE,FALSE,"S287439545"
-"195","caster1","Caspian Tern","Hydroprogne caspia","L27874163","Anzalduas Park, Mission US-TX 26.14115, -98.32823","2025-12-05 15:05",1,26.141146,-98.328225,TRUE,FALSE,TRUE,"S287421286"
-"196","caster1","Caspian Tern","Hydroprogne caspia","L55733642","470 Executive Center Dr, West Palm Beach US-FL 26.71371, -80.07712","2025-12-05 14:37",1,26.713709,-80.077117,TRUE,FALSE,TRUE,"S287407093"
-"197","caster1","Caspian Tern","Hydroprogne caspia","L127437","Everglades NP--Snake Bight Trail","2025-12-05 14:17",NA,25.1876968,-80.8741825,TRUE,FALSE,FALSE,"S287435228"
-"198","caster1","Caspian Tern","Hydroprogne caspia","L55741430","12 Bass St, Panacea US-FL 29.92737, -84.33435","2025-12-05 13:37",1,29.927367,-84.334346,TRUE,FALSE,TRUE,"S287440400"
-"199","caster1","Caspian Tern","Hydroprogne caspia","L55734978","Home","2025-12-05 13:32",1,28.482967,-82.657244,TRUE,FALSE,TRUE,"S287411385"
-"200","caster1","Caspian Tern","Hydroprogne caspia","L3557104","Cabrillo Beach and pier","2025-12-05 13:21",1,33.7106939,-118.2830677,TRUE,FALSE,FALSE,"S287433040"
-"201","caster1","Caspian Tern","Hydroprogne caspia","L998470","Don Edwards NWR--Ravenswood Salt Pond SF2","2025-12-05 13:12",1,37.4887844,-122.1341944,TRUE,TRUE,FALSE,"S287417401"
-"202","caster1","Caspian Tern","Hydroprogne caspia","L572555","Padre Isl. NS (Kenedy Co.)","2025-12-05 13:03",3,27.2381472,-97.3587799,TRUE,FALSE,FALSE,"S287412549"
-"203","caster1","Caspian Tern","Hydroprogne caspia","L4326200","Padre Isl. NS--Beach S. of Visitor center (Kleberg Co.)","2025-12-05 11:42",5,27.4057949,-97.3054147,TRUE,FALSE,FALSE,"S287412773"
-"204","caster1","Caspian Tern","Hydroprogne caspia","L130769","Mustang Island SP (CTC 060)","2025-12-05 10:39",5,27.6651173,-97.179512,TRUE,FALSE,FALSE,"S287392069"
-"205","caster1","Caspian Tern","Hydroprogne caspia","L4013926","SunWest Park","2025-12-05 10:17",3,28.4049115,-82.6717544,TRUE,FALSE,FALSE,"S287390303"
-"206","caster1","Caspian Tern","Hydroprogne caspia","L109339","IRWD San Joaquin Marsh & Wildlife Sanctuary, Irvine","2025-12-05 10:10",2,33.6637274,-117.8426814,TRUE,FALSE,FALSE,"S287408567"
-"207","caster1","Caspian Tern","Hydroprogne caspia","L484987","Bald Point SP","2025-12-05 10:10",7,29.9377826,-84.3381304,TRUE,FALSE,FALSE,"S287398853"
-"208","caster1","Caspian Tern","Hydroprogne caspia","L590812","Napa-Sonoma Marshes WA--Huichica Creek Unit","2025-12-05 09:35",1,38.2076388,-122.3329353,TRUE,FALSE,FALSE,"S287435379"
-"209","caster1","Caspian Tern","Hydroprogne caspia","L386081","Sunset Cliffs--pullouts","2025-12-05 09:27",1,32.7333025,-117.2565729,TRUE,FALSE,FALSE,"S287410327"
-"210","caster1","Caspian Tern","Hydroprogne caspia","L376251","Merritt Island NWR--Pumphouse Road","2025-12-05 09:05",5,28.6411839,-80.7774067,TRUE,FALSE,FALSE,"S287373831"
-"211","caster1","Caspian Tern","Hydroprogne caspia","L838938","Sunshine Skyway Bridge--South Rest Area","2025-12-05 08:32",1,27.5843721,-82.6137114,TRUE,FALSE,FALSE,"S287371099"
-"212","caster1","Caspian Tern","Hydroprogne caspia","L8724591","Pointe aux Chene WMA--Island Rd.","2025-12-05 08:27",5,29.4169416,-90.4768925,TRUE,FALSE,FALSE,"S287401984"
-"213","caster1","Caspian Tern","Hydroprogne caspia","L39825017","Apopka Birding Park","2025-12-05 07:51",1,28.6746716,-81.5617498,TRUE,FALSE,FALSE,"S287396800"
-"214","caster1","Caspian Tern","Hydroprogne caspia","L1086977","San Joaquin WS - Pond 2","2025-12-05 07:44",2,33.6583885,-117.8463078,TRUE,FALSE,TRUE,"S287392217"
-"215","caster1","Caspian Tern","Hydroprogne caspia","L1086967","San Joaquin WS - Pond 1","2025-12-05 07:41",2,33.6596387,-117.8439474,TRUE,FALSE,TRUE,"S287399218"
-"216","caster1","Caspian Tern","Hydroprogne caspia","L854441","Salton Sea--Lack Rd. at Grubel Rd. seawall","2025-12-05 07:27",1,33.1618044,-115.6486988,TRUE,FALSE,FALSE,"S287445917"
-"217","caster1","Caspian Tern","Hydroprogne caspia","L21501078","Beechnut Retention Pond","2025-12-05 07:25",2,29.6829987,-95.7005811,TRUE,FALSE,TRUE,"S287386081"
-"218","caster1","Caspian Tern","Hydroprogne caspia","L572363","Padre Isl. NS--Bird Island Basin Environs (Including Campground Ponds)","2025-12-05 06:55",4,27.4721051,-97.312088,TRUE,FALSE,FALSE,"S287413341"
-"219","caster1","Caspian Tern","Hydroprogne caspia","L55665276","San Joaquin Marsh and Wildlife Sanctuary Meadow @ Duck Club","2025-12-05 06:47",1,33.660286,-117.841669,TRUE,FALSE,TRUE,"S287374792"
-"220","caster1","Caspian Tern","Hydroprogne caspia","L22638850","On the way out of Cape Canaveral","2025-12-04 16:37",1,28.410456,-80.601583,TRUE,FALSE,TRUE,"S287310576"
-"221","caster1","Caspian Tern","Hydroprogne caspia","L3483362","Port Canaveral -- Disney Cruise Line","2025-12-04 16:06",3,28.4122781,-80.6296219,TRUE,FALSE,FALSE,"S287309825"
-"222","caster1","Caspian Tern","Hydroprogne caspia","L1074959","D River Beach Wayside","2025-12-04 16:03",1,44.9676217,-124.0172768,TRUE,TRUE,FALSE,"S287322275"
-"223","caster1","Caspian Tern","Hydroprogne caspia","L55727222","Honeymoon Island Beach","2025-12-04 14:35",2,28.0565222,-82.8245278,TRUE,FALSE,TRUE,"S287371867"
-"224","caster1","Caspian Tern","Hydroprogne caspia","L259855","Estero Llano Grande SP WBC (LTC 054)","2025-12-04 14:27",2,26.1268335,-97.9578167,TRUE,FALSE,FALSE,"S287312896"
-"225","caster1","Caspian Tern","Hydroprogne caspia","L997003","Coyote Point County Park--yacht club, harbor and freshwater marsh","2025-12-04 14:13",14,37.5886459,-122.3152274,TRUE,TRUE,FALSE,"S287319920"
-"226","caster1","Caspian Tern","Hydroprogne caspia","L3930985","Coquina Beach","2025-12-04 12:41",1,27.4487621,-82.6924074,TRUE,FALSE,FALSE,"S287291519"
-"227","caster1","Caspian Tern","Hydroprogne caspia","L12968236","Bolsa Chica Ecological Reserve-Backside (restricted access)","2025-12-04 11:40",13,33.7025628,-118.035571,TRUE,FALSE,FALSE,"S287298269"
-"228","caster1","Caspian Tern","Hydroprogne caspia","L1276047","Mare Island San Pablo Bay Trail","2025-12-04 11:14",1,38.0991721,-122.2861362,TRUE,FALSE,FALSE,"S287313218"
-"229","caster1","Caspian Tern","Hydroprogne caspia","L7950927","MacDill Air Force Base, Tampa US-FL (27.8614,-82.5022)","2025-12-04 10:00",2,27.861442,-82.502199,TRUE,FALSE,TRUE,"S287270284"
-"230","caster1","Caspian Tern","Hydroprogne caspia","L128874","Jocelyn Nungaray NWR  (Anahuac) (UTC 049)","2025-12-04 09:23",12,29.6148414,-94.5344353,TRUE,FALSE,FALSE,"S287328412"
-"231","caster1","Caspian Tern","Hydroprogne caspia","L1350920","Fulton Harbor","2025-12-04 09:12",1,28.0650078,-97.0338632,TRUE,FALSE,FALSE,"S287327220"
-"232","caster1","Caspian Tern","Hydroprogne caspia","L18323368","990 Scott Drive, Marco Island, Florida, US (25.909, -81.696)","2025-12-04 08:57",1,25.9094057,-81.6957217,TRUE,FALSE,TRUE,"S287263557"
-"233","caster1","Caspian Tern","Hydroprogne caspia","L6114739","Kleberg County Beach N. of National Seashore","2025-12-04 08:48",8,27.5512938,-97.2363746,TRUE,FALSE,FALSE,"S287284689"
-"234","caster1","Caspian Tern","Hydroprogne caspia","L526715","Golden Aster Scrub Nature Preserve","2025-12-04 08:44",2,27.8215045,-82.3535585,TRUE,FALSE,FALSE,"S287267894"
-"235","caster1","Caspian Tern","Hydroprogne caspia","L6855472","Laguna Atascosa NWR--West Lake Trail (north of General Brant Rd.)","2025-12-04 07:46",17,26.197853,-97.4020871,TRUE,FALSE,FALSE,"S287277080"
-"236","caster1","Caspian Tern","Hydroprogne caspia","L2079138","CLC Elementary area","2025-12-04 07:21",2,29.5661039,-95.1215172,TRUE,FALSE,TRUE,"S287260674"
-"237","caster1","Caspian Tern","Hydroprogne caspia","L54406073","Lake Apopka Wildlife Drive","2025-12-04 07:00",5,28.6691835,-81.5628262,TRUE,FALSE,TRUE,"S287313758"
-"238","caster1","Caspian Tern","Hydroprogne caspia","L6004887","Little Saint Simons Island--Myrtle Pond East Tower","2025-12-03 16:11",1,31.2823608,-81.2915041,TRUE,FALSE,FALSE,"S287206789"
-"239","caster1","Caspian Tern","Hydroprogne caspia","L596698","Kiawah Island--Captain Sams Spit","2025-12-03 15:30",2,32.5780634,-80.1460791,TRUE,FALSE,FALSE,"S287214016"
-"240","caster1","Caspian Tern","Hydroprogne caspia","L20233359","Ocean Drive Bridge E. of NAS","2025-12-03 15:20",6,27.7099666,-97.3086087,TRUE,FALSE,FALSE,"S287207941"
-"241","caster1","Caspian Tern","Hydroprogne caspia","L55082736","The Point","2025-12-03 14:24",2,30.675891,-87.929532,TRUE,FALSE,TRUE,"S287211296"
-"242","caster1","Caspian Tern","Hydroprogne caspia","L668394","Five Rivers Delta Resource Center","2025-12-03 14:19",1,30.675021,-87.9310409,TRUE,FALSE,FALSE,"S287204320"
-"243","caster1","Caspian Tern","Hydroprogne caspia","L773790","Pahokee Marina (Lake Okeechobee)","2025-12-03 13:00",40,26.8250665,-80.6676292,TRUE,FALSE,FALSE,"S287225193"
-"244","caster1","Caspian Tern","Hydroprogne caspia","L5776103","South Padre Is.--N. of KOA marsh/beach","2025-12-03 12:40",2,26.0799705,-97.1663207,TRUE,FALSE,FALSE,"S287198361"
-"245","caster1","Caspian Tern","Hydroprogne caspia","L1416055","Oyster Lake (Matagorda Co.)","2025-12-03 12:10",5,28.6135254,-96.2118928,TRUE,FALSE,FALSE,"S287283054"
-"246","caster1","Caspian Tern","Hydroprogne caspia","L3506912","Artist Boat Coastal Heritage Preserve","2025-12-03 12:02",1,29.2192242,-94.9238813,TRUE,FALSE,FALSE,"S287187107"
-"247","caster1","Caspian Tern","Hydroprogne caspia","L2690696","Washington Street Pier","2025-12-03 11:45",1,30.3024402,-89.3277556,TRUE,FALSE,FALSE,"S287186142"
-"248","caster1","Caspian Tern","Hydroprogne caspia","L3269796","Copano Bay Pond","2025-12-03 11:25",1,28.1113697,-97.0271218,TRUE,FALSE,FALSE,"S287189812"
-"249","caster1","Caspian Tern","Hydroprogne caspia","L3181705","Bolsa Chica--full tidal area","2025-12-03 11:00",1,33.6958158,-118.0368304,TRUE,FALSE,FALSE,"S287192901"
-"250","caster1","Caspian Tern","Hydroprogne caspia","L207063","Upper Newport Bay","2025-12-03 10:49",2,33.6432772,-117.8879356,TRUE,FALSE,FALSE,"S287337409"
-"251","caster1","Caspian Tern","Hydroprogne caspia","L2023918","Mustang Island SP--Corpus Christi Bay side","2025-12-03 10:48",15,27.6920404,-97.1850586,TRUE,FALSE,FALSE,"S287180662"
-"252","caster1","Caspian Tern","Hydroprogne caspia","L129103","Galveston--8 Mile Rd./Sportsman Rd (UTC 066)","2025-12-03 10:21",1,29.2572178,-94.8949664,TRUE,FALSE,FALSE,"S287177221"
-"253","caster1","Caspian Tern","Hydroprogne caspia","L597862","Rutherford Beach","2025-12-03 10:15",1,29.7584911,-93.1245375,TRUE,FALSE,FALSE,"S287400653"
-"254","caster1","Caspian Tern","Hydroprogne caspia","L128890","Bentsen-Rio Grande Val. SP WBC (Mission) (LTC 069)","2025-12-03 10:10",2,26.1849709,-98.3793885,TRUE,FALSE,FALSE,"S287190223"
-"255","caster1","Caspian Tern","Hydroprogne caspia","L1053470","Napa-Sonoma Marshes WA--Huichica Creek Unit - Pond 8","2025-12-03 10:10",1,38.1956877,-122.3178291,TRUE,FALSE,FALSE,"S287193207"
-"256","caster1","Caspian Tern","Hydroprogne caspia","L55667279","Isla Del Sol Yacht","2025-12-03 10:08",1,27.71499,-82.710741,TRUE,FALSE,TRUE,"S287168831"
-"257","caster1","Caspian Tern","Hydroprogne caspia","L486513","Pt. Piedras Blancas--elephant seal colony","2025-12-03 09:18",2,35.6627706,-121.2567043,TRUE,FALSE,FALSE,"S287231341"
-"258","caster1","Caspian Tern","Hydroprogne caspia","L361434","Dixieland Park, Harlingen","2025-12-03 09:16",1,26.1659152,-97.7168655,TRUE,FALSE,FALSE,"S287184342"
-"259","caster1","Caspian Tern","Hydroprogne caspia","L22806208","Myakka River State Park, Sarasota US-FL 27.24077, -82.31600","2025-12-03 08:50",2,27.240767,-82.315996,TRUE,FALSE,TRUE,"S287189070"
-"260","caster1","Caspian Tern","Hydroprogne caspia","L7859760","Se7en Wetlands","2025-12-03 08:45",1,27.9142979,-81.9507414,TRUE,FALSE,FALSE,"S287178616"
-"261","caster1","Caspian Tern","Hydroprogne caspia","L249889","Edinburg Scenic Wetlands WBC (LTC 061)","2025-12-03 08:43",8,26.2905822,-98.1351909,TRUE,FALSE,FALSE,"S287204858"
-"262","caster1","Caspian Tern","Hydroprogne caspia","L55687873","Myakka State Park Rd, Sarasota","2025-12-03 08:19",2,27.240212,-82.315511,TRUE,FALSE,TRUE,"S287176612"
-"263","caster1","Caspian Tern","Hydroprogne caspia","L4400453","Perico Preserve","2025-12-03 08:13",2,27.4972082,-82.6779646,TRUE,FALSE,FALSE,"S287227702"
-"264","caster1","Caspian Tern","Hydroprogne caspia","L128974","Galveston Island SP (UTC 070)","2025-12-03 07:55",1,29.1956654,-94.9559069,TRUE,FALSE,FALSE,"S287203538"
-"265","caster1","Caspian Tern","Hydroprogne caspia","L127314","Robert K. Rees Memorial Park","2025-12-03 07:54",5,28.2533,-82.7555,TRUE,FALSE,FALSE,"S287157873"
-"266","caster1","Caspian Tern","Hydroprogne caspia","L653557","Bystre Lake","2025-12-03 07:35",1,28.5383481,-82.3242474,TRUE,FALSE,FALSE,"S287221698"
-"267","caster1","Caspian Tern","Hydroprogne caspia","L619944","Merritt Island NWR--Scrub Trail","2025-12-03 07:15",1,28.694804,-80.7158715,TRUE,FALSE,FALSE,"S287168428"
-"268","caster1","Caspian Tern","Hydroprogne caspia","L367627","Salton Sea--Young Rd. (west end)","2025-12-03 07:09",1,33.1330196,-115.6666589,TRUE,FALSE,FALSE,"S287181630"
-"269","caster1","Caspian Tern","Hydroprogne caspia","L416598","El Jardin Park/Beach","2025-12-03 07:02",1,29.596998,-94.9865994,TRUE,FALSE,FALSE,"S287156680"
-"270","caster1","Caspian Tern","Hydroprogne caspia","L40031330","Vinoy Park","2025-12-03 06:56",1,27.779278,-82.6253958,TRUE,FALSE,FALSE,"S287144700"
-"271","caster1","Caspian Tern","Hydroprogne caspia","L508481","Pelican Island NWR","2025-12-03 06:30",2,27.8035911,-80.426723,TRUE,FALSE,FALSE,"S287154939"
-"272","caster1","Caspian Tern","Hydroprogne caspia","L465673","Fred Stone County Pk (LTC 014)","2025-12-02 16:08",2,26.5696298,-97.4291664,TRUE,FALSE,FALSE,"S287112307"
-"273","caster1","Caspian Tern","Hydroprogne caspia","L23910534","Merritt Island NWR--Weather Tower Rd.","2025-12-02 15:57",4,28.781695,-80.7992774,TRUE,FALSE,FALSE,"S287103208"
-"274","caster1","Caspian Tern","Hydroprogne caspia","L28238237","War Veterans Memorial Park, St. Petersburg, Florida, US (27.801, -82.771)","2025-12-02 15:55",1,27.8010038,-82.7706607,TRUE,FALSE,TRUE,"S287360432"
-"275","caster1","Caspian Tern","Hydroprogne caspia","L465675","Port Mansfield Nature Trail (LTC 015)","2025-12-02 14:14",22,26.5577832,-97.4305344,TRUE,FALSE,FALSE,"S287111961"
-"276","caster1","Caspian Tern","Hydroprogne caspia","L8957295","Rotunda Meadows Prairie","2025-12-02 13:15",2,26.8573451,-82.2223281,TRUE,FALSE,FALSE,"S287103252"
-"277","caster1","Caspian Tern","Hydroprogne caspia","L782048","Martinez Lake","2025-12-02 12:43",2,32.9804442,-114.4705009,TRUE,TRUE,FALSE,"S287083555"
-"278","caster1","Caspian Tern","Hydroprogne caspia","L2487676","Bahia Marsh (MAS)","2025-12-02 12:06",1,38.123625,-122.52067,TRUE,FALSE,FALSE,"S287092077"
-"279","caster1","Caspian Tern","Hydroprogne caspia","L299264","Ventura River Estuary","2025-12-02 10:46",1,34.2756058,-119.3081546,TRUE,FALSE,FALSE,"S287076927"
-"280","caster1","Caspian Tern","Hydroprogne caspia","L682129","Canaveral National Seashore--Lot #4","2025-12-02 10:22",3,28.6609745,-80.6364983,TRUE,FALSE,FALSE,"S287054156"
-"281","caster1","Caspian Tern","Hydroprogne caspia","L3466673","JFK Causeway/Laguna Madre","2025-12-02 09:57",8,27.6310312,-97.2413635,TRUE,FALSE,TRUE,"S287062690"
-"282","caster1","Caspian Tern","Hydroprogne caspia","L770751","Petaluma Marsh WA--Rush Creek Unit (accessed by Binford Rd or Pinheiro Fire Rd)","2025-12-02 09:40",2,38.1225723,-122.5628328,TRUE,TRUE,FALSE,"S287080718"
-"283","caster1","Caspian Tern","Hydroprogne caspia","L3290173","Bolsa Chica channel","2025-12-02 09:36",NA,33.710179,-118.032875,TRUE,FALSE,TRUE,"S287100373"
-"284","caster1","Caspian Tern","Hydroprogne caspia","L55662763","Isla del Sol, Saint Petersburg US-FL (27.7163,-82.7115)","2025-12-02 09:29",1,27.716314,-82.711525,TRUE,FALSE,TRUE,"S287046591"
-"285","caster1","Caspian Tern","Hydroprogne caspia","L582682","Merritt Island NWR--Bio Lab Rd.","2025-12-02 09:16",4,28.6799002,-80.6935447,TRUE,FALSE,FALSE,"S287050300"
-"286","caster1","Caspian Tern","Hydroprogne caspia","L1799967","Lake Cahuilla Veterans Regional Park","2025-12-02 08:44",4,33.6308835,-116.277214,TRUE,FALSE,FALSE,"S287086173"
-"287","caster1","Caspian Tern","Hydroprogne caspia","L1022449","Bolsa Chica--Interpretive Center/Bolsa Bay","2025-12-02 07:56",1,33.7107751,-118.061657,TRUE,FALSE,FALSE,"S287072964"
-"288","caster1","Caspian Tern","Hydroprogne caspia","L919291","Bayfront Park/Village Point (Daphne)","2025-12-02 07:02",2,30.6282373,-87.9195714,TRUE,FALSE,FALSE,"S287045946"
-"289","caster1","Caspian Tern","Hydroprogne caspia","L481023","Los Angeles River--Willow St.","2025-12-02 07:00",3,33.8048977,-118.2059383,TRUE,FALSE,FALSE,"S287112895"
-"290","caster1","Caspian Tern","Hydroprogne caspia","L614549","Santa Ana River mouth","2025-12-02 06:43",1,33.6299142,-117.9575443,TRUE,FALSE,FALSE,"S287107432"
-"291","caster1","Caspian Tern","Hydroprogne caspia","L1110132","County Line Beach (VEN)","2025-12-02 06:41",1,34.0527538,-118.9639429,TRUE,FALSE,FALSE,"S287070290"
-"292","caster1","Caspian Tern","Hydroprogne caspia","L818097","Benicia Pier","2025-12-01 16:12",2,38.0443354,-122.1651793,TRUE,FALSE,FALSE,"S286997907"
-"293","caster1","Caspian Tern","Hydroprogne caspia","L740881","Upper Newport Bay--Back Bay Dr.","2025-12-01 15:12",1,33.6235893,-117.886734,TRUE,FALSE,FALSE,"S286992516"
-"294","caster1","Caspian Tern","Hydroprogne caspia","L37730406","Bayou Sauvage Urban National Wildlife Refuge--Lake Levee west","2025-12-01 15:00",10,30.0752598,-89.9438339,TRUE,FALSE,FALSE,"S287000033"
-"295","caster1","Caspian Tern","Hydroprogne caspia","L24124056","Jesses on da bay","2025-12-01 13:27",2,30.246557,-87.838706,TRUE,FALSE,TRUE,"S286970556"
-"296","caster1","Caspian Tern","Hydroprogne caspia","L229391","Hiller Park","2025-12-01 13:15",1,30.4122617,-88.9521688,TRUE,FALSE,FALSE,"S286984485"
-"297","caster1","Caspian Tern","Hydroprogne caspia","L55664864","White Horse Key US-FL (25.8683,-81.5726)","2025-12-01 12:11",1,25.868289,-81.572632,TRUE,FALSE,TRUE,"S287157130"
-"298","caster1","Caspian Tern","Hydroprogne caspia","L588172","Stuart/Martin Beach Park","2025-12-01 12:09",2,27.2149265,-80.1753688,TRUE,FALSE,FALSE,"S286972085"
-"299","caster1","Caspian Tern","Hydroprogne caspia","L1027913","Stormwater Treatment Area 1E - Public Use Area","2025-12-01 11:45",2,26.6836236,-80.3512144,TRUE,FALSE,FALSE,"S286950584"
-"300","caster1","Caspian Tern","Hydroprogne caspia","L578455","Merritt Island NWR--East Gator Creek","2025-12-01 11:44",3,28.6431628,-80.7664437,TRUE,FALSE,FALSE,"S287162894"
-"301","caster1","Caspian Tern","Hydroprogne caspia","L1313904","Tacky Jack's","2025-12-01 11:38",2,30.2325968,-87.9943943,TRUE,FALSE,TRUE,"S286960642"
-"302","caster1","Caspian Tern","Hydroprogne caspia","L580739","Talbert Marsh, Huntington Beach","2025-12-01 10:36",NA,33.6347738,-117.9614067,TRUE,FALSE,FALSE,"S287009878"
-"303","caster1","Caspian Tern","Hydroprogne caspia","L6334133","Texas State Aquarium area","2025-12-01 10:33",2,27.8135499,-97.3920661,TRUE,FALSE,FALSE,"S286957154"
-"304","caster1","Caspian Tern","Hydroprogne caspia","L579036","John F Kennedy Causeway Wetlands (CTC 065)","2025-12-01 10:25",3,27.6560107,-97.2579288,TRUE,FALSE,FALSE,"S286947191"
-"305","caster1","Caspian Tern","Hydroprogne caspia","L6352166","Bayou Sauvage Urban NWR--Recovery One Rd. (Hwy. 90 to GIWW levee)","2025-12-01 09:56",1,30.0521116,-89.8798298,TRUE,FALSE,FALSE,"S286953987"
-"306","caster1","Caspian Tern","Hydroprogne caspia","L453220","Copano Bay State Fishing Pier (CTC 049)","2025-12-01 09:31",2,28.1138527,-97.0248234,TRUE,FALSE,FALSE,"S286940954"
-"307","caster1","Caspian Tern","Hydroprogne caspia","L6366361","Bayou Sauvage Urban NWR--Maxent Levee, Ridge Trail to I-10","2025-12-01 08:39",2,30.0536638,-89.8808683,TRUE,FALSE,FALSE,"S286939473"
-"308","caster1","Caspian Tern","Hydroprogne caspia","L716147","Aransas Co.--Cavasso Creek/TX35","2025-12-01 07:27",2,28.2186511,-96.9879913,TRUE,FALSE,FALSE,"S287001083"
-"309","caster1","Caspian Tern","Hydroprogne caspia","L51498513","Our House","2025-12-01 07:20",1,27.497642,-82.642357,TRUE,FALSE,TRUE,"S286958882"
-"310","caster1","Caspian Tern","Hydroprogne caspia","L21727424","Lake Blanche Drive/Berry Pick area","2025-12-01 07:09",1,28.202305,-82.6338796,TRUE,FALSE,TRUE,"S286927634"
-"311","caster1","Caspian Tern","Hydroprogne caspia","L29396573","Arthur R. Marshall Loxahatchee National Wildlife Refuge, Loxahatchee US-FL 26.68374, -80.37482","2025-12-01 06:55",1,26.683742,-80.374816,TRUE,FALSE,TRUE,"S286931109"
-"312","caster1","Caspian Tern","Hydroprogne caspia","L2263572","San Joaquin Wildlife Sanctuary--Fledgling Loop Trail","2025-12-01 06:38",1,33.6609892,-117.8437141,TRUE,FALSE,FALSE,"S286942965"
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
+"1","norbob","Northern Bobwhite","Colinus virginianus","L55893879","1453–1499 NE 80th St, Stafford US-KS 38.07095, -98.47782","2025-12-11 17:11",15,38.070954,-98.477822,TRUE,FALSE,TRUE,"S288195112",NA
+"2","norbob","Northern Bobwhite","Colinus virginianus","L55893504","Steward Marsh","2025-12-11 17:01",7,34.8826444,-102.1343511,TRUE,FALSE,TRUE,"S288192951",NA
+"3","norbob","Northern Bobwhite","Colinus virginianus","L5458357","Allen farm","2025-12-11 16:55",2,35.1361667,-77.4674867,TRUE,FALSE,TRUE,"S288186667",NA
+"4","norbob","Northern Bobwhite","Colinus virginianus","L6235318","Robinson/Vanderah Yard","2025-12-11 16:30",4,29.4823054,-82.2639419,TRUE,FALSE,TRUE,"S288185278",NA
+"5","norbob","Northern Bobwhite","Colinus virginianus","L1754721","Marvyn pond","2025-12-11 16:00",1,32.414603,-85.360594,TRUE,FALSE,FALSE,"S288192149",NA
+"6","norbob","Northern Bobwhite","Colinus virginianus","L2527820","La Paloma","2025-12-11 15:25",2,27.864459,-98.424953,TRUE,FALSE,TRUE,"S288186860",NA
+"7","norbob","Northern Bobwhite","Colinus virginianus","L42444136","Wolf Road","2025-12-11 15:16",1,28.492491,-82.448759,TRUE,FALSE,FALSE,"S288183659",NA
+"8","norbob","Northern Bobwhite","Colinus virginianus","L40911776","Falcon Lake State Park -- Bird Blind (Starr Co.)","2025-12-11 14:40",14,26.5845966,-99.1500102,TRUE,FALSE,FALSE,"S288179812",NA
+"9","norbob","Northern Bobwhite","Colinus virginianus","L54157454","Northeast 150th Street, Saint John, Kansas, US (38.173, -98.715)","2025-12-11 13:24",22,38.1733813,-98.7149105,TRUE,FALSE,TRUE,"S288171132",NA
+"10","norbob","Northern Bobwhite","Colinus virginianus","L53153717","Northeast 80th Street, Saint John, Kansas, US (38.072, -98.728)","2025-12-11 10:46",6,38.0720539,-98.7275633,TRUE,FALSE,TRUE,"S288179673",NA
+"11","norbob","Northern Bobwhite","Colinus virginianus","L1515545","Austin Co.--FM3538 / Rexville Rd. area","2025-12-11 10:15",7,29.7398614,-96.1929417,TRUE,FALSE,FALSE,"S288156190",NA
+"12","norbob","Northern Bobwhite","Colinus virginianus","L305948","Milton Reimers Ranch Park","2025-12-11 10:00",2,30.3641504,-98.1237811,TRUE,FALSE,FALSE,"S288178486",NA
+"13","norbob","Northern Bobwhite","Colinus virginianus","L454404","San Angelo SP--South Unit (HOTW 109)","2025-12-11 09:14",9,31.4677918,-100.5033213,TRUE,FALSE,FALSE,"S288164636",NA
+"14","norbob","Northern Bobwhite","Colinus virginianus","L741639","Cameron Company/Port Isabel Reservoir & Holly Beach rd.","2025-12-11 08:52",6,26.120398,-97.3143947,TRUE,FALSE,FALSE,"S288140227",NA
+"15","norbob","Northern Bobwhite","Colinus virginianus","L514799","Palo Alto Battlefield NHP (LTC 031)","2025-12-11 08:01",1,26.0191488,-97.4760676,TRUE,FALSE,FALSE,"S288136251",NA
+"16","norbob","Northern Bobwhite","Colinus virginianus","L7145046","4839-4849 Walls Ford Road, Hartville, Missouri, US (37.225, -92.519)","2025-12-11 08:00",1,37.2247035,-92.519491,TRUE,FALSE,TRUE,"S288131740",NA
+"17","norbob","Northern Bobwhite","Colinus virginianus","L4130917","Cherokee Point Conservation Area","2025-12-11 06:44",20,28.2288321,-81.3664647,TRUE,FALSE,FALSE,"S288128825",NA
+"18","norbob","Northern Bobwhite","Colinus virginianus","L260784","Attwater Prairie Chicken NWR (CTC 004)","2025-12-11 06:16",5,29.671349,-96.2737083,TRUE,FALSE,FALSE,"S288195089",NA
+"19","norbob","Northern Bobwhite","Colinus virginianus","L2214256","Three Lakes WMA--Hwy. 60 unit","2025-12-11 06:11",9,27.8326657,-81.1449337,TRUE,FALSE,FALSE,"S288143332",NA
+"20","norbob","Northern Bobwhite","Colinus virginianus","L7107603","3919 Big Piney Grove Road, Clinton, North Carolina, US (34.9, -78.41)","2025-12-10 15:26",7,34.9004803,-78.4100395,TRUE,FALSE,TRUE,"S288064060",NA
+"21","norbob","Northern Bobwhite","Colinus virginianus","L55870100","1009 FM-378, Lorenzo US-TX 33.69655, -101.52988","2025-12-10 15:24",15,33.696553,-101.529876,TRUE,FALSE,TRUE,"S288071985",NA
+"22","norbob","Northern Bobwhite","Colinus virginianus","L456865","Holden City Lake","2025-12-10 15:04",11,38.7605,-94.0367,TRUE,FALSE,FALSE,"S288077717",NA
+"23","norbob","Northern Bobwhite","Colinus virginianus","L35317885","3845 W 56th St, Kearney US-NE 40.73134, -99.13305","2025-12-10 12:07",12,40.73134,-99.133051,TRUE,FALSE,TRUE,"S288053985",NA
+"24","norbob","Northern Bobwhite","Colinus virginianus","L3438351","Milford Lake--Outlet Park & Nature Center","2025-12-10 11:23",7,39.0764361,-96.8865824,TRUE,FALSE,FALSE,"S288064127",NA
+"25","norbob","Northern Bobwhite","Colinus virginianus","L28637794","Hebert Road, Waller, Texas, US (29.932, -95.916)","2025-12-10 11:18",2,29.9321926,-95.916236,TRUE,FALSE,TRUE,"S288048498",NA
+"26","norbob","Northern Bobwhite","Colinus virginianus","L452855","Stone Oak Park--North","2025-12-10 11:00",2,29.6468989,-98.4688248,TRUE,FALSE,FALSE,"S288066032",NA
+"27","norbob","Northern Bobwhite","Colinus virginianus","L4165363","Duette Preserve--Bear Bay Road","2025-12-10 10:35",7,27.4839366,-82.1703368,TRUE,FALSE,FALSE,"S288086336",NA
+"28","norbob","Northern Bobwhite","Colinus virginianus","L5606455","San Angelo SP--South Unit--Bird Blind area","2025-12-10 10:12",5,31.4669145,-100.5013617,TRUE,FALSE,FALSE,"S288048849",NA
+"29","norbob","Northern Bobwhite","Colinus virginianus","L17807002","8116 U.S. 150, Coal Valley, Illinois, US (41.435, -90.483)","2025-12-10 09:43",2,41.4352917,-90.4826886,TRUE,TRUE,TRUE,"S288034431",NA
+"30","norbob","Northern Bobwhite","Colinus virginianus","L287918","Salineño Wildlife Preserve--DeWind's Yard","2025-12-10 09:27",6,26.514616,-99.1155021,TRUE,FALSE,FALSE,"S288051763",NA
+"31","norbob","Northern Bobwhite","Colinus virginianus","L13926803","Machicomoco State Park","2025-12-10 09:16",2,37.3117991,-76.5393743,TRUE,FALSE,FALSE,"S288065259",NA
+"32","norbob","Northern Bobwhite","Colinus virginianus","L969130","Kingman SFL","2025-12-10 09:12",3,37.6553369,-98.2597446,TRUE,FALSE,FALSE,"S288032179",NA
+"33","norbob","Northern Bobwhite","Colinus virginianus","L53564268","Roma, Texas, US (26.45, -99.098)","2025-12-10 09:07",4,26.4497201,-99.0975734,TRUE,FALSE,TRUE,"S288034845",NA
+"34","norbob","Northern Bobwhite","Colinus virginianus","L836926","Yellow House Draw downstream of Canyon Lake 6","2025-12-10 09:00",28,33.5583656,-101.7945528,TRUE,FALSE,FALSE,"S288052588",NA
+"35","norbob","Northern Bobwhite","Colinus virginianus","L5036672","Friendsville Mine Reclaim","2025-12-10 09:00",15,38.4375629,-87.864172,TRUE,FALSE,TRUE,"S288089158",NA
+"36","norbob","Northern Bobwhite","Colinus virginianus","L1676613","Chito Branch Reserve","2025-12-10 08:49",1,27.8332437,-82.1738291,TRUE,FALSE,FALSE,"S288040692",NA
+"37","norbob","Northern Bobwhite","Colinus virginianus","L9023817","Orchard Pond Park Trail","2025-12-10 08:39",6,30.594309,-84.3016305,TRUE,FALSE,FALSE,"S288093273",NA
+"38","norbob","Northern Bobwhite","Colinus virginianus","L717998","Balcones Canyonlands NWR--Doeskin Ranch","2025-12-10 08:37",2,30.6190048,-98.0728912,TRUE,FALSE,FALSE,"S288053338",NA
+"39","norbob","Northern Bobwhite","Colinus virginianus","L5254868","Green Hill Cemetry","2025-12-10 08:25",19,27.3536448,-98.7504036,TRUE,FALSE,FALSE,"S288034918",NA
+"40","norbob","Northern Bobwhite","Colinus virginianus","L247021","Waller Co_My Farm","2025-12-10 08:23",8,29.9832931,-96.0048522,TRUE,FALSE,TRUE,"S288051604",NA
+"41","norbob","Northern Bobwhite","Colinus virginianus","L515005","Falcon State Park--NW of Butterfly Garden (Zapata Co.) (Cenizo, Cactus, Javelina Loops & Boat Ramp)","2025-12-10 07:49",8,26.5881587,-99.1506837,TRUE,FALSE,FALSE,"S288044742",NA
+"42","norbob","Northern Bobwhite","Colinus virginianus","L375162","King Ranch--Santa Gertrudis Unit (CTC 087)","2025-12-10 07:33",26,27.5183197,-97.9093409,TRUE,FALSE,FALSE,"S288049455",NA
+"43","norbob","Northern Bobwhite","Colinus virginianus","L366418","Katy Prairie--Sharp Rd area (Harris Co.)","2025-12-10 07:17",7,29.9209996,-95.8403063,TRUE,FALSE,FALSE,"S288019836",NA
+"44","norbob","Northern Bobwhite","Colinus virginianus","L2130119","KDWP Headquarters","2025-12-10 06:53",14,37.6316348,-98.6942625,TRUE,FALSE,FALSE,"S288029713",NA
+"45","norbob","Northern Bobwhite","Colinus virginianus","L14959959","Cross H Farms LLC, Clay County","2025-12-10 06:47",2,33.6437665,-98.3000395,TRUE,FALSE,TRUE,"S288015592",NA
+"46","norbob","Northern Bobwhite","Colinus virginianus","L55750974","1779 County Road 124, Floresville US-TX 29.16943, -98.29865","2025-12-10 06:41",4,29.16943,-98.298646,TRUE,FALSE,TRUE,"S288017839",NA
+"47","norbob","Northern Bobwhite","Colinus virginianus","L199461","Lake Woodruff NWR","2025-12-10 06:00",5,29.1092685,-81.3752445,TRUE,FALSE,FALSE,"S288028521",NA
+"48","norbob","Northern Bobwhite","Colinus virginianus","L4242299","Northrock Pasture","2025-12-09 17:24",2,38.073716,-97.2405739,TRUE,FALSE,TRUE,"S287970858",NA
+"49","norbob","Northern Bobwhite","Colinus virginianus","L55852573","26173 Farm to Market 1420, Texas, US (26.39, -97.591)","2025-12-09 16:52",1,26.3898085,-97.5909154,TRUE,FALSE,TRUE,"S287984039",NA
+"50","norbob","Northern Bobwhite","Colinus virginianus","L43315388","2205 County Road 26, Piketon, Ohio, US (39.038, -83.107)","2025-12-09 16:15",1,39.0375796,-83.1068906,TRUE,FALSE,TRUE,"S287959295","X"
+"51","norbob","Northern Bobwhite","Colinus virginianus","L32180624","Home","2025-12-09 15:39",5,40.006157,-105.209167,TRUE,TRUE,TRUE,"S287967690","X"
+"52","norbob","Northern Bobwhite","Colinus virginianus","L128962","Falcon State Park—SE portion (Starr Co.)  (LTC 084)","2025-12-09 15:17",8,26.5836148,-99.1452921,TRUE,FALSE,FALSE,"S287965337",NA
+"53","norbob","Northern Bobwhite","Colinus virginianus","L6934692","farm walk hills","2025-12-09 13:11",6,37.4230201,-87.3867881,TRUE,FALSE,TRUE,"S287964634",NA
+"54","norbob","Northern Bobwhite","Colinus virginianus","L342775","Port Hudson Lake CA","2025-12-09 12:22",4,38.4715139,-91.2681806,TRUE,FALSE,FALSE,"S287947549",NA
+"55","norbob","Northern Bobwhite","Colinus virginianus","L53947910","Charles Ray Nix WMA","2025-12-09 12:08",103,34.4033171,-90.0276459,TRUE,TRUE,TRUE,"S287968182",NA
+"56","norbob","Northern Bobwhite","Colinus virginianus","L132605","Faulk Drive Landing","2025-12-09 11:32",NA,30.5215893,-84.3238068,TRUE,FALSE,FALSE,"S287941732",NA
+"57","norbob","Northern Bobwhite","Colinus virginianus","L55850466","Falcon State Park, Roma US-TX 26.58423, -99.14937","2025-12-09 11:24",2,26.584232,-99.14937,TRUE,FALSE,TRUE,"S287973280",NA
+"58","norbob","Northern Bobwhite","Colinus virginianus","L477641","Boulware Springs Park","2025-12-09 11:20",1,29.6220792,-82.3079824,TRUE,FALSE,FALSE,"S287937371",NA
+"59","norbob","Northern Bobwhite","Colinus virginianus","L55879704","Nixonton SE: 161–261 Muddy Creek Rd, Hertford US-NC (36.1443,-76.2999)","2025-12-09 11:00",4,36.144285,-76.299872,TRUE,FALSE,TRUE,"S288118047",NA
+"60","norbob","Northern Bobwhite","Colinus virginianus","L39423805","Mountain Plover-stakeout","2025-12-09 10:53",6,26.4659225,-98.4500336,TRUE,FALSE,TRUE,"S287962337",NA
+"61","norbob","Northern Bobwhite","Colinus virginianus","L446594","Boiling Springs SP","2025-12-09 10:37",7,36.454206,-99.296236,TRUE,FALSE,FALSE,"S287945162",NA
+"62","norbob","Northern Bobwhite","Colinus virginianus","L37825561","Blush Line Rd, Edinburg US-TX 26.50340, -98.04806","2025-12-09 10:29",4,26.503402,-98.048059,TRUE,FALSE,TRUE,"S287924873",NA
+"63","norbob","Northern Bobwhite","Colinus virginianus","L288854","Laguna Atascosa NWR--Bayside Drive","2025-12-09 10:25",6,26.2163251,-97.3425493,TRUE,FALSE,FALSE,"S287960289",NA
+"64","norbob","Northern Bobwhite","Colinus virginianus","L55841374","E Pretty Prairie Rd, Pretty Prairie US-KS 37.77767, -97.83874","2025-12-09 10:03",3,37.777666,-97.838743,TRUE,FALSE,TRUE,"S287924016",NA
+"65","norbob","Northern Bobwhite","Colinus virginianus","L129075","Salineño Wildlife Preserve (LTC 080)","2025-12-09 09:45",12,26.5148584,-99.1162062,TRUE,FALSE,FALSE,"S287953791",NA
+"66","norbob","Northern Bobwhite","Colinus virginianus","L887534","Stagecoach Lake SRA","2025-12-09 09:23",1,40.6013745,-96.6401039,TRUE,FALSE,FALSE,"S287918029",NA
+"67","norbob","Northern Bobwhite","Colinus virginianus","L880228","Lubbock Lake Landmark","2025-12-09 09:15",34,33.621338,-101.8910909,TRUE,FALSE,FALSE,"S287946290",NA
+"68","norbob","Northern Bobwhite","Colinus virginianus","L1986189","benninghoff acreage 13895 camden Road","2025-12-09 08:37",9,40.1458142,-90.6402969,TRUE,FALSE,TRUE,"S287958865",NA
+"69","norbob","Northern Bobwhite","Colinus virginianus","L5135027","Myakka River SP--Deep Hole Rd.","2025-12-09 08:20",7,27.2401593,-82.3295259,TRUE,FALSE,FALSE,"S287925711",NA
+"70","norbob","Northern Bobwhite","Colinus virginianus","L11172060","Reference Site(29.927, -95.925)","2025-12-09 08:11",1,29.9270901,-95.9246074,TRUE,FALSE,TRUE,"S287921130",NA
+"71","norbob","Northern Bobwhite","Colinus virginianus","L35168488","Tohi Nature Trail, Cherokee Village US-AR 36.26213, -91.55791","2025-12-09 08:08",1,36.262127,-91.557915,TRUE,FALSE,TRUE,"S287913987",NA
+"72","norbob","Northern Bobwhite","Colinus virginianus","L42792108","Fulshear, Texas, US (29.923, -95.925)","2025-12-09 08:05",1,29.9225364,-95.9251658,TRUE,FALSE,TRUE,"S287919133",NA
+"73","norbob","Northern Bobwhite","Colinus virginianus","L840321","Hidalgo Co.--FM2221 'sparrow road'","2025-12-09 07:30",10,26.3127281,-98.4744499,TRUE,FALSE,FALSE,"S287959932",NA
+"74","norbob","Northern Bobwhite","Colinus virginianus","L35992147","Camp Lonesome Conservation Area","2025-12-09 07:21",1,28.0508176,-81.1877787,TRUE,FALSE,FALSE,"S287904994",NA
+"75","norbob","Northern Bobwhite","Colinus virginianus","L55838493","South Olmitos Road, Rio Grande City, Texas, US (26.332, -98.746)","2025-12-09 06:50",2,26.3324979,-98.7455154,TRUE,FALSE,TRUE,"S287907075",NA
+"76","norbob","Northern Bobwhite","Colinus virginianus","L199269","Harris Neck NWR (please consider using more specific locations)","2025-12-09 06:05",7,31.63771,-81.27181,TRUE,FALSE,FALSE,"S287973007",NA
+"77","norbob","Northern Bobwhite","Colinus virginianus","L35487367","Timothy’s Paradise - Suffolk's ""Craney Island"" - Private (2024)","2025-12-08 16:00",8,36.726712,-76.632483,TRUE,FALSE,TRUE,"S287907493",NA
+"78","norbob","Northern Bobwhite","Colinus virginianus","L15149116","German Cemetery & Hollis","2025-12-08 15:09",17,40.1201448,-89.8524246,TRUE,FALSE,TRUE,"S287848891",NA
+"79","norbob","Northern Bobwhite","Colinus virginianus","L55825512","Old Alice Rd, Raymondville US-TX 26.38977, -97.58635","2025-12-08 14:14",7,26.389767,-97.586353,TRUE,FALSE,TRUE,"S287845790",NA
+"80","norbob","Northern Bobwhite","Colinus virginianus","L3110621","Tall Timbers Research Station","2025-12-08 11:38",NA,30.6567786,-84.2087889,TRUE,FALSE,FALSE,"S287830991",NA
+"81","norbob","Northern Bobwhite","Colinus virginianus","L559416","Lake Apopka North Shore--Orange County section (Please consider using more specific locations)","2025-12-08 10:02",1,28.6893446,-81.5995327,TRUE,FALSE,FALSE,"S287817700",NA
+"82","norbob","Northern Bobwhite","Colinus virginianus","L17314377","Hale Ranch - Breeding Pens","2025-12-08 09:27",2,28.9822641,-99.4623025,TRUE,FALSE,TRUE,"S287824915",NA
+"83","norbob","Northern Bobwhite","Colinus virginianus","L22430616","South Bay boat ramp and Water Plant Road","2025-12-08 09:04",1,26.6828707,-80.7267713,TRUE,FALSE,TRUE,"S287861122",NA
+"84","norbob","Northern Bobwhite","Colinus virginianus","L1111719","Fort Kearny SRA--south Platte River bridge","2025-12-08 08:09",1,40.6604977,-98.987385,TRUE,FALSE,FALSE,"S287799522",NA
+"85","norbob","Northern Bobwhite","Colinus virginianus","L2442334","Lake Alan Henry--north central public boat ramp","2025-12-08 07:50",6,33.0486532,-101.0818765,TRUE,FALSE,FALSE,"S287810052",NA
+"86","norbob","Northern Bobwhite","Colinus virginianus","L3319969","Brushline Rd.--FM490 to FM186","2025-12-08 07:45",2,26.4751445,-98.0530643,TRUE,FALSE,FALSE,"S287956642",NA
+"87","norbob","Northern Bobwhite","Colinus virginianus","L8196262","Tyson’s Acres (access by permission only)","2025-12-08 07:00",12,36.718319,-86.80342,TRUE,FALSE,FALSE,"S287802785",NA
+"88","norbob","Northern Bobwhite","Colinus virginianus","L487069","La Sal Vieja--Teniente Tract (LTC007)","2025-12-07 17:31",1,26.5174313,-97.9500675,TRUE,FALSE,FALSE,"S287738809",NA
+"89","norbob","Northern Bobwhite","Colinus virginianus","L9718472","Hale Ranch","2025-12-07 14:22",30,29.0163513,-99.4462846,TRUE,FALSE,TRUE,"S287714471",NA
+"90","norbob","Northern Bobwhite","Colinus virginianus","L38483542","Field area near Ashe Lake","2025-12-07 13:02",10,31.021238,-89.170188,TRUE,FALSE,TRUE,"S287707806",NA
+"91","norbob","Northern Bobwhite","Colinus virginianus","L4033568","Lake Meredith--Cedar Canyon","2025-12-07 11:34",1,35.6955389,-101.5714145,TRUE,FALSE,FALSE,"S287692978",NA
+"92","norbob","Northern Bobwhite","Colinus virginianus","L51781190","Blazing Star Sanctuary","2025-12-07 11:14",4,29.8885786,-95.9239054,TRUE,FALSE,FALSE,"S287751781",NA
+"93","norbob","Northern Bobwhite","Colinus virginianus","L55794229","SW 45th Ave, Amarillo US-TX (35.1612,-101.9426)","2025-12-07 11:11",1,35.161239,-101.942561,TRUE,FALSE,TRUE,"S287689670",NA
+"94","norbob","Northern Bobwhite","Colinus virginianus","L3830415","Falcon State Park--Butterfly Garden (Starr Co.)","2025-12-07 11:00",5,26.5844785,-99.1493234,TRUE,FALSE,FALSE,"S287692495",NA
+"95","norbob","Northern Bobwhite","Colinus virginianus","L5293323","Attwater Prairie-Chicken NWR--Horseshoe Lake Trail","2025-12-07 11:00",12,29.673529,-96.269537,TRUE,FALSE,FALSE,"S287735243",NA
+"96","norbob","Northern Bobwhite","Colinus virginianus","L5076564","Duck Pond Quarter","2025-12-07 10:55",2,37.8229041,-95.2256083,TRUE,FALSE,TRUE,"S287744145",NA
+"97","norbob","Northern Bobwhite","Colinus virginianus","L880222","Kanopolis Lake","2025-12-07 10:53",7,38.61761,-97.9877899,TRUE,FALSE,FALSE,"S287689543",NA
+"98","norbob","Northern Bobwhite","Colinus virginianus","L5377366","Lake Meredith--Bugbee Canyon","2025-12-07 10:43",1,35.7254987,-101.5917349,TRUE,FALSE,FALSE,"S287690328",NA
+"99","norbob","Northern Bobwhite","Colinus virginianus","L129005","Laguna Atascosa NWR (LTC 024)","2025-12-07 10:01",6,26.2295776,-97.3466982,TRUE,FALSE,FALSE,"S287706584",NA
+"100","norbob","Northern Bobwhite","Colinus virginianus","L5110414","La Parra Baffin Bay Landing","2025-12-07 09:10",6,27.2619543,-97.7256632,TRUE,FALSE,TRUE,"S287664370",NA
+"101","norbob","Northern Bobwhite","Colinus virginianus","L261960","White River Lake (PHP 023)","2025-12-07 08:25",1,33.4737991,-101.086116,TRUE,FALSE,FALSE,"S287663394",NA
+"102","norbob","Northern Bobwhite","Colinus virginianus","L2367181","Alligator River NWR--Milltail Rd.","2025-12-07 08:23",9,35.8512134,-75.8578491,TRUE,FALSE,FALSE,"S287686455",NA
+"103","norbob","Northern Bobwhite","Colinus virginianus","L55742333","Powell Ranch","2025-12-07 08:00",10,26.890207,-97.937659,TRUE,FALSE,TRUE,"S287757280",NA
+"104","norbob","Northern Bobwhite","Colinus virginianus","L8631104","Prairie Crossroads (private)","2025-12-07 07:55",8,36.3923748,-96.1448765,TRUE,FALSE,TRUE,"S287740083",NA
+"105","norbob","Northern Bobwhite","Colinus virginianus","L189480","Alligator River NWR","2025-12-07 07:47",9,35.864075,-75.86201,TRUE,FALSE,FALSE,"S287683911",NA
+"106","norbob","Northern Bobwhite","Colinus virginianus","L1052901","Prairie Ridge State Natural Area (Marion Co.)","2025-12-07 07:38",13,38.726193,-88.8236468,TRUE,FALSE,FALSE,"S287774737",NA
+"107","norbob","Northern Bobwhite","Colinus virginianus","L38602364","Covered S Ranch","2025-12-07 07:32",20,32.930006,-101.058185,TRUE,FALSE,TRUE,"S287656574",NA
+"108","norbob","Northern Bobwhite","Colinus virginianus","L55787045","Falcon State Park, Roma US-TX 26.57713, -99.15034","2025-12-07 07:20",2,26.57713,-99.150339,TRUE,FALSE,TRUE,"S287652204",NA
+"109","norbob","Northern Bobwhite","Colinus virginianus","L273251","Long Branch SP and Lake","2025-12-07 07:15",13,39.7563593,-92.5144121,TRUE,FALSE,FALSE,"S287691126",NA
+"110","norbob","Northern Bobwhite","Colinus virginianus","L2921335","Alva Scrub #195","2025-12-07 07:01",1,26.692593,-81.598107,TRUE,FALSE,FALSE,"S287664245",NA
+"111","norbob","Northern Bobwhite","Colinus virginianus","L342700","Columbia Bottom CA","2025-12-07 06:28",1,38.8161056,-90.1332583,TRUE,FALSE,FALSE,"S287670120",NA
+"112","norbob","Northern Bobwhite","Colinus virginianus","L4199420","La Parra Employee housing pond","2025-12-07 06:25",7,27.221475,-97.689017,TRUE,FALSE,TRUE,"S287638602",NA
+"113","norbob","Northern Bobwhite","Colinus virginianus","L55770446","8231 Beach Road, Chincoteague, Virginia, US (37.914, -75.339) Wildlife Loop","2025-12-06 17:51",1,37.914251,-75.3390298,TRUE,FALSE,TRUE,"S287573992",NA
+"114","norbob","Northern Bobwhite","Colinus virginianus","L960976","Shelton Memorial CA","2025-12-06 17:02",8,37.4587,-93.9799,TRUE,FALSE,FALSE,"S287577865",NA
+"115","norbob","Northern Bobwhite","Colinus virginianus","L55487439","1871 Raymond Road, Sarasota, Florida, US (27.318, -82.437)","2025-12-06 16:59",1,27.3182591,-82.436978,TRUE,FALSE,TRUE,"S287574361",NA
+"116","norbob","Northern Bobwhite","Colinus virginianus","L3191846","Silver Creek","2025-12-06 16:52",12,28.27446,-99.24677,TRUE,FALSE,TRUE,"S287582448",NA
+"117","norbob","Northern Bobwhite","Colinus virginianus","L35997132","Deer Run Farms","2025-12-06 16:49",12,40.772267,-72.9188938,TRUE,TRUE,TRUE,"S287668623",NA
+"118","norbob","Northern Bobwhite","Colinus virginianus","L55717225","4591 198th St, Dorrance US-KS 38.92851, -98.60740","2025-12-06 16:47",1,38.928512,-98.607404,TRUE,FALSE,TRUE,"S287573606",NA
+"119","norbob","Northern Bobwhite","Colinus virginianus","L55769512","Pawnee Drive, Dighton, Kansas, US (38.659, -100.377)","2025-12-06 16:19",4,38.6588064,-100.3766976,TRUE,FALSE,TRUE,"S287570107",NA
+"120","norbob","Northern Bobwhite","Colinus virginianus","L38586723","4496 North 1225 West, North Judson, Indiana, US (41.121, -86.839)","2025-12-06 16:16",8,41.1213722,-86.8387228,TRUE,FALSE,TRUE,"S287560542",NA
+"121","norbob","Northern Bobwhite","Colinus virginianus","L582123","Southern Glades Trail (C111 Canal outside ENP)","2025-12-06 16:08",2,25.4034735,-80.5586135,TRUE,FALSE,FALSE,"S287597826",NA
+"122","norbob","Northern Bobwhite","Colinus virginianus","L660064","Chincoteague NWR--Wildlife Loop","2025-12-06 15:16",4,37.9045392,-75.3517216,TRUE,FALSE,FALSE,"S287723178",NA
+"123","norbob","Northern Bobwhite","Colinus virginianus","L11314904","353 Old Country Road, Eastport, New York, US (40.831, -72.734)","2025-12-06 14:23",1,40.8306819,-72.734171,TRUE,TRUE,TRUE,"S287552486",NA
+"124","norbob","Northern Bobwhite","Colinus virginianus","L269357","Joe Overstreet Rd. and Landing","2025-12-06 14:23",10,27.9426789,-81.2050366,TRUE,FALSE,FALSE,"S287593007",NA
+"125","norbob","Northern Bobwhite","Colinus virginianus","L7329728","802 West 8th Street, Ellsworth, Kansas, US (38.732, -98.239)","2025-12-06 14:21",3,38.7322165,-98.2392857,TRUE,FALSE,TRUE,"S287559504",NA
+"126","norbob","Northern Bobwhite","Colinus virginianus","L2815441","Ellsworth (where the Frisco Bridge was)","2025-12-06 13:48",3,38.7321049,-98.2405615,TRUE,FALSE,TRUE,"S287564632",NA
+"127","norbob","Northern Bobwhite","Colinus virginianus","L55767145","15200–15320 Jurgens Ave, Petersburg US-IL (40.0000,-89.9023)","2025-12-06 13:31",13,40.000001,-89.902251,TRUE,FALSE,TRUE,"S287559782",NA
+"128","norbob","Northern Bobwhite","Colinus virginianus","L38419055","CR2240 & CR2250 pastures","2025-12-06 13:09",6,27.354919,-97.742685,TRUE,FALSE,FALSE,"S287545736",NA
+"129","norbob","Northern Bobwhite","Colinus virginianus","L55767005","Johnson Ave, Athens US-IL 39.98981, -89.72490","2025-12-06 12:41",4,39.989806,-89.724905,TRUE,FALSE,TRUE,"S287559178",NA
+"130","norbob","Northern Bobwhite","Colinus virginianus","L55774461","#TX, Chapeno Rd","2025-12-06 12:38",4,26.5403233,-99.1514735,TRUE,FALSE,TRUE,"S287592035",NA
+"131","norbob","Northern Bobwhite","Colinus virginianus","L27568280","Elm Island Rd--Rowe to Lowell Road","2025-12-06 11:54",11,40.669637,-98.8663502,TRUE,FALSE,FALSE,"S287529194",NA
+"132","norbob","Northern Bobwhite","Colinus virginianus","L55771966","4874–4920 County Road 172, Cat Spring US-TX 29.66402, -96.32800","2025-12-06 11:21",8,29.664024,-96.328,TRUE,FALSE,TRUE,"S287580791",NA
+"133","norbob","Northern Bobwhite","Colinus virginianus","L54587901","Woodford County Park--Cross Country Course","2025-12-06 10:34",7,38.0500203,-84.7684841,TRUE,FALSE,TRUE,"S287599999",NA
+"134","norbob","Northern Bobwhite","Colinus virginianus","L1915066","Goose Pond FWA--Field D","2025-12-06 10:28",6,38.9698447,-87.2058141,TRUE,FALSE,FALSE,"S287506142",NA
+"135","norbob","Northern Bobwhite","Colinus virginianus","L129085","Santa Ana NWR (LTC 059)","2025-12-06 09:45",2,26.0813003,-98.1351399,TRUE,FALSE,FALSE,"S287586659",NA
+"136","norbob","Northern Bobwhite","Colinus virginianus","L13490407","Choke Canyon SP--Birding Blind","2025-12-06 09:38",6,28.4886513,-98.3411523,TRUE,FALSE,FALSE,"S287507761",NA
+"137","norbob","Northern Bobwhite","Colinus virginianus","L55788108","23998-23290 Jj Road, Fowler, Kansas, US (37.49, -100.243)","2025-12-06 09:37",2,37.4897186,-100.2427193,TRUE,FALSE,TRUE,"S287658670",NA
+"138","norbob","Northern Bobwhite","Colinus virginianus","L233317","Lyonia Preserve","2025-12-06 09:26",2,28.9238,-81.2266,TRUE,FALSE,FALSE,"S287518892",NA
+"139","norbob","Northern Bobwhite","Colinus virginianus","L16580147","4689 Kurtz Rd, Sealy US-TX 29.79809, -96.13913","2025-12-06 09:24",10,29.79809,-96.13913,TRUE,FALSE,TRUE,"S287530109",NA
+"140","norbob","Northern Bobwhite","Colinus virginianus","L5430069","Crosby Co.--FM2591 Camp Rio Blanco / White R. crossing","2025-12-06 09:14",1,33.678972,-101.1704063,TRUE,FALSE,FALSE,"S287506829",NA
+"141","norbob","Northern Bobwhite","Colinus virginianus","L2125666","King Ranch Visitor Center","2025-12-06 09:11",30,27.5199373,-97.8960156,TRUE,FALSE,FALSE,"S287556571",NA
+"142","norbob","Northern Bobwhite","Colinus virginianus","L55752128","9300 CR-234, Micanopy US-FL (29.5648,-82.2707)","2025-12-06 08:43",1,29.56483,-82.270729,TRUE,FALSE,TRUE,"S287488908",NA
+"143","norbob","Northern Bobwhite","Colinus virginianus","L28494561","Choke Canyon SP (Calliham Unit)--Rec Center area","2025-12-06 08:35",3,28.4800631,-98.348663,TRUE,FALSE,FALSE,"S287503207",NA
+"144","norbob","Northern Bobwhite","Colinus virginianus","L55750634","23069, Hanover US-VA 37.81967, -77.33580","2025-12-06 08:29",1,37.819668,-77.335799,TRUE,FALSE,TRUE,"S287480749",NA
+"145","norbob","Northern Bobwhite","Colinus virginianus","L2992283","Yucca Rd. & 110 Rd. Playa Lakes","2025-12-06 08:06",1,37.4880035,-100.0420189,TRUE,FALSE,FALSE,"S287489104",NA
+"146","norbob","Northern Bobwhite","Colinus virginianus","L820699","Scott SP","2025-12-06 07:58",20,38.6897305,-100.9233069,TRUE,FALSE,FALSE,"S287544764",NA
+"147","norbob","Northern Bobwhite","Colinus virginianus","L55772726","2205 SH-141, Kingsville US-TX 27.52248, -97.89671","2025-12-06 07:30",7,27.522478,-97.896714,TRUE,FALSE,TRUE,"S287584194",NA
+"148","norbob","Northern Bobwhite","Colinus virginianus","L127396","Babcock-Webb WMA","2025-12-06 07:00",2,26.8582653,-81.9401121,TRUE,FALSE,FALSE,"S287506689",NA
+"149","norbob","Northern Bobwhite","Colinus virginianus","L1085299","Three Lakes WMA--Prairie Lakes Unit","2025-12-06 06:57",9,27.9123525,-81.1302567,TRUE,FALSE,FALSE,"S287737865",NA
+"150","norbob","Northern Bobwhite","Colinus virginianus","L18349737","1779 County Road 124, Floresville US-TX 29.16944, -98.29866","2025-12-06 06:46",3,29.169444,-98.298662,TRUE,FALSE,TRUE,"S287480293",NA
+"151","norbob","Northern Bobwhite","Colinus virginianus","L129086","Santa Margarita Ranch (LTC 079) (restricted access - guided groups only)","2025-12-06 06:42",3,26.4856177,-99.0912337,TRUE,FALSE,FALSE,"S287562013",NA
+"152","norbob","Northern Bobwhite","Colinus virginianus","L6209391","IL Calhoun Co 2","2025-12-06 06:15",15,39.3255106,-90.7452421,TRUE,FALSE,TRUE,"S288038320",NA
+"153","norbob","Northern Bobwhite","Colinus virginianus","L53258607","mells heating & air.","2025-12-06 05:30",1,35.3691928,-81.6603363,TRUE,FALSE,TRUE,"S288072180",NA
+"154","norbob","Northern Bobwhite","Colinus virginianus","L1597260","Wekiwa Springs SP--Sand Lake Parking","2025-12-05 17:33",1,28.7190353,-81.4740985,TRUE,FALSE,FALSE,"S287426781",NA
+"155","norbob","Northern Bobwhite","Colinus virginianus","L623357","Paynes Prairie Preserve SP--La Chua Trail","2025-12-05 16:52",2,29.6068756,-82.3031116,TRUE,FALSE,FALSE,"S287445039",NA
+"156","norbob","Northern Bobwhite","Colinus virginianus","L55740647","Hwy 68","2025-12-05 16:49",1,38.0844268,-91.677634,TRUE,FALSE,TRUE,"S287437363",NA
+"157","norbob","Northern Bobwhite","Colinus virginianus","L342553","Little Prairie CA","2025-12-05 16:45",15,37.9979444,-91.6917333,TRUE,FALSE,FALSE,"S287428230",NA
+"158","norbob","Northern Bobwhite","Colinus virginianus","L38536842","Valencia Walk at Riverland","2025-12-05 14:55",8,27.236569,-80.438943,TRUE,FALSE,TRUE,"S287408028",NA
+"159","norbob","Northern Bobwhite","Colinus virginianus","L55734622","Falcon State Park, Roma US-TX 26.58063, -99.13859","2025-12-05 14:17",2,26.580627,-99.138587,TRUE,FALSE,TRUE,"S287409765",NA
+"160","norbob","Northern Bobwhite","Colinus virginianus","L2703068","Anthony Cabin","2025-12-05 13:11",5,37.1335835,-98.1852007,TRUE,FALSE,TRUE,"S287434765",NA
+"161","norbob","Northern Bobwhite","Colinus virginianus","L29223550","Reeves Road WRP, Camden","2025-12-05 12:03",7,39.6125293,-84.7032432,TRUE,TRUE,TRUE,"S287395935",NA
+"162","norbob","Northern Bobwhite","Colinus virginianus","L30697769","19042 Elston Way, Estero US-FL 26.46307, -81.67358","2025-12-05 11:54",1,26.463066,-81.673575,TRUE,FALSE,TRUE,"S287433001",NA
+"163","norbob","Northern Bobwhite","Colinus virginianus","L55739348","2500–2598 320 St, Mount Ayr US-IA 40.58097, -94.16838","2025-12-05 11:53",12,40.580972,-94.168378,TRUE,FALSE,TRUE,"S287431487",NA
+"164","norbob","Northern Bobwhite","Colinus virginianus","L3732373","Fountain Grove CA (Linn Co.)","2025-12-05 10:55",15,39.7220872,-93.34126,TRUE,FALSE,FALSE,"S287397099",NA
+"165","norbob","Northern Bobwhite","Colinus virginianus","L265050","Clarence Cannon NWR","2025-12-05 10:43",2,39.2630138,-90.7878129,TRUE,FALSE,FALSE,"S287401966",NA
+"166","norbob","Northern Bobwhite","Colinus virginianus","L55729366","7910–8138 CR-417, Live Oak US-FL 30.30581, -82.90348","2025-12-05 10:40",1,30.305809,-82.903483,TRUE,FALSE,TRUE,"S287383401",NA
+"167","norbob","Northern Bobwhite","Colinus virginianus","L17034751","Pescadito Ranch General Area (private)","2025-12-05 09:28",5,27.5228689,-99.2624988,TRUE,FALSE,TRUE,"S287390056",NA
+"168","norbob","Northern Bobwhite","Colinus virginianus","L268210","Lubbock City Farm","2025-12-05 09:25",3,33.5483281,-101.756001,TRUE,FALSE,FALSE,"S287924223",NA
+"169","norbob","Northern Bobwhite","Colinus virginianus","L1403819","Southeast Park, Canyon","2025-12-05 08:49",2,34.9680865,-101.9088732,TRUE,FALSE,FALSE,"S287414932",NA
+"170","norbob","Northern Bobwhite","Colinus virginianus","L1255081","Tern Bar Slough WDA","2025-12-05 08:45",16,38.3244204,-87.7546692,TRUE,FALSE,FALSE,"S287383185",NA
+"171","norbob","Northern Bobwhite","Colinus virginianus","L345470","Gainesville-Hawthorne Trail--North","2025-12-05 08:00",1,29.6287187,-82.3112231,TRUE,FALSE,FALSE,"S287364388",NA
+"172","norbob","Northern Bobwhite","Colinus virginianus","L12508244","Wheeler Ranch (restricted access)","2025-12-05 07:51",19,33.4842924,-101.4675726,TRUE,FALSE,TRUE,"S287390483",NA
+"173","norbob","Northern Bobwhite","Colinus virginianus","L21633230","8854 Brown Rd, Madisonville US-KY (37.4236,-87.3852)","2025-12-05 07:05",1,37.42361,-87.385202,TRUE,FALSE,TRUE,"S287972762",NA
+"174","norbob","Northern Bobwhite","Colinus virginianus","L55725918","33852, Lake Placid US-FL 27.20722, -81.26975","2025-12-05 07:05",6,27.207215,-81.269753,TRUE,FALSE,TRUE,"S287363404",NA
+"175","norbob","Northern Bobwhite","Colinus virginianus","L55726743","Linda Dee Ranch","2025-12-05 07:01",8,27.207156,-81.269618,TRUE,FALSE,TRUE,"S287368452",NA
+"176","norbob","Northern Bobwhite","Colinus virginianus","L3188498","L31W Canal","2025-12-05 06:49",1,25.3978115,-80.5725288,TRUE,FALSE,FALSE,"S287421463",NA
+"177","norbob","Northern Bobwhite","Colinus virginianus","L16552356","Yuhasz Property","2025-12-05 06:44",3,30.796148,-87.410314,TRUE,FALSE,TRUE,"S287363705",NA
+"178","norbob","Northern Bobwhite","Colinus virginianus","L28719249","Falcon State Park (LTC 084)","2025-12-04 14:38",8,26.5651533,-99.1277933,TRUE,FALSE,TRUE,"S287379896",NA
+"179","norbob","Northern Bobwhite","Colinus virginianus","L55723784","Falcon state park","2025-12-04 14:30",12,26.5827104,-99.144799,TRUE,FALSE,TRUE,"S287352738",NA
+"180","norbob","Northern Bobwhite","Colinus virginianus","L42642140","Tuttle Creek Cove Park","2025-12-04 14:15",1,39.2804941,-96.6321244,TRUE,FALSE,TRUE,"S287323474",NA
+"181","norbob","Northern Bobwhite","Colinus virginianus","L12824383","1321 North 1625 Street, Brownstown, Illinois, US (38.929, -88.954)","2025-12-04 12:20",7,38.92874,-88.953925,TRUE,FALSE,TRUE,"S287291457",NA
+"182","norbob","Northern Bobwhite","Colinus virginianus","L2528006","People's Pathway (Co. Rd. 300E)","2025-12-04 10:37",7,39.6578974,-86.7941111,TRUE,FALSE,FALSE,"S287394670",NA
+"183","norbob","Northern Bobwhite","Colinus virginianus","L24633648","Emerson Farm HNO","2025-12-04 10:34",15,37.262132,-91.927111,TRUE,FALSE,TRUE,"S287837632",NA
+"184","norbob","Northern Bobwhite","Colinus virginianus","L55709393","413–485 Salineno Rd, Roma US-TX 26.51485, -99.11564","2025-12-04 09:02",8,26.51485,-99.115639,TRUE,FALSE,TRUE,"S287284781",NA
+"185","norbob","Northern Bobwhite","Colinus virginianus","L55692762","67464, Marquette US-KS 38.60748, -97.87383","2025-12-04 08:18",17,38.607476,-97.873827,TRUE,FALSE,TRUE,"S287279812",NA
+"186","norbob","Northern Bobwhite","Colinus virginianus","L18892949","Taylors Island Family Campground Taylors Island US-MD 38.47502, -76.32690","2025-12-04 07:59",1,38.475015,-76.326902,TRUE,FALSE,TRUE,"S287263780",NA
+"187","norbob","Northern Bobwhite","Colinus virginianus","L55708942","Babcock Webb Wildlife Management Area Trail, Punta Gorda US-FL 26.85816, -81.93625","2025-12-04 07:53",1,26.858164,-81.936248,TRUE,FALSE,TRUE,"S287282679",NA
+"188","norbob","Northern Bobwhite","Colinus virginianus","L2691977","Chinsegut Wildlife and Environmental Area--Big Pine Tract","2025-12-04 07:31",1,28.601403,-82.3763895,TRUE,FALSE,FALSE,"S287270503",NA
+"189","norbob","Northern Bobwhite","Colinus virginianus","L816901","Kissimmee Prairie Preserve SP--Military Trail","2025-12-04 07:29",4,27.5816334,-81.032753,TRUE,FALSE,FALSE,"S287327801",NA
+"190","norbob","Northern Bobwhite","Colinus virginianus","L26518208","Three Lakes WMA - Office/Residence","2025-12-04 07:26",1,27.9104512,-81.126877,TRUE,FALSE,TRUE,"S287315835",NA
+"191","norbob","Northern Bobwhite","Colinus virginianus","L1439093","Hal Scott Regional Preserve and Park","2025-12-04 06:56",1,28.486186,-81.1079327,TRUE,FALSE,FALSE,"S287266201",NA
+"192","norbob","Northern Bobwhite","Colinus virginianus","L38924409","78361, Hebbronville US-TX 26.79835, -98.42331","2025-12-03 20:35",6,26.798353,-98.423313,TRUE,FALSE,TRUE,"S287371851",NA
+"193","norbob","Northern Bobwhite","Colinus virginianus","L41677770","Rio Grande City 05","2025-12-03 17:40",2,26.2532646,-98.6492684,TRUE,FALSE,TRUE,"S287221176",NA
+"194","norbob","Northern Bobwhite","Colinus virginianus","L304872","Winscott Plover Road","2025-12-03 16:45",1,32.5562658,-97.5213862,TRUE,FALSE,FALSE,"S287221763",NA
+"195","norbob","Northern Bobwhite","Colinus virginianus","L8082835","Kenedy Co.--La Parra Rd.","2025-12-03 16:44",3,27.2219551,-97.7670227,TRUE,FALSE,FALSE,"S287227639",NA
+"196","norbob","Northern Bobwhite","Colinus virginianus","L31746526","379 County Road 279, Tuscola, Texas, US (32.248, -99.942)","2025-12-03 14:56",1,32.247575,-99.9415767,TRUE,FALSE,TRUE,"S287206554",NA
+"197","norbob","Northern Bobwhite","Colinus virginianus","L4595892","Optima Reservoir","2025-12-03 12:38",12,36.6591587,-101.1373043,TRUE,FALSE,FALSE,"S287587513",NA
+"198","norbob","Northern Bobwhite","Colinus virginianus","L36140998","L E Ramey Golf Course","2025-12-03 12:38",18,27.4782194,-97.8368253,TRUE,FALSE,FALSE,"S287198384",NA
+"199","norbob","Northern Bobwhite","Colinus virginianus","L109172","Phinizy Swamp Nature Park","2025-12-03 12:32",NA,33.3855863,-81.96069,TRUE,FALSE,FALSE,"S287211205",NA
+"200","norbob","Northern Bobwhite","Colinus virginianus","L246727","Anzalduas Park (LTC 068)","2025-12-03 11:25",7,26.1384105,-98.3327866,TRUE,FALSE,FALSE,"S287191293",NA
+"201","norbob","Northern Bobwhite","Colinus virginianus","L23162157","Liberty Mine","2025-12-03 11:00",1,38.1015976,-87.3364101,TRUE,FALSE,TRUE,"S287215602",NA
+"202","norbob","Northern Bobwhite","Colinus virginianus","L840220","Dinner Island Ranch WMA","2025-12-03 08:20",NA,26.5019164,-81.1724854,TRUE,FALSE,FALSE,"S287207837",NA
+"203","norbob","Northern Bobwhite","Colinus virginianus","L1759730","Beaver River WMA","2025-12-03 08:16",2,36.8413368,-100.6960721,TRUE,FALSE,FALSE,"S287514565",NA
+"204","norbob","Northern Bobwhite","Colinus virginianus","L1033181","Di-Lane Plantation WMA","2025-12-02 17:20",25,32.9713717,-82.0973969,TRUE,TRUE,FALSE,"S287433026",NA
+"205","norbob","Northern Bobwhite","Colinus virginianus","L55673568","Charlotte Harbor Preserve","2025-12-02 17:15",7,26.8603806,-82.2432983,TRUE,FALSE,TRUE,"S287103770",NA
+"206","norbob","Northern Bobwhite","Colinus virginianus","L55672513","4623–4999 County Road 50, Billings US-OK 36.53827, -97.39045","2025-12-02 16:43",3,36.538272,-97.390446,TRUE,FALSE,TRUE,"S287098735",NA
+"207","norbob","Northern Bobwhite","Colinus virginianus","L55672296","501–525 W 720th Ave, Hepler US-KS 37.66004, -94.90895","2025-12-02 16:31",7,37.660044,-94.908947,TRUE,FALSE,TRUE,"S287097714",NA
+"208","norbob","Northern Bobwhite","Colinus virginianus","L14184269","McPherson Preserve","2025-12-02 15:49",7,36.0957187,-97.1993065,TRUE,FALSE,FALSE,"S287094622",NA
+"209","norbob","Northern Bobwhite","Colinus virginianus","L55707323","50228, Prairie City US-IA (41.5486,-93.2533)","2025-12-02 15:00",1,41.548577,-93.25333,TRUE,FALSE,TRUE,"S287274168",NA
+"210","norbob","Northern Bobwhite","Colinus virginianus","L465675","Port Mansfield Nature Trail (LTC 015)","2025-12-02 14:14",12,26.5577832,-97.4305344,TRUE,FALSE,FALSE,"S287111961",NA
+"211","norbob","Northern Bobwhite","Colinus virginianus","L1498563","Katy Prairie--Pattison/Morrison rds (N. from FM529 to Hebert rd.)","2025-12-02 10:43",7,29.9135789,-95.9076619,TRUE,FALSE,FALSE,"S287079219",NA
+"212","norbob","Northern Bobwhite","Colinus virginianus","L1911958","Cameron Co.--Ted Hunt rd. resacas","2025-12-02 10:07",7,26.1696128,-97.3839283,TRUE,FALSE,FALSE,"S287061696",NA
+"213","norbob","Northern Bobwhite","Colinus virginianus","L50910837","Home","2025-12-02 09:59",1,39.126706,-90.322929,TRUE,FALSE,TRUE,"S287059574",NA
+"214","norbob","Northern Bobwhite","Colinus virginianus","L55663978","Carter Creek Parking Lot","2025-12-02 09:31",2,27.5311441,-81.405667,TRUE,FALSE,TRUE,"S287053535",NA
+"215","norbob","Northern Bobwhite","Colinus virginianus","L51023627","Walk In Hunting Limited Access South Brown Township, Kansas, US","2025-12-02 09:13",8,37.8215688,-99.4462238,TRUE,FALSE,TRUE,"S287062771",NA
+"216","norbob","Northern Bobwhite","Colinus virginianus","L9722537","Hwy. 330 loop","2025-12-02 07:15",1,29.8823975,-92.0558343,TRUE,FALSE,TRUE,"S287067990",NA
+"217","norbob","Northern Bobwhite","Colinus virginianus","L754725","Devils Sinkhole SNA (Edwards Co.)","2025-12-02 07:00",7,30.057517,-100.109341,TRUE,FALSE,FALSE,"S287111759",NA
+"218","norbob","Northern Bobwhite","Colinus virginianus","L55661885","101 South Avery Road, Plevna, Kansas, US (38.05, -98.308)","2025-12-02 06:34",12,38.0500975,-98.3076626,TRUE,FALSE,TRUE,"S287041100",NA
