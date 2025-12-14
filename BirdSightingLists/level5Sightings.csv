@@ -1,3 +1,2 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","x00922","Mexican x Mottled Duck (hybrid)","Anas diazi x fulvigula","L129086","Santa Margarita Ranch (LTC 079) (restricted access - guided groups only)","2025-12-11 06:46",2,26.4856177,-99.0912337,TRUE,FALSE,FALSE,"S288279565"
-"2","x00922","Mexican x Mottled Duck (hybrid)","Anas diazi x fulvigula","L129075","Salineño Wildlife Preserve (LTC 080)","2025-12-06 06:58",1,26.5148584,-99.1162062,TRUE,FALSE,FALSE,"S287587838"
+"1","easkin","Eastern Kingbird","Tyrannus tyrannus","L3188498","L31W Canal","2025-12-06 11:51",1,25.3978115,-80.5725288,TRUE,TRUE,FALSE,"S287534184"
