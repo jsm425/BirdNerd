@@ -1,2 +1,7 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","easkin","Eastern Kingbird","Tyrannus tyrannus","L3188498","L31W Canal","2025-12-06 11:51",1,25.3978115,-80.5725288,TRUE,TRUE,FALSE,"S287534184"
+"1","issjay","Island Scrub-Jay","Aphelocoma insularis","L2442150","Santa Cruz Island--Scorpion Canyon Campgrounds","2025-12-11 12:00",10,34.0484615,-119.5645389,TRUE,FALSE,FALSE,"S288211187"
+"2","issjay","Island Scrub-Jay","Aphelocoma insularis","L375253","Santa Cruz Island--Prisoners Harbor","2025-12-08 11:29",15,34.0187319,-119.6821404,TRUE,FALSE,FALSE,"S287871112"
+"3","issjay","Island Scrub-Jay","Aphelocoma insularis","L21361493","Santa Cruz Island--Scorpion Anchorage and Beach Area","2025-12-08 10:47",7,34.0492492,-119.5555481,TRUE,FALSE,FALSE,"S287861259"
+"4","issjay","Island Scrub-Jay","Aphelocoma insularis","L55806823","Channel Islands National Park, CA","2025-12-07 17:27",1,33.967224,-119.828619,TRUE,FALSE,TRUE,"S287747272"
+"5","issjay","Island Scrub-Jay","Aphelocoma insularis","L1653815","Santa Cruz Island--Pelican Bay Trail (restricted access)","2025-12-07 11:22",30,34.0232403,-119.6923032,TRUE,FALSE,FALSE,"S287735898"
+"6","issjay","Island Scrub-Jay","Aphelocoma insularis","L55772903","Cavern Point Trail US-CA (34.0486,-119.5586)","2025-12-06 15:17",3,34.048584,-119.558627,TRUE,FALSE,TRUE,"S287584922"
