@@ -1,223 +1,358 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
-"1","eutspa","Eurasian Tree Sparrow","Passer montanus","L40095886","Crabapple Court 63132","2025-12-18 16:19",4,38.672502,-90.37997,TRUE,FALSE,TRUE,"S289122770","N"
-"2","eutspa","Eurasian Tree Sparrow","Passer montanus","L21455314","Franklin Grove Yard","2025-12-18 16:14",6,41.8428821,-89.3027386,TRUE,FALSE,TRUE,"S289121974","N"
-"3","eutspa","Eurasian Tree Sparrow","Passer montanus","L18400178","28210 Hopewood Ct, Northfield US-MN 44.54131, -93.24957","2025-12-18 15:54",1,44.541314,-93.249575,TRUE,TRUE,TRUE,"S289121648","N"
-"4","eutspa","Eurasian Tree Sparrow","Passer montanus","L52459281","Sappington/Concord","2025-12-18 15:50",20,38.5349704,-90.3613698,TRUE,FALSE,TRUE,"S289118481","N"
-"5","eutspa","Eurasian Tree Sparrow","Passer montanus","L10656938","205th St.","2025-12-18 14:00",6,44.6516565,-92.8839852,TRUE,TRUE,TRUE,"S289109021","N"
-"6","eutspa","Eurasian Tree Sparrow","Passer montanus","L1487151","Sugar Creek Ridge- Kirkwood","2025-12-18 10:35",15,38.5861132,-90.4296853,TRUE,FALSE,TRUE,"S289085291","N"
-"7","eutspa","Eurasian Tree Sparrow","Passer montanus","L56081523","12497 205th Street East, Hastings, Minnesota, US (44.653, -92.854)","2025-12-18 09:43",5,44.6531247,-92.8541246,TRUE,TRUE,TRUE,"S289082376","N"
-"8","eutspa","Eurasian Tree Sparrow","Passer montanus","L7076000","11096 Knoles Rd, Petersburg US-IL (39.9199,-89.8164)","2025-12-18 09:22",2,39.919868,-89.816409,TRUE,FALSE,TRUE,"S289075093","N"
-"9","eutspa","Eurasian Tree Sparrow","Passer montanus","L3389556","52 E. Cardigan Dr.","2025-12-18 08:18",13,38.7597223,-90.3045166,TRUE,FALSE,TRUE,"S289078470","N"
-"10","eutspa","Eurasian Tree Sparrow","Passer montanus","L1967189","Home","2025-12-18 08:13",25,38.6386416,-90.5310667,TRUE,FALSE,TRUE,"S289075077","N"
-"11","eutspa","Eurasian Tree Sparrow","Passer montanus","L4679326","Cardinal Creek Dr","2025-12-18 08:07",2,38.4576215,-90.3092136,TRUE,FALSE,TRUE,"S289072557","N"
-"12","eutspa","Eurasian Tree Sparrow","Passer montanus","L2018609","Home","2025-12-18 08:05",9,42.0162692,-91.7330074,TRUE,FALSE,TRUE,"S289068119","N"
-"13","eutspa","Eurasian Tree Sparrow","Passer montanus","L29222850","602 Bismark Ave, Webster Groves US-MO 38.60126, -90.37028","2025-12-18 08:03",5,38.601259,-90.370281,TRUE,FALSE,TRUE,"S289070968","N"
-"14","eutspa","Eurasian Tree Sparrow","Passer montanus","L21970810","Berry Brook Gardens","2025-12-18 07:55",18,38.60171,-90.606589,TRUE,FALSE,TRUE,"S289074080","N"
-"15","eutspa","Eurasian Tree Sparrow","Passer montanus","L4158515","Timberlake","2025-12-18 07:51",14,38.6423686,-90.5264497,TRUE,FALSE,TRUE,"S289070259","N"
-"16","eutspa","Eurasian Tree Sparrow","Passer montanus","L169447","Riverlands Migratory Bird Sanctuary","2025-12-18 07:30",3,38.8719313,-90.1843917,TRUE,FALSE,FALSE,"S289082205","N"
-"17","eutspa","Eurasian Tree Sparrow","Passer montanus","L12393028","Aspen Village Dr","2025-12-18 07:12",12,38.5789022,-90.5615084,TRUE,FALSE,TRUE,"S289064864","N"
-"18","eutspa","Eurasian Tree Sparrow","Passer montanus","L3941874","Robin Hill","2025-12-18 07:03",2,38.5903593,-90.5334064,TRUE,FALSE,TRUE,"S289067142","N"
-"19","eutspa","Eurasian Tree Sparrow","Passer montanus","L5281954","Lake Ridge Pond","2025-12-17 16:07",4,41.6298867,-91.5473653,TRUE,FALSE,FALSE,"S289010525","N"
-"20","eutspa","Eurasian Tree Sparrow","Passer montanus","L7857541","St. Louis Community College--Meramec Campus","2025-12-17 15:03",1,38.570072,-90.4199,TRUE,FALSE,FALSE,"S289004628","N"
-"21","eutspa","Eurasian Tree Sparrow","Passer montanus","L4336008","US-IL-Tallula-10901-10999 Knoles Rd - 39.9198x-89.8167 - Mar 4, 2016, 13:11","2025-12-17 15:03",1,39.919753,-89.816707,TRUE,FALSE,TRUE,"S289002071","N"
-"22","eutspa","Eurasian Tree Sparrow","Passer montanus","L1495128","Deere Dike Park and Riverside Road","2025-12-17 15:00",4,42.5749533,-90.6840151,TRUE,FALSE,FALSE,"S289012589","N"
-"23","eutspa","Eurasian Tree Sparrow","Passer montanus","L8506660","Just east of Pleasant  Plains (roadside birding)","2025-12-17 14:10",1,39.8746459,-89.8644621,TRUE,FALSE,TRUE,"S289014614","N"
-"24","eutspa","Eurasian Tree Sparrow","Passer montanus","L497528","Greene","2025-12-17 12:57",2,42.89577,-92.80239,TRUE,TRUE,TRUE,"S289042211","N"
-"25","eutspa","Eurasian Tree Sparrow","Passer montanus","L6329110","Quincy Lock and Dam 21","2025-12-17 12:30",3,39.9010452,-91.4289522,TRUE,FALSE,TRUE,"S288993654","N"
-"26","eutspa","Eurasian Tree Sparrow","Passer montanus","L6766419","Rapids City - 1st Ave","2025-12-17 11:58",2,41.5824571,-90.3480649,TRUE,FALSE,TRUE,"S288999557","N"
-"27","eutspa","Eurasian Tree Sparrow","Passer montanus","L42698793","Glan/ Henry Tai lake","2025-12-17 11:40",1,38.600462,-90.516165,TRUE,FALSE,TRUE,"S288983826","N"
-"28","eutspa","Eurasian Tree Sparrow","Passer montanus","L7347008","Andrews Ave.","2025-12-17 11:22",5,38.5712518,-90.4202442,TRUE,FALSE,TRUE,"S288977907","N"
-"29","eutspa","Eurasian Tree Sparrow","Passer montanus","L8156408","Orchard Hills landfill (NO PUBLIC ACCESS)","2025-12-17 11:12",6,42.1413986,-89.0877778,TRUE,FALSE,TRUE,"S288992004","N"
-"30","eutspa","Eurasian Tree Sparrow","Passer montanus","L56058635","11536–11808 205th St E, Hastings US-MN 44.65154, -92.86815","2025-12-17 10:58",5,44.651538,-92.868153,TRUE,TRUE,TRUE,"S288973503","N"
-"31","eutspa","Eurasian Tree Sparrow","Passer montanus","L1078403","S. Concord St. near I-280 Bridge","2025-12-17 10:38",2,41.4817048,-90.6348789,TRUE,FALSE,FALSE,"S288975379","N"
-"32","eutspa","Eurasian Tree Sparrow","Passer montanus","L3240373","Cliff Cave County Park","2025-12-17 10:34",3,38.4602303,-90.287762,TRUE,FALSE,FALSE,"S289009538","N"
-"33","eutspa","Eurasian Tree Sparrow","Passer montanus","L42860984","McBride Pointe","2025-12-17 10:12",7,38.607973,-90.617802,TRUE,FALSE,TRUE,"S289102795","N"
-"34","eutspa","Eurasian Tree Sparrow","Passer montanus","L19287792","15962 E Old Orchard Rd, Bloomington US-IL (40.4240,-88.9617)","2025-12-17 10:09",2,40.424022,-88.961749,TRUE,FALSE,TRUE,"S289127982","N"
-"35","eutspa","Eurasian Tree Sparrow","Passer montanus","L243290","Galesburg","2025-12-17 10:00",2,40.94784,-90.37123,TRUE,FALSE,TRUE,"S289009829","N"
-"36","eutspa","Eurasian Tree Sparrow","Passer montanus","L618135","Lake Macbride--North Arm","2025-12-17 09:16",3,41.807533,-91.5492868,TRUE,FALSE,FALSE,"S288971284","N"
-"37","eutspa","Eurasian Tree Sparrow","Passer montanus","L11857699","Home","2025-12-17 08:56",1,41.799862,-89.6540836,TRUE,FALSE,TRUE,"S288956963","N"
-"38","eutspa","Eurasian Tree Sparrow","Passer montanus","L10013293","11096 Knoles Rd, Petersburg US-IL (39.9199,-89.8164)","2025-12-17 08:35",2,39.919882,-89.816442,TRUE,FALSE,TRUE,"S288956552","N"
-"39","eutspa","Eurasian Tree Sparrow","Passer montanus","L8112684","Home Muirkirk Lane","2025-12-17 08:26",18,38.6004149,-90.5135774,TRUE,FALSE,TRUE,"S288957982","N"
-"40","eutspa","Eurasian Tree Sparrow","Passer montanus","L228857","Home farm near Rippey","2025-12-17 08:12",1,41.883981,-94.1847856,TRUE,TRUE,TRUE,"S289009224","N"
-"41","eutspa","Eurasian Tree Sparrow","Passer montanus","L1944565","WFS home","2025-12-17 08:10",2,38.690133,-90.4373918,TRUE,FALSE,TRUE,"S288956192","N"
-"42","eutspa","Eurasian Tree Sparrow","Passer montanus","L11340315","Morfsylvania (private land)","2025-12-17 08:09",3,41.8943103,-91.5264308,TRUE,FALSE,TRUE,"S288950986","N"
-"43","eutspa","Eurasian Tree Sparrow","Passer montanus","L32224928","Spot A","2025-12-17 08:00",NA,41.7118392,-91.9692386,TRUE,FALSE,TRUE,"S289034048","N"
-"44","eutspa","Eurasian Tree Sparrow","Passer montanus","L30069063","602 Bismark Ave, Webster Groves US-MO 38.60136, -90.37031","2025-12-17 07:45",4,38.601361,-90.370311,TRUE,FALSE,TRUE,"S288946793","N"
-"45","eutspa","Eurasian Tree Sparrow","Passer montanus","L2852376","39.9199x-89.8162 - May 14, 2014, 8:27","2025-12-17 07:39",2,39.919922,-89.81623,TRUE,FALSE,TRUE,"S288950071","N"
-"46","eutspa","Eurasian Tree Sparrow","Passer montanus","L200627","Horseshoe Lake State Park","2025-12-17 07:37",11,38.7039503,-90.0724398,TRUE,FALSE,FALSE,"S288952086","N"
-"47","eutspa","Eurasian Tree Sparrow","Passer montanus","L18772157","5573 N Oakland Ave, Forsyth","2025-12-17 07:25",1,39.9197179,-88.9745703,TRUE,TRUE,TRUE,"S288969815","N"
-"48","eutspa","Eurasian Tree Sparrow","Passer montanus","L250656","Hawkeye WMA (general location)","2025-12-17 07:21",9,41.80105,-91.68908,TRUE,FALSE,FALSE,"S288968081","N"
-"49","eutspa","Eurasian Tree Sparrow","Passer montanus","L11968405","My Backyard","2025-12-17 07:13",2,38.4916954,-90.6134231,TRUE,FALSE,TRUE,"S288943378","N"
-"50","eutspa","Eurasian Tree Sparrow","Passer montanus","L3543461","Jefferson Barracks Park","2025-12-17 07:05",1,38.5099601,-90.2805376,TRUE,FALSE,FALSE,"S288968234","N"
-"51","eutspa","Eurasian Tree Sparrow","Passer montanus","L10965027","490 N 3850th Rd, Mendota US-IL (41.4896,-89.0710)","2025-12-17 06:52",5,41.489598,-89.071036,TRUE,FALSE,TRUE,"S289057555","N"
-"52","eutspa","Eurasian Tree Sparrow","Passer montanus","L16667980","HomeBirds","2025-12-17 06:51",1,38.572106,-90.420312,TRUE,FALSE,TRUE,"S288947794","N"
-"53","eutspa","Eurasian Tree Sparrow","Passer montanus","L10716467","437 Redstart Drive, Lake Saint Louis, Missouri, US (38.777, -90.813)","2025-12-17 06:46",NA,38.7766618,-90.8125181,TRUE,FALSE,TRUE,"S289018545","N"
-"54","eutspa","Eurasian Tree Sparrow","Passer montanus","L56044760","I-72 E, Winchester US-IL 39.68414, -90.57325","2025-12-16 16:51",3,39.684141,-90.573251,TRUE,FALSE,TRUE,"S288904873","N"
-"55","eutspa","Eurasian Tree Sparrow","Passer montanus","L13538524","79 Oakmont Dr.","2025-12-16 15:30",2,39.7832258,-89.697416,TRUE,FALSE,TRUE,"S288899937","N"
-"56","eutspa","Eurasian Tree Sparrow","Passer montanus","L56040329","335 West St, Metz US-MO 37.99629, -94.44620","2025-12-16 14:51",1,37.996293,-94.446197,TRUE,TRUE,TRUE,"S288883882","N"
-"57","eutspa","Eurasian Tree Sparrow","Passer montanus","L3508520","Amboy Marsh Wildlife Sanctuary","2025-12-16 14:00",11,41.6869405,-89.3046534,TRUE,FALSE,FALSE,"S288903015","N"
-"58","eutspa","Eurasian Tree Sparrow","Passer montanus","L56042572","480th St, Harris","2025-12-16 14:00",1,45.643977,-92.977896,TRUE,TRUE,TRUE,"S288894130","N"
-"59","eutspa","Eurasian Tree Sparrow","Passer montanus","L56040175","6501 480th St, Harris US-MN (45.6439,-92.9773)","2025-12-16 13:50",1,45.643941,-92.977318,TRUE,TRUE,TRUE,"S288882798","N"
-"60","eutspa","Eurasian Tree Sparrow","Passer montanus","L28245816","1101–1117 255th St, Conesville US-IA 41.37218, -91.34994","2025-12-16 13:27",6,41.37218,-91.349942,TRUE,FALSE,TRUE,"S288875223","N"
-"61","eutspa","Eurasian Tree Sparrow","Passer montanus","L10665516","Florid Loop","2025-12-16 12:56",7,41.224475,-89.3058473,TRUE,FALSE,TRUE,"S288875535","N"
-"62","eutspa","Eurasian Tree Sparrow","Passer montanus","L2146120","Davidson Memorial WA","2025-12-16 12:13",2,38.5410496,-90.3811741,TRUE,FALSE,FALSE,"S288887974","N"
-"63","eutspa","Eurasian Tree Sparrow","Passer montanus","L56036705","Katy Trail, Saint Charles, Missouri, US (38.874, -90.371)","2025-12-16 11:40",5,38.8735817,-90.3714,TRUE,FALSE,TRUE,"S288866188","N"
-"64","eutspa","Eurasian Tree Sparrow","Passer montanus","L56036190","33324 U Avenue, Union, Iowa, US (42.219, -93.099)","2025-12-16 10:59",6,42.2187343,-93.0988556,TRUE,TRUE,TRUE,"S288863544","N"
-"65","eutspa","Eurasian Tree Sparrow","Passer montanus","L28824469","south of Galesburg","2025-12-16 10:45",15,40.8513489,-90.4052124,TRUE,FALSE,TRUE,"S288875287","N"
-"66","eutspa","Eurasian Tree Sparrow","Passer montanus","L283109","Marais Temps Clair CA","2025-12-16 10:42",2,38.8931706,-90.4175663,TRUE,FALSE,FALSE,"S288857191","N"
-"67","eutspa","Eurasian Tree Sparrow","Passer montanus","L2355551","Jim Edgar Panther Creek State Fish & Wildlife Area","2025-12-16 10:30",4,39.995547,-90.069083,TRUE,FALSE,FALSE,"S288886293","N"
-"68","eutspa","Eurasian Tree Sparrow","Passer montanus","L19554627","Elmcrest Dr, Saint Charles","2025-12-16 09:41",3,38.802564,-90.50216,TRUE,FALSE,TRUE,"S288857807","N"
-"69","eutspa","Eurasian Tree Sparrow","Passer montanus","L2173944","Lafayette Farms","2025-12-16 09:28",4,38.6174386,-90.5066854,TRUE,FALSE,TRUE,"S288839998","N"
-"70","eutspa","Eurasian Tree Sparrow","Passer montanus","L890181","Lye Creek Prairie Burn, aka The Burn","2025-12-16 09:20",1,40.1334128,-86.8616867,TRUE,TRUE,FALSE,"S288864127","N"
-"71","eutspa","Eurasian Tree Sparrow","Passer montanus","L56030434","Island Road, Saint Charles, Missouri, US","2025-12-16 09:12",41,38.867125,-90.4171333,TRUE,FALSE,TRUE,"S288842151","N"
-"72","eutspa","Eurasian Tree Sparrow","Passer montanus","L56082380","22 Ridge Crest Drive, Chesterfield, Missouri, US (38.687, -90.512)","2025-12-16 08:49",8,38.6868406,-90.5122434,TRUE,FALSE,TRUE,"S289086673","N"
-"73","eutspa","Eurasian Tree Sparrow","Passer montanus","L17166735","Bottom Road, Putnam","2025-12-16 08:49",2,41.3049582,-89.202598,TRUE,FALSE,TRUE,"S288840943","N"
-"74","eutspa","Eurasian Tree Sparrow","Passer montanus","L14561067","Fulton Compound","2025-12-16 08:36",5,38.686892,-90.512402,TRUE,FALSE,TRUE,"S288850849","N"
-"75","eutspa","Eurasian Tree Sparrow","Passer montanus","L6489176","Pelham Estates Dr, Des Peres US-MO","2025-12-16 08:35",4,38.5959221,-90.4542444,TRUE,FALSE,TRUE,"S288917451","N"
-"76","eutspa","Eurasian Tree Sparrow","Passer montanus","L10754350","Lisbon Center/Townhouse Newark, IL","2025-12-16 08:24",2,41.5212003,-88.5647195,TRUE,TRUE,TRUE,"S288904991","N"
-"77","eutspa","Eurasian Tree Sparrow","Passer montanus","L26899460","1203 245th St, Conesville US-IA 41.38698, -91.32918","2025-12-16 08:10",8,41.386981,-91.329184,TRUE,FALSE,TRUE,"S288830701","N"
-"78","eutspa","Eurasian Tree Sparrow","Passer montanus","L4951045","US-IL-Tallula-11096 Knoles Rd - 39.9199x-89.8164","2025-12-16 08:08",2,39.919938,-89.816376,TRUE,FALSE,TRUE,"S288830540","N"
-"79","eutspa","Eurasian Tree Sparrow","Passer montanus","L56029005","Portage des Sioux Parking Lot","2025-12-16 07:56",6,38.927994,-90.339933,TRUE,FALSE,TRUE,"S288836485","N"
-"80","eutspa","Eurasian Tree Sparrow","Passer montanus","L12914408","11096 Knoles Rd, Petersburg US-IL 39.91992, -89.81630","2025-12-16 07:44",3,39.919918,-89.816299,TRUE,FALSE,TRUE,"S288824577","N"
-"81","eutspa","Eurasian Tree Sparrow","Passer montanus","L20801951","home garden, Crestwood","2025-12-16 07:43",15,38.5667,-90.3727,TRUE,FALSE,TRUE,"S288827697","N"
-"82","eutspa","Eurasian Tree Sparrow","Passer montanus","L16234944","Mertz Rd./MO-H Intersection","2025-12-16 07:42",5,38.8938666,-90.3585431,TRUE,FALSE,FALSE,"S288825405","N"
-"83","eutspa","Eurasian Tree Sparrow","Passer montanus","L28684921","Stemwood Way (Private)","2025-12-16 07:28",1,38.5254502,-90.4605502,TRUE,FALSE,TRUE,"S288830740","N"
-"84","eutspa","Eurasian Tree Sparrow","Passer montanus","L38785403","Spencer Rd Feeders","2025-12-16 07:17",NA,41.567535,-90.420776,TRUE,FALSE,TRUE,"S288824363","N"
-"85","eutspa","Eurasian Tree Sparrow","Passer montanus","L1963713","Leisure Lane Spring Bay IL","2025-12-16 06:45",1,40.8222736,-89.5311757,TRUE,FALSE,TRUE,"S288909977","N"
-"86","eutspa","Eurasian Tree Sparrow","Passer montanus","L3223332","Oak Bluff Savanna","2025-12-15 15:49",3,41.0878262,-89.4424009,TRUE,FALSE,FALSE,"S288765442","N"
-"87","eutspa","Eurasian Tree Sparrow","Passer montanus","L56011643","5348 140th Street, Montezuma, Iowa, US (41.517, -92.508)","2025-12-15 15:37",8,41.5165708,-92.5083178,TRUE,TRUE,TRUE,"S288758072","N"
-"88","eutspa","Eurasian Tree Sparrow","Passer montanus","L3968347","Lake Jacksonville","2025-12-15 15:35",3,39.6753688,-90.1997924,TRUE,FALSE,FALSE,"S288761082","N"
-"89","eutspa","Eurasian Tree Sparrow","Passer montanus","L3742033","WBBA - Albany CW - Cnty FF fields","2025-12-15 15:09",3,42.6682372,-89.4815183,TRUE,TRUE,TRUE,"S288764523","N"
-"90","eutspa","Eurasian Tree Sparrow","Passer montanus","L23269266","1338 Ironwood Avenue, Packwood, Iowa, US (41.114, -92.025)","2025-12-15 14:57",28,41.1140755,-92.0246578,TRUE,FALSE,TRUE,"S288755987","N"
-"91","eutspa","Eurasian Tree Sparrow","Passer montanus","L31901830","Funk's Grove Rest Area (I-55)","2025-12-15 12:34",4,40.3597776,-89.1098753,TRUE,FALSE,FALSE,"S288743158","N"
-"92","eutspa","Eurasian Tree Sparrow","Passer montanus","L315508","Red Rock Reservoir--below dam (North and South Tailwater, Ivan's, and Howell Station recreation areas)","2025-12-15 12:24",2,41.3668874,-92.9751672,TRUE,TRUE,FALSE,"S288765104","N"
-"93","eutspa","Eurasian Tree Sparrow","Passer montanus","L22581608","E11715 River Rd, Sauk City US-WI (43.2634,-89.7390)","2025-12-15 11:57",1,43.263402,-89.739012,TRUE,TRUE,TRUE,"S288777659","N"
-"94","eutspa","Eurasian Tree Sparrow","Passer montanus","L27856864","D Thompson home","2025-12-15 11:00",1,40.9760945,-90.3743467,TRUE,FALSE,TRUE,"S288756484","N"
-"95","eutspa","Eurasian Tree Sparrow","Passer montanus","L376483","Mississippi River Lock & Dam 14 (Iowa)","2025-12-15 10:26",25,41.5742329,-90.401516,TRUE,FALSE,FALSE,"S288723961","N"
-"96","eutspa","Eurasian Tree Sparrow","Passer montanus","L6353511","494 Yard, Lake Petersburg","2025-12-15 10:07",1,39.9845271,-89.8623276,TRUE,FALSE,TRUE,"S288719142","N"
-"97","eutspa","Eurasian Tree Sparrow","Passer montanus","L9101222","11096 Knoles Rd, Petersburg US-IL (39.9199,-89.8164)","2025-12-15 08:55",3,39.919929,-89.816366,TRUE,FALSE,TRUE,"S288709035","N"
-"98","eutspa","Eurasian Tree Sparrow","Passer montanus","L1128336","Harris Cedar Feeder - Yard","2025-12-15 08:08",1,45.6435381,-92.9775792,TRUE,TRUE,TRUE,"S288707567","N"
-"99","eutspa","Eurasian Tree Sparrow","Passer montanus","L618141","Aranyani - near Fairfield","2025-12-15 07:51",1,40.9634862,-91.947391,TRUE,FALSE,TRUE,"S288701711","N"
-"100","eutspa","Eurasian Tree Sparrow","Passer montanus","L4461618","Hillandale Estates","2025-12-15 07:50",30,41.429473,-90.5463659,TRUE,FALSE,TRUE,"S288702835","N"
-"101","eutspa","Eurasian Tree Sparrow","Passer montanus","L6071730","11096 Knoles Rd, Petersburg US-IL (39.9198,-89.8163)","2025-12-15 07:34",1,39.919787,-89.816264,TRUE,FALSE,TRUE,"S288699309","N"
-"102","eutspa","Eurasian Tree Sparrow","Passer montanus","L6976685","N. Jackson Rd., Brimfield","2025-12-15 07:30",7,40.847684,-89.8799967,TRUE,FALSE,TRUE,"S288748073","N"
-"103","eutspa","Eurasian Tree Sparrow","Passer montanus","L1947861","Shady Oaks Sanctuary (no public access)","2025-12-15 06:55",4,38.593357,-90.432592,TRUE,FALSE,TRUE,"S288723520","N"
-"104","eutspa","Eurasian Tree Sparrow","Passer montanus","L1483241","No Name Park","2025-12-15 06:12",1,38.9439859,-90.1631452,TRUE,FALSE,TRUE,"S288754554","N"
-"105","eutspa","Eurasian Tree Sparrow","Passer montanus","L40310913","O'Fallon","2025-12-14 14:32",NA,38.8199348,-90.6922913,TRUE,FALSE,TRUE,"S288616211","N"
-"106","eutspa","Eurasian Tree Sparrow","Passer montanus","L555187","Grandpa's","2025-12-14 14:31",1,38.5468963,-90.3132632,TRUE,FALSE,TRUE,"S288616720","N"
-"107","eutspa","Eurasian Tree Sparrow","Passer montanus","L3053939","Lake Petersburg","2025-12-14 14:15",2,39.9861303,-89.8554397,TRUE,FALSE,FALSE,"S288700827","N"
-"108","eutspa","Eurasian Tree Sparrow","Passer montanus","L28340412","Weldon Spring CBC (Greens Bottom Road loop)","2025-12-14 14:08",1,38.7128047,-90.5752286,TRUE,FALSE,TRUE,"S288631605","N"
-"109","eutspa","Eurasian Tree Sparrow","Passer montanus","L17666659","14th Ave (NW Grinnell) Grinnell US-IA 41.75703, -92.73552","2025-12-14 14:01",3,41.757033,-92.735516,TRUE,TRUE,TRUE,"S288612448","N"
-"110","eutspa","Eurasian Tree Sparrow","Passer montanus","L1624117","Credit Island Park","2025-12-14 14:00",2,41.4988068,-90.6145315,TRUE,FALSE,FALSE,"S288622652","N"
-"111","eutspa","Eurasian Tree Sparrow","Passer montanus","L55981181","16091–16899 Upland Ave, Woodward US-IA 41.80504, -93.88311","2025-12-14 13:16",1,41.805042,-93.883113,TRUE,FALSE,TRUE,"S288605053","N"
-"112","eutspa","Eurasian Tree Sparrow","Passer montanus","L42225951","205th St E","2025-12-14 13:13",1,44.65176,-92.863331,TRUE,TRUE,TRUE,"S288640957","N"
-"113","eutspa","Eurasian Tree Sparrow","Passer montanus","L4234312","Home","2025-12-14 13:00",4,38.5390524,-90.296309,TRUE,FALSE,TRUE,"S288601953","N"
-"114","eutspa","Eurasian Tree Sparrow","Passer montanus","L22554910","Ted Ln-Springfield","2025-12-14 12:58",90,39.7866557,-89.7556209,TRUE,FALSE,TRUE,"S288616436","N"
-"115","eutspa","Eurasian Tree Sparrow","Passer montanus","L3268495","Huron ST","2025-12-14 12:30",15,41.0039658,-91.1557531,TRUE,FALSE,TRUE,"S288597513","N"
-"116","eutspa","Eurasian Tree Sparrow","Passer montanus","L7332087","418 South Main Street, Roland, Iowa, US (42.162, -93.5)","2025-12-14 12:27",4,42.162077,-93.5001288,TRUE,TRUE,TRUE,"S288641914","N"
-"117","eutspa","Eurasian Tree Sparrow","Passer montanus","L55978125","18386–18558 U Ave, Woodward US-IA 41.76804, -93.89238","2025-12-14 12:07",6,41.768037,-93.892381,TRUE,TRUE,TRUE,"S288592093","N"
-"118","eutspa","Eurasian Tree Sparrow","Passer montanus","L55977175","5994 480th St, Rush City US-MN 45.64405, -92.97731","2025-12-14 11:10",1,45.644047,-92.977312,TRUE,TRUE,TRUE,"S288587862","N"
-"119","eutspa","Eurasian Tree Sparrow","Passer montanus","L11239018","Jeffers Wildlife Pond PL","2025-12-14 11:09",1,44.743729,-93.444449,TRUE,TRUE,TRUE,"S288586755","N"
-"120","eutspa","Eurasian Tree Sparrow","Passer montanus","L11042907","1645 23rd Street, Bettendorf, Iowa, US (41.539, -90.497)","2025-12-14 11:04",1,41.5390923,-90.496935,TRUE,FALSE,TRUE,"S288585834","N"
-"121","eutspa","Eurasian Tree Sparrow","Passer montanus","L3572004","Two Harbors--uptown","2025-12-14 10:32",1,47.0317401,-91.6710162,TRUE,TRUE,TRUE,"S288597851","N"
-"122","eutspa","Eurasian Tree Sparrow","Passer montanus","L55974010","9212 County Road 1365 E, Tiskilwa US-IL 41.28072, -89.59380","2025-12-14 10:22",8,41.280722,-89.593802,TRUE,FALSE,TRUE,"S288573032","N"
-"123","eutspa","Eurasian Tree Sparrow","Passer montanus","L2753861","Ellis Island--Riverlands Migratory Bird Sanctuary","2025-12-14 10:03",3,38.8742116,-90.1772886,TRUE,FALSE,FALSE,"S288582360","N"
-"124","eutspa","Eurasian Tree Sparrow","Passer montanus","L41242829","21233 579th Street, Turner Township, Minnesota, US (46.849, -93.299)","2025-12-14 10:00",1,46.8491754,-93.2988951,TRUE,TRUE,TRUE,"S288708903","N"
-"125","eutspa","Eurasian Tree Sparrow","Passer montanus","L5154371","92nd Avenue","2025-12-14 09:04",1,41.4283683,-90.4321575,TRUE,FALSE,TRUE,"S288555050","N"
-"126","eutspa","Eurasian Tree Sparrow","Passer montanus","L12588397","447 Greenleaf Dr, Kirkwood US-MO 38.59038, -90.39726","2025-12-14 09:02",2,38.590384,-90.397261,TRUE,FALSE,TRUE,"S288561729","N"
-"127","eutspa","Eurasian Tree Sparrow","Passer montanus","L2015094","Fairmount Cemetery","2025-12-14 08:33",NA,41.5098811,-90.6343371,TRUE,FALSE,FALSE,"S288645721","N"
-"128","eutspa","Eurasian Tree Sparrow","Passer montanus","L55968700","20249 Wendover Pl, Dallas Center US-IA 41.74104, -93.84391","2025-12-14 08:27",3,41.741041,-93.843915,TRUE,TRUE,TRUE,"S288549334","N"
-"129","eutspa","Eurasian Tree Sparrow","Passer montanus","L1050614","Eureka House (PRIVATE)","2025-12-14 08:16",2,38.5018414,-90.659169,TRUE,FALSE,TRUE,"S288551805","N"
-"130","eutspa","Eurasian Tree Sparrow","Passer montanus","L8566377","11096 Knoles Rd, Petersburg US-IL (39.9199,-89.8163)","2025-12-14 08:11",3,39.919852,-89.816341,TRUE,FALSE,TRUE,"S288549940","N"
-"131","eutspa","Eurasian Tree Sparrow","Passer montanus","L4553810","Coons Farms (restricted access)","2025-12-14 08:00",1,41.0126778,-88.9873306,TRUE,FALSE,FALSE,"S288557164","N"
-"132","eutspa","Eurasian Tree Sparrow","Passer montanus","L55966374","15215 North Ivy Lake Road, Chillicothe, Illinois, US (40.873, -89.584)","2025-12-14 07:53",1,40.8729129,-89.5841943,TRUE,FALSE,TRUE,"S288700717","N"
-"133","eutspa","Eurasian Tree Sparrow","Passer montanus","L157996","Busch CA","2025-12-14 07:35",1,38.70534,-90.74048,TRUE,FALSE,FALSE,"S288712063","N"
-"134","eutspa","Eurasian Tree Sparrow","Passer montanus","L5150639","Hennepin Canal Parkway State Park","2025-12-14 07:31",8,41.475014,-90.370376,TRUE,FALSE,TRUE,"S288541032","N"
-"135","eutspa","Eurasian Tree Sparrow","Passer montanus","L55971508","10616–10698 E Osceola Rd, Bradford US-IL 41.21351, -89.77557","2025-12-14 07:00",3,41.213505,-89.775573,TRUE,FALSE,TRUE,"S288560818","N"
-"136","eutspa","Eurasian Tree Sparrow","Passer montanus","L43920281","Riverlands Audubon","2025-12-14 07:00",4,38.853165,-90.143912,TRUE,FALSE,TRUE,"S288752147","N"
-"137","eutspa","Eurasian Tree Sparrow","Passer montanus","L3370187","home","2025-12-14 06:36",1,41.3677106,-89.4816041,TRUE,FALSE,TRUE,"S288530146","N"
-"138","eutspa","Eurasian Tree Sparrow","Passer montanus","L55950885","5360 Railview Road, Central City, Iowa, US (42.249, -91.543)","2025-12-13 16:16",16,42.2492329,-91.5425928,TRUE,FALSE,TRUE,"S288467963","N"
-"139","eutspa","Eurasian Tree Sparrow","Passer montanus","L44896118","McMillen Home #3 Marshalltown, Iowa, US (42.032, -92.968)","2025-12-13 16:12",1,42.0316935,-92.9683614,TRUE,FALSE,TRUE,"S288540852","N"
-"140","eutspa","Eurasian Tree Sparrow","Passer montanus","L978526","Fraker Farm (Private No Access)","2025-12-13 15:53",70,40.6441776,-89.1259003,TRUE,TRUE,FALSE,"S288470247","N"
-"141","eutspa","Eurasian Tree Sparrow","Passer montanus","L11553501","Glenview Rd.","2025-12-13 15:30",2,40.7835682,-89.5313658,TRUE,FALSE,TRUE,"S288484585","N"
-"142","eutspa","Eurasian Tree Sparrow","Passer montanus","L55948867","26 Ridge Crest Dr, Chesterfield US-MO (38.6874,-90.5106)","2025-12-13 15:19",NA,38.687388,-90.510646,TRUE,FALSE,TRUE,"S288459224","N"
-"143","eutspa","Eurasian Tree Sparrow","Passer montanus","L12589693","Home","2025-12-13 14:36",3,38.569936,-90.541754,TRUE,FALSE,TRUE,"S288461814","N"
-"144","eutspa","Eurasian Tree Sparrow","Passer montanus","L17772547","Home","2025-12-13 14:10",12,40.1231868,-89.0329355,TRUE,TRUE,TRUE,"S288575933","N"
-"145","eutspa","Eurasian Tree Sparrow","Passer montanus","L18833553","Rathbun Wetland/Ponds (Private Land)","2025-12-13 13:30",3,39.8639706,-91.427518,TRUE,FALSE,TRUE,"S288455267","N"
-"146","eutspa","Eurasian Tree Sparrow","Passer montanus","L36947311","Bird man","2025-12-13 13:25",2,40.4634128,-88.9277073,TRUE,FALSE,TRUE,"S288440800","N"
-"147","eutspa","Eurasian Tree Sparrow","Passer montanus","L9326454","6000–6524 480th St, Rush City US-MN (45.6440,-92.9779)","2025-12-13 13:21",1,45.644016,-92.977932,TRUE,TRUE,TRUE,"S288445867","N"
-"148","eutspa","Eurasian Tree Sparrow","Passer montanus","L12041127","13019 Huntercreek Road, Des Peres, Missouri, US (38.584, -90.461)","2025-12-13 13:04",2,38.5841923,-90.4612424,TRUE,FALSE,TRUE,"S288437447","N"
-"149","eutspa","Eurasian Tree Sparrow","Passer montanus","L53413183","Home/Spring Lake North","2025-12-13 12:44",2,40.493269,-89.8282405,TRUE,FALSE,TRUE,"S288454652","N"
-"150","eutspa","Eurasian Tree Sparrow","Passer montanus","L15329701","1342 Ironwood Avenue, Packwood, Iowa, US (41.114, -92.025)","2025-12-13 12:41",28,41.1137391,-92.0247525,TRUE,FALSE,TRUE,"S288438451","N"
-"151","eutspa","Eurasian Tree Sparrow","Passer montanus","L55626331","3663 Jeffers Parkway Northwest, Prior Lake, Minnesota, US (44.744, -93.446)","2025-12-13 12:05",1,44.7440777,-93.4457993,TRUE,TRUE,TRUE,"S288427968","N"
-"152","eutspa","Eurasian Tree Sparrow","Passer montanus","L39175223","Home","2025-12-13 11:11",2,38.6972131,-90.4705369,TRUE,FALSE,TRUE,"S288420119","N"
-"153","eutspa","Eurasian Tree Sparrow","Passer montanus","L51162136","707 N Galena Ave, Wyoming US-IL 41.07067, -89.77133home","2025-12-13 10:30",1,41.070674,-89.771326,TRUE,FALSE,TRUE,"S288411069","N"
-"154","eutspa","Eurasian Tree Sparrow","Passer montanus","L35196010","Jeffers Pond Trails","2025-12-13 10:26",1,44.7396302,-93.445525,TRUE,TRUE,FALSE,"S288449223","N"
-"155","eutspa","Eurasian Tree Sparrow","Passer montanus","L55956140","22 Ridge Crest Drive","2025-12-13 09:24",16,38.686633,-90.512289,TRUE,FALSE,TRUE,"S288491953","N"
-"156","eutspa","Eurasian Tree Sparrow","Passer montanus","L27849226","My home","2025-12-13 08:59",9,38.650968,-90.51253,TRUE,FALSE,TRUE,"S288410341","N"
-"157","eutspa","Eurasian Tree Sparrow","Passer montanus","L13998331","Spirit of St. Louis Airport--Buzz Westfall & Paul Haglin","2025-12-13 08:07",2,38.6601059,-90.6693423,TRUE,FALSE,TRUE,"S288387874","N"
-"158","eutspa","Eurasian Tree Sparrow","Passer montanus","L15887892","7402 Schaller, home","2025-12-13 08:05",1,42.936802,-89.563517,TRUE,TRUE,TRUE,"S288385144","N"
-"159","eutspa","Eurasian Tree Sparrow","Passer montanus","L50028285","Fox Creek Estates Home","2025-12-13 07:42",13,38.610329,-90.5015868,TRUE,FALSE,TRUE,"S288466555","N"
-"160","eutspa","Eurasian Tree Sparrow","Passer montanus","L8656400","Pine Tree","2025-12-13 07:33",2,40.1600014,-88.4371266,TRUE,TRUE,TRUE,"S288452222","N"
-"161","eutspa","Eurasian Tree Sparrow","Passer montanus","L25083248","yard","2025-12-13 01:10",1,38.58321,-90.5637741,TRUE,FALSE,TRUE,"S288462447","N"
-"162","eutspa","Eurasian Tree Sparrow","Passer montanus","L28669666","1038 Harvest Home Circle, Saint Charles, Missouri, US (38.723, -90.608)","2025-12-12 21:12",2,38.7225802,-90.6079176,TRUE,FALSE,TRUE,"S288330856","N"
-"163","eutspa","Eurasian Tree Sparrow","Passer montanus","L11553965","11096 Knoles Rd, Petersburg US-IL 39.91991, -89.81664","2025-12-12 15:57",2,39.919914,-89.816645,TRUE,FALSE,TRUE,"S288309145","N"
-"164","eutspa","Eurasian Tree Sparrow","Passer montanus","L55914020","11801 205th St E, Hastings US-MN 44.65159, -92.86815","2025-12-12 14:17",4,44.651588,-92.868146,TRUE,TRUE,TRUE,"S288297241","N"
-"165","eutspa","Eurasian Tree Sparrow","Passer montanus","L31452056","Trail Ridge neighborhood","2025-12-12 13:22",1,41.8126446,-91.5194294,TRUE,FALSE,TRUE,"S288295274","N"
-"166","eutspa","Eurasian Tree Sparrow","Passer montanus","L55919697","205th Street East, Hastings, Minnesota","2025-12-12 12:57",5,44.6515678,-92.8702147,TRUE,TRUE,TRUE,"S288322755","N"
-"167","eutspa","Eurasian Tree Sparrow","Passer montanus","L40817752","Little Creve Coeur Ecological Area","2025-12-12 12:27",2,38.6998125,-90.5085468,TRUE,FALSE,FALSE,"S288294091","N"
-"168","eutspa","Eurasian Tree Sparrow","Passer montanus","L55907483","Fountain Hills Dr NW, Prior Lake US-MN 44.74521, -93.44452","2025-12-12 09:58",1,44.745214,-93.444517,TRUE,TRUE,TRUE,"S288265694","N"
-"169","eutspa","Eurasian Tree Sparrow","Passer montanus","L11048995","Taylor Road, north of Stebbenville Rd","2025-12-12 09:55",2,42.849087,-89.2207438,TRUE,TRUE,TRUE,"S288275915","N"
-"170","eutspa","Eurasian Tree Sparrow","Passer montanus","L55913907","Southeast of Stoughton","2025-12-12 09:35",3,42.8896137,-89.1558981,TRUE,TRUE,TRUE,"S288263227","N"
-"171","eutspa","Eurasian Tree Sparrow","Passer montanus","L39693539","206 S Crown Dr, Collinsville US-IL 38.65187, -90.01644","2025-12-12 09:12",4,38.651868,-90.016445,TRUE,FALSE,TRUE,"S288259485","N"
-"172","eutspa","Eurasian Tree Sparrow","Passer montanus","L30688894","Howard’s End","2025-12-12 08:49",2,41.697988,-90.59134,TRUE,FALSE,TRUE,"S288257591","N"
-"173","eutspa","Eurasian Tree Sparrow","Passer montanus","L23603003","Princeville Lagoons (no trespassing/restricted access)","2025-12-12 08:34",1,40.9190025,-89.7523646,TRUE,FALSE,FALSE,"S288265901","N"
-"174","eutspa","Eurasian Tree Sparrow","Passer montanus","L7881057","29955 140th Street, Herman, Minnesota, US (45.818, -96.171)","2025-12-12 08:00",2,45.8175059,-96.1713647,TRUE,TRUE,TRUE,"S288372409","N"
-"175","eutspa","Eurasian Tree Sparrow","Passer montanus","L4200954","My house","2025-12-12 08:00",1,42.0284595,-93.4524322,TRUE,FALSE,TRUE,"S288438482","N"
-"176","eutspa","Eurasian Tree Sparrow","Passer montanus","L55664661","11068 Greystone Estates Dr, Saint Louis US-MO 38.68174, -90.42856","2025-12-12 07:52",1,38.681741,-90.428557,TRUE,FALSE,TRUE,"S288280634","N"
-"177","eutspa","Eurasian Tree Sparrow","Passer montanus","L55904835","Ridge Crest Dr, Chesterfield","2025-12-12 07:49",18,38.686527,-90.512014,TRUE,FALSE,TRUE,"S288250810","N"
-"178","eutspa","Eurasian Tree Sparrow","Passer montanus","L13723129","Bryan Ave, Kirkwood, MO","2025-12-12 07:37",7,38.5880635,-90.4297429,TRUE,FALSE,TRUE,"S288253718","N"
-"179","eutspa","Eurasian Tree Sparrow","Passer montanus","L41310750","Eurasian Tree Sparrow Steakout","2025-12-11 15:28",1,44.0752458,-92.3389245,TRUE,TRUE,TRUE,"S288185632","N"
-"180","eutspa","Eurasian Tree Sparrow","Passer montanus","L55891826","Jeffers Pond Eurasian Tree Sparrow","2025-12-11 14:30",1,44.7447919,-93.4449465,TRUE,TRUE,TRUE,"S288184350","N"
-"181","eutspa","Eurasian Tree Sparrow","Passer montanus","L1321141","Confluence Rd.","2025-12-11 13:25",1,38.8454602,-90.1477736,TRUE,FALSE,FALSE,"S288197662","N"
-"182","eutspa","Eurasian Tree Sparrow","Passer montanus","L2519384","Iowa River--Power Co. Dam","2025-12-11 11:32",1,41.6738981,-91.5642823,TRUE,FALSE,FALSE,"S288173066","N"
-"183","eutspa","Eurasian Tree Sparrow","Passer montanus","L55887658","Ridge Crest Dr","2025-12-11 11:20",6,38.686573,-90.5119,TRUE,FALSE,TRUE,"S288164527","N"
-"184","eutspa","Eurasian Tree Sparrow","Passer montanus","L10751561","Riverbend Blvd","2025-12-11 11:00",8,40.178442,-88.4127142,TRUE,TRUE,TRUE,"S288437752","N"
-"185","eutspa","Eurasian Tree Sparrow","Passer montanus","L2106316","Whitecliff Park","2025-12-11 10:24",3,38.556841,-90.3682244,TRUE,FALSE,FALSE,"S288167872","N"
-"186","eutspa","Eurasian Tree Sparrow","Passer montanus","L55904003","2331 E Washington St, Iowa City US-IA 41.66033, -91.50025","2025-12-11 10:18",1,41.660326,-91.50025,TRUE,FALSE,TRUE,"S288246084","N"
-"187","eutspa","Eurasian Tree Sparrow","Passer montanus","L55886898","Fulton Compound","2025-12-11 10:14",11,38.686497,-90.512035,TRUE,FALSE,TRUE,"S288157397","N"
-"188","eutspa","Eurasian Tree Sparrow","Passer montanus","L54108624","3628 Sun Valley Dr NE, North Liberty US-IA 41.77428, -91.57772","2025-12-11 10:12",1,41.774284,-91.577719,TRUE,FALSE,TRUE,"S288147874","N"
-"189","eutspa","Eurasian Tree Sparrow","Passer montanus","L27224233","934 Purdy St, Jesup US-IA 42.47208, -92.05857","2025-12-11 10:05",1,42.472075,-92.058568,TRUE,FALSE,TRUE,"S288148482","N"
-"190","eutspa","Eurasian Tree Sparrow","Passer montanus","L37729366","301 Riverlands Way, West Alton US-MO 38.86884, -90.18265","2025-12-11 09:55",1,38.868843,-90.182651,TRUE,FALSE,TRUE,"S288151702","N"
-"191","eutspa","Eurasian Tree Sparrow","Passer montanus","L55885324","122 Ridge Crest Dr, Chesterfield US-MO 38.68644, -90.51204","2025-12-11 09:53",6,38.686438,-90.512045,TRUE,FALSE,TRUE,"S288149887","N"
-"192","eutspa","Eurasian Tree Sparrow","Passer montanus","L1321144","Red School Rd./Cora Island Rd.","2025-12-11 09:50",2,38.8523285,-90.1785707,TRUE,FALSE,FALSE,"S288149454","N"
-"193","eutspa","Eurasian Tree Sparrow","Passer montanus","L1372182","Mines of Spain SRA","2025-12-11 09:46",1,42.4567109,-90.6301689,TRUE,FALSE,FALSE,"S288183225","N"
-"194","eutspa","Eurasian Tree Sparrow","Passer montanus","L1385954","NW Winnebago County","2025-12-11 09:20",32,42.4649819,-89.2064112,TRUE,FALSE,TRUE,"S288164140","N"
-"195","eutspa","Eurasian Tree Sparrow","Passer montanus","L24880329","1342 Ironwood Avenue, Packwood, Iowa, US (41.114, -92.025)","2025-12-11 08:42",7,41.1139507,-92.0248368,TRUE,FALSE,TRUE,"S288137588","N"
-"196","eutspa","Eurasian Tree Sparrow","Passer montanus","L6128625","11096 Knoles Rd, Petersburg US-IL (39.9200,-89.8162)","2025-12-11 08:41",3,39.919978,-89.816211,TRUE,FALSE,TRUE,"S288134940","N"
-"197","eutspa","Eurasian Tree Sparrow","Passer montanus","L6993568","Home/Brandon- Buchanan Co.","2025-12-11 08:33",20,42.3122432,-91.9924307,TRUE,TRUE,TRUE,"S288134289","N"
-"198","eutspa","Eurasian Tree Sparrow","Passer montanus","L55882772","337 Red School Rd, West Alton US-MO 38.85203, -90.21333","2025-12-11 08:21",4,38.85203,-90.213332,TRUE,FALSE,TRUE,"S288135422","N"
-"199","eutspa","Eurasian Tree Sparrow","Passer montanus","L4449037","*Home","2025-12-11 07:48",1,40.7186723,-89.4767198,TRUE,FALSE,TRUE,"S288242209","N"
-"200","eutspa","Eurasian Tree Sparrow","Passer montanus","L18389749","home","2025-12-11 07:30",6,42.2955219,-89.2030381,TRUE,FALSE,TRUE,"S288134979","N"
-"201","eutspa","Eurasian Tree Sparrow","Passer montanus","L23091153","2530 County Road 343, Palmyra US-MO (39.8545,-91.5100)","2025-12-11 07:14",1,39.854493,-91.51003,TRUE,FALSE,TRUE,"S288127725","N"
-"202","eutspa","Eurasian Tree Sparrow","Passer montanus","L6466947","Lake Kakusha","2025-12-10 14:38",1,41.5620608,-89.1372406,TRUE,FALSE,FALSE,"S288069352","N"
-"203","eutspa","Eurasian Tree Sparrow","Passer montanus","L55864664","3565 Jeffers Pkwy NW, Prior Lake US-MN (44.7447,-93.4450)","2025-12-10 11:07",1,44.744667,-93.445023,TRUE,TRUE,TRUE,"S288046104","N"
-"204","eutspa","Eurasian Tree Sparrow","Passer montanus","L13615310","37 Cedar Drive, Washington, Iowa, US (41.296, -91.678)","2025-12-10 09:51",1,41.2961692,-91.6781709,TRUE,FALSE,TRUE,"S288035520","N"
-"205","eutspa","Eurasian Tree Sparrow","Passer montanus","L11405512","11096 Knoles Rd, Petersburg US-IL 39.92009, -89.81645","2025-12-10 08:12",2,39.920087,-89.816445,TRUE,FALSE,TRUE,"S288026754","N"
-"206","eutspa","Eurasian Tree Sparrow","Passer montanus","L9507137","11096 Knoles Rd, Petersburg US-IL (39.9199,-89.8163)","2025-12-10 07:52",2,39.919908,-89.816301,TRUE,FALSE,TRUE,"S288022126","N"
-"207","eutspa","Eurasian Tree Sparrow","Passer montanus","L27965427","Bennettville Road, Zwingle, Iowa, US","2025-12-09 15:52",1,42.3752355,-90.7085819,TRUE,FALSE,TRUE,"S287966933","N"
-"208","eutspa","Eurasian Tree Sparrow","Passer montanus","L55863738","13648 High Point Rd, Darlington US-WI 42.69222, -90.20454","2025-12-09 15:49",6,42.692221,-90.204544,TRUE,TRUE,TRUE,"S288040614","N"
-"209","eutspa","Eurasian Tree Sparrow","Passer montanus","L55848197","3075 Taylor Avenue, Gilman, Iowa, US (41.909, -92.883)","2025-12-09 15:38",13,41.9094572,-92.883161,TRUE,TRUE,TRUE,"S287962609","N"
-"210","eutspa","Eurasian Tree Sparrow","Passer montanus","L11453587","6520 Kingsley Ct, Dubuque US-IA 42.46747, -90.75802","2025-12-09 15:35",1,42.46747,-90.758017,TRUE,FALSE,TRUE,"S287961763","N"
-"211","eutspa","Eurasian Tree Sparrow","Passer montanus","L55848667","Bullock's oriole Stakeout","2025-12-09 15:25",2,38.6874155,-90.5114751,TRUE,FALSE,TRUE,"S287964730","N"
-"212","eutspa","Eurasian Tree Sparrow","Passer montanus","L55847458","1893 North 115th Avenue West, Melbourne, Iowa, US (41.863, -93.059)","2025-12-09 15:01",12,41.8626067,-93.0590123,TRUE,TRUE,TRUE,"S287958849","N"
-"213","eutspa","Eurasian Tree Sparrow","Passer montanus","L160183","Chautauqua NWR","2025-12-09 14:17",13,40.377205,-89.99195,TRUE,FALSE,FALSE,"S287953679","N"
-"214","eutspa","Eurasian Tree Sparrow","Passer montanus","L55846620","22 Ridge Crest Drive, Chesterfield, Missouri, US (38.687, -90.512)","2025-12-09 13:40",5,38.686785,-90.512204,TRUE,FALSE,TRUE,"S287954638","N"
-"215","eutspa","Eurasian Tree Sparrow","Passer montanus","L18897693","Little Creek Nature Area","2025-12-09 11:42",1,38.773473,-90.290317,TRUE,FALSE,FALSE,"S287971226","N"
-"216","eutspa","Eurasian Tree Sparrow","Passer montanus","L28414255","403 7th Avenue, Two Harbors, Minnesota, US (47.026, -91.668)","2025-12-09 10:46",2,47.0260386,-91.6675298,TRUE,TRUE,TRUE,"S287927565","N"
-"217","eutspa","Eurasian Tree Sparrow","Passer montanus","L55852250","22 Ridge Crest Dr, Chesterfield US-MO 38.68668, -90.51209","2025-12-09 10:40",15,38.686678,-90.512092,TRUE,FALSE,TRUE,"S287982373","N"
-"218","eutspa","Eurasian Tree Sparrow","Passer montanus","L12724211","Sunset Park","2025-12-09 10:25",22,41.4854928,-90.6027252,TRUE,FALSE,TRUE,"S287954103","N"
-"219","eutspa","Eurasian Tree Sparrow","Passer montanus","L265044","Winfield Dam/Sandy Chute and surrounding fields","2025-12-09 10:24",2,39.001065,-90.6969059,TRUE,FALSE,FALSE,"S287982154","N"
-"220","eutspa","Eurasian Tree Sparrow","Passer montanus","L55840461","22 Ridge Crest Drive, Chesterfield, Missouri, US (38.687, -90.512)","2025-12-09 09:27",2,38.6867832,-90.5122351,TRUE,FALSE,TRUE,"S287918949","N"
-"221","eutspa","Eurasian Tree Sparrow","Passer montanus","L9902501","11096 Knoles Rd, Petersburg US-IL (39.9201,-89.8164)","2025-12-09 08:22",2,39.920069,-89.81641,TRUE,FALSE,TRUE,"S287910422","N"
-"222","eutspa","Eurasian Tree Sparrow","Passer montanus","L12368482","11096 Knoles Rd, Petersburg US-IL 39.91996, -89.81629","2025-12-09 07:33",2,39.919965,-89.816285,TRUE,FALSE,TRUE,"S287906737","N"
+"1","brnowl","American Barn Owl","Tyto furcata","L56115115","County Road 43, Corpus Christi, Texas, US (27.615, -97.437)","2025-12-19 16:20",4,27.6154497,-97.437246,TRUE,FALSE,TRUE,"S289238838",NA
+"2","brnowl","American Barn Owl","Tyto furcata","L38611713","Symms Forest (Private)","2025-12-19 11:44",1,43.5675335,-116.7772493,TRUE,FALSE,TRUE,"S289219776",NA
+"3","brnowl","American Barn Owl","Tyto furcata","L1529276","Talking Water Gardens","2025-12-19 10:59",1,44.6444396,-123.0718371,TRUE,FALSE,FALSE,"S289224870",NA
+"4","brnowl","American Barn Owl","Tyto furcata","L225644","Holt Paradise Pond, Port Aransas","2025-12-19 10:50",1,27.8342117,-97.0720157,TRUE,FALSE,FALSE,"S289199799",NA
+"5","brnowl","American Barn Owl","Tyto furcata","L721572","Base and Meridian WA","2025-12-19 10:36",1,33.3791718,-112.3074389,TRUE,FALSE,FALSE,"S289219807",NA
+"6","brnowl","American Barn Owl","Tyto furcata","L267071","Frager Rd. (north)","2025-12-19 09:23",1,47.418883,-122.2678757,TRUE,FALSE,FALSE,"S289223538",NA
+"7","brnowl","American Barn Owl","Tyto furcata","L468463","E.E. Wilson WMA","2025-12-19 09:00",1,44.7014839,-123.20858,TRUE,FALSE,FALSE,"S286289441",NA
+"8","brnowl","American Barn Owl","Tyto furcata","L12968549","Del Valle Arroyo Staging Area","2025-12-19 08:37",1,37.6203497,-121.7559775,TRUE,FALSE,TRUE,"S289242438",NA
+"9","brnowl","American Barn Owl","Tyto furcata","L42859826","32701 Alipaz St, San Juan Capistrano US-CA 33.48770, -117.67300","2025-12-19 08:09",2,33.487698,-117.672999,TRUE,FALSE,TRUE,"S289204942",NA
+"10","brnowl","American Barn Owl","Tyto furcata","L500410","Sycamore Grove Park","2025-12-19 08:07",1,37.6444127,-121.782074,TRUE,FALSE,FALSE,"S289210681",NA
+"11","brnowl","American Barn Owl","Tyto furcata","L2776216","Sedgwick Reserve (restricted access)","2025-12-19 07:49",1,34.692571,-120.0405478,TRUE,FALSE,FALSE,"S289211350",NA
+"12","brnowl","American Barn Owl","Tyto furcata","L2757176","Del Valle Regional Park--Deer Jaw Trail","2025-12-19 07:39",1,37.5797654,-121.7012376,TRUE,FALSE,FALSE,"S289239289",NA
+"13","brnowl","American Barn Owl","Tyto furcata","L248858","San Bernard NWR (UTC 125)","2025-12-19 06:51",1,28.8938016,-95.5819988,TRUE,FALSE,FALSE,"S289211641",NA
+"14","brnowl","American Barn Owl","Tyto furcata","L2803476","San Bernard NWR--Bobcat Woods Trail","2025-12-19 06:47",1,28.8829529,-95.5845255,TRUE,FALSE,FALSE,"S289169592",NA
+"15","brnowl","American Barn Owl","Tyto furcata","L815817","Frank G. Bonelli RP/Puddingstone Reservoir and vicinity","2025-12-19 06:46",1,34.0870104,-117.8050125,TRUE,FALSE,FALSE,"S289235105",NA
+"16","brnowl","American Barn Owl","Tyto furcata","L9158017","Sycamore Grove Park - Arroyo Entrance","2025-12-19 05:15",1,37.6249019,-121.7573611,TRUE,FALSE,FALSE,"S289241987",NA
+"17","brnowl","American Barn Owl","Tyto furcata","L13221269","43395 Dunlap St, Banning US-CA 33.97094, -116.90460","2025-12-19 05:05",1,33.970943,-116.9046,TRUE,FALSE,TRUE,"S289200469",NA
+"18","brnowl","American Barn Owl","Tyto furcata","L56105219","Kaumualii Hwy, Lihue US-HI 21.96439, -159.42977","2025-12-19 04:52",1,21.964387,-159.429774,TRUE,FALSE,TRUE,"S289194053","N"
+"19","brnowl","American Barn Owl","Tyto furcata","L56094687","Home","2025-12-18 20:46",1,37.014876,-121.895414,TRUE,FALSE,TRUE,"S289143517",NA
+"20","brnowl","American Barn Owl","Tyto furcata","L950755","Redmond Watershed Preserve","2025-12-18 20:25",1,47.6941367,-122.0490503,TRUE,FALSE,FALSE,"S289149592",NA
+"21","brnowl","American Barn Owl","Tyto furcata","L4490978","High Island--Houston Audubon Field Station","2025-12-18 19:48",1,29.5620561,-94.3908982,TRUE,FALSE,FALSE,"S289175156",NA
+"22","brnowl","American Barn Owl","Tyto furcata","L28730455","10424 FM-960, Wharton US-TX 29.34001, -96.19575 Private Residence","2025-12-18 19:44",1,29.340009,-96.195749,TRUE,FALSE,TRUE,"S289135068",NA
+"23","brnowl","American Barn Owl","Tyto furcata","L658353","Salton Sea SRA--Headquarters and Campground","2025-12-18 17:35",1,33.5033635,-115.9148812,TRUE,FALSE,FALSE,"S289140365",NA
+"24","brnowl","American Barn Owl","Tyto furcata","L26112517","1557 Martingale Ct","2025-12-18 17:29",1,33.115566,-117.289995,TRUE,FALSE,TRUE,"S289134266",NA
+"25","brnowl","American Barn Owl","Tyto furcata","L210035","High Island--S.E. Gast Red Bay (UTC 054)","2025-12-18 17:28",1,29.5624413,-94.3969541,TRUE,FALSE,FALSE,"S289127754",NA
+"26","brnowl","American Barn Owl","Tyto furcata","L466488","Peninsula Open Space Trust--Wavecrest (Smith Field and blufftop area)","2025-12-18 16:22",1,37.4465089,-122.4378368,TRUE,FALSE,FALSE,"S289135820",NA
+"27","brnowl","American Barn Owl","Tyto furcata","L582123","Southern Glades Trail (C111 Canal outside ENP)","2025-12-18 15:47",1,25.4034735,-80.5586135,TRUE,FALSE,FALSE,"S289121854",NA
+"28","brnowl","American Barn Owl","Tyto furcata","L208918","Sweetwater Wetlands","2025-12-18 15:36",1,32.2790144,-111.0216061,TRUE,FALSE,FALSE,"S289126808",NA
+"29","brnowl","American Barn Owl","Tyto furcata","L21570363","Tolay Lake Regional Park, Petaluma US-CA 38.20499, -122.52097","2025-12-18 15:16",2,38.204988,-122.520966,TRUE,FALSE,TRUE,"S289139125",NA
+"30","brnowl","American Barn Owl","Tyto furcata","L10955051","Backyard Feeders","2025-12-18 14:23",1,48.4809671,-122.3939961,TRUE,FALSE,TRUE,"S289121302",NA
+"31","brnowl","American Barn Owl","Tyto furcata","L421224","Heritage Community Park and Natural Area","2025-12-18 11:27",1,37.2397586,-80.457859,TRUE,FALSE,FALSE,"S289101130",NA
+"32","brnowl","American Barn Owl","Tyto furcata","L5644375","Capezzoli Lane","2025-12-18 11:24",1,40.3366337,-120.3718553,TRUE,FALSE,TRUE,"S289115773",NA
+"33","brnowl","American Barn Owl","Tyto furcata","L1272938","Chapman Ranch","2025-12-18 11:15",6,27.5855791,-97.4555969,TRUE,TRUE,FALSE,"S289091892",NA
+"34","brnowl","American Barn Owl","Tyto furcata","L56007406","NM-152, Hillsboro US-NM 32.91903, -107.57496","2025-12-18 10:42",1,32.919028,-107.574963,TRUE,FALSE,TRUE,"S289101710",NA
+"35","brnowl","American Barn Owl","Tyto furcata","L129005","Laguna Atascosa NWR (LTC 024)","2025-12-18 10:29",1,26.2295776,-97.3466982,TRUE,FALSE,FALSE,"S289201598",NA
+"36","brnowl","American Barn Owl","Tyto furcata","L1294688","Sacramento Reg Wastewater Treatment Plant (limited access)","2025-12-18 09:13",1,38.4407495,-121.4792633,TRUE,FALSE,FALSE,"S289091387",NA
+"37","brnowl","American Barn Owl","Tyto furcata","L214134","Pickerington Ponds (Franklin Co.)","2025-12-18 09:09",1,39.8866949,-82.8006077,TRUE,TRUE,FALSE,"S289066857",NA
+"38","brnowl","American Barn Owl","Tyto furcata","L1026626","Olompali State Historic Park","2025-12-18 08:36",2,38.1488676,-122.5861359,TRUE,FALSE,FALSE,"S289106410",NA
+"39","brnowl","American Barn Owl","Tyto furcata","L28951993","Olompali State Historic Park, Novato US-CA 38.15150, -122.57182","2025-12-18 08:32",2,38.1515,-122.571823,TRUE,FALSE,TRUE,"S289107424",NA
+"40","brnowl","American Barn Owl","Tyto furcata","L209996","High Island--Eubanks Woods (UTC 053)","2025-12-18 08:32",NA,29.5664803,-94.3905334,TRUE,FALSE,FALSE,"S289094459",NA
+"41","brnowl","American Barn Owl","Tyto furcata","L17112898","Olompali State Historic Park, Novato US-CA 38.15407, -122.57184","2025-12-18 08:28",1,38.15407,-122.571845,TRUE,FALSE,TRUE,"S289119472",NA
+"42","brnowl","American Barn Owl","Tyto furcata","L56082544","70037, Belle Chasse US-LA 29.66276, -90.01260","2025-12-18 08:02",1,29.662756,-90.012603,TRUE,FALSE,TRUE,"S289087381",NA
+"43","brnowl","American Barn Owl","Tyto furcata","L163561","San Jacinto Wildlife Area","2025-12-18 07:38",1,33.8854488,-117.104104,TRUE,FALSE,FALSE,"S289135804",NA
+"44","brnowl","American Barn Owl","Tyto furcata","L375162","King Ranch--Santa Gertrudis Unit (CTC 087)","2025-12-18 07:24",1,27.5183197,-97.9093409,TRUE,FALSE,FALSE,"S289096003",NA
+"45","brnowl","American Barn Owl","Tyto furcata","L1443179","Ousterhout farm","2025-12-18 07:15",1,42.4507573,-122.8318927,TRUE,FALSE,TRUE,"S289088618",NA
+"46","brnowl","American Barn Owl","Tyto furcata","L56089056","Yawkey Wildlife Center (restricted access) CBC Territory S End South Island","2025-12-18 06:55",1,33.170347,-79.227558,TRUE,FALSE,TRUE,"S289187261",NA
+"47","brnowl","American Barn Owl","Tyto furcata","L52631995","(Restricted Access) Santa Rosa Ranch","2025-12-18 06:52",2,27.174662,-97.864659,TRUE,FALSE,TRUE,"S289057544",NA
+"48","brnowl","American Barn Owl","Tyto furcata","L391756","Jocelyn Nungaray NWR--Skillern Tract (UTC 050)","2025-12-18 06:52",1,29.6643945,-94.4222546,TRUE,FALSE,FALSE,"S289097472",NA
+"49","brnowl","American Barn Owl","Tyto furcata","L129098","High Island--Smith Oaks Sanctuary (UTC 052)","2025-12-18 06:13",3,29.573681,-94.3898535,TRUE,FALSE,FALSE,"S289062285",NA
+"50","brnowl","American Barn Owl","Tyto furcata","L10154068","Anderson Regional Park and Anderson Trail","2025-12-18 06:11",2,39.4632538,-119.7921255,TRUE,FALSE,FALSE,"S289071544",NA
+"51","brnowl","American Barn Owl","Tyto furcata","L1335937","Jocelyn Nungaray NWR, Anahuac—East Unit (closed hunting area)","2025-12-18 05:45",2,29.6759948,-94.4403021,TRUE,FALSE,FALSE,"S289207425",NA
+"52","brnowl","American Barn Owl","Tyto furcata","L56076910","Organ Pipe Cactus National Monument, Ajo US-AZ 32.20054, -112.91519","2025-12-18 05:39",1,32.20054,-112.915186,TRUE,FALSE,TRUE,"S289056449",NA
+"53","brnowl","American Barn Owl","Tyto furcata","L56088773","Yawkey Wildlife Center (restricted access) Cat Island, Georgetown US-SC 33.18434, -79.21880","2025-12-18 05:14",2,33.184344,-79.218795,TRUE,FALSE,TRUE,"S289116441",NA
+"54","brnowl","American Barn Owl","Tyto furcata","L38712748","Saddle Wood Dr, Novato US-CA 38.12133, -122.54763","2025-12-18 05:03",1,38.121331,-122.547629,TRUE,FALSE,TRUE,"S289115248",NA
+"55","brnowl","American Barn Owl","Tyto furcata","L4072996","FM 1985 (Whites Ranch Rd.) from Skillern Tract to main entrance to Anahuac N.W.R.","2025-12-18 04:35",26,29.6721611,-94.4849646,TRUE,TRUE,TRUE,"S289050108",NA
+"56","brnowl","American Barn Owl","Tyto furcata","L2758408","Anahuac NWR- Entrance Road","2025-12-18 04:32",1,29.639135,-94.542847,TRUE,FALSE,TRUE,"S289047267",NA
+"57","brnowl","American Barn Owl","Tyto furcata","L128874","Jocelyn Nungaray NWR  (Anahuac) (UTC 049)","2025-12-18 03:05",4,29.6148414,-94.5344353,TRUE,FALSE,FALSE,"S289047081",NA
+"58","brnowl","American Barn Owl","Tyto furcata","L2802038","High Island--N. of town & W. of TX124 (dirt track into salt marsh)","2025-12-18 02:48",2,29.5856816,-94.397192,TRUE,FALSE,FALSE,"S289042442",NA
+"59","brnowl","American Barn Owl","Tyto furcata","L128987","High Island (UTC 051)","2025-12-18 02:14",2,29.565224,-94.3963361,TRUE,FALSE,FALSE,"S289036812",NA
+"60","brnowl","American Barn Owl","Tyto furcata","L5497548","Guadalupe River South Fork","2025-12-18 01:58",1,28.4413742,-96.7983484,TRUE,FALSE,FALSE,"S289071810",NA
+"61","brnowl","American Barn Owl","Tyto furcata","L588398","Buck Island Ranch","2025-12-17 23:30",1,27.1545411,-81.1977705,TRUE,FALSE,FALSE,"S289031399",NA
+"62","brnowl","American Barn Owl","Tyto furcata","L56072601","8270 Westwood Dr, Gilroy US-CA (37.0158,-121.5946)","2025-12-17 22:35",1,37.015751,-121.594608,TRUE,FALSE,TRUE,"S289035516",NA
+"63","brnowl","American Barn Owl","Tyto furcata","L33605567","Alameda City Hall West","2025-12-17 20:13",3,37.787217,-122.303126,TRUE,FALSE,TRUE,"S289032524",NA
+"64","brnowl","American Barn Owl","Tyto furcata","L225850","American River Parkway--Lower Sunrise","2025-12-17 19:49",2,38.6269421,-121.2749183,TRUE,FALSE,FALSE,"S289029977",NA
+"65","brnowl","American Barn Owl","Tyto furcata","L553325","Palace of Fine Arts","2025-12-17 19:47",1,37.8028161,-122.4482489,TRUE,FALSE,FALSE,"S289233518",NA
+"66","brnowl","American Barn Owl","Tyto furcata","L47446547","Berkeley Hills Neighborhood","2025-12-17 19:19",1,37.902339,-122.267039,TRUE,FALSE,TRUE,"S289211081",NA
+"67","brnowl","American Barn Owl","Tyto furcata","L7228300","High Island--5th Street (not in Boy Scout Woods)","2025-12-17 18:30",1,29.5614635,-94.3917806,TRUE,FALSE,FALSE,"S289024300",NA
+"68","brnowl","American Barn Owl","Tyto furcata","L17643891","Stanford University--Hoover Tower","2025-12-17 18:21",2,37.4276296,-122.1669924,TRUE,FALSE,TRUE,"S289033477",NA
+"69","brnowl","American Barn Owl","Tyto furcata","L3073501","Malheur NWR--Center Patrol Road--Knox Pond to Benson Pond","2025-12-17 18:12",1,42.9307878,-118.8705254,TRUE,FALSE,TRUE,"S289083986",NA
+"70","brnowl","American Barn Owl","Tyto furcata","L1806446","Frog Pond WMA--Area between SW 376th St and SR9336","2025-12-17 17:37",1,25.4095548,-80.5659628,TRUE,FALSE,FALSE,"S289017161",NA
+"71","brnowl","American Barn Owl","Tyto furcata","L14927419","Noah's House near LLC","2025-12-17 17:37",1,34.442405,-119.8426241,TRUE,FALSE,TRUE,"S289023886",NA
+"72","brnowl","American Barn Owl","Tyto furcata","L7536922","Drigger's Road","2025-12-17 17:32",1,27.2988402,-81.2660781,TRUE,FALSE,FALSE,"S289011209",NA
+"73","brnowl","American Barn Owl","Tyto furcata","L38701536","2405 Spyglass Drive, Brentwood, California, US (37.912, -121.74)","2025-12-17 17:20",1,37.9119508,-121.7398574,TRUE,FALSE,TRUE,"S289024681",NA
+"74","brnowl","American Barn Owl","Tyto furcata","L22020599","Cow Creek Ranch, Damon","2025-12-17 17:08",1,29.319846,-95.6603814,TRUE,TRUE,FALSE,"S289019112",NA
+"75","brnowl","American Barn Owl","Tyto furcata","L1004802","Presidio--Crissy Field Lagoon","2025-12-17 16:37",1,37.8047658,-122.4562311,TRUE,FALSE,FALSE,"S289025564",NA
+"76","brnowl","American Barn Owl","Tyto furcata","L1496486","Putah Creek Riparian Reserve","2025-12-17 16:11",1,38.5186056,-121.7727216,TRUE,FALSE,FALSE,"S289033953",NA
+"77","brnowl","American Barn Owl","Tyto furcata","L56066905","Trent Kelley NW of Refuge","2025-12-17 15:56",1,29.7263309,-96.3222856,TRUE,FALSE,TRUE,"S289011068",NA
+"78","brnowl","American Barn Owl","Tyto furcata","L40541891","27454 St Andrews Ave, Wesley Chapel US-FL 28.24622, -82.36208","2025-12-17 15:18",NA,28.246215,-82.362078,TRUE,FALSE,TRUE,"S289003063",NA
+"79","brnowl","American Barn Owl","Tyto furcata","L18059481","Oxbow Meadows--South Application Field (restricted access)","2025-12-17 15:15",2,32.3832449,-84.9723992,TRUE,FALSE,FALSE,"S289233717",NA
+"80","brnowl","American Barn Owl","Tyto furcata","L56070423","Auto selected 32.98765, -118.55276","2025-12-17 15:00",1,32.987649,-118.552763,TRUE,FALSE,TRUE,"S289027155",NA
+"81","brnowl","American Barn Owl","Tyto furcata","L802762","Chino Creek Wetlands","2025-12-17 14:23",1,33.965644,-117.6771784,TRUE,FALSE,FALSE,"S289012869",NA
+"82","brnowl","American Barn Owl","Tyto furcata","L628879","Santa Cruz River--Sunset Rd.","2025-12-17 13:39",1,32.3058028,-111.0488022,TRUE,FALSE,FALSE,"S288998350",NA
+"83","brnowl","American Barn Owl","Tyto furcata","L38563275","Salmon Outdoor Classroom","2025-12-17 13:29",2,45.1672746,-113.8872264,TRUE,FALSE,FALSE,"S288999001",NA
+"84","brnowl","American Barn Owl","Tyto furcata","L2818052","UC Merced--campus","2025-12-17 12:19",1,37.3651093,-120.4240608,TRUE,FALSE,FALSE,"S289019931",NA
+"85","brnowl","American Barn Owl","Tyto furcata","L15036202","WVLT PBNP","2025-12-17 12:02",1,39.0604431,-78.97797,TRUE,FALSE,TRUE,"S288981936",NA
+"86","brnowl","American Barn Owl","Tyto furcata","L21819920","County Highway 740, Matthews US-MO 36.63808, -89.34597","2025-12-17 11:59",1,36.638085,-89.345974,TRUE,FALSE,TRUE,"S288981604",NA
+"87","brnowl","American Barn Owl","Tyto furcata","L976636","Mad River spit","2025-12-17 11:15",1,40.9439908,-124.1309166,TRUE,FALSE,FALSE,"S289017155",NA
+"88","brnowl","American Barn Owl","Tyto furcata","L6671497","Cotton Silos","2025-12-17 10:52",1,35.684913,-87.805012,TRUE,FALSE,TRUE,"S289021902",NA
+"89","brnowl","American Barn Owl","Tyto furcata","L17109505","Buckeye Canyon","2025-12-17 10:16",1,37.8250495,-121.7086134,TRUE,FALSE,TRUE,"S289024110",NA
+"90","brnowl","American Barn Owl","Tyto furcata","L56065791","Little Mountain Rd, Corinne US-UT 41.58934, -112.26085","2025-12-17 09:59",1,41.58934,-112.260851,TRUE,FALSE,TRUE,"S289005728",NA
+"91","brnowl","American Barn Owl","Tyto furcata","L6305606","Dutch Slough Restoration Area","2025-12-17 09:31",1,38.0112071,-121.6772854,TRUE,FALSE,FALSE,"S288987745",NA
+"92","brnowl","American Barn Owl","Tyto furcata","L3485867","Cedar Lake","2025-12-17 09:00",1,41.6636791,-122.4067926,TRUE,FALSE,FALSE,"S288999276",NA
+"93","brnowl","American Barn Owl","Tyto furcata","L56062709","3938 Sequim-Dungeness Way, Sequim, Washington, US (48.134, -123.119)","2025-12-17 08:41",2,48.1337699,-123.1191166,TRUE,FALSE,TRUE,"S288992161",NA
+"94","brnowl","American Barn Owl","Tyto furcata","L13025295","Empire Mine Road","2025-12-17 08:20",1,37.9589408,-121.804877,TRUE,FALSE,FALSE,"S289021373",NA
+"95","brnowl","American Barn Owl","Tyto furcata","L270303","Watson Lake and Riparian Preserve","2025-12-17 08:07",1,34.5822319,-112.4259328,TRUE,FALSE,FALSE,"S288984367",NA
+"96","brnowl","American Barn Owl","Tyto furcata","L3972709","Alameda Creek--Staging Area","2025-12-17 08:00",1,37.5643907,-122.069757,TRUE,FALSE,FALSE,"S288975672",NA
+"97","brnowl","American Barn Owl","Tyto furcata","L56068518","Eagle Lake cbc area 3b","2025-12-17 07:24",5,40.56328,-120.634914,TRUE,FALSE,TRUE,"S289018181",NA
+"98","brnowl","American Barn Owl","Tyto furcata","L13219201","Haleakala NP--Summit","2025-12-17 07:00",1,20.7120835,-156.2495577,TRUE,FALSE,FALSE,"S289002050","N"
+"99","brnowl","American Barn Owl","Tyto furcata","L56068487","2025 Attwater CBC Area 5, Eagle Lake, Texas, US","2025-12-17 06:53",1,29.6301476,-96.2955818,TRUE,FALSE,TRUE,"S289018050",NA
+"100","brnowl","American Barn Owl","Tyto furcata","L38435415","Sauvie Island - Hunt Unit","2025-12-17 06:38",NA,45.7275019,-122.7764018,TRUE,FALSE,TRUE,"S289019260",NA
+"101","brnowl","American Barn Owl","Tyto furcata","L1085299","Three Lakes WMA--Prairie Lakes Unit","2025-12-17 05:02",1,27.9123525,-81.1302567,TRUE,FALSE,FALSE,"S288929183",NA
+"102","brnowl","American Barn Owl","Tyto furcata","L568689","Lake Wichita (Archer Co.)","2025-12-16 22:39",1,33.8308344,-98.5517443,TRUE,FALSE,FALSE,"S288915100",NA
+"103","brnowl","American Barn Owl","Tyto furcata","L56046355","203 Osage Dr, Leander US-TX (30.5441,-97.8424)","2025-12-16 20:53",1,30.544054,-97.842415,TRUE,FALSE,TRUE,"S288912204",NA
+"104","brnowl","American Barn Owl","Tyto furcata","L56047216","1351 Hopkins St, Berkeley US-CA 37.87934, -122.28646","2025-12-16 20:46",1,37.879336,-122.286461,TRUE,FALSE,TRUE,"S288915408",NA
+"105","brnowl","American Barn Owl","Tyto furcata","L1505042","Bolivar Flats Shorebird Sanctuary--Rettilon Rd","2025-12-16 20:46",1,29.3872984,-94.7278439,TRUE,FALSE,FALSE,"S288945011",NA
+"106","brnowl","American Barn Owl","Tyto furcata","L56047024","26692 Sinforosa Dr, Mission Viejo US-CA 33.61035, -117.66434","2025-12-16 20:32",1,33.61035,-117.664345,TRUE,FALSE,TRUE,"S288914843",NA
+"107","brnowl","American Barn Owl","Tyto furcata","L15547655","(0Norman Yard)","2025-12-16 20:13",1,36.98312,-121.881705,TRUE,FALSE,TRUE,"S288914659",NA
+"108","brnowl","American Barn Owl","Tyto furcata","L40031056","Lighthouse Lodge","2025-12-16 18:23",1,29.288103,-89.368015,TRUE,FALSE,TRUE,"S288903142",NA
+"109","brnowl","American Barn Owl","Tyto furcata","L5148115","Florence Landing North","2025-12-16 17:43",1,29.9276565,-92.5132865,TRUE,FALSE,TRUE,"S288948278",NA
+"110","brnowl","American Barn Owl","Tyto furcata","L16565422","Shelby Farms Park--Gardner Rd. Marsh","2025-12-16 17:22",1,35.1424179,-89.8488404,TRUE,FALSE,FALSE,"S288898498",NA
+"111","brnowl","American Barn Owl","Tyto furcata","L1509906","Utah Lake Parkway Trail (North Shore)","2025-12-16 16:34",2,40.3622447,-111.8832118,TRUE,FALSE,FALSE,"S288904571",NA
+"112","brnowl","American Barn Owl","Tyto furcata","L41289816","Tolay","2025-12-16 16:32",2,38.203006,-122.520457,TRUE,FALSE,TRUE,"S288910950",NA
+"113","brnowl","American Barn Owl","Tyto furcata","L164961","Bear River MBR--Auto Tour Loop","2025-12-16 15:48",1,41.4692291,-112.2947788,TRUE,FALSE,FALSE,"S288972986",NA
+"114","brnowl","American Barn Owl","Tyto furcata","L168765","Whitewater Draw Wildlife Area","2025-12-16 13:00",1,31.5614979,-109.7200191,TRUE,FALSE,FALSE,"S288890087",NA
+"115","brnowl","American Barn Owl","Tyto furcata","L56038382","1010–1434 Sycamore Landing Rd, Waverly US-TN (35.9457,-87.8921)","2025-12-16 12:35",1,35.945712,-87.892116,TRUE,TRUE,TRUE,"S288874503",NA
+"116","brnowl","American Barn Owl","Tyto furcata","L56038014","10000 Cherry Run Rd, Greenville US-NC (35.6818,-77.1596)","2025-12-16 12:25",1,35.681812,-77.159607,TRUE,FALSE,TRUE,"S288872796",NA
+"117","brnowl","American Barn Owl","Tyto furcata","L55651118","Rodgers Creek, Seven Flags","2025-12-16 11:37",1,38.2600013,-122.4908251,TRUE,FALSE,TRUE,"S288910814",NA
+"118","brnowl","American Barn Owl","Tyto furcata","L370829","Salton Sea--W Bowles Rd. - west end","2025-12-16 11:15",1,33.1178563,-115.6789112,TRUE,FALSE,FALSE,"S288881997",NA
+"119","brnowl","American Barn Owl","Tyto furcata","L1033301","Dairy Creek Park","2025-12-16 10:44",1,45.5171583,-123.0087447,TRUE,FALSE,FALSE,"S288873405",NA
+"120","brnowl","American Barn Owl","Tyto furcata","L6583073","Monkeys Eyebrow Area","2025-12-16 10:15",1,37.180106,-88.938678,TRUE,FALSE,TRUE,"S288979829",NA
+"121","brnowl","American Barn Owl","Tyto furcata","L13007235","33328 Hinck Road, Tangent, Oregon, US (44.55, -123.137)Falcon Farm","2025-12-16 10:15",1,44.5497026,-123.1373043,TRUE,FALSE,TRUE,"S288905755",NA
+"122","brnowl","American Barn Owl","Tyto furcata","L56045576","Sutter Buttes—Shaeffer Ranch","2025-12-16 10:03",1,39.294844,-121.816974,TRUE,FALSE,TRUE,"S288908715",NA
+"123","brnowl","American Barn Owl","Tyto furcata","L13019407","29768 Buchanan Rd, Corvallis US-OR 44.44655, -123.31212","2025-12-16 10:00",1,44.446551,-123.312124,TRUE,FALSE,TRUE,"S288911414",NA
+"124","brnowl","American Barn Owl","Tyto furcata","L1351987","DeChambeau Ranch","2025-12-16 08:57",2,38.047838,-119.09595,TRUE,TRUE,FALSE,"S288905759",NA
+"125","brnowl","American Barn Owl","Tyto furcata","L17101569","Hwy 31, Summer Lake, Oregon, US (42.87, -120.803)","2025-12-16 08:05",1,42.8697468,-120.8031326,TRUE,FALSE,TRUE,"S288858935",NA
+"126","brnowl","American Barn Owl","Tyto furcata","L368257","Gray Lodge Wildlife Area","2025-12-16 07:56",1,39.3344518,-121.8354092,TRUE,FALSE,FALSE,"S289032686",NA
+"127","brnowl","American Barn Owl","Tyto furcata","L56028839","1674 Dudley Ferry Loop, Hurricane Mills, TN, US (35.937, -87.81)","2025-12-16 07:26",3,35.936785,-87.810375,TRUE,TRUE,TRUE,"S288835541",NA
+"128","brnowl","American Barn Owl","Tyto furcata","L38697762","Powderhorn Ranch SP","2025-12-16 07:20",1,28.4971338,-96.4630768,TRUE,FALSE,TRUE,"S288897948",NA
+"129","brnowl","American Barn Owl","Tyto furcata","L729118","Santa Cruz River--Sunset Rd. to Camino del Cerro","2025-12-16 07:13",1,32.2993125,-111.0430877,TRUE,FALSE,FALSE,"S288891184",NA
+"130","brnowl","American Barn Owl","Tyto furcata","L457440","Douglas Branch CA","2025-12-16 06:59",1,37.9247,-94.3771,TRUE,FALSE,FALSE,"S288847147",NA
+"131","brnowl","American Barn Owl","Tyto furcata","L5244386","White Lake Wetlands Conservation Area CBC: Pine Island Area","2025-12-16 06:30",2,29.8642993,-92.4181509,TRUE,FALSE,TRUE,"S289196549",NA
+"132","brnowl","American Barn Owl","Tyto furcata","L673436","Sonny Bono Salton Sea NWR--Union Tract / Visitor Center","2025-12-16 05:38",1,33.1774666,-115.6150961,TRUE,FALSE,FALSE,"S288828030",NA
+"133","brnowl","American Barn Owl","Tyto furcata","L10646785","Glades Boat Storage, Moore Haven, Florida","2025-12-16 03:00",1,26.789502,-81.2412572,TRUE,FALSE,TRUE,"S288934433",NA
+"134","brnowl","American Barn Owl","Tyto furcata","L47878758","Laguna Vista Cove","2025-12-16 03:00",1,26.1197149,-97.3103358,TRUE,FALSE,TRUE,"S288911751",NA
+"135","brnowl","American Barn Owl","Tyto furcata","L8724126","Southport Pkwy pond","2025-12-15 22:45",1,38.5210695,-121.5686422,TRUE,FALSE,FALSE,"S288791008",NA
+"136","brnowl","American Barn Owl","Tyto furcata","L9000264","Golden Hill Home (Private property, no public access)","2025-12-15 19:58",1,32.7181439,-117.1393115,TRUE,FALSE,TRUE,"S288784443",NA
+"137","brnowl","American Barn Owl","Tyto furcata","L56016681","Location owl","2025-12-15 19:21",1,38.607145,-121.5145397,TRUE,FALSE,TRUE,"S288782331",NA
+"138","brnowl","American Barn Owl","Tyto furcata","L56021411","US-385, Alpine US-TX 30.00254, -103.27112","2025-12-15 18:59",1,30.002541,-103.271118,TRUE,FALSE,TRUE,"S288802894",NA
+"139","brnowl","American Barn Owl","Tyto furcata","L56015847","35772–36130 N Honeyman Rd, Scappoose US-OR 45.79373, -122.82297","2025-12-15 17:55",1,45.793726,-122.822967,TRUE,FALSE,TRUE,"S288778169",NA
+"140","brnowl","American Barn Owl","Tyto furcata","L56015821","Coyote Creek Parkway, San Jose US-CA 37.17628, -121.67745","2025-12-15 17:53",1,37.176278,-121.677447,TRUE,FALSE,TRUE,"S288778023",NA
+"141","brnowl","American Barn Owl","Tyto furcata","L17912989","Kuebler Industrial Park Wetlands","2025-12-15 16:47",1,44.887853,-122.969242,TRUE,FALSE,FALSE,"S288774072",NA
+"142","brnowl","American Barn Owl","Tyto furcata","L268772","Bent CR HH east of CR 13","2025-12-15 16:28",1,38.0848,-103.17154,TRUE,FALSE,FALSE,"S288768867",NA
+"143","brnowl","American Barn Owl","Tyto furcata","L738400","Virgin River Trail--Riverside Trailhead","2025-12-15 16:10",2,37.0867822,-113.5617685,TRUE,FALSE,FALSE,"S288772474",NA
+"144","brnowl","American Barn Owl","Tyto furcata","L3313741","Nelson Rd--West of Nelson","2025-12-15 13:33",NA,39.5515461,-121.8746155,TRUE,FALSE,FALSE,"S288784659",NA
+"145","brnowl","American Barn Owl","Tyto furcata","L56009893","STP CBC Near Kelly Lake","2025-12-15 12:37",1,28.776829,-96.01035,TRUE,FALSE,TRUE,"S288748995",NA
+"146","brnowl","American Barn Owl","Tyto furcata","L10314833","Hurricane Mills","2025-12-15 12:24",1,35.971508,-87.779433,TRUE,TRUE,TRUE,"S288743414",NA
+"147","brnowl","American Barn Owl","Tyto furcata","L6954784","Joe Mclure’s Farm","2025-12-15 11:48",1,35.936862,-87.810676,TRUE,TRUE,TRUE,"S288743401",NA
+"148","brnowl","American Barn Owl","Tyto furcata","L56016934","Chimineas Ranch (35.068, -119.985)","2025-12-15 11:05",1,35.0680478,-119.9846346,TRUE,FALSE,TRUE,"S288783414",NA
+"149","brnowl","American Barn Owl","Tyto furcata","L3753646","San Luis Rey River--Douglas to College (including M. B. Park)","2025-12-15 10:27",1,33.2417057,-117.3048326,TRUE,FALSE,FALSE,"S288738165",NA
+"150","brnowl","American Barn Owl","Tyto furcata","L511813","Mad Island Marsh Preserve / WMA (CTC 007)","2025-12-15 09:21",2,28.6475113,-96.0950947,TRUE,FALSE,FALSE,"S288726020",NA
+"151","brnowl","American Barn Owl","Tyto furcata","L290797","Santa Cruz River--Sunset Rd. to Orange Grove Rd.","2025-12-15 08:08",1,32.3157892,-111.0569715,TRUE,FALSE,FALSE,"S288750239",NA
+"152","brnowl","American Barn Owl","Tyto furcata","L2209317","Jamestown Beach","2025-12-15 07:55",1,48.1256532,-123.0824089,TRUE,FALSE,FALSE,"S288781623",NA
+"153","brnowl","American Barn Owl","Tyto furcata","L998476","Port Williams--Holland, Schmuck, John Scott Rds.","2025-12-15 07:40",1,48.1004386,-123.0731392,TRUE,FALSE,FALSE,"S288835650",NA
+"154","brnowl","American Barn Owl","Tyto furcata","L216132","Coyote Hills Regional Park","2025-12-15 07:30",1,37.553764,-122.0875025,TRUE,FALSE,FALSE,"S288727847",NA
+"155","brnowl","American Barn Owl","Tyto furcata","L2963042","Newell Open Space","2025-12-15 07:23",1,38.182069,-122.23423,TRUE,FALSE,FALSE,"S288783732",NA
+"156","brnowl","American Barn Owl","Tyto furcata","L38663950","Joyce Island Road, Suisun City, California, US (38.193, -121.996)","2025-12-15 07:13",1,38.1934716,-121.9958221,TRUE,FALSE,TRUE,"S288761902",NA
+"157","brnowl","American Barn Owl","Tyto furcata","L662379","Barr Lake SP--Neidrach Nature Trail & Visitor Center area","2025-12-15 07:09",1,39.9369479,-104.7524576,TRUE,FALSE,FALSE,"S288712364",NA
+"158","brnowl","American Barn Owl","Tyto furcata","L17154788","Von Gonten Ranch (private)","2025-12-15 06:45",1,28.71346,-96.051897,TRUE,FALSE,TRUE,"S288756242",NA
+"159","brnowl","American Barn Owl","Tyto furcata","L56015113","Selkirk East Ranch CBC - Private Property","2025-12-15 06:45",1,28.7428525,-95.9542411,TRUE,FALSE,TRUE,"S288766046",NA
+"160","brnowl","American Barn Owl","Tyto furcata","L53187674","Buena Vista Ranch (restricted access)","2025-12-15 06:37",1,26.966751,-98.454986,TRUE,FALSE,TRUE,"S288775712",NA
+"161","brnowl","American Barn Owl","Tyto furcata","L17135535","Marathon Martinez (restricted access)","2025-12-15 06:26",1,38.033485,-122.0765,TRUE,FALSE,FALSE,"S289240537",NA
+"162","brnowl","American Barn Owl","Tyto furcata","L28343087","77414, Bay City US-TX 28.74801, -96.01052","2025-12-15 06:20",2,28.748009,-96.010516,TRUE,FALSE,TRUE,"S288705275",NA
+"163","brnowl","American Barn Owl","Tyto furcata","L14150053","Cays Rd north of Woodcock Rd, Sequim, WA","2025-12-15 06:17",1,48.1206903,-123.1667528,TRUE,FALSE,TRUE,"S288705111",NA
+"164","brnowl","American Barn Owl","Tyto furcata","L1437095","Lower Dungeness R. (Creamery) Trail","2025-12-15 05:47",1,48.1353767,-123.1375856,TRUE,FALSE,FALSE,"S288701727",NA
+"165","brnowl","American Barn Owl","Tyto furcata","L1462468","Grizzly Island Wildlife Area--Goodyear Slough Unit","2025-12-15 05:43",1,38.0689227,-122.1196856,TRUE,FALSE,FALSE,"S288710493",NA
+"166","brnowl","American Barn Owl","Tyto furcata","L2056359","South Waterfront","2025-12-14 21:45",1,45.4977745,-122.6678038,TRUE,FALSE,FALSE,"S288710433",NA
+"167","brnowl","American Barn Owl","Tyto furcata","L10842174","FTF Front Porch, Caldwell, Texas, US (30.566, -96.518)","2025-12-14 21:20",1,30.5655009,-96.5175617,TRUE,FALSE,TRUE,"S288666650",NA
+"168","brnowl","American Barn Owl","Tyto furcata","L23133905","stakeout Northern Parula, Albany Target riparian (2023)","2025-12-14 19:13",1,37.884268,-122.3068478,TRUE,FALSE,FALSE,"S288675324",NA
+"169","brnowl","American Barn Owl","Tyto furcata","L375640","Jessie's Grove","2025-12-14 17:53",1,38.1517024,-121.3373423,TRUE,FALSE,FALSE,"S288664796",NA
+"170","brnowl","American Barn Owl","Tyto furcata","L55993126","Craig Shop Rd","2025-12-14 17:38",2,38.2418151,-78.8834496,TRUE,FALSE,TRUE,"S288663333",NA
+"171","brnowl","American Barn Owl","Tyto furcata","L3187499","Lake Apopka North Shore--Lake Apopka Loop Trail (Bridge to Clay Island Trailhead)","2025-12-14 17:19",1,28.68941,-81.68099,TRUE,FALSE,FALSE,"S288667409",NA
+"172","brnowl","American Barn Owl","Tyto furcata","L55991939","Sunnyside Wildlife Area - Giffin Lake Rd","2025-12-14 17:14",1,46.24374,-120.024097,TRUE,FALSE,TRUE,"S288656348",NA
+"173","brnowl","American Barn Owl","Tyto furcata","L126637","Bombay Hook National Wildlife Refuge","2025-12-14 17:00",1,39.2670818,-75.4695511,TRUE,FALSE,FALSE,"S288703868",NA
+"174","brnowl","American Barn Owl","Tyto furcata","L55992507","Wireless Rd.--46.16153, -123.83215","2025-12-14 16:52",NA,46.161525,-123.832149,TRUE,FALSE,TRUE,"S288659707",NA
+"175","brnowl","American Barn Owl","Tyto furcata","L691421","Terrace Pt. and Coastal Science Campus","2025-12-14 16:47",1,36.9508373,-122.0639798,TRUE,FALSE,FALSE,"S288656391",NA
+"176","brnowl","American Barn Owl","Tyto furcata","L4485026","Chaminade Hiking Trails","2025-12-14 16:30",1,37.008228,-121.9789396,TRUE,FALSE,FALSE,"S288702688",NA
+"177","brnowl","American Barn Owl","Tyto furcata","L8647568","Massey Creek Meadow","2025-12-14 16:28",1,39.9424082,-121.0528757,TRUE,FALSE,TRUE,"S289121079",NA
+"178","brnowl","American Barn Owl","Tyto furcata","L1296120","Wireless Rd.","2025-12-14 16:14",1,46.1602748,-123.8265181,TRUE,FALSE,FALSE,"S288657034",NA
+"179","brnowl","American Barn Owl","Tyto furcata","L954210","Mayfield Slough","2025-12-14 15:51",1,37.450843,-122.1023512,TRUE,FALSE,FALSE,"S288660260",NA
+"180","brnowl","American Barn Owl","Tyto furcata","L48191596","Willard Home","2025-12-14 15:49",1,41.3627074,-112.0400422,TRUE,FALSE,TRUE,"S288640242",NA
+"181","brnowl","American Barn Owl","Tyto furcata","L39282540","Coyote Hills Regional Park, Fremont US-CA (37.5511,-122.0855)","2025-12-14 15:38",1,37.551056,-122.085544,TRUE,FALSE,TRUE,"S288657910",NA
+"182","brnowl","American Barn Owl","Tyto furcata","L17146853","CAST Area 14. Blossom Rd—Peltier Rd","2025-12-14 14:47",1,38.189788,-121.447116,TRUE,FALSE,TRUE,"S288646590",NA
+"183","brnowl","American Barn Owl","Tyto furcata","L653390","Meadowlark Farm - private property","2025-12-14 14:47",1,38.5586831,-78.8618946,TRUE,FALSE,TRUE,"S288660631",NA
+"184","brnowl","American Barn Owl","Tyto furcata","L22294666","Shelby Farms - Gardener Road","2025-12-14 14:45",2,35.1430144,-89.8504606,TRUE,FALSE,TRUE,"S288652914",NA
+"185","brnowl","American Barn Owl","Tyto furcata","L55982833","943 Port Mahon Road, Dover, Delaware, US (39.174, -75.433)","2025-12-14 14:26",1,39.1735377,-75.4326098,TRUE,FALSE,TRUE,"S288611852",NA
+"186","brnowl","American Barn Owl","Tyto furcata","L55318463","3555 Van Diest Road, Winnemucca, Nevada, US (40.794, -117.775) Barn Owl Barn","2025-12-14 14:24",2,40.793515,-117.775255,TRUE,FALSE,TRUE,"S288642965",NA
+"187","brnowl","American Barn Owl","Tyto furcata","L55988367","Fields South Of Middle School","2025-12-14 13:59",1,46.1400088,-123.9169799,TRUE,FALSE,TRUE,"S288637815",NA
+"188","brnowl","American Barn Owl","Tyto furcata","L55934529","91900–92198 Wireless Rd, Astoria US-OR 46.14739, -123.82973","2025-12-14 13:41",1,46.147392,-123.829727,TRUE,FALSE,TRUE,"S288640024",NA
+"189","brnowl","American Barn Owl","Tyto furcata","L21829516","CAFR CBC Area 3B Section Westside SR299, Lee, Lewis, Cable, & Williams Rd","2025-12-14 13:30",1,41.0713734,-121.3733859,TRUE,FALSE,TRUE,"S288663239",NA
+"190","brnowl","American Barn Owl","Tyto furcata","L14810301","San Bernardo Creek Road","2025-12-14 12:37",2,35.3638362,-120.8067541,TRUE,FALSE,FALSE,"S288645979",NA
+"191","brnowl","American Barn Owl","Tyto furcata","L798090","Tolay Regional Park","2025-12-14 12:01",2,38.2106695,-122.5126648,TRUE,FALSE,FALSE,"S288728255",NA
+"192","brnowl","American Barn Owl","Tyto furcata","L55991247","20250 N Staten Island Rd, Lodi US-CA 38.19259, -121.48164","2025-12-14 11:39",1,38.192589,-121.481642,TRUE,FALSE,TRUE,"S288652632",NA
+"193","brnowl","American Barn Owl","Tyto furcata","L38642219","San Pablo Reservoir Recreation Area, Orinda US-CA 37.90219, -122.21189","2025-12-14 11:00",1,37.902195,-122.211895,TRUE,FALSE,TRUE,"S288624936",NA
+"194","brnowl","American Barn Owl","Tyto furcata","L56001839","44.60640_-122.84685","2025-12-14 11:00",2,44.6064,-122.84685,TRUE,FALSE,TRUE,"S288706117",NA
+"195","brnowl","American Barn Owl","Tyto furcata","L55979527","Chinook Dike Rd, Chinook US-WA 46.31640, -123.95757","2025-12-14 10:15",1,46.316404,-123.957569,TRUE,FALSE,TRUE,"S288597967",NA
+"196","brnowl","American Barn Owl","Tyto furcata","L21841615","CAST Area 14 Canal Tract Ranch","2025-12-14 10:06",5,38.195341,-121.448151,TRUE,FALSE,TRUE,"S288639036",NA
+"197","brnowl","American Barn Owl","Tyto furcata","L21034811","UTRGV—Duckhead (Limited Access)","2025-12-14 09:49",1,25.8988206,-97.4752593,TRUE,FALSE,FALSE,"S288590816",NA
+"198","brnowl","American Barn Owl","Tyto furcata","L356505","Santee Coastal Reserve (fall and winter restricted access)","2025-12-14 09:35",1,33.1477339,-79.3961066,TRUE,FALSE,FALSE,"S288589765",NA
+"199","brnowl","American Barn Owl","Tyto furcata","L34800865","Mt Pisgah Arboretum","2025-12-14 09:20",1,44.00159,-122.979254,TRUE,FALSE,TRUE,"S288783008",NA
+"200","brnowl","American Barn Owl","Tyto furcata","L56013602","93265, Springville US-CA 36.20717, -118.78548","2025-12-14 09:10",1,36.207175,-118.785479,TRUE,FALSE,TRUE,"S288767739",NA
+"201","brnowl","American Barn Owl","Tyto furcata","L465721","Nez Perce National Historical Park--Spalding Site","2025-12-14 09:10",1,46.4485767,-116.8186355,TRUE,FALSE,FALSE,"S288667560",NA
+"202","brnowl","American Barn Owl","Tyto furcata","L6588086","The Uplands","2025-12-14 08:55",1,37.8544268,-122.2467881,TRUE,FALSE,TRUE,"S288602549",NA
+"203","brnowl","American Barn Owl","Tyto furcata","L55983118","508 Oak Vista Ct, Santa Rosa US-CA 38.42686, -122.58321","2025-12-14 08:54",1,38.426859,-122.583207,TRUE,FALSE,TRUE,"S288613225",NA
+"204","brnowl","American Barn Owl","Tyto furcata","L5074807","Palomares Road","2025-12-14 08:16",1,37.6788185,-122.0147181,TRUE,FALSE,FALSE,"S288634909",NA
+"205","brnowl","American Barn Owl","Tyto furcata","L129065","Resaca de la Palma SP WBC (Brownsville) (LTC 048)","2025-12-14 08:15",1,25.9965839,-97.5690513,TRUE,FALSE,FALSE,"S288730106",NA
+"206","brnowl","American Barn Owl","Tyto furcata","L501766","Fairfield ","2025-12-14 08:15",1,40.260763,-112.0941067,TRUE,FALSE,FALSE,"S288879889",NA
+"207","brnowl","American Barn Owl","Tyto furcata","L38638280","San Pablo Reservoir Recreation Area, El Sobrante US-CA 37.91458, -122.23379","2025-12-14 08:07",1,37.914577,-122.233795,TRUE,FALSE,TRUE,"S288781020",NA
+"208","brnowl","American Barn Owl","Tyto furcata","L56014060","Ward & Santa Fe","2025-12-14 08:00",1,37.8984422,-122.2881102,TRUE,FALSE,TRUE,"S288769701",NA
+"209","brnowl","American Barn Owl","Tyto furcata","L55991721","20250 N Staten Island Rd, Thornton US-CA 38.20146, -121.51327","2025-12-14 07:48",1,38.201458,-121.513274,TRUE,FALSE,TRUE,"S288655144",NA
+"210","brnowl","American Barn Owl","Tyto furcata","L3637999","Zuma Canyon--Lower","2025-12-14 07:38",1,34.0220843,-118.8156956,TRUE,FALSE,FALSE,"S288603795",NA
+"211","brnowl","American Barn Owl","Tyto furcata","L268122","Lake Merritt","2025-12-14 07:25",1,37.8035451,-122.2567177,TRUE,FALSE,FALSE,"S288620312",NA
+"212","brnowl","American Barn Owl","Tyto furcata","L773892","Ulistac Natural Area","2025-12-14 07:12",1,37.4057129,-121.9552374,TRUE,FALSE,FALSE,"S288622249",NA
+"213","brnowl","American Barn Owl","Tyto furcata","L299325","Isenberg Crane Reserve","2025-12-14 07:06",1,38.1576924,-121.4437401,TRUE,FALSE,FALSE,"S288587757",NA
+"214","brnowl","American Barn Owl","Tyto furcata","L21472077","Paynes Prairie Preserve SP--Persimmon Point (restricted access)","2025-12-14 07:04",3,29.5929185,-82.2841556,TRUE,FALSE,FALSE,"S288564632",NA
+"215","brnowl","American Barn Owl","Tyto furcata","L55969706","10617–10651 SR-14, Goldendale US-WA 45.73216, -120.71262","2025-12-14 07:01",1,45.732158,-120.712617,TRUE,FALSE,TRUE,"S288554079",NA
+"216","brnowl","American Barn Owl","Tyto furcata","L3115893","East Skipanon Dike Unit (102)","2025-12-14 07:00",1,46.1686886,-123.9092299,TRUE,FALSE,TRUE,"S288574573",NA
+"217","brnowl","American Barn Owl","Tyto furcata","L1540577","Crown Road, IFAS horse unit","2025-12-14 06:55",2,29.6062266,-82.3488197,TRUE,FALSE,TRUE,"S288546018",NA
+"218","brnowl","American Barn Owl","Tyto furcata","L765025","Meadowlands District IBA","2025-12-14 06:53",2,40.8060136,-74.0863895,TRUE,FALSE,FALSE,"S288527900",NA
+"219","brnowl","American Barn Owl","Tyto furcata","L55836533","PPPSP-fields N of rail trail (restricted access)","2025-12-14 06:51",1,29.612455,-82.284991,TRUE,FALSE,TRUE,"S288527657",NA
+"220","brnowl","American Barn Owl","Tyto furcata","L770565","South Padre Is.--Birding and Nature Center","2025-12-14 06:49",1,26.1374628,-97.1739367,TRUE,FALSE,FALSE,"S288531652",NA
+"221","brnowl","American Barn Owl","Tyto furcata","L56084330","11459 LA-14, Lake Arthur US-LA 30.06472, -92.80575","2025-12-14 06:41",1,30.064723,-92.805751,TRUE,FALSE,TRUE,"S289096079",NA
+"222","brnowl","American Barn Owl","Tyto furcata","L14949164","Stenner Creek","2025-12-14 06:38",1,35.3301302,-120.663534,TRUE,FALSE,TRUE,"S288549773",NA
+"223","brnowl","American Barn Owl","Tyto furcata","L24136587","EOARC","2025-12-14 06:31",1,43.5181431,-119.0217755,TRUE,FALSE,TRUE,"S288648431",NA
+"224","brnowl","American Barn Owl","Tyto furcata","L55992621","County Road 318, Balmorhea US-TX (30.9680,-103.7532)","2025-12-14 06:30",1,30.968033,-103.7532,TRUE,FALSE,TRUE,"S288660559",NA
+"225","brnowl","American Barn Owl","Tyto furcata","L55968231","2401–2489 Parkway Dr, Crescent City US-CA 41.79174, -124.15647","2025-12-14 06:21",1,41.791744,-124.156472,TRUE,FALSE,TRUE,"S288547233",NA
+"226","brnowl","American Barn Owl","Tyto furcata","L3572935","Swan Lake Nature Study Area (IBA)--Boardwalk","2025-12-14 06:14",1,39.6531916,-119.856496,TRUE,FALSE,FALSE,"S288565303",NA
+"227","brnowl","American Barn Owl","Tyto furcata","L55962902","La Chua Trail, Micanopy US-FL 29.60753, -82.28497","2025-12-14 06:12",1,29.607535,-82.284968,TRUE,FALSE,TRUE,"S288521847",NA
+"228","brnowl","American Barn Owl","Tyto furcata","L55962728","La Chua Trail, Gainesville US-FL 29.60857, -82.29461","2025-12-14 06:08",1,29.608573,-82.294614,TRUE,FALSE,TRUE,"S288521254",NA
+"229","brnowl","American Barn Owl","Tyto furcata","L788875","Paynes Prairie Preserve SP--Cones Dike Trail","2025-12-14 06:04",1,29.5652838,-82.2805166,TRUE,FALSE,FALSE,"S288585662",NA
+"230","brnowl","American Barn Owl","Tyto furcata","L55962607","La Chua Trail, Gainesville US-FL (29.6088,-82.3007)","2025-12-14 06:02",1,29.608822,-82.300731,TRUE,FALSE,TRUE,"S288520740",NA
+"231","brnowl","American Barn Owl","Tyto furcata","L1924233","Discovery Park--South Meadow","2025-12-14 06:00",1,47.655213,-122.4141312,TRUE,FALSE,FALSE,"S288786330",NA
+"232","brnowl","American Barn Owl","Tyto furcata","L55962664","La Chua Trail, Gainesville US-FL 29.60796, -82.29044","2025-12-14 06:00",1,29.607958,-82.290435,TRUE,FALSE,TRUE,"S288521016",NA
+"233","brnowl","American Barn Owl","Tyto furcata","L623357","Paynes Prairie Preserve SP--La Chua Trail","2025-12-14 05:59",2,29.6068756,-82.3031116,TRUE,FALSE,FALSE,"S288527862",NA
+"234","brnowl","American Barn Owl","Tyto furcata","L282089","Laguna Lake","2025-12-14 05:45",2,35.2656069,-120.6903817,TRUE,FALSE,FALSE,"S288654662",NA
+"235","brnowl","American Barn Owl","Tyto furcata","L55991323","15820 Miradero Avenue, San Jose, California, US (37.392, -121.812)","2025-12-14 05:45",2,37.3917821,-121.8123054,TRUE,FALSE,TRUE,"S288653015",NA
+"236","brnowl","American Barn Owl","Tyto furcata","L375293","Alexandre Dairy","2025-12-14 05:37",1,41.8951218,-124.1744328,TRUE,FALSE,FALSE,"S288539655",NA
+"237","brnowl","American Barn Owl","Tyto furcata","L55962421","PPPSP District 2 office (restricted access)","2025-12-14 05:35",1,29.607867,-82.301883,TRUE,FALSE,TRUE,"S288519991",NA
+"238","brnowl","American Barn Owl","Tyto furcata","L17641265","Hickory Ranch (restricted access)","2025-12-14 05:02",3,29.564315,-82.267278,TRUE,FALSE,FALSE,"S288520878",NA
+"239","brnowl","American Barn Owl","Tyto furcata","L1796861","Elk Ct Yard","2025-12-14 05:00",1,37.8623371,-122.1298347,TRUE,FALSE,TRUE,"S288736385",NA
+"240","brnowl","American Barn Owl","Tyto furcata","L55963437","9300 CR-234, Micanopy US-FL (29.5759,-82.2754)","2025-12-14 04:55",2,29.57593,-82.275392,TRUE,FALSE,TRUE,"S288524125",NA
+"241","brnowl","American Barn Owl","Tyto furcata","L18585574","VLV Private Residence (Access Restricted)","2025-12-14 04:50",1,35.263109,-120.710003,TRUE,FALSE,TRUE,"S288531962",NA
+"242","brnowl","American Barn Owl","Tyto furcata","L7305093","Astoria Airport","2025-12-14 04:17",2,46.1525458,-123.8843679,TRUE,FALSE,TRUE,"S288584724",NA
+"243","brnowl","American Barn Owl","Tyto furcata","L478175","Heirman Wildlife Preserve","2025-12-14 04:13",1,47.8632768,-122.0898628,TRUE,FALSE,FALSE,"S288596998",NA
+"244","brnowl","American Barn Owl","Tyto furcata","L55964502","West Medical Lake 4 Lakes Road at Craig Road","2025-12-14 04:09",1,47.5669799,-117.6075999,TRUE,TRUE,TRUE,"S288528916",NA
+"245","brnowl","American Barn Owl","Tyto furcata","L128926","Brazoria NWR (UTC 108)","2025-12-14 03:53",2,29.0592062,-95.2745684,TRUE,FALSE,FALSE,"S288531829",NA
+"246","brnowl","American Barn Owl","Tyto furcata","L55967797","CBCbarn22025","2025-12-14 03:49",1,42.777825,-124.474401,TRUE,FALSE,TRUE,"S288545186",NA
+"247","brnowl","American Barn Owl","Tyto furcata","L349063","Paynes Prairie Preserve SP--Camps Canal","2025-12-14 02:56",1,29.5767856,-82.2557626,TRUE,FALSE,FALSE,"S288514495",NA
+"248","brnowl","American Barn Owl","Tyto furcata","L55960152","San Luis Island, Freeport US-TX 29.01871, -95.19839","2025-12-14 02:50",1,29.01871,-95.19839,TRUE,FALSE,TRUE,"S288509945",NA
+"249","brnowl","American Barn Owl","Tyto furcata","L55962739","CBCbarn12025","2025-12-14 02:42",1,42.911198,-124.423362,TRUE,FALSE,TRUE,"S288521293",NA
+"250","brnowl","American Barn Owl","Tyto furcata","L280831","Santa Catalina Island--Avalon area","2025-12-14 01:25",1,33.3424927,-118.3267611,TRUE,FALSE,FALSE,"S288646319",NA
+"251","brnowl","American Barn Owl","Tyto furcata","L8568663","Wildwood nieghborhood Thousand Oaks US-CA (34.2221,-118.8936)","2025-12-14 00:47",1,34.222056,-118.893581,TRUE,FALSE,TRUE,"S288512655",NA
+"252","brnowl","American Barn Owl","Tyto furcata","L22361286","Home, Naselle, Washington, US (46.351, -123.813)","2025-12-13 22:50",1,46.3511722,-123.8125448,TRUE,FALSE,TRUE,"S288502359",NA
+"253","brnowl","American Barn Owl","Tyto furcata","L45773150","Home","2025-12-13 21:36",1,37.439218,-121.909313,TRUE,FALSE,TRUE,"S288498923",NA
+"254","brnowl","American Barn Owl","Tyto furcata","L7078858","Baker","2025-12-13 21:12",1,39.0392823,-78.7456226,TRUE,FALSE,TRUE,"S288488408",NA
+"255","brnowl","American Barn Owl","Tyto furcata","L1894531","Palouse Region--Lancaster Rd.","2025-12-13 20:34",1,47.0132645,-117.7060521,TRUE,FALSE,FALSE,"S288771986",NA
+"256","brnowl","American Barn Owl","Tyto furcata","L47820347","La Crosse neighborhood","2025-12-13 20:11",1,38.468793,-122.651373,TRUE,FALSE,TRUE,"S288495269",NA
+"257","brnowl","American Barn Owl","Tyto furcata","L14655159","South Padre Is.--Sea Turtle Inc lagoons and mudlfat","2025-12-13 20:06",3,26.1355687,-97.1727993,TRUE,FALSE,FALSE,"S288489105",NA
+"258","brnowl","American Barn Owl","Tyto furcata","L31027090","Seagull Way Birding Loop","2025-12-13 19:15",1,33.465307,-117.106919,TRUE,FALSE,TRUE,"S288492466",NA
+"259","brnowl","American Barn Owl","Tyto furcata","L634615","Commonwealth Lake Park","2025-12-13 18:48",1,45.5119108,-122.8098106,TRUE,FALSE,FALSE,"S288490684",NA
+"260","brnowl","American Barn Owl","Tyto furcata","L27698009","417 East 18th Street, Weslaco, Texas, US (26.143, -97.986)","2025-12-13 18:24",1,26.1429906,-97.985919,TRUE,FALSE,TRUE,"S288481130",NA
+"261","brnowl","American Barn Owl","Tyto furcata","L55518517","Tim’s House","2025-12-13 17:59",1,37.011441,-121.597523,TRUE,FALSE,TRUE,"S288487568",NA
+"262","brnowl","American Barn Owl","Tyto furcata","L55955111","2780 Napa Valley Corporate Dr, Napa US-CA 38.24683, -122.27467","2025-12-13 17:50",1,38.246833,-122.274669,TRUE,FALSE,TRUE,"S288487024",NA
+"263","brnowl","American Barn Owl","Tyto furcata","L56037750","Desert Hot Springs Spa Hotel","2025-12-13 17:30",2,33.9699506,-116.5023708,TRUE,FALSE,TRUE,"S288871573",NA
+"264","brnowl","American Barn Owl","Tyto furcata","L31701414","405 Freeway - Seal Beach","2025-12-13 17:30",1,33.7742315,-118.0542547,TRUE,FALSE,TRUE,"S288489104",NA
+"265","brnowl","American Barn Owl","Tyto furcata","L129086","Santa Margarita Ranch (LTC 079) (restricted access - guided groups only)","2025-12-13 17:07",1,26.4856177,-99.0912337,TRUE,FALSE,FALSE,"S288613133",NA
+"266","brnowl","American Barn Owl","Tyto furcata","L2362436","Table Bluff--Waluplh-Lighthouse Ranch","2025-12-13 17:00",1,40.6955149,-124.2747062,TRUE,FALSE,FALSE,"S288487566",NA
+"267","brnowl","American Barn Owl","Tyto furcata","L232858","Byxbee Park","2025-12-13 17:00",1,37.4510644,-122.1055913,TRUE,FALSE,FALSE,"S288485749",NA
+"268","brnowl","American Barn Owl","Tyto furcata","L298487","McLaughlin Eastshore SP--Berkeley Meadow","2025-12-13 16:52",1,37.8670193,-122.3102331,TRUE,FALSE,FALSE,"S288485262",NA
+"269","brnowl","American Barn Owl","Tyto furcata","L55955297","Pacific Highway, Creswell, Oregon, US (43.881, -123.013)","2025-12-13 16:35",1,43.8805986,-123.0133911,TRUE,FALSE,TRUE,"S288487955",NA
+"270","brnowl","American Barn Owl","Tyto furcata","L6955274","Sweetwater Nature Preserve, Galveston","2025-12-13 16:31",1,29.2713019,-94.8805797,TRUE,FALSE,FALSE,"S288479490",NA
+"271","brnowl","American Barn Owl","Tyto furcata","L468580","Staten Island","2025-12-13 16:28",1,38.2020281,-121.5043546,TRUE,FALSE,FALSE,"S288483080",NA
+"272","brnowl","American Barn Owl","Tyto furcata","L18362701","Hurricane Mills-general area","2025-12-13 15:12",2,35.970262,-87.781869,TRUE,TRUE,TRUE,"S288652825",NA
+"273","brnowl","American Barn Owl","Tyto furcata","L783880","Tyson Blood Ponds","2025-12-13 14:30",1,46.1391809,-118.9032054,TRUE,FALSE,FALSE,"S288669019",NA
+"274","brnowl","American Barn Owl","Tyto furcata","L28818175","Staten Island Road - Sandhill Cranes","2025-12-13 14:15",1,38.1957611,-121.5060778,TRUE,FALSE,FALSE,"S288486064",NA
+"275","brnowl","American Barn Owl","Tyto furcata","L13126828","682 SH-202, Refugio US-TX 28.37909, -97.36701","2025-12-13 11:16",1,28.379088,-97.367013,TRUE,FALSE,TRUE,"S288430379",NA
+"276","brnowl","American Barn Owl","Tyto furcata","L7714998","Lynn Point Rd, Nemah","2025-12-13 11:06",1,46.4943608,-123.8960409,TRUE,FALSE,FALSE,"S288445498",NA
+"277","brnowl","American Barn Owl","Tyto furcata","L1309472","N Brewer Rd (Nicolaus Ave. to W Wise Rd.)","2025-12-13 10:42",1,38.91775,-121.4521408,TRUE,FALSE,FALSE,"S288444748",NA
+"278","brnowl","American Barn Owl","Tyto furcata","L262792","Iowa Dodd Beef/Tyson Ponds","2025-12-13 10:39",1,46.1288528,-118.8985787,TRUE,FALSE,FALSE,"S288483278",NA
+"279","brnowl","American Barn Owl","Tyto furcata","L55968599","Haslet Community Park","2025-12-13 10:30",1,32.972663,-97.353627,TRUE,FALSE,TRUE,"S288548879",NA
+"280","brnowl","American Barn Owl","Tyto furcata","L55937745","Mumford Cemetery","2025-12-13 10:16",1,30.737052,-96.554104,TRUE,FALSE,TRUE,"S288407954",NA
+"281","brnowl","American Barn Owl","Tyto furcata","L613438","Klamath Wildlife Area--Miller Island Unit","2025-12-13 09:53",1,42.1551736,-121.8082073,TRUE,FALSE,FALSE,"S288473308",NA
+"282","brnowl","American Barn Owl","Tyto furcata","L505873","Rancho Gulag San Pedro River","2025-12-13 09:00",1,31.3899486,-110.1122332,TRUE,FALSE,TRUE,"S288469519",NA
+"283","brnowl","American Barn Owl","Tyto furcata","L9134472","Santa Teresa Estates","2025-12-13 08:58",1,33.0748277,-116.793638,TRUE,FALSE,TRUE,"S288424621",NA
+"284","brnowl","American Barn Owl","Tyto furcata","L758704","California Botanic Garden (formerly Rancho Santa Ana BG)","2025-12-13 08:57",1,34.1120533,-117.7152014,TRUE,FALSE,FALSE,"S288431129",NA
+"285","brnowl","American Barn Owl","Tyto furcata","L4200718","Home","2025-12-13 08:00",2,37.9021363,-95.4799891,TRUE,FALSE,TRUE,"S288637906",NA
+"286","brnowl","American Barn Owl","Tyto furcata","L4097492","Payson City Cemetery","2025-12-13 07:40",1,40.0504167,-111.7188764,TRUE,FALSE,FALSE,"S288465049",NA
+"287","brnowl","American Barn Owl","Tyto furcata","L234146","The Celery Fields","2025-12-13 06:35",1,27.3253186,-82.4336821,TRUE,FALSE,FALSE,"S288378899",NA
+"288","brnowl","American Barn Owl","Tyto furcata","L3188498","L31W Canal","2025-12-12 20:38",3,25.3978115,-80.5725288,TRUE,FALSE,FALSE,"S288326202",NA
+"289","brnowl","American Barn Owl","Tyto furcata","L29124624","BS Home Hgn US-TX (26.1483,-97.7852)","2025-12-12 20:22",1,26.148288,-97.785234,TRUE,FALSE,TRUE,"S288328803",NA
+"290","brnowl","American Barn Owl","Tyto furcata","L55922256","5872 Pacheco Blvd, Pacheco, CA","2025-12-12 19:20",1,37.9828311,-122.0679804,TRUE,FALSE,TRUE,"S288333817",NA
+"291","brnowl","American Barn Owl","Tyto furcata","L663914","Champoeg SP","2025-12-12 19:05",2,45.2504949,-122.8846121,TRUE,FALSE,FALSE,"S288340059",NA
+"292","brnowl","American Barn Owl","Tyto furcata","L1370391","Pt. Reyes--Coast Camp","2025-12-12 18:18",1,38.0181867,-122.8546784,TRUE,FALSE,FALSE,"S288910011",NA
+"293","brnowl","American Barn Owl","Tyto furcata","L2999612","Playa del Rey/Ballona area","2025-12-12 17:55",1,33.9634551,-118.4519934,TRUE,FALSE,FALSE,"S288334401",NA
+"294","brnowl","American Barn Owl","Tyto furcata","L23443952","Home, Dorothy Avenue, Corvallis, Oregon, US (44.544, -123.258)","2025-12-12 17:52",1,44.5442493,-123.2576336,TRUE,FALSE,TRUE,"S288954347",NA
+"295","brnowl","American Barn Owl","Tyto furcata","L55920571","Santa Teresa County Park","2025-12-12 17:49",1,37.21476,-121.795714,TRUE,FALSE,TRUE,"S288326483",NA
+"296","brnowl","American Barn Owl","Tyto furcata","L374047","Cañada Larga Rd.","2025-12-12 17:30",1,34.3445699,-119.2783928,TRUE,FALSE,FALSE,"S288331588",NA
+"297","brnowl","American Barn Owl","Tyto furcata","L384938","San Diego Zoo Safari Park","2025-12-12 17:30",1,33.0973669,-116.9981978,TRUE,FALSE,FALSE,"S288325687",NA
+"298","brnowl","American Barn Owl","Tyto furcata","L55948970","2733 Vista Way, Oceanside, California, US (33.183, -117.327)","2025-12-12 17:26",1,33.1829663,-117.3270908,TRUE,FALSE,TRUE,"S288459667",NA
+"299","brnowl","American Barn Owl","Tyto furcata","L512445","Castroville","2025-12-12 16:30",1,36.7620065,-121.7552004,TRUE,FALSE,FALSE,"S288487519",NA
+"300","brnowl","American Barn Owl","Tyto furcata","L2104268","Coyote Hills Regional Park--Quarry Staging Area","2025-12-12 15:55",1,37.5511782,-122.0863867,TRUE,FALSE,FALSE,"S288324844",NA
+"301","brnowl","American Barn Owl","Tyto furcata","L38362109","Smith Springs Rd, Prescott US-WA 46.31981, -118.28142","2025-12-12 14:27",1,46.319806,-118.281417,TRUE,FALSE,TRUE,"S288334040",NA
+"302","brnowl","American Barn Owl","Tyto furcata","L6431191","Elks Picnic Area","2025-12-12 14:23",1,42.4689947,-122.8628111,TRUE,FALSE,TRUE,"S288319617",NA
+"303","brnowl","American Barn Owl","Tyto furcata","L710366","Wood River Day Use Area","2025-12-12 13:17",1,42.7085517,-121.9906425,TRUE,FALSE,FALSE,"S288315638",NA
+"304","brnowl","American Barn Owl","Tyto furcata","L6689382","Golden Gate Park--long traveling lists west of Crossover Dr.  (37.7672,-122.4918)","2025-12-12 12:49",1,37.767151,-122.491784,TRUE,FALSE,FALSE,"S288314571",NA
+"305","brnowl","American Barn Owl","Tyto furcata","L7204502","Lake Chabot Regional Park","2025-12-12 12:21",2,37.716148,-122.103437,TRUE,FALSE,TRUE,"S288303308",NA
+"306","brnowl","American Barn Owl","Tyto furcata","L28953173","3801 Crawford Ave","2025-12-12 11:42",1,25.721854,-80.254642,TRUE,FALSE,TRUE,"S288278316",NA
+"307","brnowl","American Barn Owl","Tyto furcata","L1434530","Arrow Lake","2025-12-12 10:50",1,35.4983878,-87.1843214,TRUE,FALSE,FALSE,"S288424662",NA
+"308","brnowl","American Barn Owl","Tyto furcata","L55919910","Virgin R Trail N x River Rd","2025-12-12 10:30",1,37.0868619,-113.5554492,TRUE,FALSE,TRUE,"S288324216",NA
+"309","brnowl","American Barn Owl","Tyto furcata","L55909490","US-101 N, Eureka US-CA 40.81122, -124.11096","2025-12-12 09:19",1,40.811222,-124.110955,TRUE,FALSE,TRUE,"S288276325",NA
+"310","brnowl","American Barn Owl","Tyto furcata","L1101205","Loxahatchee NWR--Cypress Swamp Boardwalk","2025-12-12 08:50",1,26.501396,-80.2114432,TRUE,FALSE,FALSE,"S288253389",NA
+"311","brnowl","American Barn Owl","Tyto furcata","L37302255","Merced NWR--Northbound Auto Loop from Pintail Marsh platform parking lot to NE corner at Sandy Mush Rd","2025-12-12 08:21",NA,37.1761379,-120.6054482,TRUE,FALSE,FALSE,"S288287493",NA
+"312","brnowl","American Barn Owl","Tyto furcata","L17672765","Chapman Ranch - CR 14 South (of 286)","2025-12-12 07:51",1,27.615539,-97.464158,TRUE,FALSE,TRUE,"S288254625",NA
+"313","brnowl","American Barn Owl","Tyto furcata","L384040","Vancouver Lake lowlands","2025-12-12 07:20",1,45.6879549,-122.7509308,TRUE,FALSE,FALSE,"S288456224",NA
+"314","brnowl","American Barn Owl","Tyto furcata","L12369543","11414 Mullins Dr, Houston US-TX 29.65554, -95.48624","2025-12-12 06:48",1,29.655536,-95.486235,TRUE,FALSE,TRUE,"S288248846",NA
+"315","brnowl","American Barn Owl","Tyto furcata","L55909327","897 S Coast Hwy 101, Encinitas US-CA (33.0415,-117.2922)","2025-12-11 23:03",1,33.041481,-117.292183,TRUE,FALSE,TRUE,"S288275345",NA
+"316","brnowl","American Barn Owl","Tyto furcata","L42582482","Open field","2025-12-11 21:59",1,40.3697375,-111.8226175,TRUE,FALSE,TRUE,"S288212948",NA
+"317","brnowl","American Barn Owl","Tyto furcata","L55898893","ABOW2","2025-12-11 21:51",1,19.722757,-155.064895,TRUE,FALSE,TRUE,"S288218978","N"
+"318","brnowl","American Barn Owl","Tyto furcata","L55898819","MABO","2025-12-11 21:45",1,19.722528,-155.069198,TRUE,FALSE,TRUE,"S288218673","N"
+"319","brnowl","American Barn Owl","Tyto furcata","L40283478","802 45th Street Northeast, Auburn, Washington, US (47.349, -122.221)","2025-12-11 21:24",3,47.3486407,-122.2206142,TRUE,FALSE,TRUE,"S288213720",NA
+"320","brnowl","American Barn Owl","Tyto furcata","L128974","Galveston Island SP (UTC 070)","2025-12-11 21:01",1,29.1956654,-94.9559069,TRUE,FALSE,FALSE,"S288208999",NA
+"321","brnowl","American Barn Owl","Tyto furcata","L28549269","Windwood Park","2025-12-11 20:56",1,32.9484146,-117.2254612,TRUE,FALSE,FALSE,"S288212791",NA
+"322","brnowl","American Barn Owl","Tyto furcata","L9192827","Stephanie’s yard","2025-12-11 20:30",1,47.6682272,-122.3640419,TRUE,FALSE,TRUE,"S288212855",NA
+"323","brnowl","American Barn Owl","Tyto furcata","L55896673","7661 S Oster Rd, Woodburn US-OR (45.0859,-122.7084)","2025-12-11 19:25",1,45.08592,-122.708363,TRUE,FALSE,TRUE,"S288209531",NA
+"324","brnowl","American Barn Owl","Tyto furcata","L1864710","Yard","2025-12-11 18:53",3,29.2393456,-94.9052501,TRUE,FALSE,TRUE,"S288200951",NA
+"325","brnowl","American Barn Owl","Tyto furcata","L18359325","Oak Creek Greenbelt Trail","2025-12-11 18:23",1,44.5992674,-123.1185135,TRUE,FALSE,FALSE,"S288206225",NA
+"326","brnowl","American Barn Owl","Tyto furcata","L55895182","400–432 S 17th St, Artesia US-NM 32.83854, -104.41708","2025-12-11 18:16",1,32.838544,-104.417076,TRUE,FALSE,TRUE,"S288202071",NA
+"327","brnowl","American Barn Owl","Tyto furcata","L55895725","750 S Fifth St, Independence US-OR (44.8465,-123.1905)","2025-12-11 18:05",1,44.846476,-123.190471,TRUE,FALSE,TRUE,"S288205344",NA
+"328","brnowl","American Barn Owl","Tyto furcata","L877897","Cargill Quarry Rd. seasonal ponds","2025-12-11 17:55",1,37.5394731,-122.071023,TRUE,FALSE,FALSE,"S288340389",NA
+"329","brnowl","American Barn Owl","Tyto furcata","L5232553","CA Redwood SE","2025-12-11 17:35",1,40.8074109,-124.1205651,TRUE,FALSE,TRUE,"S288672838",NA
+"330","brnowl","American Barn Owl","Tyto furcata","L730351","Charleston Slough/Coast Casey Forebay","2025-12-11 17:30",2,37.4359191,-122.098918,TRUE,FALSE,FALSE,"S288213242",NA
+"331","brnowl","American Barn Owl","Tyto furcata","L55995169","US 101 north of 255","2025-12-11 17:30",1,40.8637993,-124.0829838,TRUE,FALSE,TRUE,"S288672772",NA
+"332","brnowl","American Barn Owl","Tyto furcata","L28266513","Provo River Delta","2025-12-11 17:06",1,40.2458762,-111.7205421,TRUE,FALSE,FALSE,"S288200188",NA
+"333","brnowl","American Barn Owl","Tyto furcata","L2420342","Shelby Farms Park--Gardner Rd. Gardens","2025-12-11 16:13",2,35.1433181,-89.8551547,TRUE,FALSE,FALSE,"S288196356",NA
+"334","brnowl","American Barn Owl","Tyto furcata","L55893419","1200 Monterrey Rd NE, Rio Rancho US-NM (35.2764,-106.6180)","2025-12-11 15:42",2,35.27643,-106.617964,TRUE,FALSE,TRUE,"S288192596",NA
+"335","brnowl","American Barn Owl","Tyto furcata","L53254884","Borden Lake","2025-12-11 13:19",1,42.9568742,-115.9796679,TRUE,FALSE,FALSE,"S288179736",NA
+"336","brnowl","American Barn Owl","Tyto furcata","L868295","Golden Gate Park--Chain of Lakes","2025-12-11 12:59",1,37.76872,-122.5010347,TRUE,FALSE,FALSE,"S288191532",NA
+"337","brnowl","American Barn Owl","Tyto furcata","L4244612","Laguna Atascosa NWR--from General Brant Rd","2025-12-11 10:08",1,26.200586,-97.4147467,TRUE,FALSE,FALSE,"S288166233",NA
+"338","brnowl","American Barn Owl","Tyto furcata","L1854350","Lincoln WTP","2025-12-11 08:52",1,38.8609277,-121.3477179,TRUE,FALSE,TRUE,"S288171358",NA
+"339","brnowl","American Barn Owl","Tyto furcata","L285243","Lopez Lake","2025-12-11 07:45",1,35.1897608,-120.4758081,TRUE,FALSE,FALSE,"S288178335",NA
+"340","brnowl","American Barn Owl","Tyto furcata","L6780089","Scripps State WMA access road area, Hwy 395 Exit 50 to WMA parking area","2025-12-11 06:16",1,39.305075,-119.8217507,TRUE,FALSE,FALSE,"S288139377",NA
+"341","brnowl","American Barn Owl","Tyto furcata","L3663754","EC Garden","2025-12-10 22:45",1,38.5427227,-121.7654255,TRUE,FALSE,FALSE,"S288099168",NA
+"342","brnowl","American Barn Owl","Tyto furcata","L18882800","220 Billy Smith Road, Port Angeles, Washington, US (48.083, -123.387)","2025-12-10 20:05",1,48.0832197,-123.387359,TRUE,FALSE,TRUE,"S288338994",NA
+"343","brnowl","American Barn Owl","Tyto furcata","L1745303","Theta Court, San Jose","2025-12-10 18:28",1,37.2292342,-121.814692,TRUE,FALSE,TRUE,"S288089430",NA
+"344","brnowl","American Barn Owl","Tyto furcata","L35034260","Lackey Yard","2025-12-10 18:16",1,34.101194,-117.732342,TRUE,FALSE,TRUE,"S288102098",NA
+"345","brnowl","American Barn Owl","Tyto furcata","L55875532","40160 1st St., Lowell, Oregon, US (Private, No Public Access)","2025-12-10 17:30",1,43.9269624,-122.7635871,TRUE,FALSE,TRUE,"S288097700",NA
+"346","brnowl","American Barn Owl","Tyto furcata","L55872465","Home","2025-12-10 17:24",1,34.128466,-117.359769,TRUE,FALSE,TRUE,"S288086974",NA
+"347","brnowl","American Barn Owl","Tyto furcata","L127408","Loxahatchee NWR","2025-12-10 16:50",1,26.4986442,-80.2246141,TRUE,FALSE,FALSE,"S288079582",NA
+"348","brnowl","American Barn Owl","Tyto furcata","L6668557","The Rolling Land Company","2025-12-10 16:04",2,32.759099,-117.054679,TRUE,FALSE,TRUE,"S288084420",NA
+"349","brnowl","American Barn Owl","Tyto furcata","L1266900","El Monte County Park","2025-12-10 15:20",1,32.8922408,-116.8468738,TRUE,FALSE,FALSE,"S288084453",NA
+"350","brnowl","American Barn Owl","Tyto furcata","L3824198","US-CA-Kern--Weldon--Kelso Valley--Bird Springs neighborhood","2025-12-10 13:08",1,35.560495,-118.220604,TRUE,FALSE,TRUE,"S288070415",NA
+"351","brnowl","American Barn Owl","Tyto furcata","L151122","Antelope Island SP--Causeway","2025-12-10 13:00",1,41.08841,-112.186714,TRUE,FALSE,FALSE,"S288094741",NA
+"352","brnowl","American Barn Owl","Tyto furcata","L989047","South Richmond Marshes (Stege, Hoffman) and Meeker Slough","2025-12-10 12:57",1,37.9090901,-122.3329122,TRUE,FALSE,FALSE,"S288084443",NA
+"353","brnowl","American Barn Owl","Tyto furcata","L433453","Eel River Wildlife Area--Ocean Ranch Unit","2025-12-10 10:24",1,40.6833067,-124.2754555,TRUE,FALSE,FALSE,"S288059747",NA
+"354","brnowl","American Barn Owl","Tyto furcata","L4029647","farm","2025-12-10 08:00",1,45.7155889,-119.8808813,TRUE,FALSE,TRUE,"S288133326",NA
+"355","brnowl","American Barn Owl","Tyto furcata","L497142","El Zacatal (LTC-052)","2025-12-10 07:19",1,26.0845573,-97.8716183,TRUE,FALSE,FALSE,"S288092913",NA
+"356","brnowl","American Barn Owl","Tyto furcata","L29340269","Hawi-Vallecito Cultural Preserve","2025-12-10 04:41",1,32.9687355,-116.3906997,TRUE,FALSE,TRUE,"S288013980",NA
+"357","brnowl","American Barn Owl","Tyto furcata","L38479269","Prefumo Canyon Road","2025-12-10 04:36",1,35.260187,-120.745491,TRUE,FALSE,TRUE,"S288026269",NA
