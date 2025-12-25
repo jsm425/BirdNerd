@@ -1,6 +1,3 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","mckbun","McKay's Bunting","Plectrophenax hyperboreus","L10311140","Nome Christmas Bird Count Circle","2025-12-20 10:55",19,64.4972523,-165.4047061,TRUE,FALSE,TRUE,"S289464022"
-"2","mckbun","McKay's Bunting","Plectrophenax hyperboreus","L4004485","Nome (town)","2025-12-19 16:02",14,64.5010632,-165.4081392,TRUE,FALSE,FALSE,"S289257069"
-"3","mckbun","McKay's Bunting","Plectrophenax hyperboreus","L4017898","NE Icy View","2025-12-19 15:48",16,64.5220727,-165.369215,TRUE,FALSE,TRUE,"S289257041"
-"4","mckbun","McKay's Bunting","Plectrophenax hyperboreus","L294949","Nome-Council Rd. (please use a more specific location)","2025-12-16 12:50",6,64.4998619,-164.6239604,TRUE,FALSE,FALSE,"S288912154"
-"5","mckbun","McKay's Bunting","Plectrophenax hyperboreus","L246497","Gambell (general area)","2025-12-16 12:15",4,63.7793007,-171.7214584,TRUE,TRUE,FALSE,"S288901337"
+"1","borowl","Boreal Owl","Aegolius funereus","L5658729","Howe Ranch (restricted access)","2025-12-22 10:40",1,40.6572177,-107.248562,TRUE,TRUE,FALSE,"S289739593"
+"2","borowl","Boreal Owl","Aegolius funereus","L22075758","Gold Mine Trail, Fairbanks US-AK 64.93616, -147.57320","2025-12-17 22:29",1,64.936163,-147.573202,TRUE,FALSE,TRUE,"S289037380"
