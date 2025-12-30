@@ -1,2 +1,5 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
-"1","gncpar","Green-cheeked Parakeet","Pyrrhura molinae","L29913855","Cullinan Park","2025-12-19 16:00",1,29.63569,-95.65954,TRUE,TRUE,TRUE,"S289255020","X"
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
+"1","mauala","Maui Alauahio","Paroreomyza montana","L52189045","Hosmer Nature Trail, Kula US-HI 20.76831, -156.23733","2025-12-27 11:33",1,20.768308,-156.237327,TRUE,FALSE,TRUE,"S290653834"
+"2","mauala","Maui Alauahio","Paroreomyza montana","L247163","Haleakala NP--Hosmer Grove","2025-12-24 07:37",6,20.7684183,-156.2365883,TRUE,FALSE,FALSE,"S290042050"
+"3","mauala","Maui Alauahio","Paroreomyza montana","L49203477","Hosmer Nature Trail, Kula US-HI 20.76843, -156.23754","2025-12-23 10:54",3,20.768429,-156.23754,TRUE,FALSE,TRUE,"S289905068"
+"4","mauala","Maui Alauahio","Paroreomyza montana","L7615600","Hosmer Grove Campground","2025-12-22 16:01",1,20.7682265,-156.2381816,TRUE,FALSE,FALSE,"S289778432"
