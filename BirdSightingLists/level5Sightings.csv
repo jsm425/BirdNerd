@@ -1,5 +1,2 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","woothr","Wood Thrush","Hylocichla mustelina","L225644","Holt Paradise Pond, Port Aransas","2026-01-04 13:35",1,27.8342117,-97.0720157,TRUE,TRUE,FALSE,"S292512475"
-"2","woothr","Wood Thrush","Hylocichla mustelina","L284163","Galveston--Lafitte's Cove (UTC 068)","2026-01-04 09:30",1,29.2169006,-94.9349016,TRUE,TRUE,FALSE,"S292435111"
-"3","woothr","Wood Thrush","Hylocichla mustelina","L6332518","Taylor House","2026-01-04 09:30",1,27.7068188,-97.4041522,TRUE,TRUE,TRUE,"S292378623"
-"4","woothr","Wood Thrush","Hylocichla mustelina","L516745","Lake Home","2025-12-30 14:17",1,38.9567616,-104.7452239,TRUE,TRUE,TRUE,"S291261886"
+"1","x00415","Greater White-fronted x Canada Goose (hybrid)","Anser albifrons x Branta canadensis","L9746186","Beaver Creek SP--Echo Dell Bridge","2026-01-02 11:52",1,40.7273863,-80.6117204,TRUE,TRUE,FALSE,"S291920007"
