@@ -1,3 +1,4 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","veggul1","Vega Gull","Larus vegae","L619769","MacArthur Park","2025-12-31 10:27",1,34.0584905,-118.2779503,TRUE,TRUE,FALSE,"S291474952"
-"2","veggul1","Vega Gull","Larus vegae","L287881","Brownsville Landfill (LTC 041) - check in at office","2025-12-31 09:03",1,25.9365631,-97.3924657,TRUE,TRUE,FALSE,"S291453990"
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
+"1","btmjay","Black-throated Magpie-Jay","Cyanocorax colliei","L56996749","Tijuana River","2026-01-08 14:26",2,32.558763,-117.09743,TRUE,FALSE,TRUE,"S293199356","X"
+"2","btmjay","Black-throated Magpie-Jay","Cyanocorax colliei","L418752","Tijuana River Valley--Bird & Butterfly Garden (Myers Ranch)","2026-01-08 09:50",2,32.5538589,-117.084619,TRUE,FALSE,FALSE,"S293193169","X"
+"3","btmjay","Black-throated Magpie-Jay","Cyanocorax colliei","L469003","Tijuana River Valley--Community Gardens","2026-01-01 10:48",4,32.5567428,-117.0849895,TRUE,FALSE,FALSE,"S291725471","X"
