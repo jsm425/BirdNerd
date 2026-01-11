@@ -1,4 +1,2 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
-"1","btmjay","Black-throated Magpie-Jay","Cyanocorax colliei","L56996749","Tijuana River","2026-01-08 14:26",2,32.558763,-117.09743,TRUE,FALSE,TRUE,"S293199356","X"
-"2","btmjay","Black-throated Magpie-Jay","Cyanocorax colliei","L418752","Tijuana River Valley--Bird & Butterfly Garden (Myers Ranch)","2026-01-08 09:50",2,32.5538589,-117.084619,TRUE,FALSE,FALSE,"S293193169","X"
-"3","btmjay","Black-throated Magpie-Jay","Cyanocorax colliei","L469003","Tijuana River Valley--Community Gardens","2026-01-01 10:48",4,32.5567428,-117.0849895,TRUE,FALSE,FALSE,"S291725471","X"
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
+"1","motowl","Mottled Owl","Strix virgata","L129086","Santa Margarita Ranch (LTC 079) (restricted access - guided groups only)","2026-01-08 17:23",1,26.4856177,-99.0912337,TRUE,TRUE,FALSE,"S293207357"
