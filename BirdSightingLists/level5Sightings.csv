@@ -1,4 +1,4 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","sooshe","Sooty Shearwater","Ardenna grisea","L624665","Dana Point--nearshore (ORA Co.)","2026-01-15 11:00",2,33.4046334,-117.7724762,TRUE,FALSE,FALSE,"S294405194"
-"2","sooshe","Sooty Shearwater","Ardenna grisea","L614226","Monterey Coast Guard pier/Cannery Row seawatch","2026-01-13 14:16",1,36.6093184,-121.8940664,TRUE,FALSE,FALSE,"S294113026"
-"3","sooshe","Sooty Shearwater","Ardenna grisea","L1123060","Pt. Vicente--general area","2026-01-09 07:54",3,33.7438618,-118.4105587,TRUE,FALSE,FALSE,"S293298657"
+"1","lucwar","Lucy's Warbler","Leiothlypis luciae","L56993646","Pescadero Ck at Butano Cutoff","2026-01-15 10:55",1,37.2476937,-122.3623617,TRUE,TRUE,TRUE,"S294432377"
+"2","lucwar","Lucy's Warbler","Leiothlypis luciae","L18154278","Hollywood Park Lake","2026-01-14 14:51",1,33.9502131,-118.3393621,TRUE,TRUE,FALSE,"S294270281"
+"3","lucwar","Lucy's Warbler","Leiothlypis luciae","L1058150","Pescadero High School","2026-01-12 13:08",1,37.2494609,-122.3664093,TRUE,TRUE,FALSE,"S293926392"
