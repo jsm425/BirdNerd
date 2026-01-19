@@ -1,4 +1,4 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","lucwar","Lucy's Warbler","Leiothlypis luciae","L56993646","Pescadero Ck at Butano Cutoff","2026-01-15 10:55",1,37.2476937,-122.3623617,TRUE,TRUE,TRUE,"S294432377"
-"2","lucwar","Lucy's Warbler","Leiothlypis luciae","L18154278","Hollywood Park Lake","2026-01-14 14:51",1,33.9502131,-118.3393621,TRUE,TRUE,FALSE,"S294270281"
-"3","lucwar","Lucy's Warbler","Leiothlypis luciae","L1058150","Pescadero High School","2026-01-12 13:08",1,37.2494609,-122.3664093,TRUE,TRUE,FALSE,"S293926392"
+"1","wilpta","Willow Ptarmigan","Lagopus lagopus","L1244466","Murphy Dome","2026-01-17 13:45",1,64.9545422,-148.3657694,TRUE,FALSE,FALSE,"S294822837"
+"2","wilpta","Willow Ptarmigan","Lagopus lagopus","L57334405","Fire break trail","2026-01-15 17:06",3,63.3222587,-143.1137238,TRUE,FALSE,TRUE,"S294765979"
+"3","wilpta","Willow Ptarmigan","Lagopus lagopus","L22747057","Banner Creek","2026-01-14 11:00",200,64.6410029,-165.3001999,TRUE,TRUE,TRUE,"S294288299"
