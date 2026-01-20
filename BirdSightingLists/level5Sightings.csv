@@ -1,4 +1,2 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","wilpta","Willow Ptarmigan","Lagopus lagopus","L1244466","Murphy Dome","2026-01-17 13:45",1,64.9545422,-148.3657694,TRUE,FALSE,FALSE,"S294822837"
-"2","wilpta","Willow Ptarmigan","Lagopus lagopus","L57334405","Fire break trail","2026-01-15 17:06",3,63.3222587,-143.1137238,TRUE,FALSE,TRUE,"S294765979"
-"3","wilpta","Willow Ptarmigan","Lagopus lagopus","L22747057","Banner Creek","2026-01-14 11:00",200,64.6410029,-165.3001999,TRUE,TRUE,TRUE,"S294288299"
+"1","borowl","Boreal Owl","Aegolius funereus","L20404344","4267 Birch Ln, Fairbanks US-AK 64.84327, -147.83620","2026-01-10 14:08",1,64.843268,-147.836197,TRUE,FALSE,TRUE,"S293564450"
