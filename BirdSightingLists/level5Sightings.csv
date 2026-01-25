@@ -1,2 +1,4 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","x00415","Greater White-fronted x Canada Goose (hybrid)","Anser albifrons x Branta canadensis","L10512059","Wye Island NRMA--Lodge Lane Area","2026-01-23 08:33",1,38.8883107,-76.1439171,TRUE,TRUE,TRUE,"S295837587"
+"1","x00449","Altamira x Audubon's Oriole (hybrid)","Icterus gularis x graduacauda","L336009","National Butterfly Center--General & area North of Levee","2026-01-23 08:06",1,26.1796025,-98.3664483,TRUE,TRUE,FALSE,"S295808621"
+"2","x00449","Altamira x Audubon's Oriole (hybrid)","Icterus gularis x graduacauda","L128890","Bentsen-Rio Grande Val. SP WBC (Mission) (LTC 069)","2026-01-22 10:05",1,26.1849709,-98.3793885,TRUE,TRUE,FALSE,"S295783441"
+"3","x00449","Altamira x Audubon's Oriole (hybrid)","Icterus gularis x graduacauda","L7071943","Bentsen-Rio Grande Valley SP--La Familia Nature ctr. area","2026-01-15 08:55",1,26.183803,-98.38074,TRUE,TRUE,FALSE,"S294337775"
