@@ -1,4 +1,2 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","x00449","Altamira x Audubon's Oriole (hybrid)","Icterus gularis x graduacauda","L336009","National Butterfly Center--General & area North of Levee","2026-01-23 08:06",1,26.1796025,-98.3664483,TRUE,TRUE,FALSE,"S295808621"
-"2","x00449","Altamira x Audubon's Oriole (hybrid)","Icterus gularis x graduacauda","L128890","Bentsen-Rio Grande Val. SP WBC (Mission) (LTC 069)","2026-01-22 10:05",1,26.1849709,-98.3793885,TRUE,TRUE,FALSE,"S295783441"
-"3","x00449","Altamira x Audubon's Oriole (hybrid)","Icterus gularis x graduacauda","L7071943","Bentsen-Rio Grande Valley SP--La Familia Nature ctr. area","2026-01-15 08:55",1,26.183803,-98.38074,TRUE,TRUE,FALSE,"S294337775"
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
+"1","ywcpar","Yellow-crowned Amazon","Amazona ochrocephala","L17836197","119 Los Platanos Street, Mercedes, Texas, US (26.127, -97.941)","2026-01-22 16:55",1,26.1273542,-97.940775,TRUE,TRUE,TRUE,"S295724286","X"
