@@ -1,272 +1,401 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","whtswi","White-throated Swift","Aeronautes saxatalis","L19844580","stakeout Cape May Warbler, Solana Beach (2022)","2026-01-25 15:10",1,32.997976,-117.273681,TRUE,FALSE,FALSE,"S296312425"
-"2","whtswi","White-throated Swift","Aeronautes saxatalis","L9503263","Spooners Mesa","2026-01-25 12:45",4,32.5434585,-117.0967552,TRUE,FALSE,FALSE,"S296310758"
-"3","whtswi","White-throated Swift","Aeronautes saxatalis","L57658792","Sequoia Kings Canyon Fwy, Fresno US-CA (36.7384,-119.8258)","2026-01-25 12:35",1,36.738407,-119.825753,TRUE,FALSE,TRUE,"S296281643"
-"4","whtswi","White-throated Swift","Aeronautes saxatalis","L34038442","Upper Pierce Avenue","2026-01-25 12:26",3,37.895765,-122.307399,TRUE,FALSE,TRUE,"S296296438"
-"5","whtswi","White-throated Swift","Aeronautes saxatalis","L207664","Las Gallinas Valley Sanitary District","2026-01-25 12:09",2,38.0274109,-122.515583,TRUE,FALSE,FALSE,"S296297370"
-"6","whtswi","White-throated Swift","Aeronautes saxatalis","L4598666","Aliso and Wood Canyons WP--Aliso Creek Trail to Wood Canyon Trail","2026-01-25 11:14",2,33.5467599,-117.7232051,TRUE,FALSE,FALSE,"S296311763"
-"7","whtswi","White-throated Swift","Aeronautes saxatalis","L57660301","Oyster Bay North Breeding Block 2","2026-01-25 11:14",2,37.7093677,-122.202242,TRUE,FALSE,TRUE,"S296288926"
-"8","whtswi","White-throated Swift","Aeronautes saxatalis","L480325","John F. Kennedy Memorial Park","2026-01-25 11:11",5,38.2692519,-122.2806644,TRUE,FALSE,FALSE,"S296280488"
-"9","whtswi","White-throated Swift","Aeronautes saxatalis","L53306956","Old Town Trail - Murrieta Creek","2026-01-25 11:11",6,33.484976,-117.145205,TRUE,FALSE,TRUE,"S296266503"
-"10","whtswi","White-throated Swift","Aeronautes saxatalis","L576620","Burleigh Murray SP","2026-01-25 11:03",20,37.4448897,-122.4027157,TRUE,FALSE,FALSE,"S296297813"
-"11","whtswi","White-throated Swift","Aeronautes saxatalis","L57655246","Papago Park​, Phoenix US-AZ 33.45693, -111.94965","2026-01-25 10:58",10,33.456928,-111.949652,TRUE,FALSE,TRUE,"S296264334"
-"12","whtswi","White-throated Swift","Aeronautes saxatalis","L815817","Frank G. Bonelli RP/Puddingstone Reservoir and vicinity","2026-01-25 10:51",3,34.0870104,-117.8050125,TRUE,FALSE,FALSE,"S296274316"
-"13","whtswi","White-throated Swift","Aeronautes saxatalis","L2162544","Panoramic Hill (neighborhood)","2026-01-25 10:50",4,37.867735,-122.241265,TRUE,FALSE,FALSE,"S296274609"
-"14","whtswi","White-throated Swift","Aeronautes saxatalis","L210223","Vasona Lake County Park","2026-01-25 10:47",7,37.2385116,-121.9709873,TRUE,FALSE,FALSE,"S296295191"
-"15","whtswi","White-throated Swift","Aeronautes saxatalis","L53606101","8229 Dolphin Bay Ct, Las Vegas US-NV 36.20773, -115.27375","2026-01-25 10:47",4,36.207729,-115.273754,TRUE,FALSE,TRUE,"S296258022"
-"16","whtswi","White-throated Swift","Aeronautes saxatalis","L867976","Santa Ana River--Hamilton Ave. to Adams Ave.","2026-01-25 10:30",2,33.6608532,-117.9482746,TRUE,FALSE,FALSE,"S296306890"
-"17","whtswi","White-throated Swift","Aeronautes saxatalis","L28134078","Griffith Park--Mineral Wells Trail","2026-01-25 10:26",50,34.1406496,-118.2891666,TRUE,FALSE,FALSE,"S296263717"
-"18","whtswi","White-throated Swift","Aeronautes saxatalis","L37882722","Woodfield and Springdale Parks","2026-01-25 10:24",1,33.5754583,-117.7170897,TRUE,FALSE,FALSE,"S296263626"
-"19","whtswi","White-throated Swift","Aeronautes saxatalis","L14306529","Mission Trails Regional Park--Barker Way Trailhead","2026-01-25 09:54",5,32.8108,-117.0213715,TRUE,FALSE,FALSE,"S296280213"
-"20","whtswi","White-throated Swift","Aeronautes saxatalis","L208918","Sweetwater Wetlands","2026-01-25 09:40",1,32.2790144,-111.0216061,TRUE,FALSE,FALSE,"S296246803"
-"21","whtswi","White-throated Swift","Aeronautes saxatalis","L940460","Mission Valley Preserve/Sefton Park","2026-01-25 09:33",10,32.762172,-117.1938769,TRUE,FALSE,FALSE,"S296291935"
-"22","whtswi","White-throated Swift","Aeronautes saxatalis","L13347786","Santa Rita Ranch (restricted access)","2026-01-25 09:18",3,35.5256285,-120.8427921,TRUE,FALSE,FALSE,"S296286089"
-"23","whtswi","White-throated Swift","Aeronautes saxatalis","L418752","Tijuana River Valley--Bird & Butterfly Garden (Myers Ranch)","2026-01-25 09:06",3,32.5538589,-117.084619,TRUE,FALSE,FALSE,"S296250304"
-"24","whtswi","White-throated Swift","Aeronautes saxatalis","L247953","Sweetwater Reservoir","2026-01-25 09:01",5,32.6909342,-116.9966808,TRUE,FALSE,FALSE,"S296276014"
-"25","whtswi","White-throated Swift","Aeronautes saxatalis","L600290","Fairview Park, Costa Mesa","2026-01-25 09:00",2,33.662014,-117.9413974,TRUE,FALSE,FALSE,"S296306722"
-"26","whtswi","White-throated Swift","Aeronautes saxatalis","L3768068","Carlsbad, 7581 Navigator Circle","2026-01-25 08:49",4,33.09114,-117.30798,TRUE,FALSE,TRUE,"S296237745"
-"27","whtswi","White-throated Swift","Aeronautes saxatalis","L164929","Bolsa Chica Ecological Reserve","2026-01-25 08:47",8,33.7026531,-118.050735,TRUE,FALSE,FALSE,"S296273572"
-"28","whtswi","White-throated Swift","Aeronautes saxatalis","L6811461","Santa Fe Dam--Nature Center Area","2026-01-25 08:33",6,34.1184487,-117.9441977,TRUE,FALSE,FALSE,"S296259274"
-"29","whtswi","White-throated Swift","Aeronautes saxatalis","L4025297","Frank G. Bonelli RP--South and East Access","2026-01-25 08:07",3,34.0821838,-117.800442,TRUE,FALSE,FALSE,"S296261397"
-"30","whtswi","White-throated Swift","Aeronautes saxatalis","L1135995","Calavera Lake & Nature Preserve","2026-01-25 07:32",2,33.1704153,-117.2850394,TRUE,FALSE,FALSE,"S296294332"
-"31","whtswi","White-throated Swift","Aeronautes saxatalis","L353788","Morro Rock","2026-01-24 16:33",1,35.3693972,-120.8670566,TRUE,FALSE,FALSE,"S296104517"
-"32","whtswi","White-throated Swift","Aeronautes saxatalis","L34825948","Pierce and Washington","2026-01-24 14:44",1,37.88943,-122.306042,TRUE,FALSE,TRUE,"S296095281"
-"33","whtswi","White-throated Swift","Aeronautes saxatalis","L298487","McLaughlin Eastshore SP--Berkeley Meadow","2026-01-24 14:39",2,37.8670193,-122.3102331,TRUE,FALSE,FALSE,"S296314306"
-"34","whtswi","White-throated Swift","Aeronautes saxatalis","L391767","Shadow Cliffs Regional Park","2026-01-24 14:33",1,37.6692148,-121.8406105,TRUE,FALSE,FALSE,"S296095752"
-"35","whtswi","White-throated Swift","Aeronautes saxatalis","L344141","Los Angeles River--Sunnynook Bridge","2026-01-24 14:24",5,34.1161926,-118.2674682,TRUE,FALSE,FALSE,"S296088944"
-"36","whtswi","White-throated Swift","Aeronautes saxatalis","L2376387","Los Angeles River--Glendale Narrows Riverwalk area","2026-01-24 13:41",22,34.1564737,-118.2869196,TRUE,FALSE,FALSE,"S296079229"
-"37","whtswi","White-throated Swift","Aeronautes saxatalis","L492957","San Gabriel River--Wilderness Park","2026-01-24 13:20",25,33.9363816,-118.1016541,TRUE,FALSE,FALSE,"S296099135"
-"38","whtswi","White-throated Swift","Aeronautes saxatalis","L2698303","Livermore, 16901 Patterson Pass Road","2026-01-24 13:07",5,37.69746,-121.58907,TRUE,FALSE,TRUE,"S296067688"
-"39","whtswi","White-throated Swift","Aeronautes saxatalis","L7082882","Cottonwood Canyon","2026-01-24 13:01",5,34.9816276,-119.8892069,TRUE,FALSE,FALSE,"S296057234"
-"40","whtswi","White-throated Swift","Aeronautes saxatalis","L14810162","At River","2026-01-24 12:07",8,34.119773,-118.268478,TRUE,FALSE,TRUE,"S296065458"
-"41","whtswi","White-throated Swift","Aeronautes saxatalis","L9884311","Wing St. Canyon","2026-01-24 11:54",1,32.744551,-117.218106,TRUE,FALSE,FALSE,"S296074181"
-"42","whtswi","White-throated Swift","Aeronautes saxatalis","L216132","Coyote Hills Regional Park","2026-01-24 11:36",40,37.553764,-122.0875025,TRUE,FALSE,FALSE,"S296098797"
-"43","whtswi","White-throated Swift","Aeronautes saxatalis","L459755","Pescadero Marsh and Natural Preserve--(North pond,lagoon and marsh trails east of Hwy 1)","2026-01-24 11:08",15,37.2681846,-122.4079944,TRUE,FALSE,FALSE,"S296048461"
-"44","whtswi","White-throated Swift","Aeronautes saxatalis","L129050","Patagonia Lake State Park","2026-01-24 11:00",1,31.4951992,-110.8566971,TRUE,FALSE,FALSE,"S296211664"
-"45","whtswi","White-throated Swift","Aeronautes saxatalis","L57611378","Sevilla","2026-01-24 10:58",1,37.51042,-122.48012,TRUE,FALSE,TRUE,"S296051942"
-"46","whtswi","White-throated Swift","Aeronautes saxatalis","L5137305","City of Santa Clara Retention Pond","2026-01-24 10:47",1,37.417659,-121.970077,TRUE,FALSE,FALSE,"S296028619"
-"47","whtswi","White-throated Swift","Aeronautes saxatalis","L832828","Pinnacles NP--Bear Gulch Trail","2026-01-24 10:13",4,36.4777231,-121.1852074,TRUE,FALSE,FALSE,"S296080596"
-"48","whtswi","White-throated Swift","Aeronautes saxatalis","L212642","Lafayette Reservoir","2026-01-24 10:08",3,37.881609,-122.1425327,TRUE,FALSE,FALSE,"S296051484"
-"49","whtswi","White-throated Swift","Aeronautes saxatalis","L374927","American River Parkway--Nimbus Fish Hatchery downstream to Upper Sunrise Nimbus Road Parking Area","2026-01-24 10:07",10,38.6341872,-121.2253864,TRUE,FALSE,FALSE,"S296044945"
-"50","whtswi","White-throated Swift","Aeronautes saxatalis","L716138","Oyster Bay Regional Shoreline","2026-01-24 10:06",4,37.707319,-122.1986961,TRUE,FALSE,FALSE,"S296047877"
-"51","whtswi","White-throated Swift","Aeronautes saxatalis","L796625","West Davis pond","2026-01-24 09:48",2,38.5553476,-121.7825031,TRUE,FALSE,FALSE,"S296030175"
-"52","whtswi","White-throated Swift","Aeronautes saxatalis","L109339","IRWD San Joaquin Marsh & Wildlife Sanctuary, Irvine","2026-01-24 09:40",1,33.6637274,-117.8426814,TRUE,FALSE,FALSE,"S296040583"
-"53","whtswi","White-throated Swift","Aeronautes saxatalis","L6684303","Los Angeles River--south of Willow St. to PCH","2026-01-24 09:40",30,33.795222,-118.2048333,TRUE,FALSE,FALSE,"S296062438"
-"54","whtswi","White-throated Swift","Aeronautes saxatalis","L6264652","Ferrari Ranch Ponds","2026-01-24 09:34",1,38.862495,-121.324445,TRUE,FALSE,FALSE,"S296057676"
-"55","whtswi","White-throated Swift","Aeronautes saxatalis","L470113","Atascadero Lake","2026-01-24 09:31",40,35.4646547,-120.6667256,TRUE,FALSE,FALSE,"S296050193"
-"56","whtswi","White-throated Swift","Aeronautes saxatalis","L57605938","Hill and neighborhood loop","2026-01-24 09:25",20,33.444701,-111.475938,TRUE,FALSE,TRUE,"S296026878"
-"57","whtswi","White-throated Swift","Aeronautes saxatalis","L57606149","Lake Natoma - Historic Folsom Station","2026-01-24 09:19",8,38.6772371,-121.1811953,TRUE,FALSE,TRUE,"S296027936"
-"58","whtswi","White-throated Swift","Aeronautes saxatalis","L57606030","6040 E Singletree St, Apache Junction US-AZ 33.44418, -111.48026","2026-01-24 09:15",10,33.444181,-111.480256,TRUE,FALSE,TRUE,"S296027379"
-"59","whtswi","White-throated Swift","Aeronautes saxatalis","L57293051","N Swan Rd at Shelly, Tucson, AZ","2026-01-24 09:02",1,32.2887953,-110.8926725,TRUE,FALSE,TRUE,"S296011748"
-"60","whtswi","White-throated Swift","Aeronautes saxatalis","L12826257","Adobe Creek Loop Trail, Palo Alto, California, US (37.441, -122.094)","2026-01-24 09:00",1,37.4409088,-122.0935752,TRUE,FALSE,TRUE,"S296062964"
-"61","whtswi","White-throated Swift","Aeronautes saxatalis","L481023","Los Angeles River--Willow St.","2026-01-24 08:48",20,33.8048977,-118.2059383,TRUE,FALSE,FALSE,"S296109626"
-"62","whtswi","White-throated Swift","Aeronautes saxatalis","L109463","Lake Hodges--Del Dios area (west end)","2026-01-24 08:45",12,33.063,-117.119,TRUE,FALSE,FALSE,"S296065262"
-"63","whtswi","White-throated Swift","Aeronautes saxatalis","L299523","Joseph D. Grant County Park (please use a more specific hotspot where possible)","2026-01-24 08:22",15,37.3404469,-121.7176861,TRUE,FALSE,FALSE,"S296064295"
-"64","whtswi","White-throated Swift","Aeronautes saxatalis","L420195","Big Morongo Canyon Preserve & Covington Park","2026-01-24 08:13",1,34.0497222,-116.5702639,TRUE,FALSE,FALSE,"S296090457"
-"65","whtswi","White-throated Swift","Aeronautes saxatalis","L39204523","Lyndon Capri","2026-01-24 08:10",2,34.111197,-118.154619,TRUE,FALSE,TRUE,"S296009089"
-"66","whtswi","White-throated Swift","Aeronautes saxatalis","L1033410","Oakdale Memorial Park","2026-01-24 07:58",1,34.1127284,-117.8748679,TRUE,FALSE,FALSE,"S296008073"
-"67","whtswi","White-throated Swift","Aeronautes saxatalis","L225847","American River Parkway--Sailor Bar","2026-01-24 07:51",4,38.6337613,-121.235827,TRUE,FALSE,FALSE,"S296083631"
-"68","whtswi","White-throated Swift","Aeronautes saxatalis","L601812","Black Widow Ranch","2026-01-24",2,33.9856225,-117.3125723,TRUE,FALSE,TRUE,"S296116017"
-"69","whtswi","White-throated Swift","Aeronautes saxatalis","L604022","Mission Creek (SF Co.)","2026-01-23 18:23",17,37.7735218,-122.3948193,TRUE,TRUE,FALSE,"S295893615"
-"70","whtswi","White-throated Swift","Aeronautes saxatalis","L2784320","Peters Canyon Creek--Barranca Pkwy to Edinger Ave.","2026-01-23 17:02",NA,33.6997076,-117.810216,TRUE,FALSE,FALSE,"S295889587"
-"71","whtswi","White-throated Swift","Aeronautes saxatalis","L1053539","Pinnacles NP--Rim & South High Peaks Trail","2026-01-23 16:41",1,36.477171,-121.1872673,TRUE,FALSE,FALSE,"S295902054"
-"72","whtswi","White-throated Swift","Aeronautes saxatalis","L17755774","San Thomas Aquino Creek near work","2026-01-23 16:40",2,37.4120211,-121.9796522,TRUE,FALSE,TRUE,"S295888932"
-"73","whtswi","White-throated Swift","Aeronautes saxatalis","L37400401","855 Chardonney Way, Escondido, California, US (33.119, -117.124)","2026-01-23 15:28",3,33.1191216,-117.1235634,TRUE,FALSE,TRUE,"S295881272"
-"74","whtswi","White-throated Swift","Aeronautes saxatalis","L29816519","Marsh Drive Flood","2026-01-23 15:10",7,38.0808479,-122.5398137,TRUE,FALSE,FALSE,"S295878609"
-"75","whtswi","White-throated Swift","Aeronautes saxatalis","L760845","Rose Canyon Park","2026-01-23 14:45",12,32.8563378,-117.220881,TRUE,FALSE,FALSE,"S295888305"
-"76","whtswi","White-throated Swift","Aeronautes saxatalis","L3386255","Lake Murray--southeast side","2026-01-23 14:07",1,32.7852326,-117.039897,TRUE,FALSE,FALSE,"S295870393"
-"77","whtswi","White-throated Swift","Aeronautes saxatalis","L1112318","Stonegate Ave. at Hoopa Rd. pond","2026-01-23 13:23",5,38.5395223,-121.5380573,TRUE,FALSE,FALSE,"S295869572"
-"78","whtswi","White-throated Swift","Aeronautes saxatalis","L1368871","Ferrari Pond Trail","2026-01-23 11:50",1,38.8788527,-121.2888566,TRUE,FALSE,FALSE,"S295870123"
-"79","whtswi","White-throated Swift","Aeronautes saxatalis","L57567699","1302 24th St, Paso Robles US-CA 35.64228, -120.68582","2026-01-23 11:45",6,35.642279,-120.685822,TRUE,FALSE,TRUE,"S295840366"
-"80","whtswi","White-throated Swift","Aeronautes saxatalis","L1053553","Pinnacles NP--Condor Gulch Trail","2026-01-23 11:09",5,36.4855387,-121.1927605,TRUE,FALSE,FALSE,"S295901962"
-"81","whtswi","White-throated Swift","Aeronautes saxatalis","L8977614","Big Bend NP--Basin Loop Trail","2026-01-23 10:35",3,29.2643445,-103.3031358,TRUE,FALSE,FALSE,"S296274127"
-"82","whtswi","White-throated Swift","Aeronautes saxatalis","L23596738","Elysian Park--Radio Hill","2026-01-23 10:16",10,34.0723784,-118.2328506,TRUE,FALSE,FALSE,"S295838671"
-"83","whtswi","White-throated Swift","Aeronautes saxatalis","L958707","Upper Santa Ana River--Lincoln Ave. to Glassell St.","2026-01-23 09:23",3,33.8396591,-117.8591609,TRUE,FALSE,FALSE,"S295899599"
-"84","whtswi","White-throated Swift","Aeronautes saxatalis","L387148","Mojave Narrows Regional Park","2026-01-23 08:46",12,34.5129928,-117.2708559,TRUE,FALSE,FALSE,"S296114468"
-"85","whtswi","White-throated Swift","Aeronautes saxatalis","L192625","Santee Lakes","2026-01-23 07:46",1,32.8570948,-117.0071411,TRUE,FALSE,FALSE,"S295870994"
-"86","whtswi","White-throated Swift","Aeronautes saxatalis","L1449880","Ellis Lake Park","2026-01-22 17:21",35,37.971638,-122.0372502,TRUE,FALSE,FALSE,"S295762951"
-"87","whtswi","White-throated Swift","Aeronautes saxatalis","L12857943","EBMUD--Inspiration Trail (permit required)","2026-01-22 14:08",120,37.9072482,-122.2466111,TRUE,FALSE,FALSE,"S295724316"
-"88","whtswi","White-throated Swift","Aeronautes saxatalis","L57540615","Muggins Mountains Wilderness Five Mile Trail","2026-01-22 11:46",4,32.7307723,-114.2711819,TRUE,FALSE,TRUE,"S295712711"
-"89","whtswi","White-throated Swift","Aeronautes saxatalis","L1166210","Pajaro River at Thurwachter bridge (SCZ Co.)","2026-01-22 11:45",2,36.8802614,-121.7932997,TRUE,FALSE,FALSE,"S295685932"
-"90","whtswi","White-throated Swift","Aeronautes saxatalis","L27937535","Castle Hot Springs Resort (Private Property)","2026-01-22 11:41",NA,33.9827776,-112.3618312,TRUE,TRUE,TRUE,"S295883457"
-"91","whtswi","White-throated Swift","Aeronautes saxatalis","L719168","Mission Bay--Tecolote Creek mouth","2026-01-22 11:12",1,32.7713538,-117.2082196,TRUE,FALSE,FALSE,"S295686696"
-"92","whtswi","White-throated Swift","Aeronautes saxatalis","L57533990","CA-37 E, Novato US-CA 38.10772, -122.50911","2026-01-22 11:11",3,38.107719,-122.509108,TRUE,FALSE,TRUE,"S295681115"
-"93","whtswi","White-throated Swift","Aeronautes saxatalis","L23218517","Bay Farm Is. Lagoon / Capetown Dr. to Aughinbaugh Way","2026-01-22 10:58",2,37.7401873,-122.2440106,TRUE,FALSE,TRUE,"S295683685"
-"94","whtswi","White-throated Swift","Aeronautes saxatalis","L1052368","Big Bend NP--Daniels Ranch Rd.","2026-01-22 10:54",5,29.1839794,-102.9645274,TRUE,FALSE,FALSE,"S295726949"
-"95","whtswi","White-throated Swift","Aeronautes saxatalis","L45086535","Coal sheds, Mare Island","2026-01-22 10:54",1,38.104051,-122.27341,TRUE,FALSE,TRUE,"S295680064"
-"96","whtswi","White-throated Swift","Aeronautes saxatalis","L57508782","San Onofre State Beach South Bluff Trails, Fallbrook US-CA 33.33659, -117.50854","2026-01-21 17:03",1,33.336587,-117.508538,TRUE,FALSE,TRUE,"S295571694"
-"97","whtswi","White-throated Swift","Aeronautes saxatalis","L1311792","River Wilderness Park","2026-01-21 16:03",2,34.1611967,-117.8927636,TRUE,FALSE,FALSE,"S295655178"
-"98","whtswi","White-throated Swift","Aeronautes saxatalis","L36632656","Chads work walk","2026-01-21 14:33",4,38.568938,-121.3735,TRUE,FALSE,TRUE,"S295558204"
-"99","whtswi","White-throated Swift","Aeronautes saxatalis","L1327798","Elysian Park--Chavez Ravine","2026-01-21 14:27",2,34.0819259,-118.2473737,TRUE,FALSE,FALSE,"S295563854"
-"100","whtswi","White-throated Swift","Aeronautes saxatalis","L128907","Big Bend NP--Rio Grande Village (FWTX 44)","2026-01-21 13:46",8,29.1809226,-102.9557133,TRUE,FALSE,FALSE,"S295578694"
-"101","whtswi","White-throated Swift","Aeronautes saxatalis","L13736786","Oakwood Lake, Manteca US-CA","2026-01-21 12:02",50,37.778122,-121.289267,TRUE,TRUE,FALSE,"S295534091"
-"102","whtswi","White-throated Swift","Aeronautes saxatalis","L57504111","Hudson Ranch Rd, Maricopa US-CA 34.88758, -119.35575","2026-01-21 11:23",2,34.887579,-119.355753,TRUE,FALSE,TRUE,"S295550086"
-"103","whtswi","White-throated Swift","Aeronautes saxatalis","L23087892","26871 N 102nd St, Scottsdale US-AZ 33.73044, -111.85693","2026-01-21 11:10",15,33.730436,-111.856928,TRUE,FALSE,TRUE,"S295568784"
-"104","whtswi","White-throated Swift","Aeronautes saxatalis","L383144","Sanborn County Park--main entrance","2026-01-21 10:09",3,37.23497,-122.061926,TRUE,FALSE,FALSE,"S295526844"
-"105","whtswi","White-throated Swift","Aeronautes saxatalis","L14425903","Eaton Circle","2026-01-21 09:42",1,33.80456,-118.12566,TRUE,FALSE,TRUE,"S295514106"
-"106","whtswi","White-throated Swift","Aeronautes saxatalis","L129062","Ramsey Canyon Preserve (formerly Mile Hi Ranch)","2026-01-21 09:39",2,31.4473746,-110.307608,TRUE,FALSE,FALSE,"S296036718"
-"107","whtswi","White-throated Swift","Aeronautes saxatalis","L13534819","Walden West (restricted access)","2026-01-21 07:32",4,37.238708,-122.0690382,TRUE,FALSE,TRUE,"S295499760"
-"108","whtswi","White-throated Swift","Aeronautes saxatalis","L4197326","Guadalupe River Park","2026-01-21 07:28",2,37.3439932,-121.9047475,TRUE,FALSE,FALSE,"S295508312"
-"109","whtswi","White-throated Swift","Aeronautes saxatalis","L819351","White Tank Mountain Regional Park","2026-01-21 07:02",11,33.5763768,-112.5086387,TRUE,FALSE,FALSE,"S295529419"
-"110","whtswi","White-throated Swift","Aeronautes saxatalis","L300659","Stanford University--campus","2026-01-20 16:37",2,37.4321365,-122.1689129,TRUE,FALSE,FALSE,"S295567839"
-"111","whtswi","White-throated Swift","Aeronautes saxatalis","L629205","University of Arizona","2026-01-20 15:50",2,32.2321157,-110.9511852,TRUE,FALSE,FALSE,"S295409455"
-"112","whtswi","White-throated Swift","Aeronautes saxatalis","L670772","Mace Blvd. bridge (YOL Co.)","2026-01-20 15:00",2,38.5189593,-121.6950417,TRUE,FALSE,FALSE,"S295519534"
-"113","whtswi","White-throated Swift","Aeronautes saxatalis","L17643546","374 Gull Ct Rio Rico Az.","2026-01-20 13:58",5,31.4792388,-110.9800287,TRUE,FALSE,TRUE,"S295399874"
-"114","whtswi","White-throated Swift","Aeronautes saxatalis","L20356967","Favre","2026-01-20 13:55",25,37.1982907,-122.0673731,TRUE,TRUE,TRUE,"S295402090"
-"115","whtswi","White-throated Swift","Aeronautes saxatalis","L352346","Santa Gertrudis Lane (foot access only)","2026-01-20 13:07",1,31.5620883,-111.0473766,TRUE,FALSE,FALSE,"S295395099"
-"116","whtswi","White-throated Swift","Aeronautes saxatalis","L129010","Balmorhea Lake (fee access)","2026-01-20 13:07",3,30.9617996,-103.7192993,TRUE,FALSE,FALSE,"S295392389"
-"117","whtswi","White-throated Swift","Aeronautes saxatalis","L1023602","Pinnacle Peak Park","2026-01-20 12:56",14,33.7274211,-111.8645221,TRUE,FALSE,FALSE,"S295384942"
-"118","whtswi","White-throated Swift","Aeronautes saxatalis","L357868","Saguaro Lake","2026-01-20 11:24",14,33.5740415,-111.5377575,TRUE,FALSE,FALSE,"S295383596"
-"119","whtswi","White-throated Swift","Aeronautes saxatalis","L720787","Florida Canyon--lower","2026-01-20 11:14",2,31.7633436,-110.8458804,TRUE,FALSE,FALSE,"S295382104"
-"120","whtswi","White-throated Swift","Aeronautes saxatalis","L4580520","Madera Canyon--Nature Trail (county line/Madera PA to Amphitheater)","2026-01-20 10:38",1,31.7253496,-110.8813848,TRUE,FALSE,FALSE,"S295385767"
-"121","whtswi","White-throated Swift","Aeronautes saxatalis","L56792866","Vellano Park, Chino Hills US-CA 33.95568, -117.73575","2026-01-20 10:28",7,33.955684,-117.73575,TRUE,FALSE,TRUE,"S295746743"
-"122","whtswi","White-throated Swift","Aeronautes saxatalis","L3505115","UCLA--Sage Hill","2026-01-20 10:08",6,34.074035,-118.4552068,TRUE,FALSE,FALSE,"S295381196"
-"123","whtswi","White-throated Swift","Aeronautes saxatalis","L57478310","Hidden Valley Nature Trail, Desert Hot Springs US-CA 34.01256, -116.16864","2026-01-20 09:43",3,34.012563,-116.168636,TRUE,FALSE,TRUE,"S295426494"
-"124","whtswi","White-throated Swift","Aeronautes saxatalis","L1300216","Joshua Tree NP--Hidden Valley area","2026-01-20 09:42",4,34.014585,-116.171998,TRUE,FALSE,FALSE,"S295409482"
-"125","whtswi","White-throated Swift","Aeronautes saxatalis","L10850051","Canada Rd. at Hwy 92/Hwy 280 intersection","2026-01-20 09:30",4,37.505396,-122.339425,TRUE,FALSE,FALSE,"S295425890"
-"126","whtswi","White-throated Swift","Aeronautes saxatalis","L12207409","Conejo Creek South Park","2026-01-20 09:16",2,34.1955778,-118.8564353,TRUE,FALSE,FALSE,"S296143314"
-"127","whtswi","White-throated Swift","Aeronautes saxatalis","L840634","Irvine Regional Park","2026-01-20 08:54",6,33.7968382,-117.7532673,TRUE,FALSE,FALSE,"S295395871"
-"128","whtswi","White-throated Swift","Aeronautes saxatalis","L3171526","Aliso Creek--Pacific Park Drive to Awma Road","2026-01-20 06:59",3,33.557248,-117.7176315,TRUE,FALSE,FALSE,"S295392761"
-"129","whtswi","White-throated Swift","Aeronautes saxatalis","L572118","Big Bend NP--K-Bar Ranch","2026-01-19 17:20",3,29.3055613,-103.1781006,TRUE,FALSE,FALSE,"S295428377"
-"130","whtswi","White-throated Swift","Aeronautes saxatalis","L517284","Pasadena City Hall","2026-01-19 16:52",14,34.1478259,-118.1432819,TRUE,FALSE,FALSE,"S295274708"
-"131","whtswi","White-throated Swift","Aeronautes saxatalis","L3686979","BJ Bishop Wetlands (Presidio)","2026-01-19 16:45",20,29.541114,-104.317778,TRUE,FALSE,FALSE,"S295257459"
-"132","whtswi","White-throated Swift","Aeronautes saxatalis","L10185202","North Natomas Regional Park","2026-01-19 15:10",5,38.6639521,-121.5164887,TRUE,FALSE,FALSE,"S295274728"
-"133","whtswi","White-throated Swift","Aeronautes saxatalis","L484238","Albany Mudflats","2026-01-19 14:57",2,37.892331,-122.3117995,TRUE,FALSE,FALSE,"S295259251"
-"134","whtswi","White-throated Swift","Aeronautes saxatalis","L9158017","Sycamore Grove Park - Arroyo Entrance","2026-01-19 14:00",1,37.6249019,-121.7573611,TRUE,FALSE,FALSE,"S295282603"
-"135","whtswi","White-throated Swift","Aeronautes saxatalis","L503349","Tilden Nature Area--Jewel Lake","2026-01-19 13:24",3,37.9124709,-122.2690237,TRUE,FALSE,FALSE,"S295254632"
-"136","whtswi","White-throated Swift","Aeronautes saxatalis","L11549904","Candelaria wetlands","2026-01-19 13:15",50,30.085828,-104.683994,TRUE,FALSE,FALSE,"S295248588"
-"137","whtswi","White-throated Swift","Aeronautes saxatalis","L2877103","home","2026-01-19 12:50",1,37.879194,-122.2642,TRUE,FALSE,TRUE,"S295232610"
-"138","whtswi","White-throated Swift","Aeronautes saxatalis","L57444286","Auto selected 30.06151, -104.69106","2026-01-19 12:26",30,30.061506,-104.69106,TRUE,FALSE,TRUE,"S295261390"
-"139","whtswi","White-throated Swift","Aeronautes saxatalis","L17686290","Joshua Tree NP--Cap Rock area","2026-01-19 11:49",1,33.9882,-116.1624,TRUE,FALSE,FALSE,"S295276527"
-"140","whtswi","White-throated Swift","Aeronautes saxatalis","L820867","UCSB North Campus Open Space (formerly Ocean Meadows Golf Course)","2026-01-19 11:46",1,34.4198459,-119.8792197,TRUE,FALSE,FALSE,"S295230362"
-"141","whtswi","White-throated Swift","Aeronautes saxatalis","L5169862","California Aqueduct--E Barrel Springs Rd/Hwy 14","2026-01-19 11:34",2,34.546082,-118.130137,TRUE,FALSE,FALSE,"S295232006"
-"142","whtswi","White-throated Swift","Aeronautes saxatalis","L677500","Crystal Springs Reservoir","2026-01-19 11:31",24,37.5095897,-122.3518181,TRUE,FALSE,FALSE,"S295214671"
-"143","whtswi","White-throated Swift","Aeronautes saxatalis","L864070","California Aqueduct--Munz Ranch Rd.","2026-01-19 11:30",5,34.687128,-118.3816338,TRUE,FALSE,FALSE,"S295221520"
-"144","whtswi","White-throated Swift","Aeronautes saxatalis","L20495715","Franklin Mountains SP--Sneeds Cory","2026-01-19 11:26",1,31.915078,-106.510191,TRUE,FALSE,FALSE,"S295207006"
-"145","whtswi","White-throated Swift","Aeronautes saxatalis","L2926685","Santa Cruz Island--Montañon Ridge","2026-01-19 10:58",2,34.0207949,-119.5782852,TRUE,FALSE,FALSE,"S295505075"
-"146","whtswi","White-throated Swift","Aeronautes saxatalis","L6980572","Booker T Anderson Park","2026-01-19 10:27",1,37.919033,-122.326361,TRUE,FALSE,FALSE,"S295207349"
-"147","whtswi","White-throated Swift","Aeronautes saxatalis","L5856370","Wind Cave Trail","2026-01-19 10:25",5,33.4749096,-111.6068673,TRUE,FALSE,FALSE,"S295218586"
-"148","whtswi","White-throated Swift","Aeronautes saxatalis","L56056608","Bryce’s House","2026-01-19 10:20",1,33.798233,-118.364769,TRUE,FALSE,TRUE,"S295213711"
-"149","whtswi","White-throated Swift","Aeronautes saxatalis","L4131903","Gibbs Park, Huntington Beach","2026-01-19 10:02",3,33.7200563,-118.0351782,TRUE,FALSE,FALSE,"S295197901"
-"150","whtswi","White-throated Swift","Aeronautes saxatalis","L57437143","Cabrillo National Monument, San Diego US-CA 32.67055, -117.23834","2026-01-19 09:53",3,32.670553,-117.238345,TRUE,FALSE,TRUE,"S295230540"
-"151","whtswi","White-throated Swift","Aeronautes saxatalis","L718194","Mission Bay--De Anza Cove & Point","2026-01-19 09:47",2,32.7967588,-117.215771,TRUE,FALSE,FALSE,"S295837596"
-"152","whtswi","White-throated Swift","Aeronautes saxatalis","L40198797","Pontatoc Trail #410--upper (opened Feb 2025)","2026-01-19 09:43",1,32.351913,-110.886456,TRUE,FALSE,TRUE,"S295189630"
-"153","whtswi","White-throated Swift","Aeronautes saxatalis","L57427705","Rio San Diego Dr, San Diego US-CA 32.77604, -117.13474","2026-01-19 09:43",1,32.776036,-117.134745,TRUE,FALSE,TRUE,"S295189804"
-"154","whtswi","White-throated Swift","Aeronautes saxatalis","L152135","Descanso Gardens","2026-01-19 09:34",1,34.20164,-118.21229,TRUE,FALSE,FALSE,"S295245813"
-"155","whtswi","White-throated Swift","Aeronautes saxatalis","L472831","Arroyo Del Valle","2026-01-19 09:33",2,37.6208389,-121.7485571,TRUE,FALSE,FALSE,"S295280163"
-"156","whtswi","White-throated Swift","Aeronautes saxatalis","L1472085","Finger Rock Trail--Linda Vista Saddle","2026-01-19 09:23",1,32.3581281,-110.8871751,TRUE,FALSE,TRUE,"S295176982"
-"157","whtswi","White-throated Swift","Aeronautes saxatalis","L57247379","Back Yard Birding Boulder Pass","2026-01-19 08:40",1,32.467327,-111.109371,TRUE,FALSE,TRUE,"S295167022"
-"158","whtswi","White-throated Swift","Aeronautes saxatalis","L778364","Occidental College","2026-01-19 08:35",2,34.1286626,-118.211689,TRUE,FALSE,FALSE,"S295197469"
-"159","whtswi","White-throated Swift","Aeronautes saxatalis","L39513361","Scottsdale House","2026-01-19 08:33",3,33.488235,-111.915658,TRUE,FALSE,TRUE,"S295586869"
-"160","whtswi","White-throated Swift","Aeronautes saxatalis","L837268","Sacramento NWR--Auto Route & Visitor Center","2026-01-19 08:00",5,39.4284385,-122.1564999,TRUE,FALSE,FALSE,"S295225643"
-"161","whtswi","White-throated Swift","Aeronautes saxatalis","L1429257","Finger Rock Trail--from spring to Linda Vista Saddle","2026-01-19 07:57",19,32.3524631,-110.8968538,TRUE,FALSE,TRUE,"S295172983"
-"162","whtswi","White-throated Swift","Aeronautes saxatalis","L441069","Waddell SB","2026-01-19 07:56",4,37.0946519,-122.2786759,TRUE,FALSE,FALSE,"S295208723"
-"163","whtswi","White-throated Swift","Aeronautes saxatalis","L1430237","Finger Rock Spring","2026-01-19 07:51",4,32.3478054,-110.9039579,TRUE,FALSE,TRUE,"S295153450"
-"164","whtswi","White-throated Swift","Aeronautes saxatalis","L198791","Hahamongna Watershed Park (formerly Oak Grove Park)","2026-01-19 07:49",7,34.1933989,-118.1758332,TRUE,FALSE,FALSE,"S295206844"
-"165","whtswi","White-throated Swift","Aeronautes saxatalis","L210015","Desert Botanical Garden","2026-01-19 07:42",13,33.4618165,-111.9436349,TRUE,FALSE,FALSE,"S295221333"
-"166","whtswi","White-throated Swift","Aeronautes saxatalis","L360452","Big Bend NP--Panther Junction","2026-01-19 07:34",3,29.3281624,-103.2064569,TRUE,FALSE,FALSE,"S295428312"
-"167","whtswi","White-throated Swift","Aeronautes saxatalis","L768273","Los Angeles River--Sepulveda Basin","2026-01-19 07:15",1,34.1694526,-118.4756184,TRUE,FALSE,FALSE,"S295262024"
-"168","whtswi","White-throated Swift","Aeronautes saxatalis","L5786034","Talbert Regional Park (North)","2026-01-19 07:14",7,33.6606925,-117.9456997,TRUE,FALSE,FALSE,"S295193660"
-"169","whtswi","White-throated Swift","Aeronautes saxatalis","L732067","Borrego Springs--WTP Settling Ponds","2026-01-19 06:35",2,33.2094522,-116.3147717,TRUE,FALSE,FALSE,"S295277372"
-"170","whtswi","White-throated Swift","Aeronautes saxatalis","L448084","Woodland WTP","2026-01-18 16:40",2,38.6624345,-121.7173585,TRUE,FALSE,FALSE,"S295072586"
-"171","whtswi","White-throated Swift","Aeronautes saxatalis","L57402869","1080 Quintana Road, Morro Bay, California, US (35.366, -120.836)","2026-01-18 16:16",1,35.3662108,-120.8356284,TRUE,FALSE,TRUE,"S295066310"
-"172","whtswi","White-throated Swift","Aeronautes saxatalis","L595298","Lower Arroyo Seco","2026-01-18 16:06",30,34.137561,-118.1677651,TRUE,FALSE,FALSE,"S295076517"
-"173","whtswi","White-throated Swift","Aeronautes saxatalis","L128902","Big Bend NP--Hot Springs","2026-01-18 16:04",25,29.1823997,-102.9935989,TRUE,FALSE,FALSE,"S295076538"
-"174","whtswi","White-throated Swift","Aeronautes saxatalis","L867979","Santa Ana River--Pacific Coast Hwy to Hamilton Ave.","2026-01-18 14:55",3,33.6434831,-117.9534341,TRUE,FALSE,FALSE,"S295062570"
-"175","whtswi","White-throated Swift","Aeronautes saxatalis","L57401509","12326–12358 FM-170, Presidio US-TX 30.11696, -104.68155","2026-01-18 14:40",200,30.116958,-104.681548,TRUE,TRUE,TRUE,"S295059486"
-"176","whtswi","White-throated Swift","Aeronautes saxatalis","L128893","Big Bend NP--Boquillas Canyon","2026-01-18 14:27",10,29.1942997,-102.9233017,TRUE,FALSE,FALSE,"S295076486"
-"177","whtswi","White-throated Swift","Aeronautes saxatalis","L57405079","Big Bend NP--Boquillas Crossing","2026-01-18 14:06",8,29.1888024,-102.9454122,TRUE,FALSE,TRUE,"S295076420"
-"178","whtswi","White-throated Swift","Aeronautes saxatalis","L225812","American River Parkway--William B Pond Rec Area","2026-01-18 13:25",3,38.5864078,-121.332454,TRUE,FALSE,FALSE,"S295053302"
-"179","whtswi","White-throated Swift","Aeronautes saxatalis","L57395578","Bancroft Way, Berkeley US-CA 37.86914, -122.25220","2026-01-18 12:24",14,37.869142,-122.252203,TRUE,FALSE,TRUE,"S295035085"
-"180","whtswi","White-throated Swift","Aeronautes saxatalis","L251279","Parkway Lakes","2026-01-18 12:12",1,37.2306487,-121.7545116,TRUE,FALSE,FALSE,"S295020983"
-"181","whtswi","White-throated Swift","Aeronautes saxatalis","L469667","Red Rock Canyon SP","2026-01-18 11:52",1,35.3724385,-117.9969513,TRUE,FALSE,FALSE,"S295089546"
-"182","whtswi","White-throated Swift","Aeronautes saxatalis","L896384","Mt. Wilson Observatory","2026-01-18 11:42",8,34.225021,-118.0565286,TRUE,FALSE,FALSE,"S295053248"
-"183","whtswi","White-throated Swift","Aeronautes saxatalis","L38747644","Imola Avenue at Napa River","2026-01-18 11:31",5,38.2807503,-122.2848339,TRUE,FALSE,TRUE,"S295039969"
-"184","whtswi","White-throated Swift","Aeronautes saxatalis","L1192514","Ramakrishna Monastery","2026-01-18 11:15",6,33.6733218,-117.6099676,TRUE,FALSE,FALSE,"S295055707"
-"185","whtswi","White-throated Swift","Aeronautes saxatalis","L8452908","Montezuma Valley Road Lookout","2026-01-18 11:12",13,33.213108,-116.4236561,TRUE,FALSE,FALSE,"S295005799"
-"186","whtswi","White-throated Swift","Aeronautes saxatalis","L716144","Big Sur coast--Sea-lion Beach (""Condor overlook"")","2026-01-18 10:59",3,36.2019418,-121.7289214,TRUE,FALSE,FALSE,"S295436007"
-"187","whtswi","White-throated Swift","Aeronautes saxatalis","L1168716","640 Panoramic Way, Berkeley, CA 94704","2026-01-18 10:56",2,37.8676376,-122.2426834,TRUE,FALSE,TRUE,"S295173524"
-"188","whtswi","White-throated Swift","Aeronautes saxatalis","L2111806","Riverbottom Park","2026-01-18 10:55",1,36.8503951,-119.9051714,TRUE,FALSE,FALSE,"S295202226"
-"189","whtswi","White-throated Swift","Aeronautes saxatalis","L656782","Cosumnes River Preserve","2026-01-18 10:54",2,38.2658235,-121.4394915,TRUE,FALSE,FALSE,"S295072168"
-"190","whtswi","White-throated Swift","Aeronautes saxatalis","L57406009","Allanson trail (private access)","2026-01-18 10:35",2,34.785767,-115.666648,TRUE,FALSE,TRUE,"S295080857"
-"191","whtswi","White-throated Swift","Aeronautes saxatalis","L24753806","Kitchen Creek Riparian at Old US 80 and I-8","2026-01-18 10:23",2,32.7332258,-116.4831057,TRUE,FALSE,TRUE,"S295075023"
-"192","whtswi","White-throated Swift","Aeronautes saxatalis","L358408","Arroyo Verde Park","2026-01-18 10:10",15,34.2905165,-119.2259502,TRUE,FALSE,FALSE,"S294996876"
-"193","whtswi","White-throated Swift","Aeronautes saxatalis","L36949734","Rio Temecula","2026-01-18 09:56",7,33.4741896,-117.1112112,TRUE,FALSE,TRUE,"S295016140"
-"194","whtswi","White-throated Swift","Aeronautes saxatalis","L1489239","Ed Levin CP--Agua Caliente-Tularcitos trails","2026-01-18 09:43",8,37.457219,-121.8591474,TRUE,FALSE,FALSE,"S295023884"
-"195","whtswi","White-throated Swift","Aeronautes saxatalis","L351272","Arroyo Seco Rec Area--lakes and gorge","2026-01-18 09:39",2,36.232132,-121.4846122,TRUE,FALSE,FALSE,"S295173175"
-"196","whtswi","White-throated Swift","Aeronautes saxatalis","L190217","Evelyn Hallman Park","2026-01-18 09:37",7,33.4480905,-111.9371943,TRUE,FALSE,FALSE,"S295026161"
-"197","whtswi","White-throated Swift","Aeronautes saxatalis","L834176","Pt. Richmond--shoreline/neighborhood","2026-01-18 09:24",8,37.9274431,-122.3936176,TRUE,FALSE,FALSE,"S295030366"
-"198","whtswi","White-throated Swift","Aeronautes saxatalis","L57387768","CBA--Imperial Beach CW | Goat Canyon","2026-01-18 09:23",2,32.5421436,-117.1053503,TRUE,FALSE,TRUE,"S295003343"
-"199","whtswi","White-throated Swift","Aeronautes saxatalis","L229936","Mission Trails Regional Park--Kumeyaay Lake & campground ONLY","2026-01-18 09:19",3,32.8417935,-117.0320288,TRUE,FALSE,FALSE,"S295745206"
-"200","whtswi","White-throated Swift","Aeronautes saxatalis","L716316","Lake Morena","2026-01-18 09:11",2,32.6881683,-116.5258897,TRUE,FALSE,FALSE,"S295074040"
-"201","whtswi","White-throated Swift","Aeronautes saxatalis","L17318372","Earl Canyon Mtwy","2026-01-18 09:05",1,34.2338477,-118.2150611,TRUE,FALSE,FALSE,"S295063337"
-"202","whtswi","White-throated Swift","Aeronautes saxatalis","L21670459","Tijuana River Valley--campground","2026-01-18 09:00",1,32.5450865,-117.1024104,TRUE,FALSE,FALSE,"S294982783"
-"203","whtswi","White-throated Swift","Aeronautes saxatalis","L382758","Carbon Canyon Regional Park","2026-01-18 08:17",4,33.9205466,-117.834255,TRUE,FALSE,FALSE,"S295099203"
-"204","whtswi","White-throated Swift","Aeronautes saxatalis","L949191","Tahquitz Canyon","2026-01-18 08:16",10,33.80531,-116.558434,TRUE,FALSE,FALSE,"S295027492"
-"205","whtswi","White-throated Swift","Aeronautes saxatalis","L32827364","Cottonwood Creek at Buckman Springs Road","2026-01-18 08:15",1,32.7136087,-116.4997972,TRUE,FALSE,FALSE,"S295072962"
-"206","whtswi","White-throated Swift","Aeronautes saxatalis","L2457058","Santa Ynez River at Santa Rosa Road","2026-01-18 08:12",2,34.6071008,-120.1943135,TRUE,FALSE,FALSE,"S294975151"
-"207","whtswi","White-throated Swift","Aeronautes saxatalis","L21587254","San Diego River--east of Qualcomm Way","2026-01-18 07:59",NA,32.7725263,-117.1384299,TRUE,FALSE,FALSE,"S294985421"
-"208","whtswi","White-throated Swift","Aeronautes saxatalis","L299206","Camelback Mountain Recreation Area","2026-01-18 07:41",5,33.5207371,-111.9744161,TRUE,FALSE,FALSE,"S294940804"
-"209","whtswi","White-throated Swift","Aeronautes saxatalis","L2999612","Playa del Rey/Ballona area","2026-01-18 07:07",4,33.9634551,-118.4519934,TRUE,FALSE,FALSE,"S295255789"
-"210","whtswi","White-throated Swift","Aeronautes saxatalis","L2859144","Prado Wetlands","2026-01-18 06:45",4,33.9232342,-117.6144576,TRUE,FALSE,FALSE,"S294989854"
-"211","whtswi","White-throated Swift","Aeronautes saxatalis","L10008335","RSM - Trabuco Creek Trail bike path, Avenida Empresa trailhead","2026-01-17 16:40",8,33.6412316,-117.6088103,TRUE,FALSE,TRUE,"S294843542"
-"212","whtswi","White-throated Swift","Aeronautes saxatalis","L40363249","Culver and Corinth","2026-01-17 16:02",1,34.00167,-118.412042,TRUE,FALSE,TRUE,"S294820279"
-"213","whtswi","White-throated Swift","Aeronautes saxatalis","L1869704","Little Pico Creek","2026-01-17 13:40",5,35.6338254,-121.1637403,TRUE,FALSE,FALSE,"S294790863"
-"214","whtswi","White-throated Swift","Aeronautes saxatalis","L352643","Fort Leaton State Hist. Site (FWTX 32)","2026-01-17 13:32",12,29.5427367,-104.3264622,TRUE,FALSE,FALSE,"S294762195"
-"215","whtswi","White-throated Swift","Aeronautes saxatalis","L57333618","Fort Leaton State Historic Site, Presidio US-TX 29.54235, -104.32621","2026-01-17 12:57",20,29.542354,-104.326212,TRUE,FALSE,TRUE,"S294762614"
-"216","whtswi","White-throated Swift","Aeronautes saxatalis","L57351239","Delta Shores","2026-01-17 12:45",30,38.465491,-121.493062,TRUE,FALSE,TRUE,"S294836950"
-"217","whtswi","White-throated Swift","Aeronautes saxatalis","L53540147","Delta Shores","2026-01-17 12:45",20,38.460115,-121.492856,TRUE,FALSE,TRUE,"S294779360"
-"218","whtswi","White-throated Swift","Aeronautes saxatalis","L878533","Brand Park--Glendale (LA Co.)","2026-01-17 12:23",8,34.1814709,-118.2774568,TRUE,FALSE,FALSE,"S294810491"
-"219","whtswi","White-throated Swift","Aeronautes saxatalis","L451992","Black Diamond Mines Regional Preserve","2026-01-17 12:22",6,37.9722145,-121.8582916,TRUE,FALSE,FALSE,"S294822181"
-"220","whtswi","White-throated Swift","Aeronautes saxatalis","L714949","Big Bend NP--Pinnacles Trail","2026-01-17 12:00",NA,29.2518263,-103.3002913,TRUE,FALSE,FALSE,"S294908729"
-"221","whtswi","White-throated Swift","Aeronautes saxatalis","L338988","Ed Levin County Park (please use a more specific hotspot where possible)","2026-01-17 11:54",20,37.4608486,-121.8681622,TRUE,FALSE,FALSE,"S294830070"
-"222","whtswi","White-throated Swift","Aeronautes saxatalis","L167991","Batiquitos Lagoon--north side trails","2026-01-17 11:19",1,33.091669,-117.2960981,TRUE,FALSE,FALSE,"S294774355"
-"223","whtswi","White-throated Swift","Aeronautes saxatalis","L24322143","Griffith Park--Merry Go Round","2026-01-17 11:08",7,34.1312352,-118.2836682,TRUE,FALSE,FALSE,"S294806469"
-"224","whtswi","White-throated Swift","Aeronautes saxatalis","L2698912","Ed Levin CP--Sandy Wool-Elm areas","2026-01-17 11:07",2,37.4559362,-121.8632054,TRUE,FALSE,FALSE,"S294816272"
-"225","whtswi","White-throated Swift","Aeronautes saxatalis","L178520","Rancho San Antonio","2026-01-17 10:43",NA,37.32912,-122.10599,TRUE,FALSE,FALSE,"S294773042"
-"226","whtswi","White-throated Swift","Aeronautes saxatalis","L57438585","Albany Mudflats (Contra Costa side)","2026-01-17 10:40",4,37.8981842,-122.3192239,TRUE,FALSE,TRUE,"S294762482"
-"227","whtswi","White-throated Swift","Aeronautes saxatalis","L128993","Hueco Tanks SP & Historic Site (FWTX 5)","2026-01-17 10:38",1,31.9214283,-106.0467612,TRUE,FALSE,FALSE,"S294820895"
-"228","whtswi","White-throated Swift","Aeronautes saxatalis","L1046977","Flintridge Riding Club (no public access)","2026-01-17 10:29",20,34.197827,-118.1767881,TRUE,FALSE,FALSE,"S294757828"
-"229","whtswi","White-throated Swift","Aeronautes saxatalis","L791702","Pacific Commons Linear Park","2026-01-17 10:29",1,37.4951201,-121.9796026,TRUE,FALSE,FALSE,"S294792942"
-"230","whtswi","White-throated Swift","Aeronautes saxatalis","L57329132","41 Tunnel Rd, Oakland US-CA 37.85950, -122.24271","2026-01-17 10:17",10,37.859504,-122.242705,TRUE,FALSE,TRUE,"S294743727"
-"231","whtswi","White-throated Swift","Aeronautes saxatalis","L481727","Quarry Lakes Regional Park","2026-01-17 10:10",1,37.5747869,-122.0059204,TRUE,FALSE,FALSE,"S294765092"
-"232","whtswi","White-throated Swift","Aeronautes saxatalis","L30162947","Golf Course","2026-01-17 09:55",6,34.191967,-118.175546,TRUE,FALSE,TRUE,"S294753933"
-"233","whtswi","White-throated Swift","Aeronautes saxatalis","L10877130","The Boulders (Restricted access)","2026-01-17 09:41",5,33.8014246,-111.9243526,TRUE,FALSE,TRUE,"S294762906"
-"234","whtswi","White-throated Swift","Aeronautes saxatalis","L354400","Monrovia Canyon Park","2026-01-17 09:30",1,34.1765449,-117.989527,TRUE,FALSE,FALSE,"S294751959"
-"235","whtswi","White-throated Swift","Aeronautes saxatalis","L19009469","Rock Peak Wash Trailhead","2026-01-17 09:30",6,33.129955,-111.636484,TRUE,FALSE,FALSE,"S295863329"
-"236","whtswi","White-throated Swift","Aeronautes saxatalis","L275969","Rockhound SP--Spring Canyon Area","2026-01-17 08:46",2,32.147084,-107.618991,TRUE,FALSE,FALSE,"S294764937"
-"237","whtswi","White-throated Swift","Aeronautes saxatalis","L2774546","San Dimas Canyon Rd.","2026-01-17 08:18",7,34.1514485,-117.7727509,TRUE,FALSE,FALSE,"S294807268"
-"238","whtswi","White-throated Swift","Aeronautes saxatalis","L208146","Mission Trails Regional Park--Northeast Region","2026-01-17 08:05",4,32.8439826,-117.0376255,TRUE,FALSE,FALSE,"S294751884"
-"239","whtswi","White-throated Swift","Aeronautes saxatalis","L291269","Morro Bay harbor mouth","2026-01-17 07:10",1,35.3640786,-120.8658353,TRUE,FALSE,FALSE,"S295082226"
-"240","whtswi","White-throated Swift","Aeronautes saxatalis","L732299","Hansen Dam","2026-01-17 07:10",1,34.2670624,-118.385067,TRUE,FALSE,FALSE,"S294777106"
-"241","whtswi","White-throated Swift","Aeronautes saxatalis","L802202","Otay River Restoration","2026-01-17 07:04",1,32.5915614,-117.0925512,TRUE,FALSE,FALSE,"S294751678"
-"242","whtswi","White-throated Swift","Aeronautes saxatalis","L57293322","San Bernardino Fwy, Pomona US-CA 34.06536, -117.80504","2026-01-16 16:41",3,34.065364,-117.805035,TRUE,FALSE,TRUE,"S294579020"
-"243","whtswi","White-throated Swift","Aeronautes saxatalis","L1002030","Etheldore St. riparian area","2026-01-16 15:04",3,37.5226099,-122.5065601,TRUE,FALSE,FALSE,"S294580233"
-"244","whtswi","White-throated Swift","Aeronautes saxatalis","L2316709","Ellis Creek Water Recycling Facility","2026-01-16 14:07",1,38.2251678,-122.5838828,TRUE,FALSE,FALSE,"S294565688"
-"245","whtswi","White-throated Swift","Aeronautes saxatalis","L18074425","Dam","2026-01-16 13:56",2,36.447288,-118.847099,TRUE,FALSE,TRUE,"S294558120"
-"246","whtswi","White-throated Swift","Aeronautes saxatalis","L361580","Highland Hospital","2026-01-16 12:50",2,37.7988148,-122.2329104,TRUE,FALSE,TRUE,"S294547395"
-"247","whtswi","White-throated Swift","Aeronautes saxatalis","L1785666","Iron Horse Trail - Rudgear to Hillgrade","2026-01-16 12:11",1,37.8734154,-122.049524,TRUE,FALSE,TRUE,"S294541582"
-"248","whtswi","White-throated Swift","Aeronautes saxatalis","L13512835","Lewis Creek Road (MTY Co.)","2026-01-16 12:08",1,36.2973151,-120.9012517,TRUE,FALSE,FALSE,"S294591937"
-"249","whtswi","White-throated Swift","Aeronautes saxatalis","L1294688","Sacramento Reg Wastewater Treatment Plant (limited access)","2026-01-16 11:54",2,38.4407495,-121.4792633,TRUE,FALSE,FALSE,"S294538117"
-"250","whtswi","White-throated Swift","Aeronautes saxatalis","L5615454","Mines Rd.--MP 10.03 (ALA Co.)","2026-01-16 11:46",4,37.587802,-121.611555,TRUE,FALSE,FALSE,"S294560054"
-"251","whtswi","White-throated Swift","Aeronautes saxatalis","L5833849","Oakland International Airport","2026-01-16 11:41",1,37.71036,-122.224748,TRUE,FALSE,FALSE,"S294533683"
-"252","whtswi","White-throated Swift","Aeronautes saxatalis","L384807","Prado Regional Park","2026-01-16 11:40",2,33.9463861,-117.6506138,TRUE,FALSE,FALSE,"S294556458"
-"253","whtswi","White-throated Swift","Aeronautes saxatalis","L828142","Eugene O'Neill NHS","2026-01-16 11:31",2,37.8253448,-122.0285368,TRUE,FALSE,FALSE,"S294533465"
-"254","whtswi","White-throated Swift","Aeronautes saxatalis","L447347","UC Davis--Arboretum west end (for CBA Block ""Merrit SE"")","2026-01-16 11:11",5,38.5290667,-121.7613653,TRUE,FALSE,FALSE,"S294535248"
-"255","whtswi","White-throated Swift","Aeronautes saxatalis","L2849218","Bonita Creek Trail","2026-01-16 10:55",NA,33.64784,-117.8625,TRUE,FALSE,FALSE,"S294537704"
-"256","whtswi","White-throated Swift","Aeronautes saxatalis","L31748236","Poinsettia Trail","2026-01-16 10:41",3,33.104003,-117.316193,TRUE,FALSE,FALSE,"S294529456"
-"257","whtswi","White-throated Swift","Aeronautes saxatalis","L194688","Sepulveda Basin--East of Woodley Ave","2026-01-16 10:18",10,34.1767221,-118.4737308,TRUE,FALSE,FALSE,"S294563310"
-"258","whtswi","White-throated Swift","Aeronautes saxatalis","L2455878","Whittier Narrows--mitigation lakes","2026-01-16 10:15",18,34.027624,-118.0591035,TRUE,FALSE,FALSE,"S294520999"
-"259","whtswi","White-throated Swift","Aeronautes saxatalis","L57279378","Schabarum Regional Park Trail West Block","2026-01-16 10:11",8,33.979313,-117.9282163,TRUE,FALSE,TRUE,"S294527959"
-"260","whtswi","White-throated Swift","Aeronautes saxatalis","L951983","MRN - Angel Island SP","2026-01-16 09:56",6,37.8621151,-122.4330139,TRUE,FALSE,FALSE,"S294606357"
-"261","whtswi","White-throated Swift","Aeronautes saxatalis","L281194","Kit Carson Park","2026-01-16 09:45",1,33.0766149,-117.0605131,TRUE,FALSE,FALSE,"S294540907"
-"262","whtswi","White-throated Swift","Aeronautes saxatalis","L57278186","1511–1625 Alpine Blvd, Alpine US-CA 32.83783, -116.78104","2026-01-16 09:26",13,32.83783,-116.781035,TRUE,FALSE,TRUE,"S294512430"
-"263","whtswi","White-throated Swift","Aeronautes saxatalis","L40666292","1101 3rd Street, San Rafael, California, US (37.972, -122.529)","2026-01-16 09:25",30,37.9720389,-122.5285499,TRUE,FALSE,TRUE,"S294528971"
-"264","whtswi","White-throated Swift","Aeronautes saxatalis","L374421","O'Neill Regional Park","2026-01-16 09:21",10,33.6509948,-117.6013874,TRUE,FALSE,FALSE,"S294546407"
-"265","whtswi","White-throated Swift","Aeronautes saxatalis","L39536754","1225 Alpine Blvd, Alpine US-CA 32.83946, -116.78946","2026-01-16 08:58",25,32.839461,-116.789456,TRUE,FALSE,TRUE,"S294540416"
-"266","whtswi","White-throated Swift","Aeronautes saxatalis","L1134581","Davis Mountains Preserve--Tobe Canyon","2026-01-16 08:35",1,30.6461274,-104.1792727,TRUE,FALSE,FALSE,"S294556083"
-"267","whtswi","White-throated Swift","Aeronautes saxatalis","L225843","American River Parkway--Sacramento Bar","2026-01-16 08:25",1,38.6276289,-121.2824971,TRUE,FALSE,FALSE,"S294528303"
-"268","whtswi","White-throated Swift","Aeronautes saxatalis","L3100509","San Mateo Point & Creek (Trestles Beach)","2026-01-16 08:12",7,33.3877407,-117.5951415,TRUE,FALSE,FALSE,"S294523754"
-"269","whtswi","White-throated Swift","Aeronautes saxatalis","L865776","Canyon Lake","2026-01-16 08:00",5,33.5421816,-111.435399,TRUE,FALSE,FALSE,"S294549551"
-"270","whtswi","White-throated Swift","Aeronautes saxatalis","L39583640","Sierra Madre Avenue and Glendora Avenue intersection","2026-01-16 07:58",20,34.1467809,-117.8655013,TRUE,FALSE,TRUE,"S294519976"
-"271","whtswi","White-throated Swift","Aeronautes saxatalis","L757716","San Diego River--estuary (Old Sea World Dr.)","2026-01-16 07:46",3,32.7597508,-117.2179803,TRUE,FALSE,FALSE,"S294578838"
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
+"1","brnowl","American Barn Owl","Tyto furcata","L578426","Miller Drive Roost (Brewer Park)","2026-01-26 18:50",2,25.7178837,-80.2961969,TRUE,FALSE,FALSE,"S296482909",NA
+"2","brnowl","American Barn Owl","Tyto furcata","L1857318","Well Hollow","2026-01-26 17:24",1,38.5193958,-78.8908052,TRUE,FALSE,TRUE,"S296475451",NA
+"3","brnowl","American Barn Owl","Tyto furcata","L582123","Southern Glades Trail (C111 Canal outside ENP)","2026-01-26 16:47",1,25.4034735,-80.5586135,TRUE,FALSE,FALSE,"S296478013",NA
+"4","brnowl","American Barn Owl","Tyto furcata","L2619396","E.E. Wilson--Camp Adair Rd. Processing Facility","2026-01-26 15:08",1,44.6997085,-123.1957483,TRUE,FALSE,FALSE,"S296477911",NA
+"5","brnowl","American Barn Owl","Tyto furcata","L267071","Frager Rd. (north)","2026-01-26 14:57",1,47.418883,-122.2678757,TRUE,FALSE,FALSE,"S296483045",NA
+"6","brnowl","American Barn Owl","Tyto furcata","L1328313","River View Cemetery","2026-01-26 14:02",1,45.4634745,-122.6750071,TRUE,FALSE,FALSE,"S296478803",NA
+"7","brnowl","American Barn Owl","Tyto furcata","L16428512","Burbank, Washington, US (46.136, -118.886)","2026-01-26 11:43",1,46.1357725,-118.8855069,TRUE,FALSE,TRUE,"S296451979",NA
+"8","brnowl","American Barn Owl","Tyto furcata","L416332","204th Street, Kent","2026-01-26 11:05",1,47.4190282,-122.2763085,TRUE,FALSE,FALSE,"S296460187",NA
+"9","brnowl","American Barn Owl","Tyto furcata","L798090","Tolay Regional Park","2026-01-26 10:46",2,38.2106695,-122.5126648,TRUE,FALSE,FALSE,"S296465769",NA
+"10","brnowl","American Barn Owl","Tyto furcata","L592967","Ridgefield NWR--River 'S' Unit","2026-01-26 10:23",1,45.7990694,-122.7490082,TRUE,FALSE,FALSE,"S296469851",NA
+"11","brnowl","American Barn Owl","Tyto furcata","L18302367","Hopper St","2026-01-26 10:01",1,41.004018,-74.032551,TRUE,FALSE,TRUE,"S296479743",NA
+"12","brnowl","American Barn Owl","Tyto furcata","L4200718","Home","2026-01-26 09:55",1,37.9021363,-95.4799891,TRUE,FALSE,TRUE,"S296446438",NA
+"13","brnowl","American Barn Owl","Tyto furcata","L1294688","Sacramento Reg Wastewater Treatment Plant (limited access)","2026-01-26 08:28",1,38.4407495,-121.4792633,TRUE,FALSE,FALSE,"S296422489",NA
+"14","brnowl","American Barn Owl","Tyto furcata","L2385296","Lake Lowell Park","2026-01-26 08:21",1,43.5585438,-116.6455042,TRUE,FALSE,FALSE,"S296424944",NA
+"15","brnowl","American Barn Owl","Tyto furcata","L151122","Antelope Island SP--Causeway","2026-01-26 08:21",3,41.08841,-112.186714,TRUE,FALSE,FALSE,"S296464584",NA
+"16","brnowl","American Barn Owl","Tyto furcata","L1443179","Ousterhout farm","2026-01-26 07:05",1,42.4507573,-122.8318927,TRUE,FALSE,TRUE,"S296422968",NA
+"17","brnowl","American Barn Owl","Tyto furcata","L8196262","Tyson’s Acres (access by permission only)","2026-01-26 06:26",1,36.718319,-86.80342,TRUE,FALSE,FALSE,"S296482916",NA
+"18","brnowl","American Barn Owl","Tyto furcata","L57673599","I-15 S, Provo US-UT (40.2478,-111.6955)","2026-01-25 23:30",1,40.247763,-111.695495,TRUE,FALSE,TRUE,"S296348412",NA
+"19","brnowl","American Barn Owl","Tyto furcata","L229579","Everglades NP--Long Pine Key Campground & Trail","2026-01-25 23:11",1,25.3985091,-80.6554395,TRUE,FALSE,FALSE,"S296343244",NA
+"20","brnowl","American Barn Owl","Tyto furcata","L35328412","Lazy Z","2026-01-25 21:41",1,36.9391086,-121.8124014,TRUE,FALSE,TRUE,"S296345896",NA
+"21","brnowl","American Barn Owl","Tyto furcata","L57671523","27037–27139 Santa Fe Dr, Chowchilla US-CA (37.1411,-120.1605)","2026-01-25 20:16",1,37.141094,-120.160473,TRUE,FALSE,TRUE,"S296340502",NA
+"22","brnowl","American Barn Owl","Tyto furcata","L57671534","2109–2169 White Rock Rd, Catheys Valley US-CA 37.33064, -120.05203","2026-01-25 19:16",1,37.330638,-120.052033,TRUE,FALSE,TRUE,"S296340546",NA
+"23","brnowl","American Barn Owl","Tyto furcata","L57670362","34228–34292 W Highway 12, Burbank US-WA 46.13252, -118.93338","2026-01-25 19:01",1,46.132518,-118.933377,TRUE,FALSE,TRUE,"S296335305",NA
+"24","brnowl","American Barn Owl","Tyto furcata","L840061","Hatbill Park","2026-01-25 18:46",1,28.6059526,-80.9623289,TRUE,FALSE,FALSE,"S296321804",NA
+"25","brnowl","American Barn Owl","Tyto furcata","L57670206","2838–2898 White Rock Rd, Mariposa US-CA 37.38175, -119.99979","2026-01-25 18:25",3,37.381754,-119.999788,TRUE,FALSE,TRUE,"S296334683",NA
+"26","brnowl","American Barn Owl","Tyto furcata","L57669725","2460 Bear Valley Pkwy, Escondido US-CA 33.13922, -117.04114","2026-01-25 18:21",1,33.139217,-117.041143,TRUE,FALSE,TRUE,"S296332526",NA
+"27","brnowl","American Barn Owl","Tyto furcata","L17677462","20 Acres on Haynie","2026-01-25 18:20",1,48.970879,-122.6314949,TRUE,FALSE,TRUE,"S296332384",NA
+"28","brnowl","American Barn Owl","Tyto furcata","L232858","Byxbee Park","2026-01-25 18:16",1,37.4510644,-122.1055913,TRUE,FALSE,FALSE,"S296332128",NA
+"29","brnowl","American Barn Owl","Tyto furcata","L57669714","2271–2299 White Rock Rd, Mariposa US-CA 37.38466, -120.00466","2026-01-25 18:15",1,37.384656,-120.004659,TRUE,FALSE,TRUE,"S296332472",NA
+"30","brnowl","American Barn Owl","Tyto furcata","L56042711","Upper Hastings Ranch, Mt. Wilson SW","2026-01-25 18:03",1,34.1660356,-118.0715485,TRUE,FALSE,TRUE,"S296331247",NA
+"31","brnowl","American Barn Owl","Tyto furcata","L770872","Bird Refuge Rd.","2026-01-25 17:46",1,41.4689719,-112.1759892,TRUE,FALSE,FALSE,"S296324128",NA
+"32","brnowl","American Barn Owl","Tyto furcata","L468580","Staten Island","2026-01-25 17:43",1,38.2020281,-121.5043546,TRUE,FALSE,FALSE,"S296395755",NA
+"33","brnowl","American Barn Owl","Tyto furcata","L164961","Bear River MBR--Auto Tour Loop","2026-01-25 16:49",1,41.4692291,-112.2947788,TRUE,FALSE,FALSE,"S296324160",NA
+"34","brnowl","American Barn Owl","Tyto furcata","L4795535","Gladeview Rd.","2026-01-25 16:07",1,26.6661316,-80.492734,TRUE,FALSE,FALSE,"S296415998",NA
+"35","brnowl","American Barn Owl","Tyto furcata","L57665406","1316–1398 Canada Dr, Dallas US-TX 32.78853, -96.84268","2026-01-25 15:48",2,32.78853,-96.842682,TRUE,FALSE,TRUE,"S296313555",NA
+"36","brnowl","American Barn Owl","Tyto furcata","L370768","Golden Gate Park--North Lake","2026-01-25 15:45",1,37.7700193,-122.5028801,TRUE,FALSE,FALSE,"S296329260",NA
+"37","brnowl","American Barn Owl","Tyto furcata","L109439","Golden Gate Park - long traveling lists - use more specific hotspots where appropriate","2026-01-25 15:27",1,37.7696461,-122.4841261,TRUE,FALSE,FALSE,"S296334381",NA
+"38","brnowl","American Barn Owl","Tyto furcata","L46988559","Farm","2026-01-25 14:54",1,47.941328,-122.44135,TRUE,FALSE,TRUE,"S296308936",NA
+"39","brnowl","American Barn Owl","Tyto furcata","L454234","Sunset SB","2026-01-25 14:30",1,36.8897212,-121.8317049,TRUE,FALSE,FALSE,"S296418016",NA
+"40","brnowl","American Barn Owl","Tyto furcata","L57660863","Foothills Rd, San Simon US-AZ 31.96389, -109.15472","2026-01-25 14:22",1,31.963889,-109.15472,TRUE,FALSE,TRUE,"S296291858",NA
+"41","brnowl","American Barn Owl","Tyto furcata","L56388515","Fair Oaks Bluff","2026-01-25 14:11",1,38.6371457,-121.2648958,TRUE,FALSE,FALSE,"S296312174",NA
+"42","brnowl","American Barn Owl","Tyto furcata","L3081702","Cal Poly--Cheda Ranch Nelson Reservoir","2026-01-25 13:15",1,35.3159045,-120.684337,TRUE,FALSE,FALSE,"S296345310",NA
+"43","brnowl","American Barn Owl","Tyto furcata","L57662660","Elbow Ln","2026-01-25 12:53",1,43.5070158,-116.7454389,TRUE,FALSE,TRUE,"S296300729",NA
+"44","brnowl","American Barn Owl","Tyto furcata","L628879","Santa Cruz River--Sunset Rd.","2026-01-25 11:22",1,32.3058028,-111.0488022,TRUE,FALSE,FALSE,"S296252277",NA
+"45","brnowl","American Barn Owl","Tyto furcata","L39854082","Frager Rd. S - Kent","2026-01-25 11:15",1,47.4111,-122.2661,TRUE,FALSE,TRUE,"S296476947",NA
+"46","brnowl","American Barn Owl","Tyto furcata","L859369","Harry Griffen Regional Park","2026-01-25 10:02",1,32.7859369,-116.98789,TRUE,FALSE,FALSE,"S296280613",NA
+"47","brnowl","American Barn Owl","Tyto furcata","L815817","Frank G. Bonelli RP/Puddingstone Reservoir and vicinity","2026-01-25 09:30",1,34.0870104,-117.8050125,TRUE,FALSE,FALSE,"S296337145",NA
+"48","brnowl","American Barn Owl","Tyto furcata","L6712725","NW Old Lower River Road","2026-01-25 09:12",1,45.6594329,-122.7411568,TRUE,FALSE,FALSE,"S296249529",NA
+"49","brnowl","American Barn Owl","Tyto furcata","L571616","Antelope Island SP--Antelope Island (island only)","2026-01-25 09:05",2,40.9560485,-112.2040558,TRUE,FALSE,FALSE,"S296252637",NA
+"50","brnowl","American Barn Owl","Tyto furcata","L298649","Lake Apopka Wildlife Drive","2026-01-25 08:49",1,28.6691214,-81.5630963,TRUE,FALSE,FALSE,"S296268597",NA
+"51","brnowl","American Barn Owl","Tyto furcata","L715898","Whelan Lake Bird Sanctuary (permission required)","2026-01-25 08:30",1,33.2424922,-117.3364091,TRUE,FALSE,FALSE,"S296295514",NA
+"52","brnowl","American Barn Owl","Tyto furcata","L420195","Big Morongo Canyon Preserve & Covington Park","2026-01-25 08:22",1,34.0497222,-116.5702639,TRUE,FALSE,FALSE,"S296263013",NA
+"53","brnowl","American Barn Owl","Tyto furcata","L212323","Lee Kay Ponds","2026-01-25 08:14",1,40.7397136,-112.0437241,TRUE,FALSE,FALSE,"S296202922",NA
+"54","brnowl","American Barn Owl","Tyto furcata","L4025297","Frank G. Bonelli RP--South and East Access","2026-01-25 08:07",1,34.0821838,-117.800442,TRUE,FALSE,FALSE,"S296261397",NA
+"55","brnowl","American Barn Owl","Tyto furcata","L55734751","Wolfberry Whooping Crane Sanctuary (LIMITED ACCESS)","2026-01-25 07:52",1,28.373795,-96.577686,TRUE,FALSE,FALSE,"S296311062",NA
+"56","brnowl","American Barn Owl","Tyto furcata","L57639874","Shady Hollow Blvd and 9th St NW, Naples, Fl","2026-01-25 07:25",1,26.311664,-81.62609,TRUE,FALSE,TRUE,"S296180211",NA
+"57","brnowl","American Barn Owl","Tyto furcata","L57642799","9440 Old Highway 99 North, Burlington, Washington, US (48.509, -122.339)","2026-01-25 06:40",1,48.5085368,-122.3390223,TRUE,FALSE,TRUE,"S296193853",NA
+"58","brnowl","American Barn Owl","Tyto furcata","L353255","Elkhorn Slough Reserve (NERR)","2026-01-25 06:38",1,36.8182308,-121.7364764,TRUE,FALSE,FALSE,"S296322393",NA
+"59","brnowl","American Barn Owl","Tyto furcata","L40711118","Lake Apopka North Shore--Hooper Farms Rd.","2026-01-25 06:33",1,28.6546046,-81.555948,TRUE,FALSE,FALSE,"S296233936",NA
+"60","brnowl","American Barn Owl","Tyto furcata","L6529286","Destiny West RV Park","2026-01-25 03:24",1,33.4512561,-112.4453393,TRUE,FALSE,TRUE,"S296270739",NA
+"61","brnowl","American Barn Owl","Tyto furcata","L18585574","VLV Private Residence (Access Restricted)","2026-01-24 23:50",1,35.263109,-120.710003,TRUE,FALSE,TRUE,"S296125882",NA
+"62","brnowl","American Barn Owl","Tyto furcata","L3237036","S Molalla Forest Rd","2026-01-24 22:28",1,45.248942,-122.666262,TRUE,FALSE,FALSE,"S296118144",NA
+"63","brnowl","American Barn Owl","Tyto furcata","L3594213","*Backyard-Carmel Valley(San Diego)","2026-01-24 22:15",1,32.9173415,-117.2151974,TRUE,FALSE,TRUE,"S296119143",NA
+"64","brnowl","American Barn Owl","Tyto furcata","L3706377","2125 Sacramento - Home List","2026-01-24 21:30",NA,37.8686039,-122.2814731,TRUE,FALSE,TRUE,"S296229324",NA
+"65","brnowl","American Barn Owl","Tyto furcata","L31689079","860 Capri Rd, Encinitas, Ca","2026-01-24 20:30",1,33.076707,-117.290605,TRUE,FALSE,TRUE,"S296230001",NA
+"66","brnowl","American Barn Owl","Tyto furcata","L2096821","17932 Lyons Valley Road, Jamul, California","2026-01-24 19:35",1,32.7149441,-116.7606032,TRUE,FALSE,TRUE,"S296108766",NA
+"67","brnowl","American Barn Owl","Tyto furcata","L57625998","Cottonwood Canyon Rd, New Cuyama US-CA 34.98382, -119.88909","2026-01-24 19:31",1,34.983823,-119.889093,TRUE,FALSE,TRUE,"S296114836",NA
+"68","brnowl","American Barn Owl","Tyto furcata","L28549269","Windwood Park","2026-01-24 18:55",1,32.9484146,-117.2254612,TRUE,FALSE,FALSE,"S296105951",NA
+"69","brnowl","American Barn Owl","Tyto furcata","L2143391","Ferndale Bottoms--Russ Ln.","2026-01-24 18:41",1,40.5843817,-124.3124056,TRUE,FALSE,FALSE,"S296111334",NA
+"70","brnowl","American Barn Owl","Tyto furcata","L57625345","570 Yerba Buena St, Morro Bay US-CA 35.40654, -120.86414","2026-01-24 18:40",1,35.406536,-120.864136,TRUE,FALSE,TRUE,"S296112394",NA
+"71","brnowl","American Barn Owl","Tyto furcata","L169112","Hassayampa River Preserve (closed Mon/Tue)","2026-01-24 18:16",1,33.9333419,-112.6946297,TRUE,FALSE,FALSE,"S296106695",NA
+"72","brnowl","American Barn Owl","Tyto furcata","L578591","Arcata Bottoms--V St. Loop","2026-01-24 17:59",2,40.864728,-124.120967,TRUE,FALSE,FALSE,"S296103082",NA
+"73","brnowl","American Barn Owl","Tyto furcata","L3572935","Swan Lake Nature Study Area (IBA)--Boardwalk","2026-01-24 16:42",1,39.6531916,-119.856496,TRUE,FALSE,FALSE,"S296098865",NA
+"74","brnowl","American Barn Owl","Tyto furcata","L598440","Salinas River NWR","2026-01-24 16:40",1,36.7354169,-121.8033385,TRUE,FALSE,FALSE,"S296102904",NA
+"75","brnowl","American Barn Owl","Tyto furcata","L11324912","Sacramento River — River Walking Trail, Sacramento Co.","2026-01-24 16:16",1,38.49009,-121.552003,TRUE,FALSE,FALSE,"S296097027",NA
+"76","brnowl","American Barn Owl","Tyto furcata","L473045","Bridgeway Island Pond","2026-01-24 15:25",1,38.5416454,-121.578548,TRUE,FALSE,FALSE,"S296111716",NA
+"77","brnowl","American Barn Owl","Tyto furcata","L5986679","Los Fresnos Nature Park","2026-01-24 15:08",1,26.0797392,-97.475051,TRUE,FALSE,FALSE,"S296066195",NA
+"78","brnowl","American Barn Owl","Tyto furcata","L387517","Swede Lane","2026-01-24 14:57",1,40.1683815,-111.7228462,TRUE,FALSE,FALSE,"S296073498",NA
+"79","brnowl","American Barn Owl","Tyto furcata","L13670563","18658 County Road 95, Woodland, California, US (38.669, -121.862)","2026-01-24 14:44",1,38.668636,-121.8616674,TRUE,FALSE,TRUE,"S296080030",NA
+"80","brnowl","American Barn Owl","Tyto furcata","L190743","Antelope Island SP","2026-01-24 14:24",2,41.0465405,-112.2383881,TRUE,FALSE,FALSE,"S296220249",NA
+"81","brnowl","American Barn Owl","Tyto furcata","L613438","Klamath Wildlife Area--Miller Island Unit","2026-01-24 14:11",1,42.1551736,-121.8082073,TRUE,FALSE,FALSE,"S296078946",NA
+"82","brnowl","American Barn Owl","Tyto furcata","L57356788","Bitterwater Road (Orchard Peak SW), San Luis Obispo County, CA","2026-01-24 13:35",1,35.6432314,-120.2092493,TRUE,FALSE,TRUE,"S296111171",NA
+"83","brnowl","American Barn Owl","Tyto furcata","L2075586","Smith Springs Rd","2026-01-24 13:15",2,46.4012903,-118.2954597,TRUE,FALSE,FALSE,"S296104183",NA
+"84","brnowl","American Barn Owl","Tyto furcata","L2081904","Hollebeke Habitat Management Unit","2026-01-24 13:15",1,46.3682528,-118.6839294,TRUE,FALSE,FALSE,"S296111690",NA
+"85","brnowl","American Barn Owl","Tyto furcata","L28552055","5139 Northwest Elliott Lane, Prineville, Oregon, US (44.35, -120.918)","2026-01-24 12:17",1,44.350112,-120.9175451,TRUE,FALSE,TRUE,"S296050373",NA
+"86","brnowl","American Barn Owl","Tyto furcata","L57610532","5991 Penn Ave SE, Rock Island US-WA 47.38088, -120.14614","2026-01-24 12:15",1,47.380881,-120.14614,TRUE,FALSE,TRUE,"S296048205",NA
+"87","brnowl","American Barn Owl","Tyto furcata","L41363455","204th Street and Frager Rd, Kent, Wash","2026-01-24 11:34",1,47.4193155,-122.2775798,TRUE,FALSE,TRUE,"S296071524",NA
+"88","brnowl","American Barn Owl","Tyto furcata","L38362109","Smith Springs Rd, Prescott US-WA 46.31981, -118.28142","2026-01-24 11:28",1,46.319806,-118.281417,TRUE,FALSE,TRUE,"S296099862",NA
+"89","brnowl","American Barn Owl","Tyto furcata","L282253","Billy Frank Jr. Nisqually NWR","2026-01-24 11:10",1,47.0812514,-122.7180576,TRUE,FALSE,FALSE,"S296054699",NA
+"90","brnowl","American Barn Owl","Tyto furcata","L270303","Watson Lake and Riparian Preserve","2026-01-24 11:09",1,34.5822319,-112.4259328,TRUE,FALSE,FALSE,"S296022058",NA
+"91","brnowl","American Barn Owl","Tyto furcata","L6366407","Bayou Sauvage Urban NWR--Ridge Trail","2026-01-24 10:42",1,30.0525807,-89.8798422,TRUE,FALSE,FALSE,"S296024245",NA
+"92","brnowl","American Barn Owl","Tyto furcata","L366862","Lower Provo River Parkway","2026-01-24 10:38",1,40.2351637,-111.7264055,TRUE,FALSE,FALSE,"S296030229",NA
+"93","brnowl","American Barn Owl","Tyto furcata","L11400922","11 Red Coulee Road, Belt, Montana, US (47.42, -110.955)","2026-01-24 10:14",NA,47.4198104,-110.9554317,TRUE,TRUE,TRUE,"S296008479",NA
+"94","brnowl","American Barn Owl","Tyto furcata","L1798091","Los Vaqueros Reservoir--Walnut Trail and Staging Area","2026-01-24 08:28",1,37.8647934,-121.699764,TRUE,FALSE,FALSE,"S296106315",NA
+"95","brnowl","American Barn Owl","Tyto furcata","L11311207","Grizzly Island Wildlife Area, Suisun City US-CA 38.09840, -121.89646","2026-01-24 08:24",1,38.098396,-121.896463,TRUE,FALSE,TRUE,"S296004531",NA
+"96","brnowl","American Barn Owl","Tyto furcata","L473549","Zuma Beach and Lagoon","2026-01-24 08:14",1,34.0147301,-118.8210225,TRUE,FALSE,FALSE,"S296029551",NA
+"97","brnowl","American Barn Owl","Tyto furcata","L3188498","L31W Canal","2026-01-24 07:39",1,25.3978115,-80.5725288,TRUE,FALSE,FALSE,"S295985240",NA
+"98","brnowl","American Barn Owl","Tyto furcata","L405338","Frog Pond WMA--Lucky Hammock","2026-01-24 06:55",1,25.396439,-80.566581,TRUE,FALSE,FALSE,"S295988410",NA
+"99","brnowl","American Barn Owl","Tyto furcata","L589105","Agricultural Fields--SW 217th Ave. x SW 384th St.","2026-01-24 06:35",1,25.407384,-80.5472946,TRUE,FALSE,FALSE,"S295934663",NA
+"100","brnowl","American Barn Owl","Tyto furcata","L57579730","53 Eagle Avenue, Roma, Texas, US (26.408, -98.979)","2026-01-23 22:30",1,26.407512,-98.9790208,TRUE,FALSE,TRUE,"S295900778",NA
+"101","brnowl","American Barn Owl","Tyto furcata","L12638419","Robyn House","2026-01-23 22:02",1,38.6465562,-121.1815686,TRUE,FALSE,TRUE,"S295904929",NA
+"102","brnowl","American Barn Owl","Tyto furcata","L56093998","Grandma's yard","2026-01-23 20:45",1,44.0351305,-122.9021023,TRUE,FALSE,TRUE,"S295902619",NA
+"103","brnowl","American Barn Owl","Tyto furcata","L57580687","Buckeye Ranch","2026-01-23 20:41",1,36.492906,-121.518077,TRUE,FALSE,TRUE,"S295904379",NA
+"104","brnowl","American Barn Owl","Tyto furcata","L7501108","Goodspeed Road, Tillamook, Oregon, US (45.474, -123.869)","2026-01-23 20:29",1,45.4742249,-123.8689789,TRUE,FALSE,TRUE,"S295900720",NA
+"105","brnowl","American Barn Owl","Tyto furcata","L57578893","U.S. 380, Carrizozo, New Mexico, US (33.751, -106.087)","2026-01-23 20:28",1,33.7505041,-106.0866076,TRUE,FALSE,TRUE,"S295897533",NA
+"106","brnowl","American Barn Owl","Tyto furcata","L57596396","Nelson Rd. [West of Nelson] (CA Atlas - Nelson CE)","2026-01-23 20:06",2,39.5514269,-121.7899647,TRUE,FALSE,FALSE,"S295976704",NA
+"107","brnowl","American Barn Owl","Tyto furcata","L152140","Hopkins Wilderness Park","2026-01-23 20:04",1,33.8298649,-118.3742416,TRUE,FALSE,FALSE,"S295899596",NA
+"108","brnowl","American Barn Owl","Tyto furcata","L57577241","5701–5777 FM-1017, Delmita US-TX 26.69546, -98.38649","2026-01-23 19:36",1,26.695455,-98.38649,TRUE,FALSE,TRUE,"S295890168",NA
+"109","brnowl","American Barn Owl","Tyto furcata","L57580049","Auto selected 19.95395, -155.85638","2026-01-23 18:57",1,19.953953,-155.856383,TRUE,FALSE,TRUE,"S295902001","N"
+"110","brnowl","American Barn Owl","Tyto furcata","L165048","Farmington Bay WMA","2026-01-23 18:56",4,40.955141,-111.9191396,TRUE,FALSE,FALSE,"S295897458",NA
+"111","brnowl","American Barn Owl","Tyto furcata","L21320829","15719 Sunset Rd, Bow US-WA 48.54514, -122.40563","2026-01-23 18:53",2,48.545141,-122.405634,TRUE,FALSE,TRUE,"S295895391",NA
+"112","brnowl","American Barn Owl","Tyto furcata","L57666474","North Pickering","2026-01-23 18:45",2,33.9918129,-118.0420516,TRUE,FALSE,TRUE,"S296318952",NA
+"113","brnowl","American Barn Owl","Tyto furcata","L37755939","215 Grand Ave, Ojai US-CA (34.4531,-119.2452)","2026-01-23 18:22",1,34.453056,-119.245162,TRUE,FALSE,TRUE,"S295894180",NA
+"114","brnowl","American Barn Owl","Tyto furcata","L8018364","Colwood Natural Area & Golf Course","2026-01-23 18:15",1,45.5706291,-122.5873842,TRUE,FALSE,FALSE,"S295893327",NA
+"115","brnowl","American Barn Owl","Tyto furcata","L292421","Katy Prairie--Hebert rd.--dirt rd. E. of Pattison (Waller Co.)(UTC 100)","2026-01-23 17:36",1,29.9335894,-95.8820629,TRUE,FALSE,FALSE,"S295942943",NA
+"116","brnowl","American Barn Owl","Tyto furcata","L348334","Oakland Nature Preserve","2026-01-23 17:30",1,28.5548116,-81.6396299,TRUE,FALSE,FALSE,"S295878383",NA
+"117","brnowl","American Barn Owl","Tyto furcata","L25195658","Sandhill Wetland Mitigation Bank (Restricted Access)","2026-01-23 17:25",1,35.7528446,-86.5921633,TRUE,FALSE,FALSE,"S295881464",NA
+"118","brnowl","American Barn Owl","Tyto furcata","L1896322","Jocelyn Nungaray NWR-- Shoveler Pond Loop","2026-01-23 17:21",1,29.6138335,-94.5452351,TRUE,FALSE,FALSE,"S295890270",NA
+"119","brnowl","American Barn Owl","Tyto furcata","L623357","Paynes Prairie Preserve SP--La Chua Trail","2026-01-23 17:19",1,29.6068756,-82.3031116,TRUE,FALSE,FALSE,"S295884843",NA
+"120","brnowl","American Barn Owl","Tyto furcata","L1308101","Katy Prairie--Hebert rd.--W. of Pattison Rd.","2026-01-23 17:10",1,29.9321762,-95.914979,TRUE,FALSE,FALSE,"S295900239",NA
+"121","brnowl","American Barn Owl","Tyto furcata","L12371748","River Islands Path","2026-01-23 17:09",1,37.7938626,-121.3083593,TRUE,FALSE,FALSE,"S295892190",NA
+"122","brnowl","American Barn Owl","Tyto furcata","L1158281","Mountain View Cemetery Marsh","2026-01-23 16:46",1,47.1800437,-122.4956918,TRUE,FALSE,FALSE,"S295891045",NA
+"123","brnowl","American Barn Owl","Tyto furcata","L6668557","The Rolling Land Company","2026-01-23 16:37",2,32.759099,-117.054679,TRUE,FALSE,TRUE,"S295886687",NA
+"124","brnowl","American Barn Owl","Tyto furcata","L1071741","Swanton Road at Old Seaside School","2026-01-23 16:35",1,37.0797569,-122.2466103,TRUE,FALSE,FALSE,"S295898779",NA
+"125","brnowl","American Barn Owl","Tyto furcata","L207664","Las Gallinas Valley Sanitary District","2026-01-23 16:30",1,38.0274109,-122.515583,TRUE,FALSE,FALSE,"S296094020",NA
+"126","brnowl","American Barn Owl","Tyto furcata","L57573547","Navy Cabin Road, Fallon US-NV 39.61247, -118.47779","2026-01-23 14:18",1,39.612474,-118.477793,TRUE,FALSE,TRUE,"S295872665",NA
+"127","brnowl","American Barn Owl","Tyto furcata","L31790729","W Old Inland Empire Highway Cliffs","2026-01-23 14:04",1,46.2692332,-119.5893852,TRUE,FALSE,TRUE,"S295888028",NA
+"128","brnowl","American Barn Owl","Tyto furcata","L262792","Iowa Dodd Beef/Tyson Ponds","2026-01-23 13:52",2,46.1288528,-118.8985787,TRUE,FALSE,FALSE,"S295905753",NA
+"129","brnowl","American Barn Owl","Tyto furcata","L2920939","Coyote Hills Regional Park--North Pond","2026-01-23 13:33",NA,37.5603261,-122.0909894,TRUE,FALSE,FALSE,"S295873332",NA
+"130","brnowl","American Barn Owl","Tyto furcata","L57574094","20441 Frager Road South, Kent, Washington, US (47.417, -122.269)","2026-01-23 13:29",1,47.4172832,-122.2686609,TRUE,FALSE,TRUE,"S295875096",NA
+"131","brnowl","American Barn Owl","Tyto furcata","L22057624","stakeout Whooper Swan, Osceola (2023)","2026-01-23 13:05",1,47.1924688,-122.0655954,TRUE,FALSE,FALSE,"S295890233",NA
+"132","brnowl","American Barn Owl","Tyto furcata","L391767","Shadow Cliffs Regional Park","2026-01-23 12:54",1,37.6692148,-121.8406105,TRUE,FALSE,FALSE,"S295876062",NA
+"133","brnowl","American Barn Owl","Tyto furcata","L214134","Pickerington Ponds (Franklin Co.)","2026-01-23 12:41",1,39.8866949,-82.8006077,TRUE,TRUE,FALSE,"S295830136",NA
+"134","brnowl","American Barn Owl","Tyto furcata","L39252609","North of Hot Shot Tank, Ajo, Arizona, US (32.356, -112.782)","2026-01-23 10:55",1,32.3556259,-112.7821736,TRUE,FALSE,TRUE,"S295865299",NA
+"135","brnowl","American Barn Owl","Tyto furcata","L1530425","Del Puerto Canyon Rd.--Owl and Graffiti Rocks","2026-01-23 10:42",1,37.473,-121.2398,TRUE,FALSE,FALSE,"S295897227",NA
+"136","brnowl","American Barn Owl","Tyto furcata","L10875364","Stillwater National Wildlife Refuge","2026-01-23 10:30",2,39.6076531,-118.4933092,TRUE,FALSE,TRUE,"S295877917",NA
+"137","brnowl","American Barn Owl","Tyto furcata","L2186458","Industrial Pkwy","2026-01-23 10:12",1,30.0277858,-89.8921967,TRUE,FALSE,FALSE,"S295832485",NA
+"138","brnowl","American Barn Owl","Tyto furcata","L1272938","Chapman Ranch","2026-01-23 10:09",1,27.5855791,-97.4555969,TRUE,FALSE,FALSE,"S295875411",NA
+"139","brnowl","American Barn Owl","Tyto furcata","L216132","Coyote Hills Regional Park","2026-01-23 10:04",1,37.553764,-122.0875025,TRUE,FALSE,FALSE,"S295893202",NA
+"140","brnowl","American Barn Owl","Tyto furcata","L57565814","Sunset Lake (private) Old White Hill Rd, Staunton US-VA","2026-01-23 09:19",2,38.056911,-79.073064,TRUE,FALSE,TRUE,"S295831870",NA
+"141","brnowl","American Barn Owl","Tyto furcata","L57561390","Sunset Lake/Private","2026-01-23 09:06",2,38.0564409,-79.0746528,TRUE,FALSE,TRUE,"S295810928",NA
+"142","brnowl","American Barn Owl","Tyto furcata","L57557309","Private- Sunset Lake - Old White Hill Rd, Staunton US-VA (38.0569,-79.0771)","2026-01-23 09:05",1,38.056909,-79.077141,TRUE,FALSE,TRUE,"S295789201",NA
+"143","brnowl","American Barn Owl","Tyto furcata","L207434","Felix Neck Wildlife Sanctuary (Mass Audubon)","2026-01-23 08:50",2,41.41449,-70.56464,TRUE,FALSE,FALSE,"S295828771",NA
+"144","brnowl","American Barn Owl","Tyto furcata","L1397044","Lower Provo River Parkway--Oxbow to Lakeshore Dr.","2026-01-23 08:50",1,40.2375348,-111.7152155,TRUE,FALSE,FALSE,"S295813126",NA
+"145","brnowl","American Barn Owl","Tyto furcata","L2776216","Sedgwick Reserve (restricted access)","2026-01-23 08:24",1,34.692571,-120.0405478,TRUE,FALSE,FALSE,"S295833571",NA
+"146","brnowl","American Barn Owl","Tyto furcata","L39633524","Chapman Ranch - CR 6 to CR 8 (including CR's 43, 45, 47)","2026-01-23 08:11",1,27.572055,-97.448817,TRUE,FALSE,TRUE,"S295798126",NA
+"147","brnowl","American Barn Owl","Tyto furcata","L1500699","Gansner Park","2026-01-23 06:25",1,39.9452942,-120.9537456,TRUE,FALSE,FALSE,"S295825410",NA
+"148","brnowl","American Barn Owl","Tyto furcata","L19160345","28205 Southwest 124th Court, Homestead, Florida, US (25.484, -80.393)","2026-01-23 06:00",1,25.4835333,-80.3926942,TRUE,FALSE,TRUE,"S295764824",NA
+"149","brnowl","American Barn Owl","Tyto furcata","L900289","Anza-Borrego Desert SP--Palm Canyon & Campground","2026-01-23 04:30",1,33.2698067,-116.4183164,TRUE,FALSE,FALSE,"S295770493",NA
+"150","brnowl","American Barn Owl","Tyto furcata","L57569004","Furnace Creek Campground","2026-01-23 03:42",1,36.462923,-116.869534,TRUE,FALSE,TRUE,"S295851308",NA
+"151","brnowl","American Barn Owl","Tyto furcata","L57548280","I-84 W, Hazelton US-ID 42.57650, -113.94968","2026-01-22 23:11",1,42.576499,-113.949677,TRUE,FALSE,TRUE,"S295744626",NA
+"152","brnowl","American Barn Owl","Tyto furcata","L1572092","Wildomar, Penrose St (restricted access)","2026-01-22 22:51",1,33.60063,-117.27303,TRUE,FALSE,TRUE,"S295791434",NA
+"153","brnowl","American Barn Owl","Tyto furcata","L5704335","Benson Rd","2026-01-22 22:40",1,44.02524,-123.239391,TRUE,FALSE,TRUE,"S295746309",NA
+"154","brnowl","American Barn Owl","Tyto furcata","L57548366","4350–4378 W Turner Rd, Lodi US-CA 38.14582, -121.37301","2026-01-22 22:18",1,38.145818,-121.373009,TRUE,FALSE,TRUE,"S295745011",NA
+"155","brnowl","American Barn Owl","Tyto furcata","L17586965","J&F","2026-01-22 22:16",1,26.3089824,-98.1178912,TRUE,FALSE,TRUE,"S295796460",NA
+"156","brnowl","American Barn Owl","Tyto furcata","L22062631","West Davis Neighborhood","2026-01-22 22:15",1,38.557767,-121.7891702,TRUE,FALSE,TRUE,"S295749791",NA
+"157","brnowl","American Barn Owl","Tyto furcata","L57549683","23 E Kawili St, Hilo US-HI (19.7043,-155.0721)","2026-01-22 22:02",1,19.704267,-155.072102,TRUE,FALSE,TRUE,"S295750470","N"
+"158","brnowl","American Barn Owl","Tyto furcata","L22020599","Cow Creek Ranch, Damon","2026-01-22 20:30",1,29.319846,-95.6603814,TRUE,TRUE,FALSE,"S295738433",NA
+"159","brnowl","American Barn Owl","Tyto furcata","L14959959","Cross H Farms LLC, Clay County","2026-01-22 19:30",1,33.6437665,-98.3000395,TRUE,FALSE,TRUE,"S295730911",NA
+"160","brnowl","American Barn Owl","Tyto furcata","L41182305","Old Farms","2026-01-22 19:19",3,36.7544281,-98.4683223,TRUE,FALSE,TRUE,"S295729557",NA
+"161","brnowl","American Barn Owl","Tyto furcata","L128987","High Island (UTC 051)","2026-01-22 18:25",2,29.565224,-94.3963361,TRUE,FALSE,FALSE,"S295729005",NA
+"162","brnowl","American Barn Owl","Tyto furcata","L5297643","Stilthouse","2026-01-22 18:23",1,29.6248398,-82.2819731,TRUE,FALSE,TRUE,"S295717701",NA
+"163","brnowl","American Barn Owl","Tyto furcata","L57542534","County Road A4700, Ackerly US-TX 32.50848, -101.84153","2026-01-22 17:54",1,32.508483,-101.841526,TRUE,FALSE,TRUE,"S295721591",NA
+"164","brnowl","American Barn Owl","Tyto furcata","L891127","Carson River Park/Silver Saddle Ranch","2026-01-22 17:52",1,39.1363102,-119.7069132,TRUE,FALSE,TRUE,"S295741864",NA
+"165","brnowl","American Barn Owl","Tyto furcata","L5086996","South Davis Greenway","2026-01-22 17:45",1,38.5362617,-121.7259407,TRUE,FALSE,FALSE,"S296116764",NA
+"166","brnowl","American Barn Owl","Tyto furcata","L697419","Paynes Prairie Preserve SP--US-441 observation deck","2026-01-22 17:44",1,29.5740753,-82.3350487,TRUE,FALSE,FALSE,"S295726868",NA
+"167","brnowl","American Barn Owl","Tyto furcata","L344646","Paynes Prairie Preserve SP--Bolen Bluff Trail","2026-01-22 17:40",1,29.5587838,-82.3245401,TRUE,FALSE,FALSE,"S295723933",NA
+"168","brnowl","American Barn Owl","Tyto furcata","L57544232","N Broadway Street, Fellsmere","2026-01-22 17:06",1,27.7680023,-80.6014958,TRUE,FALSE,TRUE,"S295728010",NA
+"169","brnowl","American Barn Owl","Tyto furcata","L53161340","180 near cove","2026-01-22 16:56",1,36.7194214,-119.3709259,TRUE,FALSE,TRUE,"S295727317",NA
+"170","brnowl","American Barn Owl","Tyto furcata","L21155800","Offset, Address Watsonville, California, US (36.924083, -121.750585)","2026-01-22 16:36",2,36.9240282,-121.750584,TRUE,FALSE,TRUE,"S295726275",NA
+"171","brnowl","American Barn Owl","Tyto furcata","L678659","Skipper Bay Trail","2026-01-22 16:20",1,40.2486775,-111.7311287,TRUE,FALSE,FALSE,"S295731689",NA
+"172","brnowl","American Barn Owl","Tyto furcata","L168559","Provo Airport Dike","2026-01-22 15:57",1,40.2301635,-111.7349959,TRUE,FALSE,FALSE,"S295839602",NA
+"173","brnowl","American Barn Owl","Tyto furcata","L55955800","Home","2026-01-22 15:30",NA,32.933144,-117.248505,TRUE,FALSE,TRUE,"S295733038",NA
+"174","brnowl","American Barn Owl","Tyto furcata","L55247486","2640 Golf Course Drive, Harlingen, Texas, US (26.173, -97.707)","2026-01-22 12:40",NA,26.1729582,-97.7065488,TRUE,FALSE,TRUE,"S295677633",NA
+"175","brnowl","American Barn Owl","Tyto furcata","L57529365","S Dade 77, Lockwood US-MO 37.30244, -93.94802","2026-01-22 10:48",1,37.302441,-93.948017,TRUE,FALSE,TRUE,"S295660777",NA
+"176","brnowl","American Barn Owl","Tyto furcata","L14138467","Saltese Flats","2026-01-22 10:41",1,47.6402533,-117.1261561,TRUE,TRUE,FALSE,"S295703411",NA
+"177","brnowl","American Barn Owl","Tyto furcata","L421224","Heritage Community Park and Natural Area","2026-01-22 10:38",1,37.2397586,-80.457859,TRUE,FALSE,FALSE,"S295668387",NA
+"178","brnowl","American Barn Owl","Tyto furcata","L28564057","Alvadore Rd Junction City US-OR 44.14986, -123.26007","2026-01-22 10:37",2,44.149856,-123.260065,TRUE,FALSE,TRUE,"S295676509",NA
+"179","brnowl","American Barn Owl","Tyto furcata","L9430709","1005 Nice-Lucerne Cutoff, Lakeport, California, US (39.118, -122.887)","2026-01-22 10:02",1,39.1177631,-122.8872729,TRUE,FALSE,TRUE,"S295678209",NA
+"180","brnowl","American Barn Owl","Tyto furcata","L57531493","93234, Huron US-CA 36.11261, -120.08301","2026-01-22 09:51",2,36.112609,-120.083009,TRUE,FALSE,TRUE,"S295669681",NA
+"181","brnowl","American Barn Owl","Tyto furcata","L8557949","Ousterhout farm","2026-01-22 09:22",1,42.4507573,-122.8318927,TRUE,FALSE,TRUE,"S295674469",NA
+"182","brnowl","American Barn Owl","Tyto furcata","L836926","Yellow House Draw downstream of Canyon Lake 6","2026-01-22 08:51",1,33.5583656,-101.7945528,TRUE,FALSE,FALSE,"S295683936",NA
+"183","brnowl","American Barn Owl","Tyto furcata","L17061456","Lakeview Parkway--I15 to Center Street","2026-01-22 07:45",1,40.2069615,-111.6702939,TRUE,FALSE,FALSE,"S295643714",NA
+"184","brnowl","American Barn Owl","Tyto furcata","L21034811","UTRGV—Duckhead (Limited Access)","2026-01-22 07:06",1,25.8988206,-97.4752593,TRUE,FALSE,FALSE,"S295662024",NA
+"185","brnowl","American Barn Owl","Tyto furcata","L39825017","Apopka Birding Park","2026-01-22 06:48",1,28.6702082,-81.5599855,TRUE,FALSE,FALSE,"S295618647",NA
+"186","brnowl","American Barn Owl","Tyto furcata","L1071760","Cotoni-Coast Dairies CCNM--Hawk (Káknu) Trail","2026-01-22 06:45",1,37.0241074,-122.2078822,TRUE,FALSE,FALSE,"S295648041",NA
+"187","brnowl","American Barn Owl","Tyto furcata","L57542788","SR-92, Sierra Vista US-AZ (31.5205,-110.2572)","2026-01-22 06:34",1,31.52046,-110.257248,TRUE,FALSE,TRUE,"S295722675",NA
+"188","brnowl","American Barn Owl","Tyto furcata","L57519988","SR-528 E, Christmas US-FL 28.45255, -80.97242","2026-01-22 06:20",1,28.452551,-80.97242,TRUE,FALSE,TRUE,"S295609347",NA
+"189","brnowl","American Barn Owl","Tyto furcata","L57523969","12285 North Farm to Market 331 Road, Bellville, Texas, US (29.985, -96.133)","2026-01-22 06:00",1,29.9847233,-96.1332307,TRUE,FALSE,TRUE,"S295630919",NA
+"190","brnowl","American Barn Owl","Tyto furcata","L16756578","Galveston--11255 Homrighaus Road","2026-01-22 05:48",1,29.2456911,-94.8929956,TRUE,FALSE,TRUE,"S295611928",NA
+"191","brnowl","American Barn Owl","Tyto furcata","L625640","City Park--Wisner Tract (Old East Golf Course)","2026-01-22 05:45",1,29.9993911,-90.0888848,TRUE,FALSE,FALSE,"S295850777",NA
+"192","brnowl","American Barn Owl","Tyto furcata","L2211366","Crestridge Ecological Reserve--Horsemill Rd. access","2026-01-22 05:30",1,32.8283255,-116.8565297,TRUE,FALSE,FALSE,"S295702536",NA
+"193","brnowl","American Barn Owl","Tyto furcata","L28492867","N-A","2026-01-22 04:46",1,35.5115983,-120.6857303,TRUE,FALSE,TRUE,"S295711315",NA
+"194","brnowl","American Barn Owl","Tyto furcata","L35069126","Triangle Yard","2026-01-22 00:56",1,35.290332,-120.651927,TRUE,FALSE,TRUE,"S295597291",NA
+"195","brnowl","American Barn Owl","Tyto furcata","L601812","Black Widow Ranch","2026-01-22",1,33.9856225,-117.3125723,TRUE,FALSE,TRUE,"S295746831",NA
+"196","brnowl","American Barn Owl","Tyto furcata","L23126278","Home","2026-01-21 23:16",1,33.130709,-117.2179769,TRUE,FALSE,TRUE,"S295589739",NA
+"197","brnowl","American Barn Owl","Tyto furcata","L25062549","Balcaro Complex","2026-01-21 23:13",1,38.6279573,-121.499917,TRUE,FALSE,TRUE,"S295589749",NA
+"198","brnowl","American Barn Owl","Tyto furcata","L8870728","Campbell House","2026-01-21 21:41",1,37.288478,-121.938488,TRUE,FALSE,TRUE,"S295585976",NA
+"199","brnowl","American Barn Owl","Tyto furcata","L10477677","Hillrise Neighborhood","2026-01-21 21:27",1,34.1524677,-118.7634873,TRUE,FALSE,TRUE,"S295587664",NA
+"200","brnowl","American Barn Owl","Tyto furcata","L32647684","South Pasadena (located within 0.3 miles of actual location)","2026-01-21 20:25",1,34.1091807,-118.1568437,TRUE,FALSE,TRUE,"S295739809",NA
+"201","brnowl","American Barn Owl","Tyto furcata","L4010791","Fisherman's Flats Park","2026-01-21 20:16",2,36.579518,-121.855326,TRUE,FALSE,TRUE,"S295582467",NA
+"202","brnowl","American Barn Owl","Tyto furcata","L57531596","Lomas Sante Fe Shopping Mall","2026-01-21 20:09",1,32.9947257,-117.2600624,TRUE,FALSE,TRUE,"S295670350",NA
+"203","brnowl","American Barn Owl","Tyto furcata","L10646785","Glades Boat Storage, Moore Haven, Florida","2026-01-21 20:05",1,26.789502,-81.2412572,TRUE,FALSE,TRUE,"S295571499",NA
+"204","brnowl","American Barn Owl","Tyto furcata","L57625182","Cedar Canyon Rd, Essex US-CA 35.16456, -115.43461","2026-01-21 19:13",1,35.164558,-115.434614,TRUE,FALSE,TRUE,"S296111781",NA
+"205","brnowl","American Barn Owl","Tyto furcata","L56021411","US-385, Alpine US-TX 30.00254, -103.27112","2026-01-21 18:51",1,30.002541,-103.271118,TRUE,FALSE,TRUE,"S295569963",NA
+"206","brnowl","American Barn Owl","Tyto furcata","L10419328","Home - 1990 NW Crittenden Loop, Albany US-OR (44.6586,-123.1266)","2026-01-21 18:33",1,44.658601,-123.126562,TRUE,FALSE,TRUE,"S295587007",NA
+"207","brnowl","American Barn Owl","Tyto furcata","L2505740","San Pablo Bay NWR--Tubbs Island","2026-01-21 18:29",1,38.1499444,-122.4383244,TRUE,FALSE,FALSE,"S295577416",NA
+"208","brnowl","American Barn Owl","Tyto furcata","L271497","Humboldt Bay--King Salmon","2026-01-21 17:19",1,40.740336,-124.218596,TRUE,FALSE,FALSE,"S295575042",NA
+"209","brnowl","American Barn Owl","Tyto furcata","L1161851","Trammell Crow Park","2026-01-21 17:15",3,32.7909291,-96.834567,TRUE,TRUE,FALSE,"S295569530",NA
+"210","brnowl","American Barn Owl","Tyto furcata","L28266513","Provo River Delta","2026-01-21 16:51",1,40.2458762,-111.7205421,TRUE,FALSE,FALSE,"S295570029",NA
+"211","brnowl","American Barn Owl","Tyto furcata","L57540247","1139–1191 B St, Forest Grove US-OR (45.5103,-123.1158)","2026-01-21 16:24",1,45.510252,-123.11578,TRUE,FALSE,TRUE,"S295711011",NA
+"212","brnowl","American Barn Owl","Tyto furcata","L8665122","Yolo Basin--Levee Rd.","2026-01-21 16:11",1,38.5549887,-121.6339224,TRUE,FALSE,FALSE,"S295573489",NA
+"213","brnowl","American Barn Owl","Tyto furcata","L1827418","Swamp Rd. Area","2026-01-21 15:30",1,35.7507961,-86.6145104,TRUE,FALSE,FALSE,"S295563660",NA
+"214","brnowl","American Barn Owl","Tyto furcata","L14890800","Lincoln WTP-- West Ponds (restricted access, open M–F, 7:30-3:00)","2026-01-21 13:23",1,38.8598702,-121.3508465,TRUE,FALSE,FALSE,"S295551799",NA
+"215","brnowl","American Barn Owl","Tyto furcata","L125099","Cheyenne Bottoms WA","2026-01-21 13:15",1,38.4634203,-98.6551076,TRUE,FALSE,FALSE,"S295814433",NA
+"216","brnowl","American Barn Owl","Tyto furcata","L40133891","Private location bb","2026-01-21 12:15",1,48.510862,-123.047964,TRUE,FALSE,TRUE,"S295541172",NA
+"217","brnowl","American Barn Owl","Tyto furcata","L793778","Port Aransas Nature Preserve at Charlie's Pasture","2026-01-21 10:53",1,27.8327765,-97.0873833,TRUE,FALSE,FALSE,"S296421655",NA
+"218","brnowl","American Barn Owl","Tyto furcata","L1193293","American River Parkway--River Bend Park","2026-01-21 10:50",1,38.5946693,-121.3291883,TRUE,FALSE,FALSE,"S296429384",NA
+"219","brnowl","American Barn Owl","Tyto furcata","L2450783","Balboa Park--Marston Canyon","2026-01-21 10:44",1,32.7437654,-117.1523323,TRUE,FALSE,FALSE,"S295571147",NA
+"220","brnowl","American Barn Owl","Tyto furcata","L11727942","Rolando Park","2026-01-21 10:22",1,32.7577542,-117.0530087,TRUE,FALSE,FALSE,"S295540790",NA
+"221","brnowl","American Barn Owl","Tyto furcata","L57499781","2202 Old Samoa Road, Arcata, California, US (40.866, -124.106)","2026-01-21 09:37",1,40.8663621,-124.1058976,TRUE,FALSE,TRUE,"S295534726",NA
+"222","brnowl","American Barn Owl","Tyto furcata","L3972709","Alameda Creek--Staging Area","2026-01-21 08:30",1,37.5643907,-122.069757,TRUE,FALSE,FALSE,"S295530008",NA
+"223","brnowl","American Barn Owl","Tyto furcata","L194688","Sepulveda Basin--East of Woodley Ave","2026-01-21 07:59",1,34.1767221,-118.4737308,TRUE,FALSE,FALSE,"S295518259",NA
+"224","brnowl","American Barn Owl","Tyto furcata","L279651","Castaic Lagoon","2026-01-21 07:55",1,34.5049298,-118.610158,TRUE,FALSE,FALSE,"S295517432",NA
+"225","brnowl","American Barn Owl","Tyto furcata","L901766","Billy Frank Jr. Nisqually NWR--Twin Barns Loop","2026-01-21 06:56",1,47.0780133,-122.7119207,TRUE,FALSE,FALSE,"S295528375",NA
+"226","brnowl","American Barn Owl","Tyto furcata","L559416","Lake Apopka North Shore--Orange County section (Please consider using more specific locations)","2026-01-21 06:55",NA,28.6893446,-81.5995327,TRUE,FALSE,FALSE,"S295535463",NA
+"227","brnowl","American Barn Owl","Tyto furcata","L56743315","831 North Connolly Avenue, Ajo, Arizona, US (32.379, -112.88)","2026-01-21 03:30",1,32.3793143,-112.8795257,TRUE,FALSE,TRUE,"S295532607",NA
+"228","brnowl","American Barn Owl","Tyto furcata","L57482806","1030–1062 Davidson Cemetery Rd, Strawn US-TX (32.5277,-98.4383)","2026-01-21 02:04",1,32.527736,-98.438292,TRUE,FALSE,TRUE,"S295445802",NA
+"229","brnowl","American Barn Owl","Tyto furcata","L23075174","3524 Pinebrook Dr SE, Olympia US-WA 47.00581, -122.84544","2026-01-21 01:00",1,47.005813,-122.845444,TRUE,FALSE,TRUE,"S295613524",NA
+"230","brnowl","American Barn Owl","Tyto furcata","L52150007","buxton","2026-01-20 21:11",1,45.677121,-123.153874,TRUE,FALSE,TRUE,"S295437513",NA
+"231","brnowl","American Barn Owl","Tyto furcata","L13011895","My Yard","2026-01-20 20:38",1,34.111043,-118.209325,TRUE,FALSE,TRUE,"S295436159",NA
+"232","brnowl","American Barn Owl","Tyto furcata","L57479896","QFC Parking Lot","2026-01-20 19:51",1,47.493716,-121.780782,TRUE,FALSE,TRUE,"S295433627",NA
+"233","brnowl","American Barn Owl","Tyto furcata","L19246254","the owl house","2026-01-20 18:44",6,37.486487,-122.251922,TRUE,FALSE,TRUE,"S295429595",NA
+"234","brnowl","American Barn Owl","Tyto furcata","L1938222","White Point & Koonce Loop","2026-01-20 18:13",1,27.8710619,-97.4199343,TRUE,FALSE,FALSE,"S295475348",NA
+"235","brnowl","American Barn Owl","Tyto furcata","L28222380","Backyard - Upper Navajo Canyon","2026-01-20 18:09",1,32.79541,-117.076034,TRUE,FALSE,TRUE,"S295427671",NA
+"236","brnowl","American Barn Owl","Tyto furcata","L1655286","7385 Clow Corner Rd","2026-01-20 17:29",1,44.8978856,-123.1810964,TRUE,FALSE,TRUE,"S295424838",NA
+"237","brnowl","American Barn Owl","Tyto furcata","L248365","GSL Shoreline Preserve","2026-01-20 16:48",1,41.0403388,-112.0255668,TRUE,FALSE,FALSE,"S295420542",NA
+"238","brnowl","American Barn Owl","Tyto furcata","L57473385","Sunset Lake (Private)","2026-01-20 16:42",2,38.057369,-79.072553,TRUE,FALSE,TRUE,"S295403141",NA
+"239","brnowl","American Barn Owl","Tyto furcata","L4157282","Smith Oaks Rookery Count (Houston Audubon Staff)","2026-01-20 16:19",1,29.5758645,-94.3901432,TRUE,FALSE,FALSE,"S295417994",NA
+"240","brnowl","American Barn Owl","Tyto furcata","L57492897","Sunset Lake (private)","2026-01-20 16:18",2,38.05739,-79.072783,TRUE,FALSE,TRUE,"S295502037",NA
+"241","brnowl","American Barn Owl","Tyto furcata","L57181568","Sunset Lake (Private)","2026-01-20 16:16",2,38.0569193,-79.0730469,TRUE,FALSE,TRUE,"S295393736",NA
+"242","brnowl","American Barn Owl","Tyto furcata","L57510844","8423 Shoulders Road, Peyton, Colorado, US (38.953, -104.608)","2026-01-20 14:30",1,38.9534628,-104.6079098,TRUE,FALSE,TRUE,"S295581037",NA
+"243","brnowl","American Barn Owl","Tyto furcata","L57479868","Cecil","2026-01-20 14:25",2,45.6193094,-119.9571938,TRUE,FALSE,TRUE,"S295433516",NA
+"244","brnowl","American Barn Owl","Tyto furcata","L1158296","Tule Lake NWR--Auto Tour and Sump 1B (MOD Co.)","2026-01-20 14:17",1,41.841189,-121.428443,TRUE,FALSE,FALSE,"S295573847",NA
+"245","brnowl","American Barn Owl","Tyto furcata","L21568504","910 Douglas Road, Friday Harbor, Washington (private)","2026-01-20 14:13",1,48.5121637,-123.048295,TRUE,FALSE,TRUE,"S295414674",NA
+"246","brnowl","American Barn Owl","Tyto furcata","L39678589","Brooklyn Rd back through Garrard Creek Road, Oakville, Washington, US (46.808, -123.28)","2026-01-20 14:08",1,46.808265,-123.279966,TRUE,FALSE,TRUE,"S295759820",NA
+"247","brnowl","American Barn Owl","Tyto furcata","L598208","Stillwater NWR","2026-01-20 12:04",1,39.5779555,-118.4623889,TRUE,FALSE,FALSE,"S295540812",NA
+"248","brnowl","American Barn Owl","Tyto furcata","L13213503","Madaquecham","2026-01-20 11:30",1,41.2452653,-70.0488369,TRUE,FALSE,TRUE,"S295388719",NA
+"249","brnowl","American Barn Owl","Tyto furcata","L57482189","Hwy 101, s. of Burke Hill Rd., Ukiah","2026-01-20 10:13",1,39.0781967,-123.1786243,TRUE,FALSE,TRUE,"S295442853",NA
+"250","brnowl","American Barn Owl","Tyto furcata","L158397","Sabine Woods (UTC 026)","2026-01-20 09:50",2,29.6984073,-93.9481795,TRUE,FALSE,FALSE,"S295390064",NA
+"251","brnowl","American Barn Owl","Tyto furcata","L57466075","Tubac bridge south to kiosk and back to bridge","2026-01-20 09:17",1,31.608291,-111.04258,TRUE,FALSE,TRUE,"S295367737",NA
+"252","brnowl","American Barn Owl","Tyto furcata","L8329002","Private Home near Iron Mountain","2026-01-20 08:15",2,32.9592411,-116.9694834,TRUE,FALSE,TRUE,"S295407221",NA
+"253","brnowl","American Barn Owl","Tyto furcata","L934338","Mangas Springs","2026-01-20 07:55",1,32.8418443,-108.5108471,TRUE,FALSE,FALSE,"S295342184",NA
+"254","brnowl","American Barn Owl","Tyto furcata","L57530309","75-6008 Ali‘i Drive, Kailua-Kona, Hawaii, US (19.621, -155.985)","2026-01-20 07:30",1,19.6212379,-155.9851214,TRUE,FALSE,TRUE,"S295663825","N"
+"255","brnowl","American Barn Owl","Tyto furcata","L3574409","Pine Ridge","2026-01-20 06:35",1,45.7075579,-123.923378,TRUE,FALSE,TRUE,"S295337743",NA
+"256","brnowl","American Barn Owl","Tyto furcata","L28027168","Roberti Barn","2026-01-20 06:34",1,39.762492,-120.266335,TRUE,FALSE,TRUE,"S295333203",NA
+"257","brnowl","American Barn Owl","Tyto furcata","L1085299","Three Lakes WMA--Prairie Lakes Unit","2026-01-20 06:19",1,27.9123525,-81.1302567,TRUE,FALSE,FALSE,"S295307646",NA
+"258","brnowl","American Barn Owl","Tyto furcata","L16579052","Mentone Basin Park","2026-01-20 04:11",1,35.1155206,-120.6132531,TRUE,FALSE,FALSE,"S295312163",NA
+"259","brnowl","American Barn Owl","Tyto furcata","L57455610","San Luis Obispo Airport","2026-01-20 04:11",1,35.2371227,-120.6344172,TRUE,FALSE,TRUE,"S295312162",NA
+"260","brnowl","American Barn Owl","Tyto furcata","L57449347","806–898 S 6700 W, Ogden US-UT (41.2514,-112.1419)","2026-01-19 22:16",1,41.251412,-112.14193,TRUE,FALSE,TRUE,"S295284098",NA
+"261","brnowl","American Barn Owl","Tyto furcata","L16170098","San Mateo Outdoor Education (Private, Permission for Access Required)","2026-01-19 22:04",1,37.286723,-122.270724,TRUE,FALSE,TRUE,"S295287598",NA
+"262","brnowl","American Barn Owl","Tyto furcata","L2740945","Havelock","2026-01-19 21:55",1,33.9889045,-118.4153277,TRUE,FALSE,TRUE,"S295286431",NA
+"263","brnowl","American Barn Owl","Tyto furcata","L38096455","Vargas Plateau","2026-01-19 20:38",2,37.5747505,-121.9323712,TRUE,FALSE,TRUE,"S295285206",NA
+"264","brnowl","American Barn Owl","Tyto furcata","L14592250","Private Residential, North County","2026-01-19 20:35",1,33.1922102,-117.3786696,TRUE,FALSE,TRUE,"S295585256",NA
+"265","brnowl","American Barn Owl","Tyto furcata","L1263363","Quincy Junction Rd.--tennis court ponds and willows","2026-01-19 20:04",1,39.9409029,-120.9379828,TRUE,FALSE,FALSE,"S295280528",NA
+"266","brnowl","American Barn Owl","Tyto furcata","L515546","Woodland Plantation","2026-01-19 19:36",2,29.5842246,-89.8273945,TRUE,FALSE,FALSE,"S295270136",NA
+"267","brnowl","American Barn Owl","Tyto furcata","L9511873","US-CA-Kern--Weldon--Home (35.6453,-118.3594)","2026-01-19 19:28",1,35.645362,-118.3595376,TRUE,FALSE,TRUE,"S295278214",NA
+"268","brnowl","American Barn Owl","Tyto furcata","L46478553","YARD-Oceanside2","2026-01-19 19:13",1,33.1829256,-117.3157152,TRUE,FALSE,TRUE,"S296260147",NA
+"269","brnowl","American Barn Owl","Tyto furcata","L55964502","West Medical Lake 4 Lakes Road at Craig Road","2026-01-19 19:02",1,47.5669799,-117.6075999,TRUE,TRUE,TRUE,"S295280788",NA
+"270","brnowl","American Barn Owl","Tyto furcata","L57446968","West Medical Lake 4 Lakes Road","2026-01-19 19:02",1,47.5727717,-117.6160462,TRUE,TRUE,TRUE,"S295280787",NA
+"271","brnowl","American Barn Owl","Tyto furcata","L871226","Mission Trails Regional Park--West Region","2026-01-19 18:56",1,32.8254028,-117.0710933,TRUE,FALSE,FALSE,"S295286588",NA
+"272","brnowl","American Barn Owl","Tyto furcata","L28382097","MY BACK YARD, Santa Paula US-CA 34.35742, -119.06756","2026-01-19 18:48",2,34.357423,-119.067558,TRUE,FALSE,TRUE,"S295275885",NA
+"273","brnowl","American Barn Owl","Tyto furcata","L13604881","Via Regina, Santa Barbara, CA","2026-01-19 18:25",1,34.46248,-119.785831,TRUE,FALSE,TRUE,"S295273951",NA
+"274","brnowl","American Barn Owl","Tyto furcata","L393566","Casa de San Pedro B&B--Visitors Welcome","2026-01-19 18:19",1,31.4088134,-110.1067829,TRUE,FALSE,FALSE,"S295274662",NA
+"275","brnowl","American Barn Owl","Tyto furcata","L7085478","My Yard","2026-01-19 18:08",1,32.8608176,-116.9676458,TRUE,FALSE,TRUE,"S295272631",NA
+"276","brnowl","American Barn Owl","Tyto furcata","L22111218","Garbani Road West","2026-01-19 18:00",1,33.656415,-117.16291,TRUE,FALSE,TRUE,"S295272174",NA
+"277","brnowl","American Barn Owl","Tyto furcata","L57446598","San Francisco Peninsula Watershed, Redwood City US-CA 37.47428, -122.29815","2026-01-19 17:58",1,37.474281,-122.298149,TRUE,FALSE,TRUE,"S295271911",NA
+"278","brnowl","American Barn Owl","Tyto furcata","L11683028","Marlin Pound Neighborhood Park and wetlands","2026-01-19 16:25",1,37.7169206,-121.7451309,TRUE,FALSE,FALSE,"S295283831",NA
+"279","brnowl","American Barn Owl","Tyto furcata","L16899908","Woodland Beach Road","2026-01-19 15:54",1,39.31375,-75.508819,TRUE,FALSE,TRUE,"S295228647",NA
+"280","brnowl","American Barn Owl","Tyto furcata","L41639249","Lake Trail, Saratoga Springs, Utah, US (40.323, -111.896)","2026-01-19 15:46",1,40.3231941,-111.8962557,TRUE,FALSE,TRUE,"S295256576",NA
+"281","brnowl","American Barn Owl","Tyto furcata","L29954194","Holy Cross Abbey","2026-01-19 14:17",1,39.1459461,-77.8769195,TRUE,FALSE,FALSE,"S295247445",NA
+"282","brnowl","American Barn Owl","Tyto furcata","L1573659","Golden Gate Park--trails west of North Lake","2026-01-19 13:45",1,37.7704659,-122.505619,TRUE,FALSE,FALSE,"S295250521",NA
+"283","brnowl","American Barn Owl","Tyto furcata","L11014997","Oso Bay Wetlands Preserve--Holly Hike & Bike Trail","2026-01-19 12:55",1,27.6748465,-97.3289764,TRUE,FALSE,FALSE,"S295381485",NA
+"284","brnowl","American Barn Owl","Tyto furcata","L19169971","Alvadore Rd 44.1527,-123.2598","2026-01-19 11:40",2,44.152665,-123.259795,TRUE,FALSE,TRUE,"S295222327",NA
+"285","brnowl","American Barn Owl","Tyto furcata","L875016","College Lake","2026-01-19 10:05",2,36.9439823,-121.7434351,TRUE,FALSE,TRUE,"S295241584",NA
+"286","brnowl","American Barn Owl","Tyto furcata","L484953","Halter Ranch Vineyard","2026-01-19 09:49",1,35.6401561,-120.8543086,TRUE,FALSE,TRUE,"S295217482",NA
+"287","brnowl","American Barn Owl","Tyto furcata","L128874","Jocelyn Nungaray NWR  (Anahuac) (UTC 049)","2026-01-19 09:34",1,29.6148414,-94.5344353,TRUE,FALSE,FALSE,"S295265658",NA
+"288","brnowl","American Barn Owl","Tyto furcata","L1210095","Antelope Island SP--Road to Garr Ranch","2026-01-19 08:51",1,40.9836063,-112.1903591,TRUE,FALSE,FALSE,"S295193913",NA
+"289","brnowl","American Barn Owl","Tyto furcata","L281754","College Lake","2026-01-19 08:25",2,36.946382,-121.7446834,TRUE,FALSE,FALSE,"S295195696",NA
+"290","brnowl","American Barn Owl","Tyto furcata","L1397041","Lower Provo River Parkway--Center St to Oxbow Parking Lot","2026-01-19 07:54",1,40.2376499,-111.7296227,TRUE,FALSE,FALSE,"S295176765",NA
+"291","brnowl","American Barn Owl","Tyto furcata","L50672403","Kent Ave, Hanford US-CA","2026-01-19 06:45",1,36.224908,-119.60678,TRUE,FALSE,TRUE,"S295164917",NA
+"292","brnowl","American Barn Owl","Tyto furcata","L3483858","Columbia Park","2026-01-19 06:30",1,33.8601665,-118.3461642,TRUE,FALSE,FALSE,"S295162641",NA
+"293","brnowl","American Barn Owl","Tyto furcata","L3077520","Wellington SWA--Cobb Lake Unit","2026-01-18 22:15",1,40.660574,-104.9630088,TRUE,TRUE,FALSE,"S295094324",NA
+"294","brnowl","American Barn Owl","Tyto furcata","L779755","Lila Keiser Park/Morro Creek","2026-01-18 22:07",1,35.3777661,-120.856743,TRUE,FALSE,FALSE,"S295095814",NA
+"295","brnowl","American Barn Owl","Tyto furcata","L583568","Home Alta Mesa Rd-Wilton","2026-01-18 20:20",1,38.3993722,-121.2220639,TRUE,FALSE,TRUE,"S295093631",NA
+"296","brnowl","American Barn Owl","Tyto furcata","L27166513","Torrey Ridge Apartments","2026-01-18 19:26",1,32.91886,-117.21417,TRUE,FALSE,TRUE,"S295087820",NA
+"297","brnowl","American Barn Owl","Tyto furcata","L302348","Dead Horse Ranch SP","2026-01-18 19:21",1,34.751972,-112.0131749,TRUE,FALSE,FALSE,"S295226028",NA
+"298","brnowl","American Barn Owl","Tyto furcata","L980503","Santa Cruz Island--Pelican Bay","2026-01-18 19:19",1,34.032461,-119.7027397,TRUE,FALSE,FALSE,"S295086368",NA
+"299","brnowl","American Barn Owl","Tyto furcata","L1440249","Rio Beef Farm Feed Lot Area","2026-01-18 19:15",1,26.5368323,-97.9857151,TRUE,FALSE,FALSE,"S295118607",NA
+"300","brnowl","American Barn Owl","Tyto furcata","L3140641","Paula Way, Woodland, CA","2026-01-18 18:54",2,38.656437,-121.79013,TRUE,FALSE,TRUE,"S295095720",NA
+"301","brnowl","American Barn Owl","Tyto furcata","L3468210","Turtle's Yard","2026-01-18 18:42",1,36.9628886,-122.0416619,TRUE,FALSE,TRUE,"S295082874",NA
+"302","brnowl","American Barn Owl","Tyto furcata","L11386698","Patterson Acres East","2026-01-18 18:41",1,33.133697,-117.036181,TRUE,FALSE,TRUE,"S295082967",NA
+"303","brnowl","American Barn Owl","Tyto furcata","L14851650","Steep Creek","2026-01-18 18:39",1,36.469179,-118.855123,TRUE,FALSE,TRUE,"S295082339",NA
+"304","brnowl","American Barn Owl","Tyto furcata","L635881","Cuesta College Campus","2026-01-18 18:35",1,35.3299016,-120.7414627,TRUE,FALSE,FALSE,"S295083071",NA
+"305","brnowl","American Barn Owl","Tyto furcata","L36143086","neighborhood","2026-01-18 18:15",1,37.2947186,-122.0387488,TRUE,FALSE,TRUE,"S295087891",NA
+"306","brnowl","American Barn Owl","Tyto furcata","L52599076","Backyard, Stagecoach Circle, Sun City Roseville.","2026-01-18 18:03",1,38.791894,-121.341208,TRUE,FALSE,TRUE,"S295078746",NA
+"307","brnowl","American Barn Owl","Tyto furcata","L225810","American River Parkway--Gristmill Recreation Area","2026-01-18 17:54",1,38.5783708,-121.3420415,TRUE,FALSE,FALSE,"S295084727",NA
+"308","brnowl","American Barn Owl","Tyto furcata","L57407863","I-680 N, Fairfield US-CA 38.20144, -122.13790","2026-01-18 17:50",1,38.201442,-122.137902,TRUE,FALSE,TRUE,"S295089421",NA
+"309","brnowl","American Barn Owl","Tyto furcata","L2812617","S. Cunningham Rd.--Santa Fe Ave. to E. Childs Ave.","2026-01-18 17:45",1,37.264,-120.25234,TRUE,FALSE,FALSE,"S295078106",NA
+"310","brnowl","American Barn Owl","Tyto furcata","L57405336","1625 Bayocean Road Northwest, Tillamook, Oregon, US (45.468, -123.887)","2026-01-18 17:34",1,45.4675097,-123.8866141,TRUE,FALSE,TRUE,"S295077797",NA
+"311","brnowl","American Barn Owl","Tyto furcata","L16565422","Shelby Farms Park--Gardner Rd. Marsh","2026-01-18 17:26",1,35.1424179,-89.8488404,TRUE,FALSE,FALSE,"S295067783",NA
+"312","brnowl","American Barn Owl","Tyto furcata","L57404301","42970–42998 SH-78, Hammett US-ID (42.8953,-115.8756)","2026-01-18 17:00",1,42.8953,-115.875563,TRUE,FALSE,TRUE,"S295072860",NA
+"313","brnowl","American Barn Owl","Tyto furcata","L299325","Isenberg Crane Reserve","2026-01-18 16:55",1,38.1576924,-121.4437401,TRUE,FALSE,FALSE,"S295282089",NA
+"314","brnowl","American Barn Owl","Tyto furcata","L342591","Bois D'Arc CA","2026-01-18 16:54",2,37.2889,-93.5161389,TRUE,TRUE,FALSE,"S295070215",NA
+"315","brnowl","American Barn Owl","Tyto furcata","L989640","Hudeman Slough","2026-01-18 16:43",1,38.2203803,-122.3933011,TRUE,FALSE,FALSE,"S295208227",NA
+"316","brnowl","American Barn Owl","Tyto furcata","L1071608","Beaverton Creek Wetlands Park","2026-01-18 16:00",NA,45.4925702,-122.836504,TRUE,FALSE,FALSE,"S295086935",NA
+"317","brnowl","American Barn Owl","Tyto furcata","L717614","CJ Strike WMA--Jack's Creek","2026-01-18 15:57",1,42.8996097,-115.8592415,TRUE,FALSE,FALSE,"S295062164",NA
+"318","brnowl","American Barn Owl","Tyto furcata","L57397848","1804 Saratoga Drive Northeast, Rio Rancho, New Mexico, US (35.289, -106.612)","2026-01-18 15:17",1,35.2888304,-106.6122039,TRUE,FALSE,TRUE,"S295044233",NA
+"319","brnowl","American Barn Owl","Tyto furcata","L57397557","Rio Rico area","2026-01-18 14:55",1,31.4544301,-110.9964629,TRUE,FALSE,TRUE,"S295043210",NA
+"320","brnowl","American Barn Owl","Tyto furcata","L49495599","7602 127th Street Court East, Puyallup, Washington, US (47.141, -122.328)","2026-01-18 14:11",1,47.1405374,-122.3276448,TRUE,FALSE,TRUE,"S295042735",NA
+"321","brnowl","American Barn Owl","Tyto furcata","L7181932","Lake Yosemite Co. Park","2026-01-18 13:30",1,37.37125,-120.42867,TRUE,FALSE,FALSE,"S295170488",NA
+"322","brnowl","American Barn Owl","Tyto furcata","L370801","Pumphouse Rd.--S River Rd. to Babel Slough Rd. (includes Winchester Lake)","2026-01-18 12:44",1,38.4377242,-121.5530777,TRUE,FALSE,FALSE,"S295034590",NA
+"323","brnowl","American Barn Owl","Tyto furcata","L374047","Cañada Larga Rd.","2026-01-18 12:30",1,34.3445699,-119.2783928,TRUE,FALSE,FALSE,"S295077016",NA
+"324","brnowl","American Barn Owl","Tyto furcata","L57406577","204th and N. Frager Rd.","2026-01-18 12:16",1,47.419735,-122.272641,TRUE,FALSE,TRUE,"S295083377",NA
+"325","brnowl","American Barn Owl","Tyto furcata","L56732843","Marymount Way","2026-01-18 11:10",1,34.4222521,-119.8776451,TRUE,FALSE,TRUE,"S295077054",NA
+"326","brnowl","American Barn Owl","Tyto furcata","L39320145","91801–92063 Alvadore Rd, Junction City US-OR (44.1532,-123.2598)","2026-01-18 10:37",2,44.153168,-123.259767,TRUE,FALSE,TRUE,"S295020643",NA
+"327","brnowl","American Barn Owl","Tyto furcata","L17015805","Wendell Eagle Tree","2026-01-18 10:30",1,42.7277219,-114.7927094,TRUE,FALSE,FALSE,"S295017539",NA
+"328","brnowl","American Barn Owl","Tyto furcata","L57430656","Little Shasta","2026-01-18 10:10",2,41.6804579,-122.3967527,TRUE,FALSE,TRUE,"S295026347",NA
+"329","brnowl","American Barn Owl","Tyto furcata","L3485867","Cedar Lake","2026-01-18 10:10",2,41.6636791,-122.4067926,TRUE,FALSE,FALSE,"S295077844",NA
+"330","brnowl","American Barn Owl","Tyto furcata","L13168600","654 Ivy Ln, Solvang US-CA 34.60017, -120.13330","2026-01-18 09:54",1,34.600172,-120.133301,TRUE,FALSE,TRUE,"S295015038",NA
+"331","brnowl","American Barn Owl","Tyto furcata","L721572","Base and Meridian WA","2026-01-18 09:42",2,33.3791718,-112.3074389,TRUE,FALSE,FALSE,"S295067509",NA
+"332","brnowl","American Barn Owl","Tyto furcata","L57390225","Shasta Valley Ranchland","2026-01-18 09:37",2,41.684511,-122.380874,TRUE,FALSE,TRUE,"S295013446",NA
+"333","brnowl","American Barn Owl","Tyto furcata","L129098","High Island--Smith Oaks Sanctuary (UTC 052)","2026-01-18 09:09",1,29.573681,-94.3898535,TRUE,FALSE,FALSE,"S295065801",NA
+"334","brnowl","American Barn Owl","Tyto furcata","L1459412","Arcata Bottoms--Foster Ave. dairy","2026-01-18 09:07",1,40.8832795,-124.113724,TRUE,FALSE,FALSE,"S295011080",NA
+"335","brnowl","American Barn Owl","Tyto furcata","L32003065","Beech River Bottom--New Canal Rd","2026-01-18 08:43",1,35.609284,-88.237546,TRUE,TRUE,FALSE,"S294965656",NA
+"336","brnowl","American Barn Owl","Tyto furcata","L11601945","Balmorhea (town)","2026-01-18 07:29",1,30.98314,-103.742472,TRUE,FALSE,FALSE,"S294915309",NA
+"337","brnowl","American Barn Owl","Tyto furcata","L14997774","D Ranch Preserve","2026-01-18 06:23",1,28.8316288,-81.1837721,TRUE,FALSE,FALSE,"S294971996",NA
+"338","brnowl","American Barn Owl","Tyto furcata","L810111","Ragle Ranch Regional Park","2026-01-18 06:05",1,38.4051776,-122.8523827,TRUE,FALSE,FALSE,"S294988345",NA
+"339","brnowl","American Barn Owl","Tyto furcata","L57179345","Rio Hondo backroads, Harlingen, Texas, US (26.248, -97.599)","2026-01-18 05:59",1,26.247608,-97.599443,TRUE,FALSE,TRUE,"S294893204",NA
+"340","brnowl","American Barn Owl","Tyto furcata","L5250282","Naef Farm, Saxon Road","2026-01-18 01:09",1,48.6860875,-122.1933746,TRUE,FALSE,TRUE,"S294870357",NA
+"341","brnowl","American Barn Owl","Tyto furcata","L57508016","High Pass Rd.","2026-01-18",1,44.2153375,-123.2631177,TRUE,FALSE,TRUE,"S295568243",NA
+"342","brnowl","American Barn Owl","Tyto furcata","L21670459","Tijuana River Valley--campground","2026-01-17 23:55",1,32.5450865,-117.1024104,TRUE,FALSE,FALSE,"S294942155",NA
+"343","brnowl","American Barn Owl","Tyto furcata","L31704240","Buckeye (restricted access)","2026-01-17 20:30",1,36.4802567,-118.8398929,TRUE,FALSE,TRUE,"S295088595",NA
+"344","brnowl","American Barn Owl","Tyto furcata","L19270603","Home","2026-01-17 19:34",1,38.3767546,-122.7974733,TRUE,FALSE,TRUE,"S294842369",NA
+"345","brnowl","American Barn Owl","Tyto furcata","L9086977","Championship Dr, Sonora US-CA (37.9421,-120.3602)","2026-01-17 19:31",1,37.942099,-120.360202,TRUE,FALSE,TRUE,"S294842142",NA
+"346","brnowl","American Barn Owl","Tyto furcata","L351272","Arroyo Seco Rec Area--lakes and gorge","2026-01-17 19:25",1,36.232132,-121.4846122,TRUE,FALSE,FALSE,"S295172932",NA
+"347","brnowl","American Barn Owl","Tyto furcata","L57351832","9014–9098 Homestead Rd, Pahrump US-NV 36.08712, -115.95739","2026-01-17 18:58",1,36.087118,-115.957386,TRUE,FALSE,TRUE,"S294839360",NA
+"348","brnowl","American Barn Owl","Tyto furcata","L57351847","33–49 Swanton Rd, Davenport US-CA 37.03935, -122.22450","2026-01-17 18:58",1,37.039349,-122.224504,TRUE,FALSE,TRUE,"S294839397",NA
+"349","brnowl","American Barn Owl","Tyto furcata","L57351717","Senior fish","2026-01-17 18:48",2,34.132678,-118.216406,TRUE,FALSE,TRUE,"S294838897",NA
+"350","brnowl","American Barn Owl","Tyto furcata","L57351950","3300 Panorama Dr, Morro Bay US-CA (35.4059,-120.8647)","2026-01-17 18:30",1,35.405877,-120.864681,TRUE,FALSE,TRUE,"S294839780",NA
+"351","brnowl","American Barn Owl","Tyto furcata","L57353266","California St","2026-01-17 18:30",1,34.0533994,-117.2260251,TRUE,FALSE,TRUE,"S294845087",NA
+"352","brnowl","American Barn Owl","Tyto furcata","L57351415","564 Yerba Buena St, Morro Bay US-CA 35.40659, -120.86443","2026-01-17 18:28",1,35.406588,-120.864426,TRUE,FALSE,TRUE,"S294837708",NA
+"353","brnowl","American Barn Owl","Tyto furcata","L57351207","1125 Golden Road, Encinitas, California, US (33.038, -117.28)","2026-01-17 18:26",1,33.0376797,-117.2804002,TRUE,FALSE,TRUE,"S294836776",NA
+"354","brnowl","American Barn Owl","Tyto furcata","L13118162","Santa Paula (general area)","2026-01-17 18:18",1,34.354436,-119.060145,TRUE,FALSE,FALSE,"S294840184",NA
+"355","brnowl","American Barn Owl","Tyto furcata","L680796","Giacomini Wetlands","2026-01-17 17:41",1,38.0660005,-122.8089738,TRUE,FALSE,FALSE,"S294956005",NA
+"356","brnowl","American Barn Owl","Tyto furcata","L57348593","W Main St, Delta US-UT 39.33057, -112.64014","2026-01-17 17:38",1,39.330565,-112.640141,TRUE,FALSE,TRUE,"S294825350",NA
+"357","brnowl","American Barn Owl","Tyto furcata","L14701762","Ranch","2026-01-17 17:36",1,26.911991,-98.387384,TRUE,FALSE,TRUE,"S295262269",NA
+"358","brnowl","American Barn Owl","Tyto furcata","L212070","Glover Lane & GSL Nature Center","2026-01-17 17:36",1,40.9650238,-111.9299004,TRUE,FALSE,FALSE,"S294958237",NA
+"359","brnowl","American Barn Owl","Tyto furcata","L831968","Sauvie Island--Raccoon Point","2026-01-17 17:32",1,45.6916122,-122.8055191,TRUE,FALSE,FALSE,"S294832544",NA
+"360","brnowl","American Barn Owl","Tyto furcata","L874154","Lake Chabot Regional Park","2026-01-17 16:05",1,37.7244154,-122.1024199,TRUE,FALSE,FALSE,"S294868708",NA
+"361","brnowl","American Barn Owl","Tyto furcata","L57346671","West Side Freeway, Walnut Grove, California, US (38.265, -121.45)","2026-01-17 15:46",1,38.2652826,-121.4502673,TRUE,FALSE,TRUE,"S294817711",NA
+"362","brnowl","American Barn Owl","Tyto furcata","L3600011","Bufferlands--Fishhead Lake and vicinity (limited access)","2026-01-17 15:34",1,38.4457595,-121.4525664,TRUE,FALSE,FALSE,"S294829514",NA
+"363","brnowl","American Barn Owl","Tyto furcata","L17169615","1 Yard NIB: HB, Cobblestone Lane","2026-01-17 15:30",1,33.711109,-118.034427,TRUE,FALSE,TRUE,"S294990317",NA
+"364","brnowl","American Barn Owl","Tyto furcata","L1401754","Bufferlands--Sims Field Area (limited access)","2026-01-17 15:19",1,38.4419697,-121.4554501,TRUE,FALSE,TRUE,"S294834541",NA
+"365","brnowl","American Barn Owl","Tyto furcata","L57335538","Pickerington Ponds","2026-01-17 15:13",1,39.885013,-82.798688,TRUE,TRUE,TRUE,"S294771203",NA
+"366","brnowl","American Barn Owl","Tyto furcata","L57335513","Red Barn","2026-01-17 15:11",1,39.884987,-82.798926,TRUE,TRUE,TRUE,"S294770884",NA
+"367","brnowl","American Barn Owl","Tyto furcata","L57339411","521–599 SSR-N, Lockwood US-MO 37.30713, -94.02821","2026-01-17 14:45",1,37.307128,-94.028213,TRUE,FALSE,TRUE,"S294786008",NA
+"368","brnowl","American Barn Owl","Tyto furcata","L1071298","Hackberry Flat WMA--Reservoir","2026-01-17 14:22",2,34.2959057,-98.9591789,TRUE,FALSE,FALSE,"S294790186",NA
+"369","brnowl","American Barn Owl","Tyto furcata","L57338701","Pinto Ln, Caldwell US-ID (43.6791,-116.7780)","2026-01-17 13:48",1,43.679084,-116.77796,TRUE,FALSE,TRUE,"S294783253",NA
+"370","brnowl","American Barn Owl","Tyto furcata","L22778867","2085 Dutch Hollow Rd","2026-01-17 13:41",1,37.996833,-79.346442,TRUE,FALSE,TRUE,"S294752553",NA
+"371","brnowl","American Barn Owl","Tyto furcata","L57336898","Barn Owl Box Pinto Lane","2026-01-17 13:27",1,43.6699,-116.778433,TRUE,FALSE,TRUE,"S294775917",NA
+"372","brnowl","American Barn Owl","Tyto furcata","L57339175","Secret Owlameda spot","2026-01-17 13:14",1,37.765139,-122.247484,TRUE,FALSE,TRUE,"S294785066",NA
+"373","brnowl","American Barn Owl","Tyto furcata","L57339952","1804 Saratoga Drive Northeast, Rio Rancho, New Mexico, US (35.289, -106.612)","2026-01-17 12:30",1,35.2886375,-106.6120174,TRUE,FALSE,TRUE,"S294788320",NA
+"374","brnowl","American Barn Owl","Tyto furcata","L4478244","Sem-Chi Rice Mill","2026-01-17 12:27",1,26.6668727,-80.4574621,TRUE,FALSE,FALSE,"S294762334",NA
+"375","brnowl","American Barn Owl","Tyto furcata","L57336479","637 Smith Springs Road, Prescott, Washington, US (46.31, -118.297)","2026-01-17 12:26",2,46.3096556,-118.2971574,TRUE,FALSE,TRUE,"S294774251",NA
+"376","brnowl","American Barn Owl","Tyto furcata","L783880","Tyson Blood Ponds","2026-01-17 12:11",2,46.1391809,-118.9032054,TRUE,FALSE,FALSE,"S294805627",NA
+"377","brnowl","American Barn Owl","Tyto furcata","L57325366","23530 Dairy Rd, Belle Glade US-FL 26.56859, -80.51986","2026-01-17 11:55",1,26.56859,-80.519864,TRUE,FALSE,TRUE,"S294725694",NA
+"378","brnowl","American Barn Owl","Tyto furcata","L4097492","Payson City Cemetery","2026-01-17 11:28",2,40.0504167,-111.7188764,TRUE,FALSE,FALSE,"S294775310",NA
+"379","brnowl","American Barn Owl","Tyto furcata","L1048528","Livermore Rd.","2026-01-17 10:42",1,45.0097499,-123.2535124,TRUE,FALSE,FALSE,"S294769451",NA
+"380","brnowl","American Barn Owl","Tyto furcata","L57380428","Northern Skaggs Island Sonoma, California, US (38.188, -122.389)","2026-01-17 10:22",1,38.188368,-122.3888604,TRUE,FALSE,TRUE,"S294970638",NA
+"381","brnowl","American Barn Owl","Tyto furcata","L152134","Chilao--Visitor Center","2026-01-17 10:00",NA,34.326745,-118.0047137,TRUE,FALSE,FALSE,"S295564907",NA
+"382","brnowl","American Barn Owl","Tyto furcata","L599009","San Luis Reservoir SRA--San Luis Creek area","2026-01-17 09:56",NA,37.0830505,-121.0604095,TRUE,FALSE,FALSE,"S294744018",NA
+"383","brnowl","American Barn Owl","Tyto furcata","L5387801","Area 5 Santa Cruz Raptor Count","2026-01-17 09:55",1,32.7192408,-111.6715622,TRUE,FALSE,TRUE,"S295286848",NA
+"384","brnowl","American Barn Owl","Tyto furcata","L4075571","Rocky Mountain Arsenal NWR--Lake Mary","2026-01-17 09:53",1,39.8184974,-104.8641694,TRUE,FALSE,FALSE,"S294737969",NA
+"385","brnowl","American Barn Owl","Tyto furcata","L57345745","Lake Apopka Wildlife Drive","2026-01-17 09:52",1,28.6693188,-81.5579858,TRUE,FALSE,TRUE,"S294815852",NA
+"386","brnowl","American Barn Owl","Tyto furcata","L32133144","Irvine Regional Park","2026-01-17 09:36",1,33.796007,-117.753009,TRUE,FALSE,TRUE,"S294750179",NA
+"387","brnowl","American Barn Owl","Tyto furcata","L20536951","Dairy Rd, Belle Glade US-FL 26.56955, -80.47804","2026-01-17 09:13",1,26.56955,-80.478038,TRUE,FALSE,TRUE,"S294829441",NA
+"388","brnowl","American Barn Owl","Tyto furcata","L7941184","Miller Ranch--Presidio Co. section (restricted access)","2026-01-17 08:47",2,30.5524308,-104.647007,TRUE,FALSE,FALSE,"S294751086",NA
+"389","brnowl","American Barn Owl","Tyto furcata","L28161755","McWhirter Farms Pond","2026-01-17 08:00",1,35.7646944,-85.6599732,TRUE,FALSE,FALSE,"S294732657",NA
+"390","brnowl","American Barn Owl","Tyto furcata","L8926707","Legacy Nature Preserve(restricted access)","2026-01-17 08:00",1,40.8621604,-111.9529441,TRUE,FALSE,TRUE,"S294757467",NA
+"391","brnowl","American Barn Owl","Tyto furcata","L28788476","Coosawhatchie WMA","2026-01-17 07:54",1,32.6877436,-80.9362606,TRUE,FALSE,FALSE,"S294719579",NA
+"392","brnowl","American Barn Owl","Tyto furcata","L57380229","BLOCK 5
+22901 Florida 710, Indiantown, Florida, US (27.085, -80.565)","2026-01-17 06:37",1,27.0849379,-80.5651512,TRUE,FALSE,TRUE,"S294969687",NA
+"393","brnowl","American Barn Owl","Tyto furcata","L241755","San Clemente Island--Wilson Cove (town)","2026-01-17 06:05",1,32.9961729,-118.5520506,TRUE,FALSE,FALSE,"S294685193",NA
+"394","brnowl","American Barn Owl","Tyto furcata","L57391706","Hawaii Belt Rd, Pepeekeo US-HI","2026-01-17 05:55",1,19.833194,-155.103862,TRUE,FALSE,TRUE,"S295019142","N"
+"395","brnowl","American Barn Owl","Tyto furcata","L22363194","Unnamed Road, Cattle Grid, Moore Haven, Florida, US (26.784, -81.245)","2026-01-17 05:47",1,26.7842075,-81.2449183,TRUE,FALSE,TRUE,"S294640343",NA
+"396","brnowl","American Barn Owl","Tyto furcata","L292411","Crescent Lake WMA","2026-01-17 05:19",1,47.8162308,-121.9934082,TRUE,FALSE,FALSE,"S294844797",NA
+"397","brnowl","American Barn Owl","Tyto furcata","L52555466","CA-99 S, Durham US-CA 39.65214, -121.72766","2026-01-17 03:28",1,39.652138,-121.727663,TRUE,FALSE,TRUE,"S294636194",NA
+"398","brnowl","American Barn Owl","Tyto furcata","L16879582","Boynton Court","2026-01-17 02:21",1,37.767391,-122.4301786,TRUE,FALSE,TRUE,"S294626494",NA
+"399","brnowl","American Barn Owl","Tyto furcata","L7951973","Hickory Park","2026-01-17 00:14",1,33.817737,-118.335559,TRUE,FALSE,FALSE,"S294612217",NA
