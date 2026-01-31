@@ -1,5 +1,4 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","pifgoo","Pink-footed Goose","Anser brachyrhynchus","L28824475","Boombridge Rd. Canoe Launch","2026-01-24 15:30",1,41.417749,-71.823581,TRUE,TRUE,FALSE,"S296065461"
-"2","pifgoo","Pink-footed Goose","Anser brachyrhynchus","L6627847","Boom Bridge (RI)","2026-01-24 07:02",1,41.4173172,-71.8232486,TRUE,TRUE,FALSE,"S295952640"
-"3","pifgoo","Pink-footed Goose","Anser brachyrhynchus","L1097951","Donald W. Barnes Boat Launch","2026-01-23 10:45",1,41.997997,-72.6058155,TRUE,TRUE,FALSE,"S295831815"
-"4","pifgoo","Pink-footed Goose","Anser brachyrhynchus","L57470284","River Blvd, Suffield, Connecticut, US (42.02, -72.617)","2026-01-20 10:55",1,42.019776,-72.6169597,TRUE,TRUE,TRUE,"S295386322"
+"1","mckbun","McKay's Bunting","Plectrophenax hyperboreus","L19436379","Nome--Icy View","2026-01-29 13:28",17,64.5193554,-165.3754683,TRUE,FALSE,FALSE,"S296928828"
+"2","mckbun","McKay's Bunting","Plectrophenax hyperboreus","L4004485","Nome (town)","2026-01-29 10:01",10,64.5010632,-165.4081392,TRUE,FALSE,FALSE,"S296907478"
+"3","mckbun","McKay's Bunting","Plectrophenax hyperboreus","L4017898","NE Icy View","2026-01-24 10:50",16,64.5220727,-165.369215,TRUE,FALSE,TRUE,"S296110864"
