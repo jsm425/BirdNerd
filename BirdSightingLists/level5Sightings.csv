@@ -1,2 +1,2 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
-"1","whicoc1","White Cockatoo","Cacatua alba","L392604","Lyon Arboretum","2026-01-27 13:16",4,21.333713,-157.8006649,TRUE,TRUE,FALSE,"S296622046","P"
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
+"1","hawpet1","Hawaiian Petrel","Pterodroma sandwichensis","L57803027","Hawaii Bird Tours’ Kona Pelagic: 1.29.26 (1): 19.67264, -156.09256","2026-01-29 07:20",1,19.672637,-156.092557,TRUE,FALSE,TRUE,"S296977422"

@@ -1,48 +1,59 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","lat","lng","obsValid","obsReviewed","locationPrivate","subId","howMany"
-"1","chclon","Chestnut-collared Longspur","Calcarius ornatus","L57946217","Dopler Ball","2026-02-01 15:05",34.3631262,-98.9817985,TRUE,FALSE,TRUE,"S297591131",NA
-"2","chclon","Chestnut-collared Longspur","Calcarius ornatus","L57941360","E1830 Road, Frederick, Oklahoma, US (34.363, -98.983)","2026-02-01 15:00",34.3631674,-98.9826463,TRUE,FALSE,TRUE,"S297569433",19
-"3","chclon","Chestnut-collared Longspur","Calcarius ornatus","L1071298","Hackberry Flat WMA--Reservoir","2026-02-01 13:56",34.2959057,-98.9591789,TRUE,FALSE,FALSE,"S297568092",15
-"4","chclon","Chestnut-collared Longspur","Calcarius ornatus","L57927474","R1558–R1590 National Parks Highway Rural, Carlsbad US-NM 32.15840, -104.38828","2026-02-01 09:52",32.158401,-104.388279,TRUE,FALSE,TRUE,"S297504021",12
-"5","chclon","Chestnut-collared Longspur","Calcarius ornatus","L57926885","SH-166, Fort Davis US-TX 30.75328, -104.15874","2026-02-01 09:00",30.753282,-104.158743,TRUE,FALSE,TRUE,"S297501244",40
-"6","chclon","Chestnut-collared Longspur","Calcarius ornatus","L8199036","Las Cienegas NCA--Smith Canyon Corral & Tank area","2026-02-01 08:45",31.713215,-110.6054621,TRUE,FALSE,FALSE,"S297514664",75
-"7","chclon","Chestnut-collared Longspur","Calcarius ornatus","L57658974","stakeout Common Crane, Montoya Rd. (2026)","2026-02-01 08:23",35.057916,-106.000204,TRUE,FALSE,FALSE,"S297495048",2
-"8","chclon","Chestnut-collared Longspur","Calcarius ornatus","L39201476","13510 E Singing Hills Trail, Sonoita US-AZ 31.75961, -110.70571 (restricted access)","2026-02-01 08:21",31.759605,-110.70571,TRUE,FALSE,TRUE,"S297543338",6
-"9","chclon","Chestnut-collared Longspur","Calcarius ornatus","L57787339","Lordsburg US-NM 32.46630, -108.96832","2026-02-01 07:50",32.466302,-108.96832,TRUE,FALSE,TRUE,"S297545693",2
-"10","chclon","Chestnut-collared Longspur","Calcarius ornatus","L57940882","Lc 900, Elgin US-AZ 31.73022, -110.58555","2026-02-01 07:26",31.730218,-110.585552,TRUE,FALSE,TRUE,"S297567307",2
-"11","chclon","Chestnut-collared Longspur","Calcarius ornatus","L267413","San Rafael Grasslands","2026-02-01 07:19",31.4542427,-110.631692,TRUE,FALSE,FALSE,"S297505227",3
-"12","chclon","Chestnut-collared Longspur","Calcarius ornatus","L57929977","3344–3354 NM-41, Stanley US-NM 35.07685, -106.00779","2026-01-31 17:03",35.076854,-106.00779,TRUE,FALSE,TRUE,"S297516568",1
-"13","chclon","Chestnut-collared Longspur","Calcarius ornatus","L6679708","stakeout Lapland Longspur, Davis Pasture (2018)","2026-01-31 16:16",31.68006,-110.59994,TRUE,FALSE,FALSE,"S297334410",1
-"14","chclon","Chestnut-collared Longspur","Calcarius ornatus","L266875","Willcox--Lake Cochise and Twin Lakes Golf Course","2026-01-31 14:08",32.2298515,-109.8243175,TRUE,FALSE,FALSE,"S297312104",1
-"15","chclon","Chestnut-collared Longspur","Calcarius ornatus","L766904","Willcox Playa WA (no water)","2026-01-31 12:03",32.1417155,-109.7569692,TRUE,FALSE,FALSE,"S297286439",1
-"16","chclon","Chestnut-collared Longspur","Calcarius ornatus","L35751378","Military Highway (ephemeral) Pond","2026-01-31 10:45",34.5298735,-106.5807611,TRUE,FALSE,TRUE,"S297279875",8
-"17","chclon","Chestnut-collared Longspur","Calcarius ornatus","L4192551","Las Cienegas NCA--Davis Pasture","2026-01-31 10:37",31.69384,-110.5963048,TRUE,FALSE,FALSE,"S297311428",80
-"18","chclon","Chestnut-collared Longspur","Calcarius ornatus","L57859279","304 Farm to Market Road 193, Petersburg, Texas, US (33.784, -101.526)","2026-01-31 10:16",33.7836575,-101.5255439,TRUE,FALSE,TRUE,"S297236824",15
-"19","chclon","Chestnut-collared Longspur","Calcarius ornatus","L57853532","King Rd, Stanley US-NM","2026-01-31 07:46",35.088775,-106.014775,TRUE,FALSE,TRUE,"S297209806",3
-"20","chclon","Chestnut-collared Longspur","Calcarius ornatus","L57720533","Summit Rd, Lordsburg US-NM 32.37574, -108.98216","2026-01-31 07:17",32.375744,-108.982165,TRUE,FALSE,TRUE,"S297287184",2
-"21","chclon","Chestnut-collared Longspur","Calcarius ornatus","L57783595","Barksdale Rd","2026-01-29 10:25",32.444873,-107.537756,TRUE,FALSE,TRUE,"S296891406",75
-"22","chclon","Chestnut-collared Longspur","Calcarius ornatus","L11912525","East End of Montoya Rd.","2026-01-28 10:01",35.0554655,-105.9489674,TRUE,FALSE,FALSE,"S296878568",NA
-"23","chclon","Chestnut-collared Longspur","Calcarius ornatus","L57748351","88264, Maljamar US-NM 32.87724, -103.71725","2026-01-28 09:32",32.877235,-103.717247,TRUE,FALSE,TRUE,"S296727666",2
-"24","chclon","Chestnut-collared Longspur","Calcarius ornatus","L9002210","Fitchburg Airport","2026-01-28 07:16",42.5548999,-71.7552523,TRUE,TRUE,FALSE,"S296688897",1
-"25","chclon","Chestnut-collared Longspur","Calcarius ornatus","L57722541","5000-5516 Northwest Hamilton County Road 7, Syracuse, Kansas, US (38.175, -101.859)","2026-01-27 14:29",38.1751691,-101.8586283,TRUE,FALSE,TRUE,"S296599416",1
-"26","chclon","Chestnut-collared Longspur","Calcarius ornatus","L1090888","King Farm Road - north of Martin Lane","2026-01-27 10:23",35.0631191,-106.067816,TRUE,FALSE,TRUE,"S296617142",3
-"27","chclon","Chestnut-collared Longspur","Calcarius ornatus","L129066","Rio Bosque Park (FWTX 11)","2026-01-27 10:20",31.6408997,-106.3099976,TRUE,FALSE,FALSE,"S296606410",2
-"28","chclon","Chestnut-collared Longspur","Calcarius ornatus","L57725308","Martin Lane - west of Valley Irrigation Road (35.0550,-106.0544)","2026-01-27 09:25",35.055028,-106.054358,TRUE,FALSE,TRUE,"S296612537",1
-"29","chclon","Chestnut-collared Longspur","Calcarius ornatus","L57723998","1957 Curry County Road 35, Grady US-NM 34.80779, -103.36664","2026-01-27 08:36",34.807793,-103.36664,TRUE,FALSE,TRUE,"S296605823",20
-"30","chclon","Chestnut-collared Longspur","Calcarius ornatus","L4002467","Curly Horse Ranch Rd (Santa Cruz Co.)","2026-01-27 08:03",31.717074,-110.622229,TRUE,FALSE,FALSE,"S296566584",155
-"31","chclon","Chestnut-collared Longspur","Calcarius ornatus","L57759061","Deming, New Mexico, US (32.468, -107.597)","2026-01-27 07:27",32.4677105,-107.597207,TRUE,FALSE,TRUE,"S296778216",6
-"32","chclon","Chestnut-collared Longspur","Calcarius ornatus","L2312182","Mason Draw Grasslands (within OMDPNM)","2026-01-27 06:40",32.3003375,-107.172575,TRUE,FALSE,FALSE,"S296553775",7
-"33","chclon","Chestnut-collared Longspur","Calcarius ornatus","L55668175","I-25 S, Belen US-NM (34.7373,-106.7877)","2026-01-26 15:12",34.737317,-106.787654,TRUE,FALSE,TRUE,"S296554304",3
-"34","chclon","Chestnut-collared Longspur","Calcarius ornatus","L57693679","New Mexico 107, Alamo, New Mexico, US (33.849, -107.321)","2026-01-26 12:55",33.8485303,-107.3210481,TRUE,FALSE,TRUE,"S296457776",3
-"35","chclon","Chestnut-collared Longspur","Calcarius ornatus","L17765861","King Farm Road CR 21 (Dinkle Rd to county line)","2026-01-26 12:36",35.0635158,-106.0678675,TRUE,FALSE,TRUE,"S296453351",17
-"36","chclon","Chestnut-collared Longspur","Calcarius ornatus","L57696660","87056, Stanley US-NM (35.0796,-106.0121)","2026-01-26 10:26",35.079625,-106.012059,TRUE,FALSE,TRUE,"S296472266",1
-"37","chclon","Chestnut-collared Longspur","Calcarius ornatus","L11301501","King Rd. from Feedlot Rd. to Terry Ln. (south end of migrant trap)","2026-01-26 09:00",35.1225277,-106.014865,TRUE,FALSE,FALSE,"S296431907",25
-"38","chclon","Chestnut-collared Longspur","Calcarius ornatus","L57688454","NM-41, Stanley US-NM 35.24706, -105.95146","2026-01-26 08:45",35.247062,-105.951464,TRUE,FALSE,TRUE,"S296431442",3
-"39","chclon","Chestnut-collared Longspur","Calcarius ornatus","L57668745","Charlie Breckenridge Rd, Moriarty US-NM","2026-01-25 15:38",35.040671,-106.0291,TRUE,FALSE,TRUE,"S296328164",1
-"40","chclon","Chestnut-collared Longspur","Calcarius ornatus","L57667243","65 CR-4B, Stanley","2026-01-25 13:49",35.05532,-106.001745,TRUE,FALSE,TRUE,"S296321563",2
-"41","chclon","Chestnut-collared Longspur","Calcarius ornatus","L57663370","Flying Y Road Northeast, Deming, New Mexico, US (32.528, -107.56)","2026-01-25 12:50",32.5275168,-107.5604057,TRUE,FALSE,TRUE,"S296304078",300
-"42","chclon","Chestnut-collared Longspur","Calcarius ornatus","L2765773","Lute Hart Tank","2026-01-25 11:36",35.0493833,-111.1657459,TRUE,FALSE,FALSE,"S296260052",1
-"43","chclon","Chestnut-collared Longspur","Calcarius ornatus","L57663429","Barksdale Road Northeast, Deming, New Mexico, US (32.438, -107.49)","2026-01-25 09:57",32.4378033,-107.4902113,TRUE,FALSE,TRUE,"S296304399",25
-"44","chclon","Chestnut-collared Longspur","Calcarius ornatus","L860522","Organ Mountains-Desert Peaks NM--Soledad Canyon Day Use Area","2026-01-24 10:40",32.305044,-106.5930891,TRUE,FALSE,FALSE,"S296039675",1
-"45","chclon","Chestnut-collared Longspur","Calcarius ornatus","L2365814","Round Cedar Lake","2026-01-24 09:54",35.2586636,-111.1600002,TRUE,FALSE,FALSE,"S296030526",1
-"46","chclon","Chestnut-collared Longspur","Calcarius ornatus","L57594275","Fitchburg Municipal Airport, Fitchburg US-MA 42.55478, -71.75500","2026-01-24 08:45",42.554777,-71.754997,TRUE,TRUE,TRUE,"S295967687",1
-"47","chclon","Chestnut-collared Longspur","Calcarius ornatus","L2282699","Cibola NF--Lower Water Canyon","2026-01-23 11:45",34.0425857,-107.117697,TRUE,FALSE,FALSE,"S297114932",50
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
+"1","comcra","Common Crane","Grus grus","L57937074","New Mexico 41 (35.077, -106.007)","2026-02-01 09:12",1,35.0773171,-106.0074454,TRUE,TRUE,TRUE,"S297550268"
+"2","comcra","Common Crane","Grus grus","L57925661","3344–3354 NM-41, Stanley US-NM 35.07737, -106.00744","2026-02-01 08:53",1,35.077366,-106.007439,TRUE,TRUE,TRUE,"S297494898"
+"3","comcra","Common Crane","Grus grus","L57658974","stakeout Common Crane, Montoya Rd. (2026)","2026-02-01 08:37",1,35.057916,-106.000204,TRUE,TRUE,FALSE,"S297573468"
+"4","comcra","Common Crane","Grus grus","L57866934","3356–3390 NM-41, Stanley US-NM 35.08165, -106.00556","2026-01-31 11:37",1,35.081653,-106.005563,TRUE,TRUE,TRUE,"S297273349"
+"5","comcra","Common Crane","Grus grus","L57875498","Dinkle and road 41, Stanley US-NM 35.08163, -106.00562","2026-01-31 11:04",1,35.081633,-106.005617,TRUE,TRUE,TRUE,"S297357152"
+"6","comcra","Common Crane","Grus grus","L57861515","3300-3316 New Mexico 41, New Mexico, US (35.082, -106.006)","2026-01-31 10:52",1,35.0820074,-106.0057044,TRUE,TRUE,TRUE,"S297272229"
+"7","comcra","Common Crane","Grus grus","L57879784","Common Crane lookout","2026-01-31 10:45",1,35.0766047,-106.0077852,TRUE,TRUE,TRUE,"S297333189"
+"8","comcra","Common Crane","Grus grus","L57867950","1301–1353 Dinkle Rd, Stanley US-NM (35.0845,-106.0102)","2026-01-31 10:35",1,35.084474,-106.010191,TRUE,TRUE,TRUE,"S297277866"
+"9","comcra","Common Crane","Grus grus","L57918186","1368–1386 Dinkle Rd, Stanley US-NM 35.08429, -106.00382","2026-01-31 10:11",1,35.084289,-106.003816,TRUE,TRUE,TRUE,"S297458140"
+"10","comcra","Common Crane","Grus grus","L57860313","1335 Dinkle Road, New Mexico, US (35.084, -106.009)","2026-01-31 09:37",1,35.0841859,-106.0092295,TRUE,TRUE,TRUE,"S297241528"
+"11","comcra","Common Crane","Grus grus","L57861247","3356–3390 NM-41, Stanley US-NM 35.08204, -106.00572","2026-01-31 09:21",1,35.082041,-106.005722,TRUE,TRUE,TRUE,"S297246185"
+"12","comcra","Common Crane","Grus grus","L57860085","3356–3390 NM-41, Stanley US-NM 35.08205, -106.00568","2026-01-31 09:01",1,35.082048,-106.005677,TRUE,TRUE,TRUE,"S297240416"
+"13","comcra","Common Crane","Grus grus","L3017128","Dinkle Road - west of Highway 41","2026-01-31 08:25",1,35.0842444,-106.0101383,TRUE,TRUE,TRUE,"S297324072"
+"14","comcra","Common Crane","Grus grus","L57820544","127 Western Rd, Stanley US-NM 35.06987, -105.98526","2026-01-30 11:51",1,35.069868,-105.985262,TRUE,TRUE,TRUE,"S297062727"
+"15","comcra","Common Crane","Grus grus","L57820020","127 Western Rd, Stanley US-NM 35.06988, -105.98550","2026-01-30 11:40",1,35.06988,-105.985497,TRUE,TRUE,TRUE,"S297060468"
+"16","comcra","Common Crane","Grus grus","L57819120","127 Western Rd, Stanley US-NM 35.06983, -105.98497","2026-01-30 11:27",1,35.069831,-105.984971,TRUE,TRUE,TRUE,"S297056433"
+"17","comcra","Common Crane","Grus grus","L57820010","127 Western Rd, Stanley US-NM 35.06986, -105.98526","2026-01-30 11:21",1,35.069861,-105.985261,TRUE,TRUE,TRUE,"S297060420"
+"18","comcra","Common Crane","Grus grus","L57828114","Western Road","2026-01-30 11:12",1,35.0701,-105.9855,TRUE,TRUE,TRUE,"S297098319"
+"19","comcra","Common Crane","Grus grus","L57828082","Western Rd.
+County Road 6A, New Mexico, US (35.07, -105.985)","2026-01-30 11:10",1,35.069872,-105.9851004,TRUE,TRUE,TRUE,"S297096761"
+"20","comcra","Common Crane","Grus grus","L57835228","127 Western Rd, Stanley US-NM 35.06985, -105.98510","2026-01-30 11:03",1,35.06985,-105.985097,TRUE,TRUE,TRUE,"S297128334"
+"21","comcra","Common Crane","Grus grus","L57817895","127 Western Rd, Stanley US-NM 35.06986, -105.98491","2026-01-30 10:48",1,35.06986,-105.984913,TRUE,TRUE,TRUE,"S297050757"
+"22","comcra","Common Crane","Grus grus","L11516732","Western Road Migrant Trap","2026-01-30 10:40",1,35.0726796,-105.992632,TRUE,TRUE,FALSE,"S297075322"
+"23","comcra","Common Crane","Grus grus","L57793890","127 Western Rd, Stanley US-NM 35.06984, -105.98641","2026-01-29 16:16",1,35.069836,-105.986409,TRUE,TRUE,TRUE,"S296938617"
+"24","comcra","Common Crane","Grus grus","L57797236","127 Western Rd, Stanley US-NM (35.0699,-105.9844)","2026-01-29 16:12",1,35.069854,-105.984421,TRUE,TRUE,TRUE,"S296953328"
+"25","comcra","Common Crane","Grus grus","L57792004","127 Western Rd, Stanley US-NM 35.06932, -105.98646","2026-01-29 15:26",1,35.069316,-105.986461,TRUE,TRUE,TRUE,"S296929368"
+"26","comcra","Common Crane","Grus grus","L57790502","Dairy at 127 Western Rd, Stanley","2026-01-29 14:04",1,35.069873,-105.984905,TRUE,TRUE,TRUE,"S296922754"
+"27","comcra","Common Crane","Grus grus","L57789564","127 Western Rd, Stanley US-NM 35.06985, -105.98493","2026-01-29 13:34",1,35.069846,-105.98493,TRUE,TRUE,TRUE,"S296918320"
+"28","comcra","Common Crane","Grus grus","L57788592","127 Western Rd, Stanley US-NM 35.06984, -105.98484","2026-01-29 13:15",1,35.069838,-105.984839,TRUE,TRUE,TRUE,"S296913837"
+"29","comcra","Common Crane","Grus grus","L57781503","1302 Dinkle Road, New Mexico, US (35.084, -106.013)","2026-01-29 09:35",1,35.0841848,-106.0130991,TRUE,TRUE,TRUE,"S296882122"
+"30","comcra","Common Crane","Grus grus","L57760146","3356–3390 NM-41, Stanley US-NM 35.07881, -106.00697","2026-01-28 16:38",1,35.078811,-106.006967,TRUE,TRUE,TRUE,"S296783206"
+"31","comcra","Common Crane","Grus grus","L57764236","127 Western Rd, Stanley US-NM 35.06983, -105.98737","2026-01-28 16:36",1,35.069829,-105.98737,TRUE,TRUE,TRUE,"S296800918"
+"32","comcra","Common Crane","Grus grus","L57792120","Western Road, Santa Fe","2026-01-28 16:35",1,35.0709053,-105.9981105,TRUE,TRUE,TRUE,"S296932058"
+"33","comcra","Common Crane","Grus grus","L57762265","King's Ranch","2026-01-28 16:30",1,35.072603,-105.982494,TRUE,TRUE,TRUE,"S296792982"
+"34","comcra","Common Crane","Grus grus","L57762933","Common Crane Lane","2026-01-28 16:20",1,35.071251,-105.983983,TRUE,TRUE,TRUE,"S296795419"
+"35","comcra","Common Crane","Grus grus","L57757995","1301–1353 Dinkle Rd, Stanley US-NM 35.08427, -106.00739","2026-01-28 15:25",1,35.084273,-106.007386,TRUE,TRUE,TRUE,"S296773066"
+"36","comcra","Common Crane","Grus grus","L57757966","Saw common crane here - in large group","2026-01-28 14:54",1,35.25495,-105.950292,TRUE,TRUE,TRUE,"S296772920"
+"37","comcra","Common Crane","Grus grus","L57754661","3356–3390 NM-41, Stanley US-NM 35.08087, -106.00612","2026-01-28 11:57",1,35.080875,-106.006124,TRUE,TRUE,TRUE,"S296757782"
+"38","comcra","Common Crane","Grus grus","L57750783","3356–3390 NM-41, Stanley US-NM 35.08046, -106.00633","2026-01-28 11:37",1,35.080463,-106.006334,TRUE,TRUE,TRUE,"S296740223"
+"39","comcra","Common Crane","Grus grus","L57757311","Common crane stakeout","2026-01-28 11:30",1,35.0803996,-106.0067095,TRUE,TRUE,TRUE,"S296770627"
+"40","comcra","Common Crane","Grus grus","L57763415","1337 Dinkle Road, New Mexico, US (35.084, -106.009)","2026-01-28 10:04",1,35.0842472,-106.0087531,TRUE,TRUE,TRUE,"S296798544"
+"41","comcra","Common Crane","Grus grus","L57788265","Common Crane spot","2026-01-28 09:30",1,35.0844256,-106.0108306,TRUE,TRUE,TRUE,"S296913321"
+"42","comcra","Common Crane","Grus grus","L57696848","3344–3354 NM-41, Stanley US-NM 35.07715, -106.00764","2026-01-26 15:20",1,35.077154,-106.007644,TRUE,TRUE,TRUE,"S296473107"
+"43","comcra","Common Crane","Grus grus","L57701429","3344–3354 NM-41, Stanley US-NM 35.07707, -106.00769","2026-01-26 15:16",1,35.077069,-106.007692,TRUE,TRUE,TRUE,"S296494259"
+"44","comcra","Common Crane","Grus grus","L57696591","3344–3354 NM-41, Stanley US-NM 35.07702, -106.00770","2026-01-26 14:53",1,35.077023,-106.007701,TRUE,TRUE,TRUE,"S296471896"
+"45","comcra","Common Crane","Grus grus","L57703867","Common Crane, Shiver Ranch New Mexico 41, New Mexico, US (35.078, -106.007)","2026-01-26 13:55",1,35.0782772,-106.0071294,TRUE,TRUE,TRUE,"S296505173"
+"46","comcra","Common Crane","Grus grus","L57918029","3354–3356 NM-41, Stanley US-NM 35.07771, -106.00764","2026-01-26 13:31",1,35.077714,-106.007639,TRUE,TRUE,TRUE,"S297457368"
+"47","comcra","Common Crane","Grus grus","L57696077","Moriarty, NM - Shiver Ranch","2026-01-26 13:15",1,35.0770227,-106.0076714,TRUE,TRUE,TRUE,"S296469319"
+"48","comcra","Common Crane","Grus grus","L57696421","1310 Dinkle Road, New Mexico, US (35.084, -106.013)","2026-01-26 13:05",1,35.0841894,-106.0128741,TRUE,TRUE,TRUE,"S296471055"
+"49","comcra","Common Crane","Grus grus","L10414736","Dinkle Rd. south of Stanley","2026-01-26 12:36",1,35.0846652,-106.0097278,TRUE,TRUE,TRUE,"S296487636"
+"50","comcra","Common Crane","Grus grus","L57693138","3344–3354 NM-41, Stanley US-NM 35.07752, -106.00749","2026-01-26 11:45",1,35.077516,-106.007495,TRUE,TRUE,TRUE,"S296455060"
+"51","comcra","Common Crane","Grus grus","L54659831","Dinkle Rd and Hwy 41","2026-01-26 10:49",1,35.0842884,-106.0054151,TRUE,TRUE,TRUE,"S296434453"
+"52","comcra","Common Crane","Grus grus","L57696660","87056, Stanley US-NM (35.0796,-106.0121)","2026-01-26 10:26",1,35.079625,-106.012059,TRUE,TRUE,TRUE,"S296472266"
+"53","comcra","Common Crane","Grus grus","L57687996","3356–3390 NM-41, Stanley US-NM 35.08018, -106.00633","2026-01-26 10:20",1,35.080182,-106.006326,TRUE,TRUE,TRUE,"S296429005"
+"54","comcra","Common Crane","Grus grus","L57691340","3356–3390 NM-41, Stanley US-NM 35.08014, -106.00639","2026-01-26 10:08",1,35.080141,-106.006386,TRUE,TRUE,TRUE,"S296447309"
+"55","comcra","Common Crane","Grus grus","L57688468","3356–3390 NM-41, Stanley US-NM (35.0801,-106.0064)","2026-01-26 09:59",1,35.080099,-106.006393,TRUE,TRUE,TRUE,"S296431512"
+"56","comcra","Common Crane","Grus grus","L57689564","Dinkle Rd. fields","2026-01-26 08:27",1,35.084171,-106.023146,TRUE,TRUE,TRUE,"S296438019"
+"57","comcra","Common Crane","Grus grus","L57667243","65 CR-4B, Stanley","2026-01-25 13:49",1,35.05532,-106.001745,TRUE,TRUE,TRUE,"S296321563"
