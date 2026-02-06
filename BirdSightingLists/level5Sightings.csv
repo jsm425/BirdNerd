@@ -1,3 +1,4 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","tropar","Tropical Parula","Setophaga pitiayumi","L278450","UTRGV Brownsville (campus & resacas)","2026-02-01 09:15",1,25.8954255,-97.4872156,TRUE,TRUE,FALSE,"S297536048"
-"2","tropar","Tropical Parula","Setophaga pitiayumi","L421038","McAllen Nature Center (LTC 065)","2026-01-29 16:22",1,26.2082122,-98.2659218,TRUE,TRUE,FALSE,"S296935690"
+"1","buthum","Blue-throated Mountain-gem","Lampornis clemenciae","L3642537","Portal--Jasper/Moisan feeders (opened 2015)","2026-02-02 15:19",1,31.9144645,-109.1443118,TRUE,FALSE,FALSE,"S297799606"
+"2","buthum","Blue-throated Mountain-gem","Lampornis clemenciae","L324045","Portal--Cave Creek Ranch","2026-02-02 13:25",1,31.9041957,-109.1561556,TRUE,FALSE,FALSE,"S297807854"
+"3","buthum","Blue-throated Mountain-gem","Lampornis clemenciae","L129060","Portal","2026-02-02 07:27",1,31.9136009,-109.1408005,TRUE,FALSE,FALSE,"S297807483"
