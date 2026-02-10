@@ -1,2 +1,4 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","refcor","Red-faced Cormorant","Urile urile","L270792","Shemya Island--Eareckson AS (restricted access)","2026-02-02 18:01",3,52.7207244,174.1123276,TRUE,FALSE,FALSE,"S297937183"
+"1","mckbun","McKay's Bunting","Plectrophenax hyperboreus","L4017898","NE Icy View","2026-02-09 10:10",24,64.5220727,-165.369215,TRUE,FALSE,TRUE,"S299209053"
+"2","mckbun","McKay's Bunting","Plectrophenax hyperboreus","L4004485","Nome (town)","2026-02-05 09:41",7,64.5010632,-165.4081392,TRUE,FALSE,FALSE,"S298273941"
+"3","mckbun","McKay's Bunting","Plectrophenax hyperboreus","L1785874","Kenai Flats - Kenai Senior Center Overlook (Spur View Drive)","2026-01-31 15:30",1,60.5531063,-151.2419976,TRUE,TRUE,TRUE,"S297366782"

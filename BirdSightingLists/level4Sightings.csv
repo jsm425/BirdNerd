@@ -1,50 +1,35 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","ridrai1","Ridgway's Rail","Rallus obsoletus","L11020736","MLK Jr. Regional Shoreline--New Marsh/San Leandro Creek","2026-02-08 13:15",5,37.7370688,-122.2036665,TRUE,FALSE,FALSE,"S299027471"
-"2","ridrai1","Ridgway's Rail","Rallus obsoletus","L164929","Bolsa Chica Ecological Reserve","2026-02-08 09:26",1,33.7026531,-118.050735,TRUE,FALSE,FALSE,"S299031899"
-"3","ridrai1","Ridgway's Rail","Rallus obsoletus","L3239468","Tijuana Slough NWR--Visitor Center/North McCoy Trail","2026-02-08 09:14",1,32.5748894,-117.1259087,TRUE,FALSE,FALSE,"S298952292"
-"4","ridrai1","Ridgway's Rail","Rallus obsoletus","L161083","MLK Jr. Regional Shoreline--Arrowhead Marsh","2026-02-08 08:36",2,37.7421628,-122.2112274,TRUE,FALSE,FALSE,"S298966441"
-"5","ridrai1","Ridgway's Rail","Rallus obsoletus","L1165694","Bolsa Chica--walkbridge/inner bay","2026-02-08 08:14",1,33.6965128,-118.0451372,TRUE,FALSE,FALSE,"S299020975"
-"6","ridrai1","Ridgway's Rail","Rallus obsoletus","L58200155","Larkspur Ferry Terminal, Larkspur US-CA 37.94460, -122.50892","2026-02-07 17:36",1,37.944596,-122.508919,TRUE,FALSE,TRUE,"S298754411"
-"7","ridrai1","Ridgway's Rail","Rallus obsoletus","L989047","South Richmond Marshes (Stege, Hoffman) and Meeker Slough","2026-02-07 16:33",2,37.9090901,-122.3329122,TRUE,FALSE,FALSE,"S298752663"
-"8","ridrai1","Ridgway's Rail","Rallus obsoletus","L58176471","256 Sears Point Rd, Petaluma US-CA (38.1190,-122.4979)","2026-02-07 08:44",1,38.118999,-122.497939,TRUE,FALSE,TRUE,"S298651727"
-"9","ridrai1","Ridgway's Rail","Rallus obsoletus","L500123","Upper Newport Bay Nature Preserve--Muth Interpretive Center area","2026-02-07 06:48",4,33.6529275,-117.8849691,TRUE,FALSE,FALSE,"S298625258"
-"10","ridrai1","Ridgway's Rail","Rallus obsoletus","L761141","San Elijo Lagoon--west","2026-02-06 10:06",1,33.0084139,-117.271476,TRUE,FALSE,FALSE,"S298450248"
-"11","ridrai1","Ridgway's Rail","Rallus obsoletus","L3141735","Pond A6: Knapp Tract","2026-02-05 15:51",NA,37.4551,-122.02423,TRUE,FALSE,TRUE,"S298436891"
-"12","ridrai1","Ridgway's Rail","Rallus obsoletus","L16557643","Corte Madera Marsh—SW Uplands (Dusky Warbler, 2021)","2026-02-05 08:13",2,37.9244394,-122.5085707,TRUE,FALSE,FALSE,"S298317452"
-"13","ridrai1","Ridgway's Rail","Rallus obsoletus","L207664","Las Gallinas Valley Sanitary District","2026-02-05 08:06",1,38.0274109,-122.515583,TRUE,FALSE,FALSE,"S298271376"
-"14","ridrai1","Ridgway's Rail","Rallus obsoletus","L296043","Alviso Marina County Park (please use a specific pond hotspot where possible)","2026-02-04 14:26",2,37.4298703,-121.9793612,TRUE,FALSE,FALSE,"S298165633"
-"15","ridrai1","Ridgway's Rail","Rallus obsoletus","L58129396","Fan Marsh","2026-02-03 16:54",NA,37.7443509,-122.2216897,TRUE,FALSE,TRUE,"S298436861"
-"16","ridrai1","Ridgway's Rail","Rallus obsoletus","L8494902","MLK/New Marsh (37.739, -122.208)","2026-02-03 15:33",12,37.7390984,-122.2079068,TRUE,FALSE,TRUE,"S297962209"
-"17","ridrai1","Ridgway's Rail","Rallus obsoletus","L451055","Sorrento Valley Ponds","2026-02-03 09:24",2,32.922513,-117.2393265,TRUE,FALSE,FALSE,"S297902837"
-"18","ridrai1","Ridgway's Rail","Rallus obsoletus","L8202655","MLK Jr. Shoreline Regional Shoreline--Garretson Pt. Trail","2026-02-03 09:10",5,37.7436488,-122.2073432,TRUE,FALSE,FALSE,"S297920958"
-"19","ridrai1","Ridgway's Rail","Rallus obsoletus","L506275","San Diego River mudflats (including Robb Field & north side)","2026-02-03 06:45",2,32.7568803,-117.2401432,TRUE,FALSE,FALSE,"S297895285"
-"20","ridrai1","Ridgway's Rail","Rallus obsoletus","L213889","San Pablo Bay NWR--Lower Tubbs Island","2026-02-02 16:10",NA,38.1238215,-122.4386358,TRUE,FALSE,FALSE,"S297962170"
-"21","ridrai1","Ridgway's Rail","Rallus obsoletus","L2402250","MLK Jr. Regional Shoreline","2026-02-02 12:29",2,37.7318068,-122.2070861,TRUE,FALSE,FALSE,"S297767802"
-"22","ridrai1","Ridgway's Rail","Rallus obsoletus","L1028225","Agua Hedionda Lagoon--Bayshore Drive","2026-02-02 12:26",1,33.1423795,-117.3212586,TRUE,FALSE,FALSE,"S297758963"
-"23","ridrai1","Ridgway's Rail","Rallus obsoletus","L57981609","275 Sears Point Rd, Petaluma US-CA (38.1161,-122.5039)","2026-02-02 11:30",3,38.116108,-122.503899,TRUE,FALSE,TRUE,"S297763814"
-"24","ridrai1","Ridgway's Rail","Rallus obsoletus","L1421670","San Pablo Bay NWR - Reclamation  Rd.","2026-02-02 10:25",1,38.1292984,-122.4723909,TRUE,FALSE,FALSE,"S297748012"
-"25","ridrai1","Ridgway's Rail","Rallus obsoletus","L716932","Upper Otay Reservoir ","2026-02-02 09:09",1,32.6506602,-116.934349,TRUE,TRUE,FALSE,"S297727870"
-"26","ridrai1","Ridgway's Rail","Rallus obsoletus","L989640","Hudeman Slough Wetlands (formerly Hudeman Slough)","2026-02-01 16:37",1,38.2203803,-122.3933011,TRUE,FALSE,FALSE,"S297636956"
-"27","ridrai1","Ridgway's Rail","Rallus obsoletus","L2686651","San Francisco Bay Trail--San Rafael","2026-02-01 13:46",1,37.9529813,-122.4887636,TRUE,FALSE,FALSE,"S297744445"
-"28","ridrai1","Ridgway's Rail","Rallus obsoletus","L418748","Seacoast Drive to Tijuana River mouth","2026-02-01 12:11",2,32.5665347,-117.1322003,TRUE,FALSE,FALSE,"S297573868"
-"29","ridrai1","Ridgway's Rail","Rallus obsoletus","L58007690","san francisco bay trail san rafael","2026-02-01 12:00",1,37.9507756,-122.4901184,TRUE,FALSE,TRUE,"S297892598"
-"30","ridrai1","Ridgway's Rail","Rallus obsoletus","L152122","Palo Alto Baylands","2026-02-01 09:29",1,37.459167,-122.10445,TRUE,FALSE,FALSE,"S297541978"
-"31","ridrai1","Ridgway's Rail","Rallus obsoletus","L577740","San Elijo Lagoon--east","2026-02-01 08:59",4,33.0108355,-117.2505125,TRUE,FALSE,FALSE,"S297525189"
-"32","ridrai1","Ridgway's Rail","Rallus obsoletus","L28904213","TRNEE","2026-02-01 08:28",2,32.5702753,-117.1272907,TRUE,FALSE,TRUE,"S297594790"
-"33","ridrai1","Ridgway's Rail","Rallus obsoletus","L57936009","Huntington Central Park, Huntington Beach US-CA 33.70354, -118.00477","2026-02-01 08:24",1,33.703544,-118.004768,TRUE,FALSE,TRUE,"S297545654"
-"34","ridrai1","Ridgway's Rail","Rallus obsoletus","L724385","San Dieguito Lagoon--northeast","2026-02-01 07:24",2,32.9780447,-117.2469413,TRUE,FALSE,FALSE,"S297556888"
-"35","ridrai1","Ridgway's Rail","Rallus obsoletus","L3004961","Clark County Wetlands Park--Pabco Area","2026-02-01 07:13",1,36.0877316,-114.9838436,TRUE,TRUE,FALSE,"S297779056"
-"36","ridrai1","Ridgway's Rail","Rallus obsoletus","L385867","Salton Sea NWR--Unit 1 (no public access north of observation deck)","2026-01-31 16:08",1,33.0826963,-115.7097244,TRUE,FALSE,FALSE,"S297347609"
-"37","ridrai1","Ridgway's Rail","Rallus obsoletus","L828021","Port Sonoma","2026-01-31 15:21",1,38.1145705,-122.495842,TRUE,FALSE,FALSE,"S297983952"
-"38","ridrai1","Ridgway's Rail","Rallus obsoletus","L673436","Sonny Bono Salton Sea NWR--Union Tract / Visitor Center","2026-01-31 14:34",3,33.1774666,-115.6150961,TRUE,FALSE,FALSE,"S297347018"
-"39","ridrai1","Ridgway's Rail","Rallus obsoletus","L2507932","Port Sonoma River View","2026-01-31 12:29",1,38.1160646,-122.5037974,TRUE,FALSE,TRUE,"S297305492"
-"40","ridrai1","Ridgway's Rail","Rallus obsoletus","L986378","Sonny Bono Salton Sea NWR--Vendel Rd.","2026-01-31 11:11",1,33.0757606,-115.7096225,TRUE,FALSE,FALSE,"S297295767"
-"41","ridrai1","Ridgway's Rail","Rallus obsoletus","L57898767","West Schrimpf Road, Calipatria, California, US (33.2, -115.537)","2026-01-31 08:44",1,33.1996942,-115.5372693,TRUE,FALSE,TRUE,"S297368448"
-"42","ridrai1","Ridgway's Rail","Rallus obsoletus","L10699234","Martin Luther King Jr. Regional Shoreline, Oakland US-CA 37.74211, -122.20880","2026-01-31 08:36",4,37.742113,-122.208804,TRUE,FALSE,TRUE,"S298415721"
-"43","ridrai1","Ridgway's Rail","Rallus obsoletus","L232858","Byxbee Park","2026-01-31 08:00",1,37.4510644,-122.1055913,TRUE,FALSE,FALSE,"S297355815"
-"44","ridrai1","Ridgway's Rail","Rallus obsoletus","L275798","Salton Sea--Lack Rd. at Lindsey Rd","2026-01-31 08:00",1,33.1474887,-115.6479886,TRUE,FALSE,FALSE,"S297476524"
-"45","ridrai1","Ridgway's Rail","Rallus obsoletus","L813476","Bolsa Chica SB","2026-01-30 16:33",1,33.7052492,-118.0578806,TRUE,FALSE,FALSE,"S297114820"
-"46","ridrai1","Ridgway's Rail","Rallus obsoletus","L8032605","San Francisco Bay Trail--Heron Bay","2026-01-30 10:30",3,37.6816321,-122.1664202,TRUE,FALSE,FALSE,"S297119645"
-"47","ridrai1","Ridgway's Rail","Rallus obsoletus","L57819842","San Pablo Bay National Wildlife Refuge, Petaluma US-CA 38.12780, -122.47148","2026-01-30 09:18",1,38.127799,-122.471476,TRUE,FALSE,TRUE,"S297059708"
-"48","ridrai1","Ridgway's Rail","Rallus obsoletus","L1346833","Upper Newport Bay--boardwalk","2026-01-30 07:05",5,33.6521463,-117.8818611,TRUE,FALSE,FALSE,"S297097187"
-"49","ridrai1","Ridgway's Rail","Rallus obsoletus","L57835484","Upper Newport Bay Nature Preserve, Newport Beach US-CA 33.64531, -117.87135","2026-01-30 06:35",1,33.645313,-117.871352,TRUE,FALSE,TRUE,"S297129286"
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
+"1","calcon","California Condor","Gymnogyps californianus","L854917","Pinnacles NP--Bear Gulch Reservoir","2026-02-08 17:18",2,36.4723052,-121.187911,TRUE,FALSE,FALSE,"S299067265",NA
+"2","calcon","California Condor","Gymnogyps californianus","L43716330","Ridge Route Road--Forest Rte 8no4 pullout","2026-02-08 11:58",10,34.5725553,-118.6649781,TRUE,TRUE,FALSE,"S298991195",NA
+"3","calcon","California Condor","Gymnogyps californianus","L302299","Pinnacles NP","2026-02-08 11:20",14,36.4891359,-121.1843199,TRUE,FALSE,FALSE,"S299039515",NA
+"4","calcon","California Condor","Gymnogyps californianus","L48170632","Julia Pfeiffer Burns SP--interior, includes Ewoldsen Trail & Waters Ridge Trail","2026-02-08 10:09",1,36.1617884,-121.6661021,TRUE,FALSE,FALSE,"S299031179",NA
+"5","calcon","California Condor","Gymnogyps californianus","L3771948","Zion NP--East Mesa Trail","2026-02-07 14:59",2,37.2965451,-112.9179096,TRUE,FALSE,FALSE,"S298768443",NA
+"6","calcon","California Condor","Gymnogyps californianus","L1053553","Pinnacles NP--Condor Gulch Trail","2026-02-07 13:22",1,36.4855387,-121.1927605,TRUE,FALSE,FALSE,"S298765773",NA
+"7","calcon","California Condor","Gymnogyps californianus","L58193754","Condor Gulch Trail, Paicines US-CA 36.48151, -121.18156","2026-02-07 11:18",4,36.481513,-121.18156,TRUE,FALSE,TRUE,"S298726389",NA
+"8","calcon","California Condor","Gymnogyps californianus","L479492","Big Sur coast--Grimes Pt.","2026-02-07 10:18",1,36.2055508,-121.7354894,TRUE,FALSE,FALSE,"S298683071",NA
+"9","calcon","California Condor","Gymnogyps californianus","L716144","Big Sur coast--Sea-lion Beach (""Condor overlook"")","2026-02-07 10:02",1,36.2019418,-121.7289214,TRUE,FALSE,FALSE,"S298717478",NA
+"10","calcon","California Condor","Gymnogyps californianus","L58183403","Ridge Route--North of Templin Hwy (CA Atlas--Whitaker Peak CE)","2026-02-07 09:56",1,34.5790857,-118.6729036,TRUE,TRUE,TRUE,"S298682702",NA
+"11","calcon","California Condor","Gymnogyps californianus","L10890520","Pinnacles NP--South Wilderness Trail","2026-02-07 09:39",1,36.4676123,-121.1546141,TRUE,FALSE,FALSE,"S299232879",NA
+"12","calcon","California Condor","Gymnogyps californianus","L631087","Lake Piru","2026-02-07 08:31",3,34.4703904,-118.7528085,TRUE,FALSE,FALSE,"S298708567",NA
+"13","calcon","California Condor","Gymnogyps californianus","L794297","Pinnacles NP--Balconies Caves Trail","2026-02-06 13:01",2,36.4988786,-121.2025259,TRUE,FALSE,FALSE,"S299058781",NA
+"14","calcon","California Condor","Gymnogyps californianus","L653647","Redwood NP--Childs Hill Prairie","2026-02-06 12:50",10,41.1705783,-123.9202881,TRUE,TRUE,FALSE,"S298492953","P"
+"15","calcon","California Condor","Gymnogyps californianus","L58189700","36800–36808 Old Ridge Route Rd, Castaic US-CA 34.57938, -118.67216","2026-02-06 11:51",1,34.579376,-118.67216,TRUE,TRUE,TRUE,"S298709282",NA
+"16","calcon","California Condor","Gymnogyps californianus","L13927858","Zion NP--Sand Bench Trail Loop","2026-02-06 11:35",2,37.2308403,-112.971299,TRUE,FALSE,FALSE,"S299169390",NA
+"17","calcon","California Condor","Gymnogyps californianus","L5655832","Zion NP--Big Bend","2026-02-05 16:51",1,37.2733015,-112.9457617,TRUE,FALSE,FALSE,"S298320002",NA
+"18","calcon","California Condor","Gymnogyps californianus","L43156547","Old Ridge Route Rd, north of Templin Hwy","2026-02-04 11:18",1,34.579205,-118.672163,TRUE,TRUE,TRUE,"S298115544",NA
+"19","calcon","California Condor","Gymnogyps californianus","L821559","Glen Canyon NRA--Navajo Bridge","2026-02-03 13:04",9,36.817626,-111.6312477,TRUE,FALSE,FALSE,"S297924147",NA
+"20","calcon","California Condor","Gymnogyps californianus","L58014139","Old Ridge Route Rd and Templin Hwy intersection","2026-02-03 12:03",12,34.576529,-118.671229,TRUE,TRUE,TRUE,"S297921539",NA
+"21","calcon","California Condor","Gymnogyps californianus","L2934827","Bitter Creek NWR--sign overlook","2026-02-03 11:52",6,34.9041594,-119.3766595,TRUE,FALSE,FALSE,"S297983964",NA
+"22","calcon","California Condor","Gymnogyps californianus","L140673","Zion NP","2026-02-03 11:16",1,37.2285636,-112.9654984,TRUE,FALSE,FALSE,"S297959551",NA
+"23","calcon","California Condor","Gymnogyps californianus","L449534","Zion NP--Lava Point (NO Blue Springs Reservoir birds)","2026-02-03 09:45",1,37.383304,-113.0295539,TRUE,FALSE,FALSE,"S297971448",NA
+"24","calcon","California Condor","Gymnogyps californianus","L57989510","Pinnacles National Park, Paicines US-CA 36.50071, -121.12219","2026-02-02 12:49",2,36.500705,-121.12219,TRUE,FALSE,TRUE,"S297802521",NA
+"25","calcon","California Condor","Gymnogyps californianus","L30516675","Grassy Canyon, Pinnacles National Park,  NO PUBLIC ACCESS","2026-02-02 10:13",4,36.475669,-121.149566,TRUE,FALSE,TRUE,"S297977631",NA
+"26","calcon","California Condor","Gymnogyps californianus","L2427823","Pinnacles NP--Visitor Center","2026-02-02 10:11",1,36.4937287,-121.1462805,TRUE,FALSE,FALSE,"S297737857",NA
+"27","calcon","California Condor","Gymnogyps californianus","L832828","Pinnacles NP--Bear Gulch Trail","2026-02-02 10:01",1,36.4777231,-121.1852074,TRUE,FALSE,FALSE,"S297792617",NA
+"28","calcon","California Condor","Gymnogyps californianus","L9199267","Bitter Creek NWR","2026-02-01 14:45",4,34.9303119,-119.3959547,TRUE,FALSE,FALSE,"S297599768",NA
+"29","calcon","California Condor","Gymnogyps californianus","L5373632","Garrapata SP south coast (Granite Canyon to Garrapata Creek bridge)","2026-02-01 14:33",1,36.4218597,-121.9136786,TRUE,FALSE,FALSE,"S297621815",NA
+"30","calcon","California Condor","Gymnogyps californianus","L58005136","Navajo Bridge, Marble Canyon US-AZ (36.8168,-111.6324)","2026-02-01 11:15",2,36.816767,-111.632417,TRUE,FALSE,TRUE,"S297877652",NA
+"31","calcon","California Condor","Gymnogyps californianus","L832838","Pinnacles NP--campground","2026-01-31 14:14",1,36.4908694,-121.1476135,TRUE,FALSE,FALSE,"S297317478",NA
+"32","calcon","California Condor","Gymnogyps californianus","L595412","Bald Hills Rd. (general)","2026-01-31 13:18",3,41.1899929,-123.9324114,TRUE,TRUE,FALSE,"S297731051","P"
+"33","calcon","California Condor","Gymnogyps californianus","L2299857","Pinnacles NP--Bear Gulch Nature Center","2026-01-31 12:57",2,36.4814632,-121.1807306,TRUE,FALSE,FALSE,"S297353869",NA
+"34","calcon","California Condor","Gymnogyps californianus","L57867543","120248–120420 US-101, Trinidad US-CA 41.28457, -124.06832","2026-01-31 10:56",1,41.284572,-124.06832,TRUE,TRUE,TRUE,"S297276114","P"
