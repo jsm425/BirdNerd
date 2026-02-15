@@ -1,2 +1,6 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","x00414","Greater White-fronted x Cackling Goose (hybrid)","Anser albifrons x Branta hutchinsii","L58376102","8639–8687 NW Erwin O Reiger Memorial Hwy, Vancouver US-WA 45.69367, -122.73760","2026-02-11 09:30",2,45.693675,-122.737601,TRUE,TRUE,TRUE,"S299626225"
+"1","brtcur","Bristle-thighed Curlew","Numenius tahitiensis","L389631","James Campbell NWR--Kii Unit","2026-02-14 08:02",15,21.687,-157.9531,TRUE,FALSE,FALSE,"S300633266"
+"2","brtcur","Bristle-thighed Curlew","Numenius tahitiensis","L1127546","Ala Moana Park and State Recreation Area","2026-02-13 09:33",1,21.2894543,-157.8464985,TRUE,FALSE,FALSE,"S300238448"
+"3","brtcur","Bristle-thighed Curlew","Numenius tahitiensis","L1076157","Kahuku Golf Course and Pasture","2026-02-12 07:54",5,21.6810297,-157.9448315,TRUE,FALSE,FALSE,"S299782093"
+"4","brtcur","Bristle-thighed Curlew","Numenius tahitiensis","L10708325","Mauna Lani--South Golf Courses (restricted access)","2026-02-10 14:36",2,19.93893,-155.8671355,TRUE,FALSE,FALSE,"S299469739"
+"5","brtcur","Bristle-thighed Curlew","Numenius tahitiensis","L1043861","Nu'upia Ponds WMA - Marine Corps Base Hawaii","2026-02-06 14:45",1,21.4331362,-157.7493167,TRUE,FALSE,FALSE,"S298535857"
