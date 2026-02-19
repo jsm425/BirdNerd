@@ -1,5 +1,4 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","whcsee1","Morelet's Seedeater","Sporophila morelleti","L129086","Santa Margarita Ranch (LTC 079) (restricted access - guided groups only)","2026-02-17 06:53",2,26.4856177,-99.0912337,TRUE,FALSE,FALSE,"S301836907"
-"2","whcsee1","Morelet's Seedeater","Sporophila morelleti","L2710619","Bravo Park, Zapata","2026-02-14 07:48",2,26.9013555,-99.2699178,TRUE,FALSE,FALSE,"S300427457"
-"3","whcsee1","Morelet's Seedeater","Sporophila morelleti","L129075","Salineño Wildlife Preserve (LTC 080)","2026-02-13 06:57",3,26.5148584,-99.1162062,TRUE,FALSE,FALSE,"S300445602"
-"4","whcsee1","Morelet's Seedeater","Sporophila morelleti","L3715748","Max A Mandel Golf Course","2026-02-10 19:56",1,27.660146,-99.66685,TRUE,FALSE,FALSE,"S299456884"
+"1","banswa","Bank Swallow","Riparia riparia","L350281","El Rio Preserve","2026-02-18 07:16",1,32.392141,-111.1384898,TRUE,TRUE,FALSE,"S302061389"
+"2","banswa","Bank Swallow","Riparia riparia","L129075","Salineño Wildlife Preserve (LTC 080)","2026-02-13 06:57",1,26.5148584,-99.1162062,TRUE,TRUE,FALSE,"S300445602"
+"3","banswa","Bank Swallow","Riparia riparia","L461291","Calipatria Algae Farm","2026-02-09 08:10",2,33.1660794,-115.5120564,TRUE,TRUE,FALSE,"S299166509"
