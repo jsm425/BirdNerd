@@ -1,4 +1,2 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","banswa","Bank Swallow","Riparia riparia","L350281","El Rio Preserve","2026-02-18 07:16",1,32.392141,-111.1384898,TRUE,TRUE,FALSE,"S302061389"
-"2","banswa","Bank Swallow","Riparia riparia","L129075","Salineño Wildlife Preserve (LTC 080)","2026-02-13 06:57",1,26.5148584,-99.1162062,TRUE,TRUE,FALSE,"S300445602"
-"3","banswa","Bank Swallow","Riparia riparia","L461291","Calipatria Algae Farm","2026-02-09 08:10",2,33.1660794,-115.5120564,TRUE,TRUE,FALSE,"S299166509"
+"1","swathr","Swainson's Thrush","Catharus ustulatus","L6487085","Encinitas Community Park","2026-02-18 16:36",1,33.0321309,-117.2807693,TRUE,TRUE,FALSE,"S302093349"
