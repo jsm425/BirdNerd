@@ -1,2 +1,6 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","swathr","Swainson's Thrush","Catharus ustulatus","L6487085","Encinitas Community Park","2026-02-18 16:36",1,33.0321309,-117.2807693,TRUE,TRUE,FALSE,"S302093349"
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
+"1","blkswa","Black Swan","Cygnus atratus","L1314027","Lake Morton","2026-02-18 12:45",8,28.0375919,-81.9539738,TRUE,FALSE,FALSE,"S302009825","X"
+"2","blkswa","Black Swan","Cygnus atratus","L21539551","Ko’ Olina Golf Club","2026-02-17 07:59",3,21.3398945,-158.1191892,TRUE,TRUE,FALSE,"S302056061","X"
+"3","blkswa","Black Swan","Cygnus atratus","L209171","Lake San Marcos","2026-02-16 09:35",2,33.1236649,-117.207616,TRUE,FALSE,FALSE,"S301734712","X"
+"4","blkswa","Black Swan","Cygnus atratus","L6699876","Freedom Square Pond","2026-02-15 12:25",1,27.8431913,-82.7892646,TRUE,TRUE,TRUE,"S301492083","X"
+"5","blkswa","Black Swan","Cygnus atratus","L23974316","Grand Hyatt Resort","2026-02-12 17:16",1,21.8763094,-159.4393283,TRUE,TRUE,FALSE,"S299872160","X"
