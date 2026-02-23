@@ -1,4 +1,4 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","babwar","Bay-breasted Warbler","Setophaga castanea","L1833731","Cabrillo Heights Park","2026-02-20 11:00",1,32.805389,-117.1487589,TRUE,TRUE,FALSE,"S302497371"
-"2","babwar","Bay-breasted Warbler","Setophaga castanea","L831447","Leon Avenue & Berry Park","2026-02-20 08:00",1,32.5664983,-117.0887044,TRUE,TRUE,FALSE,"S302496301"
-"3","babwar","Bay-breasted Warbler","Setophaga castanea","L58295361","Mountain Vista Trailhead","2026-02-19 14:53",1,33.4875959,-111.7012418,TRUE,TRUE,FALSE,"S302295551"
+"1","manshe","Manx Shearwater","Puffinus puffinus","L1398808","Nags Head--Jennette's Pier","2026-02-20 11:29",1,35.9100819,-75.5955505,TRUE,FALSE,FALSE,"S302483820"
+"2","manshe","Manx Shearwater","Puffinus puffinus","L10719823","Oregon Inlet--Winter Pelagic","2026-02-19 12:32",2,35.702628,-75.131308,TRUE,FALSE,FALSE,"S302470669"
+"3","manshe","Manx Shearwater","Puffinus puffinus","L58773468","Charleston 60 Reef","2026-02-17 10:32",2,31.86036,-78.81319,TRUE,FALSE,TRUE,"S301842491"
