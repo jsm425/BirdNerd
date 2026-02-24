@@ -1,4 +1,2 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","manshe","Manx Shearwater","Puffinus puffinus","L1398808","Nags Head--Jennette's Pier","2026-02-20 11:29",1,35.9100819,-75.5955505,TRUE,FALSE,FALSE,"S302483820"
-"2","manshe","Manx Shearwater","Puffinus puffinus","L10719823","Oregon Inlet--Winter Pelagic","2026-02-19 12:32",2,35.702628,-75.131308,TRUE,FALSE,FALSE,"S302470669"
-"3","manshe","Manx Shearwater","Puffinus puffinus","L58773468","Charleston 60 Reef","2026-02-17 10:32",2,31.86036,-78.81319,TRUE,FALSE,TRUE,"S301842491"
+"1","kauama","Kauai Amakihi","Chlorodrepanis stejnegeri","L1427137","Pihea Trail--Kalalau Rim","2026-02-17 15:56",1,22.150861,-159.6221217,TRUE,FALSE,FALSE,"S301880332"
