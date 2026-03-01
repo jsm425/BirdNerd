@@ -1,2 +1,4 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","fisspa","Five-striped Sparrow","Amphispizopsis quinquestriata","L1070018","Rock Corral Canyon","2026-02-27 07:25",2,31.547472,-111.0989535,TRUE,TRUE,FALSE,"S304342375"
+"1","swawar","Swainson's Warbler","Limnothlypis swainsonii","L127446","Key West Tropical Forest & Botanical Gardens","2026-02-26 11:14",1,24.5734,-81.7496,TRUE,TRUE,FALSE,"S304055307"
+"2","swawar","Swainson's Warbler","Limnothlypis swainsonii","L59138233","Key West Trop. Forest","2026-02-24 13:30",1,24.573108,-81.748498,TRUE,TRUE,TRUE,"S303584477"
+"3","swawar","Swainson's Warbler","Limnothlypis swainsonii","L7815797","Everglades NP--Mosier Hammock Trail","2026-02-21 11:39",1,25.4005249,-80.6603042,TRUE,TRUE,FALSE,"S302760322"
