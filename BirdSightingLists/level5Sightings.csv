@@ -1,2 +1,5 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","x00682","Ring-necked Duck x scaup sp. (hybrid)","Aythya collaris x marila/affinis","L380940","Hollywood Reservoir","2026-02-23 08:30",1,34.1206159,-118.3323669,TRUE,TRUE,FALSE,"S303322727"
+"1","whcsee1","Morelet's Seedeater","Sporophila morelleti","L129075","Salineño Wildlife Preserve (LTC 080)","2026-03-01 09:55",1,26.5148584,-99.1162062,TRUE,FALSE,FALSE,"S305047523"
+"2","whcsee1","Morelet's Seedeater","Sporophila morelleti","L129086","Santa Margarita Ranch (LTC 079) (restricted access - guided groups only)","2026-03-01 07:00",4,26.4856177,-99.0912337,TRUE,TRUE,FALSE,"S305191921"
+"3","whcsee1","Morelet's Seedeater","Sporophila morelleti","L8639754","Canal at FM 1908 and FM 1531","2026-02-28 09:14",2,28.9559759,-100.5962099,TRUE,FALSE,FALSE,"S304653215"
+"4","whcsee1","Morelet's Seedeater","Sporophila morelleti","L4092272","Rincon Del Diablo (near Magnolia and Barron)","2026-02-28 08:57",3,29.350534,-100.8931965,TRUE,FALSE,FALSE,"S304939609"
