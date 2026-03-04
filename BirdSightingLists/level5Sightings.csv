@@ -1,5 +1,4 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","whcsee1","Morelet's Seedeater","Sporophila morelleti","L129075","Salineño Wildlife Preserve (LTC 080)","2026-03-01 09:55",1,26.5148584,-99.1162062,TRUE,FALSE,FALSE,"S305047523"
-"2","whcsee1","Morelet's Seedeater","Sporophila morelleti","L129086","Santa Margarita Ranch (LTC 079) (restricted access - guided groups only)","2026-03-01 07:00",4,26.4856177,-99.0912337,TRUE,TRUE,FALSE,"S305191921"
-"3","whcsee1","Morelet's Seedeater","Sporophila morelleti","L8639754","Canal at FM 1908 and FM 1531","2026-02-28 09:14",2,28.9559759,-100.5962099,TRUE,FALSE,FALSE,"S304653215"
-"4","whcsee1","Morelet's Seedeater","Sporophila morelleti","L4092272","Rincon Del Diablo (near Magnolia and Barron)","2026-02-28 08:57",3,29.350534,-100.8931965,TRUE,FALSE,FALSE,"S304939609"
+"1","shicow","Shiny Cowbird","Molothrus bonariensis","L6866211","Larry’s Place, Homestead (Restricted Access--consider donating seed)","2026-02-28 10:58",6,25.467896,-80.520204,TRUE,TRUE,FALSE,"S304690589"
+"2","shicow","Shiny Cowbird","Molothrus bonariensis","L4478244","Sem-Chi Rice Mill","2026-02-28 07:29",2,26.6668727,-80.4574621,TRUE,TRUE,FALSE,"S304566118"
+"3","shicow","Shiny Cowbird","Molothrus bonariensis","L482563","Everglades NP--Flamingo Campground","2026-02-27 07:51",1,25.13666,-80.9459782,TRUE,TRUE,FALSE,"S304363630"
