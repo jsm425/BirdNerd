@@ -1,2 +1,4 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","bonpet","Bonin Petrel","Pterodroma hypoleuca","L59467447","Auto selected 28.17781, -177.39977","2026-03-01 13:12",5,28.177814,-177.399775,TRUE,FALSE,TRUE,"S305231607"
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
+"1","chbsan","Chestnut-bellied Sandgrouse","Pterocles exustus","L8471220","Waikoloa Skatepark","2026-03-06 15:25",1,19.956208,-155.789264,TRUE,FALSE,FALSE,"S306638270","N"
+"2","chbsan","Chestnut-bellied Sandgrouse","Pterocles exustus","L59460612","Paniolo Ave, Waikoloa US-HI 19.95183, -155.78704","2026-03-01 16:26",1,19.951826,-155.787039,TRUE,FALSE,TRUE,"S305195731","N"
+"3","chbsan","Chestnut-bellied Sandgrouse","Pterocles exustus","L59250305","Hilton Waikoloa Village","2026-02-28 07:45",2,19.9239722,-155.8872414,TRUE,FALSE,TRUE,"S304814466","N"
