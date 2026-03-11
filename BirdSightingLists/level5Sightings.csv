@@ -1,2 +1,5 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","x00424","Bufflehead x Hooded Merganser (hybrid)","Bucephala albeola x Lophodytes cucullatus","L12674048","Desert Shores Lake Jacqueline","2026-02-28 11:00",1,36.2054296,-115.2654779,TRUE,FALSE,FALSE,"S304805043"
+"1","x00628","Mallard x Northern Pintail (hybrid)","Anas platyrhynchos x acuta","L8881037","Mouth of Mill Creek at Neawanna Creek, Seaside","2026-03-10 08:27",1,46.012644,-123.9111231,TRUE,TRUE,TRUE,"S307988521"
+"2","x00628","Mallard x Northern Pintail (hybrid)","Anas platyrhynchos x acuta","L5535905","Selfridge Public Boat Launch","2026-03-07 12:45",1,42.6305798,-82.8199325,TRUE,TRUE,FALSE,"S306887763"
+"3","x00628","Mallard x Northern Pintail (hybrid)","Anas platyrhynchos x acuta","L6067840","Kingswood Lake","2026-03-03 16:07",1,42.5710343,-83.2452106,TRUE,TRUE,FALSE,"S305707655"
+"4","x00628","Mallard x Northern Pintail (hybrid)","Anas platyrhynchos x acuta","L3895659","Buckeye Lake SP--Spillway and Sellers Point","2026-03-01 06:54",2,39.9192819,-82.5142765,TRUE,TRUE,FALSE,"S304952839"
