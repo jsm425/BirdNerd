@@ -1,40 +1,63 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
-"1","calcon","California Condor","Gymnogyps californianus","L821559","Glen Canyon NRA--Navajo Bridge","2026-03-12 10:28",3,36.817626,-111.6312477,TRUE,FALSE,FALSE,"S308597670",NA
-"2","calcon","California Condor","Gymnogyps californianus","L60098244","X | Condor Sighting","2026-03-12 10:18",1,36.7266492,-112.0671256,TRUE,FALSE,TRUE,"S308561947",NA
-"3","calcon","California Condor","Gymnogyps californianus","L973579","Pinnacles NP--Chaparral Trailhead Parking","2026-03-12 09:10",2,36.4913697,-121.2092829,TRUE,FALSE,FALSE,"S308582788",NA
-"4","calcon","California Condor","Gymnogyps californianus","L1316859","Pinnacles NP--Juniper Canyon Trail","2026-03-12 08:24",4,36.487311,-121.2047982,TRUE,FALSE,FALSE,"S308613198",NA
-"5","calcon","California Condor","Gymnogyps californianus","L24121272","Redwood NP--Dolason Prairie Picnic Area","2026-03-11 18:18",2,41.205458,-123.950758,TRUE,TRUE,FALSE,"S308421798","P"
-"6","calcon","California Condor","Gymnogyps californianus","L835068","Vermilion Cliffs--Condor Viewing Site","2026-03-11 15:30",11,36.771,-112.0565,TRUE,FALSE,FALSE,"S308408274",NA
-"7","calcon","California Condor","Gymnogyps californianus","L33710768","Bald Hills Rd.--Walker Ridge rd to Coyote Peak trail turnoff","2026-03-11 11:30",5,41.15891,-123.893699,TRUE,TRUE,FALSE,"S308428750","P"
-"8","calcon","California Condor","Gymnogyps californianus","L794297","Pinnacles NP--Balconies Caves Trail","2026-03-11 11:28",3,36.4988786,-121.2025259,TRUE,FALSE,FALSE,"S308374647",NA
-"9","calcon","California Condor","Gymnogyps californianus","L1342739","Zion NP--Angel's Landing Trail","2026-03-10 17:36",2,37.2646665,-112.9505291,TRUE,FALSE,FALSE,"S308140020",NA
-"10","calcon","California Condor","Gymnogyps californianus","L58014139","Old Ridge Route Rd and Templin Hwy intersection","2026-03-10 12:20",9,34.576529,-118.671229,TRUE,FALSE,TRUE,"S308073731",NA
-"11","calcon","California Condor","Gymnogyps californianus","L43716330","Ridge Route Road--Forest Rte 8no4 pullout","2026-03-10 11:30",8,34.5725553,-118.6649781,TRUE,FALSE,FALSE,"S308087138",NA
-"12","calcon","California Condor","Gymnogyps californianus","L30516675","Grassy Canyon, Pinnacles National Park,  NO PUBLIC ACCESS","2026-03-10 10:43",10,36.475669,-121.149566,TRUE,FALSE,TRUE,"S308344899",NA
-"13","calcon","California Condor","Gymnogyps californianus","L5655832","Zion NP--Big Bend","2026-03-10 10:20",2,37.2733015,-112.9457617,TRUE,FALSE,FALSE,"S308148083",NA
-"14","calcon","California Condor","Gymnogyps californianus","L23802150","Zion NP--Angels Landing Peak (stationary counts)","2026-03-10 09:41",2,37.2695018,-112.9481106,TRUE,FALSE,FALSE,"S308428383",NA
-"15","calcon","California Condor","Gymnogyps californianus","L60018848","Historic Navajo Bridge","2026-03-10 08:05",8,36.8175917,-111.6310504,TRUE,FALSE,TRUE,"S308152100",NA
-"16","calcon","California Condor","Gymnogyps californianus","L6360062","Orick (town)","2026-03-08 18:20",7,41.2863526,-124.0598059,TRUE,TRUE,FALSE,"S307470137","P"
-"17","calcon","California Condor","Gymnogyps californianus","L595412","Bald Hills Rd. (general)","2026-03-08 15:37",3,41.1899929,-123.9324114,TRUE,TRUE,FALSE,"S307469118","P"
-"18","calcon","California Condor","Gymnogyps californianus","L59873230","Dolason Barn","2026-03-08 12:33",2,41.202099,-123.959369,TRUE,TRUE,TRUE,"S307385630","P"
-"19","calcon","California Condor","Gymnogyps californianus","L832838","Pinnacles NP--campground","2026-03-08 11:39",2,36.4908694,-121.1476135,TRUE,FALSE,FALSE,"S307375955",NA
-"20","calcon","California Condor","Gymnogyps californianus","L59882351","Ridge Route Road--Forest Rte 8no4 pullout","2026-03-08 11:33",3,34.5797781,-118.6751911,TRUE,FALSE,TRUE,"S307401159",NA
-"21","calcon","California Condor","Gymnogyps californianus","L631087","Lake Piru","2026-03-08 08:42",11,34.4703904,-118.7528085,TRUE,FALSE,FALSE,"S307433006",NA
-"22","calcon","California Condor","Gymnogyps californianus","L4381590","Le Fevre Overlook","2026-03-07 15:41",2,36.830327,-112.2543606,TRUE,FALSE,FALSE,"S307409056",NA
-"23","calcon","California Condor","Gymnogyps californianus","L1053553","Pinnacles NP--Condor Gulch Trail","2026-03-07 11:35",5,36.4855387,-121.1927605,TRUE,FALSE,FALSE,"S307277216",NA
-"24","calcon","California Condor","Gymnogyps californianus","L59598999","Paicines Ranch - Rattlesnake Pasture (Restricted access)","2026-03-07 09:28",1,36.7061807,-121.30445,TRUE,FALSE,TRUE,"S306907377",NA
-"25","calcon","California Condor","Gymnogyps californianus","L59778011","37029–37155 Golden State Hwy, Castaic US-CA 34.58626, -118.71450","2026-03-07 08:53",1,34.586256,-118.714503,TRUE,FALSE,TRUE,"S306889926",NA
-"26","calcon","California Condor","Gymnogyps californianus","L1053551","Pinnacles NP--High Peaks Trail (steep narrow section)","2026-03-07 08:48",NA,36.4841154,-121.1979854,TRUE,FALSE,FALSE,"S307251646",NA
-"27","calcon","California Condor","Gymnogyps californianus","L59722374","Vermilion Cliffs Condor Release Viewing Area, House Rock Road, M","2026-03-06 15:15",12,36.7445242,-112.1872195,TRUE,FALSE,TRUE,"S306613215",NA
-"28","calcon","California Condor","Gymnogyps californianus","L53858583","Paicines Ranch - Lake Pasture (Restricted access)","2026-03-06 13:23",2,36.7341121,-121.282913,TRUE,FALSE,TRUE,"S306608912",NA
-"29","calcon","California Condor","Gymnogyps californianus","L18842208","93920, Big Sur US-CA (36.1406,-121.6461)","2026-03-06 12:53",2,36.140629,-121.646064,TRUE,FALSE,TRUE,"S306547162",NA
-"30","calcon","California Condor","Gymnogyps californianus","L59667190","Hudson Ranch Rd, Maricopa US-CA 34.87459, -119.28550","2026-03-05 16:02",2,34.874589,-119.285503,TRUE,FALSE,TRUE,"S306323493",NA
-"31","calcon","California Condor","Gymnogyps californianus","L873846","Pinnacles NP--Old Pinnacles Trail","2026-03-05 15:35",1,36.5008053,-121.1795425,TRUE,FALSE,FALSE,"S306554008",NA
-"32","calcon","California Condor","Gymnogyps californianus","L2443192","Pinnacles NP--Bench Trail","2026-03-05 14:07",1,36.4849543,-121.1672741,TRUE,FALSE,FALSE,"S306282015",NA
-"33","calcon","California Condor","Gymnogyps californianus","L129142","Paicines Reservoir","2026-03-05 12:55",6,36.7261009,-121.2822037,TRUE,FALSE,FALSE,"S306267321",NA
-"34","calcon","California Condor","Gymnogyps californianus","L32470037","Zion NP--Temple of Sinawava","2026-03-05 09:26",2,37.2849956,-112.9475415,TRUE,FALSE,FALSE,"S306311442",NA
-"35","calcon","California Condor","Gymnogyps californianus","L6511284","Pinnacles National Park--Tunnel Trail","2026-03-05 08:14",4,36.4874072,-121.2002607,TRUE,FALSE,FALSE,"S306277366",NA
-"36","calcon","California Condor","Gymnogyps californianus","L59606772","Auto selected 36.49655, -121.17355","2026-03-04 10:58",3,36.496551,-121.173547,TRUE,FALSE,TRUE,"S305990412",NA
-"37","calcon","California Condor","Gymnogyps californianus","L302299","Pinnacles NP","2026-03-04 09:00",3,36.4891359,-121.1843199,TRUE,FALSE,FALSE,"S306023831",NA
-"38","calcon","California Condor","Gymnogyps californianus","L59595776","Pinnacles Campground Rd F, Paicines US-CA (36.4902,-121.1479)","2026-03-04 07:15",6,36.490242,-121.147872,TRUE,FALSE,TRUE,"S305932567",NA
-"39","calcon","California Condor","Gymnogyps californianus","L59556717","Bald Hills Rd, Blue Lake US-CA 41.19530, -123.94123","2026-03-03 14:22",4,41.195297,-123.941227,TRUE,TRUE,TRUE,"S305713091","P"
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
+"1","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L298649","Lake Apopka Wildlife Drive","2026-03-13 13:32",9,28.6691214,-81.5630963,TRUE,FALSE,FALSE,"S308830965"
+"2","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L559416","Lake Apopka North Shore--Orange County section (Please consider using more specific locations)","2026-03-13 10:32",14,28.6893446,-81.5995327,TRUE,FALSE,FALSE,"S308824407"
+"3","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L33099329","Lake Apopka Wildlife Drive","2026-03-13 10:26",18,28.6691741,-81.5592438,TRUE,FALSE,TRUE,"S308821524"
+"4","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L60142215","32342–32454 FM-803, Los Fresnos US-TX 26.08918, -97.52279","2026-03-13 10:12",2,26.089178,-97.522789,TRUE,FALSE,TRUE,"S308769405"
+"5","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L60144104","32262 Farm to Market Road 803, Los Fresnos, Texas, US (26.09, -97.522)","2026-03-13 09:52",2,26.0898311,-97.521786,TRUE,FALSE,TRUE,"S308778166"
+"6","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L259855","Estero Llano Grande SP WBC (LTC 054)","2026-03-13 09:00",11,26.1268335,-97.9578167,TRUE,FALSE,FALSE,"S308805145"
+"7","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L1023544","Wellington Environmental Preserve","2026-03-13 07:51",2,26.6293528,-80.3059387,TRUE,FALSE,FALSE,"S308767972"
+"8","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L128874","Jocelyn Nungaray NWR  (Anahuac) (UTC 049)","2026-03-13 06:43",17,29.6148414,-94.5344353,TRUE,FALSE,FALSE,"S308795330"
+"9","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L284163","Galveston--Lafitte's Cove (UTC 068)","2026-03-12 16:50",2,29.2169006,-94.9349016,TRUE,FALSE,FALSE,"S308635858"
+"10","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L60109486","32262 FM-803, Los Fresnos US-TX 26.09079, -97.52099","2026-03-12 16:01",2,26.09079,-97.520988,TRUE,FALSE,TRUE,"S308609526"
+"11","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L60107495","32417 FM-803, Los Fresnos US-TX 26.08852, -97.52275","2026-03-12 15:16",2,26.088525,-97.522746,TRUE,FALSE,TRUE,"S308600037"
+"12","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L60116071","100 Pomelo Bend, Los Fresnos, Texas, US (26.089, -97.523)","2026-03-12 13:35",2,26.0889976,-97.5229232,TRUE,FALSE,TRUE,"S308640920"
+"13","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L60103351","Black Hawk Stakeout, Los Fresnos US-TX 26.08993, -97.52160","2026-03-12 13:33",2,26.089932,-97.521604,TRUE,FALSE,TRUE,"S308584491"
+"14","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L933572","Bird Island","2026-03-12 12:02",1,29.9296285,-90.1245618,TRUE,FALSE,FALSE,"S308577814"
+"15","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L60095420","32242 Edgewater Isle Drive, Los Fresnos, Texas, US (26.089, -97.525)","2026-03-12 11:28",2,26.089334,-97.5249619,TRUE,FALSE,TRUE,"S308549060"
+"16","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L60089534","100 Pomelo Bend, Los Fresnos, Texas, US (26.089, -97.523)","2026-03-12 09:25",2,26.0888034,-97.5226603,TRUE,FALSE,TRUE,"S308520147"
+"17","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L837165","Eagle Lakes Community Park","2026-03-12 08:35",1,26.0773686,-81.7141414,TRUE,FALSE,FALSE,"S308497153"
+"18","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L60067866","32343 FM-803, Los Fresnos US-TX (Resaca de Los Cuates)","2026-03-11 17:12",2,26.089959,-97.52126,TRUE,FALSE,TRUE,"S308412295"
+"19","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L1896322","Jocelyn Nungaray NWR-- Shoveler Pond Loop","2026-03-11 12:43",22,29.6138335,-94.5452351,TRUE,FALSE,FALSE,"S308639643"
+"20","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L3285764","Paradise Park","2026-03-11 12:27",7,28.94387,-81.94703,TRUE,FALSE,FALSE,"S308310802"
+"21","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L28254307","32198–32398 Olmito N Rd, Los Fresnos US-TX 26.09175, -97.52172","2026-03-11 11:38",2,26.09175,-97.521721,TRUE,FALSE,TRUE,"S308335206"
+"22","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L60047705","FUWD Stakeout","2026-03-11 11:33",2,26.090449,-97.520947,TRUE,FALSE,TRUE,"S308310859"
+"23","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L770565","South Padre Is.--Birding and Nature Center","2026-03-11 10:31",1,26.1374628,-97.1739367,TRUE,FALSE,FALSE,"S308305648"
+"24","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L388414","Holly Beach","2026-03-11 10:23",3,29.7672272,-93.5097778,TRUE,FALSE,FALSE,"S308289880"
+"25","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L58128026","San Jacinto Wildlife Area (CA Atlas - Lakeview NW)","2026-03-11 09:07",2,33.8589356,-117.1210451,TRUE,TRUE,FALSE,"S308430888"
+"26","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L761606","Lacassine NWR--Pool Unit and Wildlife Loop","2026-03-11 07:35",10,30.0061263,-92.911275,TRUE,FALSE,FALSE,"S308286426"
+"27","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L241811","El Franco Lee Park","2026-03-10 16:50",7,29.594929,-95.2589295,TRUE,FALSE,FALSE,"S308131731"
+"28","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L58657771","CamCo Irrig Dist #6 on FM803","2026-03-10 15:53",2,26.09026,-97.5215135,TRUE,FALSE,TRUE,"S308113747"
+"29","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L59995792","32262 FM-803, Los Fresnos US-TX 26.08971, -97.52159","2026-03-10 12:06",2,26.089712,-97.521592,TRUE,FALSE,TRUE,"S308026037"
+"30","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L727221","Cameron Prairie NWR","2026-03-10 10:05",1,29.9584693,-93.0886586,TRUE,FALSE,FALSE,"S307992393"
+"31","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L569741","Guadalupe Delta WMA--Calhoun Co. (CTC 036)","2026-03-10 09:50",1,28.5027523,-96.8324876,TRUE,FALSE,FALSE,"S307980919"
+"32","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L59981371","2225 Chesterbrook Ct, Naples US-FL 26.26806, -81.77316","2026-03-10 09:30",1,26.268063,-81.773157,TRUE,FALSE,TRUE,"S307942730"
+"33","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L58718165","Black hawk spot","2026-03-10 08:57",2,26.089774,-97.521406,TRUE,FALSE,TRUE,"S307957920"
+"34","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L59982971","Common Black Hawk","2026-03-10 08:38",2,26.087988,-97.523051,TRUE,FALSE,TRUE,"S307953443"
+"35","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L163561","San Jacinto Wildlife Area","2026-03-10 08:00",2,33.8763259,-117.1128627,TRUE,TRUE,FALSE,"S308129894"
+"36","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L58643961","32343 FM-803, Los Fresnos US-TX 26.08946, -97.52162","2026-03-09 18:01",2,26.089464,-97.521617,TRUE,FALSE,TRUE,"S307812175"
+"37","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L59929888","Cameron County Irrigation District #6
+32262 Farm to Market Road 803, Los Fresnos, Texas, US (26.091, -97.521)","2026-03-09 11:17",2,26.0906738,-97.5213519,TRUE,FALSE,TRUE,"S307663790"
+"38","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L59881932","Resaca de Los Cuates","2026-03-09 11:04",2,26.09146,-97.521938,TRUE,FALSE,TRUE,"S307658665"
+"39","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L59926913","32262 FM-803, Los Fresnos US-TX 26.08982, -97.52161","2026-03-09 10:29",2,26.089819,-97.521606,TRUE,FALSE,TRUE,"S307647867"
+"40","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L28107218","32466–32648 Olmito N Rd, Los Fresnos US-TX 26.08901, -97.52278","2026-03-09 10:25",2,26.089006,-97.522777,TRUE,FALSE,TRUE,"S308165328"
+"41","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L1350920","Fulton Harbor","2026-03-09 08:56",4,28.0650078,-97.0338632,TRUE,FALSE,FALSE,"S307837335"
+"42","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L59923155","32417 FM-803, Los Fresnos US-TX 26.08936, -97.52187","2026-03-09 08:47",2,26.089356,-97.521872,TRUE,FALSE,TRUE,"S307627353"
+"43","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L4323171","Lake Apopka North Shore--Lust Rd. Gate Area Only (not for entire wildlife drive)","2026-03-09 07:52",1,28.6691643,-81.558896,TRUE,FALSE,FALSE,"S307823828"
+"44","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L58697182","Resaca de los Quates","2026-03-08 18:34",2,26.090701,-97.521143,TRUE,FALSE,TRUE,"S307466036"
+"45","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L59880108","32262 FM-803, Los Fresnos US-TX (26.0898,-97.5220)","2026-03-08 15:58",2,26.08979,-97.521955,TRUE,FALSE,TRUE,"S307391974"
+"46","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L59897666","Cameron Co.— Los Fresnos North Resaca segment","2026-03-08 15:00",2,26.0901654,-97.5218,TRUE,FALSE,TRUE,"S307479793"
+"47","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L366370","Audubon Park","2026-03-08 14:34",2,29.9253976,-90.128804,TRUE,FALSE,FALSE,"S307390874"
+"48","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L58650226","32391 Olmito North Road, Los Fresnos, Texas, US (26.09, -97.522)","2026-03-08 13:48",2,26.0895035,-97.5219943,TRUE,FALSE,TRUE,"S307335904"
+"49","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L59846688","25181 Pintail Avenue, Abbeville, Louisiana, US (29.785, -92.154)","2026-03-08 09:41",5,29.7850967,-92.1537173,TRUE,FALSE,TRUE,"S307223420"
+"50","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L278450","UTRGV Brownsville (campus & resacas)","2026-03-08 09:25",1,25.8954255,-97.4872156,TRUE,FALSE,FALSE,"S307300934"
+"51","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L416575","Willow Island","2026-03-08 08:52",1,29.7842689,-93.2224274,TRUE,FALSE,FALSE,"S307436658"
+"52","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L53814577","CBBEP OkploverBlitz Bolivar--mile 12-13.5","2026-03-07 14:00",24,29.4905376,-94.5428212,TRUE,FALSE,TRUE,"S308477394"
+"53","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L207305","Stormwater Treatment Area 5/6","2026-03-07 05:05",4,26.4330582,-80.9416786,TRUE,FALSE,FALSE,"S306746532"
+"54","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L246929","Green Cay Wetlands & Nature Center","2026-03-06 14:11",2,26.4861584,-80.1607561,TRUE,FALSE,FALSE,"S306551900"
+"55","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L46636531","A-2 Reservoir","2026-03-06 09:47",NA,26.470038,-80.697312,TRUE,FALSE,TRUE,"S306618460"
+"56","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L8799174","Lake Akopopka FL","2026-03-06 07:00",1,28.6691998,-81.5626215,TRUE,FALSE,TRUE,"S306922619"
+"57","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L8534682","Exploration Green--Phase 4 (S. of Neptune Lane)","2026-03-05 14:58",5,29.5682255,-95.1182181,TRUE,FALSE,FALSE,"S306270729"
+"58","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L27976444","Wellen Park -- Grand Lake","2026-03-05 10:08",1,27.043923,-82.330047,TRUE,TRUE,FALSE,"S306170864"
+"59","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L1076700","Tyrrell Park--Cattail Marsh","2026-03-05 09:15",20,30.0074226,-94.1400433,TRUE,FALSE,FALSE,"S306330195"
+"60","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L5176890","Exploration Green--Phase 2 (S. of El Dorado Blvd)","2026-03-05 06:49",16,29.567445,-95.1258741,TRUE,FALSE,FALSE,"S306131291"
+"61","fuwduc","Fulvous Whistling-Duck","Dendrocygna bicolor","L12757246","Bolivar-High Island Shorebird Survey Start","2026-03-04 12:31",20,29.5504205,-94.3861839,TRUE,FALSE,FALSE,"S306315096"
