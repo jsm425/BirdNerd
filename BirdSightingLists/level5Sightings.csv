@@ -1,3 +1,2 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","rebpig1","Red-billed Pigeon","Patagioenas flavirostris","L129086","Santa Margarita Ranch (LTC 079) (restricted access - guided groups only)","2026-03-21 19:09",1,26.4856177,-99.0912337,TRUE,FALSE,FALSE,"S311720409"
-"2","rebpig1","Red-billed Pigeon","Patagioenas flavirostris","L129075","Salineño Wildlife Preserve (LTC 080)","2026-03-21 07:23",8,26.5148584,-99.1162062,TRUE,FALSE,FALSE,"S311483789"
+"1","x00203","Northern x Tropical Parula (hybrid)","Setophaga americana x pitiayumi","L129086","Santa Margarita Ranch (LTC 079) (restricted access - guided groups only)","2026-03-19 07:38",1,26.4856177,-99.0912337,TRUE,TRUE,FALSE,"S310827723"
