@@ -1,2 +1,6 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","x00203","Northern x Tropical Parula (hybrid)","Setophaga americana x pitiayumi","L129086","Santa Margarita Ranch (LTC 079) (restricted access - guided groups only)","2026-03-19 07:38",1,26.4856177,-99.0912337,TRUE,TRUE,FALSE,"S310827723"
+"1","miskit","Mississippi Kite","Ictinia mississippiensis","L208734","Edith L. Moore Nature Sanctuary (UTC 094)","2026-03-25 13:15",1,29.7717945,-95.5695572,TRUE,FALSE,FALSE,"S313061875"
+"2","miskit","Mississippi Kite","Ictinia mississippiensis","L60058012","Duke University--West Campus","2026-03-23 11:22",1,36.0016,-78.941,TRUE,TRUE,FALSE,"S312417610"
+"3","miskit","Mississippi Kite","Ictinia mississippiensis","L28900326","Home","2026-03-21 19:14",26,26.1886042,-98.3712675,TRUE,TRUE,TRUE,"S311700340"
+"4","miskit","Mississippi Kite","Ictinia mississippiensis","L520032","Shoal Creek Greenbelt--Sheffield Northwest Park","2026-03-17 18:15",1,30.3489169,-97.7425289,TRUE,TRUE,FALSE,"S310152079"
+"5","miskit","Mississippi Kite","Ictinia mississippiensis","L129085","Santa Ana NWR (LTC 059)","2026-03-16 08:48",1,26.0813003,-98.1351399,TRUE,TRUE,FALSE,"S309908971"
