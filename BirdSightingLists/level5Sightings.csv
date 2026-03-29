@@ -1,3 +1,4 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","x00685","Snow Goose x Brant (hybrid)","Anser caerulescens x Branta bernicla","L217786","Fort Phoenix State Reservation","2026-03-23 10:18",1,41.6250751,-70.9029646,TRUE,TRUE,FALSE,"S312404756"
-"2","x00685","Snow Goose x Brant (hybrid)","Anser caerulescens x Branta bernicla","L247765","Canarsie Pier","2026-03-21 12:15",1,40.6287773,-73.8836704,TRUE,TRUE,FALSE,"S311607833"
+"1","x00415","Greater White-fronted x Canada Goose (hybrid)","Anser albifrons x Branta canadensis","L4054258","Ottumwa Park","2026-03-28 11:20",1,41.0115114,-92.4273562,TRUE,TRUE,FALSE,"S314016706"
+"2","x00415","Greater White-fronted x Canada Goose (hybrid)","Anser albifrons x Branta canadensis","L581115","Catawba College Ecological Preserve","2026-03-28 08:11",1,35.6898839,-80.478791,TRUE,TRUE,FALSE,"S313941765"
+"3","x00415","Greater White-fronted x Canada Goose (hybrid)","Anser albifrons x Branta canadensis","L7951497","Highway 26 Playa, Minatare","2026-03-22 09:45",1,41.821666,-103.546628,TRUE,TRUE,TRUE,"S312210739"
