@@ -1,300 +1,255 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","lat","lng","obsValid","obsReviewed","locationPrivate","subId","howMany"
-"1","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L61240462","Stinson Home","2026-03-29 12:26",38.751824,-121.153232,TRUE,FALSE,TRUE,"S314493933",NA
-"2","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L3555751","Laguna Mtns.--Desert View Picnic Grounds","2026-03-29 11:55",32.8697536,-116.4146277,TRUE,FALSE,FALSE,"S314554825",5
-"3","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L57727414","Yard","2026-03-29 11:52",33.890724,-117.184735,TRUE,FALSE,TRUE,"S314474921",1
-"4","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L815817","Frank G. Bonelli RP/Puddingstone Reservoir and vicinity","2026-03-29 10:30",34.0870104,-117.8050125,TRUE,FALSE,FALSE,"S314550573",3
-"5","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L721582","Kern River Preserve--Fay Ranch Rd.","2026-03-29 10:21",35.672498,-118.290138,TRUE,FALSE,FALSE,"S314463501",2
-"6","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L796476","Cuyamaca Rancho SP--Stonewall Mine","2026-03-29 10:15",32.9832452,-116.5701846,TRUE,FALSE,FALSE,"S314545191",10
-"7","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L209809","Joshua Tree NP--Barker Dam area","2026-03-29 09:53",34.0309,-116.1463,TRUE,FALSE,FALSE,"S314448909",3
-"8","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L522347","Laguna Seca Rec Area & Hwy 68 ponds","2026-03-29 09:50",36.572932,-121.7652404,TRUE,FALSE,FALSE,"S314544512",3
-"9","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L279651","Castaic Lagoon","2026-03-29 09:02",34.5049298,-118.610158,TRUE,FALSE,FALSE,"S314426218",5
-"10","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L598440","Salinas River NWR","2026-03-29 08:51",36.7354169,-121.8033385,TRUE,FALSE,FALSE,"S314489679",NA
-"11","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L25869369","San Gabriel Mtns--Blue Ridge Trail","2026-03-29 08:41",34.3782161,-117.6892269,TRUE,FALSE,FALSE,"S314504975",4
-"12","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L29658238","Oakview Village","2026-03-29 08:37",35.46355,-120.660672,TRUE,FALSE,TRUE,"S314471285",1
-"13","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L716235","Kitchen Creek Rd.--creek crossing","2026-03-29 08:23",32.7523339,-116.4522994,TRUE,FALSE,FALSE,"S314479622",1
-"14","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L787655","McKenzie Table Mountain Preserve (restricted access)","2026-03-29 08:18",36.9972831,-119.5933056,TRUE,FALSE,FALSE,"S314533938",4
-"15","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L17336404","2744 West Avenue O4, Palmdale, CA","2026-03-29 08:14",34.612284,-118.1803844,TRUE,FALSE,TRUE,"S314404241",4
-"16","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L199300","Ash Canyon Bird Sanctuary (closed Thursday morning)","2026-03-29 08:12",31.3904516,-110.2392496,TRUE,FALSE,FALSE,"S314416391",1
-"17","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L1367369","East Canyon","2026-03-29 08:07",34.3410634,-118.5407637,TRUE,FALSE,FALSE,"S314433550",2
-"18","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L455649","Glen Helen Regional Park","2026-03-29 08:05",34.204704,-117.4057388,TRUE,FALSE,FALSE,"S314483297",1
-"19","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L57345961","42275 Oak Canyon Rd, Hemet US-CA 33.65383, -116.92467","2026-03-29 08:04",33.65383,-116.924666,TRUE,FALSE,TRUE,"S314414218",2
-"20","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L732299","Hansen Dam","2026-03-29 08:03",34.2670624,-118.385067,TRUE,FALSE,FALSE,"S314438630",1
-"21","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L37681545","El Dorado Ranch Park","2026-03-29 08:00",34.0529439,-116.9920349,TRUE,FALSE,FALSE,"S314424382",6
-"22","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L5611663","Joshua Tree NP--west entrance","2026-03-29 07:49",34.0934239,-116.2646735,TRUE,FALSE,FALSE,"S314356817",6
-"23","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L825565","Ramona Community Park","2026-03-29 07:46",33.0534216,-116.859169,TRUE,FALSE,FALSE,"S314412391",1
-"24","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L27283588","Glendora Ridge Motorway, Glendora US-CA 34.17800, -117.84678","2026-03-29 07:43",34.177996,-117.846779,TRUE,FALSE,TRUE,"S314397052",3
-"25","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L899956","San Timoteo Creek (SBE Co.)","2026-03-29 07:42",34.0239962,-117.1946812,TRUE,FALSE,FALSE,"S314518678",4
-"26","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L3311348","Lake Hodges--east end (footbridge, lakebed, scrub)","2026-03-29 07:41",33.0559773,-117.082199,TRUE,FALSE,FALSE,"S314406216",2
-"27","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L197835","1 - Rick 'n' Mo's - Private","2026-03-29 07:40",32.8176133,-116.9244473,TRUE,FALSE,TRUE,"S314389195",1
-"28","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L17899337","Tulare_Slick Rock_upstream loop","2026-03-29 07:33",36.416608,-118.933691,TRUE,FALSE,TRUE,"S314471936",5
-"29","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L560027","Jacumba--town, pond, fields","2026-03-29 07:20",32.6191061,-116.1844861,TRUE,FALSE,FALSE,"S314406448",3
-"30","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L152146","Kenneth Hahn SRA","2026-03-29 07:11",34.00861,-118.36533,TRUE,FALSE,FALSE,"S314390834",1
-"31","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L11285972","Chiquita Canyon Area 2, East","2026-03-29 07:07",33.5982613,-117.6087979,TRUE,FALSE,TRUE,"S314452454",1
-"32","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L11502442","Libby Drive, Riverside, California, US","2026-03-29 06:54",33.9893344,-117.328521,TRUE,FALSE,TRUE,"S314341149",1
-"33","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L420195","Big Morongo Canyon Preserve & Covington Park","2026-03-29 06:50",34.0497222,-116.5702639,TRUE,FALSE,FALSE,"S314454827",3
-"34","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L267156","Danny Lopez Park (formerly Columbus Park)","2026-03-29 06:45",32.2856814,-111.0346556,TRUE,TRUE,FALSE,"S314446791",2
-"35","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L2776216","Sedgwick Reserve (restricted access)","2026-03-29 06:42",34.692571,-120.0405478,TRUE,FALSE,FALSE,"S314370235",2
-"36","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L3602679","Crystalaire Country Club (private property)","2026-03-29 06:30",34.4711394,-117.8460073,TRUE,FALSE,FALSE,"S314530675",11
-"37","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L823886","Los Angeles Zoo","2026-03-29 06:20",34.1478436,-118.2898593,TRUE,FALSE,FALSE,"S314534054",1
-"38","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L284044","Lost Dutchman SP","2026-03-29 06:18",33.459,-111.482,TRUE,FALSE,FALSE,"S314320529",NA
-"39","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L9134487","Casner road","2026-03-29 06:17",33.0644343,-116.7772127,TRUE,FALSE,TRUE,"S314551820",1
-"40","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L4500170","Murrieta Creek--McVicar St. to Clinton Keith Rd.","2026-03-28 17:08",33.589777,-117.259044,TRUE,FALSE,FALSE,"S314156261",2
-"41","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L854483","Carmel Valley--Holman Rd.","2026-03-28 17:02",36.4792531,-121.7218345,TRUE,FALSE,TRUE,"S314164354",1
-"42","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L383741","Yucaipa Regional Park","2026-03-28 16:00",34.0550061,-117.0483398,TRUE,FALSE,FALSE,"S314167327",1
-"43","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L335151","Salinas WTP (no public access)","2026-03-28 15:00",36.6608009,-121.7180536,TRUE,TRUE,FALSE,"S314174786",8
-"44","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L61236423","Bates Canyon Road, New Cuyama US-CA 34.93018, -119.90230","2026-03-28 14:25",34.930182,-119.902296,TRUE,FALSE,TRUE,"S314140333",1
-"45","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L61230147","Cuelho Ranch","2026-03-28 14:14",36.1815875,-118.7973768,TRUE,FALSE,TRUE,"S314113724",1
-"46","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L29023405","27539 Santa Clarita Rd, Santa Clarita US-CA 34.45270, -118.53433","2026-03-28 14:05",34.452701,-118.534329,TRUE,FALSE,TRUE,"S314100543",1
-"47","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L16667765","PCT--Three Points to Sulfur Springs","2026-03-28 13:10",34.3573964,-117.9893956,TRUE,FALSE,TRUE,"S314147208",1
-"48","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L8550459","Sulphur Springs CG","2026-03-28 12:33",34.3668135,-117.9869646,TRUE,FALSE,FALSE,"S314144760",2
-"49","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L4024548","Castaic Lagoon--south shore","2026-03-28 12:25",34.497678,-118.609635,TRUE,FALSE,FALSE,"S314063936",1
-"50","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L668641","River Park (SBA Co.)","2026-03-28 12:22",34.6545154,-120.4344893,TRUE,FALSE,FALSE,"S314154016",4
-"51","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L418752","Tijuana River Valley--Bird & Butterfly Garden (Myers Ranch)","2026-03-28 11:39",32.5538589,-117.084619,TRUE,TRUE,FALSE,"S314165045",2
-"52","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L61207604","California Section D, Palmdale, California, US (34.372, -118.02)","2026-03-28 11:37",34.3715811,-118.0197779,TRUE,FALSE,TRUE,"S314107425",1
-"53","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L561872","Shirttail Canyon [Hwy 146 chaparral & oaks from mp 5 to 10]","2026-03-28 11:22",36.4378116,-121.2250692,TRUE,FALSE,FALSE,"S314115698",2
-"54","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L61211903","California Section D, Palmdale, California, US (34.379, -118.023)","2026-03-28 10:56",34.3790678,-118.0230187,TRUE,FALSE,TRUE,"S314038789",1
-"55","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L6566735","Backyard 2505 Canyon Vw, Pasadena US-CA (34.1810,-118.0979)","2026-03-28 10:25",34.180988,-118.097881,TRUE,FALSE,TRUE,"S314142843",1
-"56","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L228773","Saint Andrew's Abbey","2026-03-28 10:13",34.4571,-117.8687,TRUE,FALSE,FALSE,"S314077401",8
-"57","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L61211192","95327, Jamestown US-CA (37.9718,-120.4856)","2026-03-28 10:04",37.971767,-120.485592,TRUE,FALSE,TRUE,"S314036106",2
-"58","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L587031","Waller Park","2026-03-28 10:00",34.9029675,-120.4392958,TRUE,FALSE,FALSE,"S314327884",NA
-"59","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L1517390","Corral de Tierra--lower (MP 0-3 & Calera Cyn)","2026-03-28 09:45",36.5567141,-121.7326232,TRUE,FALSE,FALSE,"S314090213",4
-"60","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L61207499","California Section D, Palmdale, California, US (34.374, -118.004)","2026-03-28 09:42",34.3736884,-118.0044203,TRUE,FALSE,TRUE,"S314022688",1
-"61","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L61230438","Ramus Road (dead-end off Hwy 146)","2026-03-28 09:40",36.4195756,-121.2232603,TRUE,FALSE,TRUE,"S314114913",6
-"62","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L61207413","Sulphur Springs Road, Pearblossom, California, US (34.371, -117.997)","2026-03-28 09:30",34.370767,-117.9970741,TRUE,FALSE,TRUE,"S314022391",1
-"63","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L348814","MU Ranch, Carrizo Plain NM--no internal access","2026-03-28 09:30",34.9859471,-119.4817506,TRUE,FALSE,FALSE,"S313998361",4
-"64","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L2132635","Temecula Creek Trail","2026-03-28 09:25",33.483343,-117.071909,TRUE,FALSE,FALSE,"S314040662",1
-"65","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L982508","Sweetwater Regional Park--Morrison Pond","2026-03-28 09:10",32.673739,-117.0232329,TRUE,FALSE,FALSE,"S314025245",2
-"66","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L14851650","Steep Creek","2026-03-28 08:46",36.469179,-118.855123,TRUE,FALSE,TRUE,"S314006302",6
-"67","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L3494933","Paynes Creek Crossing","2026-03-28 08:41",40.2781315,-122.18172,TRUE,FALSE,FALSE,"S314083164",4
-"68","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L465904","Borrego Springs--Roadrunner Club/The Springs (private)","2026-03-28 08:31",33.262697,-116.3611624,TRUE,FALSE,FALSE,"S314066763",3
-"69","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L251839","Sweet Springs Nature Preserve","2026-03-28 08:30",35.3217375,-120.8422726,TRUE,FALSE,FALSE,"S314049756",2
-"70","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L388837","Sequoia Riverlands Trust--Kaweah Oaks Preserve","2026-03-28 08:29",36.3336459,-119.1665762,TRUE,FALSE,FALSE,"S314017086",1
-"71","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L59653196","7803 Excelsior Ave, Hanford US-CA 36.39469, -119.59293","2026-03-28 08:05",36.394695,-119.592934,TRUE,FALSE,TRUE,"S313964472",4
-"72","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L520338","Pearblossom Park","2026-03-28 07:51",34.501517,-117.9114318,TRUE,FALSE,FALSE,"S314077563",15
-"73","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L59604223","Jacumba Oe S NW, San Diego County, California, US","2026-03-28 07:50",32.6147384,-116.1915264,TRUE,FALSE,TRUE,"S314038340",4
-"74","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L152135","Descanso Gardens","2026-03-28 07:49",34.20164,-118.21229,TRUE,FALSE,FALSE,"S313986854",1
-"75","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L56709495","Angeles NF--Three Points","2026-03-28 07:47",34.3459114,-117.9854935,TRUE,FALSE,FALSE,"S314021811",1
-"76","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L5040255","Cole Canyon Trail--Sykes Ranch Park","2026-03-28 07:45",33.5605023,-117.2374195,TRUE,FALSE,FALSE,"S314065396",3
-"77","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L1838049","Santa Ana River at Greenspot Rd.","2026-03-28 07:35",34.0985517,-117.1172389,TRUE,FALSE,FALSE,"S314051707",1
-"78","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L596212","San Diego NWR--Sweetwater River @ Hwy 94","2026-03-28 07:32",32.731572,-116.9402408,TRUE,FALSE,FALSE,"S314049458",1
-"79","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L19718435","Tulare_FerndaleJR","2026-03-28 06:38",36.413919,-118.915409,TRUE,FALSE,TRUE,"S313924249",1
-"80","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L61185847","6837 Sunnyhill Rd, Joshua Tree US-CA 34.12874, -116.32778","2026-03-28 06:29",34.128743,-116.327776,TRUE,FALSE,TRUE,"S313931837",1
-"81","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L295050","Millerton Lake State Recreation Area (MAD Co.)","2026-03-28 06:20",37.0171377,-119.6682787,TRUE,FALSE,FALSE,"S314174090",2
-"82","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L8186268","Juniper Hills--Farnese Ave.","2026-03-28 06:00",34.4720201,-117.9084337,TRUE,FALSE,TRUE,"S314055211",4
-"83","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L61158095","Kahye’s House","2026-03-27 18:40",35.287502,-120.719111,TRUE,FALSE,TRUE,"S313799881",2
-"84","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L447881","Oak Park Cemetery","2026-03-27 18:25",34.0867156,-117.7099228,TRUE,FALSE,FALSE,"S313783454",2
-"85","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L17528052","Joseph D. Grant County Park - Southwest trails (Hotel, Snell, etc.)","2026-03-27 17:43",37.3327855,-121.7124229,TRUE,TRUE,FALSE,"S313795566",2
-"86","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L8282281","Panorama Vista Preserve (west)","2026-03-27 17:35",35.4128021,-118.999486,TRUE,FALSE,FALSE,"S313786704",1
-"87","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L469058","Apollo Park","2026-03-27 15:45",34.7421591,-118.2011104,TRUE,FALSE,FALSE,"S313808622",1
-"88","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L2892574","Belvedere Park Lake","2026-03-27 14:41",34.0350102,-118.1585491,TRUE,FALSE,FALSE,"S313753163",1
-"89","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L2261976","Laguna Mtns.--mile 19 pullout","2026-03-27 13:07",32.860055,-116.4625274,TRUE,FALSE,FALSE,"S313776633",2
-"90","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L4465263","Santa Barbara Pistachio, State Route 33","2026-03-27 13:05",34.847304,-119.4799447,TRUE,FALSE,FALSE,"S313789376",2
-"91","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L61155204","28916–28962 Maricopa Hwy, Maricopa US-CA 34.70854, -119.37804","2026-03-27 12:27",34.708538,-119.37804,TRUE,FALSE,TRUE,"S313788571",1
-"92","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L247122","Paton Center for Hummingbirds (Patons' Yard)","2026-03-27 12:04",31.5390131,-110.7606337,TRUE,TRUE,FALSE,"S313751812",1
-"93","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L61132913","Cuish-Cuish East Mesa Cultural Preserve, Descanso US-CA 32.91732, -116.54822","2026-03-27 11:18",32.917321,-116.548216,TRUE,FALSE,TRUE,"S313689243",1
-"94","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L464628","Tehachapi Mountain Park","2026-03-27 11:15",35.0662682,-118.4836564,TRUE,FALSE,FALSE,"S313730808",2
-"95","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L61141363","Acton Park","2026-03-27 10:55",34.4724264,-118.1983627,TRUE,FALSE,TRUE,"S313728340",2
-"96","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L44224046","Santa Clara River preserve","2026-03-27 10:30",34.2925878,-119.1014417,TRUE,FALSE,TRUE,"S313719590",2
-"97","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L61142637","Rivendale Park and Open Space","2026-03-27 10:07",34.357707,-118.55674,TRUE,FALSE,TRUE,"S313733085",2
-"98","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L1316859","Pinnacles NP--Juniper Canyon Trail","2026-03-27 10:03",36.487311,-121.2047982,TRUE,FALSE,FALSE,"S313783877",8
-"99","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L5680774","Angeles NF--Glendora Ridge Road mile 7.85","2026-03-27 10:02",34.2189872,-117.7123035,TRUE,FALSE,FALSE,"S313727253",1
-"100","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L9511873","US-CA-Kern--Weldon--Home (35.6453,-118.3594)","2026-03-27 09:58",35.645362,-118.3595376,TRUE,FALSE,TRUE,"S313707184",2
-"101","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L61154154","Old Pinnacles Trail - Bickmore Cyn SW (CA Bird Atlas)","2026-03-27 09:11",36.5047923,-121.1877788,TRUE,FALSE,TRUE,"S313784159",3
-"102","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L61139901","Tulare_Gas Can skinny bridge (36.4490,-118.8646)","2026-03-27 09:09",36.44903,-118.864637,TRUE,FALSE,TRUE,"S313720786",1
-"103","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L61128847","Camp San Luis Obispo, San Luis Obispo US-CA 35.32586, -120.71955","2026-03-27 08:57",35.325859,-120.719554,TRUE,FALSE,TRUE,"S313670958",3
-"104","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L873846","Pinnacles NP--Old Pinnacles Trail","2026-03-27 08:50",36.5008053,-121.1795425,TRUE,FALSE,FALSE,"S313783610",3
-"105","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L13715590","Upper Aliso Canyon--Mile 5.72","2026-03-27 08:50",34.4234325,-118.1025635,TRUE,FALSE,TRUE,"S313726355",3
-"106","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L42897610","Sedgwick Preserve","2026-03-27 08:30",34.6384865,-120.0676361,TRUE,FALSE,TRUE,"S313745117",5
-"107","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L61119216","9232 Terrace View Rd, Phelan US-CA 34.41795, -117.48010","2026-03-27 08:25",34.417953,-117.480102,TRUE,FALSE,TRUE,"S313627326",3
-"108","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L61154005","Old Pinnacles Trail - North Chalone Peak NE (CA Bird Atlas)","2026-03-27 08:19",36.4950145,-121.1729871,TRUE,FALSE,TRUE,"S313783557",2
-"109","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L54613515","Fairmont Reservoir","2026-03-27 08:12",34.7149561,-118.4341772,TRUE,FALSE,TRUE,"S313739526",8
-"110","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L468267","Irvine Lake","2026-03-27 07:45",33.7737252,-117.7176476,TRUE,FALSE,FALSE,"S313721348",3
-"111","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L31825269","Bear Valley Springs--Town Center Campground","2026-03-27 07:37",35.1672543,-118.6121085,TRUE,FALSE,FALSE,"S313654659",1
-"112","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L19942734","Tulare_Case Mt Ponds","2026-03-27 07:36",36.450829,-118.863057,TRUE,FALSE,TRUE,"S313719759",1
-"113","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L4532248","Deacon Home (Restricted Access)","2026-03-27 07:16",34.887029,-120.432212,TRUE,FALSE,TRUE,"S313605503",2
-"114","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L855608","Carrizo Plain NM--Visitor Center","2026-03-27 07:05",35.1899143,-119.8633606,TRUE,FALSE,FALSE,"S313660822",4
-"115","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L3305338","Deer Creek Bridge--Latrobe Rd. / Cothrin Ranch Rd.","2026-03-27 06:57",38.6006395,-121.0226011,TRUE,FALSE,FALSE,"S313700873",3
-"116","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L60420396","Cloudland Truck Trail (2N40)","2026-03-27 06:43",34.2188375,-117.299583,TRUE,FALSE,TRUE,"S313655147",2
-"117","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L384241","Mercey Hot Springs","2026-03-27 06:30",36.704494,-120.8600378,TRUE,FALSE,FALSE,"S313609861",10
-"118","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L5553348","New Idria Rd. Grasslands","2026-03-26 15:00",36.49979,-120.81938,TRUE,FALSE,FALSE,"S313478688",1
-"119","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L1186317","Santa Clara River Preserve--(TNC)","2026-03-26 14:09",34.3092708,-119.0976334,TRUE,FALSE,FALSE,"S313422102",2
-"120","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L796406","Quatal Canyon (VEN Co.)","2026-03-26 12:49",34.8198633,-119.402504,TRUE,FALSE,FALSE,"S313494697",10
-"121","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L742177","Ozena Fire Station","2026-03-26 11:51",34.6828874,-119.3534589,TRUE,FALSE,FALSE,"S313494673",1
-"122","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L10872397","Corral--south Soda Lake Rd","2026-03-26 11:21",35.0042768,-119.5054392,TRUE,FALSE,FALSE,"S313484943",2
-"123","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L20665143","Tijuana River Valley Bird & Butterfly Garden","2026-03-26 11:00",32.5539033,-117.0847964,TRUE,TRUE,TRUE,"S313409385",1
-"124","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L43716330","Ridge Route Road--Forest Rte 8no4 pullout","2026-03-26 11:00",34.5725553,-118.6649781,TRUE,FALSE,FALSE,"S313379878",3
-"125","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L61139656","Paicines, California, US (36.488, -121.199)","2026-03-26 10:27",36.4876079,-121.1991079,TRUE,FALSE,TRUE,"S313719820",1
-"126","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L60954557","Tharp Dr.","2026-03-26 09:48",37.81252,-122.118035,TRUE,FALSE,TRUE,"S313362791",1
-"127","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L4025297","Frank G. Bonelli RP--South and East Access","2026-03-26 09:38",34.0821838,-117.800442,TRUE,FALSE,FALSE,"S313370599",1
-"128","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L2427038","Joshua Tree NP--Ryan Mountain","2026-03-26 09:31",33.985588,-116.134717,TRUE,FALSE,FALSE,"S313395126",2
-"129","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L32253479","2779 Redondo Ave, Santa Rosa Valley US-CA 34.24636, -118.90351","2026-03-26 09:19",34.24636,-118.90351,TRUE,FALSE,TRUE,"S313375094",1
-"130","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L4136602","Fine Gold Preserve (restricted access)","2026-03-26 09:06",37.0639009,-119.6546316,TRUE,FALSE,FALSE,"S313486069",3
-"131","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L6949047","Fort Ord--Parker Flats (maritime chaparral & Veterans Cemetery)","2026-03-26 09:01",36.6358177,-121.7955709,TRUE,FALSE,FALSE,"S313397891",8
-"132","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L473317","Quail Lake","2026-03-26 09:00",34.7701368,-118.7521648,TRUE,FALSE,FALSE,"S313396928",1
-"133","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L13530124","Rodman Slough Park","2026-03-26 09:00",39.1179868,-122.8849653,TRUE,FALSE,FALSE,"S313362133",1
-"134","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L57198377","Border Field SP (CA Atlas - Imperial Beach SW)","2026-03-26 08:58",32.5387066,-117.123645,TRUE,TRUE,FALSE,"S313331612",1
-"135","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L12207409","Conejo Creek South Park","2026-03-26 08:31",34.1955778,-118.8564353,TRUE,FALSE,FALSE,"S314083203",3
-"136","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L751327","Lake Gregory","2026-03-26 08:27",34.2426014,-117.2685814,TRUE,FALSE,FALSE,"S313338279",1
-"137","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L194688","Sepulveda Basin--East of Woodley Ave","2026-03-26 08:13",34.1767221,-118.4737308,TRUE,FALSE,FALSE,"S313375609",2
-"138","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L61057283","32475 Clinton Keith Road, Wildomar, California, US (33.589, -117.253)","2026-03-26 08:00",33.5887748,-117.2525769,TRUE,FALSE,TRUE,"S313310656",1
-"139","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L61024431","93560, Rosamond US-CA 34.99564, -118.33490","2026-03-26 07:46",34.995639,-118.334902,TRUE,FALSE,TRUE,"S313300069",2
-"140","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L16923382","Piedras Pintadas Trail","2026-03-26 07:21",33.048545,-117.0788,TRUE,FALSE,TRUE,"S313299378",1
-"141","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L2939988","Pomona College","2026-03-26 07:20",34.0973775,-117.7096653,TRUE,FALSE,FALSE,"S313321004",1
-"142","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L4884564","Murrieta--Calle Estancia Park","2026-03-26 07:10",33.5540981,-117.2257941,TRUE,FALSE,FALSE,"S313481039",1
-"143","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L9527104","Mt. Pinos Rd. (KER Co.)","2026-03-26 07:07",34.8214402,-119.085118,TRUE,FALSE,FALSE,"S313309694",1
-"144","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L825020","North Etiwanda Preserve","2026-03-26 06:55",34.1668467,-117.5232183,TRUE,FALSE,FALSE,"S313400134",3
-"145","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L61070435","Gateway Ranch","2026-03-26 06:52",34.0016456,-117.11963,TRUE,FALSE,TRUE,"S313374813",3
-"146","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L3197842","Highway Tank","2026-03-26 06:37",32.3265519,-112.7879405,TRUE,TRUE,FALSE,"S313319512",2
-"147","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L37785836","W Sample Ave, Fresno US-CA","2026-03-26 06:18",36.8267879,-119.8769219,TRUE,FALSE,TRUE,"S313286572",1
-"148","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L7068146","Foothill Road","2026-03-25 17:31",40.158213,-122.111114,TRUE,FALSE,FALSE,"S313158338",3
-"149","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L17245445","Division Rd. and 2 Rivers Rd. area","2026-03-25 16:20",37.6830583,-121.2380133,TRUE,FALSE,FALSE,"S313165716",2
-"150","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L13007779","Moon House-South (private)","2026-03-25 13:54",34.9889664,-117.1935917,TRUE,FALSE,TRUE,"S313094733",1
-"151","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L354400","Monrovia Canyon Park","2026-03-25 12:03",34.1765449,-117.989527,TRUE,FALSE,FALSE,"S313090514",2
-"152","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L61012802","Forest Service Road 9N34, Frazier Park US-CA 34.86163, -119.21280","2026-03-25 12:03",34.861627,-119.212805,TRUE,FALSE,TRUE,"S313067095",4
-"153","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L61061610","Tom Jermin Sr. Park, Templeton US-CA","2026-03-25 11:27",35.553217,-120.727266,TRUE,FALSE,TRUE,"S313332780",1
-"154","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L970506","Maple Springs Truck Trail--gate to end of pavement","2026-03-25 11:15",33.7540471,-117.5665775,TRUE,FALSE,FALSE,"S313134227",1
-"155","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L876076","San Simeon Creek Road","2026-03-25 10:58",35.6089036,-121.0775634,TRUE,FALSE,FALSE,"S313093544",2
-"156","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L302299","Pinnacles NP","2026-03-25 10:51",36.4891359,-121.1843199,TRUE,FALSE,FALSE,"S313361235",2
-"157","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L469046","Castaic Lake SRA","2026-03-25 10:20",34.5218328,-118.590889,TRUE,FALSE,FALSE,"S313051405",3
-"158","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L61015528","Platina @ Bully Choop Rd. 40.42401, -122.76193","2026-03-25 09:56",40.42401,-122.761927,TRUE,TRUE,TRUE,"S313080219",1
-"159","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L23500756","Rancho Jamul Ecological Reserve (restricted access)","2026-03-25 09:51",32.681549,-116.853167,TRUE,FALSE,FALSE,"S313091582",4
-"160","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L2701408","CSU San Bernardino","2026-03-25 09:48",34.1815597,-117.324543,TRUE,FALSE,FALSE,"S313056251",2
-"161","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L7216963","Pallet Creek Road","2026-03-25 09:09",34.4563941,-117.8799105,TRUE,FALSE,FALSE,"S313057990",4
-"162","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L423815","Whitewater Preserve","2026-03-25 08:48",33.9887687,-116.6559255,TRUE,FALSE,FALSE,"S313062702",2
-"163","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L61000607","Castaic Lake, Castaic US-CA 34.51061, -118.61479","2026-03-25 08:47",34.510614,-118.614792,TRUE,FALSE,TRUE,"S313008784",1
-"164","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L2937246","Joseph D. Grant CP--ranch house area","2026-03-25 08:45",37.3376529,-121.7149504,TRUE,TRUE,FALSE,"S313103894",2
-"165","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L374745","Santa Rosa Plateau Ecological Reserve","2026-03-25 08:45",33.5240806,-117.2679806,TRUE,FALSE,FALSE,"S313144579",1
-"166","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L1051376","Bear Valley Springs--Water Canyon Campground","2026-03-25 08:38",35.1879485,-118.6368674,TRUE,FALSE,FALSE,"S313061047",2
-"167","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L573580","Sequoia Riverlands Trust--Herbert Wetland Prairie Preserve","2026-03-25 08:31",36.1976031,-119.1994286,TRUE,FALSE,FALSE,"S313021483",1
-"168","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L61011275","Big morongo","2026-03-25 08:06",34.055646,-116.566923,TRUE,FALSE,TRUE,"S313059788",2
-"169","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L20160950","Tulare_Crystal Drive","2026-03-25 08:04",36.416369,-118.917775,TRUE,FALSE,TRUE,"S313003817",2
-"170","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L606387","Locke-Paddon Park","2026-03-25 08:02",36.6908634,-121.8013107,TRUE,FALSE,FALSE,"S313035244",3
-"171","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L4591764","Angeles NF--Bear Divide","2026-03-25 07:52",34.3602832,-118.3958924,TRUE,FALSE,FALSE,"S313026391",6
-"172","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L13825298","Big Morongo Regional Park, Morongo Valley US-CA (34.0505,-116.5702)","2026-03-25 07:32",34.050522,-116.570214,TRUE,FALSE,TRUE,"S313060946",4
-"173","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L11073212","Chiquita Canyon Area 3","2026-03-25 07:30",33.6027795,-117.6009439,TRUE,FALSE,TRUE,"S313075647",2
-"174","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L269172","Riverside--Sycamore Canyon Wilderness Park","2026-03-25 07:28",33.9452364,-117.323784,TRUE,FALSE,FALSE,"S313021834",1
-"175","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L22182481","Tulare_Ferndale Drive","2026-03-25 07:28",36.413406,-118.917029,TRUE,FALSE,TRUE,"S312987231",1
-"176","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L3272218","Mission Lakes Country Club","2026-03-25 07:15",33.984661,-116.535583,TRUE,FALSE,FALSE,"S313058187",2
-"177","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L61126186","Randsburg Mojave Rd, California City","2026-03-25 07:12",35.240395,-117.784982,TRUE,FALSE,TRUE,"S313659118",1
-"178","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L900289","Anza-Borrego Desert SP--Palm Canyon & Campground","2026-03-25 06:37",33.2698067,-116.4183164,TRUE,FALSE,FALSE,"S313012654",1
-"179","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L684542","Canebrake Ecological Reserve","2026-03-25 06:23",35.7264561,-118.1698465,TRUE,FALSE,FALSE,"S313036799",1
-"180","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L1561390","Robert Louis Stevenson SP","2026-03-25 06:22",38.651907,-122.610525,TRUE,TRUE,FALSE,"S312990519",1
-"181","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L497742","Yuma East Wetlands","2026-03-25 06:06",32.7207934,-114.6065962,TRUE,FALSE,FALSE,"S313077141",2
-"182","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L59089839","Santa Clara River--Santa Clarita","2026-03-25",34.4263481,-118.569539,TRUE,FALSE,TRUE,"S313425590",2
-"183","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L16341805","Logtown Ridge","2026-03-24 18:28",38.6125128,-120.8487353,TRUE,FALSE,TRUE,"S312865325",1
-"184","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L2666069","Joshua Tree NP--Quail Springs","2026-03-24 12:10",34.0399002,-116.1968565,TRUE,FALSE,FALSE,"S314432400",1
-"185","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L60970518","30100 Chualar Canyon Rd, Chualar US-CA 36.59884, -121.43499","2026-03-24 11:17",36.598844,-121.434993,TRUE,FALSE,TRUE,"S312851678",1
-"186","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L39173845","Meadowridge Park","2026-03-24 09:51",33.564131,-117.184291,TRUE,FALSE,FALSE,"S312751205",3
-"187","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L1507312","Fort Ord NM--eastern (Creekside Terrace, Boy Scout pond & Mudhen Lake)","2026-03-24 09:09",36.6148509,-121.6943054,TRUE,FALSE,FALSE,"S312780771",1
-"188","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L6080487","Davis Road North","2026-03-24 09:01",33.8850676,-117.1286445,TRUE,FALSE,TRUE,"S312980244",2
-"189","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L2737390","Anza Borrego Desert State Park - Vallecito","2026-03-24 08:30",32.9683474,-116.3864136,TRUE,FALSE,TRUE,"S312802525",3
-"190","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L384807","Prado Regional Park","2026-03-24 07:54",33.9463861,-117.6506138,TRUE,FALSE,FALSE,"S312794948",2
-"191","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L3155095","Hillside Memorial Park (Redlands)","2026-03-24 07:40",34.02692,-117.17923,TRUE,FALSE,FALSE,"S312736204",4
-"192","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L3185341","Heritage Community Park (SBE Co.)","2026-03-24 07:15",34.153485,-117.609041,TRUE,FALSE,FALSE,"S312769740",1
-"193","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L854273","Lake Wohlford","2026-03-24 07:12",33.1729766,-116.9958115,TRUE,FALSE,FALSE,"S312766522",2
-"194","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L1070018","Rock Corral Canyon","2026-03-24 07:11",31.547472,-111.0989535,TRUE,TRUE,FALSE,"S312766826",3
-"195","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L4293702","Anza-Borrego Desert SP--Plum Canyon","2026-03-24 07:07",33.1140701,-116.429684,TRUE,FALSE,FALSE,"S312756710",1
-"196","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L5384782","San Luis Rey River--North Santa Fe Ave. area","2026-03-24 07:03",33.2478698,-117.2822564,TRUE,FALSE,FALSE,"S312753999",1
-"197","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L27373176","Allen-Mathis Home, Hereford, Arizona, US (31.424, -110.126)","2026-03-24 07:01",31.4240896,-110.1256971,TRUE,FALSE,TRUE,"S312729011",1
-"198","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L10890520","Pinnacles NP--South Wilderness Trail","2026-03-24 07:00",36.4676123,-121.1546141,TRUE,FALSE,FALSE,"S312782583",2
-"199","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L17228649","Santa Ana River wash (Redlands/Highland)","2026-03-24 06:24",34.086764,-117.1714676,TRUE,FALSE,FALSE,"S312776269",2
-"200","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L16770230","4237 Keith Ln, Chico US-CA Private Residence","2026-03-23 17:39",39.796053,-121.892902,TRUE,FALSE,TRUE,"S312979417",1
-"201","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L3556380","Moreno Valley yard","2026-03-23 16:58",33.9499283,-117.2667141,TRUE,FALSE,TRUE,"S312728935",3
-"202","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L461293","Polliwog Park","2026-03-23 16:15",33.8888713,-118.3853674,TRUE,FALSE,FALSE,"S312570922",1
-"203","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L863722","Joshua Tree NP--Black Rock Campground","2026-03-23 15:19",34.0738777,-116.3906316,TRUE,FALSE,FALSE,"S312569974",2
-"204","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L552461","State Highway 74 at Santa Rosa Mountain Road","2026-03-23 14:59",33.5676454,-116.511662,TRUE,FALSE,FALSE,"S312692124",1
-"205","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L61092098","Gene Marshall-Piedra Blanca Trail","2026-03-23 14:14",34.677784,-119.309171,TRUE,FALSE,TRUE,"S313482503",2
-"206","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L60904054","Red Bluff Ln, Moorpark US-CA 34.27831, -118.93912","2026-03-23 13:23",34.278312,-118.93912,TRUE,FALSE,TRUE,"S312516546",2
-"207","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L631087","Lake Piru","2026-03-23 12:23",34.4703904,-118.7528085,TRUE,FALSE,FALSE,"S312585081",2
-"208","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L10231560","Buenos Aires NWR--Arivaca Creek Trailhead","2026-03-23 12:10",31.5934749,-111.363728,TRUE,TRUE,FALSE,"S312533792",4
-"209","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L3175119","San Juan/Shell Creek Road","2026-03-23 11:40",35.6033925,-120.3298069,TRUE,FALSE,FALSE,"S313324168",1
-"210","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L565952","Alta Sierra--Rancheria Rd.","2026-03-23 10:35",35.7377693,-118.5571146,TRUE,FALSE,FALSE,"S312584873",2
-"211","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L1126145","Lakepoint Park","2026-03-23 10:01",33.661139,-117.3274612,TRUE,FALSE,FALSE,"S312475677",2
-"212","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L450847","Emigrant Lake--South Shore","2026-03-23 10:01",42.1337652,-122.6129258,TRUE,TRUE,FALSE,"S312499417",1
-"213","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L60892645","35th St, Lompoc US-CA 34.70449, -120.57871","2026-03-23 09:41",34.704495,-120.57871,TRUE,FALSE,TRUE,"S312464517",3
-"214","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L4283993","Sycamore Island (restricted access)","2026-03-23 09:12",36.8530118,-119.8211432,TRUE,FALSE,FALSE,"S312530849",2
-"215","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L60888636","Saddle Springs Rd.--Caliente Bodfish Rd. to Piute Cypress forest","2026-03-23 08:32",35.564638,-118.493057,TRUE,FALSE,TRUE,"S312444490",1
-"216","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L11286149","Upper Chiquita Canyon Area 4","2026-03-23 08:30",33.6069973,-117.6018027,TRUE,FALSE,TRUE,"S312588593",1
-"217","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L280811","The Living Desert Zoo and Gardens","2026-03-23 08:15",33.7003681,-116.3735819,TRUE,FALSE,FALSE,"S312470926",2
-"218","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L1987142","Riverside, University of California campus","2026-03-23 07:41",33.9733094,-117.3281586,TRUE,FALSE,FALSE,"S312429283",2
-"219","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L14994569","Hidden Springs Greenbelt, Moreno Valley, Ca","2026-03-23 07:31",33.9708496,-117.2667555,TRUE,FALSE,TRUE,"S312444634",1
-"220","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L387824","Table Mountain (BUT Co.)","2026-03-23 07:24",39.5996372,-121.5470695,TRUE,FALSE,FALSE,"S312485032",4
-"221","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L281844","Montosa Canyon--km 1 (culvert area)","2026-03-23 07:20",31.6714585,-110.941082,TRUE,TRUE,FALSE,"S312497645",1
-"222","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L485794","Anza-Borrego Desert SP--Yaqui Well","2026-03-23 07:15",33.1386472,-116.3875937,TRUE,FALSE,FALSE,"S312758116",3
-"223","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L845404","Sequoia NF--Sandy Flat Campground","2026-03-23 06:13",35.5822567,-118.5261297,TRUE,FALSE,FALSE,"S313794128",1
-"224","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L1222309","New Cuyama (town) and Richardson Park","2026-03-22 18:46",34.9463934,-119.6849613,TRUE,FALSE,FALSE,"S312248055",2
-"225","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L283581","Anza-Borrego Desert SP--Tamarisk Grove Campground","2026-03-22 18:19",33.1383219,-116.3755225,TRUE,FALSE,FALSE,"S312252521",1
-"226","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L42232866","Artois (town) - includes Walker Creek","2026-03-22 17:20",39.6240523,-122.1953451,TRUE,FALSE,FALSE,"S312269083",2
-"227","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L60846769","32730-32744 Camphora Gloria Road, Gonzales, California, US (36.489, -121.357)","2026-03-22 16:43",36.488638,-121.35667,TRUE,FALSE,TRUE,"S312226317",15
-"228","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L60846172","29748 Camphora Gloria Road, Soledad, California, US (36.496, -121.365)","2026-03-22 16:37",36.4959941,-121.3648106,TRUE,FALSE,TRUE,"S312223415",4
-"229","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L60845074","Gloria Road, Gonzales, California, US (36.506, -121.372)","2026-03-22 16:10",36.5058863,-121.3718669,TRUE,FALSE,TRUE,"S312217918",6
-"230","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L58664300","Ferrendelli yard","2026-03-22 16:04",38.707054,-121.858192,TRUE,FALSE,TRUE,"S312237307",2
-"231","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L60843958","28001-28229 Iverson Road, Gonzales, California, US (36.522, -121.414)","2026-03-22 15:55",36.5215495,-121.4144412,TRUE,FALSE,TRUE,"S312212436",2
-"232","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L60842021","26371 Iverson Road, Gonzales, California, US (36.537, -121.427)","2026-03-22 15:31",36.5365135,-121.426932,TRUE,FALSE,TRUE,"S312203342",1
-"233","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L60840854","25529-25435 Iverson Road, Gonzales, California, US (36.556, -121.445)","2026-03-22 15:13",36.5557075,-121.445478,TRUE,FALSE,TRUE,"S312197732",1
-"234","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L1316658","Morro Bay SP--Marina/Boardwalk Trail","2026-03-22 13:17",35.3445235,-120.8418006,TRUE,FALSE,FALSE,"S312168162",2
-"235","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L2215546","Wind Wolves Preserve--San Emigdio Campground","2026-03-22 10:48",34.9912601,-119.1847073,TRUE,FALSE,FALSE,"S312212126",1
-"236","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L5625206","Caliente Ridge Road, Carrizo Plain National Monument","2026-03-22 09:42",35.1162836,-119.8558187,TRUE,FALSE,FALSE,"S313742172",3
-"237","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L1570272","Vineyard Cyn Rd.--lower (~mp 0-5)","2026-03-22 09:30",35.8036399,-120.6762046,TRUE,FALSE,FALSE,"S312243046",4
-"238","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L1300216","Joshua Tree NP--Hidden Valley area","2026-03-22 09:28",34.014585,-116.171998,TRUE,FALSE,FALSE,"S312855210",2
-"239","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L2150732","San Luis Rey River Park--Bonsall area","2026-03-22 09:05",33.2951667,-117.2195721,TRUE,FALSE,FALSE,"S312150303",2
-"240","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L228769","Big Rock Campground","2026-03-22 09:01",34.388,-117.7767,TRUE,FALSE,FALSE,"S312148398",6
-"241","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L10476482","Deep Creek (lower)","2026-03-22 09:00",34.3423265,-117.2312609,TRUE,TRUE,FALSE,"S312183581",45
-"242","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L877598","Bob's Gap -- Just north of the gap","2026-03-22 08:43",34.4576326,-117.8139067,TRUE,FALSE,TRUE,"S312251240",2
-"243","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L39296892","7387 Kickin Horse Trail, Julian US-CA 33.07332, -116.43758","2026-03-22 08:11",33.073318,-116.437581,TRUE,FALSE,TRUE,"S312007275",2
-"244","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L14817221","Ryden Park, Beale AFB","2026-03-22 07:45",39.1056044,-121.3475776,TRUE,FALSE,TRUE,"S312186442",1
-"245","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L672693","Cuyamaca Rancho SP--Paso Picacho Campground","2026-03-22 07:42",32.95894,-116.58077,TRUE,FALSE,FALSE,"S312001763",1
-"246","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L37919320","Cuyama Valley View (restricted/private property)","2026-03-22 07:17",34.934035,-119.448997,TRUE,FALSE,TRUE,"S312034934",2
-"247","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L1113334","Laguna Mtns.--Laguna Campground","2026-03-22 07:16",32.8899663,-116.4492631,TRUE,FALSE,FALSE,"S312122428",2
-"248","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L2371474","Cuyamaca Rancho SP--Marty Minshall Trail","2026-03-22 07:11",32.9775101,-116.5790713,TRUE,FALSE,FALSE,"S312049335",4
-"249","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L877590","Bob's Gap Road, W. of Panorama","2026-03-22 07:00",34.449874,-117.8221947,TRUE,FALSE,TRUE,"S312251189",3
-"250","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L4198297","San Bernardo Valley--east of I-15","2026-03-22 06:56",33.0569093,-117.0507844,TRUE,FALSE,FALSE,"S312079955",2
-"251","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L466266","Atascadero Wastewater Treatment Ponds--no internal access","2026-03-21 18:02",35.4827588,-120.6424508,TRUE,FALSE,FALSE,"S311934546",2
-"252","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L3317448","The Lakes--Private Property","2026-03-21 16:16",35.51434,-120.67129,TRUE,FALSE,FALSE,"S312492163",1
-"253","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L598700","Rancho Bernardo Community Park","2026-03-21 16:12",33.0462396,-117.075328,TRUE,FALSE,FALSE,"S311701361",1
-"254","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L6811596","Grossmont Dr. yard","2026-03-21 14:30",33.9378213,-117.3385549,TRUE,FALSE,TRUE,"S313110984",1
-"255","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L9199267","Bitter Creek NWR","2026-03-21 13:19",34.9303119,-119.3959547,TRUE,FALSE,FALSE,"S311624989",3
-"256","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L13468483","Little Peachtree north (mp 14 to 12; view from road only)","2026-03-21 12:30",36.1880203,-120.8096871,TRUE,FALSE,FALSE,"S312304075",1
-"257","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L60749226","Aliso and Wood Canyons Wilderness Park, Aliso Viejo US-CA 33.54837, -117.72276","2026-03-21 12:16",33.548371,-117.722759,TRUE,FALSE,TRUE,"S311734581",1
-"258","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L38759475","Hansen Dam Recreation Area, Los Angeles US-CA 34.27259, -118.38491","2026-03-21 11:14",34.272594,-118.384907,TRUE,FALSE,TRUE,"S311597939",2
-"259","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L6512567","Boulder Ridge Park","2026-03-21 11:11",38.8385711,-121.2308264,TRUE,TRUE,FALSE,"S311591078",4
-"260","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L766242","Angeles Crest Highway, Mile 51.2, San Gabriel Mountains","2026-03-21 11:07",34.3313478,-117.9962969,TRUE,FALSE,TRUE,"S311611224",2
-"261","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L721572","Base and Meridian WA","2026-03-21 11:07",33.3791718,-112.3074389,TRUE,FALSE,FALSE,"S311621271",3
-"262","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L60715798","Knollwood - San Fernando CW Atlas Block","2026-03-21 10:34",34.29321,-118.497207,TRUE,FALSE,TRUE,"S311581889",2
-"263","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L1990374","Hemispheric Dome","2026-03-21 10:00",35.6310875,-117.8598797,TRUE,FALSE,TRUE,"S313767669",1
-"264","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L60741348","Bittercreek wildlife reserve","2026-03-21 09:44",34.3959345,-119.0770834,TRUE,FALSE,TRUE,"S311702425",1
-"265","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L1073523","Palm Springs Aerial Tramway--top (Long Valley area)","2026-03-21 09:27",33.8130099,-116.6387343,TRUE,FALSE,FALSE,"S312473360",2
-"266","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L1788110","Laguna Mtns.--Big Laguna & Meadow","2026-03-21 09:25",32.8776961,-116.4607005,TRUE,FALSE,FALSE,"S312121795",4
-"267","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L60715577","Knollwood - San Fernando SW Atlas Block","2026-03-21 09:24",34.285409,-118.499082,TRUE,FALSE,TRUE,"S311580872",2
-"268","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L19942768","Tulare_Case Mt hammock lookout","2026-03-21 09:22",36.456343,-118.85758,TRUE,FALSE,TRUE,"S311590134",1
-"269","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L1073050","Cucamonga-Guasti Regional Park","2026-03-21 09:10",34.0749859,-117.5903606,TRUE,FALSE,FALSE,"S311648623",1
-"270","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L60919275","Soledad, Ramus Road above Shirtail Canyon Road","2026-03-21 09:00",36.4212205,-121.2204101,TRUE,FALSE,TRUE,"S312588542",6
-"271","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L17686622","Kings River Conservation District Raptor Trail","2026-03-21 08:41",36.8284205,-119.3430233,TRUE,FALSE,FALSE,"S311617215",2
-"272","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L295649","Angeles Crest Highway, Devil's Canyon Overlook, San Gabriel Mtns","2026-03-21 08:40",34.3189536,-118.0027892,TRUE,FALSE,TRUE,"S312259771",1
-"273","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L686946","Ed Levin CP--Spring Valley area","2026-03-21 08:39",37.4457324,-121.8471551,TRUE,TRUE,FALSE,"S311633421",2
-"274","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L993428","Ron Morriss Park","2026-03-21 08:31",31.6090037,-111.0424018,TRUE,TRUE,FALSE,"S311628709",1
-"275","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L60690405","54593–55009 CA-74, Mountain Center US-CA 33.68825, -116.70534","2026-03-21 08:26",33.688248,-116.705337,TRUE,FALSE,TRUE,"S311467445",2
-"276","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L1873547","Camp Creek","2026-03-21 08:20",33.9100521,-111.8163773,TRUE,FALSE,FALSE,"S311963475",2
-"277","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L3595611","Jeffries Ranch horse trails","2026-03-21 07:57",33.2457494,-117.2587377,TRUE,FALSE,FALSE,"S311522842",1
-"278","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L60922158","Soledad, Shirtail Canyon Road at Ramus Road","2026-03-21 07:55",36.4260725,-121.2296293,TRUE,FALSE,TRUE,"S312605016",4
-"279","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L866401","Hwy 46 Post Mile 5.0 pond (no internal access)","2026-03-21 07:41",35.5429391,-120.9662118,TRUE,FALSE,FALSE,"S311904904",2
-"280","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L492018","Audubon Bobcat Ranch","2026-03-21 07:41",38.5209068,-122.0323563,TRUE,FALSE,FALSE,"S312205583",1
-"281","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L57622483","Wildwood Canyon State Park (CA Atlas - Forest Falls SW)","2026-03-21 07:28",34.022616,-116.996319,TRUE,FALSE,FALSE,"S311467190",1
-"282","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L128938","Catalina SP","2026-03-21 07:22",32.4244027,-110.9123905,TRUE,TRUE,FALSE,"S311516348",1
-"283","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L38205735","Oak Glen Creek Basins Trail","2026-03-21 07:18",34.0446768,-117.0335302,TRUE,FALSE,FALSE,"S311497738",13
-"284","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L16187866","KJZ yard, Garcia Rd, Atascadero","2026-03-21 07:00",35.514632,-120.7064838,TRUE,FALSE,TRUE,"S311733528",1
-"285","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L8225413","Cole Canyon Trail (Murrieta)","2026-03-21 06:29",33.562523,-117.25365,TRUE,FALSE,FALSE,"S311667581",2
-"286","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L601812","Black Widow Ranch","2026-03-21",33.9856225,-117.3125723,TRUE,FALSE,TRUE,"S311735983",1
-"287","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L634555","Mojave National Preserve--Providence Mountains SRA","2026-03-20 18:00",34.9432656,-115.5130219,TRUE,FALSE,FALSE,"S311189428",NA
-"288","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L10664691","French Valley Wildlife Area","2026-03-20 17:56",33.5635407,-117.0723305,TRUE,FALSE,FALSE,"S311195841",3
-"289","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L1875310","Valle Lindo Park","2026-03-20 11:59",34.2268065,-119.0575023,TRUE,FALSE,FALSE,"S311110818",1
-"290","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L12732248","Jim Green Trail, Atascadero","2026-03-20 11:09",35.4817977,-120.6447481,TRUE,FALSE,FALSE,"S311483023",2
-"291","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L3917353","Moreno Valley--Hidden Springs Park and Multi-use Trail","2026-03-20 09:47",33.9771119,-117.2663121,TRUE,FALSE,FALSE,"S311194235",8
-"292","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L55110028","Private Residence","2026-03-20 08:56",39.978958,-122.024264,TRUE,FALSE,TRUE,"S311038031",5
-"293","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L60598875","Phoenix Bypass Route, Maricopa, Arizona, US (32.828, -112.096)","2026-03-20 08:29",32.8278316,-112.0960722,TRUE,FALSE,TRUE,"S311007176",3
-"294","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L163614","California City Central Park","2026-03-20 07:32",35.1289,-117.9454722,TRUE,FALSE,FALSE,"S311037861",3
-"295","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L898237","San Lorenzo County Park","2026-03-20 07:22",36.2055107,-121.1490887,TRUE,FALSE,FALSE,"S310992074",4
-"296","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L11182161","Chiquita Canyon Area 5","2026-03-20 07:00",33.6179865,-117.5987648,TRUE,FALSE,TRUE,"S312270244",1
-"297","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L1959168","165th E and Ave X","2026-03-20 06:44",34.4837785,-117.8349781,TRUE,FALSE,TRUE,"S311167101",2
-"298","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L3824198","US-CA-Kern--Weldon--Kelso Valley--Bird Springs neighborhood","2026-03-20 06:16",35.560495,-118.220604,TRUE,FALSE,TRUE,"S310995703",1
-"299","lawgol","Lawrence's Goldfinch","Spinus lawrencei","L4251878","Southern Sierra Research Station","2026-03-20 06:12",35.6869342,-118.2895552,TRUE,FALSE,FALSE,"S311498890",2
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
+"1","hrshaw","Harris's Hawk","Parabuteo unicinctus","L259855","Estero Llano Grande SP WBC (LTC 054)","2026-03-30 14:30",2,26.1268335,-97.9578167,TRUE,FALSE,FALSE,"S314917403"
+"2","hrshaw","Harris's Hawk","Parabuteo unicinctus","L287881","Brownsville Landfill (LTC 041) - check in at office","2026-03-30 13:52",1,25.9365631,-97.3924657,TRUE,FALSE,FALSE,"S314923346"
+"3","hrshaw","Harris's Hawk","Parabuteo unicinctus","L38916334","Starr Co.—Old 83 Rd X Santa Margarita Rd","2026-03-30 13:46",2,26.4981706,-99.0760829,TRUE,FALSE,FALSE,"S314867881"
+"4","hrshaw","Harris's Hawk","Parabuteo unicinctus","L385285","Encanto Park","2026-03-30 13:28",2,33.4740415,-112.0898581,TRUE,FALSE,FALSE,"S314896591"
+"5","hrshaw","Harris's Hawk","Parabuteo unicinctus","L822115","Tucson--Bear Canyon Rd","2026-03-30 13:24",1,32.2631848,-110.8019257,TRUE,FALSE,TRUE,"S314879345"
+"6","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61396263","30104 Veterans Memorial Blvd, San Manuel US-AZ 32.60027, -110.61669","2026-03-30 12:50",1,32.600268,-110.616691,TRUE,FALSE,TRUE,"S314895571"
+"7","hrshaw","Harris's Hawk","Parabuteo unicinctus","L3328096","Salineno--Dump Road","2026-03-30 12:28",1,26.5296996,-99.106797,TRUE,FALSE,FALSE,"S314866984"
+"8","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61380129","10899 FM-88, Raymondville US-TX 26.45438, -97.95436","2026-03-30 12:14",1,26.454385,-97.954359,TRUE,FALSE,TRUE,"S314817074"
+"9","hrshaw","Harris's Hawk","Parabuteo unicinctus","L3322724","Cameron Co.--TX100--Aplomado Viewing Area","2026-03-30 12:13",1,26.0913939,-97.3272438,TRUE,FALSE,FALSE,"S314820806"
+"10","hrshaw","Harris's Hawk","Parabuteo unicinctus","L14533442","Tennis Courts, Ajo, Arizona, US (32.376, -112.859)","2026-03-30 10:28",1,32.3763253,-112.8592007,TRUE,FALSE,TRUE,"S314830221"
+"11","hrshaw","Harris's Hawk","Parabuteo unicinctus","L2266657","Laguna Atascosa NWR--Lakeside Drive","2026-03-30 09:35",1,26.2335321,-97.3533726,TRUE,FALSE,FALSE,"S314921921"
+"12","hrshaw","Harris's Hawk","Parabuteo unicinctus","L129066","Rio Bosque Park (FWTX 11)","2026-03-30 09:33",1,31.6408997,-106.3099976,TRUE,FALSE,FALSE,"S314779278"
+"13","hrshaw","Harris's Hawk","Parabuteo unicinctus","L288854","Laguna Atascosa NWR--Bayside Drive","2026-03-30 09:28",1,26.2163251,-97.3425493,TRUE,FALSE,FALSE,"S314922343"
+"14","hrshaw","Harris's Hawk","Parabuteo unicinctus","L57123991","Troon","2026-03-30 09:18",1,33.712417,-111.852702,TRUE,FALSE,TRUE,"S314832048"
+"15","hrshaw","Harris's Hawk","Parabuteo unicinctus","L710850","Glendale Recharge Ponds","2026-03-30 09:00",1,33.5242237,-112.286582,TRUE,FALSE,FALSE,"S314890556"
+"16","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61363204","10051 US-281 S, Alice US-TX 27.49406, -98.10551","2026-03-30 08:43",1,27.494057,-98.105506,TRUE,FALSE,TRUE,"S314730799"
+"17","hrshaw","Harris's Hawk","Parabuteo unicinctus","L43395302","EIA (Private property/restricted access)","2026-03-30 08:30",1,26.2747338,-98.1620371,TRUE,FALSE,TRUE,"S314779963"
+"18","hrshaw","Harris's Hawk","Parabuteo unicinctus","L129085","Santa Ana NWR (LTC 059)","2026-03-30 08:30",2,26.0813003,-98.1351399,TRUE,FALSE,FALSE,"S314851164"
+"19","hrshaw","Harris's Hawk","Parabuteo unicinctus","L9278737","Carbon Plant Road, Corpus Christi, Texas, US (27.849, -97.56)","2026-03-30 08:08",1,27.8490746,-97.5604157,TRUE,FALSE,TRUE,"S314723916"
+"20","hrshaw","Harris's Hawk","Parabuteo unicinctus","L128961","Falcon Lake (Zapata Co.)","2026-03-30 07:37",1,26.6728992,-99.2039032,TRUE,FALSE,FALSE,"S314934190"
+"21","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61339320","17320 Jesus Maria Rd, Edinburg US-TX 26.56042, -97.96867","2026-03-29 19:26",2,26.56042,-97.968668,TRUE,FALSE,TRUE,"S314607506"
+"22","hrshaw","Harris's Hawk","Parabuteo unicinctus","L13401573","26005 S 99th Dr, Sun Lakes US-AZ 33.21075, -111.86752","2026-03-29 18:49",2,33.210749,-111.86752,TRUE,FALSE,TRUE,"S314608123"
+"23","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61333682","IH-2 E, Alamo US-TX 26.18698, -98.09180","2026-03-29 18:47",1,26.186976,-98.091796,TRUE,FALSE,TRUE,"S314581230"
+"24","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1842657","Greenwood Memory Lawn Cemetery","2026-03-29 17:52",1,33.4567568,-112.1135585,TRUE,FALSE,FALSE,"S314606694"
+"25","hrshaw","Harris's Hawk","Parabuteo unicinctus","L570070","Chaparral WMA (Dimmit Co.)","2026-03-29 17:40",1,28.2992513,-99.4105089,TRUE,FALSE,FALSE,"S314584500"
+"26","hrshaw","Harris's Hawk","Parabuteo unicinctus","L873713","La Rosita (Duval Co.)","2026-03-29 17:27",1,27.7877577,-98.4299469,TRUE,FALSE,FALSE,"S314569447"
+"27","hrshaw","Harris's Hawk","Parabuteo unicinctus","L21636963","Peculiar Nest Airbnb (restricted access)","2026-03-29 17:00",1,26.180693,-98.272806,TRUE,FALSE,FALSE,"S314602190"
+"28","hrshaw","Harris's Hawk","Parabuteo unicinctus","L129065","Resaca de la Palma SP WBC (Brownsville) (LTC 048)","2026-03-29 14:30",2,25.9965839,-97.5690513,TRUE,FALSE,FALSE,"S314561951"
+"29","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61312174","US-83 N, Laredo US-TX 27.32454, -99.44012","2026-03-29 14:12",1,27.324543,-99.440121,TRUE,FALSE,TRUE,"S314482172"
+"30","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61308824","4607 North Ranch Road 187, Sabinal, Texas, US (29.4, -99.47)","2026-03-29 13:36",1,29.3999744,-99.4704896,TRUE,FALSE,TRUE,"S314468098"
+"31","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61308494","FM-624, Tilden US-TX 28.10585, -98.47040","2026-03-29 13:30",2,28.105853,-98.4704,TRUE,FALSE,TRUE,"S314466766"
+"32","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61305594","zTexas 359, San Diego, Texas, US (27.701, -98.294)","2026-03-29 13:05",2,27.701066,-98.2938015,TRUE,FALSE,TRUE,"S314454486"
+"33","hrshaw","Harris's Hawk","Parabuteo unicinctus","L2127225","Benavides WTP","2026-03-29 12:24",1,27.5946416,-98.3875566,TRUE,FALSE,FALSE,"S314448041"
+"34","hrshaw","Harris's Hawk","Parabuteo unicinctus","L497138","LRGV NWR--Cannon Road (LTC-050)","2026-03-29 11:50",1,26.0757882,-97.7853584,TRUE,FALSE,FALSE,"S314479033"
+"35","hrshaw","Harris's Hawk","Parabuteo unicinctus","L39478010","6295 Old Alice Road, Brownsville, Texas, US (26, -97.519)","2026-03-29 10:05",1,26.0003728,-97.5191881,TRUE,FALSE,TRUE,"S314372575"
+"36","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61286924","FM-3162, Sandia Texas","2026-03-29 09:55",1,28.112195,-98.094916,TRUE,FALSE,TRUE,"S314373433"
+"37","hrshaw","Harris's Hawk","Parabuteo unicinctus","L2392487","Laguna Vista Nature Trail","2026-03-29 09:51",1,26.1009454,-97.29914,TRUE,FALSE,FALSE,"S314407883"
+"38","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1026012","Palmito Hill Road","2026-03-29 09:30",3,25.942593,-97.2974431,TRUE,FALSE,FALSE,"S314352746"
+"39","hrshaw","Harris's Hawk","Parabuteo unicinctus","L129070","Sabal Palm Sanctuary (LTC 042)","2026-03-29 09:27",1,25.85233,-97.4176839,TRUE,FALSE,FALSE,"S314460694"
+"40","hrshaw","Harris's Hawk","Parabuteo unicinctus","L2764095","Hanka Sod (former Superior Turf Farms) / Weaver rd.","2026-03-29 09:25",3,26.1039435,-97.7723229,TRUE,FALSE,FALSE,"S314483289"
+"41","hrshaw","Harris's Hawk","Parabuteo unicinctus","L299012","Oracle State Park","2026-03-29 09:17",2,32.6083177,-110.7335132,TRUE,FALSE,FALSE,"S314462668"
+"42","hrshaw","Harris's Hawk","Parabuteo unicinctus","L2222304","Cameron Co.--TX100 (E. Ocean Blvd.)","2026-03-29 09:15",4,26.0737452,-97.3741007,TRUE,FALSE,FALSE,"S314607592"
+"43","hrshaw","Harris's Hawk","Parabuteo unicinctus","L689527","Sabino Dam and downstream riparian","2026-03-29 09:14",1,32.3131068,-110.8113941,TRUE,FALSE,FALSE,"S314416882"
+"44","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61279987","FM-735, Alice Texas","2026-03-29 09:14",1,27.58301,-98.122607,TRUE,FALSE,TRUE,"S314339886"
+"45","hrshaw","Harris's Hawk","Parabuteo unicinctus","L190217","Evelyn Hallman Park","2026-03-29 08:54",1,33.4480905,-111.9371943,TRUE,FALSE,FALSE,"S314481273"
+"46","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61317651","14900–15260 Jimenez Rd, San Benito US-TX 26.08825, -97.78072","2026-03-29 08:31",2,26.088253,-97.780719,TRUE,FALSE,TRUE,"S314505382"
+"47","hrshaw","Harris's Hawk","Parabuteo unicinctus","L57760183","Private Home
+Wickenburg AZ","2026-03-29 08:30",1,33.950671,-112.7045323,TRUE,FALSE,TRUE,"S314613736"
+"48","hrshaw","Harris's Hawk","Parabuteo unicinctus","L128933","Carlsbad Caverns NP--Rattlesnake Springs","2026-03-29 08:11",1,32.1109359,-104.4660668,TRUE,FALSE,FALSE,"S314389510"
+"49","hrshaw","Harris's Hawk","Parabuteo unicinctus","L40979022","LaSR","2026-03-29 08:02",1,33.6378192,-112.3210364,TRUE,FALSE,TRUE,"S314383737"
+"50","hrshaw","Harris's Hawk","Parabuteo unicinctus","L613081","Bentsen-Rio Grande Val. SP--Hawk Watch","2026-03-29 08:00",1,26.1690952,-98.3805352,TRUE,FALSE,FALSE,"S314465297"
+"51","hrshaw","Harris's Hawk","Parabuteo unicinctus","L128890","Bentsen-Rio Grande Val. SP WBC (Mission) (LTC 069)","2026-03-29 08:00",2,26.1796748,-98.3842338,TRUE,FALSE,FALSE,"S314545495"
+"52","hrshaw","Harris's Hawk","Parabuteo unicinctus","L21564868","Norberto Beto Salinas Park","2026-03-29 07:50",2,26.173753,-98.332244,TRUE,FALSE,FALSE,"S314545198"
+"53","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61296977","280–292 RM-6290A, Laredo US-TX 27.90028, -99.40944","2026-03-29 07:28",1,27.900278,-99.409435,TRUE,FALSE,TRUE,"S314418762"
+"54","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61236336","Home on W Alton Gloor Blvd, Brownsville","2026-03-29 07:21",1,25.951637,-97.541586,TRUE,FALSE,TRUE,"S314607600"
+"55","hrshaw","Harris's Hawk","Parabuteo unicinctus","L560027","Jacumba--town, pond, fields","2026-03-29 07:20",1,32.6191061,-116.1844861,TRUE,TRUE,FALSE,"S314406448"
+"56","hrshaw","Harris's Hawk","Parabuteo unicinctus","L22091545","Anthem—Southeast Parkside","2026-03-29 07:11",1,33.847651,-112.103797,TRUE,FALSE,TRUE,"S314419335"
+"57","hrshaw","Harris's Hawk","Parabuteo unicinctus","L190925","Salt River--Coon Bluff Recreation Area","2026-03-29 07:00",2,33.5471399,-111.6454576,TRUE,FALSE,FALSE,"S314451837"
+"58","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61277084","3160–3192 N Bear Canyon Rd, Tucson US-AZ 32.26512, -110.80220","2026-03-29 06:53",1,32.265121,-110.802197,TRUE,FALSE,TRUE,"S314325275"
+"59","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61283948","W Tucson-Ajo Hwy, Marana US-AZ 32.00909, -111.66777","2026-03-29 06:41",1,32.009085,-111.667774,TRUE,FALSE,TRUE,"S314359535"
+"60","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61283873","W Tucson-Ajo Hwy, Sells US-AZ 32.02770, -111.57356","2026-03-29 06:36",1,32.027697,-111.573564,TRUE,FALSE,TRUE,"S314359089"
+"61","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61283908","W Tucson-Ajo Hwy, Sells US-AZ (32.0370,-111.5267)","2026-03-29 06:34",2,32.037024,-111.526706,TRUE,FALSE,TRUE,"S314358908"
+"62","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1583722","Tempe: Marlborough Park neighborhood","2026-03-29 06:23",2,33.4483263,-111.9330702,TRUE,FALSE,TRUE,"S314470610"
+"63","hrshaw","Harris's Hawk","Parabuteo unicinctus","L579154","Nugget Canyon","2026-03-29 06:15",1,32.52413,-110.70583,TRUE,FALSE,FALSE,"S314584392"
+"64","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61145991","33240 N Pima Rd, Scottsdale US-AZ 33.78724, -111.89373","2026-03-29 05:31",2,33.787237,-111.893728,TRUE,FALSE,TRUE,"S314368882"
+"65","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1210076","McAllen--Parakeet roost (10th Str. N&S of Trenton rd.)","2026-03-28 19:37",1,26.2687567,-98.2188574,TRUE,FALSE,FALSE,"S314151041"
+"66","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1103846","Bill Witt City Park","2026-03-28 19:18",1,27.653958,-97.3763752,TRUE,FALSE,FALSE,"S314143135"
+"67","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61240672","IH-2 W, Mercedes US-TX 26.15887, -97.90419","2026-03-28 18:50",1,26.158868,-97.904191,TRUE,FALSE,TRUE,"S314158269"
+"68","hrshaw","Harris's Hawk","Parabuteo unicinctus","L59742553","West Cocorague Ranch Road, Marana, Arizona, US (32.231, -111.347)","2026-03-28 18:31",1,32.2311574,-111.3469251,TRUE,FALSE,TRUE,"S314332708"
+"69","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61113244","Sun City West, Arizona, US","2026-03-28 18:05",1,33.6946923,-112.352272,TRUE,FALSE,TRUE,"S314161644"
+"70","hrshaw","Harris's Hawk","Parabuteo unicinctus","L23303439","Fountain of the Sun South","2026-03-28 17:59",2,33.3980868,-111.6620824,TRUE,FALSE,TRUE,"S314162199"
+"71","hrshaw","Harris's Hawk","Parabuteo unicinctus","L2527820","La Paloma","2026-03-28 17:48",3,27.864459,-98.424953,TRUE,FALSE,TRUE,"S314141735"
+"72","hrshaw","Harris's Hawk","Parabuteo unicinctus","L129083","San Ygnacio Bird Sanctuary & riverfront (LTC 087)","2026-03-28 17:00",1,27.0446212,-99.4444013,TRUE,FALSE,FALSE,"S308246415"
+"73","hrshaw","Harris's Hawk","Parabuteo unicinctus","L38044747","Military Pkwy, Mission US-TX 26.17801, -98.34354","2026-03-28 16:33",2,26.178006,-98.343535,TRUE,FALSE,TRUE,"S314098041"
+"74","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61226126","Old Charco-Blanco Rd, Rio Grande City US-TX 26.44848, -98.82593","2026-03-28 16:30",1,26.448482,-98.825934,TRUE,FALSE,TRUE,"S314096770"
+"75","hrshaw","Harris's Hawk","Parabuteo unicinctus","L5716422","Nana's Taqueria","2026-03-28 16:19",1,26.14124,-97.958469,TRUE,FALSE,FALSE,"S314091720"
+"76","hrshaw","Harris's Hawk","Parabuteo unicinctus","L514799","Palo Alto Battlefield NHP (LTC 031)","2026-03-28 15:17",2,26.0191488,-97.4760676,TRUE,FALSE,FALSE,"S314174502"
+"77","hrshaw","Harris's Hawk","Parabuteo unicinctus","L57987741","Dead Tree","2026-03-28 15:06",2,32.3524087,-111.0724548,TRUE,FALSE,TRUE,"S314106644"
+"78","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61218135","N Expressway 281, Edinburg US-TX 26.41365, -98.13807","2026-03-28 14:51",1,26.413652,-98.138067,TRUE,FALSE,TRUE,"S314064658"
+"79","hrshaw","Harris's Hawk","Parabuteo unicinctus","L480168","Veterans Oasis Park","2026-03-28 11:53",1,33.2347837,-111.7695838,TRUE,FALSE,FALSE,"S314608175"
+"80","hrshaw","Harris's Hawk","Parabuteo unicinctus","L37919845","Ten Mile Rd (CR336)","2026-03-28 11:03",3,29.489752,-99.617508,TRUE,FALSE,TRUE,"S314019291"
+"81","hrshaw","Harris's Hawk","Parabuteo unicinctus","L3406702","Margaret T. Hance Park","2026-03-28 10:35",1,33.4617091,-112.0761801,TRUE,FALSE,FALSE,"S314170734"
+"82","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61205615","1822 W Twain Dr, Anthem US-AZ (33.8493,-112.0982)","2026-03-28 10:34",1,33.849283,-112.098167,TRUE,FALSE,TRUE,"S314015286"
+"83","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61203593","Bentsen Rio Grande Vall Station Park, Mission, Texas, US (26.169, -98.382)","2026-03-28 10:16",1,26.1692432,-98.381954,TRUE,FALSE,TRUE,"S314007288"
+"84","hrshaw","Harris's Hawk","Parabuteo unicinctus","L993428","Ron Morriss Park","2026-03-28 10:15",1,31.6090037,-111.0424018,TRUE,TRUE,FALSE,"S314048819"
+"85","hrshaw","Harris's Hawk","Parabuteo unicinctus","L18188767","Henry Ranch, Charlotte, Texas","2026-03-28 10:05",2,28.8445987,-98.7301252,TRUE,FALSE,TRUE,"S314010743"
+"86","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61186318","W Military Hwy, Mission US-TX 26.15981, -98.32480","2026-03-28 09:35",2,26.159813,-98.324802,TRUE,FALSE,TRUE,"S313933983"
+"87","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61288504","Raton Ranch","2026-03-28 09:32",1,26.114896,-97.349651,TRUE,FALSE,TRUE,"S314381003"
+"88","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61183465","SH-48 E, Brownsville US-TX 25.96594, -97.39319","2026-03-28 08:54",3,25.965942,-97.393191,TRUE,FALSE,TRUE,"S313920543"
+"89","hrshaw","Harris's Hawk","Parabuteo unicinctus","L54123208","Monarch Highway, Moore, Texas, US (29.017, -99.054)","2026-03-28 08:06",1,29.017486,-99.0542434,TRUE,FALSE,TRUE,"S313895161"
+"90","hrshaw","Harris's Hawk","Parabuteo unicinctus","L507911","King Ranch--Norias Division (Kenedy Co.)","2026-03-28 07:56",6,26.7876524,-97.7707243,TRUE,FALSE,FALSE,"S314123201"
+"91","hrshaw","Harris's Hawk","Parabuteo unicinctus","L350281","El Rio Preserve","2026-03-28 07:51",1,32.392141,-111.1384898,TRUE,FALSE,FALSE,"S314026121"
+"92","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61187109","Freeman st","2026-03-28 07:41",2,32.220833,-110.737821,TRUE,FALSE,TRUE,"S313937670"
+"93","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61088728","5402 East Windsor Avenue, Phoenix, Arizona, US (33.478, -111.965)","2026-03-28 06:36",1,33.4782802,-111.9651279,TRUE,FALSE,TRUE,"S313909887"
+"94","hrshaw","Harris's Hawk","Parabuteo unicinctus","L267156","Danny Lopez Park (formerly Columbus Park)","2026-03-28 06:05",1,32.2856814,-111.0346556,TRUE,FALSE,FALSE,"S314016613"
+"95","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61075724","Old Charco Blanco Rd.","2026-03-27 19:45",1,26.441608,-98.82427,TRUE,FALSE,TRUE,"S313776743"
+"96","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1050482","TX48--Shrimp Basin Bridge / Zapata Memorial Boat Ramp/ San Martin Lake outlet","2026-03-27 18:00",2,26.0023329,-97.2999001,TRUE,FALSE,FALSE,"S313756809"
+"97","hrshaw","Harris's Hawk","Parabuteo unicinctus","L16861295","Kleberg Co.—CR1072S Pond","2026-03-27 15:49",1,27.3001,-97.805062,TRUE,FALSE,FALSE,"S313719719"
+"98","hrshaw","Harris's Hawk","Parabuteo unicinctus","L24488141","Home","2026-03-27 14:40",2,27.9158,-98.034948,TRUE,FALSE,TRUE,"S313715430"
+"99","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1339995","Donna Reservoir","2026-03-27 13:59",1,26.1518562,-98.0785947,TRUE,FALSE,FALSE,"S313691700"
+"100","hrshaw","Harris's Hawk","Parabuteo unicinctus","L28900941","LaSR","2026-03-27 12:40",1,33.6372566,-112.3222122,TRUE,FALSE,TRUE,"S313705440"
+"101","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61131465","Edinburg 6th Day Adventist Church, Wisconsin Rd, Edinburg US-TX 26.26957, -98.17654","2026-03-27 12:33",1,26.269575,-98.176539,TRUE,FALSE,TRUE,"S313682782"
+"102","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61131329","Road to Payson Diamonds","2026-03-27 11:25",1,33.633204,-111.550638,TRUE,FALSE,TRUE,"S313682090"
+"103","hrshaw","Harris's Hawk","Parabuteo unicinctus","L999878","Northsight Park","2026-03-27 11:24",1,33.6122247,-111.8988848,TRUE,FALSE,FALSE,"S313711299"
+"104","hrshaw","Harris's Hawk","Parabuteo unicinctus","L336009","National Butterfly Center--General & area North of Levee","2026-03-27 11:02",1,26.1796025,-98.3664483,TRUE,FALSE,FALSE,"S313839471"
+"105","hrshaw","Harris's Hawk","Parabuteo unicinctus","L129005","Laguna Atascosa NWR (LTC 024)","2026-03-27 09:16",1,26.2295776,-97.3466982,TRUE,FALSE,FALSE,"S313693553"
+"106","hrshaw","Harris's Hawk","Parabuteo unicinctus","L144858","Riparian Preserve at Gilbert Water Ranch","2026-03-27 08:54",1,33.3614502,-111.7339478,TRUE,FALSE,FALSE,"S313677615"
+"107","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1763727","El Sauz Ranch (restricted access)","2026-03-27 08:51",1,26.4922034,-97.5036549,TRUE,FALSE,FALSE,"S313797283"
+"108","hrshaw","Harris's Hawk","Parabuteo unicinctus","L283374","McCormick Ranch--Camelback Lake (Chart House)","2026-03-27 07:40",1,33.550265,-111.9235075,TRUE,FALSE,FALSE,"S313690485"
+"109","hrshaw","Harris's Hawk","Parabuteo unicinctus","L129086","Santa Margarita Ranch (LTC 079) (restricted access - guided groups only)","2026-03-27 07:24",1,26.4856177,-99.0912337,TRUE,FALSE,FALSE,"S313749244"
+"110","hrshaw","Harris's Hawk","Parabuteo unicinctus","L128870","Agua Caliente Park","2026-03-27 07:01",1,32.2813752,-110.7298226,TRUE,FALSE,FALSE,"S313631996"
+"111","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1847204","Ajo (town)","2026-03-27 07:00",1,32.3716581,-112.8601184,TRUE,FALSE,TRUE,"S313709147"
+"112","hrshaw","Harris's Hawk","Parabuteo unicinctus","L6641721","Sierra Vista Golf Center at Pueblo del Sol","2026-03-27 06:45",1,31.5201792,-110.2647999,TRUE,FALSE,FALSE,"S313615758"
+"113","hrshaw","Harris's Hawk","Parabuteo unicinctus","L848304","Salt River--Goldfield Recreation Area","2026-03-27 06:39",1,33.5534649,-111.6225891,TRUE,FALSE,FALSE,"S313741719"
+"114","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61030842","6882 N Casas Adobes Dr, Tucson US-AZ 32.33349, -110.97129","2026-03-27 06:36",1,32.333489,-110.971287,TRUE,FALSE,TRUE,"S313591117"
+"115","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61089434","78836, Catarina US-TX 28.31905, -99.40407","2026-03-26 19:07",1,28.319051,-99.404072,TRUE,FALSE,TRUE,"S313470717"
+"116","hrshaw","Harris's Hawk","Parabuteo unicinctus","L57475702","Canal Near Lake James","2026-03-26 18:12",2,26.279454,-98.199546,TRUE,FALSE,TRUE,"S313464710"
+"117","hrshaw","Harris's Hawk","Parabuteo unicinctus","L3735110","Hidalgo Co.--Laguna Seca rd.","2026-03-26 17:34",1,26.4793139,-98.1626272,TRUE,FALSE,FALSE,"S313463294"
+"118","hrshaw","Harris's Hawk","Parabuteo unicinctus","L4935482","Rio Vista Community Park/Riparian Area","2026-03-26 16:50",2,33.615206,-112.246615,TRUE,FALSE,FALSE,"S313463703"
+"119","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61086565","W Rudasill Road and Tula, Tucson, Arizona, US","2026-03-26 16:27",NA,32.3135082,-111.1712035,TRUE,FALSE,TRUE,"S313456871"
+"120","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61086396","3110–3172 US-83, Zapata US-TX 26.85460, -99.22429","2026-03-26 16:04",1,26.854605,-99.22429,TRUE,FALSE,TRUE,"S313455958"
+"121","hrshaw","Harris's Hawk","Parabuteo unicinctus","L854962","Sahuarita Lake","2026-03-26 16:01",1,31.972424,-110.9673214,TRUE,FALSE,FALSE,"S313920933"
+"122","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61094772","49500-50484 Boca Chica Boulevard, Brownsville, Texas, US (25.965, -97.217)","2026-03-26 15:30",1,25.9648008,-97.2166048,TRUE,FALSE,TRUE,"S313493753"
+"123","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61094796","Boca Chica Boulevard, Brownsville, Texas, US (25.962, -97.296)","2026-03-26 15:23",1,25.9622105,-97.296007,TRUE,FALSE,TRUE,"S313493841"
+"124","hrshaw","Harris's Hawk","Parabuteo unicinctus","L967157","Boca Chica Blvd / State Highway 4 (from road)","2026-03-26 15:20",2,25.9534148,-97.3221098,TRUE,FALSE,FALSE,"S313493919"
+"125","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61094819","Boca Chica Boulevard, Brownsville, Texas, US (25.935, -97.363)","2026-03-26 15:17",1,25.9352336,-97.3625201,TRUE,FALSE,TRUE,"S313493934"
+"126","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61073775","2608 South Midway Road, Donna, Texas, US (26.132, -98.022)","2026-03-26 14:17",1,26.131685,-98.0219017,TRUE,FALSE,TRUE,"S313390635"
+"127","hrshaw","Harris's Hawk","Parabuteo unicinctus","L28718644","4151 West Double Adobe Road, McNeal","2026-03-26 12:43",1,31.4669947,-109.685076,TRUE,FALSE,TRUE,"S313426538"
+"128","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61067000","2969–2977 SH-16, Hebbronville US-TX 27.09424, -98.81058","2026-03-26 12:27",2,27.094242,-98.810579,TRUE,FALSE,TRUE,"S313359286"
+"129","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61063209","1110 S Dr E E Dunlap Hwy, San Diego US-TX 27.74987, -98.24590","2026-03-26 11:33",1,27.74987,-98.245904,TRUE,FALSE,TRUE,"S313340579"
+"130","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1322059","Santa Ana NWR--Willow Lakes","2026-03-26 11:03",2,26.0799512,-98.1399679,TRUE,FALSE,FALSE,"S313384414"
+"131","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61068508","East Park Link Drive, Marana, Arizona, US (32.624, -111.208)","2026-03-26 10:45",NA,32.6236762,-111.2078995,TRUE,FALSE,TRUE,"S313365594"
+"132","hrshaw","Harris's Hawk","Parabuteo unicinctus","L29360880","Range Rider Rd Mtn Loop, Mesa US-AZ (33.4807,-111.6390)","2026-03-26 10:32",1,33.480708,-111.638991,TRUE,FALSE,TRUE,"S313459421"
+"133","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61057718","IH-37 N, Corpus Christi US-TX 27.84064, -97.55797","2026-03-26 10:19",1,27.840641,-97.557975,TRUE,FALSE,TRUE,"S313312791"
+"134","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61057376","18260–18934 FM-1847, Rio Hondo US-TX 26.28777, -97.45739","2026-03-26 10:15",1,26.287768,-97.457387,TRUE,FALSE,TRUE,"S313311102"
+"135","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61094158","Arizona-Sonora Desert Museum","2026-03-26 09:22",3,32.2416328,-111.1674004,TRUE,FALSE,TRUE,"S313490842"
+"136","hrshaw","Harris's Hawk","Parabuteo unicinctus","L41235495","Bayside Drive, Los Fresnos, Texas, US (26.172, -97.304)","2026-03-26 09:08",1,26.1724483,-97.30403,TRUE,FALSE,TRUE,"S313350329"
+"137","hrshaw","Harris's Hawk","Parabuteo unicinctus","L5948468","Moon Valley Park","2026-03-26 09:00",4,33.6273485,-112.0809075,TRUE,FALSE,FALSE,"S313478142"
+"138","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1154119","Santa Ana NWR--Observation Tower","2026-03-26 08:53",1,26.0773969,-98.1382392,TRUE,FALSE,FALSE,"S313689944"
+"139","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1174771","Bentsen-Rio Grande Val. SP--HQ Buildings and Nature Center Area","2026-03-26 08:13",1,26.1855061,-98.3797728,TRUE,FALSE,FALSE,"S313350104"
+"140","hrshaw","Harris's Hawk","Parabuteo unicinctus","L22580970","Queen Creek Neighborhood","2026-03-26 07:37",1,33.23287,-111.618817,TRUE,FALSE,TRUE,"S313310812"
+"141","hrshaw","Harris's Hawk","Parabuteo unicinctus","L60991335","3114–3148 N Bear Canyon Rd, Tucson US-AZ (32.2645,-110.8021)","2026-03-26 06:49",1,32.26448,-110.802149,TRUE,FALSE,TRUE,"S313495448"
+"142","hrshaw","Harris's Hawk","Parabuteo unicinctus","L60886675","East Freeman Road, Florence, Arizona, US","2026-03-26 06:00",NA,32.7852507,-111.1050656,TRUE,FALSE,TRUE,"S313364789"
+"143","hrshaw","Harris's Hawk","Parabuteo unicinctus","L4189211","Mangus Lake (FM2098 viewpoint)","2026-03-25 19:33",2,26.580081,-99.102596,TRUE,FALSE,FALSE,"S313164887"
+"144","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61081503","U.S. 70, Tularosa, New Mexico, US (32.671, -106.255)","2026-03-25 19:27",1,32.6711577,-106.2554353,TRUE,FALSE,TRUE,"S313429336"
+"145","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61031036","U.S. 77, Texas, US (26.765, -97.772)","2026-03-25 18:25",1,26.7650456,-97.7719681,TRUE,FALSE,TRUE,"S313159814"
+"146","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61026035","Agua Fria Fwy, Glendale US-AZ 33.66804, -112.22184","2026-03-25 16:27",1,33.668038,-112.221836,TRUE,FALSE,TRUE,"S313134181"
+"147","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61024275","3230 West Camino Del Toro, Sahuarita, Arizona, US (31.944, -111.038)","2026-03-25 15:21",3,31.9435333,-111.0377896,TRUE,FALSE,TRUE,"S313125070"
+"148","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61017640","I-10 W, Deming US-NM 32.24961, -107.93084","2026-03-25 14:51",2,32.249611,-107.930836,TRUE,FALSE,TRUE,"S313090927"
+"149","hrshaw","Harris's Hawk","Parabuteo unicinctus","L38401573","Home","2026-03-25 14:18",4,31.984781,-111.30356,TRUE,FALSE,TRUE,"S313114327"
+"150","hrshaw","Harris's Hawk","Parabuteo unicinctus","L376621","Organ Pipe Cactus NM--Quitobaquito Springs","2026-03-25 13:31",1,31.9436105,-113.0203347,TRUE,FALSE,FALSE,"S313171351"
+"151","hrshaw","Harris's Hawk","Parabuteo unicinctus","L515005","Falcon State Park--NW of Butterfly Garden (Zapata Co.) (Cenizo, Cactus, Javelina Loops & Boat Ramp)","2026-03-25 12:38",1,26.5881587,-99.1506837,TRUE,FALSE,FALSE,"S313046112"
+"152","hrshaw","Harris's Hawk","Parabuteo unicinctus","L37710640","78836, Catarina US-TX 28.34441, -99.45225","2026-03-25 11:45",1,28.344413,-99.452248,TRUE,FALSE,TRUE,"S313025727"
+"153","hrshaw","Harris's Hawk","Parabuteo unicinctus","L249889","Edinburg Scenic Wetlands WBC (LTC 061)","2026-03-25 10:03",1,26.2905822,-98.1351909,TRUE,FALSE,FALSE,"S313015057"
+"154","hrshaw","Harris's Hawk","Parabuteo unicinctus","L60741590","Hereford—Vista Grande yard","2026-03-25 09:46",1,31.425088,-110.243637,TRUE,FALSE,TRUE,"S313024969"
+"155","hrshaw","Harris's Hawk","Parabuteo unicinctus","L2065012","Yard List","2026-03-25 09:26",1,32.2496115,-110.7883483,TRUE,FALSE,TRUE,"S313035241"
+"156","hrshaw","Harris's Hawk","Parabuteo unicinctus","L60957341","11069–12433 S Jackson Rd, Hidalgo US-TX 26.09414, -98.22181","2026-03-25 07:48",1,26.094135,-98.221814,TRUE,FALSE,TRUE,"S313046276"
+"157","hrshaw","Harris's Hawk","Parabuteo unicinctus","L60887997","9320 East Summer Trail, Tucson, Arizona, US (32.288, -110.793)Penny & Clydes","2026-03-25 07:11",2,32.2876994,-110.7926725,TRUE,FALSE,TRUE,"S313020640"
+"158","hrshaw","Harris's Hawk","Parabuteo unicinctus","L60967822","Monarch Highway, Cotulla, Texas, US (28.363, -99.271)","2026-03-24 18:10",1,28.3626912,-99.2707267,TRUE,FALSE,TRUE,"S312837283"
+"159","hrshaw","Harris's Hawk","Parabuteo unicinctus","L41119390","Bentsen-Rio Grande Valley SP--Kingfisher Overlook","2026-03-24 17:59",1,26.1787168,-98.3866459,TRUE,FALSE,FALSE,"S313144093"
+"160","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1495267","King Ranch--Norias Division--Center/HQ area","2026-03-24 13:38",1,26.7721022,-97.7013494,TRUE,FALSE,FALSE,"S312794336"
+"161","hrshaw","Harris's Hawk","Parabuteo unicinctus","L60952791","US-281 N, Encino US-TX 26.96170, -98.13533","2026-03-24 12:09",1,26.961702,-98.135326,TRUE,FALSE,TRUE,"S312762027"
+"162","hrshaw","Harris's Hawk","Parabuteo unicinctus","L60960329","101–249 E Calle Herboso, Green Valley US-AZ 31.89491, -110.98176","2026-03-24 11:54",1,31.894909,-110.981761,TRUE,FALSE,TRUE,"S312798053"
+"163","hrshaw","Harris's Hawk","Parabuteo unicinctus","L48575842","Corpus Christi, Texas, US (27.767, -97.137) Shamrock Area","2026-03-24 11:27",3,27.7670394,-97.1365909,TRUE,FALSE,TRUE,"S312776259"
+"164","hrshaw","Harris's Hawk","Parabuteo unicinctus","L504328","Sacahuistale Flats (LTC 013) and woodlands along SH186","2026-03-24 11:24",2,26.5038367,-97.4975252,TRUE,FALSE,FALSE,"S312744898"
+"165","hrshaw","Harris's Hawk","Parabuteo unicinctus","L3896375","Harold Bell Wright Park","2026-03-24 10:37",1,32.2289046,-110.8562163,TRUE,FALSE,FALSE,"S312762477"
+"166","hrshaw","Harris's Hawk","Parabuteo unicinctus","L60947437","451 North Old Litchfield Road, Litchfield Park, Arizona, US (33.496, -112.356)","2026-03-24 10:34",1,33.4959789,-112.3559254,TRUE,FALSE,TRUE,"S312806252"
+"167","hrshaw","Harris's Hawk","Parabuteo unicinctus","L60963097","Laguna Atascosa Refuge, Los Fresnos, Texas, US (26.21, -97.345)","2026-03-24 10:21",1,26.21043,-97.34506,TRUE,FALSE,TRUE,"S312812289"
+"168","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61206421","8869 E Buckskin Trail, Scottsdale US-AZ (33.7134,-111.8902)","2026-03-24 08:43",1,33.713399,-111.890221,TRUE,FALSE,TRUE,"S314018432"
+"169","hrshaw","Harris's Hawk","Parabuteo unicinctus","L60942341","Tonto National Forest, Scottsdale US-AZ (33.8055,-111.7678)","2026-03-24 08:23",2,33.805512,-111.767834,TRUE,FALSE,TRUE,"S312712435"
+"170","hrshaw","Harris's Hawk","Parabuteo unicinctus","L938672","Usery Mountain Regional Park","2026-03-24 08:20",2,33.474,-111.615385,TRUE,FALSE,FALSE,"S312794347"
+"171","hrshaw","Harris's Hawk","Parabuteo unicinctus","L34948545","Happy Place Oracle US-AZ 32.61626, -110.79469","2026-03-24 08:16",1,32.616257,-110.794689,TRUE,FALSE,TRUE,"S312869439"
+"172","hrshaw","Harris's Hawk","Parabuteo unicinctus","L60950415","Tortolita Preserve trail Del Webb","2026-03-24 08:15",2,32.46033,-111.11466,TRUE,FALSE,TRUE,"S312752816"
+"173","hrshaw","Harris's Hawk","Parabuteo unicinctus","L60993012","N Highway 79, Florence US-AZ 32.84491, -111.22542","2026-03-24 07:10",1,32.844912,-111.225421,TRUE,FALSE,TRUE,"S312969813"
+"174","hrshaw","Harris's Hawk","Parabuteo unicinctus","L46280074","1696 S 141st Pl, Gilbert US-AZ 33.31939, -111.77856","2026-03-23 19:15",1,33.31939,-111.778562,TRUE,FALSE,TRUE,"S312578283"
+"175","hrshaw","Harris's Hawk","Parabuteo unicinctus","L16641737","Hwy 86 mp 120-125","2026-03-23 17:45",1,31.9729356,-111.7400549,TRUE,FALSE,TRUE,"S312698917"
+"176","hrshaw","Harris's Hawk","Parabuteo unicinctus","L38078087","Queen Creek Wash Trail (Pecan Circle)","2026-03-23 17:21",2,33.2317196,-111.6101168,TRUE,FALSE,FALSE,"S312572825"
+"177","hrshaw","Harris's Hawk","Parabuteo unicinctus","L28950619","Hwy 86 mp 135-140","2026-03-23 17:20",1,32.039321,-111.494685,TRUE,FALSE,TRUE,"S312698472"
+"178","hrshaw","Harris's Hawk","Parabuteo unicinctus","L60907268","6001–6299 Yorktown Blvd, Corpus Christi US-TX 27.66082, -97.38465","2026-03-23 17:09",1,27.660819,-97.384655,TRUE,FALSE,TRUE,"S312531788"
+"179","hrshaw","Harris's Hawk","Parabuteo unicinctus","L60898272","Jones Box Park, Pharr, TX","2026-03-23 14:23",1,26.121934,-98.208159,TRUE,FALSE,TRUE,"S312558568"
+"180","hrshaw","Harris's Hawk","Parabuteo unicinctus","L11014997","Oso Bay Wetlands Preserve--Holly Hike & Bike Trail","2026-03-23 13:10",1,27.6748465,-97.3289764,TRUE,FALSE,FALSE,"S312490537"
+"181","hrshaw","Harris's Hawk","Parabuteo unicinctus","L60912988","Shelter Valley","2026-03-23 13:05",1,33.071889,-116.43567,TRUE,TRUE,TRUE,"S312560312"
+"182","hrshaw","Harris's Hawk","Parabuteo unicinctus","L389757","Old Port Isabel Rd","2026-03-23 13:01",1,26.0057269,-97.4183462,TRUE,FALSE,FALSE,"S312708604"
+"183","hrshaw","Harris's Hawk","Parabuteo unicinctus","L60900179","Kickin Horse Trail, Julian, California, US (33.073, -116.438)","2026-03-23 11:45",1,33.072586,-116.4380939,TRUE,TRUE,TRUE,"S312497935"
+"184","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1673684","San Benito Wetlands (restricted access)","2026-03-23 10:39",1,26.1739485,-97.6235167,TRUE,FALSE,FALSE,"S313105124"
+"185","hrshaw","Harris's Hawk","Parabuteo unicinctus","L26993694","Cross Middle School Feeders","2026-03-23 10:16",4,32.345571,-110.986338,TRUE,FALSE,TRUE,"S312467054"
+"186","hrshaw","Harris's Hawk","Parabuteo unicinctus","L60917751","FM-106, Harlingen US-TX 26.19138, -97.61860","2026-03-23 09:43",1,26.191381,-97.618603,TRUE,FALSE,TRUE,"S312582433"
+"187","hrshaw","Harris's Hawk","Parabuteo unicinctus","L247950","Phoenix Zoo","2026-03-23 09:22",1,33.4516913,-111.9480357,TRUE,FALSE,FALSE,"S312577595"
+"188","hrshaw","Harris's Hawk","Parabuteo unicinctus","L288849","Laguna Atascosa NWR--HQ and Kiskadee Trail","2026-03-23 09:22",1,26.2285086,-97.3475226,TRUE,FALSE,FALSE,"S312393957"
+"189","hrshaw","Harris's Hawk","Parabuteo unicinctus","L53984428","Pharr(Private Property)","2026-03-23 08:48",1,26.225014,-98.215821,TRUE,FALSE,TRUE,"S312398636"
+"190","hrshaw","Harris's Hawk","Parabuteo unicinctus","L723082","Laguna Atascosa NWR--Buena Vista Blvd. (within refuge)","2026-03-23 08:14",1,26.2112414,-97.3515916,TRUE,FALSE,FALSE,"S312570865"
+"191","hrshaw","Harris's Hawk","Parabuteo unicinctus","L840321","Hidalgo Co.--FM2221 'sparrow road'","2026-03-23 07:28",1,26.3483346,-98.46809,TRUE,FALSE,FALSE,"S312475522"
+"192","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1075327","Santa Cruz River--Trico Rd.","2026-03-23 07:24",1,32.4717084,-111.3033646,TRUE,FALSE,FALSE,"S312539178"
+"193","hrshaw","Harris's Hawk","Parabuteo unicinctus","L29033068","Lakeview Recreation Center Sun City","2026-03-23 07:00",1,33.6063726,-112.2869516,TRUE,FALSE,TRUE,"S312471814"
+"194","hrshaw","Harris's Hawk","Parabuteo unicinctus","L8226877","Tuthill's in the Highlands (AZ)","2026-03-23 06:44",2,32.447384,-111.077738,TRUE,FALSE,TRUE,"S312392760"
+"195","hrshaw","Harris's Hawk","Parabuteo unicinctus","L51923029","9525 E Kramer Cir, Mesa US-AZ 33.45260, -111.62532","2026-03-23 06:25",1,33.452602,-111.625324,TRUE,FALSE,TRUE,"S314382066"
+"196","hrshaw","Harris's Hawk","Parabuteo unicinctus","L60848363","Farm to Market 2040, Austwell, Texas, US (28.364, -96.82)","2026-03-22 19:28",1,28.3644348,-96.8204427,TRUE,FALSE,TRUE,"S312234546"
+"197","hrshaw","Harris's Hawk","Parabuteo unicinctus","L6855472","Laguna Atascosa NWR--West Lake Trail (north of General Brant Rd.)","2026-03-22 17:42",2,26.197853,-97.4020871,TRUE,FALSE,FALSE,"S312236888"
+"198","hrshaw","Harris's Hawk","Parabuteo unicinctus","L3959912","Organ Pipe Cactus NM--Main Campground & Sewage Ponds","2026-03-22 16:49",2,31.93938,-112.811074,TRUE,FALSE,FALSE,"S312368522"
+"199","hrshaw","Harris's Hawk","Parabuteo unicinctus","L273764","Hugh Ramsey Park (Harlingen Arroyo Colorado) WBC (LTC 026)","2026-03-22 16:24",1,26.1857402,-97.6641657,TRUE,FALSE,FALSE,"S312206860"
+"200","hrshaw","Harris's Hawk","Parabuteo unicinctus","L17392109","Shelter Valley--general area","2026-03-22 15:59",1,33.0783592,-116.444444,TRUE,TRUE,FALSE,"S312878143"
+"201","hrshaw","Harris's Hawk","Parabuteo unicinctus","L60819642","I-69E Frontage Rd, Brownsville US-TX 26.07632, -97.57694","2026-03-22 13:11",1,26.076319,-97.576943,TRUE,FALSE,TRUE,"S312102029"
+"202","hrshaw","Harris's Hawk","Parabuteo unicinctus","L60819270","E 14th St, Brownsville US-TX 26.00632, -97.29189","2026-03-22 13:07",1,26.006323,-97.291893,TRUE,FALSE,TRUE,"S312099380"
+"203","hrshaw","Harris's Hawk","Parabuteo unicinctus","L2058729","Shelby Park","2026-03-22 12:48",1,28.7081482,-100.5098069,TRUE,FALSE,FALSE,"S312101299"
+"204","hrshaw","Harris's Hawk","Parabuteo unicinctus","L60826706","13 Beacon St, Wickenburg US-AZ (33.9617,-112.7819)","2026-03-22 12:19",1,33.961731,-112.781918,TRUE,FALSE,TRUE,"S312134499"
+"205","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1440129","Progresso Lakes Grain Silos","2026-03-22 11:27",1,26.0740159,-97.9425523,TRUE,FALSE,FALSE,"S312045400"
+"206","hrshaw","Harris's Hawk","Parabuteo unicinctus","L60821034","96-132 Alejandrenas Road, Zapata, Texas, US (26.777, -99.129)","2026-03-22 11:18",2,26.7766324,-99.1285381,TRUE,FALSE,TRUE,"S312108831"
+"207","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1312741","Buena Vista Dr.--b/w Old Port Dr./CR350 & Ocean Blvd./CR100","2026-03-22 11:12",1,26.1078935,-97.3495102,TRUE,FALSE,FALSE,"S312045203"
+"208","hrshaw","Harris's Hawk","Parabuteo unicinctus","L17759069","South Texas Ecotourism Center","2026-03-22 10:29",1,26.09276,-97.29624,TRUE,FALSE,FALSE,"S312026216"
+"209","hrshaw","Harris's Hawk","Parabuteo unicinctus","L18562245","South Donna Turf Farms","2026-03-22 10:04",3,26.134511,-98.069571,TRUE,FALSE,FALSE,"S312094343"
+"210","hrshaw","Harris's Hawk","Parabuteo unicinctus","L60810756","8625 W Bopp Rd, Tucson US-AZ 32.17711, -111.14902","2026-03-22 09:57",1,32.177105,-111.149022,TRUE,FALSE,TRUE,"S312061142"
+"211","hrshaw","Harris's Hawk","Parabuteo unicinctus","L58337452","Aria","2026-03-22 09:42",1,33.4029499,-111.9409745,TRUE,FALSE,TRUE,"S312051797"
+"212","hrshaw","Harris's Hawk","Parabuteo unicinctus","L60803132","25573–25609 S Ellsworth Rd, Queen Creek US-AZ 33.21589, -111.63442","2026-03-22 09:02",1,33.215891,-111.634417,TRUE,FALSE,TRUE,"S312025494"
+"213","hrshaw","Harris's Hawk","Parabuteo unicinctus","L60611646","James' House 12589 North 138th Place, Scottsdale, Arizona, US (33.601, -111.781)","2026-03-22 08:57",2,33.6011345,-111.781027,TRUE,FALSE,TRUE,"S312112481"
+"214","hrshaw","Harris's Hawk","Parabuteo unicinctus","L2848303","Kenedy Co.--US77 parking area","2026-03-22 08:51",1,26.695577,-97.7680555,TRUE,FALSE,FALSE,"S311927062"
+"215","hrshaw","Harris's Hawk","Parabuteo unicinctus","L60801998","1950 E Mount Lemmon Hwy, Oracle US-AZ (32.6082,-110.7532)","2026-03-22 08:48",1,32.608201,-110.75324,TRUE,FALSE,TRUE,"S312019818"
+"216","hrshaw","Harris's Hawk","Parabuteo unicinctus","L60782749","US-77 N, Raymondville US-TX 26.51187, -97.77245","2026-03-22 08:40",1,26.511875,-97.772453,TRUE,FALSE,TRUE,"S311917719"
+"217","hrshaw","Harris's Hawk","Parabuteo unicinctus","L60782830","3325 Brownsville-Port Isabel Highway, Port Isabel, Texas, US (26.072, -97.229)","2026-03-22 08:39",1,26.0720329,-97.2288126,TRUE,FALSE,TRUE,"S311918275"
+"218","hrshaw","Harris's Hawk","Parabuteo unicinctus","L1300216","Joshua Tree NP--Hidden Valley area","2026-03-22 08:39",1,34.014585,-116.171998,TRUE,TRUE,FALSE,"S312131547"
+"219","hrshaw","Harris's Hawk","Parabuteo unicinctus","L60797272","I-17 S, Phoenix US-AZ 33.60479, -112.11689","2026-03-22 08:21",1,33.604793,-112.116891,TRUE,FALSE,TRUE,"S311996317"
+"220","hrshaw","Harris's Hawk","Parabuteo unicinctus","L60777693","1617–1673 E 14th St, Port Isabel US-TX 26.07095, -97.22988","2026-03-22 07:59",2,26.070945,-97.229878,TRUE,FALSE,TRUE,"S311887169"
+"221","hrshaw","Harris's Hawk","Parabuteo unicinctus","L60787261","SR-74, Morristown US-AZ 33.84474, -112.51635","2026-03-22 07:12",2,33.844737,-112.516352,TRUE,FALSE,TRUE,"S311944005"
+"222","hrshaw","Harris's Hawk","Parabuteo unicinctus","L865776","Canyon Lake","2026-03-22 07:11",1,33.5421816,-111.435399,TRUE,FALSE,FALSE,"S312254803"
+"223","hrshaw","Harris's Hawk","Parabuteo unicinctus","L20973859","Quartzite Drive","2026-03-22 07:07",1,32.9107012,-111.2718299,TRUE,FALSE,TRUE,"S312090549"
+"224","hrshaw","Harris's Hawk","Parabuteo unicinctus","L42719411","Brooks Co.-- 285","2026-03-21 19:25",2,27.2235236,-98.1151672,TRUE,FALSE,TRUE,"S311721007"
+"225","hrshaw","Harris's Hawk","Parabuteo unicinctus","L60249625","Moon Valley Country Club, Phoenix US-AZ 33.61689, -112.07608","2026-03-21 18:20",2,33.616892,-112.076079,TRUE,FALSE,TRUE,"S311709892"
+"226","hrshaw","Harris's Hawk","Parabuteo unicinctus","L60742613","2561 N Pinal Parkway Ave, Florence US-AZ (33.0563,-111.3784)","2026-03-21 18:08",1,33.056304,-111.378407,TRUE,FALSE,TRUE,"S311707765"
+"227","hrshaw","Harris's Hawk","Parabuteo unicinctus","L29216241","Camelback Golf Club, Paradise Valley US-AZ (33.5577,-111.9383)","2026-03-21 18:00",3,33.557694,-111.93835,TRUE,FALSE,TRUE,"S311717688"
+"228","hrshaw","Harris's Hawk","Parabuteo unicinctus","L16871470","KC Ranch Waterhole","2026-03-21 16:15",2,29.264224,-99.532916,TRUE,FALSE,TRUE,"S311646236"
+"229","hrshaw","Harris's Hawk","Parabuteo unicinctus","L374166","Pollywog Pond (CTC 077)","2026-03-21 14:36",1,27.8627509,-97.612361,TRUE,FALSE,FALSE,"S311639639"
+"230","hrshaw","Harris's Hawk","Parabuteo unicinctus","L60717580","28000 Texas 186, Raymondville, Texas, US (26.495, -97.554)","2026-03-21 14:08",3,26.4948062,-97.5543255,TRUE,FALSE,TRUE,"S311589841"
+"231","hrshaw","Harris's Hawk","Parabuteo unicinctus","L60708923","27725 State Park Road 100, South Padre Island, Texas, US (26.157, -97.171)","2026-03-21 12:48",1,26.1568036,-97.1714958,TRUE,FALSE,TRUE,"S311552280"
+"232","hrshaw","Harris's Hawk","Parabuteo unicinctus","L60973930","Hideaway Road x Highway 20","2026-03-21 11:25",1,31.4189442,-106.0510709,TRUE,FALSE,TRUE,"S312868092"
+"233","hrshaw","Harris's Hawk","Parabuteo unicinctus","L14865616","Rio Rico Grass Farms area","2026-03-21 10:36",1,26.0891716,-97.9272184,TRUE,FALSE,FALSE,"S311467384"
+"234","hrshaw","Harris's Hawk","Parabuteo unicinctus","L3214589","Kingsville Landfill (Restricted Access)","2026-03-21 10:07",1,27.4493714,-97.8158712,TRUE,FALSE,FALSE,"S311488520"
+"235","hrshaw","Harris's Hawk","Parabuteo unicinctus","L2702050","Kenedy Co.—US77–US Customs & Border Inspection Station","2026-03-21 10:06",1,27.0158359,-97.7945638,TRUE,FALSE,FALSE,"S311440836"
+"236","hrshaw","Harris's Hawk","Parabuteo unicinctus","L60699104","3677–3699 E River Rd, Tucson US-AZ 32.27594, -110.91463","2026-03-21 09:43",1,32.27594,-110.91463,TRUE,FALSE,TRUE,"S311507997"
+"237","hrshaw","Harris's Hawk","Parabuteo unicinctus","L60687156","4201–4209 FM 511 Rd, Brownsville US-TX 25.96978, -97.42933","2026-03-21 09:33",1,25.969784,-97.429334,TRUE,FALSE,TRUE,"S311451817"
+"238","hrshaw","Harris's Hawk","Parabuteo unicinctus","L57198138","Borrego Springs--WTP Settling Ponds (CA Atlas - Borrego Sink CW)","2026-03-21 09:31",1,33.2079164,-116.3143241,TRUE,TRUE,FALSE,"S311586978"
+"239","hrshaw","Harris's Hawk","Parabuteo unicinctus","L60711590","East Foundation El Sauz Ranch (Restricted Access)","2026-03-21 09:28",2,26.577605,-97.451685,TRUE,FALSE,TRUE,"S311563842"
+"240","hrshaw","Harris's Hawk","Parabuteo unicinctus","L16956971","Ajo Plaza","2026-03-21 09:26",1,32.3731395,-112.8622118,TRUE,FALSE,FALSE,"S311534570"
+"241","hrshaw","Harris's Hawk","Parabuteo unicinctus","L4244612","Laguna Atascosa NWR--from General Brant Rd","2026-03-21 09:06",4,26.200586,-97.4147467,TRUE,FALSE,FALSE,"S311438055"
+"242","hrshaw","Harris's Hawk","Parabuteo unicinctus","L61000311","10955 East Gary Road, Scottsdale, Arizona, US (33.587, -111.845)","2026-03-21 08:49",2,33.587417,-111.8453057,TRUE,FALSE,TRUE,"S313007341"
+"243","hrshaw","Harris's Hawk","Parabuteo unicinctus","L60816217","Estero Llano Grande State Park, Mercedes US-TX 26.12636, -97.95654","2026-03-21 08:44",1,26.126363,-97.956544,TRUE,FALSE,TRUE,"S312086516"
+"244","hrshaw","Harris's Hawk","Parabuteo unicinctus","L5293895","Falcon Lake public park &  boat ramp","2026-03-21 08:43",1,26.8631537,-99.2626548,TRUE,FALSE,FALSE,"S311451535"
+"245","hrshaw","Harris's Hawk","Parabuteo unicinctus","L55214027","Estero Llano Grande State Park, Mercedes US-TX 26.12729, -97.95832","2026-03-21 08:17",2,26.127286,-97.958318,TRUE,FALSE,TRUE,"S311949907"
+"246","hrshaw","Harris's Hawk","Parabuteo unicinctus","L39249972","Lynda","2026-03-21 08:14",1,32.450824,-111.069256,TRUE,FALSE,TRUE,"S311456142"
+"247","hrshaw","Harris's Hawk","Parabuteo unicinctus","L17549865","Estero Llano Grande State Park, Weslaco US-TX 26.12638, -97.95723","2026-03-21 08:08",2,26.126385,-97.95723,TRUE,FALSE,TRUE,"S311530382"
+"248","hrshaw","Harris's Hawk","Parabuteo unicinctus","L17120366","Home","2026-03-21 08:07",1,32.450747,-111.069334,TRUE,FALSE,TRUE,"S311480928"
+"249","hrshaw","Harris's Hawk","Parabuteo unicinctus","L6948858","neighborhood","2026-03-21 08:00",1,34.6140736,-112.2937703,TRUE,TRUE,TRUE,"S311727112"
+"250","hrshaw","Harris's Hawk","Parabuteo unicinctus","L22656396","Usery Mountain Regional Park, Mesa US-AZ 33.48109, -111.62094","2026-03-21 07:55",3,33.481091,-111.620939,TRUE,FALSE,TRUE,"S311676677"
+"251","hrshaw","Harris's Hawk","Parabuteo unicinctus","L741639","Cameron Company/Port Isabel Reservoir & Holly Beach rd.","2026-03-21 07:32",1,26.120398,-97.3143947,TRUE,FALSE,FALSE,"S311373551"
+"252","hrshaw","Harris's Hawk","Parabuteo unicinctus","L60742697","B & K's","2026-03-21 07:24",1,33.3590212,-111.4543483,TRUE,FALSE,TRUE,"S311708160"
+"253","hrshaw","Harris's Hawk","Parabuteo unicinctus","L10278083","Tortolita Preserve","2026-03-21 07:10",1,32.4462972,-111.1064845,TRUE,FALSE,FALSE,"S311511123"
