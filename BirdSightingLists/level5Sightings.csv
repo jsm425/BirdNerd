@@ -1,3 +1,4 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
-"1","chifla1","Chilean Flamingo","Phoenicopterus chilensis","L2248482","Don Edwards NWR--No Name Trail","2026-03-29 09:23",1,37.5464008,-122.0973837,TRUE,TRUE,FALSE,"S314434147","X"
-"2","chifla1","Chilean Flamingo","Phoenicopterus chilensis","L216132","Coyote Hills Regional Park","2026-03-28 08:15",1,37.553764,-122.0875025,TRUE,TRUE,FALSE,"S314041547","X"
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
+"1","bkbwar","Blackburnian Warbler","Setophaga fusca","L57330874","Sunset Blvd. at Quintara St. intersection and vicinity","2026-03-29 16:09",1,37.7478273,-122.4948569,TRUE,TRUE,FALSE,"S314571466"
+"2","bkbwar","Blackburnian Warbler","Setophaga fusca","L9500142","Sunset District--Sunset Blvd. from Sloat to Lincoln(37.7554,-122.4951)","2026-03-28 12:08",1,37.7494667,-122.4949739,TRUE,TRUE,FALSE,"S314055835"
+"3","bkbwar","Blackburnian Warbler","Setophaga fusca","L61154656","Quintara - Pacheco area","2026-03-27 16:23",1,37.74416,-122.494836,TRUE,TRUE,TRUE,"S313786482"
