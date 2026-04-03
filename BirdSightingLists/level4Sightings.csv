@@ -1,39 +1,35 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","whocra","Whooping Crane","Grus americana","L61567702","19999 County Road 740, Jet, Oklahoma, US (36.695, -98.128)","2026-04-01 12:52",6,36.695037,-98.1276324,TRUE,TRUE,TRUE,"S315640272"
-"2","whocra","Whooping Crane","Grus americana","L771843","Arcadia Marsh","2026-03-31 20:18",1,44.4888979,-86.2285888,TRUE,TRUE,FALSE,"S315451377"
-"3","whocra","Whooping Crane","Grus americana","L6550195","154th Av and 145th St","2026-03-31 19:46",7,46.6352801,-100.5760145,TRUE,TRUE,TRUE,"S315344162"
-"4","whocra","Whooping Crane","Grus americana","L61479222","Lake Oahe, Bismarck US-ND (46.6164,-100.5593)","2026-03-31 19:01",12,46.616408,-100.559335,TRUE,TRUE,TRUE,"S315335716"
-"5","whocra","Whooping Crane","Grus americana","L61480087","Butwell Rd field","2026-03-31 17:56",1,44.4966446,-86.1491979,TRUE,TRUE,TRUE,"S315357387"
-"6","whocra","Whooping Crane","Grus americana","L61473131","17718 Butwell Road, Bear Lake, Michigan, US (44.498, -86.14)","2026-03-31 17:48",1,44.4978214,-86.1402949,TRUE,TRUE,TRUE,"S315300763"
-"7","whocra","Whooping Crane","Grus americana","L61472829","17577–18699 Butwell Rd, Bear Lake US-MI 44.51198, -86.14049","2026-03-31 17:35",1,44.511979,-86.140487,TRUE,TRUE,TRUE,"S315299167"
-"8","whocra","Whooping Crane","Grus americana","L422541","Leonabelle Turnbull Birding Ctr. (CTC 057)","2026-03-31 16:08",1,27.8275297,-97.0789558,TRUE,FALSE,FALSE,"S315283538"
-"9","whocra","Whooping Crane","Grus americana","L130767","Aransas NWR (CTC 037) (Aransas Co.)","2026-03-31 13:45",2,28.3108004,-96.8011664,TRUE,FALSE,FALSE,"S315327070"
-"10","whocra","Whooping Crane","Grus americana","L793778","Port Aransas Nature Preserve at Charlie's Pasture","2026-03-31 12:40",1,27.8327765,-97.0873833,TRUE,FALSE,FALSE,"S315294091"
-"11","whocra","Whooping Crane","Grus americana","L6471373","Quivira NWR--Big Salt Marsh--NE 170th St.","2026-03-31 10:44",6,38.2017745,-98.5267379,TRUE,FALSE,FALSE,"S315184113"
-"12","whocra","Whooping Crane","Grus americana","L1021363","Aransas NWR--Wildlife Dr.","2026-03-31 10:20",2,28.2403924,-96.818819,TRUE,FALSE,FALSE,"S315162728"
-"13","whocra","Whooping Crane","Grus americana","L806695","Aransas Bay--Rockport/Fulton to Aransas NWR by boat","2026-03-31 09:30",8,28.1347449,-96.912117,TRUE,FALSE,FALSE,"S315225012"
-"14","whocra","Whooping Crane","Grus americana","L1021344","Aransas NWR--Wildlife Tower (Calhoun Co.)","2026-03-31 08:10",3,28.2504014,-96.7894328,TRUE,FALSE,FALSE,"S315146363"
-"15","whocra","Whooping Crane","Grus americana","L61404676","E0220 Rd, Jet US-OK 36.69505, -98.12492","2026-03-30 18:11",6,36.695053,-98.124921,TRUE,TRUE,TRUE,"S314941675"
-"16","whocra","Whooping Crane","Grus americana","L61401111","N2740 Rd, Jet US-OK 36.69076, -98.12773","2026-03-30 17:19",6,36.690762,-98.127729,TRUE,TRUE,TRUE,"S314921814"
-"17","whocra","Whooping Crane","Grus americana","L1653054","Collins Slough","2026-03-29 17:55",8,44.3705577,-99.1184823,TRUE,TRUE,FALSE,"S314883976"
-"18","whocra","Whooping Crane","Grus americana","L61524354","Thrawl Cemetery","2026-03-29 15:24",3,36.694619,-98.127686,TRUE,TRUE,TRUE,"S315403567"
-"19","whocra","Whooping Crane","Grus americana","L6471374","Quivira NWR--Big Salt Marsh--Wildlife Drive","2026-03-29 06:57",25,38.1856615,-98.5338718,TRUE,TRUE,FALSE,"S314301767"
-"20","whocra","Whooping Crane","Grus americana","L25529666","SD-45, Orient US-SD (44.8323,-98.9880)","2026-03-28 14:11",2,44.832308,-98.988006,TRUE,TRUE,TRUE,"S314071781"
-"21","whocra","Whooping Crane","Grus americana","L374378","Lake Arrowhead (Clay Co.) (PPW-W 120)","2026-03-28 13:07",3,33.7640216,-98.3730412,TRUE,TRUE,FALSE,"S314029349"
-"22","whocra","Whooping Crane","Grus americana","L61240714","Aransas Wildlife Tower and Loop Road.","2026-03-28 12:26",5,28.2503666,-96.7893535,TRUE,FALSE,TRUE,"S314158449"
-"23","whocra","Whooping Crane","Grus americana","L3543596","Lake Arrowhead State Park","2026-03-28 12:12",3,33.7583457,-98.3947121,TRUE,TRUE,FALSE,"S314027419"
-"24","whocra","Whooping Crane","Grus americana","L5588676","Spillway, Lake Arrowhead State Park, Clay County, Texas, US","2026-03-28 10:15",3,33.7645925,-98.3855295,TRUE,TRUE,TRUE,"S313967701"
-"25","whocra","Whooping Crane","Grus americana","L1021359","Aransas NWR--Jones Lake (Calhoun Co.)","2026-03-28 09:47",3,28.256223,-96.7946577,TRUE,FALSE,FALSE,"S314857770"
-"26","whocra","Whooping Crane","Grus americana","L61115996","N2740 Rd, Jet US-OK 36.69136, -98.12774","2026-03-27 08:56",6,36.691365,-98.127738,TRUE,TRUE,TRUE,"S313611163"
-"27","whocra","Whooping Crane","Grus americana","L1096078","Goose Island SP--Big Tree/Lamar Beach rd area","2026-03-26 09:04",3,28.1497681,-96.976254,TRUE,FALSE,FALSE,"S313364980"
-"28","whocra","Whooping Crane","Grus americana","L2349417","Aransas NWR--Dagger Point area (Calhoun Co.)","2026-03-25 13:32",2,28.2752186,-96.7979836,TRUE,FALSE,FALSE,"S313104326"
-"29","whocra","Whooping Crane","Grus americana","L60999211","379th Ave, Corsica US-SD 43.36348, -98.60388","2026-03-25 09:38",3,43.363483,-98.603882,TRUE,TRUE,TRUE,"S313002338"
-"30","whocra","Whooping Crane","Grus americana","L1344227","Charlie's Pasture South Boardwalk (off TX-361)","2026-03-25 09:24",1,27.81398,-97.080079,TRUE,FALSE,FALSE,"S312987328"
-"31","whocra","Whooping Crane","Grus americana","L5657694","Coal Miner's Trail, Minonk","2026-03-25 09:21",2,40.911964,-89.0342331,TRUE,TRUE,FALSE,"S312998334"
-"32","whocra","Whooping Crane","Grus americana","L60937026","17146 IL-173 W, Old Mill Creek US-IL (42.4670,-87.9657)","2026-03-24 08:45",2,42.466981,-87.965705,TRUE,TRUE,TRUE,"S312685845"
-"33","whocra","Whooping Crane","Grus americana","L60953480","1 China Bay St, Rockport US-TX 28.14722, -96.97690","2026-03-24 08:37",6,28.14722,-96.976902,TRUE,FALSE,TRUE,"S312765463"
-"34","whocra","Whooping Crane","Grus americana","L2333954","Aransas NWR--Birding Trail #2","2026-03-23 12:11",3,28.2618269,-96.7977905,TRUE,FALSE,FALSE,"S312794565"
-"35","whocra","Whooping Crane","Grus americana","L13790359","254–298 Lamar Beach Rd, Rockport US-TX 28.14635, -96.97358","2026-03-23 10:28",7,28.146347,-96.973575,TRUE,FALSE,TRUE,"S312429580"
-"36","whocra","Whooping Crane","Grus americana","L60878880","19000-19348 N2750 Road, Nash, Oklahoma, US (36.684, -98.11)","2026-03-23 09:31",7,36.6841487,-98.1096262,TRUE,TRUE,TRUE,"S312395573"
-"37","whocra","Whooping Crane","Grus americana","L60878537","21201-21299 384th Avenue, Virgil, South Dakota, US (44.304, -98.539) Crane","2026-03-23 09:22",1,44.3035983,-98.5391533,TRUE,TRUE,TRUE,"S312393574"
-"38","whocra","Whooping Crane","Grus americana","L41677819","38250 214th Street, Virgil, South Dakota, US (44.284, -98.569)","2026-03-23 07:48",1,44.2837238,-98.5690582,TRUE,TRUE,TRUE,"S312374540"
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
+"1","whocra","Whooping Crane","Grus americana","L61567702","19999 County Road 740, Jet, Oklahoma, US (36.695, -98.128)","2026-04-01 12:52",6,36.695037,-98.1276324,TRUE,TRUE,TRUE,"S315640272",NA
+"2","whocra","Whooping Crane","Grus americana","L771843","Arcadia Marsh","2026-04-01 08:03",1,44.4888979,-86.2285888,TRUE,TRUE,FALSE,"S315670371","P"
+"3","whocra","Whooping Crane","Grus americana","L6550195","154th Av and 145th St","2026-03-31 19:46",7,46.6352801,-100.5760145,TRUE,TRUE,TRUE,"S315344162",NA
+"4","whocra","Whooping Crane","Grus americana","L61479222","Lake Oahe, Bismarck US-ND (46.6164,-100.5593)","2026-03-31 19:01",12,46.616408,-100.559335,TRUE,TRUE,TRUE,"S315335716",NA
+"5","whocra","Whooping Crane","Grus americana","L61480087","Butwell Rd field","2026-03-31 17:56",1,44.4966446,-86.1491979,TRUE,TRUE,TRUE,"S315357387",NA
+"6","whocra","Whooping Crane","Grus americana","L61473131","17718 Butwell Road, Bear Lake, Michigan, US (44.498, -86.14)","2026-03-31 17:48",1,44.4978214,-86.1402949,TRUE,TRUE,TRUE,"S315300763",NA
+"7","whocra","Whooping Crane","Grus americana","L61472829","17577–18699 Butwell Rd, Bear Lake US-MI 44.51198, -86.14049","2026-03-31 17:35",1,44.511979,-86.140487,TRUE,TRUE,TRUE,"S315299167",NA
+"8","whocra","Whooping Crane","Grus americana","L999990","Arcadia Marsh","2026-03-31 16:25",1,44.4830655,-86.2325048,TRUE,TRUE,TRUE,"S315368879","P"
+"9","whocra","Whooping Crane","Grus americana","L422541","Leonabelle Turnbull Birding Ctr. (CTC 057)","2026-03-31 16:08",1,27.8275297,-97.0789558,TRUE,FALSE,FALSE,"S315283538",NA
+"10","whocra","Whooping Crane","Grus americana","L130767","Aransas NWR (CTC 037) (Aransas Co.)","2026-03-31 13:45",2,28.3108004,-96.8011664,TRUE,FALSE,FALSE,"S315327070",NA
+"11","whocra","Whooping Crane","Grus americana","L793778","Port Aransas Nature Preserve at Charlie's Pasture","2026-03-31 12:40",1,27.8327765,-97.0873833,TRUE,FALSE,FALSE,"S315294091",NA
+"12","whocra","Whooping Crane","Grus americana","L6471373","Quivira NWR--Big Salt Marsh--NE 170th St.","2026-03-31 10:44",6,38.2017745,-98.5267379,TRUE,FALSE,FALSE,"S315184113",NA
+"13","whocra","Whooping Crane","Grus americana","L1021363","Aransas NWR--Wildlife Dr.","2026-03-31 10:20",2,28.2403924,-96.818819,TRUE,FALSE,FALSE,"S315162728",NA
+"14","whocra","Whooping Crane","Grus americana","L806695","Aransas Bay--Rockport/Fulton to Aransas NWR by boat","2026-03-31 09:30",8,28.1347449,-96.912117,TRUE,FALSE,FALSE,"S315225012",NA
+"15","whocra","Whooping Crane","Grus americana","L1021344","Aransas NWR--Wildlife Tower (Calhoun Co.)","2026-03-31 08:10",3,28.2504014,-96.7894328,TRUE,FALSE,FALSE,"S315146363",NA
+"16","whocra","Whooping Crane","Grus americana","L61404676","E0220 Rd, Jet US-OK 36.69505, -98.12492","2026-03-30 18:11",6,36.695053,-98.124921,TRUE,TRUE,TRUE,"S314941675",NA
+"17","whocra","Whooping Crane","Grus americana","L61401111","N2740 Rd, Jet US-OK 36.69076, -98.12773","2026-03-30 17:19",6,36.690762,-98.127729,TRUE,TRUE,TRUE,"S314921814",NA
+"18","whocra","Whooping Crane","Grus americana","L1653054","Collins Slough","2026-03-29 17:55",8,44.3705577,-99.1184823,TRUE,TRUE,FALSE,"S314883976",NA
+"19","whocra","Whooping Crane","Grus americana","L61524354","Thrawl Cemetery","2026-03-29 15:24",3,36.694619,-98.127686,TRUE,TRUE,TRUE,"S315403567",NA
+"20","whocra","Whooping Crane","Grus americana","L6471374","Quivira NWR--Big Salt Marsh--Wildlife Drive","2026-03-29 06:57",25,38.1856615,-98.5338718,TRUE,TRUE,FALSE,"S314301767",NA
+"21","whocra","Whooping Crane","Grus americana","L25529666","SD-45, Orient US-SD (44.8323,-98.9880)","2026-03-28 14:11",2,44.832308,-98.988006,TRUE,TRUE,TRUE,"S314071781",NA
+"22","whocra","Whooping Crane","Grus americana","L374378","Lake Arrowhead (Clay Co.) (PPW-W 120)","2026-03-28 13:07",3,33.7640216,-98.3730412,TRUE,TRUE,FALSE,"S314029349",NA
+"23","whocra","Whooping Crane","Grus americana","L61240714","Aransas Wildlife Tower and Loop Road.","2026-03-28 12:26",5,28.2503666,-96.7893535,TRUE,FALSE,TRUE,"S314158449",NA
+"24","whocra","Whooping Crane","Grus americana","L3543596","Lake Arrowhead State Park","2026-03-28 12:12",3,33.7583457,-98.3947121,TRUE,TRUE,FALSE,"S314027419",NA
+"25","whocra","Whooping Crane","Grus americana","L5588676","Spillway, Lake Arrowhead State Park, Clay County, Texas, US","2026-03-28 10:15",3,33.7645925,-98.3855295,TRUE,TRUE,TRUE,"S313967701",NA
+"26","whocra","Whooping Crane","Grus americana","L1021359","Aransas NWR--Jones Lake (Calhoun Co.)","2026-03-28 09:47",3,28.256223,-96.7946577,TRUE,FALSE,FALSE,"S314857770",NA
+"27","whocra","Whooping Crane","Grus americana","L61115996","N2740 Rd, Jet US-OK 36.69136, -98.12774","2026-03-27 08:56",6,36.691365,-98.127738,TRUE,TRUE,TRUE,"S313611163",NA
+"28","whocra","Whooping Crane","Grus americana","L1096078","Goose Island SP--Big Tree/Lamar Beach rd area","2026-03-26 09:04",3,28.1497681,-96.976254,TRUE,FALSE,FALSE,"S313364980",NA
+"29","whocra","Whooping Crane","Grus americana","L2349417","Aransas NWR--Dagger Point area (Calhoun Co.)","2026-03-25 13:32",2,28.2752186,-96.7979836,TRUE,FALSE,FALSE,"S313104326",NA
+"30","whocra","Whooping Crane","Grus americana","L60999211","379th Ave, Corsica US-SD 43.36348, -98.60388","2026-03-25 09:38",3,43.363483,-98.603882,TRUE,TRUE,TRUE,"S313002338",NA
+"31","whocra","Whooping Crane","Grus americana","L1344227","Charlie's Pasture South Boardwalk (off TX-361)","2026-03-25 09:24",1,27.81398,-97.080079,TRUE,FALSE,FALSE,"S312987328",NA
+"32","whocra","Whooping Crane","Grus americana","L5657694","Coal Miner's Trail, Minonk","2026-03-25 09:21",2,40.911964,-89.0342331,TRUE,TRUE,FALSE,"S312998334",NA
+"33","whocra","Whooping Crane","Grus americana","L60937026","17146 IL-173 W, Old Mill Creek US-IL (42.4670,-87.9657)","2026-03-24 08:45",2,42.466981,-87.965705,TRUE,TRUE,TRUE,"S312685845",NA
+"34","whocra","Whooping Crane","Grus americana","L60953480","1 China Bay St, Rockport US-TX 28.14722, -96.97690","2026-03-24 08:37",6,28.14722,-96.976902,TRUE,FALSE,TRUE,"S312765463",NA
