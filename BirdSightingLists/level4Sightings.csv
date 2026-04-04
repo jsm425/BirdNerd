@@ -1,35 +1,54 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
-"1","whocra","Whooping Crane","Grus americana","L61567702","19999 County Road 740, Jet, Oklahoma, US (36.695, -98.128)","2026-04-01 12:52",6,36.695037,-98.1276324,TRUE,TRUE,TRUE,"S315640272",NA
-"2","whocra","Whooping Crane","Grus americana","L771843","Arcadia Marsh","2026-04-01 08:03",1,44.4888979,-86.2285888,TRUE,TRUE,FALSE,"S315670371","P"
-"3","whocra","Whooping Crane","Grus americana","L6550195","154th Av and 145th St","2026-03-31 19:46",7,46.6352801,-100.5760145,TRUE,TRUE,TRUE,"S315344162",NA
-"4","whocra","Whooping Crane","Grus americana","L61479222","Lake Oahe, Bismarck US-ND (46.6164,-100.5593)","2026-03-31 19:01",12,46.616408,-100.559335,TRUE,TRUE,TRUE,"S315335716",NA
-"5","whocra","Whooping Crane","Grus americana","L61480087","Butwell Rd field","2026-03-31 17:56",1,44.4966446,-86.1491979,TRUE,TRUE,TRUE,"S315357387",NA
-"6","whocra","Whooping Crane","Grus americana","L61473131","17718 Butwell Road, Bear Lake, Michigan, US (44.498, -86.14)","2026-03-31 17:48",1,44.4978214,-86.1402949,TRUE,TRUE,TRUE,"S315300763",NA
-"7","whocra","Whooping Crane","Grus americana","L61472829","17577–18699 Butwell Rd, Bear Lake US-MI 44.51198, -86.14049","2026-03-31 17:35",1,44.511979,-86.140487,TRUE,TRUE,TRUE,"S315299167",NA
-"8","whocra","Whooping Crane","Grus americana","L999990","Arcadia Marsh","2026-03-31 16:25",1,44.4830655,-86.2325048,TRUE,TRUE,TRUE,"S315368879","P"
-"9","whocra","Whooping Crane","Grus americana","L422541","Leonabelle Turnbull Birding Ctr. (CTC 057)","2026-03-31 16:08",1,27.8275297,-97.0789558,TRUE,FALSE,FALSE,"S315283538",NA
-"10","whocra","Whooping Crane","Grus americana","L130767","Aransas NWR (CTC 037) (Aransas Co.)","2026-03-31 13:45",2,28.3108004,-96.8011664,TRUE,FALSE,FALSE,"S315327070",NA
-"11","whocra","Whooping Crane","Grus americana","L793778","Port Aransas Nature Preserve at Charlie's Pasture","2026-03-31 12:40",1,27.8327765,-97.0873833,TRUE,FALSE,FALSE,"S315294091",NA
-"12","whocra","Whooping Crane","Grus americana","L6471373","Quivira NWR--Big Salt Marsh--NE 170th St.","2026-03-31 10:44",6,38.2017745,-98.5267379,TRUE,FALSE,FALSE,"S315184113",NA
-"13","whocra","Whooping Crane","Grus americana","L1021363","Aransas NWR--Wildlife Dr.","2026-03-31 10:20",2,28.2403924,-96.818819,TRUE,FALSE,FALSE,"S315162728",NA
-"14","whocra","Whooping Crane","Grus americana","L806695","Aransas Bay--Rockport/Fulton to Aransas NWR by boat","2026-03-31 09:30",8,28.1347449,-96.912117,TRUE,FALSE,FALSE,"S315225012",NA
-"15","whocra","Whooping Crane","Grus americana","L1021344","Aransas NWR--Wildlife Tower (Calhoun Co.)","2026-03-31 08:10",3,28.2504014,-96.7894328,TRUE,FALSE,FALSE,"S315146363",NA
-"16","whocra","Whooping Crane","Grus americana","L61404676","E0220 Rd, Jet US-OK 36.69505, -98.12492","2026-03-30 18:11",6,36.695053,-98.124921,TRUE,TRUE,TRUE,"S314941675",NA
-"17","whocra","Whooping Crane","Grus americana","L61401111","N2740 Rd, Jet US-OK 36.69076, -98.12773","2026-03-30 17:19",6,36.690762,-98.127729,TRUE,TRUE,TRUE,"S314921814",NA
-"18","whocra","Whooping Crane","Grus americana","L1653054","Collins Slough","2026-03-29 17:55",8,44.3705577,-99.1184823,TRUE,TRUE,FALSE,"S314883976",NA
-"19","whocra","Whooping Crane","Grus americana","L61524354","Thrawl Cemetery","2026-03-29 15:24",3,36.694619,-98.127686,TRUE,TRUE,TRUE,"S315403567",NA
-"20","whocra","Whooping Crane","Grus americana","L6471374","Quivira NWR--Big Salt Marsh--Wildlife Drive","2026-03-29 06:57",25,38.1856615,-98.5338718,TRUE,TRUE,FALSE,"S314301767",NA
-"21","whocra","Whooping Crane","Grus americana","L25529666","SD-45, Orient US-SD (44.8323,-98.9880)","2026-03-28 14:11",2,44.832308,-98.988006,TRUE,TRUE,TRUE,"S314071781",NA
-"22","whocra","Whooping Crane","Grus americana","L374378","Lake Arrowhead (Clay Co.) (PPW-W 120)","2026-03-28 13:07",3,33.7640216,-98.3730412,TRUE,TRUE,FALSE,"S314029349",NA
-"23","whocra","Whooping Crane","Grus americana","L61240714","Aransas Wildlife Tower and Loop Road.","2026-03-28 12:26",5,28.2503666,-96.7893535,TRUE,FALSE,TRUE,"S314158449",NA
-"24","whocra","Whooping Crane","Grus americana","L3543596","Lake Arrowhead State Park","2026-03-28 12:12",3,33.7583457,-98.3947121,TRUE,TRUE,FALSE,"S314027419",NA
-"25","whocra","Whooping Crane","Grus americana","L5588676","Spillway, Lake Arrowhead State Park, Clay County, Texas, US","2026-03-28 10:15",3,33.7645925,-98.3855295,TRUE,TRUE,TRUE,"S313967701",NA
-"26","whocra","Whooping Crane","Grus americana","L1021359","Aransas NWR--Jones Lake (Calhoun Co.)","2026-03-28 09:47",3,28.256223,-96.7946577,TRUE,FALSE,FALSE,"S314857770",NA
-"27","whocra","Whooping Crane","Grus americana","L61115996","N2740 Rd, Jet US-OK 36.69136, -98.12774","2026-03-27 08:56",6,36.691365,-98.127738,TRUE,TRUE,TRUE,"S313611163",NA
-"28","whocra","Whooping Crane","Grus americana","L1096078","Goose Island SP--Big Tree/Lamar Beach rd area","2026-03-26 09:04",3,28.1497681,-96.976254,TRUE,FALSE,FALSE,"S313364980",NA
-"29","whocra","Whooping Crane","Grus americana","L2349417","Aransas NWR--Dagger Point area (Calhoun Co.)","2026-03-25 13:32",2,28.2752186,-96.7979836,TRUE,FALSE,FALSE,"S313104326",NA
-"30","whocra","Whooping Crane","Grus americana","L60999211","379th Ave, Corsica US-SD 43.36348, -98.60388","2026-03-25 09:38",3,43.363483,-98.603882,TRUE,TRUE,TRUE,"S313002338",NA
-"31","whocra","Whooping Crane","Grus americana","L1344227","Charlie's Pasture South Boardwalk (off TX-361)","2026-03-25 09:24",1,27.81398,-97.080079,TRUE,FALSE,FALSE,"S312987328",NA
-"32","whocra","Whooping Crane","Grus americana","L5657694","Coal Miner's Trail, Minonk","2026-03-25 09:21",2,40.911964,-89.0342331,TRUE,TRUE,FALSE,"S312998334",NA
-"33","whocra","Whooping Crane","Grus americana","L60937026","17146 IL-173 W, Old Mill Creek US-IL (42.4670,-87.9657)","2026-03-24 08:45",2,42.466981,-87.965705,TRUE,TRUE,TRUE,"S312685845",NA
-"34","whocra","Whooping Crane","Grus americana","L60953480","1 China Bay St, Rockport US-TX 28.14722, -96.97690","2026-03-24 08:37",6,28.14722,-96.976902,TRUE,FALSE,TRUE,"S312765463",NA
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
+"1","chclon","Chestnut-collared Longspur","Calcarius ornatus","L61746090","I-80 E, Lodgepole US-NE 41.11303, -102.67921","2026-04-03 16:50",120,41.113034,-102.679206,TRUE,FALSE,TRUE,"S316504189"
+"2","chclon","Chestnut-collared Longspur","Calcarius ornatus","L1247123","Evans Chambers Lake","2026-04-03 13:34",1,36.723957,-100.2155685,TRUE,FALSE,FALSE,"S316457057"
+"3","chclon","Chestnut-collared Longspur","Calcarius ornatus","L7179959","County Road 42, Arriba US-CO (39.2591,-103.2856)","2026-04-03 12:15",10,39.259074,-103.285617,TRUE,FALSE,TRUE,"S316517467"
+"4","chclon","Chestnut-collared Longspur","Calcarius ornatus","L61550329","1698-1600 Road 240, Lakin, Kansas, US (38.076, -101.251)","2026-04-03 10:54",14,38.0757466,-101.2506263,TRUE,FALSE,TRUE,"S316337412"
+"5","chclon","Chestnut-collared Longspur","Calcarius ornatus","L61707366","43800–44258 102nd Ave SE, Braddock US-ND 46.69148, -100.10133","2026-04-03 10:32",1,46.691479,-100.101328,TRUE,FALSE,TRUE,"S316327140"
+"6","chclon","Chestnut-collared Longspur","Calcarius ornatus","L4121921","Seibert Cemetery","2026-04-02 17:52",3,39.3152419,-102.8554201,TRUE,FALSE,FALSE,"S316082004"
+"7","chclon","Chestnut-collared Longspur","Calcarius ornatus","L61687105","2101-2173 Road 250, Lakin, Kansas, US (38.09, -101.168)","2026-04-02 15:46",14,38.0903365,-101.1681856,TRUE,FALSE,TRUE,"S316225969"
+"8","chclon","Chestnut-collared Longspur","Calcarius ornatus","L61643321","West Tv Road, Garden City, Kansas, US (37.766, -101.008)","2026-04-02 14:47",3,37.7658397,-101.0075082,TRUE,FALSE,TRUE,"S316019142"
+"9","chclon","Chestnut-collared Longspur","Calcarius ornatus","L61628718","Hollow E0040, Forgan, Oklahoma, US (36.95, -100.462)","2026-04-02 07:34",12,36.9504331,-100.4615682,TRUE,FALSE,TRUE,"S315952589"
+"10","chclon","Chestnut-collared Longspur","Calcarius ornatus","L61636482","E County Road 14, Deer Trail US-CO (39.6968,-103.7814)","2026-04-02 07:14",1,39.696831,-103.781448,TRUE,TRUE,TRUE,"S315988644"
+"11","chclon","Chestnut-collared Longspur","Calcarius ornatus","L61652308","Washington CRs 50","2026-04-02 07:05",7,40.306097,-103.452487,TRUE,FALSE,TRUE,"S316063241"
+"12","chclon","Chestnut-collared Longspur","Calcarius ornatus","L129123","Portal--Willow Tank","2026-04-02 06:03",5,31.8145008,-109.0595016,TRUE,FALSE,FALSE,"S315878853"
+"13","chclon","Chestnut-collared Longspur","Calcarius ornatus","L31781538","EW 5 Rd. Lake","2026-04-01 16:14",16,36.934353,-100.508579,TRUE,FALSE,FALSE,"S315951962"
+"14","chclon","Chestnut-collared Longspur","Calcarius ornatus","L1435347","Hackberry Flat WMA--Hackberry Center","2026-04-01 12:22",3,34.2777062,-98.9637259,TRUE,FALSE,FALSE,"S315638133"
+"15","chclon","Chestnut-collared Longspur","Calcarius ornatus","L61557011","2031 Road 130, Lakin, Kansas, US (37.915, -101.189)","2026-04-01 10:34",27,37.9154895,-101.1889278,TRUE,FALSE,TRUE,"S315586653"
+"16","chclon","Chestnut-collared Longspur","Calcarius ornatus","L5098119","Little Jerusalem Badlands SP","2026-04-01 09:49",1,38.8041409,-100.9401244,TRUE,FALSE,FALSE,"S315714294"
+"17","chclon","Chestnut-collared Longspur","Calcarius ornatus","L266875","Willcox--Lake Cochise and Twin Lakes Golf Course","2026-04-01 08:02",2,32.2298515,-109.8243175,TRUE,FALSE,FALSE,"S315595971"
+"18","chclon","Chestnut-collared Longspur","Calcarius ornatus","L61652126","28000–28098 150 Ave, Utica US-KS (38.8418,-100.0768)","2026-04-01 07:00",5,38.84183,-100.076783,TRUE,FALSE,TRUE,"S316062279"
+"19","chclon","Chestnut-collared Longspur","Calcarius ornatus","L41061110","US-64, Gate US-OK 36.88088, -100.20190","2026-03-31 19:02",15,36.880877,-100.201898,TRUE,FALSE,TRUE,"S315483839"
+"20","chclon","Chestnut-collared Longspur","Calcarius ornatus","L61539688","73942, Guymon US-OK (36.9188,-102.0259)","2026-03-31 15:26",30,36.918768,-102.02591,TRUE,FALSE,TRUE,"S315484076"
+"21","chclon","Chestnut-collared Longspur","Calcarius ornatus","L61467234","1741–1799 County Road 1, Lakin US-KS 37.73629, -101.23018","2026-03-31 15:13",6,37.736293,-101.230176,TRUE,FALSE,TRUE,"S315388440"
+"22","chclon","Chestnut-collared Longspur","Calcarius ornatus","L61462614","County Road 136, Grover US-CO (40.9727,-104.2193)","2026-03-31 09:45",1,40.972737,-104.219254,TRUE,FALSE,TRUE,"S315247120"
+"23","chclon","Chestnut-collared Longspur","Calcarius ornatus","L61441028","TNC-SVR (no public access) — US-KS 38.89734, -100.96226","2026-03-31 09:22",23,38.897337,-100.962259,TRUE,FALSE,TRUE,"S315138416"
+"24","chclon","Chestnut-collared Longspur","Calcarius ornatus","L61442000","TNC—Smoky Valley Ranch Point 1 (Restricted Access)","2026-03-31 06:52",3,38.897328,-100.962159,TRUE,FALSE,TRUE,"S315143963"
+"25","chclon","Chestnut-collared Longspur","Calcarius ornatus","L31080593","STGR Lek, Grover, Colorado","2026-03-31 06:13",2,40.9634179,-103.994883,TRUE,FALSE,TRUE,"S315145908"
+"26","chclon","Chestnut-collared Longspur","Calcarius ornatus","L61400707","County Road K, Quinter US-KS 38.84288, -100.21720","2026-03-30 15:32",27,38.842884,-100.217203,TRUE,FALSE,TRUE,"S314919508"
+"27","chclon","Chestnut-collared Longspur","Calcarius ornatus","L2153964","Wilson WA","2026-03-30 13:40",1,38.959191,-98.6628055,TRUE,FALSE,FALSE,"S314952821"
+"28","chclon","Chestnut-collared Longspur","Calcarius ornatus","L60846429","Hill City WTP","2026-03-30 12:54",20,39.3978316,-99.7876862,TRUE,TRUE,FALSE,"S314866062"
+"29","chclon","Chestnut-collared Longspur","Calcarius ornatus","L61371719","SH-136, Guymon US-OK 36.82713, -101.49218","2026-03-30 10:33",50,36.827126,-101.492175,TRUE,FALSE,TRUE,"S314776867"
+"30","chclon","Chestnut-collared Longspur","Calcarius ornatus","L16171621","Taya Road watering hole","2026-03-30 09:00",27,34.6583477,-106.8501187,TRUE,TRUE,TRUE,"S314838258"
+"31","chclon","Chestnut-collared Longspur","Calcarius ornatus","L61368150","County Highway 109, Hugo US-CO 38.88974, -103.47266","2026-03-30 08:18",2,38.88974,-103.472656,TRUE,FALSE,TRUE,"S314758752"
+"32","chclon","Chestnut-collared Longspur","Calcarius ornatus","L896211","Keyes WTP","2026-03-29 16:00",35,36.8064672,-102.2358084,TRUE,FALSE,FALSE,"S314528519"
+"33","chclon","Chestnut-collared Longspur","Calcarius ornatus","L20478451","Cheyenne CR34 Playa (Dry most years)","2026-03-29 10:13",24,38.8812066,-102.5375138,TRUE,FALSE,FALSE,"S314457758"
+"34","chclon","Chestnut-collared Longspur","Calcarius ornatus","L61279897","E0210 Rd, Felt US-OK 36.70476, -102.84949","2026-03-29 09:18",30,36.704764,-102.849491,TRUE,FALSE,TRUE,"S314339432"
+"35","chclon","Chestnut-collared Longspur","Calcarius ornatus","L61281805","County Road 117, Grover US-CO 40.99401, -103.95230","2026-03-29 08:38",2,40.994007,-103.952303,TRUE,FALSE,TRUE,"S314349395"
+"36","chclon","Chestnut-collared Longspur","Calcarius ornatus","L61323764","County Road 117, Grover US-CO 40.99684, -103.95227","2026-03-29 08:37",2,40.996838,-103.952271,TRUE,FALSE,TRUE,"S314532801"
+"37","chclon","Chestnut-collared Longspur","Calcarius ornatus","L4002467","Curly Horse Ranch Rd (Santa Cruz Co.)","2026-03-29 06:35",4,31.717074,-110.622229,TRUE,TRUE,FALSE,"S314376769"
+"38","chclon","Chestnut-collared Longspur","Calcarius ornatus","L61323578","Pawnee National Grassland STGR lek 2026, Grover US-CO 40.96332, -103.99544","2026-03-29 06:05",1,40.963316,-103.995442,TRUE,FALSE,TRUE,"S314531927"
+"39","chclon","Chestnut-collared Longspur","Calcarius ornatus","L48176121","EW 14, Keyes US-OK 36.80601, -102.49992","2026-03-28 16:47",18,36.806007,-102.499918,TRUE,FALSE,TRUE,"S314129229"
+"40","chclon","Chestnut-collared Longspur","Calcarius ornatus","L61237900","CR 93 & 385 Playa","2026-03-28 11:44",2,40.8652996,-102.6893917,TRUE,FALSE,TRUE,"S314146564"
+"41","chclon","Chestnut-collared Longspur","Calcarius ornatus","L61192840","K-51, Richfield US-KS 37.14134, -101.93161","2026-03-28 09:21",75,37.141345,-101.931605,TRUE,FALSE,TRUE,"S313962910"
+"42","chclon","Chestnut-collared Longspur","Calcarius ornatus","L61139741","257 South Road, Offerle, Kansas, US (37.826, -99.528)","2026-03-27 15:52",200,37.8256089,-99.5278982,TRUE,TRUE,TRUE,"S313720149"
+"43","chclon","Chestnut-collared Longspur","Calcarius ornatus","L3514884","Lakeview Playa","2026-03-27 14:34",12,37.2832852,-100.1997542,TRUE,FALSE,FALSE,"S313706785"
+"44","chclon","Chestnut-collared Longspur","Calcarius ornatus","L4762976","Keller Lake","2026-03-27 11:45",10,39.7789005,-101.8101847,TRUE,FALSE,FALSE,"S313653184"
+"45","chclon","Chestnut-collared Longspur","Calcarius ornatus","L61131315","32001–32313 County Road 2R, Hugo US-CO 39.05333, -103.47938","2026-03-27 10:57",1,39.053333,-103.479376,TRUE,FALSE,TRUE,"S313682043"
+"46","chclon","Chestnut-collared Longspur","Calcarius ornatus","L30327529","Road 6 S/CR 23","2026-03-27 09:37",10,41.032696,-103.820449,TRUE,FALSE,TRUE,"S313903759"
+"47","chclon","Chestnut-collared Longspur","Calcarius ornatus","L58711201","BETH Study Area — Northeast (Chihuahuan Desert IBA)","2026-03-27 07:01",3,32.459821,-108.958588,TRUE,TRUE,TRUE,"S313631980"
+"48","chclon","Chestnut-collared Longspur","Calcarius ornatus","L41937154","Norton Co. General (Use for Private GRPC Leks)","2026-03-26 09:01",8,39.82354,-99.889137,TRUE,FALSE,TRUE,"S313416443"
+"49","chclon","Chestnut-collared Longspur","Calcarius ornatus","L9346631","County Road H Playa NW of Stratford","2026-03-25 11:20",1,36.4005717,-102.1165142,TRUE,FALSE,FALSE,"S313048695"
+"50","chclon","Chestnut-collared Longspur","Calcarius ornatus","L40930085","Graham Co. General Location (Use for private GRPC leks/surveys)","2026-03-25 10:02",15,39.374266,-99.845849,TRUE,TRUE,TRUE,"S313286519"
+"51","chclon","Chestnut-collared Longspur","Calcarius ornatus","L61002464","131003 EW 24 Road, Beaver, Oklahoma, US (36.66, -100.667)","2026-03-25 09:08",120,36.6599991,-100.6667953,TRUE,FALSE,TRUE,"S313017684"
+"52","chclon","Chestnut-collared Longspur","Calcarius ornatus","L61002474","131996 EW 24 Road, Beaver, Oklahoma, US (36.66, -100.649)","2026-03-25 09:00",80,36.6599653,-100.6488285,TRUE,FALSE,TRUE,"S313017724"
+"53","chclon","Chestnut-collared Longspur","Calcarius ornatus","L27324068","Hugo WTP (view from road)","2026-03-25 08:00",1,39.1112409,-103.4655631,TRUE,FALSE,FALSE,"S313584028"
