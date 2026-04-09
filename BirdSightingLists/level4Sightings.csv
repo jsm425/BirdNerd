@@ -1,57 +1,100 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L839345","Rio Grande Nature Center SP--Visitor Center","2026-04-07 13:46",1,35.1304869,-106.6837344,TRUE,FALSE,FALSE,"S318433487"
-"2","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L350281","El Rio Preserve","2026-04-07 10:21",1,32.392141,-111.1384898,TRUE,FALSE,FALSE,"S318454762"
-"3","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L196306","Rio Grande Nature Center SP","2026-04-07 08:17",1,35.13,-106.683,TRUE,FALSE,FALSE,"S318340269"
-"4","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L1285882","Los Poblanos Open Space","2026-04-07 08:16",1,35.1451785,-106.657033,TRUE,FALSE,FALSE,"S318326947"
-"5","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L267156","Danny Lopez Park (formerly Columbus Park)","2026-04-07 05:55",1,32.2856814,-111.0346556,TRUE,FALSE,FALSE,"S318369302"
-"6","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L281846","The Lakes at Castle Rock","2026-04-06 16:10",1,32.2491071,-110.7933046,TRUE,FALSE,FALSE,"S318090772"
-"7","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L16595845","Nutria Reservoir Number 4 (restricted access)","2026-04-06 15:40",2,35.222719,-108.638842,TRUE,FALSE,FALSE,"S318296554"
-"8","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L343450","Benson STP","2026-04-06 14:12",1,31.9815,-110.2924,TRUE,FALSE,FALSE,"S318058241"
-"9","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L17077746","Chaparral WTP","2026-04-06 14:04",1,32.0079109,-106.412186,TRUE,FALSE,FALSE,"S318033460"
-"10","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L480858","Ajo Sewage Ponds","2026-04-06 09:33",1,32.3856344,-112.8541522,TRUE,TRUE,FALSE,"S317959499"
-"11","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L5378914","Tularosa Sewage Ponds","2026-04-06 09:09",4,33.0635175,-106.0304281,TRUE,FALSE,FALSE,"S317907293"
-"12","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L18726082","Vista Canyon Park","2026-04-06 08:54",1,33.3000089,-112.0194405,TRUE,FALSE,FALSE,"S317976853"
-"13","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L6444005","UNM--North Golf Course","2026-04-06 08:02",1,35.098239,-106.621195,TRUE,FALSE,FALSE,"S317882101"
-"14","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L227274","Reid Park","2026-04-06 07:23",4,32.2102866,-110.9235907,TRUE,FALSE,FALSE,"S317901168"
-"15","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L127945","Bosque del Apache NWR (please use for checklists covering the entire refuge)","2026-04-06 06:15",3,33.802,-106.88,TRUE,FALSE,FALSE,"S318036590"
-"16","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L6573881","Rio Grande Valley SP--Shining River Bosque Trails","2026-04-05 18:20",2,35.1820745,-106.6485077,TRUE,FALSE,FALSE,"S317622830"
-"17","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L25046614","Las Campanas Sunset - Three pond loop (restricted access)","2026-04-05 18:06",1,35.711131,-106.072097,TRUE,FALSE,TRUE,"S317616891"
-"18","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L275081","Gila NF--Quemado Lake","2026-04-05 17:19",1,34.1341239,-108.4923957,TRUE,FALSE,FALSE,"S317858918"
-"19","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L20654352","Las Campanas WTF","2026-04-05 12:03",1,35.707262,-106.078757,TRUE,FALSE,TRUE,"S317507508"
-"20","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L1092125","Sedona Wetlands Preserve","2026-04-05 10:53",1,34.829,-111.8964,TRUE,FALSE,FALSE,"S317468366"
-"21","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L11010750","Bitter Lake NWR--Parking Between Units 15 & 16","2026-04-05 08:29",1,33.416943,-104.414148,TRUE,FALSE,FALSE,"S317335361"
-"22","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L2087533","Our house","2026-04-05 07:30",2,35.1316495,-106.663878,TRUE,FALSE,TRUE,"S317613558"
-"23","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L12170208","Cherry Creek SP--Prairie Loop","2026-04-05 07:27",1,39.6310891,-104.8538449,TRUE,TRUE,FALSE,"S317318580"
-"24","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L128870","Agua Caliente Park","2026-04-05 07:10",1,32.2813752,-110.7298226,TRUE,FALSE,FALSE,"S317415665"
-"25","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L2745387","McPhee Reservoir--West End","2026-04-04 15:05",1,37.5053683,-108.5713577,TRUE,FALSE,FALSE,"S317028141"
-"26","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L61870483","Sawmill Tank (San Carlos Apache Reservation permit required)","2026-04-04 14:42",1,33.6234313,-110.4028569,TRUE,FALSE,TRUE,"S317090332"
-"27","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L515634","Arapaho NWR--Auto Loop","2026-04-04 14:06",1,40.6686604,-106.322937,TRUE,TRUE,FALSE,"S317025055"
-"28","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L41146546","Yuma Proving Ground—Kofa sewage lagoon (no public access)","2026-04-04 12:41",1,32.85123,-114.353391,TRUE,TRUE,TRUE,"S317011439"
-"29","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L628928","Rio Grande Valley SP--Alameda Bridge Bosque Trails (including Alameda Open Space)","2026-04-04 11:12",1,35.1951059,-106.6399901,TRUE,FALSE,FALSE,"S316922421"
-"30","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L3234534","Silver City Golf Course","2026-04-04 08:50",2,32.73975,-108.26072,TRUE,FALSE,TRUE,"S316855618"
-"31","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L845398","Rio Grande Valley SP--Tingley Beach Bosque Trails","2026-04-04 07:35",1,35.0807861,-106.6717958,TRUE,FALSE,FALSE,"S316956412"
-"32","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L5172729","Saguaro NP--East--Wildhorse Canyon area","2026-04-04 07:28",2,32.2171161,-110.6919819,TRUE,FALSE,FALSE,"S316978140"
-"33","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L144858","Riparian Preserve at Gilbert Water Ranch","2026-04-04 06:57",2,33.3614502,-111.7339478,TRUE,FALSE,FALSE,"S316831948"
-"34","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L250145","Sam Lena Park and KERP","2026-04-04 06:20",2,32.1812,-110.932,TRUE,FALSE,FALSE,"S316908731"
-"35","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L233071","Amado WTP","2026-04-03 16:44",1,31.7306042,-111.0544619,TRUE,FALSE,FALSE,"S316524569"
-"36","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L140687","ABQ BioPark--Tingley Lagoon","2026-04-03 15:41",1,35.0864029,-106.6737442,TRUE,FALSE,FALSE,"S316497184"
-"37","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L208918","Sweetwater Wetlands","2026-04-03 15:16",1,32.2790144,-111.0216061,TRUE,FALSE,FALSE,"S316505243"
-"38","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L863316","Rio Grande Valley SP--Glass Beach Bosque Trails","2026-04-03 11:58",2,35.0592951,-106.6559104,TRUE,FALSE,FALSE,"S316455584"
-"39","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L128977","Green Valley WRF (park outside fence, walk in only)","2026-04-03 11:50",2,31.899334,-110.9695026,TRUE,FALSE,FALSE,"S316429548"
-"40","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L7330592","Johnson Ponds area, Alpine","2026-04-03 08:30",1,30.3660623,-103.6742771,TRUE,FALSE,FALSE,"S316287159"
-"41","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L993428","Ron Morriss Park","2026-04-03 08:29",4,31.6090037,-111.0424018,TRUE,FALSE,FALSE,"S316576034"
-"42","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L3808085","Rio Grande Valley SP--Paseo del Norte Westside Bosque Trails","2026-04-03 07:42",2,35.1813756,-106.6537875,TRUE,FALSE,FALSE,"S316343146"
-"43","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L393566","Casa de San Pedro B&B--Visitors Welcome","2026-04-03 06:00",2,31.4088134,-110.1067829,TRUE,FALSE,FALSE,"S316489573"
-"44","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L9861160","Buffalo Thunder Casino Ponds (view from parking lot only)","2026-04-02 11:45",2,35.8591521,-105.994053,TRUE,FALSE,FALSE,"S315993860"
-"45","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L10277351","East side Bosque and clear Ditch north of Alameda Albuquerque US-NM (35.2041,-106.6285)","2026-04-02 08:46",2,35.204103,-106.628461,TRUE,FALSE,TRUE,"S316007572"
-"46","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L387795","Lake Mead NRA--Willow Beach","2026-04-02 07:57",1,35.8696,-114.6604,TRUE,FALSE,FALSE,"S315987390"
-"47","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L61657675","107th Ave. south of Southern Ave.","2026-04-02 07:06",3,33.3880367,-112.2888283,TRUE,FALSE,TRUE,"S316091394"
-"48","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L18533125","Mocroft Road Pond","2026-04-01 10:50",1,42.8159117,-109.8413958,TRUE,TRUE,FALSE,"S315627112"
-"49","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L245447","Fort Lowell Park and Pantano Wash","2026-04-01 09:25",1,32.2605631,-110.8727628,TRUE,FALSE,FALSE,"S315617601"
-"50","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L211851","Avra Valley WTP","2026-04-01 08:40",1,32.165,-111.179,TRUE,FALSE,FALSE,"S315673558"
-"51","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L967125","Becker Lake WA--River Walk Trail","2026-04-01 08:12",1,34.1445582,-109.2939101,TRUE,FALSE,FALSE,"S315610844"
-"52","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L2673862","San Vicente Cienega Trail","2026-03-31 07:22",1,32.7629823,-108.2704689,TRUE,FALSE,FALSE,"S315227355"
-"53","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L267413","San Rafael Grasslands","2026-03-31 06:30",3,31.4542427,-110.631692,TRUE,FALSE,FALSE,"S315276655"
-"54","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L953575","Gila River Preserve--Iron Bridge Conservation Area","2026-03-30 14:36",2,32.9400071,-108.6066073,TRUE,FALSE,FALSE,"S315596971"
-"55","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L474280","3200 West (SLC Airport to 3200 N)","2026-03-29 18:35",1,40.828359,-111.9680222,TRUE,TRUE,FALSE,"S314608326"
-"56","mallar4","Mallard x Mexican Duck (hybrid)","Anas platyrhynchos x diazi","L229841","Agua Nueva Park (was Roger Road WRF)","2026-03-29 08:58",2,32.2804902,-111.0272755,TRUE,FALSE,FALSE,"S314414026"
+"","speciesCode","comName","sciName","locId","locName","obsDt","lat","lng","obsValid","obsReviewed","locationPrivate","subId","howMany"
+"1","surfbi","Surfbird","Calidris virgata","L247561","Ballona Creek--mouth, jetties, and breakwater","2026-04-08 12:50",33.9638739,-118.4563213,TRUE,FALSE,FALSE,"S318909077",NA
+"2","surfbi","Surfbird","Calidris virgata","L725175","Cuvier Park","2026-04-08 12:48",32.8430267,-117.2809121,TRUE,FALSE,FALSE,"S318901654",1
+"3","surfbi","Surfbird","Calidris virgata","L62250088","Del Rey Lagoon, Los Angeles US-CA 33.95962, -118.45008","2026-04-08 12:44",33.959623,-118.450081,TRUE,FALSE,TRUE,"S318914918",1
+"4","surfbi","Surfbird","Calidris virgata","L392613","UCSB--Campus Point / Goleta Point","2026-04-08 12:40",34.404856,-119.8440063,TRUE,FALSE,FALSE,"S318915510",14
+"5","surfbi","Surfbird","Calidris virgata","L606176","Bodega Head - offshore species and the bluff ONLY","2026-04-08 11:21",38.3031875,-123.0648422,TRUE,FALSE,FALSE,"S318859219",4
+"6","surfbi","Surfbird","Calidris virgata","L634095","Mission Beach & north jetty","2026-04-08 11:02",32.7592345,-117.2536002,TRUE,FALSE,FALSE,"S318844377",2
+"7","surfbi","Surfbird","Calidris virgata","L27614323","Big Creek Agate Beach","2026-04-08 10:40",44.663608,-124.057653,TRUE,FALSE,TRUE,"S318850984",NA
+"8","surfbi","Surfbird","Calidris virgata","L1779056","Hotel del Coronado & beach","2026-04-08 10:36",32.6790278,-117.1796072,TRUE,FALSE,FALSE,"S318873350",4
+"9","surfbi","Surfbird","Calidris virgata","L459755","Pescadero Marsh and Natural Preserve--(North pond,lagoon and marsh trails east of Hwy 1)","2026-04-08 09:57",37.2681846,-122.4079944,TRUE,FALSE,FALSE,"S318953277",20
+"10","surfbi","Surfbird","Calidris virgata","L1571819","Pebble Beach--Stillwater Cove","2026-04-08 09:10",36.5662486,-121.9428965,TRUE,FALSE,FALSE,"S318906450",1
+"11","surfbi","Surfbird","Calidris virgata","L608334","Point Hudson","2026-04-08 07:47",48.117861,-122.7494931,TRUE,FALSE,FALSE,"S318738102",1
+"12","surfbi","Surfbird","Calidris virgata","L867556","Windansea Beach","2026-04-08 07:06",32.8301465,-117.2807062,TRUE,FALSE,FALSE,"S318758865",1
+"13","surfbi","Surfbird","Calidris virgata","L109309","Pt. Pinos--seawatch only","2026-04-08 06:38",36.6373821,-121.9357538,TRUE,FALSE,FALSE,"S318749318",8
+"14","surfbi","Surfbird","Calidris virgata","L443195","Sitka (general area)","2026-04-08",57.049881,-135.3335381,TRUE,FALSE,FALSE,"S318811739",30
+"15","surfbi","Surfbird","Calidris virgata","L548476","Haystack Rock","2026-04-07 15:04",45.8847357,-123.9683104,TRUE,FALSE,FALSE,"S318492101",20
+"16","surfbi","Surfbird","Calidris virgata","L715140","La Jolla--Children's Pool (harbor seal haul out)","2026-04-07 14:29",32.847647,-117.27882,TRUE,FALSE,FALSE,"S318461158",1
+"17","surfbi","Surfbird","Calidris virgata","L233548","Point La Jolla--seawatch","2026-04-07 13:35",32.8507576,-117.2735641,TRUE,FALSE,FALSE,"S318470061",3
+"18","surfbi","Surfbird","Calidris virgata","L1096408","Seaside Cove","2026-04-07 13:32",45.9755964,-123.9397073,TRUE,FALSE,FALSE,"S318444210",45
+"19","surfbi","Surfbird","Calidris virgata","L169501","Pescadero State Beach -- (north) beach area and seawatch - West of Hwy 1 only","2026-04-07 11:45",37.2737378,-122.4098987,TRUE,FALSE,FALSE,"S318434882",5
+"20","surfbi","Surfbird","Calidris virgata","L62167132","Miramontes Point (37.4330,-122.4419)","2026-04-07 11:25",37.433007,-122.44192,TRUE,FALSE,TRUE,"S318487641",7
+"21","surfbi","Surfbird","Calidris virgata","L5108803","Sugarloaf Point and Victoria Beach","2026-04-07 10:48",33.5198159,-117.7642,TRUE,FALSE,FALSE,"S318413785",4
+"22","surfbi","Surfbird","Calidris virgata","L433164","Silver Strand SB--ocean side","2026-04-07 10:45",32.6307805,-117.1458339,TRUE,FALSE,FALSE,"S318387717",11
+"23","surfbi","Surfbird","Calidris virgata","L15798491","Montaña de Oro State Park, Los Osos US-CA 35.27420, -120.88708","2026-04-07 09:31",35.274196,-120.887084,TRUE,FALSE,TRUE,"S318415854",3
+"24","surfbi","Surfbird","Calidris virgata","L1142122","Crescent City Harbor--Anchor Way & Whaler Island","2026-04-07 08:34",41.7426017,-124.1819268,TRUE,FALSE,FALSE,"S318375791",1
+"25","surfbi","Surfbird","Calidris virgata","L355646","Cliff House","2026-04-07 07:40",37.7786269,-122.5141132,TRUE,FALSE,FALSE,"S318335401",3
+"26","surfbi","Surfbird","Calidris virgata","L1333982","Port Townsend--waterfront","2026-04-07 07:25",48.1117433,-122.762578,TRUE,FALSE,FALSE,"S318339151",4
+"27","surfbi","Surfbird","Calidris virgata","L3059796","Sitka National Historical Park--Totem Trail","2026-04-07",57.0464146,-135.3124237,TRUE,FALSE,FALSE,"S318528853",50
+"28","surfbi","Surfbird","Calidris virgata","L467982","Foster City Shell Bar","2026-04-06 18:10",37.5635405,-122.248714,TRUE,FALSE,FALSE,"S318143021",38
+"29","surfbi","Surfbird","Calidris virgata","L833754","Asilomar SB--rocky shore only [Jewell to Asilomar, west of Sunset]","2026-04-06 17:32",36.6230674,-121.9410557,TRUE,FALSE,FALSE,"S318118019",7
+"30","surfbi","Surfbird","Calidris virgata","L422817","Coal Oil Point, Devereux Beach, Sands Beach, and bluff trails","2026-04-06 15:21",34.4071359,-119.8783064,TRUE,FALSE,FALSE,"S318084819",31
+"31","surfbi","Surfbird","Calidris virgata","L774789","Coquille River--South Jetty ","2026-04-06 14:19",43.1222404,-124.4282663,TRUE,FALSE,FALSE,"S318059010",2
+"32","surfbi","Surfbird","Calidris virgata","L62074005","1879 Sunset Drive, Pacific Grove, California, US (36.621, -121.942)","2026-04-06 12:32",36.6212271,-121.9415281,TRUE,FALSE,TRUE,"S318027641",6
+"33","surfbi","Surfbird","Calidris virgata","L62071224","Pacific Grove, California, US (36.633, -121.938)","2026-04-06 11:44",36.6333548,-121.9381927,TRUE,FALSE,TRUE,"S318015559",1
+"34","surfbi","Surfbird","Calidris virgata","L985991","Silver Point","2026-04-06 11:41",45.8547974,-123.9647484,TRUE,FALSE,FALSE,"S318019690",23
+"35","surfbi","Surfbird","Calidris virgata","L998381","Presidio--Lobos Creek and Dunes Restoration Area","2026-04-06 11:23",37.7877083,-122.4791479,TRUE,FALSE,FALSE,"S318102698",4
+"36","surfbi","Surfbird","Calidris virgata","L818961","Laguna Creek beach and marsh","2026-04-06 09:26",36.9833776,-122.1554614,TRUE,FALSE,FALSE,"S318089591",28
+"37","surfbi","Surfbird","Calidris virgata","L2999612","Playa del Rey/Ballona area","2026-04-06 09:15",33.9634551,-118.4519934,TRUE,FALSE,FALSE,"S318516687",1
+"38","surfbi","Surfbird","Calidris virgata","L955267","Cayucos Pier","2026-04-06 09:09",35.4478436,-120.9069453,TRUE,FALSE,FALSE,"S318141596",2
+"39","surfbi","Surfbird","Calidris virgata","L371209","Half Moon Bay Coastal Trail -- public access through Golf Course","2026-04-06 08:42",37.4374917,-122.4405743,TRUE,FALSE,FALSE,"S318058368",15
+"40","surfbi","Surfbird","Calidris virgata","L208705","Oceanside Harbor & San Luis Rey River mouth","2026-04-06 07:51",33.2051908,-117.3939712,TRUE,FALSE,FALSE,"S318131731",8
+"41","surfbi","Surfbird","Calidris virgata","L61750479","Bay SD","2026-04-06 07:38",32.774417,-117.250237,TRUE,FALSE,TRUE,"S318447769",3
+"42","surfbi","Surfbird","Calidris virgata","L631718","Ventura Harbor--Marina Park","2026-04-06 07:26",34.2542014,-119.2683935,TRUE,FALSE,FALSE,"S317890071",12
+"43","surfbi","Surfbird","Calidris virgata","L62166261","Cayucos beach, Cayucos US-CA","2026-04-05 17:22",35.440242,-120.895147,TRUE,FALSE,TRUE,"S318483160",6
+"44","surfbi","Surfbird","Calidris virgata","L1047906","Presidio--bluffs from Coastal Trail","2026-04-05 14:21",37.8014767,-122.4791479,TRUE,FALSE,FALSE,"S317584818",3
+"45","surfbi","Surfbird","Calidris virgata","L351480","Pacific Grove--Lovers Pt. & Perkins Park","2026-04-05 12:16",36.6265066,-121.9162166,TRUE,FALSE,FALSE,"S317501186",2
+"46","surfbi","Surfbird","Calidris virgata","L830384","Bean Hollow SB--Pebble Beach (SM Co.)","2026-04-05 12:13",37.2335844,-122.4153933,TRUE,FALSE,FALSE,"S317497453",2
+"47","surfbi","Surfbird","Calidris virgata","L61954835","Auto selected 45.88516, -123.96522","2026-04-05 10:26",45.885161,-123.965216,TRUE,FALSE,TRUE,"S317472685",8
+"48","surfbi","Surfbird","Calidris virgata","L43806903","Ocean Shores STP","2026-04-05 10:21",46.931967,-124.1580575,TRUE,FALSE,FALSE,"S317458730",22
+"49","surfbi","Surfbird","Calidris virgata","L638805","Cannon Beach","2026-04-05 09:39",45.888186,-123.9646626,TRUE,FALSE,FALSE,"S317417296",10
+"50","surfbi","Surfbird","Calidris virgata","L286501","Tillamook Bay--Barview Jetty","2026-04-05 08:50",45.56952,-123.949414,TRUE,FALSE,FALSE,"S317384224",15
+"51","surfbi","Surfbird","Calidris virgata","L8151616","Kodiak Is.--Near Island","2026-04-05 08:43",57.7810021,-152.4018664,TRUE,FALSE,FALSE,"S317452119",40
+"52","surfbi","Surfbird","Calidris virgata","L1022447","San Gabriel River mouth (ORA Co.)","2026-04-05 08:36",33.7421132,-118.1134129,TRUE,FALSE,FALSE,"S317410460",13
+"53","surfbi","Surfbird","Calidris virgata","L61982117","Haystack Rock","2026-04-05 08:30",45.884535,-123.965587,TRUE,FALSE,TRUE,"S318101454",4
+"54","surfbi","Surfbird","Calidris virgata","L198793","Del Rey Lagoon Park","2026-04-05 08:14",33.9610802,-118.4507315,TRUE,FALSE,FALSE,"S317393010",1
+"55","surfbi","Surfbird","Calidris virgata","L998431","Sutro Baths--seawatch","2026-04-05 07:56",37.7810776,-122.5143653,TRUE,FALSE,FALSE,"S317384584",3
+"56","surfbi","Surfbird","Calidris virgata","L1071411","Sutro Baths--ruins and freshwater pond","2026-04-05 07:41",37.7799752,-122.5133193,TRUE,FALSE,FALSE,"S317334345",6
+"57","surfbi","Surfbird","Calidris virgata","L271476","Pigeon Pt.","2026-04-05 06:43",37.182,-122.394,TRUE,FALSE,FALSE,"S317482042",2
+"58","surfbi","Surfbird","Calidris virgata","L981951","Ballona Creek--90 Fwy to Centinela Ave.","2026-04-04 17:02",33.9837766,-118.4196192,TRUE,FALSE,FALSE,"S317091497",3
+"59","surfbi","Surfbird","Calidris virgata","L2335233","Arch Cape Creek","2026-04-04 16:52",45.8028119,-123.9681387,TRUE,FALSE,FALSE,"S317071839",12
+"60","surfbi","Surfbird","Calidris virgata","L35186697","Pescadero State Beach -- (south)  beach area, seawatch and Seabird Rock - West of Hwy 1 only","2026-04-04 13:05",37.2612534,-122.4141312,TRUE,FALSE,FALSE,"S317050518",20
+"61","surfbi","Surfbird","Calidris virgata","L280562","Cabrillo National Monument","2026-04-04 12:58",32.6742155,-117.2414321,TRUE,FALSE,FALSE,"S317015482",2
+"62","surfbi","Surfbird","Calidris virgata","L156941","Yaquina Head Outstanding Natural Area--Lighthouse","2026-04-04 12:22",44.6768624,-124.0788388,TRUE,FALSE,FALSE,"S316978541",1
+"63","surfbi","Surfbird","Calidris virgata","L612152","Bean Hollow SB","2026-04-04 10:40",37.2255,-122.409,TRUE,FALSE,FALSE,"S317041438",5
+"64","surfbi","Surfbird","Calidris virgata","L1807655","Hwy 1--overlook at Coleman Valley Rd.","2026-04-04 10:39",38.364724,-123.0709781,TRUE,FALSE,FALSE,"S316959256",6
+"65","surfbi","Surfbird","Calidris virgata","L374642","Pt. Pinos--general (sea & shore Coral to Jewell, Crespi Pond & cypresses)","2026-04-04 10:30",36.6363201,-121.9339388,TRUE,FALSE,FALSE,"S316955024",3
+"66","surfbi","Surfbird","Calidris virgata","L61845744","Bodega Head Trail, Bodega Bay US-CA 38.30321, -123.06499","2026-04-04 10:23",38.303206,-123.064988,TRUE,FALSE,TRUE,"S316977661",6
+"67","surfbi","Surfbird","Calidris virgata","L338560","Mori Pt.","2026-04-04 10:07",37.6204026,-122.4934964,TRUE,FALSE,FALSE,"S317850077",4
+"68","surfbi","Surfbird","Calidris virgata","L2843527","Rocky Creek State Park","2026-04-04 09:45",44.7854979,-124.0733443,TRUE,FALSE,FALSE,"S316918953",6
+"69","surfbi","Surfbird","Calidris virgata","L9747693","causeway plane viewing location","2026-04-04 09:16",57.0391918,-135.3554157,TRUE,FALSE,TRUE,"S317080919",1
+"70","surfbi","Surfbird","Calidris virgata","L139567","Rodeo Lagoon (including beach and offshore)","2026-04-04 08:36",37.8304863,-122.5329514,TRUE,FALSE,FALSE,"S316910285",3
+"71","surfbi","Surfbird","Calidris virgata","L3954620","Oregon Islands NWR--Table Rock Overlook","2026-04-04 08:30",43.1161121,-124.4333861,TRUE,FALSE,FALSE,"S316957337",10
+"72","surfbi","Surfbird","Calidris virgata","L506275","San Diego River mudflats (including Robb Field & Quivira Way)","2026-04-04 08:29",32.7572496,-117.2385339,TRUE,FALSE,FALSE,"S316892436",1
+"73","surfbi","Surfbird","Calidris virgata","L785035","Pillar Point Harbor--West Point Ave. Riparian areas,  Freshwater Pond trails,  includes Maverick's Beach","2026-04-04 07:44",37.5018956,-122.4967432,TRUE,FALSE,FALSE,"S317117270",1
+"74","surfbi","Surfbird","Calidris virgata","L492504","Restoration Point (restricted access)","2026-04-04 06:27",47.583705,-122.480135,TRUE,FALSE,FALSE,"S317007331",12
+"75","surfbi","Surfbird","Calidris virgata","L168688","Ocean Shores--Pt. Brown Jetty","2026-04-03 16:33",46.92816,-124.17397,TRUE,FALSE,FALSE,"S316888204",12
+"76","surfbi","Surfbird","Calidris virgata","L61829063","Samoa Dunes Recreation Area, Samoa US-CA (40.7627,-124.2210)","2026-04-03 16:20",40.762687,-124.221047,TRUE,FALSE,TRUE,"S316904738",10
+"77","surfbi","Surfbird","Calidris virgata","L559390","Middleton Island (restricted access)","2026-04-03 13:52",59.43529,-146.33303,TRUE,TRUE,FALSE,"S316579455",100
+"78","surfbi","Surfbird","Calidris virgata","L825449","MacKerricher SP--end of Ward Ave Beach and Bluffs","2026-04-03 10:17",39.502236,-123.7872505,TRUE,FALSE,FALSE,"S316410371",1
+"79","surfbi","Surfbird","Calidris virgata","L1032455","Wilder Ranch SP--Old Cove Landing Trail","2026-04-03 08:13",36.9569044,-122.0840338,TRUE,FALSE,FALSE,"S316377457",2
+"80","surfbi","Surfbird","Calidris virgata","L2999551","Playa del Rey Beach","2026-04-02 11:13",33.959237,-118.453238,TRUE,FALSE,FALSE,"S316018850",NA
+"81","surfbi","Surfbird","Calidris virgata","L516367","Pt. Pinos--south gull roost only (stationary count)","2026-04-02 10:10",36.6343681,-121.939187,TRUE,FALSE,FALSE,"S315993232",2
+"82","surfbi","Surfbird","Calidris virgata","L4398071","San Gabriel River Mouth, middle jetty (Los Angeles County)","2026-04-02 07:54",33.7439778,-118.1153816,TRUE,FALSE,FALSE,"S315917321",28
+"83","surfbi","Surfbird","Calidris virgata","L691421","Terrace Pt. and Coastal Science Campus","2026-04-01 17:35",36.9508373,-122.0639798,TRUE,FALSE,FALSE,"S316495872",2
+"84","surfbi","Surfbird","Calidris virgata","L62179984","La Jolla Tide Pools US-CA","2026-04-01 10:23",32.841311,-117.281832,TRUE,FALSE,TRUE,"S318550807",1
+"85","surfbi","Surfbird","Calidris virgata","L352281","Pebble Beach--Bird & Seal Rocks","2026-04-01 10:02",36.5912431,-121.9640791,TRUE,FALSE,FALSE,"S315739840",4
+"86","surfbi","Surfbird","Calidris virgata","L61561933","Sunset Dr, Pacific Grove US-CA 36.62451, -121.93955","2026-04-01 09:40",36.624507,-121.939547,TRUE,FALSE,TRUE,"S315611845",3
+"87","surfbi","Surfbird","Calidris virgata","L109535","Ocean Shores--Oyhut Wildlife Area","2026-03-31 16:34",46.9444663,-124.1522412,TRUE,FALSE,FALSE,"S315660964",3
+"88","surfbi","Surfbird","Calidris virgata","L492468","North Point Natural Area--Morro Bay","2026-03-31 16:05",35.407079,-120.8717568,TRUE,FALSE,FALSE,"S315332359",NA
+"89","surfbi","Surfbird","Calidris virgata","L726597","Gazos Creek Beach -- west of Hwy 1 only","2026-03-31 12:29",37.1664418,-122.3617825,TRUE,FALSE,FALSE,"S315341642",5
+"90","surfbi","Surfbird","Calidris virgata","L547995","Pacific Grove--Greenwood Park","2026-03-31 11:05",36.6217622,-121.9139957,TRUE,FALSE,FALSE,"S315260350",4
+"91","surfbi","Surfbird","Calidris virgata","L742878","Siuslaw River--South Jetty (jetty only)","2026-03-31 10:28",44.0155337,-124.1370106,TRUE,FALSE,FALSE,"S315236460",4
+"92","surfbi","Surfbird","Calidris virgata","L1072372","UCSB--Campus Lagoon","2026-03-31 07:21",34.4076516,-119.845165,TRUE,FALSE,FALSE,"S315183732",14
+"93","surfbi","Surfbird","Calidris virgata","L61410946","Mission Bay","2026-03-30 17:47",32.781797,-117.251,TRUE,FALSE,TRUE,"S314975293",1
+"94","surfbi","Surfbird","Calidris virgata","L61411343","Haystack Rock","2026-03-30 16:37",45.8842279,-123.9677525,TRUE,FALSE,TRUE,"S314976434",20
+"95","surfbi","Surfbird","Calidris virgata","L61396524","97102, Arch Cape US-OR (45.8576,-123.9641)","2026-03-30 12:47",45.857602,-123.964129,TRUE,FALSE,TRUE,"S314896962",35
+"96","surfbi","Surfbird","Calidris virgata","L352261","Pebble Beach--Pt. Joe to Ocean Road shores","2026-03-30 11:12",36.605319,-121.9589952,TRUE,FALSE,FALSE,"S314843395",2
+"97","surfbi","Surfbird","Calidris virgata","L2608551","Charles Richey Sr. Viewpoint","2026-03-30 10:57",47.5726544,-122.4140185,TRUE,FALSE,FALSE,"S314837239",1
+"98","surfbi","Surfbird","Calidris virgata","L3040849","Brooks Island Spit","2026-03-30 10:42",37.8997386,-122.363019,TRUE,TRUE,TRUE,"S314866885",2
+"99","surfbi","Surfbird","Calidris virgata","L1022652","Ketchikan (general area)","2026-03-30 08:20",55.3427645,-131.6462517,TRUE,FALSE,FALSE,"S314904699",5

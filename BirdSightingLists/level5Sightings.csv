@@ -1,2 +1,2 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
-"1","crfpar","Crimson-fronted Parakeet","Psittacara finschi","L3954218","South Beach, Miami","2026-04-05 19:30",2,25.7843211,-80.1279857,TRUE,TRUE,FALSE,"S317589955","X"
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
+"1","roster","Roseate Tern","Sterna dougallii","L60887691","US (24.759, -80.7441)","2026-04-08 07:47",3,24.7592839,-80.7444294,TRUE,FALSE,TRUE,"S318790580"
