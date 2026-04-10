@@ -1,100 +1,100 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","lat","lng","obsValid","obsReviewed","locationPrivate","subId","howMany"
-"1","surfbi","Surfbird","Calidris virgata","L247561","Ballona Creek--mouth, jetties, and breakwater","2026-04-08 12:50",33.9638739,-118.4563213,TRUE,FALSE,FALSE,"S318909077",NA
-"2","surfbi","Surfbird","Calidris virgata","L725175","Cuvier Park","2026-04-08 12:48",32.8430267,-117.2809121,TRUE,FALSE,FALSE,"S318901654",1
-"3","surfbi","Surfbird","Calidris virgata","L62250088","Del Rey Lagoon, Los Angeles US-CA 33.95962, -118.45008","2026-04-08 12:44",33.959623,-118.450081,TRUE,FALSE,TRUE,"S318914918",1
-"4","surfbi","Surfbird","Calidris virgata","L392613","UCSB--Campus Point / Goleta Point","2026-04-08 12:40",34.404856,-119.8440063,TRUE,FALSE,FALSE,"S318915510",14
-"5","surfbi","Surfbird","Calidris virgata","L606176","Bodega Head - offshore species and the bluff ONLY","2026-04-08 11:21",38.3031875,-123.0648422,TRUE,FALSE,FALSE,"S318859219",4
-"6","surfbi","Surfbird","Calidris virgata","L634095","Mission Beach & north jetty","2026-04-08 11:02",32.7592345,-117.2536002,TRUE,FALSE,FALSE,"S318844377",2
-"7","surfbi","Surfbird","Calidris virgata","L27614323","Big Creek Agate Beach","2026-04-08 10:40",44.663608,-124.057653,TRUE,FALSE,TRUE,"S318850984",NA
-"8","surfbi","Surfbird","Calidris virgata","L1779056","Hotel del Coronado & beach","2026-04-08 10:36",32.6790278,-117.1796072,TRUE,FALSE,FALSE,"S318873350",4
-"9","surfbi","Surfbird","Calidris virgata","L459755","Pescadero Marsh and Natural Preserve--(North pond,lagoon and marsh trails east of Hwy 1)","2026-04-08 09:57",37.2681846,-122.4079944,TRUE,FALSE,FALSE,"S318953277",20
-"10","surfbi","Surfbird","Calidris virgata","L1571819","Pebble Beach--Stillwater Cove","2026-04-08 09:10",36.5662486,-121.9428965,TRUE,FALSE,FALSE,"S318906450",1
-"11","surfbi","Surfbird","Calidris virgata","L608334","Point Hudson","2026-04-08 07:47",48.117861,-122.7494931,TRUE,FALSE,FALSE,"S318738102",1
-"12","surfbi","Surfbird","Calidris virgata","L867556","Windansea Beach","2026-04-08 07:06",32.8301465,-117.2807062,TRUE,FALSE,FALSE,"S318758865",1
-"13","surfbi","Surfbird","Calidris virgata","L109309","Pt. Pinos--seawatch only","2026-04-08 06:38",36.6373821,-121.9357538,TRUE,FALSE,FALSE,"S318749318",8
-"14","surfbi","Surfbird","Calidris virgata","L443195","Sitka (general area)","2026-04-08",57.049881,-135.3335381,TRUE,FALSE,FALSE,"S318811739",30
-"15","surfbi","Surfbird","Calidris virgata","L548476","Haystack Rock","2026-04-07 15:04",45.8847357,-123.9683104,TRUE,FALSE,FALSE,"S318492101",20
-"16","surfbi","Surfbird","Calidris virgata","L715140","La Jolla--Children's Pool (harbor seal haul out)","2026-04-07 14:29",32.847647,-117.27882,TRUE,FALSE,FALSE,"S318461158",1
-"17","surfbi","Surfbird","Calidris virgata","L233548","Point La Jolla--seawatch","2026-04-07 13:35",32.8507576,-117.2735641,TRUE,FALSE,FALSE,"S318470061",3
-"18","surfbi","Surfbird","Calidris virgata","L1096408","Seaside Cove","2026-04-07 13:32",45.9755964,-123.9397073,TRUE,FALSE,FALSE,"S318444210",45
-"19","surfbi","Surfbird","Calidris virgata","L169501","Pescadero State Beach -- (north) beach area and seawatch - West of Hwy 1 only","2026-04-07 11:45",37.2737378,-122.4098987,TRUE,FALSE,FALSE,"S318434882",5
-"20","surfbi","Surfbird","Calidris virgata","L62167132","Miramontes Point (37.4330,-122.4419)","2026-04-07 11:25",37.433007,-122.44192,TRUE,FALSE,TRUE,"S318487641",7
-"21","surfbi","Surfbird","Calidris virgata","L5108803","Sugarloaf Point and Victoria Beach","2026-04-07 10:48",33.5198159,-117.7642,TRUE,FALSE,FALSE,"S318413785",4
-"22","surfbi","Surfbird","Calidris virgata","L433164","Silver Strand SB--ocean side","2026-04-07 10:45",32.6307805,-117.1458339,TRUE,FALSE,FALSE,"S318387717",11
-"23","surfbi","Surfbird","Calidris virgata","L15798491","Montaña de Oro State Park, Los Osos US-CA 35.27420, -120.88708","2026-04-07 09:31",35.274196,-120.887084,TRUE,FALSE,TRUE,"S318415854",3
-"24","surfbi","Surfbird","Calidris virgata","L1142122","Crescent City Harbor--Anchor Way & Whaler Island","2026-04-07 08:34",41.7426017,-124.1819268,TRUE,FALSE,FALSE,"S318375791",1
-"25","surfbi","Surfbird","Calidris virgata","L355646","Cliff House","2026-04-07 07:40",37.7786269,-122.5141132,TRUE,FALSE,FALSE,"S318335401",3
-"26","surfbi","Surfbird","Calidris virgata","L1333982","Port Townsend--waterfront","2026-04-07 07:25",48.1117433,-122.762578,TRUE,FALSE,FALSE,"S318339151",4
-"27","surfbi","Surfbird","Calidris virgata","L3059796","Sitka National Historical Park--Totem Trail","2026-04-07",57.0464146,-135.3124237,TRUE,FALSE,FALSE,"S318528853",50
-"28","surfbi","Surfbird","Calidris virgata","L467982","Foster City Shell Bar","2026-04-06 18:10",37.5635405,-122.248714,TRUE,FALSE,FALSE,"S318143021",38
-"29","surfbi","Surfbird","Calidris virgata","L833754","Asilomar SB--rocky shore only [Jewell to Asilomar, west of Sunset]","2026-04-06 17:32",36.6230674,-121.9410557,TRUE,FALSE,FALSE,"S318118019",7
-"30","surfbi","Surfbird","Calidris virgata","L422817","Coal Oil Point, Devereux Beach, Sands Beach, and bluff trails","2026-04-06 15:21",34.4071359,-119.8783064,TRUE,FALSE,FALSE,"S318084819",31
-"31","surfbi","Surfbird","Calidris virgata","L774789","Coquille River--South Jetty ","2026-04-06 14:19",43.1222404,-124.4282663,TRUE,FALSE,FALSE,"S318059010",2
-"32","surfbi","Surfbird","Calidris virgata","L62074005","1879 Sunset Drive, Pacific Grove, California, US (36.621, -121.942)","2026-04-06 12:32",36.6212271,-121.9415281,TRUE,FALSE,TRUE,"S318027641",6
-"33","surfbi","Surfbird","Calidris virgata","L62071224","Pacific Grove, California, US (36.633, -121.938)","2026-04-06 11:44",36.6333548,-121.9381927,TRUE,FALSE,TRUE,"S318015559",1
-"34","surfbi","Surfbird","Calidris virgata","L985991","Silver Point","2026-04-06 11:41",45.8547974,-123.9647484,TRUE,FALSE,FALSE,"S318019690",23
-"35","surfbi","Surfbird","Calidris virgata","L998381","Presidio--Lobos Creek and Dunes Restoration Area","2026-04-06 11:23",37.7877083,-122.4791479,TRUE,FALSE,FALSE,"S318102698",4
-"36","surfbi","Surfbird","Calidris virgata","L818961","Laguna Creek beach and marsh","2026-04-06 09:26",36.9833776,-122.1554614,TRUE,FALSE,FALSE,"S318089591",28
-"37","surfbi","Surfbird","Calidris virgata","L2999612","Playa del Rey/Ballona area","2026-04-06 09:15",33.9634551,-118.4519934,TRUE,FALSE,FALSE,"S318516687",1
-"38","surfbi","Surfbird","Calidris virgata","L955267","Cayucos Pier","2026-04-06 09:09",35.4478436,-120.9069453,TRUE,FALSE,FALSE,"S318141596",2
-"39","surfbi","Surfbird","Calidris virgata","L371209","Half Moon Bay Coastal Trail -- public access through Golf Course","2026-04-06 08:42",37.4374917,-122.4405743,TRUE,FALSE,FALSE,"S318058368",15
-"40","surfbi","Surfbird","Calidris virgata","L208705","Oceanside Harbor & San Luis Rey River mouth","2026-04-06 07:51",33.2051908,-117.3939712,TRUE,FALSE,FALSE,"S318131731",8
-"41","surfbi","Surfbird","Calidris virgata","L61750479","Bay SD","2026-04-06 07:38",32.774417,-117.250237,TRUE,FALSE,TRUE,"S318447769",3
-"42","surfbi","Surfbird","Calidris virgata","L631718","Ventura Harbor--Marina Park","2026-04-06 07:26",34.2542014,-119.2683935,TRUE,FALSE,FALSE,"S317890071",12
-"43","surfbi","Surfbird","Calidris virgata","L62166261","Cayucos beach, Cayucos US-CA","2026-04-05 17:22",35.440242,-120.895147,TRUE,FALSE,TRUE,"S318483160",6
-"44","surfbi","Surfbird","Calidris virgata","L1047906","Presidio--bluffs from Coastal Trail","2026-04-05 14:21",37.8014767,-122.4791479,TRUE,FALSE,FALSE,"S317584818",3
-"45","surfbi","Surfbird","Calidris virgata","L351480","Pacific Grove--Lovers Pt. & Perkins Park","2026-04-05 12:16",36.6265066,-121.9162166,TRUE,FALSE,FALSE,"S317501186",2
-"46","surfbi","Surfbird","Calidris virgata","L830384","Bean Hollow SB--Pebble Beach (SM Co.)","2026-04-05 12:13",37.2335844,-122.4153933,TRUE,FALSE,FALSE,"S317497453",2
-"47","surfbi","Surfbird","Calidris virgata","L61954835","Auto selected 45.88516, -123.96522","2026-04-05 10:26",45.885161,-123.965216,TRUE,FALSE,TRUE,"S317472685",8
-"48","surfbi","Surfbird","Calidris virgata","L43806903","Ocean Shores STP","2026-04-05 10:21",46.931967,-124.1580575,TRUE,FALSE,FALSE,"S317458730",22
-"49","surfbi","Surfbird","Calidris virgata","L638805","Cannon Beach","2026-04-05 09:39",45.888186,-123.9646626,TRUE,FALSE,FALSE,"S317417296",10
-"50","surfbi","Surfbird","Calidris virgata","L286501","Tillamook Bay--Barview Jetty","2026-04-05 08:50",45.56952,-123.949414,TRUE,FALSE,FALSE,"S317384224",15
-"51","surfbi","Surfbird","Calidris virgata","L8151616","Kodiak Is.--Near Island","2026-04-05 08:43",57.7810021,-152.4018664,TRUE,FALSE,FALSE,"S317452119",40
-"52","surfbi","Surfbird","Calidris virgata","L1022447","San Gabriel River mouth (ORA Co.)","2026-04-05 08:36",33.7421132,-118.1134129,TRUE,FALSE,FALSE,"S317410460",13
-"53","surfbi","Surfbird","Calidris virgata","L61982117","Haystack Rock","2026-04-05 08:30",45.884535,-123.965587,TRUE,FALSE,TRUE,"S318101454",4
-"54","surfbi","Surfbird","Calidris virgata","L198793","Del Rey Lagoon Park","2026-04-05 08:14",33.9610802,-118.4507315,TRUE,FALSE,FALSE,"S317393010",1
-"55","surfbi","Surfbird","Calidris virgata","L998431","Sutro Baths--seawatch","2026-04-05 07:56",37.7810776,-122.5143653,TRUE,FALSE,FALSE,"S317384584",3
-"56","surfbi","Surfbird","Calidris virgata","L1071411","Sutro Baths--ruins and freshwater pond","2026-04-05 07:41",37.7799752,-122.5133193,TRUE,FALSE,FALSE,"S317334345",6
-"57","surfbi","Surfbird","Calidris virgata","L271476","Pigeon Pt.","2026-04-05 06:43",37.182,-122.394,TRUE,FALSE,FALSE,"S317482042",2
-"58","surfbi","Surfbird","Calidris virgata","L981951","Ballona Creek--90 Fwy to Centinela Ave.","2026-04-04 17:02",33.9837766,-118.4196192,TRUE,FALSE,FALSE,"S317091497",3
-"59","surfbi","Surfbird","Calidris virgata","L2335233","Arch Cape Creek","2026-04-04 16:52",45.8028119,-123.9681387,TRUE,FALSE,FALSE,"S317071839",12
-"60","surfbi","Surfbird","Calidris virgata","L35186697","Pescadero State Beach -- (south)  beach area, seawatch and Seabird Rock - West of Hwy 1 only","2026-04-04 13:05",37.2612534,-122.4141312,TRUE,FALSE,FALSE,"S317050518",20
-"61","surfbi","Surfbird","Calidris virgata","L280562","Cabrillo National Monument","2026-04-04 12:58",32.6742155,-117.2414321,TRUE,FALSE,FALSE,"S317015482",2
-"62","surfbi","Surfbird","Calidris virgata","L156941","Yaquina Head Outstanding Natural Area--Lighthouse","2026-04-04 12:22",44.6768624,-124.0788388,TRUE,FALSE,FALSE,"S316978541",1
-"63","surfbi","Surfbird","Calidris virgata","L612152","Bean Hollow SB","2026-04-04 10:40",37.2255,-122.409,TRUE,FALSE,FALSE,"S317041438",5
-"64","surfbi","Surfbird","Calidris virgata","L1807655","Hwy 1--overlook at Coleman Valley Rd.","2026-04-04 10:39",38.364724,-123.0709781,TRUE,FALSE,FALSE,"S316959256",6
-"65","surfbi","Surfbird","Calidris virgata","L374642","Pt. Pinos--general (sea & shore Coral to Jewell, Crespi Pond & cypresses)","2026-04-04 10:30",36.6363201,-121.9339388,TRUE,FALSE,FALSE,"S316955024",3
-"66","surfbi","Surfbird","Calidris virgata","L61845744","Bodega Head Trail, Bodega Bay US-CA 38.30321, -123.06499","2026-04-04 10:23",38.303206,-123.064988,TRUE,FALSE,TRUE,"S316977661",6
-"67","surfbi","Surfbird","Calidris virgata","L338560","Mori Pt.","2026-04-04 10:07",37.6204026,-122.4934964,TRUE,FALSE,FALSE,"S317850077",4
-"68","surfbi","Surfbird","Calidris virgata","L2843527","Rocky Creek State Park","2026-04-04 09:45",44.7854979,-124.0733443,TRUE,FALSE,FALSE,"S316918953",6
-"69","surfbi","Surfbird","Calidris virgata","L9747693","causeway plane viewing location","2026-04-04 09:16",57.0391918,-135.3554157,TRUE,FALSE,TRUE,"S317080919",1
-"70","surfbi","Surfbird","Calidris virgata","L139567","Rodeo Lagoon (including beach and offshore)","2026-04-04 08:36",37.8304863,-122.5329514,TRUE,FALSE,FALSE,"S316910285",3
-"71","surfbi","Surfbird","Calidris virgata","L3954620","Oregon Islands NWR--Table Rock Overlook","2026-04-04 08:30",43.1161121,-124.4333861,TRUE,FALSE,FALSE,"S316957337",10
-"72","surfbi","Surfbird","Calidris virgata","L506275","San Diego River mudflats (including Robb Field & Quivira Way)","2026-04-04 08:29",32.7572496,-117.2385339,TRUE,FALSE,FALSE,"S316892436",1
-"73","surfbi","Surfbird","Calidris virgata","L785035","Pillar Point Harbor--West Point Ave. Riparian areas,  Freshwater Pond trails,  includes Maverick's Beach","2026-04-04 07:44",37.5018956,-122.4967432,TRUE,FALSE,FALSE,"S317117270",1
-"74","surfbi","Surfbird","Calidris virgata","L492504","Restoration Point (restricted access)","2026-04-04 06:27",47.583705,-122.480135,TRUE,FALSE,FALSE,"S317007331",12
-"75","surfbi","Surfbird","Calidris virgata","L168688","Ocean Shores--Pt. Brown Jetty","2026-04-03 16:33",46.92816,-124.17397,TRUE,FALSE,FALSE,"S316888204",12
-"76","surfbi","Surfbird","Calidris virgata","L61829063","Samoa Dunes Recreation Area, Samoa US-CA (40.7627,-124.2210)","2026-04-03 16:20",40.762687,-124.221047,TRUE,FALSE,TRUE,"S316904738",10
-"77","surfbi","Surfbird","Calidris virgata","L559390","Middleton Island (restricted access)","2026-04-03 13:52",59.43529,-146.33303,TRUE,TRUE,FALSE,"S316579455",100
-"78","surfbi","Surfbird","Calidris virgata","L825449","MacKerricher SP--end of Ward Ave Beach and Bluffs","2026-04-03 10:17",39.502236,-123.7872505,TRUE,FALSE,FALSE,"S316410371",1
-"79","surfbi","Surfbird","Calidris virgata","L1032455","Wilder Ranch SP--Old Cove Landing Trail","2026-04-03 08:13",36.9569044,-122.0840338,TRUE,FALSE,FALSE,"S316377457",2
-"80","surfbi","Surfbird","Calidris virgata","L2999551","Playa del Rey Beach","2026-04-02 11:13",33.959237,-118.453238,TRUE,FALSE,FALSE,"S316018850",NA
-"81","surfbi","Surfbird","Calidris virgata","L516367","Pt. Pinos--south gull roost only (stationary count)","2026-04-02 10:10",36.6343681,-121.939187,TRUE,FALSE,FALSE,"S315993232",2
-"82","surfbi","Surfbird","Calidris virgata","L4398071","San Gabriel River Mouth, middle jetty (Los Angeles County)","2026-04-02 07:54",33.7439778,-118.1153816,TRUE,FALSE,FALSE,"S315917321",28
-"83","surfbi","Surfbird","Calidris virgata","L691421","Terrace Pt. and Coastal Science Campus","2026-04-01 17:35",36.9508373,-122.0639798,TRUE,FALSE,FALSE,"S316495872",2
-"84","surfbi","Surfbird","Calidris virgata","L62179984","La Jolla Tide Pools US-CA","2026-04-01 10:23",32.841311,-117.281832,TRUE,FALSE,TRUE,"S318550807",1
-"85","surfbi","Surfbird","Calidris virgata","L352281","Pebble Beach--Bird & Seal Rocks","2026-04-01 10:02",36.5912431,-121.9640791,TRUE,FALSE,FALSE,"S315739840",4
-"86","surfbi","Surfbird","Calidris virgata","L61561933","Sunset Dr, Pacific Grove US-CA 36.62451, -121.93955","2026-04-01 09:40",36.624507,-121.939547,TRUE,FALSE,TRUE,"S315611845",3
-"87","surfbi","Surfbird","Calidris virgata","L109535","Ocean Shores--Oyhut Wildlife Area","2026-03-31 16:34",46.9444663,-124.1522412,TRUE,FALSE,FALSE,"S315660964",3
-"88","surfbi","Surfbird","Calidris virgata","L492468","North Point Natural Area--Morro Bay","2026-03-31 16:05",35.407079,-120.8717568,TRUE,FALSE,FALSE,"S315332359",NA
-"89","surfbi","Surfbird","Calidris virgata","L726597","Gazos Creek Beach -- west of Hwy 1 only","2026-03-31 12:29",37.1664418,-122.3617825,TRUE,FALSE,FALSE,"S315341642",5
-"90","surfbi","Surfbird","Calidris virgata","L547995","Pacific Grove--Greenwood Park","2026-03-31 11:05",36.6217622,-121.9139957,TRUE,FALSE,FALSE,"S315260350",4
-"91","surfbi","Surfbird","Calidris virgata","L742878","Siuslaw River--South Jetty (jetty only)","2026-03-31 10:28",44.0155337,-124.1370106,TRUE,FALSE,FALSE,"S315236460",4
-"92","surfbi","Surfbird","Calidris virgata","L1072372","UCSB--Campus Lagoon","2026-03-31 07:21",34.4076516,-119.845165,TRUE,FALSE,FALSE,"S315183732",14
-"93","surfbi","Surfbird","Calidris virgata","L61410946","Mission Bay","2026-03-30 17:47",32.781797,-117.251,TRUE,FALSE,TRUE,"S314975293",1
-"94","surfbi","Surfbird","Calidris virgata","L61411343","Haystack Rock","2026-03-30 16:37",45.8842279,-123.9677525,TRUE,FALSE,TRUE,"S314976434",20
-"95","surfbi","Surfbird","Calidris virgata","L61396524","97102, Arch Cape US-OR (45.8576,-123.9641)","2026-03-30 12:47",45.857602,-123.964129,TRUE,FALSE,TRUE,"S314896962",35
-"96","surfbi","Surfbird","Calidris virgata","L352261","Pebble Beach--Pt. Joe to Ocean Road shores","2026-03-30 11:12",36.605319,-121.9589952,TRUE,FALSE,FALSE,"S314843395",2
-"97","surfbi","Surfbird","Calidris virgata","L2608551","Charles Richey Sr. Viewpoint","2026-03-30 10:57",47.5726544,-122.4140185,TRUE,FALSE,FALSE,"S314837239",1
-"98","surfbi","Surfbird","Calidris virgata","L3040849","Brooks Island Spit","2026-03-30 10:42",37.8997386,-122.363019,TRUE,TRUE,TRUE,"S314866885",2
-"99","surfbi","Surfbird","Calidris virgata","L1022652","Ketchikan (general area)","2026-03-30 08:20",55.3427645,-131.6462517,TRUE,FALSE,FALSE,"S314904699",5
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
+"1","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L129118","W.G. Jones State Forest (UTC 036)","2026-04-09 10:59",2,30.235563,-95.4852676,TRUE,FALSE,FALSE,"S319261042"
+"2","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L11434627","Withlacoochee State Forest Trail 10 WB-Trail 13 SB","2026-04-09 10:00",6,28.7996865,-82.4190722,TRUE,FALSE,TRUE,"S319301456"
+"3","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L5657365","FMNF-C169","2026-04-09 09:57",2,33.0989976,-79.5083678,TRUE,FALSE,TRUE,"S319222851"
+"4","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L130756","Weymouth Woods Sandhills Nature Preserve","2026-04-09 09:05",2,35.1471875,-79.3689895,TRUE,FALSE,FALSE,"S319192220"
+"5","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L758462","Webb Wildlife Center","2026-04-09 08:03",3,32.5907859,-81.3119273,TRUE,FALSE,FALSE,"S319211787"
+"6","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L127396","Babcock-Webb WMA","2026-04-09 07:35",1,26.8582653,-81.9401121,TRUE,FALSE,FALSE,"S319232489"
+"7","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L62203255","Big Branch","2026-04-09 07:30",2,30.283396,-89.920216,TRUE,FALSE,TRUE,"S319127124"
+"8","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L1194645","Palmetto Peartree Preserve","2026-04-09 07:30",4,35.9827292,-76.1201477,TRUE,FALSE,FALSE,"S319251982"
+"9","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L741082","Croatan NF--Patsy Pond Nature Trail","2026-04-09 07:24",2,34.7191287,-76.9634398,TRUE,FALSE,FALSE,"S319143636"
+"10","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L28700385","Field House","2026-04-08 18:01",1,31.016001,-93.112402,TRUE,FALSE,TRUE,"S318943842"
+"11","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L62235148","Lodge Road, Hampstead, North Carolina, US (34.41, -77.664)","2026-04-08 13:51",1,34.4101078,-77.6637307,TRUE,FALSE,TRUE,"S318832840"
+"12","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L5086526","Hoover Road, Francis Marion National Forest","2026-04-08 10:13",2,32.9700396,-79.8112428,TRUE,FALSE,FALSE,"S318841334"
+"13","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L127262","Goethe SF","2026-04-08 09:50",2,29.2564,-82.6298,TRUE,FALSE,FALSE,"S318900187"
+"14","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L7745003","Blackwater River SF--3 Notch Rd.","2026-04-08 07:07",8,30.8392703,-86.9411285,TRUE,FALSE,FALSE,"S318762165"
+"15","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L62202200","Withlacoochee State Forest (Croom Parking Area) - County Road 480 West, Brooksville, Florida, US (28.594, -82.269)","2026-04-08 06:50",4,28.5938343,-82.2690828,TRUE,FALSE,TRUE,"S318660347"
+"16","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L36649001","Forest Service Road 6034, Saint Stephen, South Carolina, US (33.33, -79.874)","2026-04-07 15:15",1,33.3295726,-79.8740802,TRUE,FALSE,TRUE,"S318703433"
+"17","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L1292544","Singletary Lake SP","2026-04-07 14:07",1,34.5824151,-78.4532404,TRUE,FALSE,FALSE,"S318509716"
+"18","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L799384","Big Branch Marsh NWR--Boy Scout Rd.","2026-04-07 07:49",2,30.2819728,-89.9234819,TRUE,FALSE,FALSE,"S318310404"
+"19","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L52465395","Jonathan Dickinson State Park River Campground","2026-04-06 17:21",1,26.9912808,-80.1419511,TRUE,TRUE,FALSE,"S318093544"
+"20","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L62075845","3600 North Carolina 24, Newport, North Carolina, US (34.721, -76.963)","2026-04-06 15:46",1,34.7214317,-76.9631431,TRUE,FALSE,TRUE,"S318035846"
+"21","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L718180","Holly Shelter Game Land--Lodge Rd. Central","2026-04-06 13:53",6,34.4113,-77.6717091,TRUE,FALSE,FALSE,"S318122131"
+"22","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L62044678","Hal Scott Regional Preserve and Park, Orlando US-FL 28.50140, -81.11397","2026-04-06 10:18",1,28.501399,-81.113975,TRUE,TRUE,TRUE,"S317890151"
+"23","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L2185246","Noxubee NWR--Woodpecker Trail","2026-04-06 09:35",1,33.2771716,-88.7933053,TRUE,FALSE,FALSE,"S318969318"
+"24","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L127410","Jonathan Dickinson SP","2026-04-06 08:34",2,27.0034332,-80.1015657,TRUE,TRUE,FALSE,"S318011092"
+"25","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L690412","Carvers Creek SP--Sandhills Access","2026-04-06 08:30",1,35.1701779,-78.8925946,TRUE,FALSE,FALSE,"S318100823"
+"26","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L1439093","Hal Scott Regional Preserve and Park","2026-04-06 08:20",1,28.486186,-81.1079327,TRUE,TRUE,FALSE,"S317861657"
+"27","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L62079446","Prairie Lakes North Loop Trail, Kenansville US-FL 27.92768, -81.12499","2026-04-06 08:10",1,27.927683,-81.124988,TRUE,FALSE,TRUE,"S318052499"
+"28","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L8757805","Picayune Strand SF--Belle Mead Horse Trail","2026-04-05 18:03",2,26.1406552,-81.653894,TRUE,TRUE,FALSE,"S317570186"
+"29","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L11417295","St. Marks NWR--Panacea Unit--Otter Lake Trail","2026-04-05 17:13",4,30.0293,-84.408767,TRUE,FALSE,FALSE,"S317994889"
+"30","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L62034278","Spiked Tree Trail, Pineland, Texas, US (31.24, -93.918)","2026-04-05 16:43",1,31.2395204,-93.9178186,TRUE,FALSE,TRUE,"S317839279"
+"31","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L62169096","28189 Sanders St, Lacombe US-LA (30.3088,-89.9325)","2026-04-05 16:28",5,30.308839,-89.932531,TRUE,FALSE,TRUE,"S318497762"
+"32","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L61968265","Santee Gun Club Road, McClellanville, South Carolina, US (33.148, -79.398)","2026-04-05 15:47",NA,33.1477186,-79.3980282,TRUE,FALSE,TRUE,"S317535833"
+"33","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L774797","Toledo Bend Reservoir- Ragtown Rec.  Area","2026-04-05 15:46",2,31.6827478,-93.8254738,TRUE,FALSE,FALSE,"S317568921"
+"34","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L31190856","440 Meyer Farm Dr, Southern Pines US-NC 35.23546, -79.42642","2026-04-05 15:19",3,35.235464,-79.426416,TRUE,FALSE,TRUE,"S317482230"
+"35","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L61939735","Goethe State Forest, Morriston US-FL 29.24081, -82.62478","2026-04-05 12:41",3,29.240812,-82.624782,TRUE,FALSE,TRUE,"S317406968"
+"36","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L22775751","Apalachicola NF -- Road 350","2026-04-05 11:55",3,30.2481155,-84.4852509,TRUE,FALSE,FALSE,"S317436078"
+"37","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L61946177","Forest Service Road 309, Crawfordville US-FL (30.3017,-84.4308)","2026-04-05 10:44",3,30.301654,-84.430778,TRUE,FALSE,TRUE,"S317435100"
+"38","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L14082443","Bienville NF--Marathon Lake Rec Area","2026-04-05 08:36",1,32.2045172,-89.3617049,TRUE,FALSE,FALSE,"S317468047"
+"39","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L61951488","Coldwater Recreation Area","2026-04-04 12:13",2,30.839751,-86.980096,TRUE,FALSE,TRUE,"S317458797"
+"40","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L61940125","Chinquapin Trail, Huntsville US-TX (30.6268,-95.5263)","2026-04-04 11:55",1,30.626832,-95.526328,TRUE,FALSE,TRUE,"S317408815"
+"41","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L1188618","Croatan NF--Long Point Rd.","2026-04-04 10:46",1,34.8065448,-77.164793,TRUE,TRUE,FALSE,"S316859722"
+"42","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L9364060","Sandhills Game Land Birdfoot Violet","2026-04-04 09:40",1,35.1090951,-79.5583379,TRUE,FALSE,TRUE,"S316783982"
+"43","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L61796871","Weymouth woods","2026-04-04 09:26",2,35.14906,-79.368853,TRUE,FALSE,TRUE,"S318055471"
+"44","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L253509","Withlacoochee SF--Citrus Tract","2026-04-04 09:24",1,28.8016141,-82.4179299,TRUE,FALSE,FALSE,"S316888475"
+"45","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L2470260","Noxubee NWR (Noxubee Co.) (please consider using more specific location/hotspot)","2026-04-04 09:01",1,33.2694651,-88.7866883,TRUE,FALSE,FALSE,"S316906609"
+"46","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L61807789","Lodge Rd, Hampstead US-NC 34.41076, -77.65762","2026-04-04 08:39",2,34.410757,-77.657621,TRUE,FALSE,TRUE,"S316806577"
+"47","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L29571785","Waccamaw NWR--Hasty Point","2026-04-04 08:37",4,33.5417625,-79.1754195,TRUE,TRUE,FALSE,"S316838938"
+"48","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L6012900","De Soto NF--Bethel Bike Trails","2026-04-04 08:31",3,30.594283,-88.934107,TRUE,FALSE,FALSE,"S316801111"
+"49","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L3487073","Tall Timbers Research Station--Beadle Rd. (restricted access)","2026-04-04 08:27",2,30.6634287,-84.2443142,TRUE,TRUE,FALSE,"S316800099"
+"50","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L7393256","Jonathan Dickinson SP--Center Paved Trail","2026-04-04 08:22",2,26.9995413,-80.1067203,TRUE,TRUE,FALSE,"S316862402"
+"51","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L26696677","1160 Monticello Dr, Pinehurst US-NC 35.17697, -79.45023","2026-04-04 08:20",2,35.176967,-79.450234,TRUE,FALSE,TRUE,"S317044193"
+"52","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L61843437","Patsy Pond Green Loop, Newport US-NC 34.71903, -76.96350","2026-04-04 07:58",2,34.71903,-76.963502,TRUE,FALSE,TRUE,"S316967125"
+"53","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L16585286","Big Branch Marsh NWR--Lucille and Bertha trailhead","2026-04-04 07:43",1,30.294326,-89.962304,TRUE,FALSE,FALSE,"S316798897"
+"54","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L61860382","Groton Rd. West- Allendale","2026-04-04 07:15",2,32.825137,-81.365155,TRUE,TRUE,TRUE,"S317046618"
+"55","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L3110621","Tall Timbers Research Station","2026-04-04 07:03",3,30.6567786,-84.2087889,TRUE,TRUE,FALSE,"S316818479"
+"56","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L496077","Withlacoochee State Forest--Croom Tract","2026-04-04 06:45",5,28.5887423,-82.2340393,TRUE,FALSE,FALSE,"S316889663"
+"57","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L29486569","John C. and Mariana Jones/Hungryland Wildlife and Environmental Area (Palm Beach County)","2026-04-04 06:26",5,26.943293,-80.32062,TRUE,TRUE,FALSE,"S316729616"
+"58","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L28748216","Jonathan Dickinson SP--Kitching Creek","2026-04-03 17:52",3,27.0013898,-80.1613483,TRUE,TRUE,FALSE,"S316741010"
+"59","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L2908444","Big Woods WMA","2026-04-03 09:35",3,36.9283428,-77.0800996,TRUE,FALSE,FALSE,"S316298491"
+"60","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L5422872","RCW Cluster Area","2026-04-03 09:05",1,31.2345781,-92.607311,TRUE,FALSE,TRUE,"S316440227"
+"61","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L29968283","Goose Pen Road, Louisville US-MS 33.23652, -88.81736","2026-04-03 08:42",2,33.236521,-88.817359,TRUE,FALSE,TRUE,"S316311934"
+"62","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L3983351","Okefenokee NWR--Wildlife Drive","2026-04-03 08:14",1,30.7331858,-82.1364498,TRUE,TRUE,FALSE,"S316479880"
+"63","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L918105","Lewis Ocean Bay Heritage Preserve","2026-04-03 05:48",1,33.7959822,-78.8554001,TRUE,TRUE,FALSE,"S316257471"
+"64","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L1493595","Avon Park Air Force Range (Highlands Co.)","2026-04-02 12:40",1,27.608256,-81.2639125,TRUE,FALSE,FALSE,"S315988172"
+"65","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L468464","Yawkey Wildlife Center (restricted access)","2026-04-02 11:22",1,33.2168612,-79.2176056,TRUE,TRUE,FALSE,"S316013020"
+"66","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L555556","Piney Grove Preserve","2026-04-02 11:20",5,36.9750097,-77.064178,TRUE,FALSE,FALSE,"S315987996"
+"67","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L1007991","Noxubee NWR--Bluff Lake","2026-04-02 10:40",2,33.2780187,-88.7773418,TRUE,FALSE,FALSE,"S316040794"
+"68","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L61628267","Jonathan Dickinson State Park, Hobe Sound US-FL 27.00908, -80.14775","2026-04-02 09:54",2,27.009081,-80.147746,TRUE,TRUE,TRUE,"S315950442"
+"69","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L18323536","Red Diamond Road, Lugoff, South Carolina, US (34.042, -80.77)","2026-04-02 09:12",2,34.0415295,-80.7704125,TRUE,TRUE,TRUE,"S315876185"
+"70","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L61623830","Trail 13, Lecanto, Florida, US (28.735, -82.419)","2026-04-02 08:19",2,28.7345204,-82.4185633,TRUE,FALSE,TRUE,"S315928835"
+"71","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L927738","Olde Brunswick Store Trail","2026-04-02 07:51",4,34.0213374,-78.0282283,TRUE,FALSE,FALSE,"S315842339"
+"72","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L13321241","NFS RDS 731C, 739, 749 US (32.993, -87.354","2026-04-02 07:43",3,32.9933267,-87.3543592,TRUE,TRUE,TRUE,"S316014097"
+"73","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L127368","Avon Park Air Force Range (Polk Co.)","2026-04-02 07:32",1,27.6786636,-81.2943649,TRUE,FALSE,FALSE,"S315909368"
+"74","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L18291073","Lodge Rd, Hampstead US-NC 34.41017, -77.66824","2026-04-02 06:53",2,34.410166,-77.668239,TRUE,FALSE,TRUE,"S315916906"
+"75","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L37006066","RESTRICTED ACCESS, Red Diamond Road, Lugoff, South Carolina, US (34.046, -80.752)","2026-04-02 06:41",6,34.0463224,-80.7516415,TRUE,TRUE,TRUE,"S315856414"
+"76","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L13321215","NFS RD 737, Brent, Alabama, US (33, -87.32)","2026-04-02 06:20",3,33.0001925,-87.3201725,TRUE,TRUE,TRUE,"S316014367"
+"77","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L305949","Tallahassee-St. Marks Historic Railroad State Trail","2026-04-01 13:36",3,30.3685154,-84.2672932,TRUE,TRUE,FALSE,"S315676156"
+"78","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L29255298","Croatan NF - Mill Branch Road, New Bern, North Carolina, US (35.019, -77.05)","2026-04-01 10:19",2,35.0185639,-77.0496072,TRUE,FALSE,TRUE,"S315564734"
+"79","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L469305","Holly Shelter Game Land--Marina","2026-04-01 10:00",2,34.5484976,-77.8158349,TRUE,FALSE,FALSE,"S315546226"
+"80","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L61551060","2740 Newman Drive, Naples, Florida, US (26.14, -81.66)","2026-04-01 09:55",1,26.1400709,-81.659563,TRUE,TRUE,TRUE,"S315555275"
+"81","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L61547986","Fort Fanning Road, Fanning Springs US-FL 29.56167, -82.92512","2026-04-01 09:34",1,29.561674,-82.925118,TRUE,FALSE,TRUE,"S315537738"
+"82","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L61711986","34759, Kissimmee US-FL (28.1091,-81.4121)","2026-04-01 09:30",1,28.110052,-81.412215,TRUE,FALSE,TRUE,"S316347965"
+"83","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L57195446","Livingston Place (Restricted Access","2026-04-01 09:08",5,30.6205179,-83.6843782,TRUE,TRUE,TRUE,"S316088333"
+"84","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L920818","Disney Wilderness Preserve","2026-04-01 08:40",1,28.1281597,-81.4298916,TRUE,FALSE,FALSE,"S315627237"
+"85","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L61561901","Millis Rd, Newport US-NC (34.7478,-77.0203)","2026-04-01 08:29",1,34.747776,-77.02029,TRUE,FALSE,TRUE,"S315611697"
+"86","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L454503","Boykin Springs (UTC 007) (Jasper Co.)","2026-04-01 08:02",2,31.0595928,-94.2749289,TRUE,FALSE,FALSE,"S315547247"
+"87","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L1441984","DuPuis WEA/Management Area (Palm Beach Co.)","2026-04-01 08:01",3,26.9432644,-80.5527068,TRUE,TRUE,FALSE,"S315564962"
+"88","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L19542857","Restricted access, Hopkins, South Carolina, US (34.006, -80.8)","2026-04-01 06:39",2,34.006209,-80.7997417,TRUE,TRUE,TRUE,"S315486400"
+"89","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L2293760","Francis Marion National Forest - Whilden Road","2026-03-31 19:05",1,33.0814378,-79.6190786,TRUE,FALSE,TRUE,"S315388666"
+"90","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L19227174","Okefenokee NWR--Upland Discovery Trail","2026-03-31 12:22",4,30.7277393,-82.1380201,TRUE,TRUE,FALSE,"S315284923"
+"91","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L61443462","Yap 3 Road, Meadville, Mississippi, US (31.418, -90.878)","2026-03-31 09:50",1,31.4181239,-90.878164,TRUE,FALSE,TRUE,"S315151778"
+"92","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L10897123","Francis Marion National Forest - 204","2026-03-31 09:40",1,33.2147205,-79.4738479,TRUE,FALSE,TRUE,"S316000646"
+"93","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L11856948","Warren Prairie Natural Area (Bradley Co.)","2026-03-31 09:36",4,33.5821515,-91.9834739,TRUE,FALSE,FALSE,"S315259514"
+"94","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L31145679","Unnamed Road, Meadville, Mississippi, US (31.418, -90.858)","2026-03-31 08:07",3,31.4184889,-90.8576618,TRUE,FALSE,TRUE,"S315126718"
+"95","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L21413078","restricted access, Columbia, South Carolina, US (34.052, -80.709)","2026-03-31 08:02",2,34.0522661,-80.7091569,TRUE,TRUE,TRUE,"S315084648"
+"96","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L365342","Ouachita NF--Pine-Bluestem Buffalo Rd.","2026-03-31 07:55",3,34.8078838,-94.1009903,TRUE,FALSE,FALSE,"S315255590"
+"97","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L61845373","Eglin Air Force Base, Niceville US-FL 30.60914, -86.68732","2026-03-31 07:33",3,30.609137,-86.687324,TRUE,FALSE,TRUE,"S316975551"
+"98","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L338409","Holly Ridge WMA","2026-03-31 06:58",4,34.4106822,-77.6589619,TRUE,FALSE,FALSE,"S315071622"
+"99","recwoo","Red-cockaded Woodpecker","Leuconotopicus borealis","L21413053","Restricted access, Columbia, South Carolina, US (34.05, -80.728)","2026-03-31 06:36",4,34.0502754,-80.7279768,TRUE,TRUE,TRUE,"S315062689"
