@@ -1,249 +1,394 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","sheowl","Short-eared Owl","Asio flammeus","L473652","Eagle Island SP","2026-04-13 15:43",1,43.6858428,-116.3983011,TRUE,FALSE,FALSE,"S321348249"
-"2","sheowl","Short-eared Owl","Asio flammeus","L62736983","89510, Reno US-NV 39.99774, -119.75928","2026-04-13 13:59",1,39.997736,-119.759283,TRUE,FALSE,TRUE,"S321314992"
-"3","sheowl","Short-eared Owl","Asio flammeus","L577756","Nayanquing Point SWA","2026-04-13 09:13",2,43.7742237,-83.9376283,TRUE,TRUE,FALSE,"S321212795"
-"4","sheowl","Short-eared Owl","Asio flammeus","L3934103","Park No. 566","2026-04-13 08:20",4,41.7487879,-87.5365198,TRUE,FALSE,FALSE,"S321231294"
-"5","sheowl","Short-eared Owl","Asio flammeus","L159619","Malheur NWR--Headquarters","2026-04-13 08:19",1,43.2658741,-118.8448941,TRUE,FALSE,FALSE,"S321213491"
-"6","sheowl","Short-eared Owl","Asio flammeus","L16491850","Austin’s House","2026-04-13 08:01",1,41.482135,-81.88485,TRUE,FALSE,TRUE,"S321117573"
-"7","sheowl","Short-eared Owl","Asio flammeus","L62693525","601–677 County Road 2425 E, El Paso US-IL 40.68454, -89.07599","2026-04-13 06:48",1,40.68454,-89.075986,TRUE,FALSE,TRUE,"S321079352"
-"8","sheowl","Short-eared Owl","Asio flammeus","L36528928","24 Kirkstone Pass, Rochester US-NY 43.23046, -77.68485","2026-04-13 06:27",1,43.230463,-77.684854,TRUE,FALSE,TRUE,"S321314357"
-"9","sheowl","Short-eared Owl","Asio flammeus","L58804657","2596 CAYS RD SEQUIM, WA 98382","2026-04-13 06:00",1,48.146988,-123.164938,TRUE,FALSE,TRUE,"S321276417"
-"10","sheowl","Short-eared Owl","Asio flammeus","L61473768","Burnham Park--Morning Flight (please use only if stationary counting at site)","2026-04-13 05:58",2,41.8461489,-87.6089748,TRUE,FALSE,FALSE,"S321323140"
-"11","sheowl","Short-eared Owl","Asio flammeus","L2091564","Indiana Dunes SP--Observation Tower","2026-04-13 05:30",1,41.6599159,-87.0662802,TRUE,FALSE,FALSE,"S321321567"
-"12","sheowl","Short-eared Owl","Asio flammeus","L2497660","Fairport Nursery Rd.","2026-04-12 20:52",1,41.7558826,-81.2514925,TRUE,FALSE,FALSE,"S320959215"
-"13","sheowl","Short-eared Owl","Asio flammeus","L23501881","Shiawassee NWR Curtis Rd Deck","2026-04-12 20:23",1,43.3245489,-84.0371632,TRUE,FALSE,TRUE,"S320953337"
-"14","sheowl","Short-eared Owl","Asio flammeus","L4293711","Johnson Rd., Phelps-Geneva","2026-04-12 20:06",1,42.9069342,-77.0302427,TRUE,FALSE,FALSE,"S320956246"
-"15","sheowl","Short-eared Owl","Asio flammeus","L62669494","13729–13799 75th St SE, Lisbon US-ND 46.32628, -97.54278","2026-04-12 19:55",1,46.326278,-97.542779,TRUE,FALSE,TRUE,"S320959779"
-"16","sheowl","Short-eared Owl","Asio flammeus","L62672198","40557 County Highway 49, Middle River, Minnesota, US (48.466, -95.948)","2026-04-12 18:41",4,48.4655231,-95.9477254,TRUE,FALSE,TRUE,"S320972395"
-"17","sheowl","Short-eared Owl","Asio flammeus","L2928034","Malheur NWR--Steens Mountain Loop--Frenchglen to Page Springs","2026-04-12 18:36",2,42.8232825,-118.8961029,TRUE,FALSE,FALSE,"S321167164"
-"18","sheowl","Short-eared Owl","Asio flammeus","L41707528","Crow Waterfowl Production Area","2026-04-12 18:14",2,47.4716792,-114.2028513,TRUE,FALSE,FALSE,"S320976724"
-"19","sheowl","Short-eared Owl","Asio flammeus","L62667415","Waimea/Kamuela--Old Saddle Rd / Aalii Rd","2026-04-12 14:13",1,19.873184,-155.659992,TRUE,FALSE,TRUE,"S320949742"
-"20","sheowl","Short-eared Owl","Asio flammeus","L285813","Pu'u La'au, Palila Discovery Trail and Ka'ohe GMA","2026-04-12 11:51",1,19.8319137,-155.5947653,TRUE,FALSE,FALSE,"S320997102"
-"21","sheowl","Short-eared Owl","Asio flammeus","L159617","William L. Finley NWR","2026-04-12 10:47",1,44.4215209,-123.3151817,TRUE,FALSE,FALSE,"S320902624"
-"22","sheowl","Short-eared Owl","Asio flammeus","L30724656","Mānā Plains Forest Reserve Wetland","2026-04-12 09:10",1,22.0140235,-159.7736478,TRUE,FALSE,FALSE,"S320884149"
-"23","sheowl","Short-eared Owl","Asio flammeus","L4971040","Howard Marsh Metropark","2026-04-12 09:05",1,41.6450689,-83.2637178,TRUE,FALSE,FALSE,"S320603929"
-"24","sheowl","Short-eared Owl","Asio flammeus","L587675","Samish Flats--West 90","2026-04-12 07:54",1,48.5476481,-122.4876237,TRUE,FALSE,FALSE,"S320734844"
-"25","sheowl","Short-eared Owl","Asio flammeus","L1129017","Battelle Darby Creek Metro Park--Darby Plains Wet Prairie Restoration","2026-04-12 07:17",1,39.9156745,-83.2021666,TRUE,FALSE,FALSE,"S320936406"
-"26","sheowl","Short-eared Owl","Asio flammeus","L62583398","19362 CR-29, New Ulm US-MN 44.35261, -94.55937","2026-04-12 06:36",1,44.352614,-94.559369,TRUE,FALSE,TRUE,"S320531446"
-"27","sheowl","Short-eared Owl","Asio flammeus","L62573207","10000–10644 200th St S, Hawley US-MN 46.74061, -96.38586","2026-04-12 05:06",1,46.740613,-96.385864,TRUE,FALSE,TRUE,"S320481883"
-"28","sheowl","Short-eared Owl","Asio flammeus","L270613","Auke Bay - Yard & Point","2026-04-12",1,58.3610546,-134.6455336,TRUE,FALSE,TRUE,"S320814520"
-"29","sheowl","Short-eared Owl","Asio flammeus","L25923156","Arcata Plaza","2026-04-11 21:31",1,40.868556,-124.08645,TRUE,FALSE,FALSE,"S320410684"
-"30","sheowl","Short-eared Owl","Asio flammeus","L62549521","Buckland Park Road, Rochester, New York, US (43.111, -77.586)","2026-04-11 20:36",2,43.1114022,-77.5863047,TRUE,TRUE,TRUE,"S320378738"
-"31","sheowl","Short-eared Owl","Asio flammeus","L62667754","97637, Plush US-OR 42.53722, -119.66510","2026-04-11 19:49",1,42.537216,-119.665095,TRUE,FALSE,TRUE,"S320951590"
-"32","sheowl","Short-eared Owl","Asio flammeus","L7516640","Buckland Park","2026-04-11 19:48",1,43.1139403,-77.5859734,TRUE,FALSE,FALSE,"S320378128"
-"33","sheowl","Short-eared Owl","Asio flammeus","L62667744","Frenchglen Rd, Plush US-OR 42.55175, -119.65945","2026-04-11 19:45",1,42.55175,-119.659446,TRUE,FALSE,TRUE,"S320951525"
-"34","sheowl","Short-eared Owl","Asio flammeus","L62548090","Bay Lake WPA","2026-04-11 19:31",2,46.9343496,-96.010875,TRUE,FALSE,TRUE,"S320389051"
-"35","sheowl","Short-eared Owl","Asio flammeus","L62548301","14618, Rochester US-NY 43.11212, -77.57590","2026-04-11 19:09",1,43.112117,-77.575898,TRUE,FALSE,TRUE,"S320373447"
-"36","sheowl","Short-eared Owl","Asio flammeus","L724627","Crex Meadows SWA--Phantom Lake Rd.","2026-04-11 19:07",1,45.8089696,-92.6506985,TRUE,FALSE,FALSE,"S320382506"
-"37","sheowl","Short-eared Owl","Asio flammeus","L450231","Irish Grove MOS Sanctuary","2026-04-11 18:41",4,37.994404,-75.7302618,TRUE,TRUE,FALSE,"S320361067"
-"38","sheowl","Short-eared Owl","Asio flammeus","L3406540","Market Lake WMA--General","2026-04-11 18:40",1,43.7808238,-112.146163,TRUE,FALSE,FALSE,"S320391464"
-"39","sheowl","Short-eared Owl","Asio flammeus","L251163","Ackley SWA","2026-04-11 18:30",1,45.1473594,-89.4067853,TRUE,TRUE,FALSE,"S320408714"
-"40","sheowl","Short-eared Owl","Asio flammeus","L9376741","6000 Bishop Rd, Saginaw US-MI (43.3253,-84.0329)","2026-04-11 18:25",1,43.325255,-84.032883,TRUE,FALSE,TRUE,"S320400825"
-"41","sheowl","Short-eared Owl","Asio flammeus","L372956","Killdeer Plains Wildlife Area","2026-04-11 18:02",1,40.7138257,-83.3016014,TRUE,FALSE,FALSE,"S320655948"
-"42","sheowl","Short-eared Owl","Asio flammeus","L92448","Edwin B. Forsythe NWR--Wildlife Drive (8-mile auto tour loop only)","2026-04-11 18:00",1,39.464298,-74.417612,TRUE,FALSE,FALSE,"S320626360"
-"43","sheowl","Short-eared Owl","Asio flammeus","L3006149","Blackwater NWR--Maple Dam Rd.","2026-04-11 17:30",1,38.4141541,-76.055603,TRUE,TRUE,FALSE,"S320605942"
-"44","sheowl","Short-eared Owl","Asio flammeus","L367090","Walkinshaw Wetlands","2026-04-11 17:05",2,43.6806179,-86.0669738,TRUE,TRUE,FALSE,"S320351843"
-"45","sheowl","Short-eared Owl","Asio flammeus","L164216","Crex Meadows SWA","2026-04-11 16:27",1,45.842964,-92.62031,TRUE,FALSE,FALSE,"S320382403"
-"46","sheowl","Short-eared Owl","Asio flammeus","L1430539","Old Saddle Road and Waiki'i Ranch (mile marker 43 to west end)","2026-04-11 16:03",2,19.8864154,-155.668606,TRUE,FALSE,FALSE,"S320408240"
-"47","sheowl","Short-eared Owl","Asio flammeus","L247163","Haleakala NP--Hosmer Grove","2026-04-11 14:00",1,20.7684183,-156.2365883,TRUE,FALSE,FALSE,"S320439702"
-"48","sheowl","Short-eared Owl","Asio flammeus","L20815790","Kōkeʻe State Park--Puʻu O Kila Lookout","2026-04-11 13:52",1,22.1477985,-159.6309566,TRUE,FALSE,FALSE,"S320406739"
-"49","sheowl","Short-eared Owl","Asio flammeus","L1427137","Pihea Trail--Kalalau Rim","2026-04-11 13:15",1,22.150861,-159.6221217,TRUE,FALSE,FALSE,"S320852770"
-"50","sheowl","Short-eared Owl","Asio flammeus","L1515796","Clear Creek Diversion","2026-04-11 12:22",1,44.3916795,-106.6245321,TRUE,FALSE,FALSE,"S320803391"
-"51","sheowl","Short-eared Owl","Asio flammeus","L99689","Montezuma (NMWMA)--Morgan Rd. Marshes","2026-04-11 12:00",2,43.0673045,-76.7170787,TRUE,FALSE,FALSE,"S320359411"
-"52","sheowl","Short-eared Owl","Asio flammeus","L252263","Havenwoods SF","2026-04-11 10:19",1,43.12825,-87.97146,TRUE,FALSE,FALSE,"S320119739"
-"53","sheowl","Short-eared Owl","Asio flammeus","L62427076","Bay Lake WPA","2026-04-11 09:27",3,46.948877,-96.009776,TRUE,FALSE,TRUE,"S320103839"
-"54","sheowl","Short-eared Owl","Asio flammeus","L152823","Mendenhall Wetlands SGR--Airport Dike Trail","2026-04-11 09:10",1,58.3523993,-134.5945144,TRUE,FALSE,FALSE,"S320342908"
-"55","sheowl","Short-eared Owl","Asio flammeus","L299782","Burlington Lake (Goldeneye Reservoir)","2026-04-11 09:03",1,43.019333,-106.7073727,TRUE,FALSE,FALSE,"S320138203"
-"56","sheowl","Short-eared Owl","Asio flammeus","L62490730","Old Rightaway Rd, Driggs US-ID 43.75327, -111.23064","2026-04-11 08:58",2,43.75327,-111.230636,TRUE,FALSE,TRUE,"S320116129"
-"57","sheowl","Short-eared Owl","Asio flammeus","L62529371","4WD Road To Palila Discovery Trail, Waimea, Hawaii","2026-04-11 08:38",1,19.8168083,-155.6147824,TRUE,FALSE,TRUE,"S320283396"
-"58","sheowl","Short-eared Owl","Asio flammeus","L3157607","Shiawassee NWR","2026-04-11 08:30",2,43.348072,-84.0281582,TRUE,FALSE,TRUE,"S320390461"
-"59","sheowl","Short-eared Owl","Asio flammeus","L715625","Buena Vista Grasslands/Marsh--Co. F and Quarry Rd.","2026-04-11 07:50",1,44.3189133,-89.6474133,TRUE,FALSE,FALSE,"S320100453"
-"60","sheowl","Short-eared Owl","Asio flammeus","L62538809","Butler County General Location","2026-04-11 07:49",1,37.96573,-96.72665,TRUE,FALSE,TRUE,"S320326731"
-"61","sheowl","Short-eared Owl","Asio flammeus","L62647280","Puʻu Ka Pele Forest Reserve, Lihue US-HI 22.00224, -159.67740","2026-04-11 06:48",1,22.002245,-159.677402,TRUE,FALSE,TRUE,"S320850112"
-"62","sheowl","Short-eared Owl","Asio flammeus","L62647138","70 Road, Cedar Point, Kansas, US (38.173, -96.673)","2026-04-11 06:47",1,38.1733786,-96.6734213,TRUE,FALSE,TRUE,"S320849395"
-"63","sheowl","Short-eared Owl","Asio flammeus","L518546","Malheur NWR--Narrows","2026-04-11 06:44",2,43.282003,-118.96557,TRUE,FALSE,FALSE,"S320173322"
-"64","sheowl","Short-eared Owl","Asio flammeus","L3936952","Spring Prairie Preserve","2026-04-11 06:09",1,46.91989,-96.47148,TRUE,FALSE,FALSE,"S319975126"
-"65","sheowl","Short-eared Owl","Asio flammeus","L62424280","Hamden Slough National Wildlife Refuge, Audubon US-MN 46.96273, -95.97949","2026-04-11 05:50",1,46.962728,-95.979493,TRUE,FALSE,TRUE,"S320054978"
-"66","sheowl","Short-eared Owl","Asio flammeus","L7437238","TNC Lands","2026-04-11 05:24",1,46.790465,-96.481266,TRUE,FALSE,TRUE,"S319971598"
-"67","sheowl","Short-eared Owl","Asio flammeus","L62647145","M Road, Matfield Township, Kansas, US (38.161, -96.64)","2026-04-11 03:21",1,38.1608153,-96.6395853,TRUE,FALSE,TRUE,"S320849429"
-"68","sheowl","Short-eared Owl","Asio flammeus","L4512734","Dunbar Slough WMA--250th St.","2026-04-10 21:15",2,41.9940102,-94.605546,TRUE,TRUE,FALSE,"S319855099"
-"69","sheowl","Short-eared Owl","Asio flammeus","L3045450","Colgate Township West of Fuller's Lake","2026-04-10 20:21",1,47.3104507,-97.6407852,TRUE,FALSE,TRUE,"S319854805"
-"70","sheowl","Short-eared Owl","Asio flammeus","L41208617","Horace--Diversion Ponds","2026-04-10 20:12",2,46.736309,-96.882928,TRUE,FALSE,FALSE,"S319851950"
-"71","sheowl","Short-eared Owl","Asio flammeus","L62434639","77th St SE, Lisbon US-ND 46.29667, -97.64031","2026-04-10 20:05",1,46.296669,-97.640312,TRUE,FALSE,TRUE,"S319843635"
-"72","sheowl","Short-eared Owl","Asio flammeus","L1673063","The Wilds--Zion Ridge Rd.","2026-04-10 19:55",4,39.8557945,-81.7486668,TRUE,TRUE,FALSE,"S319838415"
-"73","sheowl","Short-eared Owl","Asio flammeus","L17664045","Weston Prairie Area","2026-04-10 19:33",1,41.251048,-83.797462,TRUE,FALSE,TRUE,"S319856304"
-"74","sheowl","Short-eared Owl","Asio flammeus","L53306416","US-75, Breckenridge US-MN","2026-04-10 19:31",1,46.353999,-96.620002,TRUE,FALSE,TRUE,"S319850947"
-"75","sheowl","Short-eared Owl","Asio flammeus","L46749142","MN-9, Campbell US-MN","2026-04-10 19:13",1,46.164329,-96.461581,TRUE,FALSE,TRUE,"S319850888"
-"76","sheowl","Short-eared Owl","Asio flammeus","L61242773","MN-9, Nashua US-MN","2026-04-10 19:06",2,46.074733,-96.380376,TRUE,FALSE,TRUE,"S319850633"
-"77","sheowl","Short-eared Owl","Asio flammeus","L62432829","Horace Diversion Ponds — East End","2026-04-10 19:04",1,46.73154,-96.871094,TRUE,FALSE,TRUE,"S319835602"
-"78","sheowl","Short-eared Owl","Asio flammeus","L693440","Amalga Barrens","2026-04-10 19:01",1,41.8599089,-111.9320583,TRUE,FALSE,FALSE,"S319858111"
-"79","sheowl","Short-eared Owl","Asio flammeus","L2882112","Herman Municipal Airport","2026-04-10 18:49",2,45.8320287,-96.1640167,TRUE,FALSE,FALSE,"S319850606"
-"80","sheowl","Short-eared Owl","Asio flammeus","L483608","Lummi Flats","2026-04-10 18:30",1,48.7975609,-122.6498008,TRUE,FALSE,FALSE,"S319871712"
-"81","sheowl","Short-eared Owl","Asio flammeus","L266979","Collins Marsh SWA","2026-04-10 18:15",1,44.0987629,-87.9582444,TRUE,TRUE,FALSE,"S319836688"
-"82","sheowl","Short-eared Owl","Asio flammeus","L4255556","US-South Dakota-Sisseton-112th St - 45.762x-97.122","2026-04-10 17:56",3,45.7616408,-97.1222211,TRUE,FALSE,TRUE,"S320410518"
-"83","sheowl","Short-eared Owl","Asio flammeus","L62421562","3136–3158 Taft Rd, Bloomfield US-NY 42.87430, -77.50764","2026-04-10 17:37",1,42.874298,-77.507639,TRUE,FALSE,TRUE,"S319779484"
-"84","sheowl","Short-eared Owl","Asio flammeus","L158589","Lake Helena WMA","2026-04-10 17:31",1,46.701,-111.9584,TRUE,FALSE,FALSE,"S319849579"
-"85","sheowl","Short-eared Owl","Asio flammeus","L3931210","Bluestem Prairie SNA--Fuchs Unit","2026-04-10 17:30",3,46.783304,-96.478384,TRUE,FALSE,FALSE,"S319874027"
-"86","sheowl","Short-eared Owl","Asio flammeus","L3045396","Fuller's Lake","2026-04-10 17:22",2,47.3118675,-97.5959559,TRUE,FALSE,TRUE,"S319856822"
-"87","sheowl","Short-eared Owl","Asio flammeus","L23973968","McCarthy Wildlife Area","2026-04-10 17:19",1,42.3374116,-90.8496431,TRUE,TRUE,FALSE,"S319833525"
-"88","sheowl","Short-eared Owl","Asio flammeus","L9792780","Mendenhall Wetlands SGR (E of Mendenhall River)","2026-04-10 17:11",1,58.3504297,-134.6000631,TRUE,FALSE,FALSE,"S320168168"
-"89","sheowl","Short-eared Owl","Asio flammeus","L498426","Malheur NWR--Malheur Lake","2026-04-10 16:44",1,43.346653,-118.797226,TRUE,FALSE,FALSE,"S319837536"
-"90","sheowl","Short-eared Owl","Asio flammeus","L62439363","53702–53706 OR-205, Princeton US-OR 43.12175, -118.91995","2026-04-10 16:40",1,43.12175,-118.919953,TRUE,FALSE,TRUE,"S319862429"
-"91","sheowl","Short-eared Owl","Asio flammeus","L62432816","901 E Yukon St, Palmer US-AK 61.59632, -149.09189","2026-04-10 16:23",1,61.596317,-149.09189,TRUE,FALSE,TRUE,"S319835561"
-"92","sheowl","Short-eared Owl","Asio flammeus","L4682243","Summer Lake Wildlife Area--North Orchard","2026-04-10 16:09",1,42.983632,-120.7510114,TRUE,FALSE,FALSE,"S319822867"
-"93","sheowl","Short-eared Owl","Asio flammeus","L294962","Montezuma (NMWMA)--Railroad Rd. Marshes","2026-04-10 14:05",1,43.0572241,-76.7246532,TRUE,FALSE,FALSE,"S319718372"
-"94","sheowl","Short-eared Owl","Asio flammeus","L1445524","Beaver Valley Rd, Chimacum, WA","2026-04-10 13:29",1,47.9900238,-122.7458206,TRUE,TRUE,FALSE,"S319760697"
-"95","sheowl","Short-eared Owl","Asio flammeus","L1283484","Quivira NWR--Migrant's Mile & Park Smith Lake","2026-04-10 12:05",1,38.1438472,-98.4915894,TRUE,FALSE,FALSE,"S319687308"
-"96","sheowl","Short-eared Owl","Asio flammeus","L469355","Kawai'ele State Waterbird Sanctuary","2026-04-10 11:35",2,22.0099791,-159.7679526,TRUE,FALSE,FALSE,"S319783462"
-"97","sheowl","Short-eared Owl","Asio flammeus","L516847","Mendenhall Wetlands SGR--E of Airport Dike Trail","2026-04-10 10:56",1,58.35063,-134.56818,TRUE,FALSE,FALSE,"S319820577"
-"98","sheowl","Short-eared Owl","Asio flammeus","L1979200","Thornton Drive","2026-04-10 08:30",1,48.148737,-123.160917,TRUE,FALSE,TRUE,"S320209430"
-"99","sheowl","Short-eared Owl","Asio flammeus","L218838","Tiscornia Park","2026-04-10 08:27",1,42.1151557,-86.4894291,TRUE,TRUE,FALSE,"S319577944"
-"100","sheowl","Short-eared Owl","Asio flammeus","L248057","Pte. Mouillee SGA (permit required Sep 1-Dec 31)","2026-04-10 07:13",1,42.0364452,-83.2114657,TRUE,FALSE,FALSE,"S319540204"
-"101","sheowl","Short-eared Owl","Asio flammeus","L62383229","10600–11698 123rd Ave NE, Bismarck US-ND (46.9394,-100.6230)","2026-04-10 06:55",1,46.939395,-100.623002,TRUE,FALSE,TRUE,"S319595166"
-"102","sheowl","Short-eared Owl","Asio flammeus","L34861335","Keystone Woods WMA","2026-04-10 06:26",1,45.1854453,-92.8842076,TRUE,FALSE,FALSE,"S319576000"
-"103","sheowl","Short-eared Owl","Asio flammeus","L62438160","82834, Buffalo US-WY","2026-04-10 05:16",1,44.423363,-106.42403,TRUE,FALSE,TRUE,"S319857565"
-"104","sheowl","Short-eared Owl","Asio flammeus","L5481371","Buena Vista Grasslands/Marsh--Lake Rd.","2026-04-10 04:40",1,44.366692,-89.5774984,TRUE,FALSE,FALSE,"S319807534"
-"105","sheowl","Short-eared Owl","Asio flammeus","L877690","Deer Flat NWR--Visitor Center","2026-04-09 20:41",1,43.5597447,-116.66605,TRUE,FALSE,FALSE,"S319420395"
-"106","sheowl","Short-eared Owl","Asio flammeus","L62415309","59014, Bridger US-MT (45.1885,-109.1936)","2026-04-09 20:06",1,45.188531,-109.193594,TRUE,FALSE,TRUE,"S319748422"
-"107","sheowl","Short-eared Owl","Asio flammeus","L603712","Mentor Marsh State Nature Preserve--Wake Robin","2026-04-09 20:04",2,41.7297856,-81.3189554,TRUE,FALSE,FALSE,"S319394802"
-"108","sheowl","Short-eared Owl","Asio flammeus","L152600","Air Station Prairie, Glenview","2026-04-09 20:00",1,42.1005788,-87.8189135,TRUE,FALSE,FALSE,"S319411441"
-"109","sheowl","Short-eared Owl","Asio flammeus","L30460124","15906 Siskin Ln NE, Bemidji US-MN 47.62151, -94.80930","2026-04-09 19:55",1,47.621505,-94.809302,TRUE,FALSE,TRUE,"S319405874"
-"110","sheowl","Short-eared Owl","Asio flammeus","L28965226","Weston Road, Custar, Ohio, US (41.242, -83.804)","2026-04-09 19:48",2,41.2416781,-83.804232,TRUE,FALSE,TRUE,"S319395484"
-"111","sheowl","Short-eared Owl","Asio flammeus","L14101917","Home Base","2026-04-09 19:20",1,47.620701,-94.8078017,TRUE,FALSE,TRUE,"S319407766"
-"112","sheowl","Short-eared Owl","Asio flammeus","L508580","Vernon Marsh--Inner & Outer DU Dikes/Figure 8","2026-04-09 18:33",1,42.9060854,-88.3110237,TRUE,FALSE,FALSE,"S319422752"
-"113","sheowl","Short-eared Owl","Asio flammeus","L62344598","Location
-Trout Creek Grassland (Restricted Access, Tribal Members Only)","2026-04-09 18:10",4,44.55542,-88.1991883,TRUE,FALSE,TRUE,"S319393177"
-"114","sheowl","Short-eared Owl","Asio flammeus","L3942996","Shillapoo Lake","2026-04-09 18:05",2,45.6956365,-122.7440187,TRUE,FALSE,FALSE,"S319423841"
-"115","sheowl","Short-eared Owl","Asio flammeus","L3228196","Konterra Drive fields and ponds (private property, restricted access)","2026-04-09 17:30",2,39.0781569,-76.8924694,TRUE,TRUE,FALSE,"S319405256"
-"116","sheowl","Short-eared Owl","Asio flammeus","L1145281","Missisquoi NWR--headquarters Vicinity / Discovery Trail","2026-04-09 17:27",1,44.9644184,-73.2005846,TRUE,FALSE,FALSE,"S319397121"
-"117","sheowl","Short-eared Owl","Asio flammeus","L3117439","Burnham Wildlife Corridor--39th St. to 31st St.","2026-04-09 17:16",1,41.8300064,-87.6028426,TRUE,FALSE,FALSE,"S319382983"
-"118","sheowl","Short-eared Owl","Asio flammeus","L467271","Rumbly Point","2026-04-09 17:10",1,37.9693727,-75.725069,TRUE,TRUE,FALSE,"S319345487"
-"119","sheowl","Short-eared Owl","Asio flammeus","L62335833","38669–38699 123rd St, Aberdeen US-SD 45.60454, -98.50105","2026-04-09 16:52",1,45.604544,-98.50105,TRUE,FALSE,TRUE,"S319346522"
-"120","sheowl","Short-eared Owl","Asio flammeus","L11781278","Leola Marsh SWA--5th Ave.","2026-04-09 16:20",1,44.214063,-89.677901,TRUE,FALSE,FALSE,"S319358484"
-"121","sheowl","Short-eared Owl","Asio flammeus","L152737","Waukegan Beach","2026-04-09 15:16",1,42.364,-87.8139,TRUE,FALSE,FALSE,"S319418940"
-"122","sheowl","Short-eared Owl","Asio flammeus","L17170303","Kilohana Hunter Checking Station, Kaʻohe GMA","2026-04-09 15:10",4,19.8078193,-155.6297627,TRUE,FALSE,FALSE,"S319426067"
-"123","sheowl","Short-eared Owl","Asio flammeus","L2943760","Tom Ridge Environmental Center/Presque Isle Hawk Watch","2026-04-09 13:15",1,42.1096013,-80.1539218,TRUE,FALSE,FALSE,"S319267352"
-"124","sheowl","Short-eared Owl","Asio flammeus","L557151","Voice of America Game Land","2026-04-09 12:39",1,35.69718,-77.15866,TRUE,FALSE,FALSE,"S319235850"
-"125","sheowl","Short-eared Owl","Asio flammeus","L22807462","Presque Isle Hawk Watch, site 2","2026-04-09 08:45",1,42.107498,-80.152844,TRUE,FALSE,TRUE,"S319314599"
-"126","sheowl","Short-eared Owl","Asio flammeus","L813972","Montrose Dunes, Lincoln Park","2026-04-09 07:00",1,41.9660701,-87.633369,TRUE,FALSE,FALSE,"S319124665"
-"127","sheowl","Short-eared Owl","Asio flammeus","L161180","Montrose Point Bird Sanctuary, Lincoln Park","2026-04-09 06:26",1,41.9633833,-87.6344204,TRUE,FALSE,FALSE,"S319237021"
-"128","sheowl","Short-eared Owl","Asio flammeus","L7506647","Thunder Basin NG--Dunham Road","2026-04-09 06:09",1,43.871043,-104.453527,TRUE,FALSE,FALSE,"S319245124"
-"129","sheowl","Short-eared Owl","Asio flammeus","L760346","Montezuma NWR--Sandhill Crane Unit","2026-04-08 21:26",1,43.0444291,-76.7268848,TRUE,FALSE,FALSE,"S318985124"
-"130","sheowl","Short-eared Owl","Asio flammeus","L5556499","US-AK-Homer-3081-3149 Homer Spit Rd - 59.6198x-151.4605","2026-04-08 20:44",1,59.61978,-151.460529,TRUE,TRUE,TRUE,"S319005423"
-"131","sheowl","Short-eared Owl","Asio flammeus","L12246008","Warren ""Bud"" Woods Palmer Municipal Airport","2026-04-08 20:11",1,61.596278,-149.0939281,TRUE,FALSE,FALSE,"S318997821"
-"132","sheowl","Short-eared Owl","Asio flammeus","L1227281","Missisquoi NWR--Charcoal Creek","2026-04-08 19:36",1,44.9702025,-73.1789446,TRUE,FALSE,FALSE,"S318988567"
-"133","sheowl","Short-eared Owl","Asio flammeus","L4786883","Possum Hollow Rd.","2026-04-08 19:35",1,39.940347,-77.013315,TRUE,FALSE,FALSE,"S318966361"
-"134","sheowl","Short-eared Owl","Asio flammeus","L20064230","Carpenter Nature Center--Visitor Center","2026-04-08 18:54",1,44.9080664,-92.7455492,TRUE,TRUE,FALSE,"S318980279"
-"135","sheowl","Short-eared Owl","Asio flammeus","L621440","Bud Phelps WMA","2026-04-08 18:33",2,41.729113,-111.9305992,TRUE,FALSE,FALSE,"S318982081"
-"136","sheowl","Short-eared Owl","Asio flammeus","L23807868","Angus-Oslo #4 Impoundment","2026-04-08 18:01",13,48.1056505,-96.5592083,TRUE,FALSE,FALSE,"S318956309"
-"137","sheowl","Short-eared Owl","Asio flammeus","L911700","Burrage Pond WMA","2026-04-08 17:56",1,42.0212167,-70.8722806,TRUE,FALSE,FALSE,"S318955450"
-"138","sheowl","Short-eared Owl","Asio flammeus","L1874705","Bench Rd.","2026-04-08 17:56",4,45.820296,-111.5760183,TRUE,FALSE,FALSE,"S318983798"
-"139","sheowl","Short-eared Owl","Asio flammeus","L1048528","Livermore Rd.","2026-04-08 17:54",1,45.0097499,-123.2535124,TRUE,FALSE,FALSE,"S318985467"
-"140","sheowl","Short-eared Owl","Asio flammeus","L212323","Lee Kay Ponds","2026-04-08 17:53",1,40.7397136,-112.0437241,TRUE,TRUE,FALSE,"S318993218"
-"141","sheowl","Short-eared Owl","Asio flammeus","L6671777","Blackwater NWR--Shorters Wharf public boat ramp","2026-04-08 17:47",1,38.3815224,-76.0674055,TRUE,TRUE,FALSE,"S318920687"
-"142","sheowl","Short-eared Owl","Asio flammeus","L4457566","Carpenter Nature Center Wisconsin Campus","2026-04-08 17:35",1,44.9165702,-92.741046,TRUE,TRUE,FALSE,"S318989314"
-"143","sheowl","Short-eared Owl","Asio flammeus","L844166","Third Cliff (Neighborhood and The Spit), Scituate","2026-04-08 16:52",1,42.1697541,-70.7164097,TRUE,FALSE,FALSE,"S318942127"
-"144","sheowl","Short-eared Owl","Asio flammeus","L62262464","Waimea Canyon Dr, Lihue US-HI (21.9994,-159.6773)","2026-04-08 15:16",1,21.999404,-159.677291,TRUE,FALSE,TRUE,"S318977035"
-"145","sheowl","Short-eared Owl","Asio flammeus","L422517","Sachuest Pt. NWR--Salt Marsh","2026-04-08 14:20",1,41.4858521,-71.2469602,TRUE,TRUE,FALSE,"S318869755"
-"146","sheowl","Short-eared Owl","Asio flammeus","L740752","Malheur NWR--Benson Pond","2026-04-08 09:53",1,42.9566738,-118.8657188,TRUE,FALSE,FALSE,"S318876351"
-"147","sheowl","Short-eared Owl","Asio flammeus","L14584415","Holes Creek Park","2026-04-08 07:42",1,39.6220277,-84.201562,TRUE,FALSE,FALSE,"S318877857"
-"148","sheowl","Short-eared Owl","Asio flammeus","L169834","Funk Bottoms Wildlife Area","2026-04-07 20:11",1,40.7524219,-82.1058162,TRUE,FALSE,FALSE,"S318516004"
-"149","sheowl","Short-eared Owl","Asio flammeus","L39850817","3320 W Curtis Rd, Saginaw US-MI 43.32186, -83.97853","2026-04-07 20:10",1,43.321859,-83.978534,TRUE,TRUE,TRUE,"S319763229"
-"150","sheowl","Short-eared Owl","Asio flammeus","L2137091","Bench Road--lower","2026-04-07 20:03",2,45.8537283,-111.555469,TRUE,FALSE,FALSE,"S318525240"
-"151","sheowl","Short-eared Owl","Asio flammeus","L1822403","William L. Finley NWR--Prairie Overlook","2026-04-07 19:25",1,44.4242813,-123.304815,TRUE,FALSE,FALSE,"S318527721"
-"152","sheowl","Short-eared Owl","Asio flammeus","L388494","Lake St. Clair Metropark (Metro Beach Metropark)","2026-04-07 19:23",1,42.5796301,-82.8032684,TRUE,TRUE,FALSE,"S318519305"
-"153","sheowl","Short-eared Owl","Asio flammeus","L62170507","4974–5102 Stapley Rd, Geneseo US-NY 42.75760, -77.75178","2026-04-07 18:54",1,42.757601,-77.751781,TRUE,FALSE,TRUE,"S318505019"
-"154","sheowl","Short-eared Owl","Asio flammeus","L9566162","Shiawassee NWR--Miller Rd.","2026-04-07 18:00",2,43.3632272,-84.0722732,TRUE,FALSE,FALSE,"S318470553"
-"155","sheowl","Short-eared Owl","Asio flammeus","L1759273","Greenhouse Ln.","2026-04-07 17:50",2,43.512015,-119.0786411,TRUE,FALSE,FALSE,"S318523548"
-"156","sheowl","Short-eared Owl","Asio flammeus","L3997943","Waimea Canyon Drive--Ni'ihau Lookout","2026-04-07 17:45",1,21.9936245,-159.675009,TRUE,FALSE,FALSE,"S318562011"
-"157","sheowl","Short-eared Owl","Asio flammeus","L20357969","Burkittsville Ruritan/Old School Grounds","2026-04-07 17:03",1,39.3883829,-77.6241769,TRUE,TRUE,TRUE,"S318462928"
-"158","sheowl","Short-eared Owl","Asio flammeus","L157683","Buena Vista Grasslands/Marsh (general) (please use more precise locations)","2026-04-07 16:50",1,44.321732,-89.6071382,TRUE,FALSE,FALSE,"S320839047"
-"159","sheowl","Short-eared Owl","Asio flammeus","L39115439","Shiawassee NWR","2026-04-07 16:24",3,43.321911,-84.033733,TRUE,FALSE,TRUE,"S319766543"
-"160","sheowl","Short-eared Owl","Asio flammeus","L13156588","4000–4498 W Curtis Rd, Saginaw US-MI 43.32193, -83.99367","2026-04-07 16:12",1,43.321933,-83.993667,TRUE,TRUE,TRUE,"S319758476"
-"161","sheowl","Short-eared Owl","Asio flammeus","L3594552","Metzger Marsh--Causeway Viewing Areas","2026-04-07 12:14",1,41.6466047,-83.2477507,TRUE,FALSE,FALSE,"S318377223"
-"162","sheowl","Short-eared Owl","Asio flammeus","L720328","Leola Marsh SWA (general)","2026-04-07 11:34",2,44.2062144,-89.67659,TRUE,FALSE,FALSE,"S319752273"
-"163","sheowl","Short-eared Owl","Asio flammeus","L62150116","4100–4188 Livermore Rd, Dallas US-OR 44.98746, -123.26376","2026-04-07 11:14",1,44.987458,-123.26376,TRUE,FALSE,TRUE,"S318402834"
-"164","sheowl","Short-eared Owl","Asio flammeus","L1854792","Baskett Slough NWR--Morgan Lake","2026-04-07 09:47",1,44.9814388,-123.2613867,TRUE,FALSE,FALSE,"S318396709"
-"165","sheowl","Short-eared Owl","Asio flammeus","L39271253","Elk Creek Wetland Mitigation Bank (private proprty)","2026-04-07 09:35",2,41.262507,-82.11973,TRUE,FALSE,TRUE,"S318391162"
-"166","sheowl","Short-eared Owl","Asio flammeus","L62121492","Camp Atterbury, Edinburgh US-IN 39.33847, -86.01941","2026-04-07 08:40",1,39.338471,-86.019415,TRUE,FALSE,TRUE,"S318260042"
-"167","sheowl","Short-eared Owl","Asio flammeus","L43212644","14600–14640 Ebersole Rd, Oral US-SD Dam","2026-04-07 08:35",2,43.375876,-103.152169,TRUE,FALSE,TRUE,"S318329747"
-"168","sheowl","Short-eared Owl","Asio flammeus","L487186","Hart-Miller Island","2026-04-07 08:10",1,39.2487391,-76.3652802,TRUE,TRUE,FALSE,"S318420364"
-"169","sheowl","Short-eared Owl","Asio flammeus","L19129537","South Dry Creek Road, Red Lodge, Montana, US (45.198, -109.192)","2026-04-07 06:42",1,45.1983607,-109.1918015,TRUE,FALSE,TRUE,"S318294250"
-"170","sheowl","Short-eared Owl","Asio flammeus","L62508057","93516, Boron US-CA (35.2542,-117.0842)","2026-04-07 06:28",1,35.25424,-117.084207,TRUE,TRUE,TRUE,"S320193982"
-"171","sheowl","Short-eared Owl","Asio flammeus","L62095448","CR-55, Langdon US-ND 48.89167, -98.34290","2026-04-06 21:28",2,48.891672,-98.342902,TRUE,FALSE,TRUE,"S318130599"
-"172","sheowl","Short-eared Owl","Asio flammeus","L1458576","Ferguson Forest Preserve","2026-04-06 20:02",1,42.4395478,-89.2041582,TRUE,FALSE,FALSE,"S318136282"
-"173","sheowl","Short-eared Owl","Asio flammeus","L18997616","Corner of Collins Drive and Masonic Road","2026-04-06 19:57",1,46.6913554,-111.9800083,TRUE,FALSE,TRUE,"S318126538"
-"174","sheowl","Short-eared Owl","Asio flammeus","L62095818","29118–29198 Highway 99 W, Corvallis US-OR 44.44004, -123.27692","2026-04-06 19:49",1,44.440038,-123.276916,TRUE,FALSE,TRUE,"S318132119"
-"175","sheowl","Short-eared Owl","Asio flammeus","L718721","Saxis WMA","2026-04-06 18:36",1,37.9155603,-75.682497,TRUE,TRUE,FALSE,"S318097591"
-"176","sheowl","Short-eared Owl","Asio flammeus","L62096270","Potter Swamp Road, Burns, Oregon, US (43.502, -119.079)","2026-04-06 18:26",1,43.5023119,-119.0793329,TRUE,FALSE,TRUE,"S318133887"
-"177","sheowl","Short-eared Owl","Asio flammeus","L5447230","Saxis WMA--Hammock Boat Ramp","2026-04-06 18:10",1,37.9038334,-75.6832065,TRUE,TRUE,FALSE,"S318077495"
-"178","sheowl","Short-eared Owl","Asio flammeus","L62095315","Schroeder","2026-04-06 18:10",1,45.2879819,-109.345141,TRUE,FALSE,TRUE,"S318130191"
-"179","sheowl","Short-eared Owl","Asio flammeus","L937659","Tarbox Wildlife Viewing Platform","2026-04-06 18:05",1,60.5420341,-151.2194681,TRUE,TRUE,FALSE,"S318423984"
-"180","sheowl","Short-eared Owl","Asio flammeus","L1614549","HI: Haleakala NP - Visitors' Center (lower)","2026-04-06 17:45",3,20.7587584,-156.2470973,TRUE,FALSE,FALSE,"S318142844"
-"181","sheowl","Short-eared Owl","Asio flammeus","L99688","Montezuma (NMWMA)--Carncross Rd.","2026-04-06 15:40",1,43.0787739,-76.7080184,TRUE,FALSE,FALSE,"S318103586"
-"182","sheowl","Short-eared Owl","Asio flammeus","L128874","Jocelyn Nungaray NWR  (Anahuac) (UTC 049)","2026-04-06 15:34",1,29.6148414,-94.5344353,TRUE,FALSE,FALSE,"S318135883"
-"183","sheowl","Short-eared Owl","Asio flammeus","L14629752","Hidden Knoll Park trail system","2026-04-06 15:20",1,45.0259016,-92.8681081,TRUE,FALSE,TRUE,"S318051611"
-"184","sheowl","Short-eared Owl","Asio flammeus","L44861986","18550–19136 S-271, Helmville US-MT (46.8470,-112.9845)","2026-04-06 15:00",1,46.847002,-112.984497,TRUE,FALSE,TRUE,"S320399231"
-"185","sheowl","Short-eared Owl","Asio flammeus","L390594","Braddock Bay--Burger Park","2026-04-06 15:00",1,43.3099074,-77.7326596,TRUE,FALSE,FALSE,"S318028261"
-"186","sheowl","Short-eared Owl","Asio flammeus","L342592","Shawnee Trail CA","2026-04-06 14:33",1,37.4365778,-94.5682139,TRUE,FALSE,FALSE,"S318054054"
-"187","sheowl","Short-eared Owl","Asio flammeus","L18390220","HI: Old Saddle Road (19.913, -155.676)","2026-04-06 14:16",1,19.913464,-155.6762591,TRUE,FALSE,TRUE,"S319314273"
-"188","sheowl","Short-eared Owl","Asio flammeus","L294426","Northerly Island","2026-04-06 11:03",1,41.8596139,-87.6085684,TRUE,FALSE,FALSE,"S317955316"
-"189","sheowl","Short-eared Owl","Asio flammeus","L391848","Waimea Canyon Lookout","2026-04-06 09:18",1,22.0714028,-159.6619892,TRUE,FALSE,FALSE,"S318153194"
-"190","sheowl","Short-eared Owl","Asio flammeus","L14162450","Indian Riffle Park","2026-04-06 08:47",1,39.6933241,-84.1145478,TRUE,FALSE,FALSE,"S317934449"
-"191","sheowl","Short-eared Owl","Asio flammeus","L51715881","Marion Co. General (Use for private GRPC leks/surveys)","2026-04-06 07:43",1,38.362658,-96.966944,TRUE,FALSE,TRUE,"S317886088"
-"192","sheowl","Short-eared Owl","Asio flammeus","L9000115","Grainola Lek","2026-04-06 07:23",2,36.9372714,-96.6140343,TRUE,FALSE,TRUE,"S317794862"
-"193","sheowl","Short-eared Owl","Asio flammeus","L62029169","County Road 4700, Shidler, Oklahoma, US (36.936, -96.617)","2026-04-06 07:12",2,36.9363243,-96.6174919,TRUE,FALSE,TRUE,"S317814362"
-"194","sheowl","Short-eared Owl","Asio flammeus","L29928465","Cassard Ln. fields","2026-04-05 20:12",2,42.8869428,-85.5141443,TRUE,TRUE,FALSE,"S317654580"
-"195","sheowl","Short-eared Owl","Asio flammeus","L61985100","56449, Fort Ripley US-MN (46.1869,-94.3613)","2026-04-05 20:00",1,46.186936,-94.361348,TRUE,FALSE,TRUE,"S317613219"
-"196","sheowl","Short-eared Owl","Asio flammeus","L26460418","Kilgore Road (W of Hwy 10)","2026-04-05 19:58",3,40.6684518,-98.9666915,TRUE,FALSE,FALSE,"S317617804"
-"197","sheowl","Short-eared Owl","Asio flammeus","L37360034","Fort Kearny Hike Bike Trail, Kearney US-NE 40.66510, -98.98863","2026-04-05 19:58",3,40.665096,-98.988629,TRUE,FALSE,TRUE,"S317617805"
-"198","sheowl","Short-eared Owl","Asio flammeus","L61979908","1252–1272 NY-90, King Ferry US-NY (42.6817,-76.6555)","2026-04-05 19:38",1,42.681745,-76.65554,TRUE,FALSE,TRUE,"S317589964"
-"199","sheowl","Short-eared Owl","Asio flammeus","L2867641","Straight Water WMA","2026-04-05 19:35",1,40.8699757,-97.2348833,TRUE,FALSE,FALSE,"S317613580"
-"200","sheowl","Short-eared Owl","Asio flammeus","L15715646","Bergstrom Waterfowl Complex","2026-04-05 19:31",1,44.474149,-88.523537,TRUE,FALSE,FALSE,"S317609044"
-"201","sheowl","Short-eared Owl","Asio flammeus","L1838060","McGee Family CA","2026-04-05 19:18",1,39.543709,-94.4221161,TRUE,FALSE,FALSE,"S317620202"
-"202","sheowl","Short-eared Owl","Asio flammeus","L19607087","Oneida Nation restored prairie","2026-04-05 19:02",2,44.5555066,-88.2061186,TRUE,FALSE,TRUE,"S317611073"
-"203","sheowl","Short-eared Owl","Asio flammeus","L3869668","McPherson Valley Wetlands WA--Big Basin Marshes","2026-04-05 18:44",2,38.3837185,-97.7498245,TRUE,FALSE,FALSE,"S317619829"
-"204","sheowl","Short-eared Owl","Asio flammeus","L2734951","Herron Playa WA","2026-04-05 18:43",1,37.792159,-99.760439,TRUE,FALSE,FALSE,"S317615897"
-"205","sheowl","Short-eared Owl","Asio flammeus","L5167776","Herbert Farm and Natural Area","2026-04-05 18:31",1,44.5198988,-123.2947755,TRUE,FALSE,FALSE,"S317626934"
-"206","sheowl","Short-eared Owl","Asio flammeus","L62173332","Kao Rd, Princeville US-HI (22.0371,-159.7704)","2026-04-05 18:30",1,22.037123,-159.770369,TRUE,FALSE,TRUE,"S318518452"
-"207","sheowl","Short-eared Owl","Asio flammeus","L1191767","Goose Pond FWA--GP8","2026-04-05 18:00",2,38.9887688,-87.2034645,TRUE,FALSE,FALSE,"S318064982"
-"208","sheowl","Short-eared Owl","Asio flammeus","L5379265","Cordova--sand pile","2026-04-05 15:59",15,60.5077824,-145.5402038,TRUE,TRUE,TRUE,"S317610201"
-"209","sheowl","Short-eared Owl","Asio flammeus","L29630867","Kohler-Andrae SP--South Beach","2026-04-05 10:23",1,43.653901,-87.725204,TRUE,TRUE,FALSE,"S317451676"
-"210","sheowl","Short-eared Owl","Asio flammeus","L876558","Middle Creek WMA (IBA) (Lebanon Co.)","2026-04-05 10:21",1,40.2877757,-76.2458897,TRUE,FALSE,FALSE,"S317334313"
-"211","sheowl","Short-eared Owl","Asio flammeus","L61973458","102 East Anderson Road, Sequim, Washington, US (48.145, -123.165)","2026-04-05 08:30",1,48.145259,-123.1648748,TRUE,FALSE,TRUE,"S317560694"
-"212","sheowl","Short-eared Owl","Asio flammeus","L1068173","Samish Flats--East 90","2026-04-05 08:15",1,48.5485465,-122.4661446,TRUE,FALSE,FALSE,"S317578238"
-"213","sheowl","Short-eared Owl","Asio flammeus","L61268125","Old Rightaway Rd, Driggs US-ID 43.76003, -111.22295","2026-04-05 07:39",1,43.76003,-111.222947,TRUE,FALSE,TRUE,"S317287526"
-"214","sheowl","Short-eared Owl","Asio flammeus","L770872","Bird Refuge Rd.","2026-04-05 07:26",1,41.4689719,-112.1759892,TRUE,FALSE,FALSE,"S317457874"
-"215","sheowl","Short-eared Owl","Asio flammeus","L61939145","71-1624–71-1642 Mamalahoa Hwy, Kailua Kona","2026-04-05 06:48",1,19.789872,-155.882821,TRUE,FALSE,TRUE,"S317404425"
-"216","sheowl","Short-eared Owl","Asio flammeus","L598440","Salinas River NWR","2026-04-05 06:47",1,36.7354169,-121.8033385,TRUE,TRUE,FALSE,"S318706358"
-"217","sheowl","Short-eared Owl","Asio flammeus","L2337353","Farmer Rd.","2026-04-04 20:31",1,44.9689481,-123.205694,TRUE,FALSE,FALSE,"S317117116"
-"218","sheowl","Short-eared Owl","Asio flammeus","L61920327","end of Leon Road","2026-04-04 20:30",2,47.4135933,-114.1393055,TRUE,FALSE,TRUE,"S317318351"
-"219","sheowl","Short-eared Owl","Asio flammeus","L26369241","Elm Island Rd--Rowe to 34th","2026-04-04 20:21",1,40.6625185,-98.9099491,TRUE,FALSE,FALSE,"S317096801"
-"220","sheowl","Short-eared Owl","Asio flammeus","L18657137","The Only Sagebrush in Teton Co","2026-04-04 19:49",1,43.76008,-111.22543,TRUE,FALSE,TRUE,"S317097734"
-"221","sheowl","Short-eared Owl","Asio flammeus","L9676093","Duck Road WPA","2026-04-04 19:46",1,47.4714832,-114.1017902,TRUE,FALSE,FALSE,"S317301134"
-"222","sheowl","Short-eared Owl","Asio flammeus","L2368725","West Fargo WTP","2026-04-04 19:46",1,46.8916628,-96.9263134,TRUE,FALSE,FALSE,"S317083016"
-"223","sheowl","Short-eared Owl","Asio flammeus","L552079","Indianapolis Regional Airport (Mt. Comfort Airport)","2026-04-04 19:40",1,39.8478215,-85.901413,TRUE,FALSE,FALSE,"S317109531"
-"224","sheowl","Short-eared Owl","Asio flammeus","L15031065","Thief Lake WMA","2026-04-04 19:35",1,48.477252,-95.925921,TRUE,FALSE,FALSE,"S318326001"
-"225","sheowl","Short-eared Owl","Asio flammeus","L2390341","Market Lake WMA--Sandy Marsh Rd. Access","2026-04-04 19:21",2,43.75892,-112.13289,TRUE,FALSE,FALSE,"S317105040"
-"226","sheowl","Short-eared Owl","Asio flammeus","L3788955","Saint Anthony Sand Dunes","2026-04-04 18:46",3,44.0067372,-111.7816615,TRUE,FALSE,FALSE,"S317331667"
-"227","sheowl","Short-eared Owl","Asio flammeus","L5694943","Duck Road area","2026-04-04 18:45",5,47.4718042,-114.118578,TRUE,FALSE,TRUE,"S317314222"
-"228","sheowl","Short-eared Owl","Asio flammeus","L61876811","RT-190, Waikoloa US-HI 19.84123, -155.75972","2026-04-04 18:42",1,19.841233,-155.759716,TRUE,FALSE,TRUE,"S317115350"
-"229","sheowl","Short-eared Owl","Asio flammeus","L207360","Cumberland Farms (IBA)","2026-04-04 18:37",1,41.945,-70.879,TRUE,FALSE,FALSE,"S317061550"
-"230","sheowl","Short-eared Owl","Asio flammeus","L2658611","Dungeness--Corner of Lotzgesell and E.Anderson","2026-04-04 18:15",1,48.135886,-123.1665391,TRUE,FALSE,FALSE,"S317105872"
-"231","sheowl","Short-eared Owl","Asio flammeus","L717295","Palmer--UAF Matanuska Experiment Farm (S.Georgeson Dr.)","2026-04-04 17:58",1,61.5691918,-149.2570782,TRUE,FALSE,FALSE,"S317097633"
-"232","sheowl","Short-eared Owl","Asio flammeus","L247316","Ninepipe NWR","2026-04-04 17:50",1,47.4379957,-114.1184238,TRUE,FALSE,FALSE,"S317307879"
-"233","sheowl","Short-eared Owl","Asio flammeus","L29093590","North Gladwin plains--Shell Rd","2026-04-04 17:27",2,44.0473439,-84.4472295,TRUE,TRUE,FALSE,"S317036783"
-"234","sheowl","Short-eared Owl","Asio flammeus","L256022","Moss Landing Wildlife Area (former salt ponds; some access restricted)","2026-04-04 16:00",1,36.8171904,-121.7794888,TRUE,TRUE,FALSE,"S317110381"
-"235","sheowl","Short-eared Owl","Asio flammeus","L4606931","Palmer Hay Flats SGR--Wasilla Creek Boardwalk","2026-04-04 13:54",1,61.5504655,-149.2958629,TRUE,FALSE,FALSE,"S317038810"
-"236","sheowl","Short-eared Owl","Asio flammeus","L756394","Magee Marsh--Causeway Marshes (Lucas Co.)","2026-04-04 12:39",1,41.6252594,-83.1825757,TRUE,FALSE,FALSE,"S316911001"
-"237","sheowl","Short-eared Owl","Asio flammeus","L32498172","Mōhihi-Wai‘alae Trail, US-HI 22.11459, -159.56500","2026-04-04 09:55",1,22.114594,-159.564996,TRUE,FALSE,TRUE,"S317647204"
-"238","sheowl","Short-eared Owl","Asio flammeus","L1108046","Samish River mouth","2026-04-04 09:40",1,48.554228,-122.4546432,TRUE,FALSE,FALSE,"S317036605"
-"239","sheowl","Short-eared Owl","Asio flammeus","L12041079","E County Road 1100 N, Charleston US-IL 39.53533, -88.14972","2026-04-04 09:35",1,39.535326,-88.149718,TRUE,FALSE,TRUE,"S317918328"
-"240","sheowl","Short-eared Owl","Asio flammeus","L61832712","02_0401_8","2026-04-04 09:24",1,36.533946,-102.625144,TRUE,FALSE,TRUE,"S316920833"
-"241","sheowl","Short-eared Owl","Asio flammeus","L8212230","Anderson and Cays Rd","2026-04-04 09:03",1,48.1463884,-123.1652537,TRUE,FALSE,TRUE,"S316872132"
-"242","sheowl","Short-eared Owl","Asio flammeus","L10057540","N line","2026-04-04 07:00",1,47.052138,-120.2159172,TRUE,FALSE,TRUE,"S318087400"
-"243","sheowl","Short-eared Owl","Asio flammeus","L61790807","4468 North 1200th Street, Newton, Illinois, US (38.913, -88.151)","2026-04-04 07:00",1,38.9130361,-88.1508098,TRUE,FALSE,TRUE,"S316716739"
-"244","sheowl","Short-eared Owl","Asio flammeus","L61782568","SH-18, Shidler US-OK (36.8680,-96.6714)","2026-04-04 06:24",1,36.868044,-96.671364,TRUE,FALSE,TRUE,"S316668830"
-"245","sheowl","Short-eared Owl","Asio flammeus","L189480","Alligator River NWR","2026-04-04 05:57",1,35.864075,-75.86201,TRUE,FALSE,FALSE,"S316734831"
-"246","sheowl","Short-eared Owl","Asio flammeus","L26462043","South Dry Creek Road, Red Lodge, Montana, US (45.187, -109.197)","2026-04-04 05:49",1,45.1868553,-109.1967985,TRUE,FALSE,TRUE,"S316898122"
-"247","sheowl","Short-eared Owl","Asio flammeus","L21987574","Puʻu Ka Pele Forest Reserve, Waimea US-HI 21.97877, -159.66548","2026-04-04 05:28",1,21.978774,-159.665483,TRUE,FALSE,TRUE,"S317646146"
+"","speciesCode","comName","sciName","locId","locName","obsDt","lat","lng","obsValid","obsReviewed","locationPrivate","subId","howMany"
+"1","whwsco2","White-winged Scoter","Melanitta deglandi","L472167","Ferry Beach, Scarborough","2026-04-14 17:30",43.5427701,-70.3229553,TRUE,FALSE,FALSE,"S321785700",NA
+"2","whwsco2","White-winged Scoter","Melanitta deglandi","L754513","Portland Head Light--Fort Williams Park","2026-04-14 16:47",43.62292,-70.2087736,TRUE,FALSE,FALSE,"S321765564",2
+"3","whwsco2","White-winged Scoter","Melanitta deglandi","L211434","Crane Beach (TTOR)","2026-04-14 15:45",42.6839598,-70.7667586,TRUE,FALSE,FALSE,"S321810602",6
+"4","whwsco2","White-winged Scoter","Melanitta deglandi","L62824260","6 Driftwood Ln, Saco US-ME 43.48403, -70.38588","2026-04-14 15:35",43.484033,-70.385885,TRUE,FALSE,TRUE,"S321794827",14
+"5","whwsco2","White-winged Scoter","Melanitta deglandi","L35376835","348 Polpis Road, Nantucket, Massachusetts, US (41.292, -69.988)Caines Pond","2026-04-14 15:25",41.2916149,-69.9880864,TRUE,FALSE,TRUE,"S321736056",4
+"6","whwsco2","White-winged Scoter","Melanitta deglandi","L809637","Hoicks Hollow Rd.--Seawatch","2026-04-14 14:56",41.2909316,-69.9689627,TRUE,FALSE,FALSE,"S321724107",3
+"7","whwsco2","White-winged Scoter","Melanitta deglandi","L4099820","Siasconset--Baxter Rd. Erosion Control Project Viewpoint","2026-04-14 14:28",41.278763,-69.962622,TRUE,FALSE,FALSE,"S321717589",2
+"8","whwsco2","White-winged Scoter","Melanitta deglandi","L286501","Tillamook Bay--Barview Jetty","2026-04-14 14:12",45.56952,-123.949414,TRUE,FALSE,FALSE,"S321788162",1
+"9","whwsco2","White-winged Scoter","Melanitta deglandi","L10216546","Where Eagles Dare","2026-04-14 14:00",43.8710812,-86.438848,TRUE,FALSE,TRUE,"S321751377",1
+"10","whwsco2","White-winged Scoter","Melanitta deglandi","L8673993","ANP Seawall Picnic Area (44.237, -68.302)","2026-04-14 13:45",44.2373941,-68.3020202,TRUE,FALSE,TRUE,"S321699448",3
+"11","whwsco2","White-winged Scoter","Melanitta deglandi","L761455","Ferry Rock, Scarborough","2026-04-14 13:43",43.5410048,-70.3255248,TRUE,FALSE,FALSE,"S321736375",34
+"12","whwsco2","White-winged Scoter","Melanitta deglandi","L140043","Sachuest Point NWR","2026-04-14 13:35",41.4799232,-71.2431946,TRUE,FALSE,FALSE,"S321715699",2
+"13","whwsco2","White-winged Scoter","Melanitta deglandi","L687248","Nantucket Sound","2026-04-14 12:41",41.4663993,-70.1628113,TRUE,FALSE,FALSE,"S321692101",8
+"14","whwsco2","White-winged Scoter","Melanitta deglandi","L1059152","Atlantic Ave. Town Park","2026-04-14 11:35",40.9714727,-72.1234715,TRUE,FALSE,FALSE,"S321643375",7
+"15","whwsco2","White-winged Scoter","Melanitta deglandi","L129046","Parker River NWR","2026-04-14 11:26",42.7639008,-70.8022995,TRUE,FALSE,FALSE,"S321681523",2
+"16","whwsco2","White-winged Scoter","Melanitta deglandi","L521509","Revere Beach--Pink Apartments","2026-04-14 11:01",42.4205103,-70.9857291,TRUE,FALSE,FALSE,"S321690640",NA
+"17","whwsco2","White-winged Scoter","Melanitta deglandi","L2787879","Semiahmoo Resort","2026-04-14 10:56",48.9891449,-122.7741265,TRUE,FALSE,FALSE,"S321716272",50
+"18","whwsco2","White-winged Scoter","Melanitta deglandi","L633515","Nahant--Northern Shore","2026-04-14 10:49",42.4291112,-70.9194011,TRUE,FALSE,FALSE,"S321619249",NA
+"19","whwsco2","White-winged Scoter","Melanitta deglandi","L1096408","Seaside Cove","2026-04-14 10:47",45.9755964,-123.9397073,TRUE,FALSE,FALSE,"S321707530",15
+"20","whwsco2","White-winged Scoter","Melanitta deglandi","L47287334","Town Way","2026-04-14 10:38",41.540684,-71.204162,TRUE,FALSE,TRUE,"S321610129",1
+"21","whwsco2","White-winged Scoter","Melanitta deglandi","L293051","Braddock Bay--West Spit","2026-04-14 10:29",43.3191364,-77.7141094,TRUE,FALSE,FALSE,"S321756508",2
+"22","whwsco2","White-winged Scoter","Melanitta deglandi","L463418","Squantum--Nickerson Rock Park","2026-04-14 10:25",42.3037217,-71.0116768,TRUE,FALSE,FALSE,"S321640426",4
+"23","whwsco2","White-winged Scoter","Melanitta deglandi","L1676092","Rachel Carson NWR--Timber Point Trail","2026-04-14 10:23",43.4012099,-70.3969941,TRUE,FALSE,FALSE,"S321793422",2
+"24","whwsco2","White-winged Scoter","Melanitta deglandi","L469938","Manomet Point","2026-04-14 10:09",41.9264999,-70.5395651,TRUE,FALSE,FALSE,"S321632959",1
+"25","whwsco2","White-winged Scoter","Melanitta deglandi","L1022652","Ketchikan (general area)","2026-04-14 10:05",55.3427645,-131.6462517,TRUE,FALSE,FALSE,"S321816762",23
+"26","whwsco2","White-winged Scoter","Melanitta deglandi","L9607861","Great Neck","2026-04-14 09:28",42.7055551,-70.8043697,TRUE,FALSE,FALSE,"S321610929",4
+"27","whwsco2","White-winged Scoter","Melanitta deglandi","L44557933","Parker River National Wildlife Refuge, Newbury US-MA 42.73279, -70.78982","2026-04-14 09:27",42.732789,-70.789824,TRUE,FALSE,TRUE,"S321776285",2
+"28","whwsco2","White-winged Scoter","Melanitta deglandi","L37077282","Whale Cove","2026-04-14 09:11",42.6516836,-70.5976343,TRUE,FALSE,FALSE,"S321568754",2
+"29","whwsco2","White-winged Scoter","Melanitta deglandi","L265438","Three Crabs","2026-04-14 08:50",48.151945,-123.1222855,TRUE,FALSE,FALSE,"S321696883",80
+"30","whwsco2","White-winged Scoter","Melanitta deglandi","L28315303","Gully Point Cove","2026-04-14 08:14",42.6599376,-70.5990485,TRUE,FALSE,FALSE,"S321550512",2
+"31","whwsco2","White-winged Scoter","Melanitta deglandi","L474804","Sandy Neck","2026-04-14 08:07",41.7353901,-70.3512096,TRUE,FALSE,FALSE,"S321603032",27
+"32","whwsco2","White-winged Scoter","Melanitta deglandi","L479571","Wharton Point, Brunswick","2026-04-14 08:07",43.8675956,-69.9933701,TRUE,FALSE,FALSE,"S321560359",85
+"33","whwsco2","White-winged Scoter","Melanitta deglandi","L8043546","Wilson Short Pier","2026-04-14 07:35",43.3185368,-78.8259759,TRUE,FALSE,FALSE,"S321531228",7
+"34","whwsco2","White-winged Scoter","Melanitta deglandi","L38586376","Caddy Memorial Park","2026-04-14 07:30",42.2681346,-70.998408,TRUE,FALSE,FALSE,"S321515923",8
+"35","whwsco2","White-winged Scoter","Melanitta deglandi","L6000555","Ketchikan Ferry Terminal","2026-04-14 07:26",55.3543793,-131.6919565,TRUE,FALSE,FALSE,"S321704648",4
+"36","whwsco2","White-winged Scoter","Melanitta deglandi","L28666064","Our house, in the middle of our street…","2026-04-14 07:25",43.0125017,-79.022351,TRUE,FALSE,TRUE,"S321570053",3
+"37","whwsco2","White-winged Scoter","Melanitta deglandi","L280564","Sherwood Island State Park","2026-04-14 07:25",41.1157809,-73.3305955,TRUE,FALSE,FALSE,"S321637297",10
+"38","whwsco2","White-winged Scoter","Melanitta deglandi","L298675","Three Mile Bay WMA--Phillips Pt.","2026-04-14 06:15",43.2392316,-76.0503864,TRUE,FALSE,FALSE,"S321499159",2
+"39","whwsco2","White-winged Scoter","Melanitta deglandi","L62754992","Pomeroy pond amherst ma","2026-04-13 22:18",42.350968,-72.48149,TRUE,FALSE,TRUE,"S321415449",2
+"40","whwsco2","White-winged Scoter","Melanitta deglandi","L29884179","Auke Bay-Yard and Point","2026-04-13 18:10",58.362498,-134.64417,TRUE,FALSE,TRUE,"S321428262",2
+"41","whwsco2","White-winged Scoter","Melanitta deglandi","L1121614","Kodiak Is.--Middle Bay (NW)","2026-04-13 17:30",57.6592909,-152.5080007,TRUE,FALSE,FALSE,"S321665127",4
+"42","whwsco2","White-winged Scoter","Melanitta deglandi","L62814388","Van Rippers Dock, Sekiu","2026-04-13 16:59",48.262606,-124.300879,TRUE,FALSE,TRUE,"S321739426",6
+"43","whwsco2","White-winged Scoter","Melanitta deglandi","L661970","Kodiak Is.--Fort Abercrombie State Historical Park","2026-04-13 16:58",57.8326893,-152.3559093,TRUE,FALSE,FALSE,"S321414181",1
+"44","whwsco2","White-winged Scoter","Melanitta deglandi","L272612","Blaine Marine Park","2026-04-13 16:30",48.9950387,-122.7580957,TRUE,FALSE,FALSE,"S321398818",NA
+"45","whwsco2","White-winged Scoter","Melanitta deglandi","L17001312","Fishermans Cove","2026-04-13 15:53",43.2910575,-70.5706629,TRUE,FALSE,FALSE,"S321390811",5
+"46","whwsco2","White-winged Scoter","Melanitta deglandi","L193141","Sandwich Marina","2026-04-13 14:40",41.7736623,-70.4996526,TRUE,FALSE,FALSE,"S321295894",3
+"47","whwsco2","White-winged Scoter","Melanitta deglandi","L455897","Gooseberry Neck","2026-04-13 14:03",41.4869773,-71.0375977,TRUE,FALSE,FALSE,"S321294713",2
+"48","whwsco2","White-winged Scoter","Melanitta deglandi","L129037","Newburyport Harbor","2026-04-13 13:55",42.8116989,-70.839798,TRUE,FALSE,FALSE,"S321401101",5
+"49","whwsco2","White-winged Scoter","Melanitta deglandi","L167326","Biddeford Pool--East Point Sanctuary","2026-04-13 13:54",43.4470928,-70.3369403,TRUE,FALSE,FALSE,"S321391525",4
+"50","whwsco2","White-winged Scoter","Melanitta deglandi","L1498816","Boulevard Park, Bellingham","2026-04-13 13:51",48.731747,-122.5035768,TRUE,FALSE,FALSE,"S321318917",7
+"51","whwsco2","White-winged Scoter","Melanitta deglandi","L36680810","201–299 Bay View Ave, Neah Bay US-WA 48.36853, -124.62457","2026-04-13 13:44",48.36853,-124.624574,TRUE,FALSE,TRUE,"S321317854",12
+"52","whwsco2","White-winged Scoter","Melanitta deglandi","L616731","Coskata-Coatue Wildlife Refuge--Coskata Pond","2026-04-13 13:43",41.3512345,-70.0145817,TRUE,FALSE,FALSE,"S321341671",5
+"53","whwsco2","White-winged Scoter","Melanitta deglandi","L198202","Auke Recreation Area--Pt. Louisa","2026-04-13 13:32",58.3729854,-134.7267151,TRUE,FALSE,FALSE,"S321342736",35
+"54","whwsco2","White-winged Scoter","Melanitta deglandi","L589021","Bay City Oyster Company","2026-04-13 13:24",45.5239689,-123.8946891,TRUE,FALSE,FALSE,"S321311204",2
+"55","whwsco2","White-winged Scoter","Melanitta deglandi","L557007","Cape Hatteras NS--Salt Pond","2026-04-13 13:14",35.2300561,-75.5322504,TRUE,FALSE,FALSE,"S321307485",2
+"56","whwsco2","White-winged Scoter","Melanitta deglandi","L773216","Fort Ebey State Park","2026-04-13 12:22",48.2216991,-122.7631187,TRUE,FALSE,FALSE,"S321310387",3
+"57","whwsco2","White-winged Scoter","Melanitta deglandi","L6743152","Swartz Bay-Tswassen Ferry (WA water portion)","2026-04-13 12:14",48.9707523,-123.1677675,TRUE,FALSE,FALSE,"S321305860",35
+"58","whwsco2","White-winged Scoter","Melanitta deglandi","L742878","Siuslaw River--South Jetty (jetty only)","2026-04-13 12:10",44.0155337,-124.1370106,TRUE,FALSE,FALSE,"S321407782",3
+"59","whwsco2","White-winged Scoter","Melanitta deglandi","L1169563","Pine Point Beach--Ave. 5","2026-04-13 12:05",43.5406589,-70.3370583,TRUE,FALSE,FALSE,"S321390583",100
+"60","whwsco2","White-winged Scoter","Melanitta deglandi","L372995","Marconi Beach","2026-04-13 12:02",41.8910966,-69.9643707,TRUE,FALSE,FALSE,"S321236286",11
+"61","whwsco2","White-winged Scoter","Melanitta deglandi","L210266","Wilson-Tuscarora SP","2026-04-13 11:45",43.3072398,-78.8548868,TRUE,FALSE,FALSE,"S321251322",2
+"62","whwsco2","White-winged Scoter","Melanitta deglandi","L2607055","Seal Rock--Pullouts south on Hwy. 101","2026-04-13 10:32",44.4917808,-124.0837605,TRUE,FALSE,FALSE,"S321245555",1
+"63","whwsco2","White-winged Scoter","Melanitta deglandi","L514035","Winthrop Beach and Five Sisters","2026-04-13 10:18",42.3747938,-70.9681878,TRUE,FALSE,FALSE,"S321189326",1
+"64","whwsco2","White-winged Scoter","Melanitta deglandi","L611064","Stratford Point, CT Audubon","2026-04-13 10:00",41.1533577,-73.1033278,TRUE,FALSE,FALSE,"S321159089",1
+"65","whwsco2","White-winged Scoter","Melanitta deglandi","L353732","Scarborough Marsh--Pine Point","2026-04-13 09:58",43.5445303,-70.3331662,TRUE,FALSE,FALSE,"S321149369",81
+"66","whwsco2","White-winged Scoter","Melanitta deglandi","L62756774","Océan Pacifique nord US-WA (48.9984,-123.1049)","2026-04-13 09:48",48.998386,-123.104865,TRUE,FALSE,TRUE,"S321422911",23
+"67","whwsco2","White-winged Scoter","Melanitta deglandi","L731311","East Beach, Charlestown","2026-04-13 09:46",41.3485928,-71.6697192,TRUE,FALSE,FALSE,"S321308095",30
+"68","whwsco2","White-winged Scoter","Melanitta deglandi","L1099600","First St. pier","2026-04-13 08:43",44.2476584,-86.3456726,TRUE,FALSE,FALSE,"S321118382",1
+"69","whwsco2","White-winged Scoter","Melanitta deglandi","L1358358","Orient Point to New London Ferry (NY side)","2026-04-13 08:34",41.204437,-72.1976242,TRUE,FALSE,FALSE,"S321128465",1
+"70","whwsco2","White-winged Scoter","Melanitta deglandi","L480147","Burying Hill Beach","2026-04-13 07:21",41.1157344,-73.3192134,TRUE,FALSE,FALSE,"S321212495",22
+"71","whwsco2","White-winged Scoter","Melanitta deglandi","L5717718","913C Sandy Beach Rd","2026-04-13 06:45",56.8081911,-132.9177361,TRUE,FALSE,TRUE,"S321232370",2
+"72","whwsco2","White-winged Scoter","Melanitta deglandi","L12132844","Graham Point","2026-04-13 06:40",45.8493661,-84.705258,TRUE,FALSE,FALSE,"S321488973",10
+"73","whwsco2","White-winged Scoter","Melanitta deglandi","L830335","Plum Island (please use more refined location)","2026-04-13 06:20",42.7987508,-70.8114526,TRUE,FALSE,FALSE,"S321397492",6
+"74","whwsco2","White-winged Scoter","Melanitta deglandi","L2209317","Jamestown Beach","2026-04-12 17:55",48.1256532,-123.0824089,TRUE,FALSE,FALSE,"S320968097",12
+"75","whwsco2","White-winged Scoter","Melanitta deglandi","L336669","Lily Point, Point Roberts","2026-04-12 17:15",48.9762993,-123.0242163,TRUE,FALSE,FALSE,"S320966370",12
+"76","whwsco2","White-winged Scoter","Melanitta deglandi","L199273","Semiahmoo Spit","2026-04-12 16:41",48.9800492,-122.7883112,TRUE,FALSE,FALSE,"S321149819",2
+"77","whwsco2","White-winged Scoter","Melanitta deglandi","L1819576","Port Townsend -- North Beach","2026-04-12 16:24",48.1426097,-122.7820954,TRUE,FALSE,FALSE,"S320944463",2
+"78","whwsco2","White-winged Scoter","Melanitta deglandi","L447860","Nahant--East Point","2026-04-12 16:13",42.4184842,-70.9043393,TRUE,FALSE,FALSE,"S320981247",6
+"79","whwsco2","White-winged Scoter","Melanitta deglandi","L5643639","Kingston Point Beach","2026-04-12 15:36",41.9300672,-73.9652988,TRUE,FALSE,FALSE,"S320842453",1
+"80","whwsco2","White-winged Scoter","Melanitta deglandi","L2281032","Glacier Bay NP--Tlinget Trail","2026-04-12 15:15",58.4553433,-135.8739281,TRUE,FALSE,FALSE,"S320960395",15
+"81","whwsco2","White-winged Scoter","Melanitta deglandi","L336663","Lighthouse Marine Park, Point Roberts","2026-04-12 15:12",48.9722422,-123.0836705,TRUE,FALSE,FALSE,"S320944429",1
+"82","whwsco2","White-winged Scoter","Melanitta deglandi","L2600100","West Beach, Beverly","2026-04-12 15:08",42.5611864,-70.8047444,TRUE,FALSE,FALSE,"S320841155",4
+"83","whwsco2","White-winged Scoter","Melanitta deglandi","L1826245","Anderson Lake/Moody Lake","2026-04-12 14:50",45.1106902,-88.4188235,TRUE,FALSE,TRUE,"S320849072",1
+"84","whwsco2","White-winged Scoter","Melanitta deglandi","L138043","Goldsmiths Inlet","2026-04-12 14:25",41.0541647,-72.4740449,TRUE,FALSE,FALSE,"S320868150",2
+"85","whwsco2","White-winged Scoter","Melanitta deglandi","L469984","Kendall-Frost Marsh Reserve","2026-04-12 14:07",32.7921946,-117.2309709,TRUE,TRUE,FALSE,"S320956373",1
+"86","whwsco2","White-winged Scoter","Melanitta deglandi","L210265","Fort Niagara SP","2026-04-12 14:04",43.2638703,-79.0567981,TRUE,FALSE,FALSE,"S320806176",65
+"87","whwsco2","White-winged Scoter","Melanitta deglandi","L256061","Braddock Bay--East Spit","2026-04-12 14:02",43.3107525,-77.7073288,TRUE,FALSE,FALSE,"S320808269",4
+"88","whwsco2","White-winged Scoter","Melanitta deglandi","L59559817","Bay City Baywatch (private residence)","2026-04-12 13:41",45.5203675,-123.8870872,TRUE,FALSE,TRUE,"S320927897",2
+"89","whwsco2","White-winged Scoter","Melanitta deglandi","L1039312","Coskata-Coatue Wildlife Refuge","2026-04-12 13:26",41.3497526,-70.0229073,TRUE,FALSE,FALSE,"S320889435",12
+"90","whwsco2","White-winged Scoter","Melanitta deglandi","L835192","Orient Point County Park","2026-04-12 13:11",41.1597479,-72.2347641,TRUE,FALSE,FALSE,"S320804553",1
+"91","whwsco2","White-winged Scoter","Melanitta deglandi","L3087424","Shinnecock Inlet, west","2026-04-12 13:07",40.8421473,-72.4781388,TRUE,FALSE,FALSE,"S320895629",1
+"92","whwsco2","White-winged Scoter","Melanitta deglandi","L207396","Nahant--General Area","2026-04-12 13:00",42.4269046,-70.9223447,TRUE,FALSE,FALSE,"S320890062",4
+"93","whwsco2","White-winged Scoter","Melanitta deglandi","L1129599","Kodiak Is.--Mayflower Beach (outer Kalsin Bay)","2026-04-12 12:57",57.6480704,-152.4404955,TRUE,FALSE,FALSE,"S320939886",5
+"94","whwsco2","White-winged Scoter","Melanitta deglandi","L15873803","Anchor River SRA--parking lot","2026-04-12 12:57",59.77403,-151.86679,TRUE,FALSE,FALSE,"S320988881",20
+"95","whwsco2","White-winged Scoter","Melanitta deglandi","L767320","Anchor Point","2026-04-12 12:57",59.77791,-151.86355,TRUE,FALSE,FALSE,"S320988880",20
+"96","whwsco2","White-winged Scoter","Melanitta deglandi","L2181721","Breitbeck Park","2026-04-12 12:56",43.4618906,-76.5238523,TRUE,FALSE,FALSE,"S320765308",5
+"97","whwsco2","White-winged Scoter","Melanitta deglandi","L14437734","Ocean Shores--Marine View Drive, East End","2026-04-12 12:40",46.9470457,-124.1387247,TRUE,FALSE,FALSE,"S320882785",1
+"98","whwsco2","White-winged Scoter","Melanitta deglandi","L62645924","302 First St, Langley US-WA 48.04093, -122.40935","2026-04-12 12:37",48.040928,-122.409348,TRUE,FALSE,TRUE,"S320845028",2
+"99","whwsco2","White-winged Scoter","Melanitta deglandi","L8111299","Beach at Kiniski's Reef Tavern, Point Roberts","2026-04-12 12:30",48.9842999,-123.0841769,TRUE,FALSE,FALSE,"S320986150",60
+"100","whwsco2","White-winged Scoter","Melanitta deglandi","L62658764","Gulf of Maine (42.3650,-70.3440)","2026-04-12 12:27",42.364998,-70.343994,TRUE,FALSE,TRUE,"S320905639",250
+"101","whwsco2","White-winged Scoter","Melanitta deglandi","L18365289","Empire Beach","2026-04-12 12:10",44.8119852,-86.0682262,TRUE,FALSE,FALSE,"S320727454",1
+"102","whwsco2","White-winged Scoter","Melanitta deglandi","L444828","Parker River NWR--Emerson Rocks","2026-04-12 11:55",42.7073561,-70.7721689,TRUE,FALSE,FALSE,"S320734395",2
+"103","whwsco2","White-winged Scoter","Melanitta deglandi","L192938","Four Mile Creek SP","2026-04-12 11:48",43.2757378,-78.9981006,TRUE,FALSE,FALSE,"S320782265",47
+"104","whwsco2","White-winged Scoter","Melanitta deglandi","L62658993","Gulf of Maine US (42.2166,-70.2509)","2026-04-12 11:35",42.216592,-70.250891,TRUE,FALSE,TRUE,"S320906864",150
+"105","whwsco2","White-winged Scoter","Melanitta deglandi","L15033643","American Camp--Old Town Lagoon","2026-04-12 11:19",48.4669019,-123.0020387,TRUE,FALSE,FALSE,"S320824124",50
+"106","whwsco2","White-winged Scoter","Melanitta deglandi","L36139435","Strait of Juan de Fuca--Salmon Bank","2026-04-12 11:17",48.4174754,-122.9789329,TRUE,FALSE,FALSE,"S320802229",2
+"107","whwsco2","White-winged Scoter","Melanitta deglandi","L637314","Black's Creek Mouth","2026-04-12 11:13",42.2668294,-70.9961629,TRUE,FALSE,FALSE,"S320693980",6
+"108","whwsco2","White-winged Scoter","Melanitta deglandi","L263739","Good Harbor Bay Trail","2026-04-12 11:01",44.9368361,-85.8574031,TRUE,FALSE,FALSE,"S320671418",2
+"109","whwsco2","White-winged Scoter","Melanitta deglandi","L9101479","Heaton Cabin","2026-04-12 11:00",48.5753285,-122.5168981,TRUE,FALSE,TRUE,"S320861335",50
+"110","whwsco2","White-winged Scoter","Melanitta deglandi","L834922","Cedar Beach, Town of Brookhaven","2026-04-12 10:51",40.9648162,-73.039813,TRUE,FALSE,FALSE,"S320697216",1
+"111","whwsco2","White-winged Scoter","Melanitta deglandi","L761341","Pine Point Beach--Jetty","2026-04-12 10:48",43.5404355,-70.3284806,TRUE,FALSE,FALSE,"S320671648",40
+"112","whwsco2","White-winged Scoter","Melanitta deglandi","L271497","Humboldt Bay--King Salmon","2026-04-12 10:44",40.740336,-124.218596,TRUE,FALSE,FALSE,"S320932390",3
+"113","whwsco2","White-winged Scoter","Melanitta deglandi","L12908343","Bunny HQ","2026-04-12 10:38",44.3995323,-68.4317398,TRUE,FALSE,TRUE,"S320710066",22
+"114","whwsco2","White-winged Scoter","Melanitta deglandi","L129084","Sandy Point State Reservation","2026-04-12 10:34",42.702006,-70.777711,TRUE,FALSE,FALSE,"S320677458",3
+"115","whwsco2","White-winged Scoter","Melanitta deglandi","L1307247","Provincetown Harbor","2026-04-12 10:12",42.0476822,-70.1639271,TRUE,FALSE,FALSE,"S320907224",3
+"116","whwsco2","White-winged Scoter","Melanitta deglandi","L7764922","Ecola SP--Indian Beach","2026-04-12 10:05",45.928339,-123.978472,TRUE,FALSE,FALSE,"S320771559",4
+"117","whwsco2","White-winged Scoter","Melanitta deglandi","L11051615","West side Dungeness River delta and mudflats","2026-04-12 09:57",48.153185,-123.13476,TRUE,FALSE,TRUE,"S320837382",70
+"118","whwsco2","White-winged Scoter","Melanitta deglandi","L233763","Ebey's Landing","2026-04-12 09:54",48.19475,-122.71165,TRUE,FALSE,FALSE,"S320973018",1
+"119","whwsco2","White-winged Scoter","Melanitta deglandi","L129057","Plum Island--North End","2026-04-12 09:31",42.8165016,-70.8199005,TRUE,FALSE,FALSE,"S320915199",50
+"120","whwsco2","White-winged Scoter","Melanitta deglandi","L44144420","Shoreline Walk","2026-04-12 09:23",58.450026,-135.898922,TRUE,FALSE,TRUE,"S320845862",15
+"121","whwsco2","White-winged Scoter","Melanitta deglandi","L902224","Cordova--Harbor Breakwater Trail","2026-04-12 09:15",60.5422979,-145.7679749,TRUE,FALSE,FALSE,"S320783721",3
+"122","whwsco2","White-winged Scoter","Melanitta deglandi","L140226","Nimisila Reservoir","2026-04-12 09:11",40.9411388,-81.5281134,TRUE,FALSE,FALSE,"S320584352",1
+"123","whwsco2","White-winged Scoter","Melanitta deglandi","L781318","Gustavus--Forelands","2026-04-12 09:08",58.4121436,-135.724411,TRUE,FALSE,FALSE,"S320917155",25
+"124","whwsco2","White-winged Scoter","Melanitta deglandi","L782141","Gustavus--Forelands Preserve (Salmon River)","2026-04-12 09:02",58.3996429,-135.7380581,TRUE,FALSE,FALSE,"S320908629",NA
+"125","whwsco2","White-winged Scoter","Melanitta deglandi","L19837311","Race Lagoon, north","2026-04-12 09:00",48.19443,-122.601171,TRUE,FALSE,TRUE,"S320821652",3
+"126","whwsco2","White-winged Scoter","Melanitta deglandi","L279864","Sunken Meadow SP","2026-04-12 08:45",40.911701,-73.2578964,TRUE,FALSE,FALSE,"S320776056",1
+"127","whwsco2","White-winged Scoter","Melanitta deglandi","L3344832","Montauk Point, north lookout","2026-04-12 08:43",41.073265,-71.859464,TRUE,FALSE,FALSE,"S320654373",8
+"128","whwsco2","White-winged Scoter","Melanitta deglandi","L1305695","Wilson Pier","2026-04-12 08:38",43.3175398,-78.8350582,TRUE,FALSE,FALSE,"S320573046",20
+"129","whwsco2","White-winged Scoter","Melanitta deglandi","L297675","Leo Carrillo SP--seawatch","2026-04-12 08:26",34.0447061,-118.9378058,TRUE,TRUE,FALSE,"S320977578",1
+"130","whwsco2","White-winged Scoter","Melanitta deglandi","L737088","Stellwagen Bank--Race Point Waters","2026-04-12 08:26",42.0745904,-70.264821,TRUE,FALSE,FALSE,"S320909103",5
+"131","whwsco2","White-winged Scoter","Melanitta deglandi","L23588716","Worlds End (TTOR)--Damde Meadows Tidal Marsh","2026-04-12 08:11",42.2584447,-70.8740044,TRUE,FALSE,FALSE,"S320686164",2
+"132","whwsco2","White-winged Scoter","Melanitta deglandi","L2180307","West Twin River mouth","2026-04-12 08:07",48.1655416,-123.9493847,TRUE,FALSE,FALSE,"S320989765",6
+"133","whwsco2","White-winged Scoter","Melanitta deglandi","L467584","Herring Cove Beach","2026-04-12 08:05",42.0461217,-70.2185583,TRUE,FALSE,FALSE,"S321250015",14
+"134","whwsco2","White-winged Scoter","Melanitta deglandi","L140447","World's End (TTOR), Hingham","2026-04-12 08:04",42.2713013,-70.8806992,TRUE,FALSE,FALSE,"S320702771",8
+"135","whwsco2","White-winged Scoter","Melanitta deglandi","L734464","Little Harbor and Sandy Beach, Cohasset","2026-04-12 08:03",42.2557766,-70.8008766,TRUE,FALSE,FALSE,"S320574278",2
+"136","whwsco2","White-winged Scoter","Melanitta deglandi","L27522416","Oak Orchard River Road","2026-04-12 08:02",43.2998777,-78.3172979,TRUE,FALSE,TRUE,"S320757912",4
+"137","whwsco2","White-winged Scoter","Melanitta deglandi","L444827","Parker River NWR--Lot 1","2026-04-12 08:00",42.7897793,-70.8091271,TRUE,FALSE,FALSE,"S320690388",3
+"138","whwsco2","White-winged Scoter","Melanitta deglandi","L62171954","Seaview Beach, Madison, Connecticut, US (41.273, -72.583)","2026-04-12 07:50",41.2725487,-72.58292,TRUE,FALSE,TRUE,"S320540607",1
+"139","whwsco2","White-winged Scoter","Melanitta deglandi","L718378","Chincoteague NWR* (general area)","2026-04-12 07:45",37.9106228,-75.3479719,TRUE,FALSE,FALSE,"S320839886",2
+"140","whwsco2","White-winged Scoter","Melanitta deglandi","L215343","Napatree Point","2026-04-12 07:44",41.3103371,-71.8743918,TRUE,FALSE,FALSE,"S320654071",4
+"141","whwsco2","White-winged Scoter","Melanitta deglandi","L16377237","707a Sandy Beach Road, Petersburg, Alaska, US (56.814, -132.923)","2026-04-12 07:42",56.8135211,-132.9230616,TRUE,FALSE,TRUE,"S320805392",1
+"142","whwsco2","White-winged Scoter","Melanitta deglandi","L619821","Edith G. Read Wildlife Sanctuary & Rye Playland (incl. Playland Lake)","2026-04-12 07:30",40.9707879,-73.6697482,TRUE,FALSE,FALSE,"S320821579",5
+"143","whwsco2","White-winged Scoter","Melanitta deglandi","L62659577","Gulf of Maine (42.3005,-70.2885)","2026-04-12 07:17",42.300466,-70.288542,TRUE,FALSE,TRUE,"S320909659",80
+"144","whwsco2","White-winged Scoter","Melanitta deglandi","L713110","Island Road, Essex","2026-04-12 06:53",42.6552337,-70.7843021,TRUE,FALSE,FALSE,"S320626409",2
+"145","whwsco2","White-winged Scoter","Melanitta deglandi","L571490","Discovery Park--West Point","2026-04-12 06:34",47.6618703,-122.4355298,TRUE,FALSE,FALSE,"S320750539",5
+"146","whwsco2","White-winged Scoter","Melanitta deglandi","L17764728","Black Rock Beach (Norfolk Co.)","2026-04-12 06:23",42.263822,-70.8245027,TRUE,FALSE,FALSE,"S320538327",7
+"147","whwsco2","White-winged Scoter","Melanitta deglandi","L128530","Discovery Park","2026-04-12 06:22",47.663868,-122.4215317,TRUE,FALSE,FALSE,"S321287901",8
+"148","whwsco2","White-winged Scoter","Melanitta deglandi","L23582153","13445 Glacier Hwy, Ferry Terminal Juneau US-AK 58.38209, -134.68767","2026-04-12 05:55",58.382091,-134.68767,TRUE,FALSE,TRUE,"S320735211",20
+"149","whwsco2","White-winged Scoter","Melanitta deglandi","L364733","Race Point","2026-04-12 05:50",42.0691855,-70.2381706,TRUE,FALSE,FALSE,"S320929943",40
+"150","whwsco2","White-winged Scoter","Melanitta deglandi","L5762284","Unalaska--Captain's Bay","2026-04-12 01:11",53.8650189,-166.5745354,TRUE,FALSE,FALSE,"S320967490",33
+"151","whwsco2","White-winged Scoter","Melanitta deglandi","L576379","Holland SP","2026-04-11 23:00",42.7753544,-86.2095236,TRUE,FALSE,FALSE,"S320402296",1
+"152","whwsco2","White-winged Scoter","Melanitta deglandi","L453703","Revere Beach--South End","2026-04-11 19:21",42.4022912,-70.9894466,TRUE,FALSE,FALSE,"S320354138",4
+"153","whwsco2","White-winged Scoter","Melanitta deglandi","L200597","LaDue Reservoir","2026-04-11 19:04",41.3921905,-81.2050013,TRUE,FALSE,FALSE,"S320365429",2
+"154","whwsco2","White-winged Scoter","Melanitta deglandi","L1458076","Fortunes Rocks--Beach and Ponds","2026-04-11 18:13",43.4287166,-70.3761886,TRUE,FALSE,FALSE,"S320329776",20
+"155","whwsco2","White-winged Scoter","Melanitta deglandi","L828590","Dungeness Landing Park/Oyster House","2026-04-11 18:05",48.1514639,-123.143456,TRUE,FALSE,FALSE,"S320411721",50
+"156","whwsco2","White-winged Scoter","Melanitta deglandi","L282743","Castle Rock","2026-04-11 17:50",42.4993118,-70.8340903,TRUE,FALSE,FALSE,"S320389962",3
+"157","whwsco2","White-winged Scoter","Melanitta deglandi","L1353392","Cline Spit","2026-04-11 17:33",48.1519101,-123.1518205,TRUE,FALSE,FALSE,"S320421218",10
+"158","whwsco2","White-winged Scoter","Melanitta deglandi","L129778","Yellow Creek SP (IBA)","2026-04-11 17:10",40.5739352,-79.0204525,TRUE,TRUE,FALSE,"S320375694",2
+"159","whwsco2","White-winged Scoter","Melanitta deglandi","L6801484","Kodiak Is.--Spruce Cape","2026-04-11 17:02",57.8219561,-152.329289,TRUE,FALSE,FALSE,"S320396062",12
+"160","whwsco2","White-winged Scoter","Melanitta deglandi","L53073523","Captains Bay Rd, Unalaska US-AK 53.87164, -166.54338","2026-04-11 16:24",53.871643,-166.543375,TRUE,FALSE,TRUE,"S320400232",7
+"161","whwsco2","White-winged Scoter","Melanitta deglandi","L823474","Red River Beach","2026-04-11 15:49",41.6680873,-70.039537,TRUE,FALSE,FALSE,"S320335446",1
+"162","whwsco2","White-winged Scoter","Melanitta deglandi","L302743","Protection Island","2026-04-11 15:44",48.1275273,-122.9284031,TRUE,FALSE,FALSE,"S320343336",NA
+"163","whwsco2","White-winged Scoter","Melanitta deglandi","L231740","Beavertail State Park","2026-04-11 15:08",41.4500329,-71.3990868,TRUE,FALSE,FALSE,"S320261501",1
+"164","whwsco2","White-winged Scoter","Melanitta deglandi","L5070181","Gustavus--ferry dock","2026-04-11 15:08",58.3901089,-135.7296596,TRUE,FALSE,FALSE,"S320397141",43
+"165","whwsco2","White-winged Scoter","Melanitta deglandi","L4755023","Valdez--Solomon Gulch Hatchery","2026-04-11 14:49",61.0837297,-146.3062651,TRUE,FALSE,FALSE,"S320400435",2
+"166","whwsco2","White-winged Scoter","Melanitta deglandi","L4012607","Old Silver Beach, Falmouth","2026-04-11 14:36",41.6255962,-70.6399012,TRUE,FALSE,FALSE,"S320281084",1
+"167","whwsco2","White-winged Scoter","Melanitta deglandi","L1787103","Kiamesha Lake","2026-04-11 13:47",41.6720017,-74.6661486,TRUE,FALSE,FALSE,"S321102405",1
+"168","whwsco2","White-winged Scoter","Melanitta deglandi","L667384","Manitou Beach, Ontario Blvd.","2026-04-11 13:44",43.3241521,-77.7162155,TRUE,FALSE,FALSE,"S320232266",12
+"169","whwsco2","White-winged Scoter","Melanitta deglandi","L62514530","Wawatam Park","2026-04-11 13:25",45.783069,-84.723412,TRUE,FALSE,TRUE,"S320220151",8
+"170","whwsco2","White-winged Scoter","Melanitta deglandi","L384800","High Bluff Overlook","2026-04-11 13:20",41.5093165,-124.0792251,TRUE,FALSE,FALSE,"S320313379",3
+"171","whwsco2","White-winged Scoter","Melanitta deglandi","L159714","Manitowoc Impoundment","2026-04-11 13:13",44.1001088,-87.6486295,TRUE,FALSE,FALSE,"S320249707",1
+"172","whwsco2","White-winged Scoter","Melanitta deglandi","L608334","Point Hudson","2026-04-11 13:00",48.117861,-122.7494931,TRUE,FALSE,FALSE,"S320758481",10
+"173","whwsco2","White-winged Scoter","Melanitta deglandi","L8849057","Kingston Point Rail Trail, Trolley Section","2026-04-11 12:37",41.9247768,-73.9631805,TRUE,FALSE,FALSE,"S320249569",4
+"174","whwsco2","White-winged Scoter","Melanitta deglandi","L26660336","Arverne East Nature Preserve","2026-04-11 12:26",40.591905,-73.7773538,TRUE,FALSE,FALSE,"S321108648",1
+"175","whwsco2","White-winged Scoter","Melanitta deglandi","L62508155","1950 Hoffman Road, LEOs Cove,US (40.568, -79.04)","2026-04-11 12:20",40.568201,-79.0404633,TRUE,TRUE,TRUE,"S320192968",4
+"176","whwsco2","White-winged Scoter","Melanitta deglandi","L4899414","Adam T. Bower Memorial Dam (Northumberland Co.)","2026-04-11 11:32",40.849573,-76.8069863,TRUE,TRUE,FALSE,"S320141342",2
+"177","whwsco2","White-winged Scoter","Melanitta deglandi","L458871","Braddock Bay--South Marina","2026-04-11 11:25",43.3060838,-77.7083373,TRUE,FALSE,FALSE,"S320187566",8
+"178","whwsco2","White-winged Scoter","Melanitta deglandi","L820722","Homer Spit--Lands End","2026-04-11 11:25",59.6003137,-151.408596,TRUE,FALSE,FALSE,"S321442238",2
+"179","whwsco2","White-winged Scoter","Melanitta deglandi","L131149","Irondequoit Bay outlet: pier, beach and boat ramp","2026-04-11 11:24",43.2345314,-77.5347137,TRUE,FALSE,FALSE,"S320161012",1
+"180","whwsco2","White-winged Scoter","Melanitta deglandi","L8534417","Rhinecliff Landing Park","2026-04-11 11:00",41.9200315,-73.9530906,TRUE,FALSE,FALSE,"S320152884",2
+"181","whwsco2","White-winged Scoter","Melanitta deglandi","L1371379","Sleeping Bear Dunes NL--Glen Haven","2026-04-11 10:35",44.9041498,-86.0257612,TRUE,FALSE,FALSE,"S320121280",3
+"182","whwsco2","White-winged Scoter","Melanitta deglandi","L43601583","North Pacific Ocean, Juneau US-AK 58.36195, -134.80800","2026-04-11 10:31",58.361954,-134.807999,TRUE,FALSE,TRUE,"S320350055",14
+"183","whwsco2","White-winged Scoter","Melanitta deglandi","L694889","Kodiak Is.--Womens Bay-Head","2026-04-11 10:15",57.7059242,-152.5714839,TRUE,FALSE,FALSE,"S320417221",3
+"184","whwsco2","White-winged Scoter","Melanitta deglandi","L27356525","Homer Spit--Seafarer’s Memorial","2026-04-11 10:10",59.600645,-151.418964,TRUE,FALSE,TRUE,"S321442291",2
+"185","whwsco2","White-winged Scoter","Melanitta deglandi","L4313747","Lyre Conservation Area","2026-04-11 10:09",48.1501769,-123.8257748,TRUE,FALSE,FALSE,"S320290867",8
+"186","whwsco2","White-winged Scoter","Melanitta deglandi","L62526807","2745 Alaska 1, Homer, Alaska, US (59.622, -151.465) Louie's Lagoon","2026-04-11 10:05",59.6222634,-151.464929,TRUE,FALSE,TRUE,"S320271859",6
+"187","whwsco2","White-winged Scoter","Melanitta deglandi","L1099694","Homer Spit--Green Timbers and Louie's Lagoon","2026-04-11 10:05",59.6249745,-151.4695358,TRUE,FALSE,FALSE,"S320874367",6
+"188","whwsco2","White-winged Scoter","Melanitta deglandi","L35333051","Yellow Creek State Park, Waterfowl Observatory Trail","2026-04-11 10:04",40.572525,-79.024827,TRUE,TRUE,TRUE,"S320140410",4
+"189","whwsco2","White-winged Scoter","Melanitta deglandi","L14618116","99556, Anchor Point US-AK 59.78228, -151.85916","2026-04-11 10:04",59.782278,-151.859163,TRUE,FALSE,TRUE,"S320390269",5
+"190","whwsco2","White-winged Scoter","Melanitta deglandi","L9316226","Beluga Slough","2026-04-11 10:00",59.6364063,-151.5334961,TRUE,FALSE,TRUE,"S320273852",1
+"191","whwsco2","White-winged Scoter","Melanitta deglandi","L62606484","Seaside Beach","2026-04-11 10:00",45.99255,-123.928491,TRUE,FALSE,TRUE,"S320663917",8
+"192","whwsco2","White-winged Scoter","Melanitta deglandi","L788284","Beluga Slough and Bishops Beach","2026-04-11 10:00",59.63798,-151.53623,TRUE,FALSE,FALSE,"S320404544",1
+"193","whwsco2","White-winged Scoter","Melanitta deglandi","L2488587","Siletz Bay Park","2026-04-11 09:56",44.9268117,-124.0142512,TRUE,FALSE,FALSE,"S320178119",1
+"194","whwsco2","White-winged Scoter","Melanitta deglandi","L594861","Shinnecock Bay","2026-04-11 09:50",40.8629007,-72.4567223,TRUE,FALSE,FALSE,"S320180537",1
+"195","whwsco2","White-winged Scoter","Melanitta deglandi","L489376","Race Point Beach, Provincetown","2026-04-11 09:47",42.0782217,-70.2263891,TRUE,FALSE,FALSE,"S320123505",2
+"196","whwsco2","White-winged Scoter","Melanitta deglandi","L17868894","Four Tree Island, Portsmouth","2026-04-11 09:45",43.076651,-70.747939,TRUE,FALSE,FALSE,"S321129192",1
+"197","whwsco2","White-winged Scoter","Melanitta deglandi","L6352397","Seldovia Bay & Hoen's Lagoon (W side Bay entrance)","2026-04-11 09:28",59.428553,-151.728487,TRUE,FALSE,FALSE,"S320268870",2
+"198","whwsco2","White-winged Scoter","Melanitta deglandi","L453702","Revere Beach--Point of Pines","2026-04-11 09:27",42.4408143,-70.9601784,TRUE,FALSE,FALSE,"S320060968",12
+"199","whwsco2","White-winged Scoter","Melanitta deglandi","L298379","Hammonasset Beach SP","2026-04-11 09:16",41.2619859,-72.5548234,TRUE,FALSE,FALSE,"S320108998",2
+"200","whwsco2","White-winged Scoter","Melanitta deglandi","L197353","Sandy Hook","2026-04-11 09:01",40.4392518,-73.9869263,TRUE,FALSE,FALSE,"S320244658",1
+"201","whwsco2","White-winged Scoter","Melanitta deglandi","L2292572","Homer Spit--Mariner Park Campground","2026-04-11 09:00",59.6321457,-151.4953279,TRUE,FALSE,FALSE,"S320208275",36
+"202","whwsco2","White-winged Scoter","Melanitta deglandi","L621284","Squantum--Squantum Point Park","2026-04-11 09:00",42.2999604,-71.0365033,TRUE,FALSE,FALSE,"S320279553",2
+"203","whwsco2","White-winged Scoter","Melanitta deglandi","L27922393","Ediz Hook Road, Port Angeles, Washington, US (48.141, -123.445)","2026-04-11 08:30",48.1408185,-123.444971,TRUE,FALSE,TRUE,"S320145464",3
+"204","whwsco2","White-winged Scoter","Melanitta deglandi","L168335","Odiorne Point SP, Rye","2026-04-11 08:24",43.045555,-70.71444,TRUE,FALSE,FALSE,"S320164896",1
+"205","whwsco2","White-winged Scoter","Melanitta deglandi","L1300584","McGulpin Point","2026-04-11 08:18",45.7889514,-84.7740805,TRUE,FALSE,FALSE,"S320066669",7
+"206","whwsco2","White-winged Scoter","Melanitta deglandi","L62477622","Odiorne Point State Park, Rye US-NH 43.04238, -70.71303","2026-04-11 08:01",43.042382,-70.713031,TRUE,FALSE,TRUE,"S320051610",2
+"207","whwsco2","White-winged Scoter","Melanitta deglandi","L62540506","American Princess inshore pelagic--04112026--C","2026-04-11 07:55",40.54184,-73.994353,TRUE,FALSE,TRUE,"S320334662",1
+"208","whwsco2","White-winged Scoter","Melanitta deglandi","L24645204","Jordan Park Marsh Sanctuary","2026-04-11 07:49",43.504,-70.384186,TRUE,FALSE,FALSE,"S319992088",6
+"209","whwsco2","White-winged Scoter","Melanitta deglandi","L351196","Long Point SP (Cayuga Lake)","2026-04-11 07:31",42.7154101,-76.7102551,TRUE,TRUE,FALSE,"S320007868",12
+"210","whwsco2","White-winged Scoter","Melanitta deglandi","L166701","Derby Hill Hawk Watch--North Lookout","2026-04-11 07:30",43.527261,-76.2393397,TRUE,FALSE,FALSE,"S320007323",1
+"211","whwsco2","White-winged Scoter","Melanitta deglandi","L1344295","Peaks Island","2026-04-11 07:17",43.6564685,-70.1887436,TRUE,FALSE,FALSE,"S320180146",6
+"212","whwsco2","White-winged Scoter","Melanitta deglandi","L271476","Pigeon Pt.","2026-04-11 06:42",37.182,-122.394,TRUE,TRUE,FALSE,"S320186843",2
+"213","whwsco2","White-winged Scoter","Melanitta deglandi","L693848","Cape Island--CMP--Coral Ave. dune crossing","2026-04-11 06:30",38.9327948,-74.9651502,TRUE,FALSE,FALSE,"S320166194",1
+"214","whwsco2","White-winged Scoter","Melanitta deglandi","L269491","Plymouth Beach","2026-04-11 06:15",41.9765658,-70.6505452,TRUE,FALSE,FALSE,"S320029909",6
+"215","whwsco2","White-winged Scoter","Melanitta deglandi","L21374870","Towers Rd, Juneau US-AK 58.38916, -134.76825","2026-04-11 05:54",58.389163,-134.76825,TRUE,FALSE,TRUE,"S320246420",5
+"216","whwsco2","White-winged Scoter","Melanitta deglandi","L270613","Auke Bay - Yard & Point","2026-04-11",58.3610546,-134.6455336,TRUE,FALSE,TRUE,"S320106484",5
+"217","whwsco2","White-winged Scoter","Melanitta deglandi","L62530350","Wwsc jigging","2026-04-10 19:21",42.2338433,-83.1389809,TRUE,FALSE,TRUE,"S320287594",1
+"218","whwsco2","White-winged Scoter","Melanitta deglandi","L553866","Woodard Bay Preserve","2026-04-10 17:50",47.1329872,-122.8453445,TRUE,FALSE,FALSE,"S319859890",4
+"219","whwsco2","White-winged Scoter","Melanitta deglandi","L15390012","Blythe Public Access","2026-04-10 17:30",46.9698557,-119.3370248,TRUE,TRUE,FALSE,"S320215597",1
+"220","whwsco2","White-winged Scoter","Melanitta deglandi","L10480849","Ontario Blvd","2026-04-10 17:28",43.331149,-77.722648,TRUE,FALSE,TRUE,"S319865294",15
+"221","whwsco2","White-winged Scoter","Melanitta deglandi","L8206347","Parker River NWR--Lot 5","2026-04-10 16:01",42.7322312,-70.7895317,TRUE,FALSE,FALSE,"S319756394",2
+"222","whwsco2","White-winged Scoter","Melanitta deglandi","L208678","Vischer Ferry Nature & Historic Preserve","2026-04-10 15:54",42.7860031,-73.8023715,TRUE,FALSE,FALSE,"S319781656",2
+"223","whwsco2","White-winged Scoter","Melanitta deglandi","L16705431","Piper Shores","2026-04-10 15:50",43.5583347,-70.2876923,TRUE,FALSE,TRUE,"S319763618",1
+"224","whwsco2","White-winged Scoter","Melanitta deglandi","L1476784","Blaine Marina","2026-04-10 15:45",48.9917595,-122.7665542,TRUE,FALSE,FALSE,"S320398895",7
+"225","whwsco2","White-winged Scoter","Melanitta deglandi","L3295995","Biddeford Pool--Ocean Ave.","2026-04-10 15:41",43.444123,-70.340395,TRUE,FALSE,FALSE,"S319756356",1
+"226","whwsco2","White-winged Scoter","Melanitta deglandi","L7968511","Spanish Head","2026-04-10 15:39",44.93768,-124.025441,TRUE,FALSE,FALSE,"S319801689",1
+"227","whwsco2","White-winged Scoter","Melanitta deglandi","L191802","Caumsett SP--Lloyd Point","2026-04-10 15:21",40.94607,-73.48668,TRUE,FALSE,FALSE,"S320007674",2
+"228","whwsco2","White-winged Scoter","Melanitta deglandi","L28577210","Boundary Bay, Whatcom, Washington, US (B49.002, -122.92)","2026-04-10 15:20",49.0018747,-122.9203686,TRUE,FALSE,TRUE,"S320398954",100
+"229","whwsco2","White-winged Scoter","Melanitta deglandi","L339645","Point Roberts","2026-04-10 15:00",48.9862249,-123.0545188,TRUE,FALSE,FALSE,"S320399020",8
+"230","whwsco2","White-winged Scoter","Melanitta deglandi","L600557","Castle Hill (TTOR)","2026-04-10 14:52",42.6854923,-70.7790649,TRUE,FALSE,FALSE,"S319770746",2
+"231","whwsco2","White-winged Scoter","Melanitta deglandi","L1325204","Olympia--KGY Point","2026-04-10 13:26",47.0586041,-122.9038811,TRUE,FALSE,FALSE,"S319839200",1
+"232","whwsco2","White-winged Scoter","Melanitta deglandi","L42092229","Foulweather Bluff (private access)","2026-04-10 13:09",47.939018,-122.614304,TRUE,FALSE,TRUE,"S319844278",2
+"233","whwsco2","White-winged Scoter","Melanitta deglandi","L293994","Auke village recreation area","2026-04-10 12:40",58.3759998,-134.7181811,TRUE,FALSE,TRUE,"S319803069",28
+"234","whwsco2","White-winged Scoter","Melanitta deglandi","L62421772","Semiahmoo Spit","2026-04-10 11:46",48.985931,-122.77857,TRUE,FALSE,TRUE,"S319780617",2
+"235","whwsco2","White-winged Scoter","Melanitta deglandi","L357186","Loblolly Cove","2026-04-10 11:26",42.6402105,-70.5945458,TRUE,FALSE,FALSE,"S319627623",2
+"236","whwsco2","White-winged Scoter","Melanitta deglandi","L62388222","Edgartown, Massachusetts, US (41.335, -70.426)","2026-04-10 10:50",41.3351487,-70.4258694,TRUE,FALSE,TRUE,"S319620307",4
+"237","whwsco2","White-winged Scoter","Melanitta deglandi","L2600345","Sprague's Warehouse","2026-04-10 10:09",56.8174177,-132.954435,TRUE,FALSE,TRUE,"S319713484",5
+"238","whwsco2","White-winged Scoter","Melanitta deglandi","L3469590","Nordic Drive pull-off","2026-04-10 09:58",56.820263,-132.947243,TRUE,FALSE,TRUE,"S320251050",13
+"239","whwsco2","White-winged Scoter","Melanitta deglandi","L62405082","Pilot Point beach","2026-04-10 09:35",47.8826235,-122.5162158,TRUE,FALSE,TRUE,"S319700951",2
+"240","whwsco2","White-winged Scoter","Melanitta deglandi","L2675830","Discovery Bay--Discovery Road Pond","2026-04-10 09:14",48.056337,-122.842138,TRUE,FALSE,FALSE,"S319656143",4
+"241","whwsco2","White-winged Scoter","Melanitta deglandi","L498539","David Weld Preserve","2026-04-10 09:12",40.9062922,-73.2089183,TRUE,FALSE,FALSE,"S319599713",2
+"242","whwsco2","White-winged Scoter","Melanitta deglandi","L374648","Halibut Point SP","2026-04-10 09:11",42.6910153,-70.6317011,TRUE,FALSE,FALSE,"S319605856",7
+"243","whwsco2","White-winged Scoter","Melanitta deglandi","L1201735","Aquinnah","2026-04-10 09:02",41.3455601,-70.8350372,TRUE,FALSE,TRUE,"S319634111",51
+"244","whwsco2","White-winged Scoter","Melanitta deglandi","L444818","Parker River NWR--Maintenance Area","2026-04-10 08:30",42.756722,-70.8052111,TRUE,FALSE,FALSE,"S319659259",3
+"245","whwsco2","White-winged Scoter","Melanitta deglandi","L218838","Tiscornia Park","2026-04-10 08:27",42.1151557,-86.4894291,TRUE,FALSE,FALSE,"S319577944",1
+"246","whwsco2","White-winged Scoter","Melanitta deglandi","L30350507","Oregon Coast Highway, Astoria, Oregon, US (46.224, -123.866)","2026-04-10 08:27",46.2241915,-123.8664334,TRUE,FALSE,TRUE,"S319627836",2
+"247","whwsco2","White-winged Scoter","Melanitta deglandi","L61994322","Monterey Dunes Way, Castroville US-CA (36.7642,-121.7983)","2026-04-10 08:13",36.764198,-121.79826,TRUE,FALSE,TRUE,"S319867192",1
+"248","whwsco2","White-winged Scoter","Melanitta deglandi","L259743","Caumsett SP","2026-04-10 08:10",40.9308721,-73.4720876,TRUE,FALSE,FALSE,"S319728249",5
+"249","whwsco2","White-winged Scoter","Melanitta deglandi","L605526","Santa Barbara Channel--east channel (VEN Co.)","2026-04-10 07:56",34.1544317,-119.3767548,TRUE,FALSE,FALSE,"S319649737",1
+"250","whwsco2","White-winged Scoter","Melanitta deglandi","L2118433","Sound View Dunes Park","2026-04-10 07:30",41.0612019,-72.4617512,TRUE,FALSE,FALSE,"S319797852",20
+"251","whwsco2","White-winged Scoter","Melanitta deglandi","L8887165","Sandy Beach Park","2026-04-10 06:57",56.8046601,-132.918907,TRUE,FALSE,TRUE,"S319641671",7
+"252","whwsco2","White-winged Scoter","Melanitta deglandi","L167741","Cape Neddick Light","2026-04-10 06:38",43.1653,-70.59318,TRUE,FALSE,FALSE,"S319509997",1
+"253","whwsco2","White-winged Scoter","Melanitta deglandi","L269484","Duxbury Beach","2026-04-10 06:07",42.0295225,-70.6261466,TRUE,FALSE,FALSE,"S319503449",2
+"254","whwsco2","White-winged Scoter","Melanitta deglandi","L490189","Camp Cronin Fishing Area","2026-04-10 05:37",41.3621949,-71.4872164,TRUE,FALSE,FALSE,"S319526272",47
+"255","whwsco2","White-winged Scoter","Melanitta deglandi","L6786650","Cordova--Sewage Treatment Facility","2026-04-09 19:33",60.5361236,-145.7770433,TRUE,FALSE,TRUE,"S319423151",1
+"256","whwsco2","White-winged Scoter","Melanitta deglandi","L10705921","Reeves Beach, Riverhead","2026-04-09 19:28",40.975674,-72.7123844,TRUE,FALSE,FALSE,"S319383088",2
+"257","whwsco2","White-winged Scoter","Melanitta deglandi","L382865","Lake Lansing","2026-04-09 18:45",42.7600697,-84.4004402,TRUE,TRUE,FALSE,"S319397050",1
+"258","whwsco2","White-winged Scoter","Melanitta deglandi","L127964","Lowell Point","2026-04-09 18:00",60.0706365,-149.4349383,TRUE,FALSE,FALSE,"S320329712",1
+"259","whwsco2","White-winged Scoter","Melanitta deglandi","L466873","Scusset Beach State Reservation","2026-04-09 17:18",41.7781927,-70.500555,TRUE,FALSE,FALSE,"S319586255",5
+"260","whwsco2","White-winged Scoter","Melanitta deglandi","L6481868","Independence Park","2026-04-09 17:04",42.542639,-70.8766973,TRUE,FALSE,FALSE,"S319334014",1
+"261","whwsco2","White-winged Scoter","Melanitta deglandi","L10299038","Clallam Bay Park East--Slip Point Beach","2026-04-09 16:59",48.261763,-124.2517635,TRUE,FALSE,FALSE,"S319406920",3
+"262","whwsco2","White-winged Scoter","Melanitta deglandi","L14704091","David S. Lynch Memorial Park","2026-04-09 16:15",42.5468284,-70.8608723,TRUE,FALSE,FALSE,"S319323333",6
+"263","whwsco2","White-winged Scoter","Melanitta deglandi","L370905","Crab Park","2026-04-09 16:09",40.6420284,-124.3029857,TRUE,FALSE,FALSE,"S319421215",1
+"264","whwsco2","White-winged Scoter","Melanitta deglandi","L374382","Edmonds Waterfront","2026-04-09 15:20",47.8119268,-122.3854144,TRUE,FALSE,FALSE,"S319357069",4
+"265","whwsco2","White-winged Scoter","Melanitta deglandi","L4614418","Straits State Harbor","2026-04-09 14:57",45.7774844,-84.7222676,TRUE,FALSE,FALSE,"S319488492",7
+"266","whwsco2","White-winged Scoter","Melanitta deglandi","L771853","Sleeping Bear Dunes NL--Sleeping Bear Point","2026-04-09 14:15",44.9095902,-86.0396411,TRUE,FALSE,FALSE,"S319340545",5
+"267","whwsco2","White-winged Scoter","Melanitta deglandi","L62349730","Slippery Creek Estuary - Kuiu Island, AK","2026-04-09 13:31",56.715022,-133.883731,TRUE,FALSE,TRUE,"S319416494",2
+"268","whwsco2","White-winged Scoter","Melanitta deglandi","L682751","Au Gres River Mouth","2026-04-09 13:24",44.0268901,-83.6801147,TRUE,FALSE,FALSE,"S319272276",3
+"269","whwsco2","White-winged Scoter","Melanitta deglandi","L1924498","Lighthouse Park to Marina, Point Roberts","2026-04-09 13:16",48.9726256,-123.076036,TRUE,FALSE,FALSE,"S319320018",50
+"270","whwsco2","White-winged Scoter","Melanitta deglandi","L2787886","Semiahmoo Marina","2026-04-09 12:25",48.9868497,-122.7726138,TRUE,FALSE,FALSE,"S319305514",12
+"271","whwsco2","White-winged Scoter","Melanitta deglandi","L272667","Dyer Point","2026-04-09 11:45",43.5653323,-70.1971416,TRUE,FALSE,FALSE,"S319226218",1
+"272","whwsco2","White-winged Scoter","Melanitta deglandi","L62334685","509 Hidden Way, Homer US-AK 59.64031, -151.55558","2026-04-09 11:17",59.640306,-151.555583,TRUE,FALSE,TRUE,"S319340527",25
+"273","whwsco2","White-winged Scoter","Melanitta deglandi","L1296456","Crown Point--east side","2026-04-09 11:15",32.7845815,-117.2325926,TRUE,TRUE,FALSE,"S319276486",1
+"274","whwsco2","White-winged Scoter","Melanitta deglandi","L578601","Doran Regional Park - entrance pond to jetty","2026-04-09 11:06",38.3146057,-123.0438066,TRUE,FALSE,FALSE,"S319337279",1
+"275","whwsco2","White-winged Scoter","Melanitta deglandi","L6517534","Neah Bay--town and bay only","2026-04-09 11:00",48.3666101,-124.6215677,TRUE,FALSE,FALSE,"S319290823",6
+"276","whwsco2","White-winged Scoter","Melanitta deglandi","L1542324","Valdez (general area)","2026-04-09 10:43",61.132249,-146.3575684,TRUE,FALSE,FALSE,"S321609623",NA
+"277","whwsco2","White-winged Scoter","Melanitta deglandi","L718194","Mission Bay--De Anza Cove & Point","2026-04-09 08:23",32.7967588,-117.215771,TRUE,TRUE,FALSE,"S319207829",1
+"278","whwsco2","White-winged Scoter","Melanitta deglandi","L8523232","Lincoln City--NW 15th St. beach access","2026-04-09 07:51",44.975803,-124.017605,TRUE,FALSE,FALSE,"S319374056",10
+"279","whwsco2","White-winged Scoter","Melanitta deglandi","L19389991","Jakle’s Lagoon Trail","2026-04-09 06:59",48.463687,-122.998844,TRUE,FALSE,TRUE,"S319264307",40
+"280","whwsco2","White-winged Scoter","Melanitta deglandi","L20643235","Edmonds Public Fishing Pier","2026-04-09 06:53",47.8110241,-122.3899493,TRUE,FALSE,FALSE,"S319293022",1
+"281","whwsco2","White-winged Scoter","Melanitta deglandi","L809653","Miacomet Pond","2026-04-09 06:32",41.2480636,-70.1156044,TRUE,FALSE,FALSE,"S319100890",3
+"282","whwsco2","White-winged Scoter","Melanitta deglandi","L383517","Olympic NP--Kalaloch","2026-04-09 06:14",47.6053895,-124.3737439,TRUE,FALSE,FALSE,"S319222561",3
+"283","whwsco2","White-winged Scoter","Melanitta deglandi","L1130061","Kodiak Is.--bight off of Brookers Lagoon (Kalsin Bay)","2026-04-08 18:40",57.6201747,-152.3463821,TRUE,FALSE,FALSE,"S319262962",65
+"284","whwsco2","White-winged Scoter","Melanitta deglandi","L24152338","Frederick Sound south end","2026-04-08 15:48",56.7328092,-132.6373091,TRUE,FALSE,TRUE,"S318974896",40
+"285","whwsco2","White-winged Scoter","Melanitta deglandi","L62245265","Some house","2026-04-08 15:23",41.034446,-72.430044,TRUE,FALSE,TRUE,"S318885026",5
+"286","whwsco2","White-winged Scoter","Melanitta deglandi","L3842647","Western Beach, Scarborough","2026-04-08 14:11",43.5379957,-70.3205252,TRUE,TRUE,FALSE,"S318875199",150
+"287","whwsco2","White-winged Scoter","Melanitta deglandi","L502729","Orient Beach SP","2026-04-08 13:47",41.1286489,-72.2700955,TRUE,FALSE,FALSE,"S320124876",10
+"288","whwsco2","White-winged Scoter","Melanitta deglandi","L3141071","Sweet Grass, Pleasant Pt. ME","2026-04-08 13:35",44.9619436,-67.0568883,TRUE,FALSE,TRUE,"S318849775",3
+"289","whwsco2","White-winged Scoter","Melanitta deglandi","L36174079","24 Low Beach Road, Siasconset, Massachusetts, US (41.254, -69.968) Scons.Sewerbeds","2026-04-08 13:30",41.2535558,-69.9683437,TRUE,FALSE,TRUE,"S318828143",1
+"290","whwsco2","White-winged Scoter","Melanitta deglandi","L477509","Stover's Point Preserve (HHLT), Harpswell","2026-04-08 12:36",43.7578559,-69.9988639,TRUE,FALSE,FALSE,"S318862140",1
+"291","whwsco2","White-winged Scoter","Melanitta deglandi","L16673255","Wrangell Narrows","2026-04-08 11:48",56.8221,-132.949191,TRUE,FALSE,TRUE,"S319427811",8
+"292","whwsco2","White-winged Scoter","Melanitta deglandi","L340514","Point Judith Lighthouse","2026-04-08 11:22",41.3615,-71.481,TRUE,FALSE,FALSE,"S318938413",2
+"293","whwsco2","White-winged Scoter","Melanitta deglandi","L1094676","Penny Park (Eastlake)","2026-04-08 11:10",44.2521465,-86.2992811,TRUE,FALSE,FALSE,"S318835731",6
+"294","whwsco2","White-winged Scoter","Melanitta deglandi","L192297","Wells Harbor--Marshes and Beach","2026-04-08 11:05",43.3199326,-70.562769,TRUE,FALSE,FALSE,"S318777223",6
+"295","whwsco2","White-winged Scoter","Melanitta deglandi","L62224757","Four Mile St Park","2026-04-08 10:30",43.2752534,-79.0017835,TRUE,FALSE,TRUE,"S318789302",10
+"296","whwsco2","White-winged Scoter","Melanitta deglandi","L62226791","Parker River National Wildlife Refuge, Newbury US-MA 42.76658, -70.80457","2026-04-08 09:52",42.766579,-70.804574,TRUE,FALSE,TRUE,"S318790673",1
+"297","whwsco2","White-winged Scoter","Melanitta deglandi","L752738","Isles of Shoals--White and Seavey islands, Rye","2026-04-08 09:33",42.9685691,-70.6241183,TRUE,FALSE,FALSE,"S318885333",2
+"298","whwsco2","White-winged Scoter","Melanitta deglandi","L496326","Outer Point Trail","2026-04-08 08:51",58.302364,-134.6786499,TRUE,FALSE,FALSE,"S318858522",19
+"299","whwsco2","White-winged Scoter","Melanitta deglandi","L160367","Wind Point (Lighthouse and Shoop Park)","2026-04-08 08:27",42.78067,-87.76095,TRUE,FALSE,FALSE,"S318776257",1
+"300","whwsco2","White-winged Scoter","Melanitta deglandi","L19304685","Keith's Backyard - New Harbor, ME","2026-04-08 07:00",43.8561681,-69.5160399,TRUE,FALSE,TRUE,"S318640580",8
+"301","whwsco2","White-winged Scoter","Melanitta deglandi","L1675011","Lopez Island -- Evie's Rd (restricted access)","2026-04-07 18:43",48.4807733,-122.8566527,TRUE,FALSE,TRUE,"S318741445",2
+"302","whwsco2","White-winged Scoter","Melanitta deglandi","L2440695","Steelworkers Park (#523, including IL portion of breakwater and Lake Michigan)","2026-04-07 17:41",41.7394892,-87.5297499,TRUE,FALSE,FALSE,"S318486785",1
+"303","whwsco2","White-winged Scoter","Melanitta deglandi","L823794","Nehalem Bay SP","2026-04-07 17:24",45.6883197,-123.9372826,TRUE,FALSE,FALSE,"S318512360",1
+"304","whwsco2","White-winged Scoter","Melanitta deglandi","L31179455","Area F Road, Highlands, New Jersey, US (40.438, -73.985)","2026-04-07 17:14",40.4382759,-73.9849968,TRUE,FALSE,TRUE,"S318472204",3
+"305","whwsco2","White-winged Scoter","Melanitta deglandi","L9274262","Mosswetusset Hummock","2026-04-07 17:00",42.289469,-71.0214917,TRUE,FALSE,FALSE,"S318978099",6
+"306","whwsco2","White-winged Scoter","Melanitta deglandi","L601513","Nature Conservancy Foulweather Bluff Preserve","2026-04-07 17:00",47.9216197,-122.6001048,TRUE,FALSE,FALSE,"S318529015",1
+"307","whwsco2","White-winged Scoter","Melanitta deglandi","L26716289","516 Boulevard, Bellingham, Washington, US","2026-04-07 16:15",48.7412226,-122.48906,TRUE,FALSE,TRUE,"S318497625",1
+"308","whwsco2","White-winged Scoter","Melanitta deglandi","L16637081","Lena Beach Picnic Site","2026-04-07 16:14",58.3935821,-134.7481298,TRUE,FALSE,TRUE,"S318506292",2
+"309","whwsco2","White-winged Scoter","Melanitta deglandi","L278317","Rye Harbor","2026-04-07 16:13",43.0008809,-70.747962,TRUE,FALSE,FALSE,"S318457267",1
+"310","whwsco2","White-winged Scoter","Melanitta deglandi","L207383","Manomet Conservation Sciences","2026-04-07 15:45",41.921005,-70.5442548,TRUE,FALSE,FALSE,"S318443114",8
+"311","whwsco2","White-winged Scoter","Melanitta deglandi","L9370222","Hart Hydro Disc Golf Course","2026-04-07 15:24",43.7181557,-86.3727307,TRUE,FALSE,FALSE,"S318459459",13
+"312","whwsco2","White-winged Scoter","Melanitta deglandi","L511662","Samuel Myers Park","2026-04-07 15:01",42.718776,-87.779544,TRUE,FALSE,FALSE,"S318697072",1
+"313","whwsco2","White-winged Scoter","Melanitta deglandi","L139835","Lake Erie Metropark","2026-04-07 14:06",42.0691986,-83.1941986,TRUE,FALSE,FALSE,"S318492879",1
+"314","whwsco2","White-winged Scoter","Melanitta deglandi","L296606","Port Gamble","2026-04-07 12:32",47.8567542,-122.5816383,TRUE,FALSE,FALSE,"S318441337",1
+"315","whwsco2","White-winged Scoter","Melanitta deglandi","L996025","Seal Cove Picnic Area","2026-04-07 12:04",44.2829852,-68.4081007,TRUE,FALSE,FALSE,"S318352953",81
+"316","whwsco2","White-winged Scoter","Melanitta deglandi","L60062217","Fourth and Miltmore Lakes--Paradise Ln.","2026-04-07 11:18",42.3924614,-88.0437133,TRUE,FALSE,FALSE,"S318361101",1
+"317","whwsco2","White-winged Scoter","Melanitta deglandi","L1471264","Tahkenitch Landing and Campground","2026-04-07 11:07",43.799787,-124.146764,TRUE,FALSE,FALSE,"S318418215",1
+"318","whwsco2","White-winged Scoter","Melanitta deglandi","L811550","Stockbridge Bowl","2026-04-07 10:48",42.3354533,-73.318634,TRUE,TRUE,FALSE,"S318319560",2
+"319","whwsco2","White-winged Scoter","Melanitta deglandi","L23001649","Elks","2026-04-07 10:43",42.609211,-70.633922,TRUE,FALSE,TRUE,"S318314587",2
+"320","whwsco2","White-winged Scoter","Melanitta deglandi","L129047","Parker River NWR--Hellcat Dike","2026-04-07 09:35",42.7408429,-70.796873,TRUE,FALSE,FALSE,"S320000746",4
+"321","whwsco2","White-winged Scoter","Melanitta deglandi","L4121344","Saco - Bayview","2026-04-07 08:45",43.4850492,-70.3855425,TRUE,FALSE,TRUE,"S318529014",3
+"322","whwsco2","White-winged Scoter","Melanitta deglandi","L16500533","Port of Astoria","2026-04-07 08:34",46.1870164,-123.8588913,TRUE,FALSE,TRUE,"S318344577",100
+"323","whwsco2","White-winged Scoter","Melanitta deglandi","L109542","Point No Point","2026-04-07 08:34",47.9118696,-122.5283182,TRUE,FALSE,FALSE,"S318372370",3
+"324","whwsco2","White-winged Scoter","Melanitta deglandi","L1415313","Vacation Isle","2026-04-07 08:15",32.7750146,-117.2352583,TRUE,TRUE,FALSE,"S318384080",1
+"325","whwsco2","White-winged Scoter","Melanitta deglandi","L766025","Mukilteo-Clinton Ferry","2026-04-07 08:00",47.9590353,-122.3177703,TRUE,FALSE,FALSE,"S318928672",4
+"326","whwsco2","White-winged Scoter","Melanitta deglandi","L45850597","Hilton Yard","2026-04-06 17:45",43.322044,-77.7255303,TRUE,FALSE,TRUE,"S318348248",28
+"327","whwsco2","White-winged Scoter","Melanitta deglandi","L484338","Perkins Cove, Ogunquit","2026-04-06 17:00",43.2373401,-70.5906987,TRUE,FALSE,FALSE,"S318055982",2
+"328","whwsco2","White-winged Scoter","Melanitta deglandi","L460939","Pulpit Rocks, Rye","2026-04-06 16:43",43.032447,-70.7185435,TRUE,FALSE,FALSE,"S318049936",2
+"329","whwsco2","White-winged Scoter","Melanitta deglandi","L469860","Tuscarora Lake","2026-04-06 16:11",42.8686674,-75.7582855,TRUE,FALSE,FALSE,"S318111458",2
+"330","whwsco2","White-winged Scoter","Melanitta deglandi","L985351","Cape Henlopen SP--Herring Point","2026-04-06 14:20",38.7657665,-75.0821221,TRUE,FALSE,FALSE,"S318023811",2
+"331","whwsco2","White-winged Scoter","Melanitta deglandi","L1808960","Village of North Bay - Vincennes Circle (Lake Michigan Public Access)","2026-04-06 14:00",42.7644797,-87.7774483,TRUE,FALSE,FALSE,"S318092792",2
+"332","whwsco2","White-winged Scoter","Melanitta deglandi","L8151616","Kodiak Is.--Near Island","2026-04-06 13:58",57.7810021,-152.4018664,TRUE,FALSE,FALSE,"S318100292",18
+"333","whwsco2","White-winged Scoter","Melanitta deglandi","L18453216","Kodiak Is.--Mill Bay","2026-04-06 12:32",57.820806,-152.3544646,TRUE,FALSE,FALSE,"S318047371",2
+"334","whwsco2","White-winged Scoter","Melanitta deglandi","L109138","Braddock Bay Park--Hawk Watch","2026-04-06 12:17",43.30365,-77.7163028,TRUE,FALSE,FALSE,"S318000551",1
+"335","whwsco2","White-winged Scoter","Melanitta deglandi","L985991","Silver Point","2026-04-06 11:41",45.8547974,-123.9647484,TRUE,FALSE,FALSE,"S318019690",8
+"336","whwsco2","White-winged Scoter","Melanitta deglandi","L50269706","Weaver Cove","2026-04-06 11:39",41.572145,-71.290758,TRUE,FALSE,TRUE,"S317917794",NA
+"337","whwsco2","White-winged Scoter","Melanitta deglandi","L1018792","Boiler Bay State Wayside","2026-04-06 11:23",44.8288173,-124.0658998,TRUE,FALSE,FALSE,"S318502160",2
+"338","whwsco2","White-winged Scoter","Melanitta deglandi","L1122288","Kodiak Is.--Buskin River SRS","2026-04-06 11:15",57.7560906,-152.4844837,TRUE,FALSE,FALSE,"S318370401",20
+"339","whwsco2","White-winged Scoter","Melanitta deglandi","L29152696","Island Lake Creek Trail","2026-04-06 10:58",57.8203755,-152.3582844,TRUE,FALSE,TRUE,"S318019239",2
+"340","whwsco2","White-winged Scoter","Melanitta deglandi","L4033784","Francis Street Park","2026-04-06 10:57",48.1169588,-123.4173703,TRUE,FALSE,FALSE,"S318068381",10
+"341","whwsco2","White-winged Scoter","Melanitta deglandi","L274606","Twin Rivers East","2026-04-06 10:45",48.1604666,-123.9367179,TRUE,FALSE,TRUE,"S318064873",3
+"342","whwsco2","White-winged Scoter","Melanitta deglandi","L161004","Barnegat Lighthouse SP","2026-04-06 10:15",39.7633333,-74.1058333,TRUE,FALSE,FALSE,"S318050000",1
+"343","whwsco2","White-winged Scoter","Melanitta deglandi","L62063718","Auto selected 56.79565, -133.69663","2026-04-06 09:46",56.795649,-133.696629,TRUE,FALSE,TRUE,"S317980964",5
+"344","whwsco2","White-winged Scoter","Melanitta deglandi","L62063635","Auto selected 56.79576, -133.69675","2026-04-06 09:45",56.79576,-133.696749,TRUE,FALSE,TRUE,"S317980478",5
+"345","whwsco2","White-winged Scoter","Melanitta deglandi","L766034","Fort Casey State Park","2026-04-06 09:28",48.1581848,-122.6776314,TRUE,FALSE,FALSE,"S318446892",3
+"346","whwsco2","White-winged Scoter","Melanitta deglandi","L27667530","UMass Boston--Campus Grounds and Dorchester Bay","2026-04-06 09:25",42.3141662,-71.0373905,TRUE,FALSE,FALSE,"S318055286",1
+"347","whwsco2","White-winged Scoter","Melanitta deglandi","L788729","Tybee Island--North Beach","2026-04-06 09:11",32.0270701,-80.8530664,TRUE,FALSE,FALSE,"S317965076",1
+"348","whwsco2","White-winged Scoter","Melanitta deglandi","L62054691","Auto selected 45.52000, -123.94739","2026-04-06 08:59",45.520005,-123.947394,TRUE,FALSE,TRUE,"S317938552",2
+"349","whwsco2","White-winged Scoter","Melanitta deglandi","L62042729","Deer Creek WMA, North Pond On 220th, Plymouth, Iowa, US (42.735, -96.506)","2026-04-06 08:47",42.7348387,-96.5063696,TRUE,TRUE,TRUE,"S317880608",1
+"350","whwsco2","White-winged Scoter","Melanitta deglandi","L1067143","Ninilchik (town)","2026-04-06 08:38",60.0485606,-151.6710663,TRUE,TRUE,FALSE,"S317952282",26
+"351","whwsco2","White-winged Scoter","Melanitta deglandi","L2298011","Edgemere Dr (2084)","2026-04-06 08:28",43.291263,-77.673207,TRUE,TRUE,TRUE,"S318098350",102
+"352","whwsco2","White-winged Scoter","Melanitta deglandi","L976281","Great Gull Island","2026-04-06 08:25",41.202544,-72.1187103,TRUE,FALSE,FALSE,"S318030770",4
+"353","whwsco2","White-winged Scoter","Melanitta deglandi","L17042504","Frank D. Robinson Beach","2026-04-06 08:16",47.992703,-122.541157,TRUE,FALSE,FALSE,"S317966551",8
+"354","whwsco2","White-winged Scoter","Melanitta deglandi","L8189791","Auke Nu Cove","2026-04-06 08:11",58.3803635,-134.6978389,TRUE,FALSE,FALSE,"S317950670",6
+"355","whwsco2","White-winged Scoter","Melanitta deglandi","L2311484","Lake Tolowa Mouth","2026-04-06 08:03",41.8298092,-124.2246437,TRUE,FALSE,FALSE,"S318137472",17
+"356","whwsco2","White-winged Scoter","Melanitta deglandi","L1791108","Ashokan Reservoir, Frying Pan","2026-04-06 07:29",41.9478599,-74.1814406,TRUE,FALSE,FALSE,"S317841042",2
+"357","whwsco2","White-winged Scoter","Melanitta deglandi","L11237112","West Dungeness, WA","2026-04-06 07:19",48.1482609,-123.1417876,TRUE,FALSE,TRUE,"S317901555",100
+"358","whwsco2","White-winged Scoter","Melanitta deglandi","L161180","Montrose Point Bird Sanctuary, Lincoln Park","2026-04-06 07:02",41.9633833,-87.6344204,TRUE,FALSE,FALSE,"S318087240",1
+"359","whwsco2","White-winged Scoter","Melanitta deglandi","L350359","Kewaunee Harbor","2026-04-06 06:43",44.4594665,-87.4987771,TRUE,FALSE,FALSE,"S317796671",2
+"360","whwsco2","White-winged Scoter","Melanitta deglandi","L631733","Low Beach","2026-04-06 06:37",41.2489671,-69.9714088,TRUE,FALSE,FALSE,"S317765154",14
+"361","whwsco2","White-winged Scoter","Melanitta deglandi","L131590","Biddeford Pool--Beach and Trails","2026-04-06 06:34",43.4421372,-70.351211,TRUE,FALSE,FALSE,"S317865308",4
+"362","whwsco2","White-winged Scoter","Melanitta deglandi","L7424978","Sammy's Beach","2026-04-06 06:27",41.0290844,-72.1875189,TRUE,FALSE,FALSE,"S317758388",1
+"363","whwsco2","White-winged Scoter","Melanitta deglandi","L28734181","Cove Point, Lake Erie Metropark","2026-04-05 19:32",42.0536051,-83.1870979,TRUE,FALSE,TRUE,"S317590620",1
+"364","whwsco2","White-winged Scoter","Melanitta deglandi","L464017","BHI--Nut Island","2026-04-05 17:15",42.2794044,-70.9543848,TRUE,FALSE,FALSE,"S318128308",2
+"365","whwsco2","White-winged Scoter","Melanitta deglandi","L447859","Nahant Thicket Wildlife Sanctuary (Mass Audubon)","2026-04-05 17:08",42.4219517,-70.9146452,TRUE,FALSE,FALSE,"S317545897",1
+"366","whwsco2","White-winged Scoter","Melanitta deglandi","L1308583","Curwensville Dam Rec Area","2026-04-05 16:55",40.950733,-78.5367966,TRUE,FALSE,FALSE,"S317546309",2
+"367","whwsco2","White-winged Scoter","Melanitta deglandi","L61973767","Pond Nside 15001–15867 220th St, Akron US-IA 42.73616, -96.51521","2026-04-05 16:43",42.736162,-96.515205,TRUE,TRUE,TRUE,"S317562157",1
+"368","whwsco2","White-winged Scoter","Melanitta deglandi","L46777787","Larrabee State Park--Clayton Beach","2026-04-05 16:19",48.642028,-122.484578,TRUE,FALSE,FALSE,"S317605476",3
+"369","whwsco2","White-winged Scoter","Melanitta deglandi","L594234","Hemenway Landing","2026-04-05 15:40",41.8230296,-69.9652719,TRUE,FALSE,FALSE,"S317497870",1
+"370","whwsco2","White-winged Scoter","Melanitta deglandi","L436636","Sue-Meg State Park","2026-04-05 15:23",41.1364557,-124.1558933,TRUE,FALSE,FALSE,"S317598876",2
+"371","whwsco2","White-winged Scoter","Melanitta deglandi","L2157886","Cordova--Orca Adventure Lodge","2026-04-05 15:10",60.5793244,-145.7191586,TRUE,FALSE,FALSE,"S317590935",6
+"372","whwsco2","White-winged Scoter","Melanitta deglandi","L23621096","New England Cannery Road, Cordova, Alaska, US (60.568, -145.745)","2026-04-05 14:56",60.5675367,-145.74459,TRUE,FALSE,TRUE,"S317577930",2
+"373","whwsco2","White-winged Scoter","Melanitta deglandi","L713427","Quabbin Reservoir--Winsor Dam and Park Headquarters","2026-04-05 14:02",42.2802349,-72.3478169,TRUE,FALSE,FALSE,"S317478560",1
+"374","whwsco2","White-winged Scoter","Melanitta deglandi","L474417","Kettle Cove","2026-04-05 13:09",43.5622948,-70.2186012,TRUE,FALSE,FALSE,"S317418797",1
+"375","whwsco2","White-winged Scoter","Melanitta deglandi","L163490","Fort Stevens SP","2026-04-05 12:20",46.2302,-124.003624,TRUE,FALSE,FALSE,"S317625897",20
+"376","whwsco2","White-winged Scoter","Melanitta deglandi","L36873173","Harding Gateway","2026-04-05 12:10",59.7989025,-149.4510564,TRUE,FALSE,FALSE,"S318792137",NA
+"377","whwsco2","White-winged Scoter","Melanitta deglandi","L1633340","Plum Gut","2026-04-05 12:05",41.1627284,-72.2217071,TRUE,FALSE,TRUE,"S317821395",3
+"378","whwsco2","White-winged Scoter","Melanitta deglandi","L12199115","Samish Bay","2026-04-05 11:45",48.5907733,-122.4924468,TRUE,FALSE,TRUE,"S317635515",40
+"379","whwsco2","White-winged Scoter","Melanitta deglandi","L2670148","Harbor Hospital","2026-04-05 11:30",39.2504672,-76.6129017,TRUE,TRUE,FALSE,"S317373246",1
+"380","whwsco2","White-winged Scoter","Melanitta deglandi","L50771449","Hanover Street Wetlands","2026-04-05 10:59",39.246127,-76.6096547,TRUE,TRUE,FALSE,"S317375048",1
+"381","whwsco2","White-winged Scoter","Melanitta deglandi","L283254","McKinley Marina and Park","2026-04-05 10:49",43.0495307,-87.8859314,TRUE,FALSE,FALSE,"S317371786",3
+"382","whwsco2","White-winged Scoter","Melanitta deglandi","L61979166","Washington, US (48.431, -122.989)","2026-04-05 10:40",48.430749,-122.9890736,TRUE,FALSE,TRUE,"S317586442",4
+"383","whwsco2","White-winged Scoter","Melanitta deglandi","L18401717","Dungeness NWR--Dungeness Spit","2026-04-05 10:24",48.1476683,-123.1856696,TRUE,FALSE,FALSE,"S317446849",2
+"384","whwsco2","White-winged Scoter","Melanitta deglandi","L845195","Samish Island--Day Use Area","2026-04-05 10:10",48.5781665,-122.541408,TRUE,FALSE,FALSE,"S317635242",4
+"385","whwsco2","White-winged Scoter","Melanitta deglandi","L984762","Sandy Hook--North End","2026-04-05 09:17",40.4769212,-74.0107298,TRUE,FALSE,FALSE,"S317380190",1
+"386","whwsco2","White-winged Scoter","Melanitta deglandi","L475849","Sandy Hook--Plum Island","2026-04-05 08:41",40.4072221,-73.9798737,TRUE,FALSE,FALSE,"S317288119",1
+"387","whwsco2","White-winged Scoter","Melanitta deglandi","L20887776","Worlds End, Hingham US-MA 42.25890, -70.87227","2026-04-05 08:21",42.258905,-70.872268,TRUE,FALSE,TRUE,"S317305834",1
+"388","whwsco2","White-winged Scoter","Melanitta deglandi","L548476","Haystack Rock","2026-04-05 08:17",45.8847357,-123.9683104,TRUE,FALSE,FALSE,"S317380902",1
+"389","whwsco2","White-winged Scoter","Melanitta deglandi","L1128506","Homer--Crittenden Dr.","2026-04-05 07:47",59.6403702,-151.555506,TRUE,FALSE,FALSE,"S317382435",35
+"390","whwsco2","White-winged Scoter","Melanitta deglandi","L920855","Glacier Bay NP--Bartlett Cove","2026-04-05 07:30",58.4547386,-135.9149551,TRUE,FALSE,FALSE,"S317451036",95
+"391","whwsco2","White-winged Scoter","Melanitta deglandi","L61757111","Parents house - Aerie","2026-04-05 06:55",48.9760365,-122.7912973,TRUE,FALSE,TRUE,"S317330082",21
+"392","whwsco2","White-winged Scoter","Melanitta deglandi","L335811","Assateague Island","2026-04-05 06:50",37.8872945,-75.3440039,TRUE,FALSE,FALSE,"S317626264",2
+"393","whwsco2","White-winged Scoter","Melanitta deglandi","L845817","Coney Island Beach & Boardwalk","2026-04-05 06:42",40.5719793,-73.9778996,TRUE,TRUE,FALSE,"S317281628",1
