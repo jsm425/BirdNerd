@@ -1,2 +1,2 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
-"1","whwpar","White-winged Parakeet","Brotogeris versicolurus","L62544936","Bird Plaza, Miami","2026-04-11 18:23",1,25.7336558,-80.3348425,TRUE,TRUE,TRUE,"S320356444","N"
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
+"1","greshe","Great Shearwater","Ardenna gravis","L2415913","Destin--east jetty and ponds","2026-04-08 06:00",3,30.3823433,-86.5041161,TRUE,TRUE,FALSE,"S318830982"

@@ -1,322 +1,233 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
-"1","brnowl","American Barn Owl","Tyto furcata","L56735127","Boiling Springs State Park, Woodward US-OK 36.45616, -99.30013","2026-04-15 16:55",1,36.456156,-99.300128,TRUE,FALSE,TRUE,"S322242185",NA
-"2","brnowl","American Barn Owl","Tyto furcata","L129098","High Island--Smith Oaks Sanctuary (UTC 052)","2026-04-15 16:10",1,29.573681,-94.3898535,TRUE,FALSE,FALSE,"S322220400",NA
-"3","brnowl","American Barn Owl","Tyto furcata","L3579728","Jocelyn Nungaray NWR-- Willows observation deck & trail","2026-04-15 15:09",3,29.6142799,-94.5387157,TRUE,FALSE,FALSE,"S322187360",NA
-"4","brnowl","American Barn Owl","Tyto furcata","L128874","Jocelyn Nungaray NWR  (Anahuac) (UTC 049)","2026-04-15 14:50",3,29.6148414,-94.5344353,TRUE,FALSE,FALSE,"S322208885",NA
-"5","brnowl","American Barn Owl","Tyto furcata","L837268","Sacramento NWR--Auto Route & Visitor Center","2026-04-15 14:06",1,39.4284385,-122.1564999,TRUE,FALSE,FALSE,"S322224474",NA
-"6","brnowl","American Barn Owl","Tyto furcata","L2915317","Columbia River--Tenasillahe Island (boat access only)","2026-04-15 12:00",1,46.241764,-123.4520817,TRUE,FALSE,FALSE,"S322178603",NA
-"7","brnowl","American Barn Owl","Tyto furcata","L62876816","Butterfly Willows Trail, Anahuac US-TX 29.61357, -94.53444","2026-04-15 11:17",4,29.613572,-94.534435,TRUE,FALSE,TRUE,"S322085878",NA
-"8","brnowl","American Barn Owl","Tyto furcata","L36272509","La Mirage","2026-04-15 11:15",1,29.5160544,-98.5982394,TRUE,FALSE,TRUE,"S322131048",NA
-"9","brnowl","American Barn Owl","Tyto furcata","L11106756","Woodland Meadows Golf (abandoned)","2026-04-15 10:21",2,38.65933,-121.7247851,TRUE,FALSE,TRUE,"S322144499",NA
-"10","brnowl","American Barn Owl","Tyto furcata","L51199382","Home2","2026-04-15 10:16",1,48.9345044,-122.1448106,TRUE,FALSE,TRUE,"S322115777",NA
-"11","brnowl","American Barn Owl","Tyto furcata","L374047","Cañada Larga Rd.","2026-04-15 10:00",1,34.3445699,-119.2783928,TRUE,FALSE,FALSE,"S322154772",NA
-"12","brnowl","American Barn Owl","Tyto furcata","L62881852","Jocelyn Nungaray National Wildlife Refuge, Anahuac US-TX 29.65634, -94.54617","2026-04-15 09:58",4,29.656339,-94.546174,TRUE,FALSE,TRUE,"S322111415",NA
-"13","brnowl","American Barn Owl","Tyto furcata","L865372","Ohio River Fishing and Boating Access Site, Belleville","2026-04-15 09:52",1,39.1375834,-81.740427,TRUE,FALSE,FALSE,"S322019606",NA
-"14","brnowl","American Barn Owl","Tyto furcata","L62873233","I-25 N, Truth Or Consequences US-NM 33.12533, -107.28988","2026-04-15 09:41",1,33.12533,-107.289876,TRUE,FALSE,TRUE,"S322067830",NA
-"15","brnowl","American Barn Owl","Tyto furcata","L372053","Pearson-Arastradero Preserve","2026-04-15 08:45",1,37.3871572,-122.174685,TRUE,FALSE,FALSE,"S322160514",NA
-"16","brnowl","American Barn Owl","Tyto furcata","L4200718","Home","2026-04-15 08:26",1,37.9021363,-95.4799891,TRUE,FALSE,TRUE,"S322085731",NA
-"17","brnowl","American Barn Owl","Tyto furcata","L60057707","Big Morongo Canyon Preserve, Morongo Valley US-CA 34.05013, -116.57057","2026-04-15 08:14",1,34.050131,-116.570566,TRUE,FALSE,TRUE,"S322109691",NA
-"18","brnowl","American Barn Owl","Tyto furcata","L770565","South Padre Is.--Birding and Nature Center","2026-04-15 08:13",2,26.1374628,-97.1739367,TRUE,FALSE,FALSE,"S322077722",NA
-"19","brnowl","American Barn Owl","Tyto furcata","L57819474","Bommer Canyon (CA Atlas - Laguna Beach NE)","2026-04-15 07:30",1,33.6211683,-117.8028617,TRUE,FALSE,FALSE,"S322078533",NA
-"20","brnowl","American Barn Owl","Tyto furcata","L452007","Orlando Wetlands","2026-04-15 07:11",2,28.5700783,-80.9963373,TRUE,FALSE,FALSE,"S322152145",NA
-"21","brnowl","American Barn Owl","Tyto furcata","L420195","Big Morongo Canyon Preserve & Covington Park","2026-04-15 07:05",1,34.0497222,-116.5702639,TRUE,FALSE,FALSE,"S322164699",NA
-"22","brnowl","American Barn Owl","Tyto furcata","L1896322","Jocelyn Nungaray NWR-- Shoveler Pond Loop","2026-04-15 06:51",3,29.6138335,-94.5452351,TRUE,FALSE,FALSE,"S322060377",NA
-"23","brnowl","American Barn Owl","Tyto furcata","L2776216","Sedgwick Reserve (restricted access)","2026-04-15 06:38",1,34.692571,-120.0405478,TRUE,FALSE,FALSE,"S322154381",NA
-"24","brnowl","American Barn Owl","Tyto furcata","L16897356","Ousterhout Farm","2026-04-15 06:00",1,42.4517934,-122.831615,TRUE,FALSE,TRUE,"S322093344",NA
-"25","brnowl","American Barn Owl","Tyto furcata","L4251878","Southern Sierra Research Station","2026-04-15 05:50",1,35.6869342,-118.2895552,TRUE,FALSE,FALSE,"S322162206",NA
-"26","brnowl","American Barn Owl","Tyto furcata","L62897030","25471 Julian Road, Ramona, California, US (33.079, -116.781)","2026-04-15 05:38",1,33.0790001,-116.7805719,TRUE,FALSE,TRUE,"S322187077",NA
-"27","brnowl","American Barn Owl","Tyto furcata","L760297","Cheyenne Bottoms WA--Campground","2026-04-15 05:10",2,38.448858,-98.7513131,TRUE,FALSE,FALSE,"S321921153",NA
-"28","brnowl","American Barn Owl","Tyto furcata","L783314","Lyons Ferry Marina (Columbia Co.)","2026-04-14 22:46",1,46.5855004,-118.2199287,TRUE,FALSE,FALSE,"S321873870",NA
-"29","brnowl","American Barn Owl","Tyto furcata","L623357","Paynes Prairie Preserve SP--La Chua Trail","2026-04-14 20:29",2,29.6068756,-82.3031116,TRUE,FALSE,FALSE,"S321840298",NA
-"30","brnowl","American Barn Owl","Tyto furcata","L22701060","7872 Rio Senda, Rancho Santa Fe US-CA 33.03347, -117.16459","2026-04-14 20:24",2,33.033468,-117.164594,TRUE,FALSE,TRUE,"S321857845",NA
-"31","brnowl","American Barn Owl","Tyto furcata","L469355","Kawai'ele State Waterbird Sanctuary","2026-04-14 20:23",1,22.0099791,-159.7679526,TRUE,FALSE,FALSE,"S321897835","N"
-"32","brnowl","American Barn Owl","Tyto furcata","L1034872","Sanden Pond","2026-04-14 20:00",1,33.0230217,-96.5611982,TRUE,FALSE,FALSE,"S321979138",NA
-"33","brnowl","American Barn Owl","Tyto furcata","L1838060","McGee Family CA","2026-04-14 19:14",2,39.543709,-94.4221161,TRUE,TRUE,FALSE,"S321840544",NA
-"34","brnowl","American Barn Owl","Tyto furcata","L1769307","Saguaro NP--East--Mica View","2026-04-14 18:50",1,32.2111462,-110.7246381,TRUE,FALSE,FALSE,"S321852330",NA
-"35","brnowl","American Barn Owl","Tyto furcata","L836926","Yellow House Draw downstream of Canyon Lake 6","2026-04-14 17:35",2,33.5583656,-101.7945528,TRUE,FALSE,FALSE,"S321844533",NA
-"36","brnowl","American Barn Owl","Tyto furcata","L758704","California Botanic Garden (formerly Rancho Santa Ana BG)","2026-04-14 17:14",1,34.1120533,-117.7152014,TRUE,FALSE,FALSE,"S321847045",NA
-"37","brnowl","American Barn Owl","Tyto furcata","L15312742","Melmont Rd, Nampa US-ID 43.41576, -116.61884","2026-04-14 16:34",1,43.41576,-116.618837,TRUE,FALSE,TRUE,"S321839882",NA
-"38","brnowl","American Barn Owl","Tyto furcata","L62647476","Porter Rd. SE","2026-04-14 13:59",4,44.8228283,-122.8658331,TRUE,FALSE,TRUE,"S321785352",NA
-"39","brnowl","American Barn Owl","Tyto furcata","L62818563","11594–11598 FM-1985, Anahuac US-TX 29.67582, -94.37540","2026-04-14 12:33",3,29.67582,-94.375403,TRUE,FALSE,TRUE,"S321762293",NA
-"40","brnowl","American Barn Owl","Tyto furcata","L62807635","4961 Desert Vista Dr, Borrego Springs US-CA 33.19056, -116.32420","2026-04-14 11:08",1,33.190561,-116.324196,TRUE,FALSE,TRUE,"S321704182",NA
-"41","brnowl","American Barn Owl","Tyto furcata","L1294688","Sacramento Reg Wastewater Treatment Plant (limited access)","2026-04-14 10:58",1,38.4407495,-121.4792633,TRUE,FALSE,FALSE,"S321708161",NA
-"42","brnowl","American Barn Owl","Tyto furcata","L281494","Kyker Bottoms Refuge","2026-04-14 10:32",1,35.6062971,-84.1150428,TRUE,FALSE,FALSE,"S321645733",NA
-"43","brnowl","American Barn Owl","Tyto furcata","L798090","Tolay Regional Park","2026-04-14 10:28",1,38.2106695,-122.5126648,TRUE,FALSE,FALSE,"S321729531",NA
-"44","brnowl","American Barn Owl","Tyto furcata","L51114029","Provolt BLM Barn","2026-04-14 09:32",1,42.2811992,-123.2300524,TRUE,FALSE,TRUE,"S322093804",NA
-"45","brnowl","American Barn Owl","Tyto furcata","L770872","Bird Refuge Rd.","2026-04-14 09:22",1,41.4689719,-112.1759892,TRUE,FALSE,FALSE,"S321797492",NA
-"46","brnowl","American Barn Owl","Tyto furcata","L208278","Lytle Ranch Preserve","2026-04-14 07:56",1,37.1434192,-114.0232372,TRUE,FALSE,FALSE,"S321698198",NA
-"47","brnowl","American Barn Owl","Tyto furcata","L815117","Hagerman NWR","2026-04-14 07:54",1,33.7385706,-96.7527511,TRUE,FALSE,FALSE,"S321766209",NA
-"48","brnowl","American Barn Owl","Tyto furcata","L267812","San Jacinto Wildlife Area--Mystic Lake","2026-04-14 07:38",1,33.8839706,-117.0884961,TRUE,FALSE,FALSE,"S321643321",NA
-"49","brnowl","American Barn Owl","Tyto furcata","L212323","Lee Kay Ponds","2026-04-14 06:53",1,40.7397136,-112.0437241,TRUE,FALSE,FALSE,"S321613137",NA
-"50","brnowl","American Barn Owl","Tyto furcata","L721572","Base and Meridian WA","2026-04-14 06:50",3,33.3791718,-112.3074389,TRUE,FALSE,FALSE,"S321795870",NA
-"51","brnowl","American Barn Owl","Tyto furcata","L384040","Vancouver Lake lowlands","2026-04-14 06:18",1,45.6879549,-122.7509308,TRUE,FALSE,FALSE,"S321629985",NA
-"52","brnowl","American Barn Owl","Tyto furcata","L62760445","26560–26574 US-90, Alpine US-TX 30.19102, -102.88230","2026-04-14 00:35",1,30.191024,-102.882299,TRUE,FALSE,TRUE,"S321441825",NA
-"53","brnowl","American Barn Owl","Tyto furcata","L268512","Standifer Gap Marsh","2026-04-13 21:33",1,35.0644561,-85.1660614,TRUE,TRUE,FALSE,"S321410965",NA
-"54","brnowl","American Barn Owl","Tyto furcata","L62754406","7001–7349 Kinmundy Rd, Kinmundy US-IL 38.74083, -88.84553","2026-04-13 20:55",1,38.740833,-88.845534,TRUE,FALSE,TRUE,"S321413208",NA
-"55","brnowl","American Barn Owl","Tyto furcata","L62756382","Trinity County Fairgrounds, Hayfork US-CA 40.54296, -123.18942","2026-04-13 20:26",3,40.542959,-123.189422,TRUE,FALSE,TRUE,"S321421386",NA
-"56","brnowl","American Barn Owl","Tyto furcata","L840634","Irvine Regional Park","2026-04-13 20:23",1,33.7968382,-117.7532673,TRUE,FALSE,FALSE,"S321423533",NA
-"57","brnowl","American Barn Owl","Tyto furcata","L840206","9133 Clendenen way","2026-04-13 20:11",1,38.5435377,-121.3516364,TRUE,FALSE,TRUE,"S321419681",NA
-"58","brnowl","American Barn Owl","Tyto furcata","L62755665","9243 California 33, Gustine, California, US (37.156, -121.014)","2026-04-13 19:57",1,37.156085,-121.01399,TRUE,FALSE,TRUE,"S321418286",NA
-"59","brnowl","American Barn Owl","Tyto furcata","L30833848","First Presbyterian Church (Darien)","2026-04-13 19:21",1,31.3720419,-81.4362477,TRUE,TRUE,FALSE,"S321399704",NA
-"60","brnowl","American Barn Owl","Tyto furcata","L3506885","David Rodgers Park","2026-04-13 17:26",1,47.6438873,-122.3590815,TRUE,FALSE,FALSE,"S321393354",NA
-"61","brnowl","American Barn Owl","Tyto furcata","L127408","Loxahatchee NWR","2026-04-13 17:21",2,26.4986442,-80.2246141,TRUE,FALSE,FALSE,"S321397034",NA
-"62","brnowl","American Barn Owl","Tyto furcata","L285815","South Point","2026-04-13 17:09",1,18.9282926,-155.6740388,TRUE,FALSE,FALSE,"S321432571","N"
-"63","brnowl","American Barn Owl","Tyto furcata","L62756216","South Yuba Avenue, Helm, California, US (36.511, -120.17)","2026-04-13 16:23",1,36.5111036,-120.1702647,TRUE,FALSE,TRUE,"S321420743",NA
-"64","brnowl","American Barn Owl","Tyto furcata","L62732717","Jocelyn Nungaray NWR","2026-04-13 15:26",1,29.607095,-94.556021,TRUE,FALSE,TRUE,"S321418623",NA
-"65","brnowl","American Barn Owl","Tyto furcata","L1090345","Quincy WTP (includes Spanish Creek Rd.)","2026-04-13 15:17",1,39.9481413,-120.9397745,TRUE,FALSE,FALSE,"S321376124",NA
-"66","brnowl","American Barn Owl","Tyto furcata","L62731659","12576–12698 Road 25 1/2, Madera US-CA 36.93392, -120.08317","2026-04-13 12:28",1,36.933919,-120.083171,TRUE,FALSE,TRUE,"S321286557",NA
-"67","brnowl","American Barn Owl","Tyto furcata","L818100","Lake Herman","2026-04-13 12:06",1,38.0941737,-122.1557808,TRUE,FALSE,FALSE,"S321301379",NA
-"68","brnowl","American Barn Owl","Tyto furcata","L62735857","12878–13010 Guard Rd, Lodi US-CA 38.09114, -121.43483","2026-04-13 11:45",2,38.091136,-121.434835,TRUE,FALSE,TRUE,"S321308971",NA
-"69","brnowl","American Barn Owl","Tyto furcata","L37693686","735 Tanglewood Ln, Lafayette US-CA 37.88292, -122.12149","2026-04-13 10:30",1,37.882918,-122.121493,TRUE,FALSE,TRUE,"S321275930",NA
-"70","brnowl","American Barn Owl","Tyto furcata","L629358","Mt. Pisgah Arboretum","2026-04-13 10:08",1,44.006462,-122.9810429,TRUE,FALSE,FALSE,"S321260199",NA
-"71","brnowl","American Barn Owl","Tyto furcata","L190743","Antelope Island SP","2026-04-13 09:49",1,41.0465405,-112.2383881,TRUE,FALSE,FALSE,"S321338826",NA
-"72","brnowl","American Barn Owl","Tyto furcata","L225810","American River Parkway--Gristmill Recreation Area","2026-04-13 09:08",1,38.5783708,-121.3420415,TRUE,FALSE,FALSE,"S321421224",NA
-"73","brnowl","American Barn Owl","Tyto furcata","L3878437","BACKYARD / GRISTMILL AREA","2026-04-13 09:08",1,38.578522,-121.340594,TRUE,FALSE,TRUE,"S321421223",NA
-"74","brnowl","American Barn Owl","Tyto furcata","L11301869","Anahuac National Wildlife Refuge, Anahuac US-TX 29.65830, -94.54687","2026-04-13 08:18",4,29.658303,-94.546871,TRUE,FALSE,TRUE,"S321270364",NA
-"75","brnowl","American Barn Owl","Tyto furcata","L10391966","1540 Hansen Ln, San Luis Obispo US-CA (35.2565,-120.6271)","2026-04-13 07:34",1,35.256469,-120.627051,TRUE,FALSE,TRUE,"S321163006",NA
-"76","brnowl","American Barn Owl","Tyto furcata","L6562113","Lucero Ranch","2026-04-13 07:19",1,35.2564586,-120.627008,TRUE,FALSE,TRUE,"S321174885",NA
-"77","brnowl","American Barn Owl","Tyto furcata","L16771337","Meadow Lea","2026-04-13 04:00",1,30.404048,-91.139771,TRUE,TRUE,TRUE,"S321529123",NA
-"78","brnowl","American Barn Owl","Tyto furcata","L62676202","7252–7398 US-79, Thorndale US-TX 30.62746, -97.13990","2026-04-13 00:01",1,30.627462,-97.139897,TRUE,FALSE,TRUE,"S320990182",NA
-"79","brnowl","American Barn Owl","Tyto furcata","L23075174","3524 Pinebrook Dr SE, Olympia US-WA 47.00581, -122.84544","2026-04-13 00:00",NA,47.005813,-122.845444,TRUE,FALSE,TRUE,"S321453244",NA
-"80","brnowl","American Barn Owl","Tyto furcata","L36325302","Intentionally Inaccurate Home Location #1","2026-04-12 23:11",1,33.7258712,-118.0284387,TRUE,FALSE,TRUE,"S320999058",NA
-"81","brnowl","American Barn Owl","Tyto furcata","L24907434","Carl & Gloria's","2026-04-12 22:05",1,38.923964,-101.365864,TRUE,FALSE,TRUE,"S320979335",NA
-"82","brnowl","American Barn Owl","Tyto furcata","L818860","Justin Hurst WMA","2026-04-12 21:21",1,28.9668715,-95.4432821,TRUE,FALSE,FALSE,"S320974303",NA
-"83","brnowl","American Barn Owl","Tyto furcata","L942775","Tarragona Dr.","2026-04-12 21:09",1,32.7553044,-117.062473,TRUE,FALSE,TRUE,"S320985354",NA
-"84","brnowl","American Barn Owl","Tyto furcata","L30649749","Allen County Airport, Iola US-KS 37.87524, -95.38215","2026-04-12 21:09",2,37.875238,-95.382153,TRUE,FALSE,TRUE,"S320972717",NA
-"85","brnowl","American Barn Owl","Tyto furcata","L6209932","Cheyenne Bottoms WA--Inlet Canal","2026-04-12 20:55",2,38.4487239,-98.7100178,TRUE,FALSE,FALSE,"S320971327",NA
-"86","brnowl","American Barn Owl","Tyto furcata","L30387629","Mission Heights Park","2026-04-12 20:45",1,32.7752946,-117.1665418,TRUE,FALSE,FALSE,"S321426551",NA
-"87","brnowl","American Barn Owl","Tyto furcata","L197835","1 - Rick 'n' Mo's - Private","2026-04-12 20:45",1,32.8176133,-116.9244473,TRUE,FALSE,TRUE,"S320983191",NA
-"88","brnowl","American Barn Owl","Tyto furcata","L685829","Umtanum Creek","2026-04-12 20:35",1,46.8554957,-120.4848719,TRUE,FALSE,FALSE,"S320982012",NA
-"89","brnowl","American Barn Owl","Tyto furcata","L1100233","Agua Caliente County Park","2026-04-12 20:32",1,32.9503072,-116.3034582,TRUE,FALSE,FALSE,"S321316747",NA
-"90","brnowl","American Barn Owl","Tyto furcata","L721582","Kern River Preserve--Fay Ranch Rd.","2026-04-12 19:36",1,35.672498,-118.290138,TRUE,FALSE,FALSE,"S321413820",NA
-"91","brnowl","American Barn Owl","Tyto furcata","L62673208","1398–1498 S Vulture Mine Rd, Wickenburg US-AZ 33.90247, -112.81295","2026-04-12 19:18",1,33.902473,-112.81295,TRUE,FALSE,TRUE,"S320976528",NA
-"92","brnowl","American Barn Owl","Tyto furcata","L128974","Galveston Island SP (UTC 070)","2026-04-12 19:17",1,29.1956654,-94.9559069,TRUE,FALSE,FALSE,"S320960628",NA
-"93","brnowl","American Barn Owl","Tyto furcata","L190217","Evelyn Hallman Park","2026-04-12 18:34",1,33.4480905,-111.9371943,TRUE,FALSE,FALSE,"S320981475",NA
-"94","brnowl","American Barn Owl","Tyto furcata","L62673461","Johnson Road area","2026-04-12 18:30",1,35.0114954,-84.9140846,TRUE,FALSE,TRUE,"S320977809",NA
-"95","brnowl","American Barn Owl","Tyto furcata","L4157282","Smith Oaks Rookery Count (Houston Audubon Staff)","2026-04-12 18:21",1,29.5758645,-94.3901432,TRUE,FALSE,FALSE,"S320967077",NA
-"96","brnowl","American Barn Owl","Tyto furcata","L17424458","Coal Creek Trail--Vista Pkwy to Erie Pkwy","2026-04-12 18:06",2,40.030431,-105.040603,TRUE,FALSE,FALSE,"S320962051",NA
-"97","brnowl","American Barn Owl","Tyto furcata","L9430568","Don Edwards Between gate and EEC","2026-04-12 17:55",1,37.4363761,-121.9576593,TRUE,FALSE,TRUE,"S320973500",NA
-"98","brnowl","American Barn Owl","Tyto furcata","L6668557","The Rolling Land Company","2026-04-12 17:13",1,32.759099,-117.054679,TRUE,FALSE,TRUE,"S321747810",NA
-"99","brnowl","American Barn Owl","Tyto furcata","L125099","Cheyenne Bottoms WA","2026-04-12 16:12",1,38.4634203,-98.6551076,TRUE,FALSE,FALSE,"S320982632",NA
-"100","brnowl","American Barn Owl","Tyto furcata","L1873678","Eagle Mountain","2026-04-12 15:55",1,40.3070386,-112.0149949,TRUE,FALSE,FALSE,"S321003906",NA
-"101","brnowl","American Barn Owl","Tyto furcata","L62634294","Butterfly Willows Trail, Anahuac US-TX 29.61392, -94.53416","2026-04-12 14:50",4,29.613924,-94.534159,TRUE,FALSE,TRUE,"S320846999",NA
-"102","brnowl","American Barn Owl","Tyto furcata","L249523","Caballo Lake SP--Riverside Recreation Area (below dam)","2026-04-12 14:32",1,32.8915794,-107.2956401,TRUE,FALSE,FALSE,"S321365063",NA
-"103","brnowl","American Barn Owl","Tyto furcata","L27501206","4310 SE 185th Ave, Micanopy US-FL 29.48800, -82.27261","2026-04-12 14:19",1,29.487999,-82.272606,TRUE,FALSE,TRUE,"S320803130",NA
-"104","brnowl","American Barn Owl","Tyto furcata","L391756","Jocelyn Nungaray NWR--Skillern Tract (UTC 050)","2026-04-12 12:30",5,29.6643945,-94.4222546,TRUE,FALSE,FALSE,"S320841741",NA
-"105","brnowl","American Barn Owl","Tyto furcata","L267071","Frager Rd. (north)","2026-04-12 11:26",1,47.418883,-122.2678757,TRUE,FALSE,FALSE,"S321608835",NA
-"106","brnowl","American Barn Owl","Tyto furcata","L7797854","Don Edwards NWR--Env. Ed. Ctr. (EEC) and nearby upland areas","2026-04-12 09:59",1,37.438916,-121.959456,TRUE,FALSE,FALSE,"S320867618",NA
-"107","brnowl","American Barn Owl","Tyto furcata","L62624679","12236-12514 Dodd Road, Burbank, Washington, US (46.139, -118.885)","2026-04-12 09:39",1,46.1386424,-118.8846021,TRUE,FALSE,TRUE,"S320749153",NA
-"108","brnowl","American Barn Owl","Tyto furcata","L1309658","Clay Street Marsh","2026-04-12 09:30",1,47.3135007,-122.2429204,TRUE,FALSE,FALSE,"S320781792",NA
-"109","brnowl","American Barn Owl","Tyto furcata","L51681152","Maxwell National Wildlife Refuge, Maxwell US-NM (36.5539,-104.6015)","2026-04-12 09:23",1,36.553947,-104.601499,TRUE,FALSE,TRUE,"S320819475",NA
-"110","brnowl","American Barn Owl","Tyto furcata","L1896421","Jocelyn Nungaray NWR--White-fronted Goose Unit","2026-04-12 09:09",4,29.609066,-94.535253,TRUE,FALSE,FALSE,"S320735163",NA
-"111","brnowl","American Barn Owl","Tyto furcata","L30018199","OIE Highway","2026-04-12 08:47",1,46.2581964,-119.6280952,TRUE,FALSE,TRUE,"S320706078",NA
-"112","brnowl","American Barn Owl","Tyto furcata","L62797390","Square Camp","2026-04-12 06:55",1,45.43817,-120.86198,TRUE,FALSE,TRUE,"S321624755",NA
-"113","brnowl","American Barn Owl","Tyto furcata","L17392109","Shelter Valley--general area","2026-04-12 06:42",1,33.0783592,-116.444444,TRUE,FALSE,FALSE,"S321834645",NA
-"114","brnowl","American Barn Owl","Tyto furcata","L1115335","Balmorhea SP (FWTX 19)","2026-04-12 06:17",1,30.9448014,-103.7864685,TRUE,FALSE,FALSE,"S320511572",NA
-"115","brnowl","American Barn Owl","Tyto furcata","L56489743","SR-9, Snohomish US-WA 47.90434, -122.10906","2026-04-12 03:20",1,47.904339,-122.109061,TRUE,FALSE,TRUE,"S320486902",NA
-"116","brnowl","American Barn Owl","Tyto furcata","L128987","High Island (UTC 051)","2026-04-12 00:51",2,29.565224,-94.3963361,TRUE,FALSE,FALSE,"S320420512",NA
-"117","brnowl","American Barn Owl","Tyto furcata","L62561090","765 Northwest 5th Street, Corvallis, Oregon, US (44.571, -123.259)","2026-04-11 23:47",1,44.5710794,-123.2593869,TRUE,FALSE,TRUE,"S320430709",NA
-"118","brnowl","American Barn Owl","Tyto furcata","L51886928","765 NW Fifth St, Corvallis OR","2026-04-11 23:47",1,44.571078,-123.259511,TRUE,FALSE,TRUE,"S320430876",NA
-"119","brnowl","American Barn Owl","Tyto furcata","L10959909","Bingham house","2026-04-11 23:15",1,41.8335504,-111.8359494,TRUE,FALSE,TRUE,"S320416031",NA
-"120","brnowl","American Barn Owl","Tyto furcata","L62557474","University of Colorado Boulder, Boulder US-CO (40.0085,-105.2741)","2026-04-11 22:45",1,40.008498,-105.274087,TRUE,FALSE,TRUE,"S320412576",NA
-"121","brnowl","American Barn Owl","Tyto furcata","L14085093","Solano Park","2026-04-11 22:37",1,38.5381807,-121.7440302,TRUE,FALSE,FALSE,"S320419493",NA
-"122","brnowl","American Barn Owl","Tyto furcata","L62651195","Tamarack Check Station","2026-04-11 22:30",1,40.8320166,-102.8040612,TRUE,FALSE,TRUE,"S320868739",NA
-"123","brnowl","American Barn Owl","Tyto furcata","L59559817","Bay City Baywatch (private residence)","2026-04-11 22:18",1,45.5203675,-123.8870872,TRUE,FALSE,TRUE,"S320435391",NA
-"124","brnowl","American Barn Owl","Tyto furcata","L281289","Coronado NF--Clanton Canyon","2026-04-11 22:18",1,31.518628,-109.0053371,TRUE,FALSE,FALSE,"S320873939",NA
-"125","brnowl","American Barn Owl","Tyto furcata","L62554451","SH-176, Stanton US-TX 32.29088, -101.80236","2026-04-11 21:45",1,32.290877,-101.802357,TRUE,FALSE,TRUE,"S320400034",NA
-"126","brnowl","American Barn Owl","Tyto furcata","L62607026","206 W Main St, Dahlgren US-IL 38.19825, -88.68423","2026-04-11 21:10",2,38.198255,-88.684229,TRUE,FALSE,TRUE,"S320665442",NA
-"127","brnowl","American Barn Owl","Tyto furcata","L39296892","7387 Kickin Horse Trail, Julian US-CA 33.07332, -116.43758","2026-04-11 20:55",1,33.073318,-116.437581,TRUE,FALSE,TRUE,"S320407022",NA
-"128","brnowl","American Barn Owl","Tyto furcata","L29386015","5475 Ardennes Way, Tooele US-UT 40.62871, -112.30153","2026-04-11 20:03",1,40.628715,-112.301528,TRUE,FALSE,TRUE,"S320399142",NA
-"129","brnowl","American Barn Owl","Tyto furcata","L209996","High Island--Eubanks Woods (UTC 053)","2026-04-11 19:52",1,29.5664803,-94.3905334,TRUE,FALSE,FALSE,"S320381644",NA
-"130","brnowl","American Barn Owl","Tyto furcata","L12028973","San Antonio Riverine Park","2026-04-11 19:50",1,33.92002,-106.85474,TRUE,FALSE,FALSE,"S320527162",NA
-"131","brnowl","American Barn Owl","Tyto furcata","L10335941","Torrey Hills Mesa","2026-04-11 19:43",1,32.930259,-117.218614,TRUE,FALSE,FALSE,"S320402992",NA
-"132","brnowl","American Barn Owl","Tyto furcata","L4199090","Sahara Woods SFWA","2026-04-11 19:40",1,37.7197728,-88.6792982,TRUE,FALSE,FALSE,"S320666925",NA
-"133","brnowl","American Barn Owl","Tyto furcata","L62652119","Coyote Trail, Chino Hills US-CA 33.92064, -117.70102","2026-04-11 19:15",1,33.920644,-117.701021,TRUE,FALSE,TRUE,"S320873180",NA
-"134","brnowl","American Barn Owl","Tyto furcata","L129086","Santa Margarita Ranch (LTC 079) (restricted access - guided groups only)","2026-04-11 19:02",1,26.4856177,-99.0912337,TRUE,FALSE,FALSE,"S320522846",NA
-"135","brnowl","American Barn Owl","Tyto furcata","L1505042","Bolivar Flats Shorebird Sanctuary--Rettilon Rd","2026-04-11 18:57",1,29.3872984,-94.7278439,TRUE,FALSE,FALSE,"S320378842",NA
-"136","brnowl","American Barn Owl","Tyto furcata","L15652874","Puente Plaza","2026-04-11 18:30",1,34.4360014,-119.7848812,TRUE,FALSE,TRUE,"S320389354",NA
-"137","brnowl","American Barn Owl","Tyto furcata","L4445455","10655 Agate Rd","2026-04-11 18:10",1,42.46904,-122.85268,TRUE,FALSE,TRUE,"S320389906",NA
-"138","brnowl","American Barn Owl","Tyto furcata","L1266647","Port Allen Airport--Seawatch","2026-04-11 17:31",1,21.8926556,-159.6046111,TRUE,FALSE,FALSE,"S320854692","N"
-"139","brnowl","American Barn Owl","Tyto furcata","L43511906","Jocelyn Nungaray National Wildlife Refuge","2026-04-11 14:57",4,29.638883,-94.542946,TRUE,FALSE,TRUE,"S320889340",NA
-"140","brnowl","American Barn Owl","Tyto furcata","L8644413","Merkel WTP","2026-04-11 14:42",1,32.4838792,-99.9983837,TRUE,FALSE,FALSE,"S320299324",NA
-"141","brnowl","American Barn Owl","Tyto furcata","L62538422","Cheyenne Bottoms WA—HQ Maintenance Barn","2026-04-11 13:40",1,38.4506036,-98.7377433,TRUE,FALSE,TRUE,"S320325304",NA
-"142","brnowl","American Barn Owl","Tyto furcata","L2360323","Pickerington Ponds--Ellis Pond","2026-04-11 12:59",1,39.8817616,-82.8037727,TRUE,TRUE,FALSE,"S320883755",NA
-"143","brnowl","American Barn Owl","Tyto furcata","L1210098","Antelope Island SP--Visitor Center & Loop Rd.","2026-04-11 12:48",1,41.054726,-112.2407765,TRUE,FALSE,FALSE,"S320332430",NA
-"144","brnowl","American Barn Owl","Tyto furcata","L275032","Hackberry Flat WMA","2026-04-11 12:01",2,34.2846781,-98.9394741,TRUE,FALSE,FALSE,"S321422681",NA
-"145","brnowl","American Barn Owl","Tyto furcata","L815544","Migrant Corner Trail and Sierra Way","2026-04-11 11:59",1,35.6725328,-118.3276463,TRUE,FALSE,FALSE,"S320243904",NA
-"146","brnowl","American Barn Owl","Tyto furcata","L6592709","Nehalem Meadows--McDonald Rd.","2026-04-11 11:31",1,45.732866,-123.87198,TRUE,FALSE,FALSE,"S320379837",NA
-"147","brnowl","American Barn Owl","Tyto furcata","L62559195","Jefferson County marshes along the Hamilton County line","2026-04-11 11:27",1,38.248061,-88.704589,TRUE,FALSE,TRUE,"S320420557",NA
-"148","brnowl","American Barn Owl","Tyto furcata","L2450783","Balboa Park--Marston Canyon","2026-04-11 10:51",1,32.7437654,-117.1523323,TRUE,FALSE,FALSE,"S320285530",NA
-"149","brnowl","American Barn Owl","Tyto furcata","L17672765","Chapman Ranch - CR 14 South (of 286)","2026-04-11 10:30",2,27.6160476,-97.4203066,TRUE,FALSE,TRUE,"S320123670",NA
-"150","brnowl","American Barn Owl","Tyto furcata","L2156363","White Rock Rd.--middle section (oak savanna)","2026-04-11 10:07",1,37.3240315,-120.0675201,TRUE,FALSE,FALSE,"S320309993",NA
-"151","brnowl","American Barn Owl","Tyto furcata","L268126","River Lane","2026-04-11 09:55",1,40.1662735,-111.737139,TRUE,FALSE,FALSE,"S320394202",NA
-"152","brnowl","American Barn Owl","Tyto furcata","L19435233","Santa Monica Mtns. NRA--Backbone Trail at Hondo Canyon","2026-04-11 09:53",1,34.0927835,-118.6097026,TRUE,FALSE,FALSE,"S320176047",NA
-"153","brnowl","American Barn Owl","Tyto furcata","L62495611","Hoeme Ranch (PRIVATE)","2026-04-11 09:17",2,38.770325,-100.667932,TRUE,FALSE,TRUE,"S321860467",NA
-"154","brnowl","American Barn Owl","Tyto furcata","L7649047","South Fork Willow Creek (west end)","2026-04-11 09:01",1,43.8097563,-116.4273119,TRUE,FALSE,TRUE,"S320144168",NA
-"155","brnowl","American Barn Owl","Tyto furcata","L1440295","Palo Corona RP--Rancho Cañada & South Bank Trail","2026-04-11 07:47",1,36.5373034,-121.8875036,TRUE,FALSE,FALSE,"S320353156",NA
-"156","brnowl","American Barn Owl","Tyto furcata","L285281","Cesar Chavez Park","2026-04-11 07:15",1,37.8709227,-122.3150389,TRUE,FALSE,FALSE,"S320161639",NA
-"157","brnowl","American Barn Owl","Tyto furcata","L815817","Frank G. Bonelli RP/Puddingstone Reservoir and vicinity","2026-04-11 07:00",1,34.0870104,-117.8050125,TRUE,FALSE,FALSE,"S320278819",NA
-"158","brnowl","American Barn Owl","Tyto furcata","L1268893","Howze Beach","2026-04-11 06:47",1,30.2187228,-89.7795675,TRUE,FALSE,FALSE,"S320245104",NA
-"159","brnowl","American Barn Owl","Tyto furcata","L3989659","Saguaro NP--East--lower Monument Wash","2026-04-11 06:29",1,32.2323105,-110.7028556,TRUE,FALSE,FALSE,"S320242174",NA
-"160","brnowl","American Barn Owl","Tyto furcata","L875490","Hillsboro (town)","2026-04-11 06:28",1,32.9207363,-107.5675249,TRUE,FALSE,FALSE,"S320809582",NA
-"161","brnowl","American Barn Owl","Tyto furcata","L3315805","League City, 208 Willow Pointe Drive","2026-04-11 04:40",1,29.49804,-95.09756,TRUE,FALSE,TRUE,"S319964661",NA
-"162","brnowl","American Barn Owl","Tyto furcata","L1052901","Prairie Ridge State Natural Area (Marion Co.)","2026-04-11 04:20",1,38.726193,-88.8236468,TRUE,FALSE,FALSE,"S320490114",NA
-"163","brnowl","American Barn Owl","Tyto furcata","L62465918","2710–2796 E 1100 Rd, Kirwin US-KS (39.5998,-99.1223)","2026-04-11 04:15",1,39.599767,-99.122322,TRUE,FALSE,TRUE,"S319985736",NA
-"164","brnowl","American Barn Owl","Tyto furcata","L332342","Cedar Island NWR","2026-04-11 04:13",1,34.9638889,-76.3333333,TRUE,FALSE,FALSE,"S320159364",NA
-"165","brnowl","American Barn Owl","Tyto furcata","L16851370","South Padre Is.--Shores Neighborhood","2026-04-11 03:45",1,26.1493632,-97.1721891,TRUE,FALSE,FALSE,"S320982576",NA
-"166","brnowl","American Barn Owl","Tyto furcata","L62647155","Flint Hills Scenic Byway, Matfield Green, Kansas, US (38.204, -96.567)","2026-04-11 03:01",1,38.2038684,-96.5674095,TRUE,FALSE,TRUE,"S320849484",NA
-"167","brnowl","American Barn Owl","Tyto furcata","L59920878","Mark Wilson NFC Station","2026-04-11 01:00",1,34.10893,-118.290248,TRUE,FALSE,TRUE,"S320141996",NA
-"168","brnowl","American Barn Owl","Tyto furcata","L976600","Ennis Lake--Meadow Lake FAS","2026-04-10 23:14",1,45.4428575,-111.7078793,TRUE,TRUE,FALSE,"S319873714",NA
-"169","brnowl","American Barn Owl","Tyto furcata","L62441056","4688–4698 Spring St, La Mesa US-CA (32.7645,-117.0200)","2026-04-10 21:52",1,32.764468,-117.02002,TRUE,FALSE,TRUE,"S319869533",NA
-"170","brnowl","American Barn Owl","Tyto furcata","L25375027","712 North B Street, Wellington, Kansas, US (37.272, -97.396)","2026-04-10 21:43",1,37.2721934,-97.3955631,TRUE,FALSE,TRUE,"S319901181",NA
-"171","brnowl","American Barn Owl","Tyto furcata","L62439376","804 Country Club Dr, Tooele US-UT 40.63420, -112.29697","2026-04-10 21:32",1,40.634195,-112.296971,TRUE,FALSE,TRUE,"S319862477",NA
-"172","brnowl","American Barn Owl","Tyto furcata","L53856615","Danny Boot Ranch","2026-04-10 21:24",1,30.36414,-98.892303,TRUE,TRUE,TRUE,"S319855622",NA
-"173","brnowl","American Barn Owl","Tyto furcata","L28344685","New house","2026-04-10 20:26",1,40.0752562,-105.0541411,TRUE,FALSE,TRUE,"S319855799",NA
-"174","brnowl","American Barn Owl","Tyto furcata","L18552539","Golf Course Blvd Punta Gorda FL","2026-04-10 20:05",1,26.9300378,-82.0012215,TRUE,TRUE,TRUE,"S320116520",NA
-"175","brnowl","American Barn Owl","Tyto furcata","L62439089","91344, Los Angeles US-CA 34.31283, -118.50863","2026-04-10 19:30",1,34.312831,-118.508627,TRUE,FALSE,TRUE,"S319861353",NA
-"176","brnowl","American Barn Owl","Tyto furcata","L29679345","RT-2000, Hilo US-HI","2026-04-10 19:29",1,19.681157,-155.150278,TRUE,FALSE,TRUE,"S319892925","N"
-"177","brnowl","American Barn Owl","Tyto furcata","L279620","Lake Okeechobee--Levee Park","2026-04-10 19:07",1,26.7620261,-80.9215622,TRUE,FALSE,FALSE,"S320084374",NA
-"178","brnowl","American Barn Owl","Tyto furcata","L209616","High Island--Boy Scout Woods (UTC 055)","2026-04-10 17:47",1,29.5613445,-94.3902236,TRUE,FALSE,FALSE,"S319995183",NA
-"179","brnowl","American Barn Owl","Tyto furcata","L19263334","The Farm","2026-04-10 14:21",2,47.6881626,-120.1258739,TRUE,TRUE,TRUE,"S319842395",NA
-"180","brnowl","American Barn Owl","Tyto furcata","L1161851","Trammell Crow Park","2026-04-10 13:51",5,32.7909291,-96.834567,TRUE,TRUE,FALSE,"S319740984",NA
-"181","brnowl","American Barn Owl","Tyto furcata","L4979024","Sacramento NWR--Wetlands Walk","2026-04-10 13:40",1,39.4303614,-122.1886969,TRUE,FALSE,FALSE,"S319793893",NA
-"182","brnowl","American Barn Owl","Tyto furcata","L16530601","Dwights place","2026-04-10 13:24",1,38.0128624,-98.1105023,TRUE,FALSE,TRUE,"S319730207",NA
-"183","brnowl","American Barn Owl","Tyto furcata","L3102485","Packery Channel Oak Motte Sanctuary area","2026-04-10 12:45",1,27.6256964,-97.2193265,TRUE,FALSE,FALSE,"S319699549",NA
-"184","brnowl","American Barn Owl","Tyto furcata","L43036795","Home","2026-04-10 12:12",NA,32.9965709,-103.3016208,TRUE,FALSE,TRUE,"S319706795",NA
-"185","brnowl","American Barn Owl","Tyto furcata","L465135","Starr Ranch","2026-04-10 11:48",NA,33.6249383,-117.556833,TRUE,FALSE,FALSE,"S319721607",NA
-"186","brnowl","American Barn Owl","Tyto furcata","L40034738","White Rock Rd, Raymond US-CA 37.33045, -120.05220","2026-04-10 11:27",1,37.33045,-120.0522,TRUE,FALSE,TRUE,"S319828527",NA
-"187","brnowl","American Barn Owl","Tyto furcata","L572363","Padre Isl. NS--Bird Island Basin Environs (Including Campground Ponds)","2026-04-10 11:23",1,27.4721051,-97.312088,TRUE,FALSE,FALSE,"S319767973",NA
-"188","brnowl","American Barn Owl","Tyto furcata","L42662991","White Rock Rd, Mariposa US-CA 37.35446, -120.02007","2026-04-10 10:52",1,37.354464,-120.020067,TRUE,FALSE,TRUE,"S319828660",NA
-"189","brnowl","American Barn Owl","Tyto furcata","L39186205","Pearl Harbor Aviation Museum","2026-04-10 10:50",1,21.3597741,-157.9618549,TRUE,FALSE,TRUE,"S319832740","N"
-"190","brnowl","American Barn Owl","Tyto furcata","L56388515","Fair Oaks Bluff","2026-04-10 09:44",1,38.6371457,-121.2648958,TRUE,FALSE,FALSE,"S319681795",NA
-"191","brnowl","American Barn Owl","Tyto furcata","L1391613","Elkhorn Regional Park (YOL Co.)","2026-04-10 09:15",1,38.6615862,-121.6128512,TRUE,FALSE,FALSE,"S319702719",NA
-"192","brnowl","American Barn Owl","Tyto furcata","L416332","204th Street, Kent","2026-04-10 08:53",1,47.4190282,-122.2763085,TRUE,FALSE,FALSE,"S319850528",NA
-"193","brnowl","American Barn Owl","Tyto furcata","L6302787","Marsh Wren Community Wetlands","2026-04-10 07:27",1,40.883635,-96.6577348,TRUE,TRUE,FALSE,"S319572536",NA
-"194","brnowl","American Barn Owl","Tyto furcata","L62362384","14803 Airlie Road, Monmouth, Oregon, US (44.753, -123.334)","2026-04-10 02:50",1,44.7528007,-123.3344386,TRUE,FALSE,TRUE,"S319478116",NA
-"195","brnowl","American Barn Owl","Tyto furcata","L2193569","Wilson WA--Cedar Creek Boat Ramp","2026-04-10 02:37",1,38.9621498,-98.6829004,TRUE,FALSE,FALSE,"S319453191",NA
-"196","brnowl","American Barn Owl","Tyto furcata","L4993875","Bob & Marcia's Place","2026-04-10 02:30",2,38.5388679,-88.0979195,TRUE,FALSE,TRUE,"S320316527",NA
-"197","brnowl","American Barn Owl","Tyto furcata","L62353141","U.S. 380, Plains, Texas, US (33.231, -102.888)","2026-04-10 00:37",1,33.2310521,-102.887533,TRUE,FALSE,TRUE,"S319432960",NA
-"198","brnowl","American Barn Owl","Tyto furcata","L128907","Big Bend NP--Rio Grande Village (FWTX 44)","2026-04-09 23:27",1,29.1809226,-102.9557133,TRUE,FALSE,FALSE,"S319726123",NA
-"199","brnowl","American Barn Owl","Tyto furcata","L663071","Benton Hot Springs (paid access only)","2026-04-09 23:16",1,37.8017805,-118.5296001,TRUE,TRUE,FALSE,"S319438576",NA
-"200","brnowl","American Barn Owl","Tyto furcata","L32270290","1354 Quincy Street, Ashland, Oregon, US (42.191, -122.694)","2026-04-09 23:05",1,42.1914154,-122.693749,TRUE,FALSE,TRUE,"S319436876",NA
-"201","brnowl","American Barn Owl","Tyto furcata","L26363380","Aliso Regal Cinemas","2026-04-09 22:34",2,33.576139,-117.726498,TRUE,FALSE,TRUE,"S319435882",NA
-"202","brnowl","American Barn Owl","Tyto furcata","L62358827","Daniel K Inouye Hwy, Hilo US-HI 19.69401, -155.25386","2026-04-09 22:32",1,19.694009,-155.253865,TRUE,FALSE,TRUE,"S319463426","N"
-"203","brnowl","American Barn Owl","Tyto furcata","L62357355","Naalehu--Naalehu Hongwanji Mission (ナーレフ本願寺)","2026-04-09 21:54",1,19.0596261,-155.5899526,TRUE,FALSE,TRUE,"S319456497","N"
-"204","brnowl","American Barn Owl","Tyto furcata","L35674531","Casa Pinnacles: The Bird House","2026-04-09 21:34",1,36.491662,-121.170327,TRUE,FALSE,TRUE,"S319425925",NA
-"205","brnowl","American Barn Owl","Tyto furcata","L248365","GSL Shoreline Preserve","2026-04-09 21:18",1,41.0403388,-112.0255668,TRUE,FALSE,FALSE,"S319427080",NA
-"206","brnowl","American Barn Owl","Tyto furcata","L62351230","17415 Depot St, Morgan Hill US-CA 37.12992, -121.65174","2026-04-09 20:55",1,37.129919,-121.651743,TRUE,FALSE,TRUE,"S319422878",NA
-"207","brnowl","American Barn Owl","Tyto furcata","L190925","Salt River--Coon Bluff Recreation Area","2026-04-09 20:55",1,33.5471399,-111.6454576,TRUE,FALSE,FALSE,"S319433573",NA
-"208","brnowl","American Barn Owl","Tyto furcata","L62527380","Fortress Cliff Campground","2026-04-09 20:53",1,34.9433102,-101.6600808,TRUE,FALSE,TRUE,"S320275864",NA
-"209","brnowl","American Barn Owl","Tyto furcata","L15416991","32554 Chambord St","2026-04-09 20:40",1,33.602838,-117.091132,TRUE,FALSE,TRUE,"S319440005",NA
-"210","brnowl","American Barn Owl","Tyto furcata","L54613250","Reta Allen Park","2026-04-09 20:26",1,33.020314,-96.553711,TRUE,FALSE,FALSE,"S320074786",NA
-"211","brnowl","American Barn Owl","Tyto furcata","L13449255","Shannon Road, Los Gatos","2026-04-09 20:16",1,37.2246058,-121.9292621,TRUE,FALSE,TRUE,"S319428067",NA
-"212","brnowl","American Barn Owl","Tyto furcata","L2903189","UC Davis--Putah Creek Lodge","2026-04-09 19:59",1,38.531378,-121.7588836,TRUE,FALSE,FALSE,"S319422214",NA
-"213","brnowl","American Barn Owl","Tyto furcata","L53738216","home","2026-04-09 19:54",1,32.7681999,-117.0523453,TRUE,FALSE,TRUE,"S319418219",NA
-"214","brnowl","American Barn Owl","Tyto furcata","L8440954","Lower Steamboat Creek Ponds","2026-04-09 19:20",1,39.5034562,-119.7219244,TRUE,FALSE,FALSE,"S319431045",NA
-"215","brnowl","American Barn Owl","Tyto furcata","L13462038","Ranch - homestead","2026-04-09 19:04",1,38.301821,-121.06156,TRUE,FALSE,TRUE,"S319413313",NA
-"216","brnowl","American Barn Owl","Tyto furcata","L9826151","Dickey-Stephens Park","2026-04-09 19:02",1,34.7555057,-92.2725821,TRUE,FALSE,TRUE,"S319402790",NA
-"217","brnowl","American Barn Owl","Tyto furcata","L61589676","75-800B Ihona St, Holualoa US-HI 19.64832, -155.96734","2026-04-09 19:02",1,19.648322,-155.967337,TRUE,FALSE,TRUE,"S319428781","N"
-"218","brnowl","American Barn Owl","Tyto furcata","L62347339","East Canal Street South, Florida, US (26.679, -80.417)","2026-04-09 18:55",3,26.6785388,-80.4171267,TRUE,FALSE,TRUE,"S319407894",NA
-"219","brnowl","American Barn Owl","Tyto furcata","L62398060","stanford university","2026-04-09 18:00",1,37.4379466,-122.167089,TRUE,FALSE,TRUE,"S319666549",NA
-"220","brnowl","American Barn Owl","Tyto furcata","L39064500","Ranch Road, Angels Camp, California, US (38.098, -120.521)","2026-04-09 17:06",2,38.0975717,-120.5206958,TRUE,FALSE,TRUE,"S319401473",NA
-"221","brnowl","American Barn Owl","Tyto furcata","L2179676","Stallion Springs Golf Course lake","2026-04-09 15:33",1,35.0834288,-118.6376238,TRUE,FALSE,FALSE,"S319414568",NA
-"222","brnowl","American Barn Owl","Tyto furcata","L781733","White Rock Rd. (MRP Co.)","2026-04-09 10:00",1,37.2909209,-120.1329231,TRUE,FALSE,FALSE,"S319412478",NA
-"223","brnowl","American Barn Owl","Tyto furcata","L27784925","7600 W Edgerton Dr, Las Vegas US-NV 36.08822, -115.25711","2026-04-09 09:49",1,36.088218,-115.257114,TRUE,FALSE,TRUE,"S319261883",NA
-"224","brnowl","American Barn Owl","Tyto furcata","L11134784","Ohlone Regional Wilderness","2026-04-09 09:30",1,37.5358202,-121.7082101,TRUE,FALSE,FALSE,"S319726806",NA
-"225","brnowl","American Barn Owl","Tyto furcata","L2175977","Joplin Rd. at Phyllis Slough","2026-04-09 08:30",1,43.6702898,-116.4858913,TRUE,FALSE,FALSE,"S319415595",NA
-"226","brnowl","American Barn Owl","Tyto furcata","L10875364","Stillwater National Wildlife Refuge","2026-04-09 08:30",2,39.6076531,-118.4933092,TRUE,FALSE,TRUE,"S319317764",NA
-"227","brnowl","American Barn Owl","Tyto furcata","L17759069","South Texas Ecotourism Center","2026-04-09 07:45",1,26.09276,-97.29624,TRUE,FALSE,FALSE,"S319169624",NA
-"228","brnowl","American Barn Owl","Tyto furcata","L11556038","Graham Farm & Nature Center","2026-04-09 07:28",1,34.8685038,-86.2122189,TRUE,TRUE,FALSE,"S319357631",NA
-"229","brnowl","American Barn Owl","Tyto furcata","L715898","Whelan Lake Bird Sanctuary (permission required)","2026-04-09 07:10",3,33.2424922,-117.3364091,TRUE,FALSE,FALSE,"S319381763",NA
-"230","brnowl","American Barn Owl","Tyto furcata","L62300809","4318 FM-1985, Anahuac US-TX 29.65798, -94.54666","2026-04-09 07:06",5,29.657979,-94.546662,TRUE,FALSE,TRUE,"S319178342",NA
-"231","brnowl","American Barn Owl","Tyto furcata","L1277623","Emiquon Preserve--Visitor's Center","2026-04-09 06:10",2,40.3556689,-90.0816679,TRUE,TRUE,FALSE,"S319174757",NA
-"232","brnowl","American Barn Owl","Tyto furcata","L387148","Mojave Narrows Regional Park","2026-04-09 06:01",1,34.5129928,-117.2708559,TRUE,FALSE,FALSE,"S319132277",NA
-"233","brnowl","American Barn Owl","Tyto furcata","L2195288","Black Mesa SP--Creek Campground","2026-04-09 05:21",1,36.842364,-102.8824675,TRUE,FALSE,FALSE,"S319073559",NA
-"234","brnowl","American Barn Owl","Tyto furcata","L62298361","449–457 FM-2686, Rio Grande City US-TX 26.68663, -98.74748","2026-04-09 02:33",1,26.686628,-98.747479,TRUE,FALSE,TRUE,"S319165839",NA
-"235","brnowl","American Barn Owl","Tyto furcata","L4828238","Long Beach Residence","2026-04-08 21:27",1,33.8203396,-118.0766755,TRUE,FALSE,TRUE,"S318999303",NA
-"236","brnowl","American Barn Owl","Tyto furcata","L506053","Damonte Ranch Wetlands","2026-04-08 21:26",1,39.4275085,-119.7185326,TRUE,FALSE,FALSE,"S319017194",NA
-"237","brnowl","American Barn Owl","Tyto furcata","L6622147","Cresthill","2026-04-08 21:09",1,44.9647629,-123.0650675,TRUE,FALSE,TRUE,"S318997510",NA
-"238","brnowl","American Barn Owl","Tyto furcata","L11237112","West Dungeness, WA","2026-04-08 20:38",1,48.1482609,-123.1417876,TRUE,FALSE,TRUE,"S318994941",NA
-"239","brnowl","American Barn Owl","Tyto furcata","L169112","Hassayampa River Preserve (closed Mon/Tue)","2026-04-08 19:30",1,33.9333419,-112.6946297,TRUE,FALSE,FALSE,"S318988625",NA
-"240","brnowl","American Barn Owl","Tyto furcata","L62264945","3231 Fort Simcoe Road, White Swan, Washington, US (46.346, -120.801)","2026-04-08 19:27",1,46.3461702,-120.800725,TRUE,FALSE,TRUE,"S318987835",NA
-"241","brnowl","American Barn Owl","Tyto furcata","L40711118","Lake Apopka North Shore--Hooper Farms Rd.","2026-04-08 19:26",1,28.6546046,-81.555948,TRUE,FALSE,FALSE,"S318962073",NA
-"242","brnowl","American Barn Owl","Tyto furcata","L2720404","Balboa Park Golf Course","2026-04-08 19:25",1,32.7338945,-117.1346076,TRUE,FALSE,TRUE,"S318992957",NA
-"243","brnowl","American Barn Owl","Tyto furcata","L57060497","640 14th Ave, Santa Cruz US-CA 36.96546, -121.99052","2026-04-08 18:32",1,36.965455,-121.990517,TRUE,FALSE,TRUE,"S318981218",NA
-"244","brnowl","American Barn Owl","Tyto furcata","L37090311","7508 Oxford Cir, Dublin US-CA 37.72331, -121.91377","2026-04-08 17:58",NA,37.723311,-121.913775,TRUE,FALSE,TRUE,"S319018863",NA
-"245","brnowl","American Barn Owl","Tyto furcata","L62260226","Owl Box on Phildel Street","2026-04-08 17:23",1,32.961485,-117.230399,TRUE,FALSE,TRUE,"S318966587",NA
-"246","brnowl","American Barn Owl","Tyto furcata","L1769640","Damon-Garcia Sports Field","2026-04-08 17:03",3,35.2516077,-120.6476746,TRUE,FALSE,FALSE,"S318972580",NA
-"247","brnowl","American Barn Owl","Tyto furcata","L60439036","Samford University","2026-04-08 16:59",1,33.464592,-86.798396,TRUE,FALSE,TRUE,"S318926238",NA
-"248","brnowl","American Barn Owl","Tyto furcata","L1370444","Eel River Estuary Preserve (access by permission only)","2026-04-08 10:27",1,40.6072283,-124.3269098,TRUE,FALSE,FALSE,"S318859507",NA
-"249","brnowl","American Barn Owl","Tyto furcata","L225853","American River Parkway--Upper Sunrise","2026-04-08 10:13",3,38.6344668,-121.2476875,TRUE,FALSE,FALSE,"S319372644",NA
-"250","brnowl","American Barn Owl","Tyto furcata","L40742631","Dodd Rd.","2026-04-08 09:59",1,46.138684,-118.825579,TRUE,FALSE,TRUE,"S318883995",NA
-"251","brnowl","American Barn Owl","Tyto furcata","L17401847","630 Lupine Lane, Templeton, California, US (35.554, -120.653)","2026-04-08 09:19",NA,35.554141,-120.6528548,TRUE,FALSE,TRUE,"S320987874",NA
-"252","brnowl","American Barn Owl","Tyto furcata","L918465","Santa Teresa County Park","2026-04-08 09:00",1,37.2122904,-121.7908287,TRUE,FALSE,FALSE,"S318835729",NA
-"253","brnowl","American Barn Owl","Tyto furcata","L1026626","Olompali State Historic Park","2026-04-08 08:29",1,38.1488676,-122.5861359,TRUE,FALSE,FALSE,"S318860212",NA
-"254","brnowl","American Barn Owl","Tyto furcata","L799234","Boggs Slough","2026-04-08 06:00",1,36.389867,-119.9226423,TRUE,FALSE,FALSE,"S318738898",NA
-"255","brnowl","American Barn Owl","Tyto furcata","L62174868","CA-41 N, Fresno US-CA 36.67847, -119.78574","2026-04-08 05:25",1,36.678465,-119.785738,TRUE,FALSE,TRUE,"S318978834",NA
-"256","brnowl","American Barn Owl","Tyto furcata","L2760812","Pep (town)","2026-04-08 04:35",1,33.8366715,-103.3361752,TRUE,FALSE,FALSE,"S318994200",NA
-"257","brnowl","American Barn Owl","Tyto furcata","L62265287","Grangeville Byp, Lemoore US-CA 36.37019, -119.92121","2026-04-08 00:45",1,36.370189,-119.921212,TRUE,FALSE,TRUE,"S318989217",NA
-"258","brnowl","American Barn Owl","Tyto furcata","L589025","Kings Row","2026-04-07 23:17",2,36.4418095,-119.5671701,TRUE,FALSE,FALSE,"S318561060",NA
-"259","brnowl","American Barn Owl","Tyto furcata","L2343265","Belmont Home (offset)","2026-04-07 23:10",1,37.5166702,-122.3060703,TRUE,FALSE,TRUE,"S318771186",NA
-"260","brnowl","American Barn Owl","Tyto furcata","L10493847","University of Washington--Medicinal Herb Garden","2026-04-07 22:28",1,47.6524224,-122.3089577,TRUE,FALSE,FALSE,"S318542722",NA
-"261","brnowl","American Barn Owl","Tyto furcata","L62179226","29561-29037 Robinson Canyon Road, Carmel, California, US (36.5, -121.81)","2026-04-07 22:20",1,36.4998218,-121.8096432,TRUE,FALSE,TRUE,"S318546228",NA
-"262","brnowl","American Barn Owl","Tyto furcata","L14927419","Noah's House near LLC","2026-04-07 22:16",1,34.442405,-119.8426241,TRUE,FALSE,TRUE,"S318540826",NA
-"263","brnowl","American Barn Owl","Tyto furcata","L62176648","87144, Rio Rancho US-NM 35.28771, -106.61160","2026-04-07 21:36",1,35.287705,-106.611604,TRUE,FALSE,TRUE,"S318532654",NA
-"264","brnowl","American Barn Owl","Tyto furcata","L1312552","Normandy Park Beach","2026-04-07 21:14",1,47.4443432,-122.353363,TRUE,FALSE,FALSE,"S318534581",NA
-"265","brnowl","American Barn Owl","Tyto furcata","L21083424","RWC yard","2026-04-07 21:06",1,37.48445,-122.243596,TRUE,FALSE,TRUE,"S318999545",NA
-"266","brnowl","American Barn Owl","Tyto furcata","L8020315","Home- backyard","2026-04-07 21:01",1,36.130726,-118.811499,TRUE,FALSE,TRUE,"S318533414",NA
-"267","brnowl","American Barn Owl","Tyto furcata","L17901285","College of Marin","2026-04-07 20:53",2,37.952444,-122.549273,TRUE,FALSE,TRUE,"S318532758",NA
-"268","brnowl","American Barn Owl","Tyto furcata","L687159","Madera_SJER Office","2026-04-07 20:49",1,37.0899403,-119.7221375,TRUE,FALSE,TRUE,"S319792383",NA
-"269","brnowl","American Barn Owl","Tyto furcata","L62176947","57104, Sioux Falls US-SD (43.5985,-96.7428)","2026-04-07 20:44",1,43.598526,-96.742832,TRUE,FALSE,TRUE,"S318533912",NA
-"270","brnowl","American Barn Owl","Tyto furcata","L373341","Robinson Canyon--mp 8.5 to watershed summit (~mp 5)","2026-04-07 20:34",1,36.4895411,-121.8113422,TRUE,FALSE,FALSE,"S318546126",NA
-"271","brnowl","American Barn Owl","Tyto furcata","L62176209","Sutton’s Corner","2026-04-07 20:22",1,47.892418,-122.012505,TRUE,FALSE,TRUE,"S318530902",NA
-"272","brnowl","American Barn Owl","Tyto furcata","L52301925","2512 Pergl St, Lemon Grove US-CA 32.73300, -117.04149","2026-04-07 19:51",2,32.733005,-117.041489,TRUE,FALSE,TRUE,"S318527030",NA
-"273","brnowl","American Barn Owl","Tyto furcata","L62176310","5515–5599 Lack Rd and Salton Sea","2026-04-07 18:53",1,33.046109,-115.64733,TRUE,FALSE,TRUE,"S318531272",NA
-"274","brnowl","American Barn Owl","Tyto furcata","L62167873","Jocelyn Nungaray National Wildlife Refuge, Anahuac US-TX 29.60370, -94.52994","2026-04-07 17:52",4,29.6037,-94.529937,TRUE,FALSE,TRUE,"S318491327",NA
-"275","brnowl","American Barn Owl","Tyto furcata","L214134","Pickerington Ponds (Franklin Co.)","2026-04-07 15:31",1,39.8866949,-82.8006077,TRUE,TRUE,FALSE,"S318498041",NA
-"276","brnowl","American Barn Owl","Tyto furcata","L2116470","Jackson County Sports Park","2026-04-07 15:04",1,42.4190213,-122.8000259,TRUE,FALSE,FALSE,"S318478443",NA
-"277","brnowl","American Barn Owl","Tyto furcata","L23522464","San Luis Obispo: Old Windmill Lane","2026-04-07 14:05",1,35.2484702,-120.6677732,TRUE,FALSE,TRUE,"S318564361",NA
-"278","brnowl","American Barn Owl","Tyto furcata","L62225520","Butterfly Willows Trail, Anahuac US-TX 29.61398, -94.53665","2026-04-07 12:37",4,29.613982,-94.536653,TRUE,FALSE,TRUE,"S318784481",NA
-"279","brnowl","American Barn Owl","Tyto furcata","L62175184","Tower Road Agricultural Fields","2026-04-07 10:15",1,35.164044,-118.806389,TRUE,FALSE,TRUE,"S318526772",NA
-"280","brnowl","American Barn Owl","Tyto furcata","L210301","Peveto Woods--Baton Rouge Audubon Society Sanctuary","2026-04-07 09:46",1,29.7576119,-93.6022818,TRUE,FALSE,FALSE,"S318518557",NA
-"281","brnowl","American Barn Owl","Tyto furcata","L613438","Klamath Wildlife Area--Miller Island Unit","2026-04-07 09:22",1,42.1551736,-121.8082073,TRUE,FALSE,FALSE,"S318403324",NA
-"282","brnowl","American Barn Owl","Tyto furcata","L348938","Van Duesen Road - Private, Julian, CA","2026-04-07 09:10",1,33.0697451,-116.6020367,TRUE,FALSE,TRUE,"S318872430",NA
-"283","brnowl","American Barn Owl","Tyto furcata","L4795535","Gladeview Rd.","2026-04-07 08:57",1,26.6661316,-80.492734,TRUE,FALSE,FALSE,"S318306600",NA
-"284","brnowl","American Barn Owl","Tyto furcata","L62176291","Big morongo canyon preserve","2026-04-07 08:13",1,34.049068,-116.567773,TRUE,FALSE,TRUE,"S318531206",NA
-"285","brnowl","American Barn Owl","Tyto furcata","L46788204","Backyard","2026-04-07 07:06",NA,31.2226376,-81.4747147,TRUE,FALSE,TRUE,"S318225905",NA
-"286","brnowl","American Barn Owl","Tyto furcata","L21034811","UTRGV—Duckhead (Limited Access)","2026-04-07 07:01",1,25.8988206,-97.4752593,TRUE,FALSE,FALSE,"S318411368",NA
-"287","brnowl","American Barn Owl","Tyto furcata","L389757","Old Port Isabel Rd","2026-04-07 05:42",1,26.0057269,-97.4183462,TRUE,FALSE,FALSE,"S318213872",NA
-"288","brnowl","American Barn Owl","Tyto furcata","L275399","Mt. Diablo SP--Mitchell Canyon","2026-04-07 05:14",1,37.9149001,-121.9479203,TRUE,FALSE,FALSE,"S318476125",NA
-"289","brnowl","American Barn Owl","Tyto furcata","L62348355","44.16311_-123.20134","2026-04-07 04:33",1,44.16311,-123.20134,TRUE,FALSE,TRUE,"S319410473",NA
-"290","brnowl","American Barn Owl","Tyto furcata","L509876","Madera_SJER Valley pasture","2026-04-07 03:05",1,37.096179,-119.7168589,TRUE,FALSE,TRUE,"S319792865",NA
-"291","brnowl","American Barn Owl","Tyto furcata","L510494","Madera_SJER Barracks and Pond","2026-04-07 02:51",1,37.0914722,-119.7229099,TRUE,FALSE,TRUE,"S318201096",NA
-"292","brnowl","American Barn Owl","Tyto furcata","L4022281","Wilson River Loop Rd.","2026-04-06 23:55",1,45.4733967,-123.8086867,TRUE,FALSE,FALSE,"S318569788",NA
-"293","brnowl","American Barn Owl","Tyto furcata","L23869001","8250 Trask River Road, Tillamook, Oregon, US (45.446, -123.782)","2026-04-06 23:46",1,45.4455013,-123.7824121,TRUE,FALSE,TRUE,"S318569854",NA
-"294","brnowl","American Barn Owl","Tyto furcata","L19760045","10900 Trask River Road, Tillamook, Oregon, US (45.44, -123.753)","2026-04-06 23:44",1,45.4399681,-123.7530958,TRUE,FALSE,TRUE,"S318569720",NA
-"295","brnowl","American Barn Owl","Tyto furcata","L30210092","920 J Street, Davis, California, US (38.56, -121.739)","2026-04-06 22:30",1,38.5596113,-121.7389123,TRUE,FALSE,TRUE,"S318147238",NA
-"296","brnowl","American Barn Owl","Tyto furcata","L16341805","Logtown Ridge","2026-04-06 21:37",1,38.6125128,-120.8487353,TRUE,FALSE,TRUE,"S318140768",NA
-"297","brnowl","American Barn Owl","Tyto furcata","L39237556","Silverado Drive - Valley Springs","2026-04-06 21:06",1,38.1613575,-120.8291859,TRUE,FALSE,TRUE,"S318138039",NA
-"298","brnowl","American Barn Owl","Tyto furcata","L62095400","Emny Ranch","2026-04-06 21:04",1,35.76007,-120.57408,TRUE,FALSE,TRUE,"S318137792",NA
-"299","brnowl","American Barn Owl","Tyto furcata","L384546","Waneka Lake/Greenlee Preserve","2026-04-06 20:59",1,39.9970462,-105.1141834,TRUE,FALSE,FALSE,"S318482243",NA
-"300","brnowl","American Barn Owl","Tyto furcata","L39257316","1720 Alamo Pintado Rd, Solvang US-CA 34.63318, -120.11708","2026-04-06 20:30",1,34.633182,-120.117076,TRUE,FALSE,TRUE,"S318139186",NA
-"301","brnowl","American Barn Owl","Tyto furcata","L3152362","La Mesa","2026-04-06 20:23",1,32.7665315,-117.0287343,TRUE,FALSE,TRUE,"S318134722",NA
-"302","brnowl","American Barn Owl","Tyto furcata","L2311003","Rigg Street","2026-04-06 20:00",1,36.9711388,-122.0380833,TRUE,FALSE,TRUE,"S318510791",NA
-"303","brnowl","American Barn Owl","Tyto furcata","L61872940","Home","2026-04-06 19:52",1,30.417223,-96.957827,TRUE,FALSE,TRUE,"S318790290",NA
-"304","brnowl","American Barn Owl","Tyto furcata","L60908442","1352 Weeks Avenue, Bolivar Peninsula, Texas, US (29.566, -94.393)","2026-04-06 19:28",3,29.5662609,-94.3932647,TRUE,FALSE,TRUE,"S318118273",NA
-"305","brnowl","American Barn Owl","Tyto furcata","L13119375","Putah Creek Riparian Reserve (YOL Co.)","2026-04-06 19:15",1,38.5275081,-121.7957319,TRUE,FALSE,FALSE,"S318142699",NA
-"306","brnowl","American Barn Owl","Tyto furcata","L826126","West Hills Park","2026-04-06 19:00",1,32.8470092,-117.0207238,TRUE,FALSE,FALSE,"S318381487",NA
-"307","brnowl","American Barn Owl","Tyto furcata","L18087826","High Plains Environmental Center","2026-04-06 18:58",1,40.4205471,-105.0098545,TRUE,FALSE,FALSE,"S318127249",NA
-"308","brnowl","American Barn Owl","Tyto furcata","L235490","Rice Canyon OSP","2026-04-06 18:51",2,32.6440297,-117.0192439,TRUE,FALSE,FALSE,"S318134321",NA
-"309","brnowl","American Barn Owl","Tyto furcata","L1065768","Lonoak Road (Big Bend & Lonoak Cyn in MTY Co., east of creek)","2026-04-06 18:12",3,36.2904969,-120.9845803,TRUE,FALSE,FALSE,"S318153533",NA
-"310","brnowl","American Barn Owl","Tyto furcata","L62093790","3150 Ranchita Canyon Rd, San Miguel US-CA 35.73591, -120.61365","2026-04-06 18:06",1,35.735909,-120.613653,TRUE,FALSE,TRUE,"S318123041",NA
-"311","brnowl","American Barn Owl","Tyto furcata","L299639","Big Island Wildlife Area","2026-04-06 17:37",1,40.5687032,-83.2741356,TRUE,FALSE,FALSE,"S318108741",NA
-"312","brnowl","American Barn Owl","Tyto furcata","L62063535","County Road 14","2026-04-06 12:41",2,27.615497,-97.449805,TRUE,FALSE,TRUE,"S317979924",NA
-"313","brnowl","American Barn Owl","Tyto furcata","L2698912","Ed Levin CP--Sandy Wool-Elm areas","2026-04-06 12:08",1,37.4559362,-121.8632054,TRUE,FALSE,FALSE,"S318058266",NA
-"314","brnowl","American Barn Owl","Tyto furcata","L753048","Malheur NWR--Central Patrol Rd.","2026-04-06 11:01",1,43.2024856,-118.8875628,TRUE,FALSE,FALSE,"S318114898",NA
-"315","brnowl","American Barn Owl","Tyto furcata","L588398","Buck Island Ranch","2026-04-06 09:39",1,27.1545411,-81.1977705,TRUE,FALSE,FALSE,"S320276460",NA
-"316","brnowl","American Barn Owl","Tyto furcata","L298002","Archbold Biological Station","2026-04-06 09:00",2,27.1830202,-81.3511848,TRUE,FALSE,FALSE,"S319307448",NA
-"317","brnowl","American Barn Owl","Tyto furcata","L47151972","Willow Bend Natural Area","2026-04-06 08:17",1,40.3892493,-105.0402,TRUE,FALSE,FALSE,"S318342260",NA
-"318","brnowl","American Barn Owl","Tyto furcata","L28921291","Backyard","2026-04-06 07:04",2,33.895889,-117.789292,TRUE,FALSE,TRUE,"S317886061",NA
-"319","brnowl","American Barn Owl","Tyto furcata","L405338","Frog Pond WMA--Lucky Hammock","2026-04-06 06:57",1,25.396439,-80.566581,TRUE,FALSE,FALSE,"S317784800",NA
-"320","brnowl","American Barn Owl","Tyto furcata","L4172136","Rader house","2026-04-06 05:35",1,38.8283959,-98.475354,TRUE,FALSE,TRUE,"S317742821",NA
-"321","brnowl","American Barn Owl","Tyto furcata","L52801294","Stanford University, Stanford US-CA (37.4255,-122.1800)","2026-04-06 02:52",1,37.425526,-122.17995,TRUE,FALSE,TRUE,"S317721743",NA
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
+"1","lobthr","Long-billed Thrasher","Toxostoma longirostre","L129075","Salineño Wildlife Preserve (LTC 080)","2026-04-16 16:49",1,26.5148584,-99.1162062,TRUE,FALSE,FALSE,"S322679357"
+"2","lobthr","Long-billed Thrasher","Toxostoma longirostre","L249887","Quinta Mazatlan WBC (LTC 063)","2026-04-16 16:29",5,26.176876,-98.2309932,TRUE,FALSE,FALSE,"S322665035"
+"3","lobthr","Long-billed Thrasher","Toxostoma longirostre","L24488141","Home","2026-04-16 15:58",1,27.9158,-98.034948,TRUE,FALSE,TRUE,"S322647256"
+"4","lobthr","Long-billed Thrasher","Toxostoma longirostre","L249889","Edinburg Scenic Wetlands WBC (LTC 061)","2026-04-16 15:48",3,26.2905822,-98.1351909,TRUE,FALSE,FALSE,"S322660847"
+"5","lobthr","Long-billed Thrasher","Toxostoma longirostre","L2392487","Laguna Vista Nature Trail","2026-04-16 15:19",4,26.1009454,-97.29914,TRUE,FALSE,FALSE,"S322635025"
+"6","lobthr","Long-billed Thrasher","Toxostoma longirostre","L259855","Estero Llano Grande SP WBC (LTC 054)","2026-04-16 14:50",1,26.1268335,-97.9578167,TRUE,FALSE,FALSE,"S322655611"
+"7","lobthr","Long-billed Thrasher","Toxostoma longirostre","L374130","Blucher Park (CTC 071)","2026-04-16 14:34",3,27.791317,-97.399174,TRUE,FALSE,FALSE,"S322678858"
+"8","lobthr","Long-billed Thrasher","Toxostoma longirostre","L13490407","Choke Canyon SP--Birding Blind","2026-04-16 14:01",2,28.4886513,-98.3411523,TRUE,FALSE,FALSE,"S322655241"
+"9","lobthr","Long-billed Thrasher","Toxostoma longirostre","L43395302","EIA (Private property/restricted access)","2026-04-16 13:22",2,26.2747338,-98.1620371,TRUE,FALSE,TRUE,"S322583991"
+"10","lobthr","Long-billed Thrasher","Toxostoma longirostre","L129085","Santa Ana NWR (LTC 059)","2026-04-16 12:28",1,26.0813003,-98.1351399,TRUE,FALSE,FALSE,"S322621808"
+"11","lobthr","Long-billed Thrasher","Toxostoma longirostre","L28494561","Choke Canyon SP (Calliham Unit)--Rec Center area","2026-04-16 12:22",1,28.4800631,-98.348663,TRUE,FALSE,FALSE,"S322590015"
+"12","lobthr","Long-billed Thrasher","Toxostoma longirostre","L283726","South Padre Is.--WBC/Conv. Center/Laguna Madre Trail (LTC 035)","2026-04-16 12:10",1,26.1400912,-97.1748233,TRUE,FALSE,FALSE,"S322665471"
+"13","lobthr","Long-billed Thrasher","Toxostoma longirostre","L23517813","SPI Convention Center Auto selected 26.14049, -97.17488","2026-04-16 11:45",1,26.140494,-97.17488,TRUE,FALSE,TRUE,"S322562697"
+"14","lobthr","Long-billed Thrasher","Toxostoma longirostre","L1432615","SPI Convention Centre","2026-04-16 11:40",1,26.1399479,-97.1749306,TRUE,FALSE,TRUE,"S322689892"
+"15","lobthr","Long-billed Thrasher","Toxostoma longirostre","L1487217","Santa Ana NWR--Pintail Lakes Trail","2026-04-16 10:52",2,26.0787993,-98.1330503,TRUE,FALSE,FALSE,"S322551814"
+"16","lobthr","Long-billed Thrasher","Toxostoma longirostre","L160563","Mitchell Lake Audubon Center (HOTE 103)","2026-04-16 10:30",1,29.3105956,-98.4996938,TRUE,FALSE,FALSE,"S322599756"
+"17","lobthr","Long-billed Thrasher","Toxostoma longirostre","L374166","Pollywog Pond (CTC 077)","2026-04-16 10:11",1,27.8627509,-97.612361,TRUE,FALSE,FALSE,"S322645862"
+"18","lobthr","Long-billed Thrasher","Toxostoma longirostre","L4592193","Radar Base WTP & Firefly Lane","2026-04-16 10:11",1,28.8591827,-100.5371332,TRUE,FALSE,FALSE,"S322536540"
+"19","lobthr","Long-billed Thrasher","Toxostoma longirostre","L62964462","2201 Old Military Road, Hidalgo, Texas, US (26.091, -98.237)","2026-04-16 09:51",1,26.0906988,-98.2369448,TRUE,FALSE,TRUE,"S322552732"
+"20","lobthr","Long-billed Thrasher","Toxostoma longirostre","L37165425","Bayside Drive, Los Fresnos, Texas, US (26.161, -97.315)","2026-04-16 09:46",1,26.1614367,-97.3145417,TRUE,FALSE,TRUE,"S322493323"
+"21","lobthr","Long-billed Thrasher","Toxostoma longirostre","L1154119","Santa Ana NWR--Observation Tower","2026-04-16 09:22",1,26.0773969,-98.1382392,TRUE,FALSE,FALSE,"S322511350"
+"22","lobthr","Long-billed Thrasher","Toxostoma longirostre","L62948280","10216–10312 County Road 2200, Taft US-TX 27.88151, -97.44222","2026-04-16 09:17",2,27.881506,-97.442215,TRUE,FALSE,TRUE,"S322470988"
+"23","lobthr","Long-billed Thrasher","Toxostoma longirostre","L163665","San Antonio Botanical Garden (HOTE 096)","2026-04-16 09:10",1,29.4574171,-98.4593011,TRUE,FALSE,FALSE,"S322572995"
+"24","lobthr","Long-billed Thrasher","Toxostoma longirostre","L10848593","Lake Corpus Christi","2026-04-16 09:03",1,28.0635168,-97.871232,TRUE,FALSE,FALSE,"S322584946"
+"25","lobthr","Long-billed Thrasher","Toxostoma longirostre","L2745845","Veterans Park, Beeville","2026-04-16 09:01",2,28.4028736,-97.7689033,TRUE,FALSE,FALSE,"S322503042"
+"26","lobthr","Long-billed Thrasher","Toxostoma longirostre","L336009","National Butterfly Center--General & area North of Levee","2026-04-16 08:57",2,26.1796025,-98.3664483,TRUE,FALSE,FALSE,"S322523140"
+"27","lobthr","Long-billed Thrasher","Toxostoma longirostre","L288849","Laguna Atascosa NWR--HQ and Kiskadee Trail","2026-04-16 08:45",3,26.2285086,-97.3475226,TRUE,FALSE,FALSE,"S322473299"
+"28","lobthr","Long-billed Thrasher","Toxostoma longirostre","L273764","Hugh Ramsey Park (Harlingen Arroyo Colorado) WBC (LTC 026)","2026-04-16 08:45",1,26.1857402,-97.6641657,TRUE,FALSE,FALSE,"S322640360"
+"29","lobthr","Long-billed Thrasher","Toxostoma longirostre","L11452047","Sandpipers - Private","2026-04-16 08:29",1,26.3997085,-98.1581075,TRUE,FALSE,TRUE,"S322450996"
+"30","lobthr","Long-billed Thrasher","Toxostoma longirostre","L62943958","24515-24261 Buena Vista Boulevard, Los Fresnos, Texas, US (26.205, -97.352)","2026-04-16 08:23",1,26.2050242,-97.352108,TRUE,FALSE,TRUE,"S322447333"
+"31","lobthr","Long-billed Thrasher","Toxostoma longirostre","L21529885","Blue Bunting Lodge","2026-04-16 08:21",2,26.1414571,-97.8842267,TRUE,FALSE,FALSE,"S322565592"
+"32","lobthr","Long-billed Thrasher","Toxostoma longirostre","L213585","Warbler Woods Bird Sanctuary","2026-04-16 08:13",1,29.609375,-98.2426827,TRUE,FALSE,FALSE,"S322535642"
+"33","lobthr","Long-billed Thrasher","Toxostoma longirostre","L23170459","2800–2804 S Bentsen Palm Dr, Palmview US-TX 26.18599, -98.37920","2026-04-16 08:11",1,26.185989,-98.379196,TRUE,FALSE,TRUE,"S322498527"
+"34","lobthr","Long-billed Thrasher","Toxostoma longirostre","L30603793","San Antonio Botanical Garden, San Antonio US-TX (29.4584,-98.4578)","2026-04-16 08:06",1,29.458359,-98.457753,TRUE,FALSE,TRUE,"S322498046"
+"35","lobthr","Long-billed Thrasher","Toxostoma longirostre","L613081","Bentsen-Rio Grande Val. SP--Hawk Watch","2026-04-16 08:00",2,26.1690952,-98.3805352,TRUE,FALSE,FALSE,"S322642011"
+"36","lobthr","Long-billed Thrasher","Toxostoma longirostre","L1331912","Santa Ana NWR--Entry and Parking lot","2026-04-16 07:56",1,26.0826692,-98.1356089,TRUE,FALSE,FALSE,"S322547557"
+"37","lobthr","Long-billed Thrasher","Toxostoma longirostre","L62946760","CR95 to Dairy Rd Intersection","2026-04-16 07:48",1,27.7892588,-97.868331,TRUE,FALSE,TRUE,"S322462373"
+"38","lobthr","Long-billed Thrasher","Toxostoma longirostre","L1322059","Santa Ana NWR--Willow Lakes","2026-04-16 07:37",5,26.0799512,-98.1399679,TRUE,FALSE,FALSE,"S322502751"
+"39","lobthr","Long-billed Thrasher","Toxostoma longirostre","L62942900","Home","2026-04-16 07:30",1,29.596572,-98.367819,TRUE,FALSE,TRUE,"S322441238"
+"40","lobthr","Long-billed Thrasher","Toxostoma longirostre","L269692","Lake Findley (Lake Alice)","2026-04-16 07:25",3,27.7888887,-98.0641977,TRUE,FALSE,FALSE,"S322480938"
+"41","lobthr","Long-billed Thrasher","Toxostoma longirostre","L129065","Resaca de la Palma SP WBC (Brownsville) (LTC 048)","2026-04-16 07:15",1,25.9965839,-97.5690513,TRUE,FALSE,FALSE,"S322493866"
+"42","lobthr","Long-billed Thrasher","Toxostoma longirostre","L21034811","UTRGV—Duckhead (Limited Access)","2026-04-16 07:14",1,25.8988206,-97.4752593,TRUE,FALSE,FALSE,"S322610124"
+"43","lobthr","Long-billed Thrasher","Toxostoma longirostre","L62935251","Cannon Rd, San Benito US-TX 26.09642, -97.78534","2026-04-16 06:55",2,26.096418,-97.785338,TRUE,FALSE,TRUE,"S322390847"
+"44","lobthr","Long-billed Thrasher","Toxostoma longirostre","L128890","Bentsen-Rio Grande Val. SP WBC (Mission) (LTC 069)","2026-04-16 06:20",1,26.1796748,-98.3842338,TRUE,FALSE,FALSE,"S322419888"
+"45","lobthr","Long-billed Thrasher","Toxostoma longirostre","L1174771","Bentsen-Rio Grande Val. SP--HQ Buildings and Nature Center Area","2026-04-15 19:58",1,26.1855061,-98.3797728,TRUE,FALSE,FALSE,"S322274381"
+"46","lobthr","Long-billed Thrasher","Toxostoma longirostre","L280913","Rancho Lomitas","2026-04-15 17:34",1,26.4871971,-98.8227511,TRUE,FALSE,FALSE,"S322629667"
+"47","lobthr","Long-billed Thrasher","Toxostoma longirostre","L497138","LRGV NWR--Cannon Road (LTC-050)","2026-04-15 15:42",2,26.0757882,-97.7853584,TRUE,FALSE,FALSE,"S322273124"
+"48","lobthr","Long-billed Thrasher","Toxostoma longirostre","L20748803","2023 Elm Shadow, San Antonio US-TX 29.55423, -98.55075","2026-04-15 14:40",1,29.554225,-98.550754,TRUE,FALSE,TRUE,"S322175375"
+"49","lobthr","Long-billed Thrasher","Toxostoma longirostre","L2266657","Laguna Atascosa NWR--Lakeside Drive","2026-04-15 14:36",2,26.2335321,-97.3533726,TRUE,FALSE,FALSE,"S322237843"
+"50","lobthr","Long-billed Thrasher","Toxostoma longirostre","L275885","Braunig Lake (HOTE 101)","2026-04-15 14:32",2,29.2488196,-98.3939707,TRUE,FALSE,FALSE,"S322186890"
+"51","lobthr","Long-billed Thrasher","Toxostoma longirostre","L2061122","Uvalde Co.--CR202 at Nueces R.","2026-04-15 13:36",1,29.1818405,-99.8945618,TRUE,FALSE,FALSE,"S322163949"
+"52","lobthr","Long-billed Thrasher","Toxostoma longirostre","L288854","Laguna Atascosa NWR--Bayside Drive","2026-04-15 13:09",1,26.2163251,-97.3425493,TRUE,FALSE,FALSE,"S322136039"
+"53","lobthr","Long-billed Thrasher","Toxostoma longirostre","L723082","Laguna Atascosa NWR--Buena Vista Blvd. (within refuge)","2026-04-15 13:08",1,26.2112414,-97.3515916,TRUE,FALSE,FALSE,"S322136343"
+"54","lobthr","Long-billed Thrasher","Toxostoma longirostre","L499773","Cook's Slough Sanctuary (HOTW 025)","2026-04-15 10:22",2,29.1873567,-99.7886572,TRUE,FALSE,FALSE,"S322151286"
+"55","lobthr","Long-billed Thrasher","Toxostoma longirostre","L62791791","572–680 Old Rocksprings Rd, Leakey US-TX 29.84696, -99.77114","2026-04-15 09:27",2,29.846958,-99.771145,TRUE,FALSE,TRUE,"S322277482"
+"56","lobthr","Long-billed Thrasher","Toxostoma longirostre","L62880638","502–508 Alejandrejnas Rd, Zapata US-TX 26.77685, -99.12864","2026-04-15 09:21",1,26.776848,-99.128641,TRUE,FALSE,TRUE,"S322105378"
+"57","lobthr","Long-billed Thrasher","Toxostoma longirostre","L4092272","Rincon Del Diablo (near Magnolia and Barron)","2026-04-15 09:00",1,29.350534,-100.8931965,TRUE,FALSE,FALSE,"S322100251"
+"58","lobthr","Long-billed Thrasher","Toxostoma longirostre","L1495267","King Ranch--Norias Division--Center/HQ area","2026-04-15 08:47",3,26.7721022,-97.7013494,TRUE,FALSE,FALSE,"S322249908"
+"59","lobthr","Long-billed Thrasher","Toxostoma longirostre","L62892046","Estero Llano Grande State Park, Mercedes US-TX 26.12640, -97.95653","2026-04-15 08:43",1,26.126405,-97.95653,TRUE,FALSE,TRUE,"S322161266"
+"60","lobthr","Long-billed Thrasher","Toxostoma longirostre","L62872928","Faulconer Road, Hidalgo, Texas, US (26.076, -98.239)","2026-04-15 08:40",1,26.0760986,-98.2391104,TRUE,FALSE,TRUE,"S322065987"
+"61","lobthr","Long-billed Thrasher","Toxostoma longirostre","L302786","Hazel Bazemore-Calallen Park (CTC 078)","2026-04-15 08:32",1,27.8660367,-97.6408984,TRUE,FALSE,FALSE,"S322028804"
+"62","lobthr","Long-billed Thrasher","Toxostoma longirostre","L1155581","Texas A&M--Corpus Christi","2026-04-15 08:18",1,27.7113045,-97.3275375,TRUE,FALSE,FALSE,"S322025646"
+"63","lobthr","Long-billed Thrasher","Toxostoma longirostre","L62871302","Resaca de la Palma State Park, Brownsville US-TX 25.99655, -97.56890","2026-04-15 08:15",4,25.99655,-97.568899,TRUE,FALSE,TRUE,"S322057821"
+"64","lobthr","Long-billed Thrasher","Toxostoma longirostre","L11214061","Wiltshire Yard","2026-04-15 07:50",2,29.482295,-98.440618,TRUE,FALSE,TRUE,"S322266205"
+"65","lobthr","Long-billed Thrasher","Toxostoma longirostre","L4468543","LRGV NWR--La Puerta Tract","2026-04-15 07:46",NA,26.3444892,-98.7320763,TRUE,FALSE,FALSE,"S322094095"
+"66","lobthr","Long-billed Thrasher","Toxostoma longirostre","L416772","Comanche Lookout Park","2026-04-15 07:00",1,29.5829184,-98.3663987,TRUE,FALSE,FALSE,"S322022421"
+"67","lobthr","Long-billed Thrasher","Toxostoma longirostre","L770565","South Padre Is.--Birding and Nature Center","2026-04-14 17:29",2,26.1374628,-97.1739367,TRUE,FALSE,FALSE,"S321852747"
+"68","lobthr","Long-billed Thrasher","Toxostoma longirostre","L61079159","Green Wildlife Sanctuary","2026-04-14 17:14",1,26.09973,-97.704105,TRUE,FALSE,TRUE,"S321822701"
+"69","lobthr","Long-billed Thrasher","Toxostoma longirostre","L30417560","Fort Clark Springs—Las Moras Creek Trails NE (gate check-in required)","2026-04-14 16:50",3,29.2980984,-100.4177142,TRUE,FALSE,FALSE,"S321811007"
+"70","lobthr","Long-billed Thrasher","Toxostoma longirostre","L422541","Leonabelle Turnbull Birding Ctr. (CTC 057)","2026-04-14 15:21",1,27.8275297,-97.0789558,TRUE,FALSE,FALSE,"S321770412"
+"71","lobthr","Long-billed Thrasher","Toxostoma longirostre","L29360849","DDD Beavers Knoll","2026-04-14 14:43",1,29.196922,-99.750099,TRUE,FALSE,TRUE,"S321789490"
+"72","lobthr","Long-billed Thrasher","Toxostoma longirostre","L52234148","Camp McAllen","2026-04-14 12:37",1,26.284339,-98.23353,TRUE,FALSE,FALSE,"S321718450"
+"73","lobthr","Long-billed Thrasher","Toxostoma longirostre","L3102485","Packery Channel Oak Motte Sanctuary area","2026-04-14 12:15",1,27.6256964,-97.2193265,TRUE,FALSE,FALSE,"S321831091"
+"74","lobthr","Long-billed Thrasher","Toxostoma longirostre","L2979766","Oso Bay Wetlands Preserve","2026-04-14 11:20",2,27.6680951,-97.3299247,TRUE,FALSE,FALSE,"S321725220"
+"75","lobthr","Long-billed Thrasher","Toxostoma longirostre","L129008","Laguna Atascosa NWR--Osprey Overlook","2026-04-14 11:14",1,26.2338009,-97.3643036,TRUE,FALSE,FALSE,"S321707102"
+"76","lobthr","Long-billed Thrasher","Toxostoma longirostre","L62810694","Friedrich Wilderness Park, San Antonio US-TX 29.64086, -98.62573","2026-04-14 10:47",1,29.640864,-98.62573,TRUE,FALSE,TRUE,"S321719136"
+"77","lobthr","Long-billed Thrasher","Toxostoma longirostre","L62895850","German Cemetery","2026-04-14 10:30",1,28.9383449,-98.0089279,TRUE,FALSE,TRUE,"S322181530"
+"78","lobthr","Long-billed Thrasher","Toxostoma longirostre","L389757","Old Port Isabel Rd","2026-04-14 10:04",1,26.0057269,-97.4183462,TRUE,FALSE,FALSE,"S321749177"
+"79","lobthr","Long-billed Thrasher","Toxostoma longirostre","L507911","King Ranch--Norias Division (Kenedy Co.)","2026-04-14 09:40",2,26.7876524,-97.7707243,TRUE,FALSE,FALSE,"S321782018"
+"80","lobthr","Long-billed Thrasher","Toxostoma longirostre","L898229","Pauraque Ridge","2026-04-14 09:15",4,28.5442293,-97.8245401,TRUE,FALSE,TRUE,"S321770378"
+"81","lobthr","Long-billed Thrasher","Toxostoma longirostre","L52422851","Hidalgo, TX","2026-04-14 08:55",1,26.09904,-98.27378,TRUE,FALSE,TRUE,"S321602708"
+"82","lobthr","Long-billed Thrasher","Toxostoma longirostre","L8490614","Radio Tower Hill, FM 674","2026-04-14 08:50",3,29.4997087,-100.3975198,TRUE,FALSE,FALSE,"S321696717"
+"83","lobthr","Long-billed Thrasher","Toxostoma longirostre","L718255","Laguna Atascosa NWR--Alligator Pond","2026-04-14 08:16",2,26.2301638,-97.3688006,TRUE,FALSE,FALSE,"S321694883"
+"84","lobthr","Long-billed Thrasher","Toxostoma longirostre","L282666","Magic Ridge (CTC-032)","2026-04-14 08:04",1,28.5411756,-96.5206432,TRUE,FALSE,FALSE,"S321612523"
+"85","lobthr","Long-billed Thrasher","Toxostoma longirostre","L4314737","Jim Wells Co.--CR239","2026-04-14 07:44",7,27.961049,-98.112368,TRUE,FALSE,FALSE,"S321609002"
+"86","lobthr","Long-billed Thrasher","Toxostoma longirostre","L62789415","3145–3499 FM-3469, Orange Grove US-TX 28.07393, -98.16499","2026-04-14 07:33",5,28.073934,-98.164986,TRUE,FALSE,TRUE,"S321610416"
+"87","lobthr","Long-billed Thrasher","Toxostoma longirostre","L1074860","Bentsen Palm Village RV Resort","2026-04-14 07:16",1,26.1867127,-98.3765602,TRUE,FALSE,FALSE,"S321548426"
+"88","lobthr","Long-billed Thrasher","Toxostoma longirostre","L1148441","Estero Llano Grande SP--Tropical Zone only","2026-04-14 07:11",3,26.124386,-97.9585648,TRUE,FALSE,FALSE,"S321586925"
+"89","lobthr","Long-billed Thrasher","Toxostoma longirostre","L29196035","Waldron Park, Flour Bluff","2026-04-14 07:10",1,27.6393962,-97.3061877,TRUE,FALSE,FALSE,"S321812447"
+"90","lobthr","Long-billed Thrasher","Toxostoma longirostre","L129086","Santa Margarita Ranch (LTC 079) (restricted access - guided groups only)","2026-04-14 06:49",10,26.4856177,-99.0912337,TRUE,FALSE,FALSE,"S321793085"
+"91","lobthr","Long-billed Thrasher","Toxostoma longirostre","L56820355","29131–30399 FM-800, Harlingen US-TX 26.13447, -97.78537","2026-04-14 06:43",1,26.134475,-97.785367,TRUE,FALSE,TRUE,"S321518904"
+"92","lobthr","Long-billed Thrasher","Toxostoma longirostre","L14070952","South Padre Island Convention Centre, South Padre Island US-TX 26.13998, -97.17503","2026-04-13 19:54",2,26.139982,-97.175027,TRUE,FALSE,TRUE,"S321412172"
+"93","lobthr","Long-billed Thrasher","Toxostoma longirostre","L276368","Packery Channel Park (CTC 064)","2026-04-13 18:49",1,27.6264996,-97.2204369,TRUE,FALSE,FALSE,"S321394827"
+"94","lobthr","Long-billed Thrasher","Toxostoma longirostre","L37972278","399 Mustang Ln, Sandia US-TX 27.95732, -97.85014","2026-04-13 16:33",2,27.957316,-97.850141,TRUE,FALSE,TRUE,"S321336727"
+"95","lobthr","Long-billed Thrasher","Toxostoma longirostre","L129070","Sabal Palm Sanctuary (LTC 042)","2026-04-13 15:54",2,25.85233,-97.4176839,TRUE,FALSE,FALSE,"S321857381"
+"96","lobthr","Long-billed Thrasher","Toxostoma longirostre","L20821537","Caesar Kleberg Wildlife Center (access weekdays)","2026-04-13 15:41",2,27.531519,-97.890066,TRUE,FALSE,FALSE,"S321332399"
+"97","lobthr","Long-billed Thrasher","Toxostoma longirostre","L55807492","San Benito","2026-04-13 14:43",1,26.1621622,-97.6030625,TRUE,FALSE,TRUE,"S321313314"
+"98","lobthr","Long-billed Thrasher","Toxostoma longirostre","L3830415","Falcon State Park--Butterfly Garden (Starr Co.)","2026-04-13 14:02",1,26.5844785,-99.1493234,TRUE,FALSE,FALSE,"S321288601"
+"99","lobthr","Long-billed Thrasher","Toxostoma longirostre","L38041147","Aegolius Basterds LRGV (Private Residence)","2026-04-13 13:10",1,26.1842336,-98.3811696,TRUE,FALSE,TRUE,"S321416433"
+"100","lobthr","Long-billed Thrasher","Toxostoma longirostre","L1263591","Laredo- North Central Park","2026-04-13 12:52",1,27.6001374,-99.4713843,TRUE,FALSE,FALSE,"S321334559"
+"101","lobthr","Long-billed Thrasher","Toxostoma longirostre","L572560","Choke Canyon SP--South Shore Unit (Live Oak Co.)","2026-04-13 12:50",1,28.472577,-98.2512474,TRUE,FALSE,FALSE,"S321389585"
+"102","lobthr","Long-billed Thrasher","Toxostoma longirostre","L5986679","Los Fresnos Nature Park","2026-04-13 11:39",3,26.0797392,-97.475051,TRUE,FALSE,FALSE,"S321228212"
+"103","lobthr","Long-billed Thrasher","Toxostoma longirostre","L62717169","Pollywog Pond","2026-04-13 11:19",1,27.86468,-97.611059,TRUE,FALSE,TRUE,"S321273790"
+"104","lobthr","Long-billed Thrasher","Toxostoma longirostre","L458126","South Texas Botanical Gardens (CTC 067)","2026-04-13 11:15",2,27.6525275,-97.4068666,TRUE,FALSE,FALSE,"S322694425"
+"105","lobthr","Long-billed Thrasher","Toxostoma longirostre","L129083","San Ygnacio Bird Sanctuary & riverfront (LTC 087)","2026-04-13 11:14",1,27.0446212,-99.4444013,TRUE,FALSE,FALSE,"S321222438"
+"106","lobthr","Long-billed Thrasher","Toxostoma longirostre","L4280829","Redbud Ranch","2026-04-13 11:10",1,29.5567343,-99.5601869,TRUE,FALSE,TRUE,"S321218526"
+"107","lobthr","Long-billed Thrasher","Toxostoma longirostre","L62713982","Hearns Ferry Rd","2026-04-13 10:39",1,27.847618,-97.56041,TRUE,FALSE,TRUE,"S321201134"
+"108","lobthr","Long-billed Thrasher","Toxostoma longirostre","L62791798","The Castle - A CCC Pavilion","2026-04-13 10:00",1,28.058764,-97.8820038,TRUE,FALSE,TRUE,"S321624504"
+"109","lobthr","Long-billed Thrasher","Toxostoma longirostre","L284174","Choke Canyon SP--Calliham Unit (McMullen Co.)(CTC 082)","2026-04-13 09:20",1,28.4717282,-98.3394384,TRUE,FALSE,FALSE,"S321173442"
+"110","lobthr","Long-billed Thrasher","Toxostoma longirostre","L273461","Goose Island SP (CTC 048)","2026-04-13 08:23",1,28.13255,-96.985052,TRUE,FALSE,FALSE,"S322252008"
+"111","lobthr","Long-billed Thrasher","Toxostoma longirostre","L160490","Brackenridge Park (Avenue A & River Rd.)","2026-04-13 07:40",1,29.4545528,-98.4777029,TRUE,FALSE,FALSE,"S321250594"
+"112","lobthr","Long-billed Thrasher","Toxostoma longirostre","L21356825","RTFC Rd (off Carbon Plant)","2026-04-13 07:35",4,27.855546,-97.559127,TRUE,FALSE,TRUE,"S321108853"
+"113","lobthr","Long-billed Thrasher","Toxostoma longirostre","L46506594","Palo Verde","2026-04-13 07:32",1,25.942669,-97.48712,TRUE,FALSE,TRUE,"S321127238"
+"114","lobthr","Long-billed Thrasher","Toxostoma longirostre","L803232","Muschalek Farms","2026-04-13 07:15",1,29.074897,-97.6535761,TRUE,FALSE,TRUE,"S321125391"
+"115","lobthr","Long-billed Thrasher","Toxostoma longirostre","L521782","Santa Ana NWR","2026-04-13 07:05",3,26.0833817,-98.1387663,TRUE,FALSE,TRUE,"S321220804"
+"116","lobthr","Long-billed Thrasher","Toxostoma longirostre","L568478","Kickapoo Cavern SP (Kinney Co.)","2026-04-13 06:53",1,29.61154,-100.4533,TRUE,FALSE,FALSE,"S321415782"
+"117","lobthr","Long-billed Thrasher","Toxostoma longirostre","L569711","Carancahua Bay--Eastern shore area (Jackson Co.)","2026-04-13 06:45",1,28.689383,-96.3890648,TRUE,FALSE,FALSE,"S321150333"
+"118","lobthr","Long-billed Thrasher","Toxostoma longirostre","L62660218","Sun-n-Fun Encore, San Benito, TX","2026-04-12 17:22",1,26.140646,-97.674074,TRUE,FALSE,TRUE,"S320913004"
+"119","lobthr","Long-billed Thrasher","Toxostoma longirostre","L129005","Laguna Atascosa NWR (LTC 024)","2026-04-12 17:18",3,26.2295776,-97.3466982,TRUE,FALSE,FALSE,"S320979076"
+"120","lobthr","Long-billed Thrasher","Toxostoma longirostre","L12238769","Ebony Grove Cemetery","2026-04-12 16:53",1,26.1274033,-97.9056617,TRUE,FALSE,FALSE,"S320938075"
+"121","lobthr","Long-billed Thrasher","Toxostoma longirostre","L13734825","Tanner House - Kingsville","2026-04-12 16:23",1,27.5220599,-97.8845552,TRUE,FALSE,TRUE,"S320891892"
+"122","lobthr","Long-billed Thrasher","Toxostoma longirostre","L898270","Mission San Juan Capistrano, San Antonio","2026-04-12 14:58",1,29.3335098,-98.4549001,TRUE,FALSE,FALSE,"S320881529"
+"123","lobthr","Long-billed Thrasher","Toxostoma longirostre","L18689064","Caesar Kleberg Wildlife Center garden area","2026-04-12 14:44",1,27.530887,-97.890542,TRUE,FALSE,TRUE,"S320933541"
+"124","lobthr","Long-billed Thrasher","Toxostoma longirostre","L421038","McAllen Nature Center (LTC 065)","2026-04-12 14:20",1,26.2082122,-98.2659218,TRUE,FALSE,FALSE,"S320903209"
+"125","lobthr","Long-billed Thrasher","Toxostoma longirostre","L526580","Uvalde County, TX--Montell Coleman/Clarke Homestead","2026-04-12 13:33",1,29.5374232,-100.0104439,TRUE,FALSE,TRUE,"S320827307"
+"126","lobthr","Long-billed Thrasher","Toxostoma longirostre","L209876","Frontera Audubon Center (LTC 058)","2026-04-12 11:40",1,26.1479755,-97.9897937,TRUE,FALSE,FALSE,"S320832900"
+"127","lobthr","Long-billed Thrasher","Toxostoma longirostre","L43873859","San Antonio Botanical Garden, San Antonio","2026-04-12 11:30",3,29.459006,-98.457178,TRUE,FALSE,TRUE,"S320808797"
+"128","lobthr","Long-billed Thrasher","Toxostoma longirostre","L1140379","Choke Canyon Lake--CR 7","2026-04-12 11:15",2,28.4677481,-98.3914948,TRUE,FALSE,FALSE,"S320809156"
+"129","lobthr","Long-billed Thrasher","Toxostoma longirostre","L3518309","Inspiration Road pond","2026-04-12 11:01",1,26.1821684,-98.3563578,TRUE,FALSE,FALSE,"S320754679"
+"130","lobthr","Long-billed Thrasher","Toxostoma longirostre","L1236296","Edinburg Municipal Park","2026-04-12 10:45",1,26.2887402,-98.1325436,TRUE,FALSE,FALSE,"S320945332"
+"131","lobthr","Long-billed Thrasher","Toxostoma longirostre","L1497618","Olmos Basin Park (HOTE 097)","2026-04-12 10:01",1,29.4813503,-98.4801516,TRUE,FALSE,FALSE,"S320775210"
+"132","lobthr","Long-billed Thrasher","Toxostoma longirostre","L18188767","Henry Ranch, Charlotte, Texas","2026-04-12 09:56",2,28.8445987,-98.7301252,TRUE,FALSE,TRUE,"S320773314"
+"133","lobthr","Long-billed Thrasher","Toxostoma longirostre","L18911792","KD Headquarters","2026-04-12 08:54",1,29.303452,-98.914387,TRUE,FALSE,TRUE,"S320623743"
+"134","lobthr","Long-billed Thrasher","Toxostoma longirostre","L62673419","San Diego Road","2026-04-12 08:49",2,28.1210366,-98.5149782,TRUE,FALSE,TRUE,"S320977326"
+"135","lobthr","Long-billed Thrasher","Toxostoma longirostre","L40361639","Ranchito Los Rosales","2026-04-12 08:16",1,26.4926828,-98.930694,TRUE,FALSE,TRUE,"S320682057"
+"136","lobthr","Long-billed Thrasher","Toxostoma longirostre","L31288468","Jim Wells County Road 239","2026-04-12 08:08",2,28.0404584,-98.1898963,TRUE,FALSE,TRUE,"S320977341"
+"137","lobthr","Long-billed Thrasher","Toxostoma longirostre","L56652900","101–301 FM-3469, Three Rivers US-TX 28.05841, -98.18124","2026-04-12 07:54",1,28.058408,-98.181243,TRUE,FALSE,TRUE,"S320977353"
+"138","lobthr","Long-billed Thrasher","Toxostoma longirostre","L2738310","Las Palomas WMA--Arroyo Colorado Unit (restricted access)","2026-04-12 07:45",2,26.3203445,-97.518425,TRUE,FALSE,FALSE,"S321847861"
+"139","lobthr","Long-billed Thrasher","Toxostoma longirostre","L56652020","3145–3499 FM-3469, Orange Grove US-TX (28.0751,-98.1636)","2026-04-12 07:30",4,28.075127,-98.163628,TRUE,FALSE,TRUE,"S320977363"
+"140","lobthr","Long-billed Thrasher","Toxostoma longirostre","L1026012","Palmito Hill Road","2026-04-12 06:52",1,25.942593,-97.2974431,TRUE,FALSE,FALSE,"S320578481"
+"141","lobthr","Long-billed Thrasher","Toxostoma longirostre","L62623840","Magnolia","2026-04-12 06:49",1,28.549941,-96.531476,TRUE,FALSE,TRUE,"S320745207"
+"142","lobthr","Long-billed Thrasher","Toxostoma longirostre","L3797115","316 Lilac Ln Home","2026-04-11 18:00",1,29.4756102,-98.4462011,TRUE,FALSE,TRUE,"S320374278"
+"143","lobthr","Long-billed Thrasher","Toxostoma longirostre","L260173","San Juan Yard","2026-04-11 17:59",1,26.1984912,-98.142079,TRUE,FALSE,TRUE,"S320411644"
+"144","lobthr","Long-billed Thrasher","Toxostoma longirostre","L1938222","White Point & Koonce Loop","2026-04-11 17:59",1,27.8710619,-97.4199343,TRUE,FALSE,FALSE,"S320355993"
+"145","lobthr","Long-billed Thrasher","Toxostoma longirostre","L300042","Valley Nature Ctr. (LTC 057)","2026-04-11 17:33",1,26.1588247,-97.9975734,TRUE,FALSE,FALSE,"S320344926"
+"146","lobthr","Long-billed Thrasher","Toxostoma longirostre","L4858295","San Patricio Co.--FM63 to Whites Point","2026-04-11 17:24",1,27.8860739,-97.47787,TRUE,FALSE,FALSE,"S320341266"
+"147","lobthr","Long-billed Thrasher","Toxostoma longirostre","L30529981","Birder's Heaven, 621 Palm Blvd","2026-04-11 17:00",2,26.1001983,-97.2983097,TRUE,FALSE,TRUE,"S320396363"
+"148","lobthr","Long-billed Thrasher","Toxostoma longirostre","L547835","Hardberger Park--East","2026-04-11 14:31",1,29.5614941,-98.5204193,TRUE,FALSE,FALSE,"S320293312"
+"149","lobthr","Long-billed Thrasher","Toxostoma longirostre","L3328096","Salineno--Dump Road","2026-04-11 12:46",1,26.5296996,-99.106797,TRUE,FALSE,FALSE,"S320224465"
+"150","lobthr","Long-billed Thrasher","Toxostoma longirostre","L62601896","Mesquite Trail, Los Fresnos US-TX 26.23209, -97.34814","2026-04-11 11:51",3,26.23209,-97.348143,TRUE,FALSE,TRUE,"S320638240"
+"151","lobthr","Long-billed Thrasher","Toxostoma longirostre","L160560","Friedrich Wilderness Pk (HOTE 086)","2026-04-11 11:07",4,29.6406755,-98.6260967,TRUE,FALSE,FALSE,"S320541589"
+"152","lobthr","Long-billed Thrasher","Toxostoma longirostre","L23615137","La Mina Rd, Roma US-TX 26.49608, -99.07270","2026-04-11 09:53",1,26.496079,-99.072698,TRUE,FALSE,TRUE,"S320104665"
+"153","lobthr","Long-billed Thrasher","Toxostoma longirostre","L50000772","Chapman Ranch - CR 51 (west of FM 70 to King Ranch gate)","2026-04-11 09:27",1,27.5847051,-97.5027682,TRUE,FALSE,TRUE,"S320113897"
+"154","lobthr","Long-billed Thrasher","Toxostoma longirostre","L318918","South Padre Is.--Valley Land Fund lots (LTC 036)","2026-04-11 09:24",1,26.0988053,-97.1678612,TRUE,FALSE,FALSE,"S320167114"
+"155","lobthr","Long-billed Thrasher","Toxostoma longirostre","L17759069","South Texas Ecotourism Center","2026-04-11 09:10",1,26.09276,-97.29624,TRUE,FALSE,FALSE,"S320101786"
+"156","lobthr","Long-billed Thrasher","Toxostoma longirostre","L12781436","Escondido Creek Parkway, Kenedy","2026-04-11 08:52",1,28.82066,-97.85809,TRUE,FALSE,FALSE,"S320217180"
+"157","lobthr","Long-billed Thrasher","Toxostoma longirostre","L4350377","National Butterfly Center--South of levee","2026-04-11 08:39",5,26.1738318,-98.3657885,TRUE,FALSE,FALSE,"S320176918"
+"158","lobthr","Long-billed Thrasher","Toxostoma longirostre","L27461486","602 North Victoria Road, Donna, Texas, US (26.173, -98.026)","2026-04-11 08:31",1,26.1734848,-98.0264435,TRUE,FALSE,TRUE,"S320153072"
+"159","lobthr","Long-billed Thrasher","Toxostoma longirostre","L355335","Government Canyon SNA (HOTE 085)","2026-04-11 08:20",1,29.5490104,-98.7641682,TRUE,FALSE,FALSE,"S320142705"
+"160","lobthr","Long-billed Thrasher","Toxostoma longirostre","L7270735","South Padre Is.--wooded lots from West Hibiscus south to West Campeche (identify street names for rarities)","2026-04-11 08:18",1,26.1113115,-97.1712824,TRUE,FALSE,FALSE,"S320167147"
+"161","lobthr","Long-billed Thrasher","Toxostoma longirostre","L18808188","Nature Trail/Private","2026-04-11 08:16",1,28.443586,-97.765327,TRUE,FALSE,TRUE,"S320077512"
+"162","lobthr","Long-billed Thrasher","Toxostoma longirostre","L11423316","Kirchoff Prairie Restoration Site (restricted access)","2026-04-11 08:04",4,28.973611,-98.108333,TRUE,FALSE,FALSE,"S320107314"
+"163","lobthr","Long-billed Thrasher","Toxostoma longirostre","L21916040","Camp Riverview","2026-04-11 07:53",2,29.570271,-99.727389,TRUE,FALSE,TRUE,"S320055620"
+"164","lobthr","Long-billed Thrasher","Toxostoma longirostre","L275881","Olmos Basin Park--Judson Nature Trails (HOTE 098)","2026-04-11 07:47",1,29.4790726,-98.4750122,TRUE,FALSE,FALSE,"S320101338"
+"165","lobthr","Long-billed Thrasher","Toxostoma longirostre","L3153546","Rio Grande River--by boat N. of Anzalduas Dam (USA side)","2026-04-11 07:19",1,26.1619478,-98.3328885,TRUE,FALSE,FALSE,"S320191729"
+"166","lobthr","Long-billed Thrasher","Toxostoma longirostre","L62517327","Rancho Los Isauros","2026-04-11 07:16",2,27.390563,-99.398965,TRUE,FALSE,TRUE,"S320232003"
+"167","lobthr","Long-billed Thrasher","Toxostoma longirostre","L1126444","Laguna Seca Ranch","2026-04-11 07:10",1,26.5118247,-98.1917667,TRUE,FALSE,FALSE,"S320247961"
+"168","lobthr","Long-billed Thrasher","Toxostoma longirostre","L382911","Oso Bay (CTC 068)","2026-04-11 06:56",1,27.7143059,-97.3327732,TRUE,FALSE,FALSE,"S320085449"
+"169","lobthr","Long-billed Thrasher","Toxostoma longirostre","L62428843","Blucher Park, Corpus Christi US-TX (27.7917,-97.3993)","2026-04-10 18:07",1,27.791682,-97.399274,TRUE,FALSE,TRUE,"S319816277"
+"170","lobthr","Long-billed Thrasher","Toxostoma longirostre","L2764095","Hanka Sod (former Superior Turf Farms) / Weaver rd.","2026-04-10 17:52",1,26.1039435,-97.7723229,TRUE,FALSE,FALSE,"S319829332"
+"171","lobthr","Long-billed Thrasher","Toxostoma longirostre","L62425868","S Schuerbach Rd, Mission US-TX 26.17634, -98.36814","2026-04-10 17:12",1,26.176345,-98.368138,TRUE,FALSE,TRUE,"S319801232"
+"172","lobthr","Long-billed Thrasher","Toxostoma longirostre","L299624","Starr County Park (Falcon Heights)(LTC 082)","2026-04-10 15:41",1,26.5651323,-99.1261541,TRUE,FALSE,FALSE,"S319823233"
+"173","lobthr","Long-billed Thrasher","Toxostoma longirostre","L62420105","4324 County Road 69, Corpus Christi, Texas, US (27.867, -97.643)","2026-04-10 15:31",1,27.8669034,-97.6425295,TRUE,FALSE,TRUE,"S319772228"
+"174","lobthr","Long-billed Thrasher","Toxostoma longirostre","L714512","Sunset Lake  (Portland)","2026-04-10 14:20",1,27.8679131,-97.3274088,TRUE,FALSE,FALSE,"S319784477"
+"175","lobthr","Long-billed Thrasher","Toxostoma longirostre","L405120","Chalk Bluff River Resort & Park  (HOTW  023)","2026-04-10 14:11",1,29.361905,-99.983139,TRUE,FALSE,FALSE,"S319828312"
+"176","lobthr","Long-billed Thrasher","Toxostoma longirostre","L17549865","Estero Llano Grande State Park, Weslaco US-TX 26.12638, -97.95723","2026-04-10 12:33",4,26.126385,-97.95723,TRUE,FALSE,TRUE,"S319746891"
+"177","lobthr","Long-billed Thrasher","Toxostoma longirostre","L62411344","91–99 Duncan Rd, Brownsville US-TX 25.98429, -97.51007","2026-04-10 12:31",2,25.984287,-97.510074,TRUE,FALSE,TRUE,"S319731289"
+"178","lobthr","Long-billed Thrasher","Toxostoma longirostre","L465675","Port Mansfield Nature Trail (LTC 015)","2026-04-10 10:27",1,26.5577832,-97.4305344,TRUE,FALSE,FALSE,"S319698555"
+"179","lobthr","Long-billed Thrasher","Toxostoma longirostre","L278450","UTRGV Brownsville (campus & resacas)","2026-04-10 10:12",1,25.8954255,-97.4872156,TRUE,FALSE,FALSE,"S319643067"
+"180","lobthr","Long-billed Thrasher","Toxostoma longirostre","L2527820","La Paloma","2026-04-10 09:45",1,27.864459,-98.424953,TRUE,FALSE,TRUE,"S320753046"
+"181","lobthr","Long-billed Thrasher","Toxostoma longirostre","L2133572","Denman Estate Park","2026-04-10 09:32",1,29.5098735,-98.55968,TRUE,FALSE,FALSE,"S319657739"
+"182","lobthr","Long-billed Thrasher","Toxostoma longirostre","L6464907","Falfurrias Cemetery","2026-04-10 09:29",2,27.236163,-98.1497848,TRUE,FALSE,FALSE,"S319628703"
+"183","lobthr","Long-billed Thrasher","Toxostoma longirostre","L283468","South Llano River SP (HOTW 093)","2026-04-10 09:24",1,30.4391651,-99.8128617,TRUE,FALSE,FALSE,"S319715503"
+"184","lobthr","Long-billed Thrasher","Toxostoma longirostre","L62392246","Resaca de la Palma State Park, Brownsville US-TX 25.99632, -97.57131","2026-04-10 09:20",2,25.996322,-97.571313,TRUE,FALSE,TRUE,"S319640093"
+"185","lobthr","Long-billed Thrasher","Toxostoma longirostre","L1236326","Devil's River--Baker's Crossing","2026-04-10 09:19",1,29.9662647,-101.1494493,TRUE,FALSE,FALSE,"S319656828"
+"186","lobthr","Long-billed Thrasher","Toxostoma longirostre","L22727308","Mac Wylie Golf Center","2026-04-10 08:53",1,29.5357086,-98.6302699,TRUE,FALSE,FALSE,"S319853617"
+"187","lobthr","Long-billed Thrasher","Toxostoma longirostre","L62424529","78061, Pearsall US-TX 28.90313, -99.15889","2026-04-10 08:46",NA,28.903125,-99.158891,TRUE,FALSE,TRUE,"S319794642"
+"188","lobthr","Long-billed Thrasher","Toxostoma longirostre","L62381608","38700–38770 General Brant Rd, Rio Hondo US-TX 26.20227, -97.41729","2026-04-10 08:20",2,26.202266,-97.417286,TRUE,FALSE,TRUE,"S319586519"
+"189","lobthr","Long-billed Thrasher","Toxostoma longirostre","L61079207","Green Wildlife Sanctuary","2026-04-10 07:50",1,26.099995,-97.70419,TRUE,FALSE,TRUE,"S319648892"
+"190","lobthr","Long-billed Thrasher","Toxostoma longirostre","L55445124","Trail/Private","2026-04-10 07:49",1,28.443652,-97.766592,TRUE,FALSE,TRUE,"S319575521"
+"191","lobthr","Long-billed Thrasher","Toxostoma longirostre","L1322051","Santa Ana NWR--Tour Road","2026-04-10 07:08",NA,26.0717406,-98.1418991,TRUE,FALSE,FALSE,"S319758994"
+"192","lobthr","Long-billed Thrasher","Toxostoma longirostre","L56932233","Jesus Maria Road, Texas, US (26.561, -97.969)","2026-04-10 06:42",2,26.5608838,-97.9687494,TRUE,FALSE,TRUE,"S319525057"
+"193","lobthr","Long-billed Thrasher","Toxostoma longirostre","L267614","Caesar Kleberg Wildlife Center","2026-04-09 18:45",3,27.5320205,-97.8901577,TRUE,FALSE,TRUE,"S319398460"
+"194","lobthr","Long-billed Thrasher","Toxostoma longirostre","L16464123","380 Fish Hatchery Road, Brownsville, Texas, US (25.984, -97.526)","2026-04-09 18:40",1,25.9842306,-97.5258025,TRUE,FALSE,TRUE,"S319400101"
+"195","lobthr","Long-billed Thrasher","Toxostoma longirostre","L17724712","380 Fish Hatchery Road, Brownsville, Texas, US (25.984, -97.526)","2026-04-09 18:40",1,25.9837538,-97.525893,TRUE,FALSE,TRUE,"S319400124"
+"196","lobthr","Long-billed Thrasher","Toxostoma longirostre","L20798093","Ward Island, Corpus Christi US-TX 27.71616, -97.32964","2026-04-09 15:47",4,27.716165,-97.329639,TRUE,FALSE,TRUE,"S319341980"
+"197","lobthr","Long-billed Thrasher","Toxostoma longirostre","L58549385","Olmito Nature Park","2026-04-09 13:59",3,26.012315,-97.533766,TRUE,FALSE,FALSE,"S319325186"
+"198","lobthr","Long-billed Thrasher","Toxostoma longirostre","L391117","Old Hidalgo Pumphouse (WBC) (LTC067)","2026-04-09 13:10",2,26.0972624,-98.261892,TRUE,FALSE,FALSE,"S319282446"
+"199","lobthr","Long-billed Thrasher","Toxostoma longirostre","L62322370","3317–3399 Butterfly Park Dr, Mission US-TX 26.17633, -98.36615","2026-04-09 12:30",3,26.176333,-98.366152,TRUE,FALSE,TRUE,"S319281032"
+"200","lobthr","Long-billed Thrasher","Toxostoma longirostre","L61563561","10c","2026-04-09 10:01",1,26.415186,-99.039892,TRUE,FALSE,TRUE,"S319247377"
+"201","lobthr","Long-billed Thrasher","Toxostoma longirostre","L62306408","Laguna Atascosa Refuge, Los Fresnos, Texas, US (26.214, -97.344)","2026-04-09 08:40",1,26.2140033,-97.34379,TRUE,FALSE,TRUE,"S319205652"
+"202","lobthr","Long-billed Thrasher","Toxostoma longirostre","L1494343","Leon Creek Greenway--Buddy Calk Trailhead/Earl Scott Pond area","2026-04-09 08:34",2,29.5563814,-98.6283979,TRUE,FALSE,FALSE,"S319268848"
+"203","lobthr","Long-billed Thrasher","Toxostoma longirostre","L61390644","1","2026-04-09 08:05",5,26.53679,-99.148462,TRUE,FALSE,TRUE,"S319247742"
+"204","lobthr","Long-billed Thrasher","Toxostoma longirostre","L27082966","USAA Recreation Area (Restricted Access)","2026-04-09 07:30",2,29.5351853,-98.5708586,TRUE,FALSE,TRUE,"S319190188"
+"205","lobthr","Long-billed Thrasher","Toxostoma longirostre","L61389935","9","2026-04-09 07:05",1,26.52581,-99.124122,TRUE,FALSE,TRUE,"S319247515"
+"206","lobthr","Long-billed Thrasher","Toxostoma longirostre","L13346594","San Antonio Viejo Ranch (restricted access)","2026-04-09 06:45",3,26.9570949,-98.8353175,TRUE,FALSE,FALSE,"S319214654"
+"207","lobthr","Long-billed Thrasher","Toxostoma longirostre","L5430559","Americana The Birding Center RV Resort","2026-04-08 19:38",1,26.2181892,-98.3756924,TRUE,FALSE,FALSE,"S319099489"
+"208","lobthr","Long-billed Thrasher","Toxostoma longirostre","L41399362","garden","2026-04-08 15:57",1,27.6537762,-97.4053497,TRUE,FALSE,TRUE,"S322215431"
+"209","lobthr","Long-billed Thrasher","Toxostoma longirostre","L376635","Kaufer-Hubert Memorial Park (CTC 092)","2026-04-08 14:45",1,27.3196959,-97.6841211,TRUE,FALSE,FALSE,"S318908440"
+"210","lobthr","Long-billed Thrasher","Toxostoma longirostre","L44729854","78377, Refugio US-TX 28.33885, -97.31320","2026-04-08 14:22",1,28.338846,-97.313198,TRUE,FALSE,TRUE,"S318871423"
+"211","lobthr","Long-billed Thrasher","Toxostoma longirostre","L12405584","La Paloma","2026-04-08 13:48",2,27.865034,-98.4148816,TRUE,FALSE,TRUE,"S318935767"
+"212","lobthr","Long-billed Thrasher","Toxostoma longirostre","L14952839","South Padre Island Convention Centre, South Padre Island US-TX 26.14028, -97.17515","2026-04-08 11:53",2,26.140276,-97.175152,TRUE,FALSE,TRUE,"S318902159"
+"213","lobthr","Long-billed Thrasher","Toxostoma longirostre","L16199117","S.C.E.","2026-04-08 10:38",2,26.2524367,-98.2545047,TRUE,FALSE,TRUE,"S318780954"
+"214","lobthr","Long-billed Thrasher","Toxostoma longirostre","L2125666","King Ranch Visitor Center","2026-04-08 10:32",1,27.5199373,-97.8960156,TRUE,FALSE,FALSE,"S318761639"
+"215","lobthr","Long-billed Thrasher","Toxostoma longirostre","L62248234","Nordheim Cemetery","2026-04-08 10:00",1,28.9160263,-97.6089808,TRUE,FALSE,TRUE,"S318906541"
+"216","lobthr","Long-billed Thrasher","Toxostoma longirostre","L27891599","Santa Monica Area","2026-04-08 09:45",1,26.364246,-97.578136,TRUE,FALSE,TRUE,"S318797916"
+"217","lobthr","Long-billed Thrasher","Toxostoma longirostre","L62205384","County Road 2895, Mission, Texas, US (26.13, -98.297)","2026-04-08 07:13",1,26.1304959,-98.2972937,TRUE,FALSE,TRUE,"S318678843"
+"218","lobthr","Long-billed Thrasher","Toxostoma longirostre","L62172963","14000-14968 Rio Beef Road, Raymondville, Texas, US (26.511, -97.985)","2026-04-07 19:41",1,26.5109222,-97.9849978,TRUE,FALSE,TRUE,"S318516769"
+"219","lobthr","Long-billed Thrasher","Toxostoma longirostre","L62260964","1329 Wiltshire Ave, Terrell Hills US-TX (29.4817,-98.4356)","2026-04-07 18:50",2,29.481734,-98.435564,TRUE,FALSE,TRUE,"S318970210"
+"220","lobthr","Long-billed Thrasher","Toxostoma longirostre","L18835336","Base 2.0","2026-04-07 17:19",1,28.953106,-97.268994,TRUE,FALSE,TRUE,"S318518612"
+"221","lobthr","Long-billed Thrasher","Toxostoma longirostre","L62167204","Falcon State Park, Roma US-TX 26.58386, -99.14621","2026-04-07 15:46",2,26.583858,-99.146212,TRUE,FALSE,TRUE,"S318488100"
+"222","lobthr","Long-billed Thrasher","Toxostoma longirostre","L62163208","Blucher Park, Corpus Christi US-TX (27.7916,-97.3993)","2026-04-07 13:05",1,27.791601,-97.399271,TRUE,FALSE,TRUE,"S318468141"
+"223","lobthr","Long-billed Thrasher","Toxostoma longirostre","L29082817","Twinleaf Lane","2026-04-07 12:01",1,29.515674,-98.518774,TRUE,FALSE,TRUE,"S318382486"
+"224","lobthr","Long-billed Thrasher","Toxostoma longirostre","L9173368","zTexas 186, Texas, US (26.5, -97.509)","2026-04-07 11:17",1,26.5004627,-97.5085758,TRUE,FALSE,TRUE,"S318354220"
+"225","lobthr","Long-billed Thrasher","Toxostoma longirostre","L299372","Hill Country SNA--(Bandera Co. portion / N. of Bandera Creek rd.)(HOTW 045)","2026-04-07 11:17",1,29.6277682,-99.1819096,TRUE,FALSE,FALSE,"S318419597"
+"226","lobthr","Long-billed Thrasher","Toxostoma longirostre","L55734751","Wolfberry Whooping Crane Sanctuary (LIMITED ACCESS)","2026-04-07 10:31",1,28.373795,-96.577686,TRUE,FALSE,FALSE,"S318334773"
+"227","lobthr","Long-billed Thrasher","Toxostoma longirostre","L14261608","South Padre Island Convention Centre, South Padre Island US-TX 26.14033, -97.17464","2026-04-07 09:38",1,26.140328,-97.174637,TRUE,FALSE,TRUE,"S318353289"
+"228","lobthr","Long-billed Thrasher","Toxostoma longirostre","L47846243","Cinco Lakes Walking Trail","2026-04-07 09:08",1,29.3397618,-98.6954801,TRUE,FALSE,FALSE,"S318329715"
+"229","lobthr","Long-billed Thrasher","Toxostoma longirostre","L62652515","Live Oak's Main City Park, Live Oak US-TX (29.5521,-98.3318)","2026-04-07 09:00",1,29.552143,-98.33184,TRUE,FALSE,TRUE,"S320875051"
+"230","lobthr","Long-billed Thrasher","Toxostoma longirostre","L524086","Tom Slick Park","2026-04-07 08:40",1,29.430961,-98.6349382,TRUE,FALSE,FALSE,"S318320630"
+"231","lobthr","Long-billed Thrasher","Toxostoma longirostre","L41132917","2917 Quinta Ave, Weslaco US-TX 26.13140, -97.95929","2026-04-07 08:23",1,26.131398,-97.959287,TRUE,FALSE,TRUE,"S318315663"
+"232","lobthr","Long-billed Thrasher","Toxostoma longirostre","L11077732","CR 247","2026-04-07 08:02",1,27.80273,-98.0383698,TRUE,FALSE,TRUE,"S318274592"
