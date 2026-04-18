@@ -1,2 +1,3 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","greshe","Great Shearwater","Ardenna gravis","L2415913","Destin--east jetty and ponds","2026-04-08 06:00",3,30.3823433,-86.5041161,TRUE,TRUE,FALSE,"S318830982"
+"1","sabgul","Sabine's Gull","Xema sabini","L62349931","US (33.358, -118.123)","2026-04-09 18:42",1,33.3576592,-118.1231614,TRUE,FALSE,TRUE,"S319417322"
+"2","sabgul","Sabine's Gull","Xema sabini","L16392448","Nehalem Bay State Park","2026-04-08 14:30",1,45.686864,-123.935309,TRUE,FALSE,TRUE,"S318958371"
