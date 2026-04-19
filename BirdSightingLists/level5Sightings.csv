@@ -1,3 +1,4 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","sabgul","Sabine's Gull","Xema sabini","L62349931","US (33.358, -118.123)","2026-04-09 18:42",1,33.3576592,-118.1231614,TRUE,FALSE,TRUE,"S319417322"
-"2","sabgul","Sabine's Gull","Xema sabini","L16392448","Nehalem Bay State Park","2026-04-08 14:30",1,45.686864,-123.935309,TRUE,FALSE,TRUE,"S318958371"
+"1","gargan","Garganey","Spatula querquedula","L7865467","Joe Spors Slough","2026-04-14 11:29",1,45.1444349,-96.4152853,TRUE,TRUE,FALSE,"S321686469"
+"2","gargan","Garganey","Spatula querquedula","L62794680","Joe Spors Slough","2026-04-14 10:00",1,45.1458331,-96.4148674,TRUE,TRUE,TRUE,"S321638093"
+"3","gargan","Garganey","Spatula querquedula","L62543117","stakeout — GARG, LQP County (2026)","2026-04-11 16:32",1,45.1454482,-96.4148928,TRUE,TRUE,TRUE,"S320346992"
