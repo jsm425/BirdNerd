@@ -1,3 +1,6 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","sxrgoo1","Snow x Ross's Goose (hybrid)","Anser caerulescens x rossii","L152613","Burnidge Forest Preserve","2026-04-16 13:29",1,42.07,-88.3647,TRUE,FALSE,FALSE,"S322608635"
-"2","sxrgoo1","Snow x Ross's Goose (hybrid)","Anser caerulescens x rossii","L11467801","1660 Bidwell Avenue, Chico, California, US (39.726, -121.866)","2026-04-11 14:22",1,39.725579,-121.8662741,TRUE,FALSE,TRUE,"S320341689"
+"1","bucnig","Buff-collared Nightjar","Antrostomus ridgwayi","L3531642","California Gulch/Warsaw Canyon confluence","2026-04-17 17:32",1,31.4030216,-111.2421539,TRUE,TRUE,FALSE,"S323824760"
+"2","bucnig","Buff-collared Nightjar","Antrostomus ridgwayi","L281844","Montosa Canyon--km 1 (culvert area)","2026-04-13 04:50",1,31.6714585,-110.941082,TRUE,TRUE,FALSE,"S321217483"
+"3","bucnig","Buff-collared Nightjar","Antrostomus ridgwayi","L22074763","Whipple Picnic Area","2026-04-12 04:15",1,31.6742032,-110.9496751,TRUE,TRUE,FALSE,"S320564672"
+"4","bucnig","Buff-collared Nightjar","Antrostomus ridgwayi","L62654045","Coronado National Forest, Nogales US-AZ","2026-04-11 17:55",1,31.399136,-111.242715,TRUE,TRUE,TRUE,"S320882428"
+"5","bucnig","Buff-collared Nightjar","Antrostomus ridgwayi","L62517753","Mount Hopkins Rd Between Picnic Area And Concrete Crossing","2026-04-11 05:27",1,31.6726459,-110.946136,TRUE,TRUE,TRUE,"S320233866"
