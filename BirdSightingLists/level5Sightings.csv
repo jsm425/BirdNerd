@@ -1,4 +1,5 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","bkcpet","Black-capped Petrel","Pterodroma hasitata","L63351999","route from Dry Tortugas to Key West","2026-04-19 16:00",1,24.34,-82.33,TRUE,TRUE,TRUE,"S324430858"
-"2","bkcpet","Black-capped Petrel","Pterodroma hasitata","L24915331","The Hill -- Offshore Palm Beach County","2026-04-18 08:56",1,26.671465,-79.7878576,TRUE,TRUE,FALSE,"S323681482"
-"3","bkcpet","Black-capped Petrel","Pterodroma hasitata","L473168","Cape Hatteras NS--Cape Point","2026-04-17 06:30",1,35.2234655,-75.5286026,TRUE,TRUE,FALSE,"S323219585"
+"1","palila","Palila","Loxioides bailleui","L285813","Pu'u La'au, Palila Discovery Trail and Ka'ohe GMA","2026-04-19 09:27",12,19.8319137,-155.5947653,TRUE,TRUE,FALSE,"S324491730"
+"2","palila","Palila","Loxioides bailleui","L63374979","HI: Kaohe (19.82, -155.553)","2026-04-18 09:48",4,19.8197552,-155.553182,TRUE,TRUE,TRUE,"S324539006"
+"3","palila","Palila","Loxioides bailleui","L63374730","HI: Kaohe (19.819, -155.553)","2026-04-18 09:28",5,19.8192299,-155.5525464,TRUE,TRUE,TRUE,"S324536762"
+"4","palila","Palila","Loxioides bailleui","L63374638","HI: Kaohe (19.82, -155.552)","2026-04-18 09:19",2,19.8203063,-155.5517476,TRUE,TRUE,TRUE,"S324536383"
