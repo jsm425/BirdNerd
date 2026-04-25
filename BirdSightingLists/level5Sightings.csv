@@ -1,5 +1,3 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","palila","Palila","Loxioides bailleui","L285813","Pu'u La'au, Palila Discovery Trail and Ka'ohe GMA","2026-04-19 09:27",12,19.8319137,-155.5947653,TRUE,TRUE,FALSE,"S324491730"
-"2","palila","Palila","Loxioides bailleui","L63374979","HI: Kaohe (19.82, -155.553)","2026-04-18 09:48",4,19.8197552,-155.553182,TRUE,TRUE,TRUE,"S324539006"
-"3","palila","Palila","Loxioides bailleui","L63374730","HI: Kaohe (19.819, -155.553)","2026-04-18 09:28",5,19.8192299,-155.5525464,TRUE,TRUE,TRUE,"S324536762"
-"4","palila","Palila","Loxioides bailleui","L63374638","HI: Kaohe (19.82, -155.552)","2026-04-18 09:19",2,19.8203063,-155.5517476,TRUE,TRUE,TRUE,"S324536383"
+"1","x00623","Black-capped x Mountain Chickadee (hybrid)","Poecile atricapillus x gambeli","L13000532","House in Centennial","2026-04-20 08:12",1,39.5757225,-104.929024,TRUE,TRUE,TRUE,"S325217274"
+"2","x00623","Black-capped x Mountain Chickadee (hybrid)","Poecile atricapillus x gambeli","L17140477","Home Feeders","2026-04-15 12:41",1,46.866249,-114.013687,TRUE,TRUE,TRUE,"S322202371"
