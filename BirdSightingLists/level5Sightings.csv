@@ -1,2 +1,4 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","x00696","Little Blue x Tricolored Heron (hybrid)","Egretta caerulea x tricolor","L1076700","Tyrrell Park--Cattail Marsh","2026-04-18 14:26",1,30.0074226,-94.1400433,TRUE,TRUE,FALSE,"S324465450"
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
+"1","cattyr","Cattle Tyrant","Machetornis rixosa","L27932697","stakeout Cattle Tyrant, downtown Corpus Christi (2023-26","2026-04-26 13:16",1,27.7951484,-97.3942164,TRUE,TRUE,FALSE,"S328005784","P"
+"2","cattyr","Cattle Tyrant","Machetornis rixosa","L64058986","416 N Chaparral St, Corpus Christi US-TX 27.79572, -97.39389","2026-04-26 12:44",1,27.795724,-97.393886,TRUE,TRUE,TRUE,"S327986315","P"
+"3","cattyr","Cattle Tyrant","Machetornis rixosa","L63502632","216 Lawrence St, Corpus Christi US-TX 27.79476, -97.39258","2026-04-21 13:47",1,27.79476,-97.392578,TRUE,TRUE,TRUE,"S325170007","P"
