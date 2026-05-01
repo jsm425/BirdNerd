@@ -1,380 +1,374 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","varthr","Varied Thrush","Ixoreus naevius","L26882913","Cal Poly Humboldt--Fern Lake","2026-04-29 13:34",4,40.8746101,-124.0736987,TRUE,FALSE,TRUE,"S329569584"
-"2","varthr","Varied Thrush","Ixoreus naevius","L5919979","Salmon Creek Trail (to Salmon Crk. Reservoir)","2026-04-29 12:14",5,58.335541,-134.4366503,TRUE,FALSE,FALSE,"S329586535"
-"3","varthr","Varied Thrush","Ixoreus naevius","L18998354","Spoon Lake","2026-04-29 11:41",2,48.474213,-114.141657,TRUE,FALSE,TRUE,"S329551060"
-"4","varthr","Varied Thrush","Ixoreus naevius","L210903","Cordova--Hartney Bay","2026-04-29 11:33",2,60.4983201,-145.868013,TRUE,FALSE,FALSE,"S329599317"
-"5","varthr","Varied Thrush","Ixoreus naevius","L17121092","Fish Creek","2026-04-29 11:12",1,58.330956,-134.5961372,TRUE,FALSE,TRUE,"S329560131"
-"6","varthr","Varied Thrush","Ixoreus naevius","L18715647","Prairie Creek Road, Orick, California, US (41.364, -124.023)","2026-04-29 10:04",NA,41.3639475,-124.0231836,TRUE,FALSE,TRUE,"S329483176"
-"7","varthr","Varied Thrush","Ixoreus naevius","L496326","Outer Point Trail","2026-04-29 09:54",5,58.302364,-134.6786499,TRUE,FALSE,FALSE,"S329560569"
-"8","varthr","Varied Thrush","Ixoreus naevius","L558237","Stampede Pass Exit (I-90)","2026-04-29 09:42",1,47.3084523,-121.3143826,TRUE,FALSE,FALSE,"S329473840"
-"9","varthr","Varied Thrush","Ixoreus naevius","L49443254","815 Charles St, Sitka US-AK 57.06232, -135.33602","2026-04-29 08:59",4,57.062322,-135.336015,TRUE,FALSE,TRUE,"S329491088"
-"10","varthr","Varied Thrush","Ixoreus naevius","L10094061","(58.3870,-134.6545)yard and feeders 3866 Seaview","2026-04-29 08:55",1,58.387018,-134.654507,TRUE,FALSE,TRUE,"S329480911"
-"11","varthr","Varied Thrush","Ixoreus naevius","L64332626","Clary Coulee Trail, Choteau US-MT (47.8865,-112.7044)","2026-04-29 08:52",2,47.88653,-112.704412,TRUE,FALSE,TRUE,"S329419926"
-"12","varthr","Varied Thrush","Ixoreus naevius","L781318","Gustavus--Forelands","2026-04-29 08:25",7,58.4121436,-135.724411,TRUE,FALSE,FALSE,"S329539652"
-"13","varthr","Varied Thrush","Ixoreus naevius","L62493639","Savikko Park, Juneau US-AK","2026-04-29 07:39",2,58.272991,-134.387106,TRUE,FALSE,TRUE,"S329457913"
-"14","varthr","Varied Thrush","Ixoreus naevius","L25470278","Arcata Community Forest--Arcata Ridge Trail","2026-04-29 07:25",2,40.8921481,-124.0787041,TRUE,FALSE,TRUE,"S329447966"
-"15","varthr","Varied Thrush","Ixoreus naevius","L18287537","Behrend's avalanche area","2026-04-29 07:19",6,58.3090641,-134.4301215,TRUE,FALSE,TRUE,"S329460292"
-"16","varthr","Varied Thrush","Ixoreus naevius","L27058062","37834 Diane St, Sterling US-AK 60.52882, -150.82202","2026-04-29 07:16",1,60.528821,-150.822023,TRUE,FALSE,TRUE,"S329450268"
-"17","varthr","Varied Thrush","Ixoreus naevius","L1545636","Anchorage Coastal WR--Clitheroe Flats","2026-04-29 07:10",2,61.178193,-150.0367842,TRUE,FALSE,FALSE,"S329495598"
-"18","varthr","Varied Thrush","Ixoreus naevius","L40566412","Tok Alaska","2026-04-29 07:09",15,63.3404903,-143.1213577,TRUE,FALSE,TRUE,"S329511702"
-"19","varthr","Varied Thrush","Ixoreus naevius","L3871135","Kake--Gunnuk Creek","2026-04-29 06:50",6,56.9713222,-133.9336824,TRUE,FALSE,FALSE,"S329420121"
-"20","varthr","Varied Thrush","Ixoreus naevius","L64332166","McCartney Rd US-AK (57.0236,-134.0334)","2026-04-29 06:47",12,57.023585,-134.03345,TRUE,FALSE,TRUE,"S329417521"
-"21","varthr","Varied Thrush","Ixoreus naevius","L30941857","Vista Gold Neighborhood","2026-04-29 06:35",1,64.9536325,-147.8487843,TRUE,FALSE,TRUE,"S329412550"
-"22","varthr","Varied Thrush","Ixoreus naevius","L4421012","Fiddle Way trail","2026-04-29 06:31",10,64.7799592,-148.0449986,TRUE,FALSE,TRUE,"S329435197"
-"23","varthr","Varied Thrush","Ixoreus naevius","L64332193","4558–4570 Glacier Spur Rd, Juneau US-AK (58.4064,-134.5493)","2026-04-29 06:30",1,58.406406,-134.549311,TRUE,FALSE,TRUE,"S329417679"
-"24","varthr","Varied Thrush","Ixoreus naevius","L16588293","6723 Marguerite St, Juneau US-AK 58.32809, -134.49724","2026-04-29 06:27",8,58.328091,-134.497236,TRUE,FALSE,TRUE,"S329421595"
-"25","varthr","Varied Thrush","Ixoreus naevius","L31587178","Home","2026-04-29 06:18",1,64.918824,-148.161497,TRUE,FALSE,TRUE,"S329401763"
-"26","varthr","Varied Thrush","Ixoreus naevius","L859526","Raven Lane","2026-04-29 06:02",1,60.1485867,-149.4220769,TRUE,FALSE,TRUE,"S329477742"
-"27","varthr","Varied Thrush","Ixoreus naevius","L12830894","Hemlock House","2026-04-29 06:02",1,60.135164,-149.435194,TRUE,FALSE,TRUE,"S329436590"
-"28","varthr","Varied Thrush","Ixoreus naevius","L3968703","Wildlife Images Rehabilitation and Education Center","2026-04-29 05:50",1,42.4903381,-123.474403,TRUE,FALSE,FALSE,"S329535894"
-"29","varthr","Varied Thrush","Ixoreus naevius","L64348598","Duck Creek Market","2026-04-29 04:40",3,58.3839851,-134.5782364,TRUE,FALSE,TRUE,"S329507817"
-"30","varthr","Varied Thrush","Ixoreus naevius","L48376505","104 North 2nd Street, Petersburg, Alaska, US (56.812, -132.954)","2026-04-28 20:09",1,56.8122844,-132.9544896,TRUE,FALSE,TRUE,"S329222226"
-"31","varthr","Varied Thrush","Ixoreus naevius","L64295419","Tanana Lakes Recreation Area, Fairbanks US-AK (64.7965,-147.7231)","2026-04-28 18:47",1,64.79652,-147.723121,TRUE,FALSE,TRUE,"S329213775"
-"32","varthr","Varied Thrush","Ixoreus naevius","L18316109","103 Hillcrest, Thorne Bay, Alaska, US (55.688, -132.524)","2026-04-28 18:43",3,55.6881166,-132.5244388,TRUE,FALSE,TRUE,"S329217531"
-"33","varthr","Varied Thrush","Ixoreus naevius","L1606994","Knik River PUA--Mud Lake","2026-04-28 17:54",1,61.5642049,-148.9480854,TRUE,FALSE,FALSE,"S329212659"
-"34","varthr","Varied Thrush","Ixoreus naevius","L9548367","Girdwood--Lower Winner Creek Trail","2026-04-28 17:52",5,60.9696659,-149.0952659,TRUE,FALSE,FALSE,"S329210278"
-"35","varthr","Varied Thrush","Ixoreus naevius","L2956675","Cannery Pt.","2026-04-28 17:43",1,58.1300301,-135.4609966,TRUE,FALSE,FALSE,"S329233439"
-"36","varthr","Varied Thrush","Ixoreus naevius","L14795128","Cordova--6 Mile Marsh","2026-04-28 16:57",4,60.5292536,-145.6325756,TRUE,FALSE,FALSE,"S329196455"
-"37","varthr","Varied Thrush","Ixoreus naevius","L60981363","Crow Creek Rd Mile 2.6 Pullout","2026-04-28 16:10",4,60.9927789,-149.0991651,TRUE,FALSE,TRUE,"S329184009"
-"38","varthr","Varied Thrush","Ixoreus naevius","L1533244","SandyBeach ","2026-04-28 15:42",2,56.8026666,-132.916507,TRUE,FALSE,TRUE,"S329185709"
-"39","varthr","Varied Thrush","Ixoreus naevius","L5254015","Neah Bay--Waatch Beach Drive","2026-04-28 14:53",NA,48.3448986,-124.6757044,TRUE,FALSE,FALSE,"S329129608"
-"40","varthr","Varied Thrush","Ixoreus naevius","L1580540","Brotherhood Trail","2026-04-28 13:12",7,58.3721858,-134.601476,TRUE,FALSE,TRUE,"S329166765"
-"41","varthr","Varied Thrush","Ixoreus naevius","L9511086","Kingfisher Pond","2026-04-28 12:23",2,58.3552939,-134.5081945,TRUE,FALSE,FALSE,"S329101806"
-"42","varthr","Varied Thrush","Ixoreus naevius","L11455817","Fish Creek Tree Swallow Nest Box Area.","2026-04-28 12:14",4,58.3285858,-134.5984492,TRUE,FALSE,TRUE,"S329205382"
-"43","varthr","Varied Thrush","Ixoreus naevius","L60727547","DH Woods Trail","2026-04-28 11:43",5,58.3640988,-134.5198864,TRUE,FALSE,TRUE,"S329088902"
-"44","varthr","Varied Thrush","Ixoreus naevius","L14520460","Olympic NP--Hall of Mosses","2026-04-28 11:37",1,47.8613765,-123.9341283,TRUE,FALSE,FALSE,"S329079809"
-"45","varthr","Varied Thrush","Ixoreus naevius","L64270123","Marble Creek Rd, Calder US-ID 47.22150, -116.01911","2026-04-28 11:31",1,47.221505,-116.019111,TRUE,FALSE,TRUE,"S329077313"
-"46","varthr","Varied Thrush","Ixoreus naevius","L1309371","Cal Poly Humboldt","2026-04-28 11:05",1,40.874481,-124.0768137,TRUE,FALSE,FALSE,"S329056170"
-"47","varthr","Varied Thrush","Ixoreus naevius","L64265884","BEECHWOOD","2026-04-28 10:45",NA,40.735673,-124.141836,TRUE,FALSE,TRUE,"S329055446"
-"48","varthr","Varied Thrush","Ixoreus naevius","L1022652","Ketchikan (general area)","2026-04-28 10:11",5,55.3427645,-131.6462517,TRUE,FALSE,FALSE,"S329228665"
-"49","varthr","Varied Thrush","Ixoreus naevius","L10500870","Norway Hill Woodlands","2026-04-28 09:30",1,47.744854,-122.203824,TRUE,FALSE,FALSE,"S329072969"
-"50","varthr","Varied Thrush","Ixoreus naevius","L14551153","4070–4098 Shoemaker Bay Loop Rd, Wrangell US-AK 56.40922, -132.34182","2026-04-28 09:22",2,56.409225,-132.341822,TRUE,FALSE,TRUE,"S329040446"
-"51","varthr","Varied Thrush","Ixoreus naevius","L12389846","Island View Drive","2026-04-28 09:00",2,58.3905458,-134.7648996,TRUE,FALSE,TRUE,"S329214613"
-"52","varthr","Varied Thrush","Ixoreus naevius","L64273475","Bunker Hill Creek-Yaak River","2026-04-28 09:00",3,48.8893692,-115.6502279,TRUE,FALSE,TRUE,"S329100518"
-"53","varthr","Varied Thrush","Ixoreus naevius","L33868160","Oswald West SP--Cape Falcon Trail and Lookout","2026-04-28 08:47",4,45.7625117,-123.9799243,TRUE,FALSE,FALSE,"S329201191"
-"54","varthr","Varied Thrush","Ixoreus naevius","L20105657","815 Charles Street in backyard","2026-04-28 08:25",1,57.062294,-135.336061,TRUE,FALSE,TRUE,"S328997346"
-"55","varthr","Varied Thrush","Ixoreus naevius","L198202","Auke Recreation Area--Pt. Louisa","2026-04-28 08:11",1,58.3729854,-134.7267151,TRUE,FALSE,FALSE,"S329004132"
-"56","varthr","Varied Thrush","Ixoreus naevius","L49912802","34082 Tiger Ct, Soldotna US-AK 60.47575, -150.99718","2026-04-28 08:06",1,60.475747,-150.997178,TRUE,FALSE,TRUE,"S329445302"
-"57","varthr","Varied Thrush","Ixoreus naevius","L16377237","707a Sandy Beach Road, Petersburg, Alaska, US (56.814, -132.923)","2026-04-28 07:55",1,56.8135211,-132.9230616,TRUE,FALSE,TRUE,"S329109477"
-"58","varthr","Varied Thrush","Ixoreus naevius","L593492","Chester railroad grade","2026-04-28 07:51",1,40.3054508,-121.2203979,TRUE,TRUE,FALSE,"S328998972"
-"59","varthr","Varied Thrush","Ixoreus naevius","L63436471","Pond Hop Trail","2026-04-28 07:46",6,58.1599521,-152.3905407,TRUE,FALSE,TRUE,"S329185307"
-"60","varthr","Varied Thrush","Ixoreus naevius","L1531846","Wren Drive Neighborhood","2026-04-28 07:40",1,58.4012093,-134.6027196,TRUE,FALSE,TRUE,"S329219709"
-"61","varthr","Varied Thrush","Ixoreus naevius","L9233026","Home. 99826, Gustavus US-AK (58.4094,-135.7589)","2026-04-28 07:25",1,58.409386,-135.75891,TRUE,FALSE,TRUE,"S328964905"
-"62","varthr","Varied Thrush","Ixoreus naevius","L63305513","3250 Denali Ave, Ketchikan US-AK 55.35831, -131.68278","2026-04-28 07:12",3,55.358309,-131.682778,TRUE,FALSE,TRUE,"S328967194"
-"63","varthr","Varied Thrush","Ixoreus naevius","L45556517","Auke St","2026-04-28 07:09",2,58.3948321,-134.6280861,TRUE,FALSE,TRUE,"S328967268"
-"64","varthr","Varied Thrush","Ixoreus naevius","L50894561","The beach at The Beach House","2026-04-28 07:03",1,57.062169,-135.352646,TRUE,FALSE,TRUE,"S329185063"
-"65","varthr","Varied Thrush","Ixoreus naevius","L27726884","Dirty Harry's Balcony","2026-04-28 07:03",3,47.4346068,-121.6114329,TRUE,FALSE,FALSE,"S329092033"
-"66","varthr","Varied Thrush","Ixoreus naevius","L298030","Carkeek Park","2026-04-28 06:36",1,47.7126411,-122.377647,TRUE,FALSE,FALSE,"S329009216"
-"67","varthr","Varied Thrush","Ixoreus naevius","L64265199","Karl Knapp Trail, Orick, California, US (41.373, -124.035)","2026-04-28 06:28",2,41.3726138,-124.0352942,TRUE,FALSE,TRUE,"S329067925"
-"68","varthr","Varied Thrush","Ixoreus naevius","L21219304","4070–4098 Shoemaker Bay Loop Rd, Wrangell US-AK 56.40929, -132.34184","2026-04-28 06:19",2,56.409288,-132.341844,TRUE,FALSE,TRUE,"S328974906"
-"69","varthr","Varied Thrush","Ixoreus naevius","L21374870","Towers Rd, Juneau US-AK 58.38916, -134.76825","2026-04-28 05:59",1,58.389163,-134.76825,TRUE,FALSE,TRUE,"S329212109"
-"70","varthr","Varied Thrush","Ixoreus naevius","L64265993","HM0808","2026-04-28 05:34",NA,40.600295,-124.060382,TRUE,FALSE,TRUE,"S329056022"
-"71","varthr","Varied Thrush","Ixoreus naevius","L64239144","Duck Creek Market","2026-04-28 05:00",3,58.3839851,-134.5782364,TRUE,FALSE,TRUE,"S329056425"
-"72","varthr","Varied Thrush","Ixoreus naevius","L1539893","Ketchikan - 4th & Madison","2026-04-28",1,55.352445,-131.6774091,TRUE,FALSE,TRUE,"S329369047"
-"73","varthr","Varied Thrush","Ixoreus naevius","L9792877","15920 Greenleaf Drive, Talkeetna, Alaska, US (62.037, -150.052)","2026-04-27 20:51",1,62.0371476,-150.0524789,TRUE,FALSE,TRUE,"S328782558"
-"74","varthr","Varied Thrush","Ixoreus naevius","L30354568","Jupiter Home","2026-04-27 20:43",1,61.143182,-149.7971817,TRUE,FALSE,TRUE,"S329001898"
-"75","varthr","Varied Thrush","Ixoreus naevius","L10885350","South Wadleigh Slough and Meadow","2026-04-27 19:11",3,55.5375971,-133.1446498,TRUE,FALSE,TRUE,"S328769523"
-"76","varthr","Varied Thrush","Ixoreus naevius","L11172227","Jedediah Smith Redwoods SP--Howland Hill Rd.","2026-04-27 19:08",2,41.7649696,-124.1243956,TRUE,FALSE,FALSE,"S328766946"
-"77","varthr","Varied Thrush","Ixoreus naevius","L1175468","Glacier Bay NP--Beardslee Islands","2026-04-27 18:00",1,58.5532101,-135.9118652,TRUE,FALSE,FALSE,"S329161772"
-"78","varthr","Varied Thrush","Ixoreus naevius","L3678931","Taku Lake","2026-04-27 16:58",2,61.1507424,-149.8810351,TRUE,FALSE,FALSE,"S328750092"
-"79","varthr","Varied Thrush","Ixoreus naevius","L12043122","Broadie Habitat Preserve","2026-04-27 16:20",1,48.8781247,-115.6567598,TRUE,FALSE,TRUE,"S328734281"
-"80","varthr","Varied Thrush","Ixoreus naevius","L152823","Mendenhall Wetlands SGR--Airport Dike Trail","2026-04-27 16:20",1,58.3523993,-134.5945144,TRUE,FALSE,FALSE,"S328760174"
-"81","varthr","Varied Thrush","Ixoreus naevius","L3706086","Nash Rd.--mm 1 vicinity","2026-04-27 16:06",1,60.1387,-149.3882704,TRUE,FALSE,FALSE,"S328756552"
-"82","varthr","Varied Thrush","Ixoreus naevius","L2459688","Tikishla Park (S of E. 20th Ave.)","2026-04-27 15:58",2,61.2014151,-149.824713,TRUE,FALSE,FALSE,"S328723488"
-"83","varthr","Varied Thrush","Ixoreus naevius","L3545518","Shrine of St. Terese","2026-04-27 13:55",1,58.4712901,-134.7841573,TRUE,FALSE,FALSE,"S328705998"
-"84","varthr","Varied Thrush","Ixoreus naevius","L20208347","Personal Patch - Simpson","2026-04-27 13:51",2,58.2891457,-134.4241923,TRUE,FALSE,TRUE,"S328685967"
-"85","varthr","Varied Thrush","Ixoreus naevius","L4684735","Mt. Rainier NP--Westside Rd","2026-04-27 13:08",NA,46.744151,-121.895256,TRUE,FALSE,FALSE,"S328967150"
-"86","varthr","Varied Thrush","Ixoreus naevius","L191685","Mendenhall Wetlands SGR--Fish Creek Delta","2026-04-27 12:36",5,58.3311702,-134.5996857,TRUE,FALSE,FALSE,"S328764808"
-"87","varthr","Varied Thrush","Ixoreus naevius","L44422837","Cannon Beach Bridge","2026-04-27 12:26",1,59.4960158,-139.7221289,TRUE,FALSE,FALSE,"S328804076"
-"88","varthr","Varied Thrush","Ixoreus naevius","L1172319","Gold Creek Flume Trail","2026-04-27 12:18",4,58.3056109,-134.4166946,TRUE,FALSE,FALSE,"S328675623"
-"89","varthr","Varied Thrush","Ixoreus naevius","L8971921","Haines Hwy.--38.5 Mile Marsh","2026-04-27 11:51",2,59.4396737,-136.3231579,TRUE,FALSE,FALSE,"S328729931"
-"90","varthr","Varied Thrush","Ixoreus naevius","L561441","Tongass NF--Moose Lake area","2026-04-27 11:05",4,58.4057814,-134.5713186,TRUE,FALSE,FALSE,"S328647648"
-"91","varthr","Varied Thrush","Ixoreus naevius","L64187013","717–799 S Thielsen St, Echo US-OR 45.73660, -119.18784","2026-04-27 10:29",1,45.736597,-119.187842,TRUE,FALSE,TRUE,"S328644766"
-"92","varthr","Varied Thrush","Ixoreus naevius","L14020280","University Falls","2026-04-27 10:07",1,45.599824,-123.394002,TRUE,FALSE,FALSE,"S328712757"
-"93","varthr","Varied Thrush","Ixoreus naevius","L21723647","TSMRI/Lena Point","2026-04-27 09:47",3,58.392388,-134.7718479,TRUE,FALSE,TRUE,"S328726953"
-"94","varthr","Varied Thrush","Ixoreus naevius","L3930140","WRG house","2026-04-27 09:45",2,56.3268634,-132.3426476,TRUE,FALSE,TRUE,"S328751898"
-"95","varthr","Varied Thrush","Ixoreus naevius","L34292209","815 Charles St, Sitka US-AK 57.06232, -135.33600","2026-04-27 09:26",1,57.062317,-135.335999,TRUE,FALSE,TRUE,"S328570425"
-"96","varthr","Varied Thrush","Ixoreus naevius","L12430235","3240 Nowell Ave, Yard and Feeders","2026-04-27 09:16",1,58.2940702,-134.4311978,TRUE,FALSE,TRUE,"S328788524"
-"97","varthr","Varied Thrush","Ixoreus naevius","L447385","Ecola SP","2026-04-27 08:50",1,45.9183632,-123.9774513,TRUE,FALSE,FALSE,"S328603235"
-"98","varthr","Varied Thrush","Ixoreus naevius","L17364069","Auke Bay Area","2026-04-27 08:30",6,58.3909505,-134.6466887,TRUE,FALSE,TRUE,"S328600125"
-"99","varthr","Varied Thrush","Ixoreus naevius","L6804382","Little River Road, Port Angeles, Washington, US","2026-04-27 08:28",2,48.0615285,-123.532805,TRUE,FALSE,TRUE,"S328552128"
-"100","varthr","Varied Thrush","Ixoreus naevius","L167351","Twin Lakes","2026-04-27 08:24",2,58.33481,-134.47717,TRUE,FALSE,FALSE,"S328661471"
-"101","varthr","Varied Thrush","Ixoreus naevius","L2891661","Matanuska Moose Range","2026-04-27 08:22",3,61.6849058,-149.2034984,TRUE,FALSE,TRUE,"S328532744"
-"102","varthr","Varied Thrush","Ixoreus naevius","L447381","Mt. Tabor Park","2026-04-27 08:07",1,45.5114597,-122.5940323,TRUE,FALSE,FALSE,"S328560560"
-"103","varthr","Varied Thrush","Ixoreus naevius","L14525685","Shoemaker Bay Zimovia Hwy, Wrangell US-AK 56.41680, -132.34665","2026-04-27 07:53",4,56.4168,-132.346649,TRUE,FALSE,TRUE,"S328541005"
-"104","varthr","Varied Thrush","Ixoreus naevius","L43878109","Park Rd, Gustavus US-AK (58.4555,-135.8708)","2026-04-27 07:52",4,58.4555,-135.870806,TRUE,FALSE,TRUE,"S328533210"
-"105","varthr","Varied Thrush","Ixoreus naevius","L44423229","Yakutat Boat Harbor","2026-04-27 07:46",1,59.5627077,-139.7412919,TRUE,FALSE,FALSE,"S328536192"
-"106","varthr","Varied Thrush","Ixoreus naevius","L36959979","Hillside","2026-04-27 07:26",2,61.135127,-149.766419,TRUE,FALSE,TRUE,"S328529701"
-"107","varthr","Varied Thrush","Ixoreus naevius","L24063148","Hardy’s.  River park dr. Soldotna","2026-04-27 07:10",1,60.4757,-150.997548,TRUE,FALSE,TRUE,"S328525819"
-"108","varthr","Varied Thrush","Ixoreus naevius","L605977","Tok (town)","2026-04-27 06:39",2,63.3359259,-142.9878759,TRUE,FALSE,FALSE,"S328475271"
-"109","varthr","Varied Thrush","Ixoreus naevius","L64169108","Hatton Trail, Crescent City, California, US (41.809, -124.098)","2026-04-27 06:18",2,41.8087036,-124.0984666,TRUE,FALSE,TRUE,"S328584034"
-"110","varthr","Varied Thrush","Ixoreus naevius","L64150519","15205 N Grella Cir, Willow US-AK 61.76374, -149.76739","2026-04-27 06:03",2,61.763745,-149.767391,TRUE,FALSE,TRUE,"S328458553"
-"111","varthr","Varied Thrush","Ixoreus naevius","L64149229","AK Hwy MP 1305.9","2026-04-27 05:55",1,63.317196,-142.727372,TRUE,FALSE,TRUE,"S328450946"
-"112","varthr","Varied Thrush","Ixoreus naevius","L64166243","ZM0110","2026-04-27 05:35",NA,40.35443,-123.920443,TRUE,FALSE,TRUE,"S328541048"
-"113","varthr","Varied Thrush","Ixoreus naevius","L64070538","Duck Creek Market","2026-04-27 05:30",4,58.3835085,-134.5786655,TRUE,FALSE,TRUE,"S328538090"
-"114","varthr","Varied Thrush","Ixoreus naevius","L64143230","Weigh Station Sign","2026-04-27 05:05",2,63.320684,-142.771329,TRUE,FALSE,TRUE,"S328416204"
-"115","varthr","Varied Thrush","Ixoreus naevius","L443195","Sitka (general area)","2026-04-27",NA,57.049881,-135.3335381,TRUE,FALSE,FALSE,"S329077420"
-"116","varthr","Varied Thrush","Ixoreus naevius","L2296446","Chilkoot Lake SRS","2026-04-26 21:37",4,59.3358991,-135.5619711,TRUE,FALSE,FALSE,"S328266789"
-"117","varthr","Varied Thrush","Ixoreus naevius","L7595448","Auke Lake Trail","2026-04-26 20:19",4,58.3862829,-134.6271944,TRUE,FALSE,FALSE,"S328257215"
-"118","varthr","Varied Thrush","Ixoreus naevius","L30759734","Hemlock House (private)","2026-04-26 19:15",3,59.46649,-135.3177108,TRUE,FALSE,TRUE,"S328502908"
-"119","varthr","Varied Thrush","Ixoreus naevius","L2938682","Seldovia--Outside Beach, Campground, & RV Park","2026-04-26 19:04",2,59.4563524,-151.708982,TRUE,FALSE,FALSE,"S328250431"
-"120","varthr","Varied Thrush","Ixoreus naevius","L2281032","Glacier Bay NP--Tlinget Trail","2026-04-26 16:26",1,58.4553433,-135.8739281,TRUE,FALSE,FALSE,"S328233725"
-"121","varthr","Varied Thrush","Ixoreus naevius","L64104608","Gunsight Hawkwatch Mile120","2026-04-26 16:16",1,61.893838,-147.330436,TRUE,FALSE,TRUE,"S328215253"
-"122","varthr","Varied Thrush","Ixoreus naevius","L64117079","AK-10, Gakona US-AK (60.4437,-145.1206)","2026-04-26 16:14",3,60.443745,-145.120613,TRUE,FALSE,TRUE,"S328275943"
-"123","varthr","Varied Thrush","Ixoreus naevius","L1616551","Game Creek - Hayfields","2026-04-26 16:12",15,58.074181,-135.4909393,TRUE,FALSE,TRUE,"S328270857"
-"124","varthr","Varied Thrush","Ixoreus naevius","L64124524","Angel Rocks Trail, Fairbanks US-AK 65.01272, -146.21425","2026-04-26 14:47",3,65.012716,-146.214253,TRUE,FALSE,TRUE,"S328311239"
-"125","varthr","Varied Thrush","Ixoreus naevius","L598565","Chena River SRA--Angel Rocks Trail","2026-04-26 14:47",3,65.0339012,-146.1964417,TRUE,FALSE,FALSE,"S328245005"
-"126","varthr","Varied Thrush","Ixoreus naevius","L1556900","Chilkoot Inlet--Mud Bay","2026-04-26 14:43",2,59.152963,-135.3461552,TRUE,FALSE,FALSE,"S328209235"
-"127","varthr","Varied Thrush","Ixoreus naevius","L2265481","Brotherhood Bridge Trail","2026-04-26 14:42",3,58.3711175,-134.6019495,TRUE,FALSE,FALSE,"S328231109"
-"128","varthr","Varied Thrush","Ixoreus naevius","L63662062","59901, Kalispell US-MT 48.15288, -114.23704","2026-04-26 14:37",NA,48.152882,-114.23704,TRUE,FALSE,TRUE,"S328104401"
-"129","varthr","Varied Thrush","Ixoreus naevius","L522791","Breazeale Interpretive Center","2026-04-26 14:31",1,48.4949666,-122.4804783,TRUE,FALSE,FALSE,"S328184156"
-"130","varthr","Varied Thrush","Ixoreus naevius","L64117772","Stouts Crk-Mighty Fine, Days Creek, Oregon, US (42.926, -122.997)","2026-04-26 14:11",1,42.9258802,-122.9966278,TRUE,FALSE,TRUE,"S328279913"
-"131","varthr","Varied Thrush","Ixoreus naevius","L1312817","Ward Cove","2026-04-26 14:09",4,55.4061409,-131.7214823,TRUE,FALSE,FALSE,"S328186462"
-"132","varthr","Varied Thrush","Ixoreus naevius","L1224755","Hyder--Moose Pond","2026-04-26 13:31",1,55.9463927,-130.0491357,TRUE,FALSE,FALSE,"S329496995"
-"133","varthr","Varied Thrush","Ixoreus naevius","L2393881","Whittier--Lu Young Park","2026-04-26 13:28",1,60.7775212,-148.6613002,TRUE,FALSE,FALSE,"S328130027"
-"134","varthr","Varied Thrush","Ixoreus naevius","L896983","Evergreen Cemetery","2026-04-26 13:24",1,58.3049232,-134.4231641,TRUE,FALSE,FALSE,"S328149353"
-"135","varthr","Varied Thrush","Ixoreus naevius","L9792874","15920 Greenleaf Drive, Talkeetna, Alaska, US (62.037, -150.052)","2026-04-26 13:00",1,62.0369079,-150.0521814,TRUE,FALSE,TRUE,"S328207053"
-"136","varthr","Varied Thrush","Ixoreus naevius","L1616557","Game Creek (restricted access)","2026-04-26 12:42",5,58.0771829,-135.4855654,TRUE,FALSE,FALSE,"S328271263"
-"137","varthr","Varied Thrush","Ixoreus naevius","L3897070","Kelgaya Bay--Battery Point trail (Chilkoot Inlet)","2026-04-26 12:40",1,59.2119069,-135.3739214,TRUE,FALSE,FALSE,"S328131240"
-"138","varthr","Varied Thrush","Ixoreus naevius","L7687638","Hike from Kalinin bay to sea lion cove","2026-04-26 12:35",3,57.3106246,-135.7821536,TRUE,FALSE,TRUE,"S328236012"
-"139","varthr","Varied Thrush","Ixoreus naevius","L64086557","Mitkof Hwy, Petersburg US-AK 56.62849, -132.87661","2026-04-26 12:15",1,56.62849,-132.876608,TRUE,FALSE,TRUE,"S328119737"
-"140","varthr","Varied Thrush","Ixoreus naevius","L5097382","Mill Creek acquisition (DNCRSP)--Hamilton Rd. Shipyard","2026-04-26 11:58",1,41.7336608,-124.0958923,TRUE,FALSE,FALSE,"S328217304"
-"141","varthr","Varied Thrush","Ixoreus naevius","L3728713","Kit Price Campground","2026-04-26 11:45",1,47.7410261,-116.0065913,TRUE,FALSE,FALSE,"S328562128"
-"142","varthr","Varied Thrush","Ixoreus naevius","L15669069","Glacier Bay NP--Bartlett Cove Campground","2026-04-26 11:13",7,58.4507812,-135.8944094,TRUE,FALSE,FALSE,"S328116606"
-"143","varthr","Varied Thrush","Ixoreus naevius","L3570687","Skagway--Pullen Pond & Creek","2026-04-26 10:54",2,59.4524733,-135.3156563,TRUE,FALSE,FALSE,"S328241593"
-"144","varthr","Varied Thrush","Ixoreus naevius","L4480211","Scenic Turnout (N. Douglas Hwy)","2026-04-26 10:32",1,58.3120985,-134.6639943,TRUE,FALSE,FALSE,"S328065671"
-"145","varthr","Varied Thrush","Ixoreus naevius","L10129054","Cougar Mountain Regional Wildland Park--Harvey Manning Trailhead","2026-04-26 10:20",2,47.540925,-122.096194,TRUE,FALSE,FALSE,"S328039950"
-"146","varthr","Varied Thrush","Ixoreus naevius","L2925361","Upper Game Creek","2026-04-26 10:12",2,58.0636681,-135.4869604,TRUE,FALSE,TRUE,"S328271120"
-"147","varthr","Varied Thrush","Ixoreus naevius","L1137107","Glenn Hwy.--Gunsight Mountain Hawkwatch (MP 120)","2026-04-26 10:11",1,61.8659447,-147.3493195,TRUE,FALSE,FALSE,"S328241623"
-"148","varthr","Varied Thrush","Ixoreus naevius","L43430393","Tlingit Trail, Gustavus US-AK (58.4564,-135.8765)","2026-04-26 10:10",3,58.456391,-135.876527,TRUE,FALSE,TRUE,"S328035790"
-"149","varthr","Varied Thrush","Ixoreus naevius","L950755","Redmond Watershed Preserve","2026-04-26 10:06",1,47.6941367,-122.0490503,TRUE,FALSE,FALSE,"S328025704"
-"150","varthr","Varied Thrush","Ixoreus naevius","L8518074","Pilchuck Tree Farm Victoria Tract","2026-04-26 09:45",1,48.2820506,-122.2472334,TRUE,FALSE,TRUE,"S328251782"
-"151","varthr","Varied Thrush","Ixoreus naevius","L6051370","Lake Serene Trail","2026-04-26 09:42",6,47.8037327,-121.5663637,TRUE,FALSE,FALSE,"S328155757"
-"152","varthr","Varied Thrush","Ixoreus naevius","L64064018","Jones Point Trail","2026-04-26 09:39",2,59.232336,-135.480087,TRUE,FALSE,TRUE,"S328010360"
-"153","varthr","Varied Thrush","Ixoreus naevius","L29212904","815 Charles St, Sitka US-AK 57.06235, -135.33595","2026-04-26 09:39",3,57.062346,-135.335954,TRUE,FALSE,TRUE,"S327986295"
-"154","varthr","Varied Thrush","Ixoreus naevius","L37280607","620 lincoln st","2026-04-26 09:28",1,48.732499,-122.4658807,TRUE,FALSE,TRUE,"S328016014"
-"155","varthr","Varied Thrush","Ixoreus naevius","L12455898","Sea Lion Bay, Sitka US-AK (57.3058,-135.8273)","2026-04-26 09:20",1,57.305843,-135.827331,TRUE,FALSE,TRUE,"S328236932"
-"156","varthr","Varied Thrush","Ixoreus naevius","L34952639","Redwood NP--Redwood Creek Overlook","2026-04-26 09:17",NA,41.2580122,-123.9893882,TRUE,FALSE,FALSE,"S328169576"
-"157","varthr","Varied Thrush","Ixoreus naevius","L16745973","154 Salmon Way, Pelican, Alaska, US (57.958, -136.223)","2026-04-26 09:07",1,57.9580155,-136.2231599,TRUE,FALSE,TRUE,"S327983822"
-"158","varthr","Varied Thrush","Ixoreus naevius","L9210807","Little River Road, Port Angeles, Washington, US","2026-04-26 09:00",1,48.0485842,-123.4768103,TRUE,FALSE,TRUE,"S328053434"
-"159","varthr","Varied Thrush","Ixoreus naevius","L5070186","Gustavus (town)","2026-04-26 08:58",8,58.4137425,-135.7313045,TRUE,FALSE,FALSE,"S328139373"
-"160","varthr","Varied Thrush","Ixoreus naevius","L8069909","Thorne Bay (town)","2026-04-26 08:54",8,55.6850962,-132.5215628,TRUE,FALSE,FALSE,"S328023922"
-"161","varthr","Varied Thrush","Ixoreus naevius","L383284","Juneau (town)","2026-04-26 08:48",2,58.3022738,-134.4198704,TRUE,FALSE,FALSE,"S328045380"
-"162","varthr","Varied Thrush","Ixoreus naevius","L10992406","West Twin Road - Past Gate","2026-04-26 08:38",1,46.7989374,-116.9349303,TRUE,FALSE,TRUE,"S327997542"
-"163","varthr","Varied Thrush","Ixoreus naevius","L64058477","Tahoma One Drop Zen Monastery","2026-04-26 08:32",1,47.9764892,-122.533691,TRUE,FALSE,TRUE,"S327983825"
-"164","varthr","Varied Thrush","Ixoreus naevius","L486044","Lost Man Creek Rd. and trail (to mi. 1.0 at 3rd trail bridge)","2026-04-26 08:26",4,41.3281642,-124.0259457,TRUE,FALSE,FALSE,"S327878749"
-"165","varthr","Varied Thrush","Ixoreus naevius","L5071674","Haines--Tanani Point","2026-04-26 08:21",4,59.2721599,-135.4407921,TRUE,FALSE,FALSE,"S327920722"
-"166","varthr","Varied Thrush","Ixoreus naevius","L58979364","Chaffin Creek Trail","2026-04-26 08:07",3,45.955209,-114.213949,TRUE,FALSE,TRUE,"S328118263"
-"167","varthr","Varied Thrush","Ixoreus naevius","L444581","Sitka National Historical Park","2026-04-26 08:05",1,57.0476401,-135.3161573,TRUE,FALSE,FALSE,"S328004322"
-"168","varthr","Varied Thrush","Ixoreus naevius","L64262353","Dolason Trail, Trinidad US-CA 41.20525, -123.95043","2026-04-26 07:56",3,41.205251,-123.950434,TRUE,FALSE,TRUE,"S329037966"
-"169","varthr","Varied Thrush","Ixoreus naevius","L25198306","Old oar house thane","2026-04-26 07:47",3,58.262009,-134.331393,TRUE,FALSE,TRUE,"S327910605"
-"170","varthr","Varied Thrush","Ixoreus naevius","L9792780","Mendenhall Wetlands SGR (E of Mendenhall River)","2026-04-26 07:28",1,58.3504297,-134.6000631,TRUE,FALSE,FALSE,"S328018432"
-"171","varthr","Varied Thrush","Ixoreus naevius","L8106823","Lake Dawn, Port Angeles, Washington, US (48.042, -123.429)","2026-04-26 07:00",4,48.0419723,-123.4287576,TRUE,FALSE,TRUE,"S328052580"
-"172","varthr","Varied Thrush","Ixoreus naevius","L190961","Dyerville Bar","2026-04-26 06:55",4,40.35474,-123.922386,TRUE,FALSE,FALSE,"S328907613"
-"173","varthr","Varied Thrush","Ixoreus naevius","L6331835","Lake Leota","2026-04-26 06:51",2,47.7599394,-122.1217048,TRUE,FALSE,TRUE,"S328759532"
-"174","varthr","Varied Thrush","Ixoreus naevius","L64072380","Duck Creek Market","2026-04-26 06:45",4,58.3837464,-134.578582,TRUE,FALSE,TRUE,"S328068111"
-"175","varthr","Varied Thrush","Ixoreus naevius","L17590731","Davison Tr. btwn. Davison Rd. & Elk Prairie Tr.","2026-04-26 06:43",2,41.3480064,-124.0328391,TRUE,FALSE,FALSE,"S328013645"
-"176","varthr","Varied Thrush","Ixoreus naevius","L30245842","89 Same Old Road, Gustavus, Alaska, US (58.416, -135.706)","2026-04-26 06:40",3,58.4163321,-135.7057118,TRUE,FALSE,TRUE,"S328138042"
-"177","varthr","Varied Thrush","Ixoreus naevius","L47187013","KINGS LANDING","2026-04-26 06:39",2,47.1925843,-122.5524949,TRUE,FALSE,TRUE,"S327763684"
-"178","varthr","Varied Thrush","Ixoreus naevius","L3943215","Cougar-Squak Corridor","2026-04-26 06:34",2,47.5046997,-122.0798378,TRUE,FALSE,FALSE,"S328089752"
-"179","varthr","Varied Thrush","Ixoreus naevius","L4771745","6th St/5th St/Alta Ct in Douglas, AK","2026-04-26 06:30",4,58.269785,-134.3852001,TRUE,FALSE,TRUE,"S328037106"
-"180","varthr","Varied Thrush","Ixoreus naevius","L782177","Gustavus--Forelands (W of dock to Critical Habitat boundary)","2026-04-26 06:20",16,58.3921763,-135.7899857,TRUE,FALSE,FALSE,"S328251568"
-"181","varthr","Varied Thrush","Ixoreus naevius","L64166414","HM0804B","2026-04-26 05:36",NA,40.602678,-124.05505,TRUE,FALSE,TRUE,"S328541830"
-"182","varthr","Varied Thrush","Ixoreus naevius","L64037115","Unnamed Road, Klamath, California, US (41.648, -124.103)","2026-04-26 05:34",9,41.647999,-124.1026941,TRUE,FALSE,TRUE,"S327880427"
-"183","varthr","Varied Thrush","Ixoreus naevius","L388446","Northrup Canyon","2026-04-26 04:53",1,47.8672,-119.08134,TRUE,FALSE,FALSE,"S328039873"
-"184","varthr","Varied Thrush","Ixoreus naevius","L891831","Haines--Lutak Rd.","2026-04-25 21:01",1,59.3023561,-135.5300903,TRUE,FALSE,FALSE,"S327495883"
-"185","varthr","Varied Thrush","Ixoreus naevius","L63962134","900 Thane Rd, Juneau US-AK 58.29245, -134.39568","2026-04-25 20:40",1,58.29245,-134.395683,TRUE,FALSE,TRUE,"S327499702"
-"186","varthr","Varied Thrush","Ixoreus naevius","L10299844","south sea lion cove","2026-04-25 16:40",5,57.2946886,-135.8348075,TRUE,FALSE,TRUE,"S328237419"
-"187","varthr","Varied Thrush","Ixoreus naevius","L3975801","Hoonah--Long Island Causeway","2026-04-25 16:35",6,58.091954,-135.4620159,TRUE,FALSE,FALSE,"S327473380"
-"188","varthr","Varied Thrush","Ixoreus naevius","L9598983","Salvage Trail","2026-04-25 16:33",7,55.430309,-131.691631,TRUE,FALSE,FALSE,"S327477217"
-"189","varthr","Varied Thrush","Ixoreus naevius","L7152317","Sea Lion Cove","2026-04-25 15:58",1,57.3035168,-135.8225369,TRUE,FALSE,TRUE,"S328237478"
-"190","varthr","Varied Thrush","Ixoreus naevius","L7127313","muskeg on sea lion cove trail","2026-04-25 15:41",1,57.3008886,-135.812602,TRUE,FALSE,TRUE,"S328237534"
-"191","varthr","Varied Thrush","Ixoreus naevius","L63944521","Gustavus — Library","2026-04-25 14:57",1,58.418511,-135.711745,TRUE,FALSE,TRUE,"S327417310"
-"192","varthr","Varied Thrush","Ixoreus naevius","L63936379","Home","2026-04-25 14:32",1,45.684025,-122.643932,TRUE,FALSE,TRUE,"S327377771"
-"193","varthr","Varied Thrush","Ixoreus naevius","L565209","Smith River Bottoms--Sarina Rd. terminus","2026-04-25 14:15",1,41.9134555,-124.1708064,TRUE,FALSE,FALSE,"S328437540"
-"194","varthr","Varied Thrush","Ixoreus naevius","L2980099","Hyder (general area)","2026-04-25 13:53",2,55.9180932,-130.0272274,TRUE,FALSE,FALSE,"S327370461"
-"195","varthr","Varied Thrush","Ixoreus naevius","L5969157","Blue Lake Rd.","2026-04-25 13:46",3,57.0544717,-135.2270797,TRUE,FALSE,FALSE,"S327503766"
-"196","varthr","Varied Thrush","Ixoreus naevius","L63959807","National Forest Development Road 5600, North Bend, Washington, US (47.56, -121.532)","2026-04-25 13:34",4,47.5604816,-121.5323478,TRUE,FALSE,TRUE,"S327488545"
-"197","varthr","Varied Thrush","Ixoreus naevius","L390227","Eagle Beach SRA","2026-04-25 13:23",3,58.5283716,-134.8270512,TRUE,FALSE,FALSE,"S327472424"
-"198","varthr","Varied Thrush","Ixoreus naevius","L63956558","Pioneer Road","2026-04-25 13:16",5,58.295226,-134.664413,TRUE,FALSE,TRUE,"S327474349"
-"199","varthr","Varied Thrush","Ixoreus naevius","L153925","Sheep Creek Delta","2026-04-25 13:15",2,58.2595433,-134.327774,TRUE,FALSE,FALSE,"S327405148"
-"200","varthr","Varied Thrush","Ixoreus naevius","L36411683","Forest trail","2026-04-25 12:04",1,46.657893,-123.748208,TRUE,FALSE,TRUE,"S327323231"
-"201","varthr","Varied Thrush","Ixoreus naevius","L63952610","Cedar Creek Loop","2026-04-25 11:34",1,44.937847,-123.531678,TRUE,FALSE,TRUE,"S327457164"
-"202","varthr","Varied Thrush","Ixoreus naevius","L63448382","Snow Goose Road","2026-04-25 11:25",1,55.411985,-131.750063,TRUE,FALSE,TRUE,"S327483549"
-"203","varthr","Varied Thrush","Ixoreus naevius","L684244","Skagway--Dewey Lake Trails","2026-04-25 11:01",2,59.4528715,-135.3135797,TRUE,FALSE,FALSE,"S328241239"
-"204","varthr","Varied Thrush","Ixoreus naevius","L63931148","99586, Cordova US-AK (60.5191,-145.7790)","2026-04-25 10:42",1,60.519077,-145.779035,TRUE,FALSE,TRUE,"S327353100"
-"205","varthr","Varied Thrush","Ixoreus naevius","L1302200","Savikko Park","2026-04-25 10:30",4,58.2730042,-134.386386,TRUE,FALSE,FALSE,"S327832830"
-"206","varthr","Varied Thrush","Ixoreus naevius","L1312792","Ketchikan International Airport Perimeter","2026-04-25 10:20",3,55.35739,-131.71036,TRUE,FALSE,FALSE,"S327325834"
-"207","varthr","Varied Thrush","Ixoreus naevius","L62526424","West Fork Steamboat—lower","2026-04-25 10:15",1,47.718428,-116.208116,TRUE,FALSE,TRUE,"S328562967"
-"208","varthr","Varied Thrush","Ixoreus naevius","L1217461","Ward Lake","2026-04-25 09:56",3,55.412352,-131.6996225,TRUE,FALSE,FALSE,"S327326929"
-"209","varthr","Varied Thrush","Ixoreus naevius","L682269","Perseverance Trail & Gold Creek Basin","2026-04-25 09:50",1,58.3088705,-134.381304,TRUE,FALSE,FALSE,"S327335237"
-"210","varthr","Varied Thrush","Ixoreus naevius","L64365437","Endicott Arm, Dawes inlet","2026-04-25 09:30",1,57.5290414,-133.0165541,TRUE,FALSE,TRUE,"S329586214"
-"211","varthr","Varied Thrush","Ixoreus naevius","L2914387","Gustavus--Airport Loop","2026-04-25 09:10",4,58.4136722,-135.6796932,TRUE,FALSE,FALSE,"S327426490"
-"212","varthr","Varied Thrush","Ixoreus naevius","L2092862","Olympic NF--Mount Townsend Trail","2026-04-25 09:00",1,47.8583531,-123.0190444,TRUE,FALSE,FALSE,"S327490515"
-"213","varthr","Varied Thrush","Ixoreus naevius","L7491008","Jedediah Smith Redwood SP--Boy Scout Tree Trail","2026-04-25 08:54",1,41.768612,-124.110185,TRUE,FALSE,FALSE,"S327881234"
-"214","varthr","Varied Thrush","Ixoreus naevius","L12563036","Seward Hwy.--mm 87.5","2026-04-25 08:46",1,60.9171278,-149.1173043,TRUE,FALSE,FALSE,"S327210877"
-"215","varthr","Varied Thrush","Ixoreus naevius","L24652365","Lolo Pass Trailhead","2026-04-25 08:37",4,45.427344,-121.796451,TRUE,FALSE,FALSE,"S327648669"
-"216","varthr","Varied Thrush","Ixoreus naevius","L1904567","Petersburg (town)","2026-04-25 08:29",3,56.8119983,-132.955513,TRUE,FALSE,FALSE,"S327371180"
-"217","varthr","Varied Thrush","Ixoreus naevius","L13349233","Oxbow Loop Trail","2026-04-25 08:28",3,47.5148364,-121.6109723,TRUE,FALSE,FALSE,"S327242545"
-"218","varthr","Varied Thrush","Ixoreus naevius","L763526","Cape Meares SP--Lighthouse","2026-04-25 08:16",1,45.4864324,-123.9774492,TRUE,FALSE,FALSE,"S328244121"
-"219","varthr","Varied Thrush","Ixoreus naevius","L31324528","Wrangell Volunteer Park--Nature Trail and Fields","2026-04-25 08:05",3,56.4726675,-132.3723836,TRUE,FALSE,FALSE,"S327418323"
-"220","varthr","Varied Thrush","Ixoreus naevius","L5374127","Quinault, WA, USA - home","2026-04-25 08:00",NA,47.460377,-123.863356,TRUE,FALSE,TRUE,"S327862398"
-"221","varthr","Varied Thrush","Ixoreus naevius","L1356382","Craig (general area)","2026-04-25 07:56",2,55.4759466,-133.1492767,TRUE,FALSE,FALSE,"S328140757"
-"222","varthr","Varied Thrush","Ixoreus naevius","L18985578","DNR Rd 4200 to 4253 to Signal Peak Towers","2026-04-25 07:43",2,46.287888,-122.548276,TRUE,FALSE,TRUE,"S327210287"
-"223","varthr","Varied Thrush","Ixoreus naevius","L33607088","Upper Kit Carson Lot","2026-04-25 07:32",1,47.9170771,-117.122403,TRUE,FALSE,TRUE,"S327158386"
-"224","varthr","Varied Thrush","Ixoreus naevius","L36870473","HomeSunriver","2026-04-25 07:27",1,43.894425,-121.44875,TRUE,FALSE,TRUE,"S327098375"
-"225","varthr","Varied Thrush","Ixoreus naevius","L23406314","Ban Thai","2026-04-25 07:11",1,57.075117,-135.361961,TRUE,FALSE,TRUE,"S327194730"
-"226","varthr","Varied Thrush","Ixoreus naevius","L1014317","Wrangell--Muskeg Meadows Golf Course","2026-04-25 07:06",3,56.4775196,-132.3583889,TRUE,FALSE,FALSE,"S327234999"
-"227","varthr","Varied Thrush","Ixoreus naevius","L13500212","Boeing Creek Park","2026-04-25 07:04",2,47.756202,-122.36506,TRUE,FALSE,TRUE,"S327171399"
-"228","varthr","Varied Thrush","Ixoreus naevius","L1015235","Wrangell--City Park","2026-04-25 07:00",2,56.4525191,-132.3824215,TRUE,FALSE,FALSE,"S327421427"
-"229","varthr","Varied Thrush","Ixoreus naevius","L64101297","Boy Scout Tree Trail, Crescent City, California, US (41.783, -124.137)","2026-04-25 06:21",1,41.7829221,-124.1370827,TRUE,FALSE,TRUE,"S328197370"
-"230","varthr","Varied Thrush","Ixoreus naevius","L4491511","Copper River Hwy.--Pavilion","2026-04-25 06:05",1,60.5014816,-145.5113786,TRUE,FALSE,FALSE,"S327211240"
-"231","varthr","Varied Thrush","Ixoreus naevius","L7888554","Misty Fjords NMW--Rudyerd Bay","2026-04-25 05:56",1,55.5991034,-130.7024748,TRUE,FALSE,FALSE,"S327255910"
-"232","varthr","Varied Thrush","Ixoreus naevius","L64166379","HM1013","2026-04-25 05:37",NA,40.582426,-123.987074,TRUE,FALSE,TRUE,"S328541675"
-"233","varthr","Varied Thrush","Ixoreus naevius","L63946203","Boy Scout Tree Trail, Crescent City, California, US (41.779, -124.126)","2026-04-25 05:18",4,41.7787668,-124.1255233,TRUE,FALSE,TRUE,"S327425640"
-"234","varthr","Varied Thrush","Ixoreus naevius","L559390","Middleton Island (restricted access)","2026-04-24 20:37",1,59.43529,-146.33303,TRUE,TRUE,FALSE,"S326820404"
-"235","varthr","Varied Thrush","Ixoreus naevius","L64043844","US Frst Service Road 217, Oregon, US (43.487, -122.406)","2026-04-24 20:30",1,43.4871051,-122.4058395,TRUE,FALSE,TRUE,"S327913830"
-"236","varthr","Varied Thrush","Ixoreus naevius","L64206627","Jordan Rd","2026-04-24 16:00",1,40.4413358,-124.0314449,TRUE,FALSE,TRUE,"S328751878"
-"237","varthr","Varied Thrush","Ixoreus naevius","L63874430","Yodkin Rd","2026-04-24 15:50",1,48.8399587,-115.6072938,TRUE,FALSE,TRUE,"S327101198"
-"238","varthr","Varied Thrush","Ixoreus naevius","L3545525","Mendenhall Glacier--E. Glacier Trail","2026-04-24 15:38",1,58.4207409,-134.5365143,TRUE,FALSE,FALSE,"S326785989"
-"239","varthr","Varied Thrush","Ixoreus naevius","L18474771","Odin Street Duplex","2026-04-24 15:28",1,56.806647,-132.965553,TRUE,FALSE,TRUE,"S327366323"
-"240","varthr","Varied Thrush","Ixoreus naevius","L7269113","Mailbox Peak","2026-04-24 12:48",1,47.464627,-121.6548729,TRUE,FALSE,FALSE,"S327326110"
-"241","varthr","Varied Thrush","Ixoreus naevius","L5897796","Snoqualmie Pass (King Co.)","2026-04-24 12:38",1,47.425471,-121.418028,TRUE,FALSE,FALSE,"S326743632"
-"242","varthr","Varied Thrush","Ixoreus naevius","L28926298","1311 Federal Way, Thorne Bay, Alaska, US (55.689, -132.527)","2026-04-24 11:54",2,55.6890461,-132.527389,TRUE,FALSE,TRUE,"S326672980"
-"243","varthr","Varied Thrush","Ixoreus naevius","L3204635","Lena Cove Picnic Ground/Loop","2026-04-24 11:35",1,58.3924948,-134.7512627,TRUE,FALSE,TRUE,"S326658563"
-"244","varthr","Varied Thrush","Ixoreus naevius","L64326842","Ohmer Cr Campground - Mitkof Island","2026-04-24 11:20",4,56.579428,-132.742237,TRUE,FALSE,TRUE,"S329388575"
-"245","varthr","Varied Thrush","Ixoreus naevius","L34317686","Smickum Club, Mitkof Island","2026-04-24 11:20",4,56.62742,-132.8743,TRUE,FALSE,TRUE,"S326807369"
-"246","varthr","Varied Thrush","Ixoreus naevius","L7850423","Anderson Lake CP--Rosendin Park","2026-04-24 10:06",1,37.162492,-121.620504,TRUE,FALSE,FALSE,"S326613102"
-"247","varthr","Varied Thrush","Ixoreus naevius","L48676129","11864 North Bank Road, Roseburg, Oregon, US (43.318, -123.223)","2026-04-24 09:56",1,43.3183209,-123.2227777,TRUE,FALSE,TRUE,"S326764243"
-"248","varthr","Varied Thrush","Ixoreus naevius","L3914719","Greenwater Lakes Trail","2026-04-24 09:48",3,47.0897898,-121.454308,TRUE,FALSE,FALSE,"S326676832"
-"249","varthr","Varied Thrush","Ixoreus naevius","L63793765","Excelsior Trail","2026-04-24 09:27",6,48.923572,-121.789518,TRUE,FALSE,TRUE,"S326699602"
-"250","varthr","Varied Thrush","Ixoreus naevius","L64363884","Baranof Island, Sitka US-AK 57.14154, -134.84570","2026-04-24 09:00",1,57.14154,-134.845697,TRUE,FALSE,TRUE,"S329583684"
-"251","varthr","Varied Thrush","Ixoreus naevius","L28738941","815 Charles St, Sitka US-AK 57.06231, -135.33596","2026-04-24 08:41",3,57.062314,-135.335958,TRUE,FALSE,TRUE,"S326569886"
-"252","varthr","Varied Thrush","Ixoreus naevius","L10298231","Lake Roesiger","2026-04-24 08:40",1,47.9856903,-121.9229438,TRUE,FALSE,FALSE,"S327805006"
-"253","varthr","Varied Thrush","Ixoreus naevius","L8370078","Old Airport Road","2026-04-24 07:52",3,57.0483207,-135.3590843,TRUE,FALSE,TRUE,"S326544532"
-"254","varthr","Varied Thrush","Ixoreus naevius","L1646450","Glacier Bay NP--Glacier Bay Visitor Center Trail","2026-04-24 07:35",1,58.4530231,-135.8880564,TRUE,FALSE,FALSE,"S326527557"
-"255","varthr","Varied Thrush","Ixoreus naevius","L839588","Schmitz Park","2026-04-24 07:21",1,47.5743833,-122.4006128,TRUE,FALSE,FALSE,"S326497512"
-"256","varthr","Varied Thrush","Ixoreus naevius","L1777266","Olympic NP--Meadow Loop Trail, Hurricane Ridge","2026-04-24 07:12",4,47.9707773,-123.4978502,TRUE,FALSE,FALSE,"S326695727"
-"257","varthr","Varied Thrush","Ixoreus naevius","L15760783","Pratt Lake Trailhead","2026-04-24 06:40",5,47.3982738,-121.4864821,TRUE,FALSE,TRUE,"S326718944"
-"258","varthr","Varied Thrush","Ixoreus naevius","L1937262","1. Alcyon Farm, 140 Oatfield Rd","2026-04-24 06:25",3,46.3237506,-123.4433707,TRUE,FALSE,TRUE,"S326482408"
-"259","varthr","Varied Thrush","Ixoreus naevius","L17823597","Prairie Creek Redwoods SP--Ossagon Trail","2026-04-24 05:39",4,41.4388659,-124.0407515,TRUE,FALSE,FALSE,"S326552796"
-"260","varthr","Varied Thrush","Ixoreus naevius","L64100676","Rhododendron Trail, Orick, California, US (41.407, -124.023)","2026-04-24 05:32",2,41.4069591,-124.0228789,TRUE,FALSE,TRUE,"S328193858"
-"261","varthr","Varied Thrush","Ixoreus naevius","L9166988","Wrangell Ranger District Office  Area","2026-04-24 05:30",2,56.4750599,-132.3745036,TRUE,FALSE,TRUE,"S327426579"
-"262","varthr","Varied Thrush","Ixoreus naevius","L64166304","HM2502","2026-04-24 05:29",NA,40.573776,-124.045544,TRUE,FALSE,TRUE,"S328541349"
-"263","varthr","Varied Thrush","Ixoreus naevius","L63779219","US Frst Service Road 5884-369, Crescent, Oregon, US (43.622, -122.161)","2026-04-23 20:00",2,43.6223818,-122.1606487,TRUE,FALSE,TRUE,"S326629574"
-"264","varthr","Varied Thrush","Ixoreus naevius","L14460036","Jim S. House 135 Redwood Drive, Klamath, California, US (41.574, -124.067)","2026-04-23 19:56",1,41.5739435,-124.0667762,TRUE,FALSE,TRUE,"S326261825"
-"265","varthr","Varied Thrush","Ixoreus naevius","L12315651","N Second St. Petersburg, Alaska","2026-04-23 19:03",2,56.815879,-132.955295,TRUE,FALSE,TRUE,"S326269116"
-"266","varthr","Varied Thrush","Ixoreus naevius","L1229864","Gustavus--Forelands Preserve (Nagoonberry Loop Trail)","2026-04-23 17:25",3,58.4051294,-135.7099915,TRUE,FALSE,FALSE,"S326840826"
-"267","varthr","Varied Thrush","Ixoreus naevius","L63779268","US Frst Service Road 5884-369, Crescent, Oregon, US (43.628, -122.166)","2026-04-23 17:25",3,43.6280232,-122.1663681,TRUE,FALSE,TRUE,"S326629477"
-"268","varthr","Varied Thrush","Ixoreus naevius","L37205532","University of Alaska Southeast--Student Housing","2026-04-23 15:48",1,58.3925236,-134.6400503,TRUE,FALSE,FALSE,"S326221317"
-"269","varthr","Varied Thrush","Ixoreus naevius","L436959","Los Padres NF--Wheeler Gorge Campground","2026-04-23 15:01",1,34.5147,-119.2717,TRUE,FALSE,FALSE,"S326266457"
-"270","varthr","Varied Thrush","Ixoreus naevius","L24000317","Heron Way Home, Juneau","2026-04-23 13:56",NA,58.401262,-134.602237,TRUE,FALSE,TRUE,"S326174937"
-"271","varthr","Varied Thrush","Ixoreus naevius","L17961010","Inner Point Sitka, Alaska, US (57.094, -135.571)","2026-04-23 13:10",NA,57.0937583,-135.5712325,TRUE,FALSE,TRUE,"S326200955"
-"272","varthr","Varied Thrush","Ixoreus naevius","L282253","Billy Frank Jr. Nisqually NWR","2026-04-23 12:00",2,47.0812514,-122.7180576,TRUE,FALSE,FALSE,"S326620210"
-"273","varthr","Varied Thrush","Ixoreus naevius","L265765","Potholes SP","2026-04-23 11:25",1,46.9809077,-119.3508177,TRUE,FALSE,FALSE,"S326101184"
-"274","varthr","Varied Thrush","Ixoreus naevius","L63713976","6616 South Mount Angeles Road, DNR Clear-cut Access","2026-04-23 10:17",1,48.065172,-123.424156,TRUE,FALSE,TRUE,"S326284528"
-"275","varthr","Varied Thrush","Ixoreus naevius","L1443824","Klawock--Picnic Area","2026-04-23 09:42",1,55.5562031,-133.0948033,TRUE,FALSE,FALSE,"S326077771"
-"276","varthr","Varied Thrush","Ixoreus naevius","L63674296","Klawock Grassy Field","2026-04-23 09:41",4,55.5601183,-133.09721,TRUE,FALSE,TRUE,"S326075542"
-"277","varthr","Varied Thrush","Ixoreus naevius","L1361473","Olympic NP--Third Beach","2026-04-23 09:37",2,47.8764516,-124.5841319,TRUE,FALSE,FALSE,"S326129971"
-"278","varthr","Varied Thrush","Ixoreus naevius","L63955699","Jedediah Smith Redwoods State Park, Crescent City US-CA 41.81126, -124.08324","2026-04-23 09:24",1,41.811257,-124.083235,TRUE,FALSE,TRUE,"S327470620"
-"279","varthr","Varied Thrush","Ixoreus naevius","L7988682","Clear Lake, Linn County OR","2026-04-23 09:19",1,44.369,-121.994,TRUE,FALSE,TRUE,"S326268377"
-"280","varthr","Varied Thrush","Ixoreus naevius","L1278310","Prairie Creek Redwoods SP--Fern Canyon","2026-04-23 08:56",2,41.4006139,-124.0657926,TRUE,FALSE,FALSE,"S326274747"
-"281","varthr","Varied Thrush","Ixoreus naevius","L208905","Mendenhall Wetlands SGR--W of Mendenhall River","2026-04-23 08:42",1,58.36032,-134.61637,TRUE,FALSE,FALSE,"S326253946"
-"282","varthr","Varied Thrush","Ixoreus naevius","L7612886","(56.474, -132.359)","2026-04-23 08:25",7,56.4736204,-132.3591858,TRUE,FALSE,TRUE,"S326100672"
-"283","varthr","Varied Thrush","Ixoreus naevius","L753291","Mt. Rainier NP--Longmire","2026-04-23 08:23",1,46.750859,-121.813488,TRUE,FALSE,FALSE,"S326817300"
-"284","varthr","Varied Thrush","Ixoreus naevius","L988745","Kenai Fjords NP--Kenai Fjords Glacier Lodge","2026-04-23 08:13",2,59.8842862,-149.7302628,TRUE,FALSE,FALSE,"S326532501"
-"285","varthr","Varied Thrush","Ixoreus naevius","L9630822","Prairie Creek Redwoods SP--Gold Bluffs Beach Campground","2026-04-23 08:07",2,41.3835908,-124.0695119,TRUE,FALSE,FALSE,"S326274495"
-"286","varthr","Varied Thrush","Ixoreus naevius","L63656715","18191–18197 Upper Hoh Rd, Forks US-WA 47.86084, -123.93873","2026-04-23 08:01",1,47.860843,-123.93873,TRUE,FALSE,TRUE,"S325988923"
-"287","varthr","Varied Thrush","Ixoreus naevius","L3363198","Yard","2026-04-23 07:57",2,38.4566805,-121.3114858,TRUE,TRUE,TRUE,"S326102167"
-"288","varthr","Varied Thrush","Ixoreus naevius","L10000633","48.14 -122.28 private residence","2026-04-23 07:44",1,48.14,-122.28,TRUE,FALSE,TRUE,"S326460221"
-"289","varthr","Varied Thrush","Ixoreus naevius","L63663934","Centennial Pole Trail, Sitka US-AK (57.0482,-135.3193)","2026-04-23 07:35",NA,57.048221,-135.319279,TRUE,FALSE,TRUE,"S326025630"
-"290","varthr","Varied Thrush","Ixoreus naevius","L24109853","1 Park Road, Gustavus, Alaska, US (58.456, -135.869)","2026-04-23 07:25",1,58.4559515,-135.869043,TRUE,FALSE,TRUE,"S326265662"
-"291","varthr","Varied Thrush","Ixoreus naevius","L26666487","Sitka Yard","2026-04-23 07:24",1,57.0552966,-135.3328063,TRUE,FALSE,TRUE,"S326016208"
-"292","varthr","Varied Thrush","Ixoreus naevius","L1433245","Juneau -- Backyard","2026-04-23 07:03",4,58.3072319,-134.4539257,TRUE,FALSE,TRUE,"S329427860"
-"293","varthr","Varied Thrush","Ixoreus naevius","L10473311","(45.436, -122.735)","2026-04-23 06:30",1,45.4362659,-122.7349914,TRUE,FALSE,TRUE,"S325941684"
-"294","varthr","Varied Thrush","Ixoreus naevius","L20339079","L1510, Camas, Washington, US (45.705, -122.291)","2026-04-23 05:44",2,45.7049615,-122.2908207,TRUE,FALSE,TRUE,"S326013641"
-"295","varthr","Varied Thrush","Ixoreus naevius","L63733856","95528, Carlotta US-CA 40.57838, -124.02195HM0105","2026-04-23 05:40",NA,40.578379,-124.021948,TRUE,FALSE,TRUE,"S326391061"
-"296","varthr","Varied Thrush","Ixoreus naevius","L517692","Prairie Creek Redwoods SP--Elk Prairie","2026-04-23 05:16",1,41.359555,-124.025352,TRUE,FALSE,FALSE,"S325972726"
-"297","varthr","Varied Thrush","Ixoreus naevius","L27296636","Prairie Creek Redwoods SP--Visitor Center Trails (Nature, Redwood Access, & Revelation Trails)","2026-04-22 17:43",1,41.3646005,-124.0214418,TRUE,FALSE,FALSE,"S325771190"
-"298","varthr","Varied Thrush","Ixoreus naevius","L737606","Lady Bird Johnson Grove","2026-04-22 17:42",3,41.3051502,-124.01968,TRUE,FALSE,FALSE,"S326274082"
-"299","varthr","Varied Thrush","Ixoreus naevius","L63615070","Forest Service Road 6989, Bozeman US-MT 45.52906, -111.13264","2026-04-22 16:53",1,45.529058,-111.132637,TRUE,FALSE,TRUE,"S325757716"
-"300","varthr","Varied Thrush","Ixoreus naevius","L589493","Cape Lookout SP--Day Use Area/Campground","2026-04-22 15:16",2,45.3604533,-123.9708745,TRUE,FALSE,FALSE,"S325705050"
-"301","varthr","Varied Thrush","Ixoreus naevius","L4041091","Sand Lake Recreation Area","2026-04-22 15:15",2,45.2811284,-123.9612608,TRUE,FALSE,FALSE,"S325696123"
-"302","varthr","Varied Thrush","Ixoreus naevius","L31541519","Hayward Estuary Sitka, Alaska, US (57.151, -135.584)","2026-04-22 14:46",1,57.1510458,-135.584357,TRUE,FALSE,TRUE,"S325742737"
-"303","varthr","Varied Thrush","Ixoreus naevius","L36606421","Inner Point Kruzof Island","2026-04-22 14:30",1,57.0873723,-135.5758419,TRUE,FALSE,TRUE,"S326013375"
-"304","varthr","Varied Thrush","Ixoreus naevius","L31947605","Ohmer Creek Trail, Petersburg US-AK 56.58154, -132.74355","2026-04-22 14:20",2,56.581544,-132.743549,TRUE,FALSE,TRUE,"S326091016"
-"305","varthr","Varied Thrush","Ixoreus naevius","L18395331","Hayward strait Beach Sitka, Alaska, US (57.151, -135.571)","2026-04-22 13:15",1,57.1508358,-135.5712685,TRUE,FALSE,TRUE,"S325743089"
-"306","varthr","Varied Thrush","Ixoreus naevius","L44175316","Man Made Hole, Petersburg US-AK 56.59618, -132.76304","2026-04-22 13:00",4,56.596181,-132.763044,TRUE,FALSE,TRUE,"S326088237"
-"307","varthr","Varied Thrush","Ixoreus naevius","L42756515","Renninger Access Road","2026-04-22 12:53",4,58.3645662,-134.5141682,TRUE,FALSE,TRUE,"S325659040"
-"308","varthr","Varied Thrush","Ixoreus naevius","L51199382","Home2","2026-04-22 12:40",6,48.9345044,-122.1448106,TRUE,FALSE,TRUE,"S325634332"
-"309","varthr","Varied Thrush","Ixoreus naevius","L63614695","Photo Point Trail, Juneau US-AK 58.41793, -134.54626","2026-04-22 12:27",1,58.417931,-134.546256,TRUE,FALSE,TRUE,"S325756193"
-"310","varthr","Varied Thrush","Ixoreus naevius","L1061551","Kalifornsky - Yard-Buoy Avenue","2026-04-22 11:00",1,60.4946536,-151.2665227,TRUE,FALSE,TRUE,"S325642299"
-"311","varthr","Varied Thrush","Ixoreus naevius","L1270087","Glacier NP--Avalanche Lake Trail","2026-04-22 10:53",2,48.6602988,-113.7902927,TRUE,FALSE,FALSE,"S325729834"
-"312","varthr","Varied Thrush","Ixoreus naevius","L661970","Kodiak Is.--Fort Abercrombie State Historical Park","2026-04-22 10:35",7,57.8326893,-152.3559093,TRUE,FALSE,FALSE,"S325630482"
-"313","varthr","Varied Thrush","Ixoreus naevius","L15114100","4070–4098 Shoemaker Bay Loop Rd, Wrangell US-AK 56.40926, -132.34188","2026-04-22 10:33",3,56.409263,-132.341881,TRUE,FALSE,TRUE,"S325658708"
-"314","varthr","Varied Thrush","Ixoreus naevius","L17121821","Ridge Way","2026-04-22 10:24",2,58.3391339,-134.4837356,TRUE,FALSE,TRUE,"S325661135"
-"315","varthr","Varied Thrush","Ixoreus naevius","L521432","Scout Camp Trail","2026-04-22 10:14",1,58.5225682,-134.8283815,TRUE,FALSE,FALSE,"S325722603"
-"316","varthr","Varied Thrush","Ixoreus naevius","L54374435","Minto Brown","2026-04-22 09:46",1,44.919099,-123.075567,TRUE,FALSE,TRUE,"S325603573"
-"317","varthr","Varied Thrush","Ixoreus naevius","L25379669","Glacier NP--John’s Lake","2026-04-22 09:40",4,48.637498,-113.856737,TRUE,FALSE,FALSE,"S325647957"
-"318","varthr","Varied Thrush","Ixoreus naevius","L60977270","Forest Service Road 6989","2026-04-22 08:54",2,45.52911,-111.133152,TRUE,FALSE,TRUE,"S326645537"
-"319","varthr","Varied Thrush","Ixoreus naevius","L24000431","Arcata Ridge Trail (North Janes Creek Segment)","2026-04-22 08:35",1,40.892375,-124.079833,TRUE,FALSE,FALSE,"S326276345"
-"320","varthr","Varied Thrush","Ixoreus naevius","L59696964","Old Rondy Trail, Anchorage US-AK (61.1656,-149.7711)","2026-04-22 08:20",1,61.165617,-149.77112,TRUE,FALSE,TRUE,"S325543037"
-"321","varthr","Varied Thrush","Ixoreus naevius","L58129838","Far North Bicentennial Park, Anchorage US-AK (61.1661,-149.7772)","2026-04-22 08:09",1,61.166111,-149.77717,TRUE,FALSE,TRUE,"S325539248"
-"322","varthr","Varied Thrush","Ixoreus naevius","L301653","Arcata Community Forest","2026-04-22 07:58",2,40.875502,-124.052131,TRUE,FALSE,FALSE,"S325715887"
-"323","varthr","Varied Thrush","Ixoreus naevius","L14113271","N Second St, Petersburg US-AK 56.81575, -132.95525","2026-04-22 07:39",2,56.815747,-132.955251,TRUE,FALSE,TRUE,"S326030646"
-"324","varthr","Varied Thrush","Ixoreus naevius","L9744646","Snowater Resort","2026-04-22 06:38",4,48.8999563,-121.9194978,TRUE,FALSE,FALSE,"S325513998"
-"325","varthr","Varied Thrush","Ixoreus naevius","L61655951","151 Western Ave, Metlakatla US-AK 55.12756, -131.58488","2026-04-22 06:11",1,55.127563,-131.584882,TRUE,FALSE,TRUE,"S325479395"
-"326","varthr","Varied Thrush","Ixoreus naevius","L63733945","HM0707","2026-04-22 05:41",NA,40.620561,-123.975491,TRUE,FALSE,TRUE,"S326391701"
-"327","varthr","Varied Thrush","Ixoreus naevius","L717914","Elliott SF (Coos Co.)","2026-04-22 05:38",1,43.547335,-123.9874935,TRUE,FALSE,FALSE,"S325767214"
-"328","varthr","Varied Thrush","Ixoreus naevius","L11454958","Park Street through Totem Park (walking)","2026-04-22",NA,57.0509223,-135.3264819,TRUE,FALSE,TRUE,"S325598592"
-"329","varthr","Varied Thrush","Ixoreus naevius","L40511924","Kitoi Bay Hatchery","2026-04-21 19:11",1,58.1912667,-152.3715934,TRUE,FALSE,FALSE,"S325312712"
-"330","varthr","Varied Thrush","Ixoreus naevius","L63529518","Prairie Creek - Elk Prairie By Visitor Center","2026-04-21 18:58",2,41.3635082,-124.0227599,TRUE,FALSE,TRUE,"S325308422"
-"331","varthr","Varied Thrush","Ixoreus naevius","L17821119","Marshall Pond Park","2026-04-21 18:57",1,58.396927,-134.572187,TRUE,FALSE,FALSE,"S325310026"
-"332","varthr","Varied Thrush","Ixoreus naevius","L520659","McLane Creek Nature Trail","2026-04-21 18:52",1,47.0005389,-123.0049896,TRUE,FALSE,FALSE,"S325307957"
-"333","varthr","Varied Thrush","Ixoreus naevius","L37991360","Parkside Stables","2026-04-21 18:48",1,47.6461373,-122.1648115,TRUE,FALSE,TRUE,"S325300151"
-"334","varthr","Varied Thrush","Ixoreus naevius","L63480974","59105 Lumpy Ln E, Enumclaw US-WA 47.15549, -121.64570","2026-04-21 17:41",2,47.155489,-121.645703,TRUE,FALSE,TRUE,"S325305397"
-"335","varthr","Varied Thrush","Ixoreus naevius","L28884535","Backyard Bird Feeders","2026-04-21 16:58",1,56.81157,-132.948657,TRUE,FALSE,TRUE,"S325479159"
-"336","varthr","Varied Thrush","Ixoreus naevius","L54042969","The Garden Perch feeding station at the Beach House","2026-04-21 15:53",1,57.062254,-135.352558,TRUE,FALSE,TRUE,"S325279559"
-"337","varthr","Varied Thrush","Ixoreus naevius","L719509","My house","2026-04-21 14:45",1,58.3156656,-134.4465637,TRUE,FALSE,TRUE,"S325532455"
-"338","varthr","Varied Thrush","Ixoreus naevius","L1254746","Anderson Lake SP","2026-04-21 13:57",1,48.0180248,-122.8053904,TRUE,FALSE,FALSE,"S325282287"
-"339","varthr","Varied Thrush","Ixoreus naevius","L1399185","Glacier NP--Upper McDonald Creek","2026-04-21 13:38",2,48.6354292,-113.8664245,TRUE,FALSE,FALSE,"S325278332"
-"340","varthr","Varied Thrush","Ixoreus naevius","L8111143","Seabright Farm, Point Roberts","2026-04-21 10:35",3,48.9781436,-123.0363455,TRUE,FALSE,FALSE,"S325148039"
-"341","varthr","Varied Thrush","Ixoreus naevius","L16688007","Meyers Chuck (town)","2026-04-21 10:28",5,55.738943,-132.258606,TRUE,FALSE,FALSE,"S325210568"
-"342","varthr","Varied Thrush","Ixoreus naevius","L14566723","4070–4098 Shoemaker Bay Loop Rd, Wrangell US-AK 56.40919, -132.34185","2026-04-21 10:13",1,56.40919,-132.341854,TRUE,FALSE,TRUE,"S325199421"
-"343","varthr","Varied Thrush","Ixoreus naevius","L63512756","Phone Loop","2026-04-21 10:13",4,58.1945129,-152.3753306,TRUE,FALSE,TRUE,"S325219317"
-"344","varthr","Varied Thrush","Ixoreus naevius","L63524963","59105 Lumpy Ln E, Enumclaw US-WA 47.15560, -121.64591","2026-04-21 09:55",2,47.155601,-121.645913,TRUE,FALSE,TRUE,"S325286411"
-"345","varthr","Varied Thrush","Ixoreus naevius","L754581","Redwood NP (DN Co.)","2026-04-21 09:52",1,41.5893525,-124.0959406,TRUE,FALSE,FALSE,"S325318417"
-"346","varthr","Varied Thrush","Ixoreus naevius","L1755932","Covenant Life Marsh","2026-04-21 08:54",2,59.3960983,-135.9989404,TRUE,FALSE,FALSE,"S325309546"
-"347","varthr","Varied Thrush","Ixoreus naevius","L63516254","Hurricane Ridge Rd, Port Angeles US-WA 48.06668, -123.43061","2026-04-21 08:03",2,48.066679,-123.430612,TRUE,FALSE,TRUE,"S325238288"
-"348","varthr","Varied Thrush","Ixoreus naevius","L268308","Seven Devils State Wayside","2026-04-21 07:59",2,43.23646,-124.3907,TRUE,FALSE,FALSE,"S325295546"
-"349","varthr","Varied Thrush","Ixoreus naevius","L128530","Discovery Park","2026-04-21 07:57",2,47.663868,-122.4215317,TRUE,FALSE,FALSE,"S325177077"
-"350","varthr","Varied Thrush","Ixoreus naevius","L20390741","Nowell Avenue","2026-04-21 07:45",1,58.2948787,-134.432499,TRUE,FALSE,TRUE,"S325106917"
-"351","varthr","Varied Thrush","Ixoreus naevius","L6950238","Cranberry Lake, Anacortes","2026-04-21 07:13",1,48.5014407,-122.6446724,TRUE,FALSE,FALSE,"S326238516"
-"352","varthr","Varied Thrush","Ixoreus naevius","L276737","Olympic NP--Hurricane Ridge","2026-04-21 07:00",1,47.978072,-123.5205743,TRUE,FALSE,FALSE,"S325117961"
-"353","varthr","Varied Thrush","Ixoreus naevius","L28577059","71 Willow Bend Rd, Red Lodge","2026-04-21 06:55",1,45.18452,-109.2713344,TRUE,TRUE,TRUE,"S325044868"
-"354","varthr","Varied Thrush","Ixoreus naevius","L22950998","33550 Haines Hwy, Mosquito Lake US-AK 59.43284, -136.18674","2026-04-21 06:30",2,59.432841,-136.186737,TRUE,FALSE,TRUE,"S325309608"
-"355","varthr","Varied Thrush","Ixoreus naevius","L4176035","Elwha River -- Aldwell area","2026-04-21 06:25",3,48.0741793,-123.5763001,TRUE,FALSE,FALSE,"S325129897"
-"356","varthr","Varied Thrush","Ixoreus naevius","L63483849","HM2401","2026-04-21 05:48",NA,40.615864,-123.966005,TRUE,FALSE,TRUE,"S325160366"
-"357","varthr","Varied Thrush","Ixoreus naevius","L270613","Auke Bay - Yard & Point","2026-04-21",1,58.3610546,-134.6455336,TRUE,FALSE,TRUE,"S325064817"
-"358","varthr","Varied Thrush","Ixoreus naevius","L60810808","Edgecumbe Drive","2026-04-20 20:06",1,57.0632647,-135.3511454,TRUE,FALSE,TRUE,"S324902308"
-"359","varthr","Varied Thrush","Ixoreus naevius","L5915276","5th St Douglas","2026-04-20 19:15",2,58.2728121,-134.3912244,TRUE,FALSE,TRUE,"S325076933"
-"360","varthr","Varied Thrush","Ixoreus naevius","L36694812","Chilkoot River, Haines US-AK 59.32445, -135.55755","2026-04-20 17:57",1,59.324447,-135.55755,TRUE,FALSE,TRUE,"S324900419"
-"361","varthr","Varied Thrush","Ixoreus naevius","L6801484","Kodiak Is.--Spruce Cape","2026-04-20 16:28",1,57.8219561,-152.329289,TRUE,FALSE,FALSE,"S324884385"
-"362","varthr","Varied Thrush","Ixoreus naevius","L20318024","Neka Bay","2026-04-20 15:40",1,58.0517331,-135.6710195,TRUE,FALSE,FALSE,"S329589106"
-"363","varthr","Varied Thrush","Ixoreus naevius","L15029915","Humboldt Redwoods SP--Founder's Grove","2026-04-20 14:19",2,40.3513515,-123.9251704,TRUE,FALSE,FALSE,"S324825100"
-"364","varthr","Varied Thrush","Ixoreus naevius","L63429097","Mahan Plaque Loop Trail, Redcrest US-CA 40.34768, -123.92592","2026-04-20 13:26",1,40.347679,-123.925922,TRUE,FALSE,TRUE,"S324804494"
-"365","varthr","Varied Thrush","Ixoreus naevius","L163667","Starrigavan Estuary Recreation Area","2026-04-20 10:32",4,57.13212,-135.36794,TRUE,FALSE,FALSE,"S324763495"
-"366","varthr","Varied Thrush","Ixoreus naevius","L295124","Glacier NP--Avalanche Creek Campground and Picnic Area","2026-04-20 10:28",NA,48.6790838,-113.819287,TRUE,FALSE,FALSE,"S324876712"
-"367","varthr","Varied Thrush","Ixoreus naevius","L500365","Jedediah Smith Redwoods SP--Hiouchi Visitor Center & campground","2026-04-20 09:55",1,41.796624,-124.0848051,TRUE,FALSE,FALSE,"S324716133"
-"368","varthr","Varied Thrush","Ixoreus naevius","L2349115","Cape Disappointment SP--North Head","2026-04-20 09:55",1,46.29863,-124.0775084,TRUE,FALSE,FALSE,"S324837639"
-"369","varthr","Varied Thrush","Ixoreus naevius","L800185","Cape Flattery","2026-04-20 09:47",3,48.385884,-124.7266299,TRUE,FALSE,FALSE,"S324901489"
-"370","varthr","Varied Thrush","Ixoreus naevius","L60334990","Island Lake Creek Trail","2026-04-20 09:18",1,57.821857,-152.356245,TRUE,FALSE,TRUE,"S324764172"
-"371","varthr","Varied Thrush","Ixoreus naevius","L16979703","Moran State Park -- Cascade Creek","2026-04-20 09:17",1,48.6482262,-122.8290251,TRUE,FALSE,FALSE,"S324780897"
-"372","varthr","Varied Thrush","Ixoreus naevius","L3969049","Gellman House","2026-04-20 09:03",3,40.7831024,-124.0096632,TRUE,FALSE,TRUE,"S324700863"
-"373","varthr","Varied Thrush","Ixoreus naevius","L55137021","8080 Mosey Court, Maple Falls, Washington, US (48.935, -122.145)","2026-04-20 07:32",8,48.9345225,-122.1446405,TRUE,FALSE,TRUE,"S324673767"
-"374","varthr","Varied Thrush","Ixoreus naevius","L30204114","Anacortes Community Forest Lands","2026-04-20 07:15",3,48.493975,-122.643495,TRUE,FALSE,FALSE,"S324710033"
-"375","varthr","Varied Thrush","Ixoreus naevius","L30658531","Hoskins Lake","2026-04-20 07:00",5,48.8900494,-115.6379452,TRUE,FALSE,TRUE,"S324698696"
-"376","varthr","Varied Thrush","Ixoreus naevius","L61467827","Shooting Hill","2026-04-20 06:49",5,58.1906522,-152.3753048,TRUE,FALSE,TRUE,"S324839445"
-"377","varthr","Varied Thrush","Ixoreus naevius","L267165","Hobuck Beach","2026-04-20 06:18",1,48.3395317,-124.6717641,TRUE,FALSE,FALSE,"S324901466"
-"378","varthr","Varied Thrush","Ixoreus naevius","L15769872","71550 Fishhawk Rd, Clatskanie US-OR 46.03417, -123.35691","2026-04-20 06:00",1,46.034171,-123.356913,TRUE,FALSE,TRUE,"S324620551"
-"379","varthr","Varied Thrush","Ixoreus naevius","L63520756","HM2302","2026-04-20 05:45",NA,40.657285,-123.956877,TRUE,FALSE,TRUE,"S325263395"
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
+"1","mouqua","Mountain Quail","Oreortyx pictus","L64453695","Humboldt-Toiyabe National Forest, Markleeville US-CA (38.7048,-119.5847)","2026-04-30 14:20",1,38.704844,-119.584708,TRUE,FALSE,TRUE,"S330038051",NA
+"2","mouqua","Mountain Quail","Oreortyx pictus","L1092266","Chilao--Campground","2026-04-30 14:13",1,34.322173,-118.0164027,TRUE,FALSE,FALSE,"S330056373",NA
+"3","mouqua","Mountain Quail","Oreortyx pictus","L64455928","Lake Arrowhead CE Willow Creek","2026-04-30 13:06",6,34.296664,-117.185946,TRUE,FALSE,TRUE,"S330050007",NA
+"4","mouqua","Mountain Quail","Oreortyx pictus","L334735","Los Padres NF--Frazier Mtn.","2026-04-30 12:39",1,34.7749668,-118.9691527,TRUE,FALSE,FALSE,"S330008608",NA
+"5","mouqua","Mountain Quail","Oreortyx pictus","L1145728","Angeles NF--Coldbrook Campground","2026-04-30 12:04",1,34.29203,-117.8405651,TRUE,FALSE,FALSE,"S330063470",NA
+"6","mouqua","Mountain Quail","Oreortyx pictus","L6101041","Aspen Grove US-California-Pollock Pines-9000 Ice House Road - 38.81x-120.378","2026-04-30 11:55",10,38.8104411,-120.3780274,TRUE,FALSE,TRUE,"S330035963",NA
+"7","mouqua","Mountain Quail","Oreortyx pictus","L64454589","Six Rivers National Forest, Mad River US-CA (40.3270,-123.3319)","2026-04-30 11:49",2,40.326971,-123.331946,TRUE,FALSE,TRUE,"S330042683",NA
+"8","mouqua","Mountain Quail","Oreortyx pictus","L6739949","Cascade-Siskiyou National Monument, Ashland US-OR (42.0812,-122.4991)","2026-04-30 11:28",2,42.081212,-122.499145,TRUE,FALSE,TRUE,"S330002752",NA
+"9","mouqua","Mountain Quail","Oreortyx pictus","L64448905","Hwy 302 and N Mason HS","2026-04-30 10:47",1,47.4109754,-122.8392898,TRUE,FALSE,TRUE,"S330013884","N"
+"10","mouqua","Mountain Quail","Oreortyx pictus","L64454616","Horse Ridge Lookout Road, Mad River US-CA (40.3462,-123.3571)","2026-04-30 10:46",4,40.346193,-123.357092,TRUE,FALSE,TRUE,"S330042872",NA
+"11","mouqua","Mountain Quail","Oreortyx pictus","L9294111","Camino Cielo West between Refugio Pass and Santa Ynez Peak","2026-04-30 09:52",1,34.5275545,-120.0056985,TRUE,FALSE,TRUE,"S329969941",NA
+"12","mouqua","Mountain Quail","Oreortyx pictus","L5680774","Angeles NF--Glendora Ridge Road mile 7.85","2026-04-30 09:19",11,34.2189872,-117.7123035,TRUE,FALSE,FALSE,"S329927448",NA
+"13","mouqua","Mountain Quail","Oreortyx pictus","L5388413","Angeles NF--Bandido Group Campground","2026-04-30 09:18",11,34.3446054,-118.0043221,TRUE,FALSE,FALSE,"S329986696",NA
+"14","mouqua","Mountain Quail","Oreortyx pictus","L64439875","Yellow Pine","2026-04-30 09:12",12,37.733583,-119.606582,TRUE,FALSE,TRUE,"S329969978",NA
+"15","mouqua","Mountain Quail","Oreortyx pictus","L4807277","A Quail Crossing","2026-04-30 08:43",2,34.218471,-117.132371,TRUE,FALSE,TRUE,"S329924262",NA
+"16","mouqua","Mountain Quail","Oreortyx pictus","L433964","Yosemite NP--Wawona","2026-04-30 08:20",1,37.5366813,-119.6573041,TRUE,FALSE,FALSE,"S330082680",NA
+"17","mouqua","Mountain Quail","Oreortyx pictus","L9477002","Angeles NF--Rosenita Saddle Trailhead","2026-04-30 08:20",1,34.3557219,-118.0121112,TRUE,FALSE,FALSE,"S330044279",NA
+"18","mouqua","Mountain Quail","Oreortyx pictus","L4591764","Angeles NF--Bear Divide","2026-04-30 08:19",1,34.3602832,-118.3958924,TRUE,FALSE,FALSE,"S330003540",NA
+"19","mouqua","Mountain Quail","Oreortyx pictus","L770495","West Cuesta Ridge","2026-04-30 08:13",5,35.3657353,-120.661226,TRUE,FALSE,FALSE,"S329969737",NA
+"20","mouqua","Mountain Quail","Oreortyx pictus","L1113334","Laguna Mtns.--Laguna Campground","2026-04-30 07:56",2,32.8899663,-116.4492631,TRUE,FALSE,FALSE,"S329953063",NA
+"21","mouqua","Mountain Quail","Oreortyx pictus","L1582077","Los Padres NF--Mt. Pinos Summit Trail (VEN Co.)","2026-04-30 07:53",7,34.8122086,-119.1418871,TRUE,FALSE,FALSE,"S329954305",NA
+"22","mouqua","Mountain Quail","Oreortyx pictus","L18842208","93920, Big Sur US-CA (36.1406,-121.6461)","2026-04-30 07:49",2,36.140629,-121.646064,TRUE,FALSE,TRUE,"S330029675",NA
+"23","mouqua","Mountain Quail","Oreortyx pictus","L1553370","Auburn SRA--Foresthill Divide Loop Trail","2026-04-30 07:48",1,38.9422809,-120.9824264,TRUE,TRUE,FALSE,"S329944666",NA
+"24","mouqua","Mountain Quail","Oreortyx pictus","L383742","Lake Hemet","2026-04-30 07:46",8,33.6666396,-116.6917992,TRUE,FALSE,FALSE,"S330005305",NA
+"25","mouqua","Mountain Quail","Oreortyx pictus","L387849","Cerro Alto Campground","2026-04-30 07:33",2,35.4272109,-120.7491446,TRUE,FALSE,FALSE,"S330028484",NA
+"26","mouqua","Mountain Quail","Oreortyx pictus","L44280712","Eagle Lake Road to D LIne","2026-04-30 07:18",1,40.507637,-120.7421553,TRUE,FALSE,TRUE,"S329940079",NA
+"27","mouqua","Mountain Quail","Oreortyx pictus","L25410822","Sunrise Ranch","2026-04-30 07:16",1,34.081538,-117.094643,TRUE,TRUE,TRUE,"S329925105",NA
+"28","mouqua","Mountain Quail","Oreortyx pictus","L7727312","Eagle Lake Road, Susanville, California, US (40.472, -120.756)","2026-04-30 06:50",1,40.4719902,-120.7558299,TRUE,FALSE,TRUE,"S329937532",NA
+"29","mouqua","Mountain Quail","Oreortyx pictus","L1048071","Garner Valley--Morris Ranch Road","2026-04-30 06:39",1,33.6172997,-116.6265571,TRUE,FALSE,FALSE,"S329861259",NA
+"30","mouqua","Mountain Quail","Oreortyx pictus","L152134","Chilao--Visitor Center","2026-04-30 06:32",11,34.326745,-118.0047137,TRUE,FALSE,FALSE,"S329988375",NA
+"31","mouqua","Mountain Quail","Oreortyx pictus","L30280479","BIA 9 at Beaver Creek","2026-04-30 06:24",2,44.960316,-121.394547,TRUE,FALSE,TRUE,"S329827074",NA
+"32","mouqua","Mountain Quail","Oreortyx pictus","L64120602","Banner Grade Morning Flight Spot #3","2026-04-30 05:33",2,33.085564,-116.57457,TRUE,FALSE,TRUE,"S330022088",NA
+"33","mouqua","Mountain Quail","Oreortyx pictus","L27527399","97523, Cave Junction US-OR (42.1697,-123.5678)","2026-04-29 19:47",3,42.169663,-123.567815,TRUE,FALSE,TRUE,"S329685399",NA
+"34","mouqua","Mountain Quail","Oreortyx pictus","L64398212","Lake of the Woods Highway, Eagle Point, Oregon, US (42.385, -122.371)","2026-04-29 19:20",2,42.3853302,-122.3713427,TRUE,FALSE,TRUE,"S329749188",NA
+"35","mouqua","Mountain Quail","Oreortyx pictus","L7888176","McGill Campground (KER Co)","2026-04-29 18:42",2,34.8143577,-119.1014426,TRUE,FALSE,FALSE,"S329665416",NA
+"36","mouqua","Mountain Quail","Oreortyx pictus","L64381607","Shasta-Trinity National Forest, Mad River US-CA (40.3639,-123.3076)","2026-04-29 18:14",8,40.363903,-123.307572,TRUE,FALSE,TRUE,"S329670976",NA
+"37","mouqua","Mountain Quail","Oreortyx pictus","L6497412","Angeles NF--Silver Moccasin Trail, Chilao to Horse Flats Campground","2026-04-29 18:04",50,34.3365616,-118.0091715,TRUE,FALSE,FALSE,"S330010386",NA
+"38","mouqua","Mountain Quail","Oreortyx pictus","L33710768","Bald Hills Rd.--Walker Ridge Rd. to Coyote Rock trail turnoff (mi. 15.9 – 18.4)","2026-04-29 17:32",1,41.15891,-123.893699,TRUE,FALSE,FALSE,"S329678847",NA
+"39","mouqua","Mountain Quail","Oreortyx pictus","L800393","Laguna Mtns.--Burnt Rancheria Campground","2026-04-29 17:24",1,32.8610289,-116.417129,TRUE,FALSE,FALSE,"S329644480",NA
+"40","mouqua","Mountain Quail","Oreortyx pictus","L1248143","Valle Vista Campground","2026-04-29 16:52",1,34.8777458,-119.3414783,TRUE,FALSE,FALSE,"S329644935",NA
+"41","mouqua","Mountain Quail","Oreortyx pictus","L839211","Sawmill Campground","2026-04-29 16:30",1,34.7010744,-118.5718238,TRUE,FALSE,FALSE,"S329643263",NA
+"42","mouqua","Mountain Quail","Oreortyx pictus","L3555751","Laguna Mtns.--Desert View Picnic Grounds","2026-04-29 14:00",2,32.8697536,-116.4146277,TRUE,FALSE,FALSE,"S329605826",NA
+"43","mouqua","Mountain Quail","Oreortyx pictus","L337315","Angeles NF--Charlton Flat","2026-04-29 13:26",1,34.2984123,-118.0102236,TRUE,FALSE,FALSE,"S329597222",NA
+"44","mouqua","Mountain Quail","Oreortyx pictus","L5873380","God's Valley Rd.","2026-04-29 11:55",1,45.7592599,-123.7842035,TRUE,FALSE,TRUE,"S329588242",NA
+"45","mouqua","Mountain Quail","Oreortyx pictus","L977781","Laguna Mtns.--Thing Valley/Desert View Rds.","2026-04-29 11:06",1,32.8558475,-116.4213394,TRUE,FALSE,FALSE,"S329541375",NA
+"46","mouqua","Mountain Quail","Oreortyx pictus","L7627864","Mount Lassic Wilderness (HUM Co.)","2026-04-29 10:51",2,40.3337358,-123.5543865,TRUE,FALSE,FALSE,"S329686666",NA
+"47","mouqua","Mountain Quail","Oreortyx pictus","L60374913","870–882 Union Hill Rd, Douglas City US-CA (40.6657,-122.9316)","2026-04-29 10:48",1,40.665709,-122.931621,TRUE,FALSE,TRUE,"S329561466",NA
+"48","mouqua","Mountain Quail","Oreortyx pictus","L715527","Redwood NP--Lyons Ranch Trail","2026-04-29 10:35",3,41.1431136,-123.8985729,TRUE,FALSE,FALSE,"S329624246",NA
+"49","mouqua","Mountain Quail","Oreortyx pictus","L7521403","Pythian Road area of Hood mountain","2026-04-29 10:33",1,38.4538166,-122.5750947,TRUE,FALSE,TRUE,"S329541629",NA
+"50","mouqua","Mountain Quail","Oreortyx pictus","L5108761","San Jacinto Mtns--Cedar Spring Trail","2026-04-29 10:25",8,33.6612818,-116.579597,TRUE,FALSE,FALSE,"S329643033",NA
+"51","mouqua","Mountain Quail","Oreortyx pictus","L13323674","Ponderosa Basin","2026-04-29 10:05",1,37.4577536,-119.7386089,TRUE,FALSE,TRUE,"S329579306",NA
+"52","mouqua","Mountain Quail","Oreortyx pictus","L52138342","Forest Service Road 2808, Zenia US-CA 40.23432, -123.47126","2026-04-29 09:59",2,40.234316,-123.471261,TRUE,FALSE,TRUE,"S329553127",NA
+"53","mouqua","Mountain Quail","Oreortyx pictus","L50302116","Spring Camp","2026-04-29 09:45",4,34.2161034,-117.9776905,TRUE,FALSE,TRUE,"S329607428",NA
+"54","mouqua","Mountain Quail","Oreortyx pictus","L64384681","Lassie Lookout Road","2026-04-29 09:39",6,40.2949568,-123.5540143,TRUE,FALSE,TRUE,"S329686706",NA
+"55","mouqua","Mountain Quail","Oreortyx pictus","L1027612","Palomar Mtn.--Fry Creek Campground","2026-04-29 09:19",1,33.3444394,-116.8822575,TRUE,FALSE,FALSE,"S329602899",NA
+"56","mouqua","Mountain Quail","Oreortyx pictus","L738449","Laguna Mtns.--Upper Kitchen Creek Rd.","2026-04-29 09:14",1,32.8423577,-116.4479842,TRUE,FALSE,FALSE,"S330074388",NA
+"57","mouqua","Mountain Quail","Oreortyx pictus","L784322","Yosemite NP--Glacier Point Rd.","2026-04-29 09:06",2,37.6699621,-119.6090984,TRUE,FALSE,FALSE,"S329669883",NA
+"58","mouqua","Mountain Quail","Oreortyx pictus","L60247606","stakeout California Thrasher, Pilot Rock Trail (2026)","2026-04-29 08:20",2,42.0182597,-122.5878689,TRUE,FALSE,FALSE,"S329608020",NA
+"59","mouqua","Mountain Quail","Oreortyx pictus","L1322989","Hwy 39--W Fork San Gabriel River junction","2026-04-29 08:10",1,34.2414307,-117.8689671,TRUE,FALSE,FALSE,"S329548856",NA
+"60","mouqua","Mountain Quail","Oreortyx pictus","L4810715","Laguna Mtns.--Pine Creek Rd. near S1","2026-04-29 08:10",1,32.9126372,-116.4637937,TRUE,FALSE,FALSE,"S330053129",NA
+"61","mouqua","Mountain Quail","Oreortyx pictus","L64347279","Seven Devils Rd--NF Boundary to First Switchback","2026-04-29 08:02",1,45.393438,-116.417459,TRUE,FALSE,TRUE,"S329495641","N"
+"62","mouqua","Mountain Quail","Oreortyx pictus","L63785658","Burnt Peak summit","2026-04-29 07:55",3,34.682925,-118.576139,TRUE,FALSE,TRUE,"S329540930",NA
+"63","mouqua","Mountain Quail","Oreortyx pictus","L64384683","Road near Lost Ridge","2026-04-29 07:27",9,40.3034902,-123.5751659,TRUE,FALSE,TRUE,"S329686728",NA
+"64","mouqua","Mountain Quail","Oreortyx pictus","L4306162","Silverado Canyon","2026-04-29 07:26",2,33.745738,-117.635754,TRUE,FALSE,TRUE,"S329552085",NA
+"65","mouqua","Mountain Quail","Oreortyx pictus","L970506","Maple Springs Truck Trail--gate to end of pavement","2026-04-29 07:18",2,33.7540471,-117.5665775,TRUE,FALSE,FALSE,"S329682091",NA
+"66","mouqua","Mountain Quail","Oreortyx pictus","L1130453","Los Padres NF--Sisar Canyon Rd.","2026-04-29 07:12",1,34.4563941,-119.1313648,TRUE,FALSE,FALSE,"S329589583",NA
+"67","mouqua","Mountain Quail","Oreortyx pictus","L64339630","Postcard Cabins","2026-04-29 07:09",4,34.217387,-117.112849,TRUE,FALSE,TRUE,"S329455905",NA
+"68","mouqua","Mountain Quail","Oreortyx pictus","L2299654","!US-CA-Yreka-Bennett Dr","2026-04-29 07:00",1,41.7198123,-122.6598912,TRUE,FALSE,TRUE,"S329440688",NA
+"69","mouqua","Mountain Quail","Oreortyx pictus","L5708156","Hulett Ranch (Private)","2026-04-29 07:00",1,39.1139793,-120.9788835,TRUE,FALSE,TRUE,"S329611066",NA
+"70","mouqua","Mountain Quail","Oreortyx pictus","L8225413","Cole Canyon Trail (Murrieta)","2026-04-29 06:45",2,33.562523,-117.25365,TRUE,FALSE,FALSE,"S329501880",NA
+"71","mouqua","Mountain Quail","Oreortyx pictus","L691170","Pipes Canyon","2026-04-29 05:54",3,34.1720801,-116.5452003,TRUE,TRUE,FALSE,"S329454263",NA
+"72","mouqua","Mountain Quail","Oreortyx pictus","L64350232","Banner Grade Morning Flight spot","2026-04-29 05:48",1,33.084956,-116.574964,TRUE,FALSE,TRUE,"S329508893",NA
+"73","mouqua","Mountain Quail","Oreortyx pictus","L64380933","97396, Willamina US-OR (45.1342,-123.5630)","2026-04-29 05:19",1,45.134198,-123.562958,TRUE,FALSE,TRUE,"S329667512",NA
+"74","mouqua","Mountain Quail","Oreortyx pictus","L1231871","Angeles NF--Clear Creek Station","2026-04-28 19:25",3,34.2701089,-118.1531525,TRUE,FALSE,FALSE,"S329238078",NA
+"75","mouqua","Mountain Quail","Oreortyx pictus","L64357767","The Giant Sequoia National Monument, Kings Canyon National Pk US-CA 36.70611, -118.95803","2026-04-28 18:13",1,36.706114,-118.958029,TRUE,FALSE,TRUE,"S329545446",NA
+"76","mouqua","Mountain Quail","Oreortyx pictus","L3950620","Stanislaus NF--Clavey River Bridge","2026-04-28 17:58",6,38.0762036,-120.011639,TRUE,FALSE,FALSE,"S329249025",NA
+"77","mouqua","Mountain Quail","Oreortyx pictus","L63587637","Six Rivers National Forest, Mad River US-CA 40.36766, -123.40266","2026-04-28 17:40",3,40.367657,-123.402655,TRUE,FALSE,TRUE,"S329210165",NA
+"78","mouqua","Mountain Quail","Oreortyx pictus","L1280938","Heaps Peak Seep","2026-04-28 16:39",2,34.2333471,-117.1368527,TRUE,FALSE,FALSE,"S329181778",NA
+"79","mouqua","Mountain Quail","Oreortyx pictus","L64266049","Philpot Picnic area","2026-04-28 16:35",2,40.466612,-123.189658,TRUE,FALSE,TRUE,"S329461040",NA
+"80","mouqua","Mountain Quail","Oreortyx pictus","L60258254","Palomar Mtn.--Thunder Spring/Upper Doane (CA Atlas - CE)","2026-04-28 16:00",1,33.33106,-116.8959725,TRUE,FALSE,FALSE,"S329226716",NA
+"81","mouqua","Mountain Quail","Oreortyx pictus","L64306334","Unnamed Road, Trail, Oregon, US (42.813, -122.568)","2026-04-28 14:20",8,42.8126627,-122.5676182,TRUE,FALSE,TRUE,"S329268910",NA
+"82","mouqua","Mountain Quail","Oreortyx pictus","L21341550","800-500 Aetna Springs Road, Pope Valley, California, US (38.648, -122.523)","2026-04-28 13:17",2,38.6481947,-122.5234591,TRUE,FALSE,TRUE,"S329105588",NA
+"83","mouqua","Mountain Quail","Oreortyx pictus","L2861885","Laguna Mtns.--Morris Ranch Rd.","2026-04-28 13:00",1,32.8436128,-116.4303105,TRUE,FALSE,FALSE,"S329183710",NA
+"84","mouqua","Mountain Quail","Oreortyx pictus","L61954184","768 Aetna Springs Road, Pope Valley, California, US (38.645, -122.512)","2026-04-28 12:11",2,38.6453897,-122.5121846,TRUE,FALSE,TRUE,"S329076926",NA
+"85","mouqua","Mountain Quail","Oreortyx pictus","L28609245","Laguna Mts - Monument Peak Rd overlook","2026-04-28 11:44",1,32.872931,-116.4118772,TRUE,FALSE,TRUE,"S329188577",NA
+"86","mouqua","Mountain Quail","Oreortyx pictus","L7121705","Backyard II","2026-04-28 11:23",1,34.8355099,-119.1655383,TRUE,FALSE,TRUE,"S329093355",NA
+"87","mouqua","Mountain Quail","Oreortyx pictus","L5474916","Snyder Trail","2026-04-28 11:13",1,34.5299596,-119.791081,TRUE,FALSE,FALSE,"S329062467",NA
+"88","mouqua","Mountain Quail","Oreortyx pictus","L64276413","Western Mine Road","2026-04-28 11:02",4,38.7077862,-122.6509923,TRUE,FALSE,TRUE,"S329110452",NA
+"89","mouqua","Mountain Quail","Oreortyx pictus","L38576253","Onion Mountain Lookout","2026-04-28 10:52",2,42.454333,-123.6162447,TRUE,FALSE,FALSE,"S329068723",NA
+"90","mouqua","Mountain Quail","Oreortyx pictus","L937515","Feather River mouth--riparian area (east of railroad grade only)","2026-04-28 10:28",1,40.3046752,-121.2164218,TRUE,FALSE,FALSE,"S329042231",NA
+"91","mouqua","Mountain Quail","Oreortyx pictus","L64278644","Kitchen Creek Rd, Pine Valley US-CA 32.76738, -116.45121","2026-04-28 10:07",3,32.767378,-116.451209,TRUE,FALSE,TRUE,"S329123138",NA
+"92","mouqua","Mountain Quail","Oreortyx pictus","L43341392","Trail between Happy Isles Parking and the Fen","2026-04-28 10:07",1,37.734611,-119.565387,TRUE,FALSE,TRUE,"S329220622",NA
+"93","mouqua","Mountain Quail","Oreortyx pictus","L743180","Sequoia NP--Moro Rock","2026-04-28 09:45",1,36.5459321,-118.7655866,TRUE,FALSE,FALSE,"S329063119",NA
+"94","mouqua","Mountain Quail","Oreortyx pictus","L9192767","Humbug Trail","2026-04-28 09:39",4,41.738435,-122.6604869,TRUE,FALSE,FALSE,"S329096147",NA
+"95","mouqua","Mountain Quail","Oreortyx pictus","L64270987","Cow Flat Road","2026-04-28 09:17",1,35.529513,-118.654431,TRUE,FALSE,TRUE,"S329081570",NA
+"96","mouqua","Mountain Quail","Oreortyx pictus","L4549016","Aetna Springs Rd.--upper","2026-04-28 09:04",3,38.6511313,-122.5040388,TRUE,FALSE,FALSE,"S329039601",NA
+"97","mouqua","Mountain Quail","Oreortyx pictus","L285631","Detroit Flats","2026-04-28 08:56",1,44.7290265,-122.1461259,TRUE,FALSE,FALSE,"S328984283",NA
+"98","mouqua","Mountain Quail","Oreortyx pictus","L436959","Los Padres NF--Wheeler Gorge Campground","2026-04-28 08:46",1,34.5147,-119.2717,TRUE,FALSE,FALSE,"S329088357",NA
+"99","mouqua","Mountain Quail","Oreortyx pictus","L372272","Pine Flat Rd.","2026-04-28 08:00",NA,38.7016186,-122.7638983,TRUE,FALSE,FALSE,"S329529425",NA
+"100","mouqua","Mountain Quail","Oreortyx pictus","L64382361","Mendocino National Forest, above Benmore creek US-CA 39.36316, -123.00191","2026-04-28 07:49",2,39.363159,-123.00191,TRUE,FALSE,TRUE,"S329674458",NA
+"101","mouqua","Mountain Quail","Oreortyx pictus","L51476128","Ponderosa Way, Manton US-CA 40.40053, -121.81508","2026-04-28 07:42",1,40.400528,-121.815081,TRUE,FALSE,TRUE,"S329101931",NA
+"102","mouqua","Mountain Quail","Oreortyx pictus","L824138","Ida Clayton Rd.","2026-04-28 07:39",1,38.6803507,-122.6540279,TRUE,FALSE,FALSE,"S329109077",NA
+"103","mouqua","Mountain Quail","Oreortyx pictus","L1322062","La Cumbre Peak","2026-04-28 07:15",1,34.4956226,-119.7147721,TRUE,FALSE,FALSE,"S328985969",NA
+"104","mouqua","Mountain Quail","Oreortyx pictus","L1157534","Hwy 79 at E. Mesa Fire Rd.","2026-04-28 07:13",1,32.8953356,-116.5785456,TRUE,FALSE,FALSE,"S329172860",NA
+"105","mouqua","Mountain Quail","Oreortyx pictus","L27215115","9595 Bluff St, Banning US-CA 33.98286, -116.91200","2026-04-28 06:50",3,33.982863,-116.911998,TRUE,FALSE,TRUE,"S328972435",NA
+"106","mouqua","Mountain Quail","Oreortyx pictus","L152137","Veterans Memorial Park (Sylmar)","2026-04-28 06:23",1,34.32659,-118.41572,TRUE,FALSE,FALSE,"S328975986",NA
+"107","mouqua","Mountain Quail","Oreortyx pictus","L64210004","S Fork Mountain Rd, Mad River US-CA 40.43622, -123.44990","2026-04-27 19:58",2,40.436218,-123.449899,TRUE,FALSE,TRUE,"S328766719",NA
+"108","mouqua","Mountain Quail","Oreortyx pictus","L64206015","Forest Service Road 2N25, Hyampom US-CA 40.50553, -123.49841","2026-04-27 17:34",1,40.50553,-123.498406,TRUE,FALSE,TRUE,"S328748973",NA
+"109","mouqua","Mountain Quail","Oreortyx pictus","L64210828","CA-190, Springville US-CA 36.15281, -118.60075","2026-04-27 17:33",6,36.152811,-118.600753,TRUE,FALSE,TRUE,"S328771123",NA
+"110","mouqua","Mountain Quail","Oreortyx pictus","L64197369","Cold Spring Trail, California, US (34.488, -119.636)","2026-04-27 15:00",2,34.4878991,-119.6356361,TRUE,FALSE,TRUE,"S328701489",NA
+"111","mouqua","Mountain Quail","Oreortyx pictus","L43716330","Ridge Route Road--Forest Rte 8no4 pullout","2026-04-27 14:51",1,34.5725553,-118.6649781,TRUE,FALSE,FALSE,"S328702985",NA
+"112","mouqua","Mountain Quail","Oreortyx pictus","L728828","Mt. Wilson","2026-04-27 14:29",2,34.2264403,-118.0649051,TRUE,FALSE,FALSE,"S328716716",NA
+"113","mouqua","Mountain Quail","Oreortyx pictus","L39073702","Aetna Springs Lane, Pope Valley, California, US (38.663, -122.48)","2026-04-27 14:26",2,38.6633126,-122.4804046,TRUE,FALSE,TRUE,"S328947305",NA
+"114","mouqua","Mountain Quail","Oreortyx pictus","L64194294","10121–10185 Chemise Rd, Healdsburg US-CA 38.64749, -122.98732","2026-04-27 14:00",2,38.647486,-122.987317,TRUE,FALSE,TRUE,"S328684271",NA
+"115","mouqua","Mountain Quail","Oreortyx pictus","L64196075","Whitney Portal National Recreatiion Trail, Lone Pine US-CA 36.59263, -118.20646","2026-04-27 13:59",2,36.592628,-118.206464,TRUE,FALSE,TRUE,"S328694401",NA
+"116","mouqua","Mountain Quail","Oreortyx pictus","L14534243","Wragg Ridge, restricted access","2026-04-27 13:45",2,38.471174,-122.161477,TRUE,FALSE,TRUE,"S329226712",NA
+"117","mouqua","Mountain Quail","Oreortyx pictus","L64204647","Sierra National Forest, North Fork US-CA 37.28531, -119.58216","2026-04-27 13:15",1,37.285305,-119.582157,TRUE,FALSE,TRUE,"S328742218",NA
+"118","mouqua","Mountain Quail","Oreortyx pictus","L894825","San Gabriel Mtns.--Colby Picnic Area","2026-04-27 13:06",1,34.3093683,-118.113209,TRUE,FALSE,FALSE,"S328716876",NA
+"119","mouqua","Mountain Quail","Oreortyx pictus","L64200226","Colby Ranch Rd, Palmdale US-CA 34.31108, -118.11497","2026-04-27 13:00",2,34.311081,-118.114969,TRUE,FALSE,TRUE,"S328717037",NA
+"120","mouqua","Mountain Quail","Oreortyx pictus","L893483","Driver's Flat Staging Area","2026-04-27 12:32",1,38.9665998,-120.9520698,TRUE,FALSE,FALSE,"S328691958",NA
+"121","mouqua","Mountain Quail","Oreortyx pictus","L64200896","Pineroot Saddle","2026-04-27 12:06",3,40.309816,-123.105239,TRUE,FALSE,TRUE,"S328720783",NA
+"122","mouqua","Mountain Quail","Oreortyx pictus","L749408","Evey Canyon","2026-04-27 12:02",4,34.169204,-117.6877785,TRUE,FALSE,FALSE,"S328755644",NA
+"123","mouqua","Mountain Quail","Oreortyx pictus","L1291567","Big Tujunga Canyon--Wildwood Picnic Area","2026-04-27 11:54",1,34.2941861,-118.2397771,TRUE,FALSE,FALSE,"S328716528",NA
+"124","mouqua","Mountain Quail","Oreortyx pictus","L8544843","Cucamonga Creek wash","2026-04-27 11:49",2,34.1562998,-117.639051,TRUE,FALSE,FALSE,"S328638994",NA
+"125","mouqua","Mountain Quail","Oreortyx pictus","L64186312","Cascade-Siskiyou National Monument, Ashland US-OR 42.16356, -122.33294","2026-04-27 11:49",3,42.163564,-122.332939,TRUE,FALSE,TRUE,"S328641170",NA
+"126","mouqua","Mountain Quail","Oreortyx pictus","L847847","Western Mine Rd.","2026-04-27 11:47",1,38.7136771,-122.6313686,TRUE,FALSE,FALSE,"S328617104",NA
+"127","mouqua","Mountain Quail","Oreortyx pictus","L8951265","Saddle Springs Rd. (lower)","2026-04-27 11:18",2,35.5647786,-118.492217,TRUE,FALSE,TRUE,"S329381421",NA
+"128","mouqua","Mountain Quail","Oreortyx pictus","L64174915","Forest Peak Road","2026-04-27 11:06",2,44.693996,-123.3137294,TRUE,FALSE,TRUE,"S328583038",NA
+"129","mouqua","Mountain Quail","Oreortyx pictus","L7905853","Enchanted Forest Trail","2026-04-27 10:30",3,34.8318277,-119.1636762,TRUE,FALSE,FALSE,"S328598563",NA
+"130","mouqua","Mountain Quail","Oreortyx pictus","L13691530","Stanislaus National Forest, El Portal US-CA 37.67777, -119.78636","2026-04-27 10:24",1,37.677769,-119.786361,TRUE,FALSE,TRUE,"S328582496",NA
+"131","mouqua","Mountain Quail","Oreortyx pictus","L14952450","Seven Pines / Grays Meadow Campgrounds","2026-04-27 10:21",1,36.7831679,-118.291812,TRUE,FALSE,FALSE,"S329522430",NA
+"132","mouqua","Mountain Quail","Oreortyx pictus","L64208332","93255, Onyx US-CA 35.76536, -118.07092","2026-04-27 09:51",1,35.765362,-118.070918,TRUE,FALSE,TRUE,"S328759549",NA
+"133","mouqua","Mountain Quail","Oreortyx pictus","L59548206","Lassie Lookout Rd, Zenia US-CA (40.2523,-123.5023)","2026-04-27 09:46",1,40.252264,-123.502253,TRUE,FALSE,TRUE,"S328605695",NA
+"134","mouqua","Mountain Quail","Oreortyx pictus","L716235","Kitchen Creek Rd.--creek crossing","2026-04-27 09:30",3,32.7523339,-116.4522994,TRUE,FALSE,FALSE,"S328545573",NA
+"135","mouqua","Mountain Quail","Oreortyx pictus","L2198265","Angeles Crest Hwy--Shortcut Saddle","2026-04-27 09:16",2,34.27315,-118.0326355,TRUE,FALSE,FALSE,"S328739869",NA
+"136","mouqua","Mountain Quail","Oreortyx pictus","L8857117","Ida Clayton Rd across from Mt St Helena","2026-04-27 09:02",1,38.6739559,-122.6574402,TRUE,FALSE,TRUE,"S328545349",NA
+"137","mouqua","Mountain Quail","Oreortyx pictus","L64167041","Southwest Green Ridge Road, Camp Sherman, Oregon, US (44.468, -121.558)","2026-04-27 09:00",1,44.4684282,-121.5575119,TRUE,FALSE,TRUE,"S328545231",NA
+"138","mouqua","Mountain Quail","Oreortyx pictus","L12068444","Yosemite NP--Washburn Trail to Mariposa Grove","2026-04-27 08:36",2,37.5066089,-119.6273865,TRUE,FALSE,FALSE,"S328746329",NA
+"139","mouqua","Mountain Quail","Oreortyx pictus","L3301823","Angeles Crest Hwy--Barley Flats Road","2026-04-27 08:27",3,34.2730436,-118.0450273,TRUE,FALSE,FALSE,"S328739438",NA
+"140","mouqua","Mountain Quail","Oreortyx pictus","L11386835","5436–5986 Figueroa Mountain Rd, Santa Ynez US-CA 34.73481, -120.06370","2026-04-27 08:19",2,34.73481,-120.063702,TRUE,FALSE,TRUE,"S328585692",NA
+"141","mouqua","Mountain Quail","Oreortyx pictus","L5905335","Cuyamaca Rancho SP--Cuyamaca Peak & Lookout Rd.","2026-04-27 08:07",7,32.9503444,-116.6054286,TRUE,FALSE,FALSE,"S328749923",NA
+"142","mouqua","Mountain Quail","Oreortyx pictus","L1584010","Saddle Mt.","2026-04-27 07:35",3,45.5447039,-123.3825879,TRUE,FALSE,FALSE,"S328712479",NA
+"143","mouqua","Mountain Quail","Oreortyx pictus","L64208450","Canebrake Rd, Inyokern US-CA (35.8091,-118.0579)","2026-04-27 07:32",4,35.809084,-118.057893,TRUE,FALSE,TRUE,"S328760080",NA
+"144","mouqua","Mountain Quail","Oreortyx pictus","L317501","Pfeiffer Big Sur SP","2026-04-27 07:30",2,36.2496724,-121.7794991,TRUE,FALSE,FALSE,"S329143761",NA
+"145","mouqua","Mountain Quail","Oreortyx pictus","L587757","Kitchen Creek Rd.--Cibbets Flat Campground area","2026-04-27 07:30",2,32.777213,-116.4476485,TRUE,FALSE,FALSE,"S328516993",NA
+"146","mouqua","Mountain Quail","Oreortyx pictus","L740690","Kitchen Creek Rd.--lower","2026-04-27 07:22",1,32.7690444,-116.4506883,TRUE,FALSE,FALSE,"S328517203",NA
+"147","mouqua","Mountain Quail","Oreortyx pictus","L64202358","18217–18305 Little Tujunga Canyon Rd, Santa Clarita US-CA 34.34310, -118.35718","2026-04-27 07:20",8,34.343098,-118.357182,TRUE,FALSE,TRUE,"S328729297",NA
+"148","mouqua","Mountain Quail","Oreortyx pictus","L1435041","Kitchen Creek Rd.--Pacific Crest Trail pullout","2026-04-27 06:37",2,32.7477333,-116.4514766,TRUE,FALSE,FALSE,"S328517371",NA
+"149","mouqua","Mountain Quail","Oreortyx pictus","L914982","Shimmins Ridge Road","2026-04-27 06:22",2,39.542176,-123.3812714,TRUE,FALSE,TRUE,"S328582143",NA
+"150","mouqua","Mountain Quail","Oreortyx pictus","L9189915","Palomar Mtn.--Thunder Spring/Upper Doane Valley Loop","2026-04-27 06:21",NA,33.3358222,-116.8961074,TRUE,FALSE,FALSE,"S328526910",NA
+"151","mouqua","Mountain Quail","Oreortyx pictus","L64149473","24553 Rocky Point Rd, Pine Cove US-CA 33.76564, -116.73514","2026-04-27 06:10",1,33.765639,-116.735135,TRUE,FALSE,TRUE,"S329168715",NA
+"152","mouqua","Mountain Quail","Oreortyx pictus","L523757","Placerita Canyon SP--Walker Ranch","2026-04-27 06:01",2,34.375781,-118.4442902,TRUE,FALSE,FALSE,"S328486026",NA
+"153","mouqua","Mountain Quail","Oreortyx pictus","L23697371","BLM Road 40-2E-11, Ashland US-OR 42.10916, -122.55380","2026-04-26 19:30",1,42.109161,-122.553796,TRUE,FALSE,TRUE,"S328245819",NA
+"154","mouqua","Mountain Quail","Oreortyx pictus","L579158","Chimney Creek Campground","2026-04-26 19:09",2,35.8388448,-118.0408323,TRUE,FALSE,FALSE,"S328760144",NA
+"155","mouqua","Mountain Quail","Oreortyx pictus","L64111868","Bouquet Reservoir (CA Atlas - Sleepy Valley CW)","2026-04-26 18:32",1,34.580856,-118.3724821,TRUE,FALSE,TRUE,"S328248298",NA
+"156","mouqua","Mountain Quail","Oreortyx pictus","L64111812","Bouquet Reservoir (CA Atlas - Sleepy Valley NW)","2026-04-26 18:12",2,34.5849419,-118.3670969,TRUE,FALSE,TRUE,"S328248072",NA
+"157","mouqua","Mountain Quail","Oreortyx pictus","L64111738","Bouquet Reservoir (CA Atlas - Green Valley NE)","2026-04-26 18:02",2,34.5864937,-118.3814004,TRUE,FALSE,TRUE,"S328247727",NA
+"158","mouqua","Mountain Quail","Oreortyx pictus","L54768720","Buck Knoll","2026-04-26 17:45",NA,38.6027926,-123.0343293,TRUE,FALSE,TRUE,"S328219432",NA
+"159","mouqua","Mountain Quail","Oreortyx pictus","L64108112","California Section F, Onyx, California, US (35.549, -118.14)","2026-04-26 16:18",1,35.5493503,-118.1396244,TRUE,FALSE,TRUE,"S328239528",NA
+"160","mouqua","Mountain Quail","Oreortyx pictus","L64108138","California Section F, Onyx, California, US (35.535, -118.132)","2026-04-26 16:02",3,35.5348594,-118.1323389,TRUE,FALSE,TRUE,"S328237944",NA
+"161","mouqua","Mountain Quail","Oreortyx pictus","L6761088","Glenn Campground, San Gabriel Mountains","2026-04-26 14:46",2,34.2408275,-117.9526091,TRUE,FALSE,TRUE,"S328254777",NA
+"162","mouqua","Mountain Quail","Oreortyx pictus","L33116348","Colby Ranch Rd","2026-04-26 14:22",3,34.3145694,-118.1178147,TRUE,FALSE,TRUE,"S328239894",NA
+"163","mouqua","Mountain Quail","Oreortyx pictus","L3017592","San Gabriel Mtns.--Mt. Lowe Campground","2026-04-26 14:19",4,34.22655,-118.1102103,TRUE,FALSE,FALSE,"S328232356",NA
+"164","mouqua","Mountain Quail","Oreortyx pictus","L64117772","Stouts Crk-Mighty Fine, Days Creek, Oregon, US (42.926, -122.997)","2026-04-26 14:11",10,42.9258802,-122.9966278,TRUE,FALSE,TRUE,"S328279913",NA
+"165","mouqua","Mountain Quail","Oreortyx pictus","L13385472","Angeles NF--Trail Canyon Falls","2026-04-26 14:06",2,34.308434,-118.252432,TRUE,FALSE,FALSE,"S328271257",NA
+"166","mouqua","Mountain Quail","Oreortyx pictus","L55626626","Spencer Hook-Up D-Spur Trail, Keno US-OR 42.22686, -122.11161","2026-04-26 13:37",2,42.226863,-122.111607,TRUE,TRUE,TRUE,"S328099621",NA
+"167","mouqua","Mountain Quail","Oreortyx pictus","L1679190","Beazell Memorial County Forest","2026-04-26 12:15",1,44.6526822,-123.4253454,TRUE,FALSE,FALSE,"S328103351",NA
+"168","mouqua","Mountain Quail","Oreortyx pictus","L64098551","Jawbone Canyon Rd W - Kelso Valley Rd to the summit","2026-04-26 11:50",2,35.373336,-118.275781,TRUE,FALSE,TRUE,"S328182593",NA
+"169","mouqua","Mountain Quail","Oreortyx pictus","L3974654","Palomar Mtn.--Lwr Doane Valley & Lwr French Valley Loop","2026-04-26 11:30",2,33.3509095,-116.9106379,TRUE,FALSE,FALSE,"S329675591",NA
+"170","mouqua","Mountain Quail","Oreortyx pictus","L64098177","Jawbone Canyon Rd W - Piute Mountain Rd to Piute Pines Rd","2026-04-26 11:15",2,35.434621,-118.320012,TRUE,FALSE,TRUE,"S328180485",NA
+"171","mouqua","Mountain Quail","Oreortyx pictus","L10035714","East Applegate Ridge Trail","2026-04-26 11:10",2,42.244962,-122.978147,TRUE,FALSE,FALSE,"S328139756",NA
+"172","mouqua","Mountain Quail","Oreortyx pictus","L28573443","B L M Rd, Mariposa US-CA 37.59189, -120.15910","2026-04-26 11:10",2,37.591888,-120.159095,TRUE,FALSE,TRUE,"S328100943",NA
+"173","mouqua","Mountain Quail","Oreortyx pictus","L721464","Piute Mountain Rd.--Landers Meadow","2026-04-26 10:56",2,35.4481389,-118.2954167,TRUE,FALSE,FALSE,"S328085062",NA
+"174","mouqua","Mountain Quail","Oreortyx pictus","L1012208","Angeles NF--Mt. Lowe Rd./Sunset Ridge from Chaney to Railway Tr.","2026-04-26 10:55",2,34.2178745,-118.1364369,TRUE,FALSE,FALSE,"S328119875",NA
+"175","mouqua","Mountain Quail","Oreortyx pictus","L64095469","89701, Carson City US-NV 39.11111, -119.61184","2026-04-26 10:44",2,39.111107,-119.611844,TRUE,FALSE,TRUE,"S328165690",NA
+"176","mouqua","Mountain Quail","Oreortyx pictus","L14496416","Eden Valley Young Plantation","2026-04-26 10:34",3,42.810375,-123.881606,TRUE,FALSE,TRUE,"S328141498",NA
+"177","mouqua","Mountain Quail","Oreortyx pictus","L191965","Angeles NF--Switzer Picnic Area","2026-04-26 10:01",2,34.2661573,-118.1440936,TRUE,FALSE,FALSE,"S328056900",NA
+"178","mouqua","Mountain Quail","Oreortyx pictus","L762730","Piute Mountain Rd.--east","2026-04-26 09:22",5,35.4798333,-118.2126389,TRUE,FALSE,FALSE,"S328084338",NA
+"179","mouqua","Mountain Quail","Oreortyx pictus","L64109813","San Gabriel Mountains National Monument, Palmdale US-CA 34.32284, -118.01361","2026-04-26 09:21",5,34.322838,-118.01361,TRUE,FALSE,TRUE,"S328239424",NA
+"180","mouqua","Mountain Quail","Oreortyx pictus","L973021","Ellis Rd.","2026-04-26 08:45",2,38.5301396,-120.3038549,TRUE,FALSE,FALSE,"S328230014",NA
+"181","mouqua","Mountain Quail","Oreortyx pictus","L64039781","97330, Corvallis US-OR (44.6277,-123.3549)","2026-04-26 08:45",1,44.627742,-123.354916,TRUE,FALSE,TRUE,"S327893791",NA
+"182","mouqua","Mountain Quail","Oreortyx pictus","L64192958","9044-9062 Steele Canyon Road, Napa, California, US (38.461, -122.174)","2026-04-26 08:36",2,38.4606277,-122.1744278,TRUE,FALSE,TRUE,"S328676884",NA
+"183","mouqua","Mountain Quail","Oreortyx pictus","L21248976","Eagle Point Home","2026-04-26 08:33",2,45.171333,-123.311102,TRUE,FALSE,TRUE,"S327867664",NA
+"184","mouqua","Mountain Quail","Oreortyx pictus","L3868924","James San Jacinto Mountains Reserve (restricted access)","2026-04-26 08:32",1,33.8090046,-116.7755404,TRUE,FALSE,FALSE,"S328161833",NA
+"185","mouqua","Mountain Quail","Oreortyx pictus","L796398","Sespe Creek--Hwy 33","2026-04-26 08:11",1,34.5868315,-119.2791653,TRUE,FALSE,FALSE,"S328176628",NA
+"186","mouqua","Mountain Quail","Oreortyx pictus","L64102360","Arnold Meadow","2026-04-26 08:00",1,37.4153425,-119.3707963,TRUE,FALSE,TRUE,"S328632424",NA
+"187","mouqua","Mountain Quail","Oreortyx pictus","L33819724","Upper Big Tujunga Canyon Rd, Palmdale US-CA 34.31070, -118.08410","2026-04-26 07:40",4,34.310696,-118.084104,TRUE,FALSE,TRUE,"S328238444",NA
+"188","mouqua","Mountain Quail","Oreortyx pictus","L6205621","Hood River Mountain Trail","2026-04-26 07:38",2,45.6744027,-121.463449,TRUE,FALSE,FALSE,"S327978498",NA
+"189","mouqua","Mountain Quail","Oreortyx pictus","L64109545","Upper Big Tujunga Canyon Rd, Palmdale US-CA 34.32015, -118.12374","2026-04-26 07:16",3,34.320146,-118.123738,TRUE,FALSE,TRUE,"S328238171",NA
+"190","mouqua","Mountain Quail","Oreortyx pictus","L863246","Mt. Bolivar","2026-04-26 06:54",2,42.7917789,-123.8370285,TRUE,FALSE,FALSE,"S327935828",NA
+"191","mouqua","Mountain Quail","Oreortyx pictus","L7849151","casa dei viola_ private property no access","2026-04-26 06:36",1,42.063806,-122.609529,TRUE,FALSE,TRUE,"S327756744",NA
+"192","mouqua","Mountain Quail","Oreortyx pictus","L18119359","Daystar Drive","2026-04-26 06:35",2,44.675666,-123.242781,TRUE,FALSE,TRUE,"S327891327",NA
+"193","mouqua","Mountain Quail","Oreortyx pictus","L11205464","Eden Valley","2026-04-26 06:22",2,42.8056865,-123.9009484,TRUE,FALSE,FALSE,"S327882917",NA
+"194","mouqua","Mountain Quail","Oreortyx pictus","L10056263","Hyatt Prairie Rd.--Dead Indian Memorial Rd.","2026-04-26 06:01",1,42.2658752,-122.4492359,TRUE,FALSE,FALSE,"S328280114",NA
+"195","mouqua","Mountain Quail","Oreortyx pictus","L758890","Chimney Peak Rd. (TUL Co.)","2026-04-25 17:59",2,35.814716,-118.0538893,TRUE,FALSE,FALSE,"S327476994",NA
+"196","mouqua","Mountain Quail","Oreortyx pictus","L4539595","Chimney Peak Rd.","2026-04-25 17:38",8,35.7855129,-118.071785,TRUE,FALSE,FALSE,"S327476938",NA
+"197","mouqua","Mountain Quail","Oreortyx pictus","L63933956","California Section F, Onyx, California, US (35.556, -118.128)","2026-04-25 16:33",1,35.5557395,-118.127583,TRUE,FALSE,TRUE,"S327436192",NA
+"198","mouqua","Mountain Quail","Oreortyx pictus","L7605430","Banks-Vernonia State Trail (general)","2026-04-25 16:04",1,45.6870855,-123.1854486,TRUE,FALSE,FALSE,"S327437264",NA
+"199","mouqua","Mountain Quail","Oreortyx pictus","L63941969","California Section F, Onyx, California, US (35.568, -118.126)","2026-04-25 15:31",2,35.5681629,-118.1256521,TRUE,FALSE,TRUE,"S327404437",NA
+"200","mouqua","Mountain Quail","Oreortyx pictus","L2094296","South Fork Campground","2026-04-25 15:25",1,34.3963046,-117.8214169,TRUE,FALSE,FALSE,"S327488462",NA
+"201","mouqua","Mountain Quail","Oreortyx pictus","L63941288","California Section F, Onyx, California, US (35.563, -118.12)","2026-04-25 14:52",1,35.5625466,-118.1201278,TRUE,FALSE,TRUE,"S327401131",NA
+"202","mouqua","Mountain Quail","Oreortyx pictus","L7306116","Coyflat Campground","2026-04-25 14:30",3,36.127397,-118.618904,TRUE,FALSE,TRUE,"S327505856",NA
+"203","mouqua","Mountain Quail","Oreortyx pictus","L2092398","Spitler Peak Trail","2026-04-25 14:06",1,33.6978153,-116.6512012,TRUE,FALSE,FALSE,"S328162174",NA
+"204","mouqua","Mountain Quail","Oreortyx pictus","L796406","Quatal Canyon (VEN Co.)","2026-04-25 13:20",1,34.8198633,-119.402504,TRUE,FALSE,FALSE,"S328276280",NA
+"205","mouqua","Mountain Quail","Oreortyx pictus","L21639806","My Yard Lakebay","2026-04-25 12:52",1,47.2530947,-122.7906316,TRUE,TRUE,TRUE,"S327485559","N"
+"206","mouqua","Mountain Quail","Oreortyx pictus","L63965367","Water Dog Trail","2026-04-25 12:52",1,41.10201,-123.48926,TRUE,FALSE,TRUE,"S327516221",NA
+"207","mouqua","Mountain Quail","Oreortyx pictus","L3555556","Laguna Mtns.--fire info pullout","2026-04-25 12:48",3,32.9189118,-116.4711157,TRUE,FALSE,FALSE,"S327397352",NA
+"208","mouqua","Mountain Quail","Oreortyx pictus","L742177","Ozena Fire Station area","2026-04-25 12:37",1,34.6828874,-119.3534589,TRUE,FALSE,FALSE,"S328276084",NA
+"209","mouqua","Mountain Quail","Oreortyx pictus","L15366345","Morgan Trail","2026-04-25 12:33",2,33.6336493,-117.3826173,TRUE,FALSE,FALSE,"S327363005",NA
+"210","mouqua","Mountain Quail","Oreortyx pictus","L41910403","Rickreall Ridge (Weyerhauser 1909F1) lower peak — Mill Cr. Access","2026-04-25 12:32",3,44.950777,-123.472742,TRUE,FALSE,TRUE,"S327458029",NA
+"211","mouqua","Mountain Quail","Oreortyx pictus","L63961601","Big Hill Rd.--12.86 miles from Trinity River Highway","2026-04-25 12:02",2,41.096588,-123.537045,TRUE,FALSE,TRUE,"S327496756",NA
+"212","mouqua","Mountain Quail","Oreortyx pictus","L687974","W Fork San Gabriel River--Hwy 39 to Cogswell Reservoir","2026-04-25 12:00",1,34.2421757,-117.9128265,TRUE,FALSE,FALSE,"S327822429",NA
+"213","mouqua","Mountain Quail","Oreortyx pictus","L589049","Sugar Loaf Ridge SP","2026-04-25 11:51",2,38.4375015,-122.5144511,TRUE,FALSE,FALSE,"S328265119",NA
+"214","mouqua","Mountain Quail","Oreortyx pictus","L1446956","Pine Mountain Inn","2026-04-25 11:50",1,34.6095352,-119.3663663,TRUE,FALSE,FALSE,"S328275967",NA
+"215","mouqua","Mountain Quail","Oreortyx pictus","L24209549","40055–40065 Carmel Valley Rd, Carmel Valley US-CA 36.33863, -121.53668","2026-04-25 11:36",1,36.338629,-121.53668,TRUE,FALSE,TRUE,"S327815660",NA
+"216","mouqua","Mountain Quail","Oreortyx pictus","L63952610","Cedar Creek Loop","2026-04-25 11:34",2,44.937847,-123.531678,TRUE,FALSE,TRUE,"S327457164",NA
+"217","mouqua","Mountain Quail","Oreortyx pictus","L5754682","US-CA-Carmel Valley-38374-38440 E Carmel Valley Rd - 36.3475x-121.5429","2026-04-25 11:33",2,36.347526,-121.542906,TRUE,FALSE,TRUE,"S327487825",NA
+"218","mouqua","Mountain Quail","Oreortyx pictus","L24306544","39201 Carmel Valley Rd, Greenfield US-CA 36.33654, -121.52780","2026-04-25 11:24",1,36.336545,-121.527798,TRUE,FALSE,TRUE,"S327816525",NA
+"219","mouqua","Mountain Quail","Oreortyx pictus","L45084958","Titlow Hill Road, Blue Lake, California, US (40.829, -123.703)","2026-04-25 11:23",1,40.8289684,-123.7031416,TRUE,FALSE,TRUE,"S327338207",NA
+"220","mouqua","Mountain Quail","Oreortyx pictus","L63961152","Bald Mountain Rd, CBA Maple Creek CE","2026-04-25 11:17",1,40.792012,-123.798673,TRUE,FALSE,TRUE,"S327494541",NA
+"221","mouqua","Mountain Quail","Oreortyx pictus","L63093930","National Forest Development Road 400, Oregon, US (44.156, -122.281)","2026-04-25 11:11",2,44.15642,-122.2813667,TRUE,FALSE,TRUE,"S327374156",NA
+"222","mouqua","Mountain Quail","Oreortyx pictus","L64169958","Turtle Lake. Armstrong Road, Zenia, California, US (40.077, -123.435)","2026-04-25 10:57",1,40.0767744,-123.4351366,TRUE,FALSE,TRUE,"S328559476",NA
+"223","mouqua","Mountain Quail","Oreortyx pictus","L2066815","Cascades Trail--Spanish Creek","2026-04-25 10:50",2,40.0071405,-120.9438434,TRUE,FALSE,FALSE,"S327447751",NA
+"224","mouqua","Mountain Quail","Oreortyx pictus","L6553148","378 26N49 - Hunodim","2026-04-25 10:42",1,40.1094791,-120.9306949,TRUE,FALSE,TRUE,"S327428382",NA
+"225","mouqua","Mountain Quail","Oreortyx pictus","L63952360","Cedar Creek Rd","2026-04-25 10:31",1,44.9435,-123.536603,TRUE,FALSE,TRUE,"S327456066",NA
+"226","mouqua","Mountain Quail","Oreortyx pictus","L64095528","Trinity Mountain CW - Horse Ridge Trail","2026-04-25 10:16",5,41.0646008,-123.462989,TRUE,FALSE,TRUE,"S328165992",NA
+"227","mouqua","Mountain Quail","Oreortyx pictus","L60722373","7200 Blue Ridge Road, Vacaville, California, US (38.412, -122.111)","2026-04-25 10:03",5,38.411936,-122.1106273,TRUE,FALSE,TRUE,"S327932064",NA
+"228","mouqua","Mountain Quail","Oreortyx pictus","L5770253","Pioneer to Shasta River","2026-04-25 09:50",2,41.8067013,-122.5923586,TRUE,FALSE,TRUE,"S327366954",NA
+"229","mouqua","Mountain Quail","Oreortyx pictus","L1608883","Pilot Rock Trail","2026-04-25 09:45",1,42.0313783,-122.5665897,TRUE,FALSE,FALSE,"S327292647",NA
+"230","mouqua","Mountain Quail","Oreortyx pictus","L44474000","Old Coulterville Rd","2026-04-25 09:40",18,37.701697,-119.739048,TRUE,FALSE,TRUE,"S327448975",NA
+"231","mouqua","Mountain Quail","Oreortyx pictus","L15177001","Lindsey Ridge Gate 460","2026-04-25 09:25",1,44.957995,-123.791771,TRUE,FALSE,TRUE,"S327389515",NA
+"232","mouqua","Mountain Quail","Oreortyx pictus","L60013162","41009 Peterson Road, Shaver Lake, California, US (37.043, -119.303)","2026-04-25 09:20",3,37.0425579,-119.3031454,TRUE,FALSE,TRUE,"S327471100",NA
+"233","mouqua","Mountain Quail","Oreortyx pictus","L64120231","Banner Grade Morning Flight Spot #2","2026-04-25 09:10",1,33.0793151,-116.5666885,TRUE,FALSE,TRUE,"S328293173",NA
+"234","mouqua","Mountain Quail","Oreortyx pictus","L43948406","42491-42499 Bretz Mill Road, Shaver Lake, California, US (37.067, -119.294)","2026-04-25 08:52",2,37.06681,-119.2939522,TRUE,FALSE,TRUE,"S327471028",NA
+"235","mouqua","Mountain Quail","Oreortyx pictus","L63796427","California 173, Lake Arrowhead, California, US (34.294, -117.213)","2026-04-25 08:47",1,34.2941857,-117.2133663,TRUE,FALSE,TRUE,"S327256050",NA
+"236","mouqua","Mountain Quail","Oreortyx pictus","L43789942","Mill Creek — Madrona Slopes","2026-04-25 08:47",2,44.9817818,-123.5293218,TRUE,FALSE,TRUE,"S327455344",NA
+"237","mouqua","Mountain Quail","Oreortyx pictus","L1164789","Pine Flat Rd.--upper","2026-04-25 08:31",3,38.7368624,-122.7633011,TRUE,FALSE,FALSE,"S327409831",NA
+"238","mouqua","Mountain Quail","Oreortyx pictus","L6528109","Mt. Baldy Rest Area","2026-04-25 08:24",1,34.2425845,-117.6470464,TRUE,FALSE,FALSE,"S327233051",NA
+"239","mouqua","Mountain Quail","Oreortyx pictus","L44362777","Mill Creek Rd, Clearcut Pullout","2026-04-25 08:20",2,44.959933,-123.475135,TRUE,FALSE,TRUE,"S327453937",NA
+"240","mouqua","Mountain Quail","Oreortyx pictus","L64209913","(43.322, -122.938)","2026-04-25 07:45",1,43.3217477,-122.937898,TRUE,FALSE,TRUE,"S328766277",NA
+"241","mouqua","Mountain Quail","Oreortyx pictus","L25327665","SW Scoggins Valley Rd.--above the gate","2026-04-25 07:44",1,45.521973,-123.2626792,TRUE,FALSE,FALSE,"S327325869",NA
+"242","mouqua","Mountain Quail","Oreortyx pictus","L51280519","Shale City Rd.","2026-04-25 07:38",4,42.2718627,-122.5368479,TRUE,FALSE,FALSE,"S327704068",NA
+"243","mouqua","Mountain Quail","Oreortyx pictus","L2878044","King Ridge Rd.","2026-04-25 07:05",5,38.5949197,-123.15588,TRUE,FALSE,FALSE,"S327285778",NA
+"244","mouqua","Mountain Quail","Oreortyx pictus","L994131","Pepperwood Preserve","2026-04-25 07:04",1,38.5701797,-122.6909781,TRUE,FALSE,FALSE,"S327252830",NA
+"245","mouqua","Mountain Quail","Oreortyx pictus","L44143125","Friday Ridge Rd.--0.4 miles from Highway 299","2026-04-25 06:48",1,40.8888924,-123.6096348,TRUE,FALSE,TRUE,"S327483290",NA
+"246","mouqua","Mountain Quail","Oreortyx pictus","L63871307","Auto selected 34.34754, -117.99920","2026-04-25 06:18",1,34.347542,-117.999195,TRUE,FALSE,TRUE,"S327081364",NA
+"247","mouqua","Mountain Quail","Oreortyx pictus","L109497","Butterbredt Spring","2026-04-25 05:43",2,35.3817725,-118.113327,TRUE,FALSE,FALSE,"S327194642",NA
+"248","mouqua","Mountain Quail","Oreortyx pictus","L64106125","Unnamed Road, Prineville, Oregon, US (44.036, -120.03)","2026-04-25 05:41",1,44.036225,-120.029735,TRUE,FALSE,TRUE,"S328222555",NA
+"249","mouqua","Mountain Quail","Oreortyx pictus","L1582357","M1--Mexico Ridge to Mendocino National Forest sign","2026-04-25 05:29",14,39.7660953,-123.0713793,TRUE,FALSE,FALSE,"S328659576",NA
+"250","mouqua","Mountain Quail","Oreortyx pictus","L63820648","Unnamed Road, Eagle Point, Oregon, US (42.578, -122.531)","2026-04-24 20:18",1,42.5782806,-122.5307715,TRUE,FALSE,TRUE,"S326830439",NA
+"251","mouqua","Mountain Quail","Oreortyx pictus","L63812813","Pacific Crest National Scenic Trail, Palmdale US-CA 34.39931, -118.10126","2026-04-24 19:22",5,34.399305,-118.101258,TRUE,FALSE,TRUE,"S326793926",NA
+"252","mouqua","Mountain Quail","Oreortyx pictus","L63820656","Unnamed Road, Eagle Point, Oregon, US (42.581, -122.525)","2026-04-24 19:15",3,42.5810039,-122.5253148,TRUE,FALSE,TRUE,"S326830499",NA
+"253","mouqua","Mountain Quail","Oreortyx pictus","L1505544","Angeles Crest Hwy--MP 55.44","2026-04-24 19:10",3,34.3484093,-117.94669,TRUE,FALSE,FALSE,"S327282753",NA
+"254","mouqua","Mountain Quail","Oreortyx pictus","L64094702","Trinity Mountain CW - Tish Tang Ridge Trail","2026-04-24 17:37",3,41.0632688,-123.4858931,TRUE,FALSE,TRUE,"S328161295",NA
+"255","mouqua","Mountain Quail","Oreortyx pictus","L23379840","Colony Surf, Lilliwaup US-WA 47.50492, -123.06813","2026-04-24 17:26",2,47.504919,-123.068125,TRUE,FALSE,TRUE,"S326768417","N"
+"256","mouqua","Mountain Quail","Oreortyx pictus","L7610596","Indian Basin Grove Interpretive Trail","2026-04-24 17:00",2,36.80079,-118.940807,TRUE,FALSE,FALSE,"S326806684",NA
+"257","mouqua","Mountain Quail","Oreortyx pictus","L437030","Laguna Mtns.--Agua Dulce Creek/Wooded Hill","2026-04-24 14:57",1,32.8536337,-116.4356279,TRUE,FALSE,FALSE,"S326784893",NA
+"258","mouqua","Mountain Quail","Oreortyx pictus","L11655205","Bull Gap Sno Park","2026-04-24 14:32",2,42.070743,-122.695701,TRUE,FALSE,FALSE,"S326699838",NA
+"259","mouqua","Mountain Quail","Oreortyx pictus","L63801769","3270 Salton Vista Dr, Julian US-CA 33.06858, -116.57072","2026-04-24 14:10",1,33.068581,-116.57072,TRUE,FALSE,TRUE,"S326740297",NA
+"260","mouqua","Mountain Quail","Oreortyx pictus","L21402669","Indigo Springs Campground","2026-04-24 12:35",1,43.497163,-122.266758,TRUE,FALSE,FALSE,"S327910977",NA
+"261","mouqua","Mountain Quail","Oreortyx pictus","L64094373","Trinity Mountain CW - Crogan Hole Trail","2026-04-24 12:34",5,41.0828542,-123.4772819,TRUE,FALSE,TRUE,"S328159603",NA
+"262","mouqua","Mountain Quail","Oreortyx pictus","L613422","Moore Park","2026-04-24 11:30",2,42.2314,-121.8098,TRUE,TRUE,FALSE,"S326657559",NA
+"263","mouqua","Mountain Quail","Oreortyx pictus","L16203550","Aspen Valley Rd.","2026-04-24 11:15",1,37.8225,-119.8502778,TRUE,FALSE,FALSE,"S328489725",NA
+"264","mouqua","Mountain Quail","Oreortyx pictus","L33889917","Six Rivers National Forest, Hyampom US-CA (40.5194,-123.5041)","2026-04-24 10:49",2,40.519367,-123.504149,TRUE,FALSE,TRUE,"S328224800",NA
+"265","mouqua","Mountain Quail","Oreortyx pictus","L64093782","Trinity Mountain NW - Crogan Hole Trail","2026-04-24 10:12",6,41.0995657,-123.4997663,TRUE,FALSE,TRUE,"S328156445",NA
+"266","mouqua","Mountain Quail","Oreortyx pictus","L2866972","Titlow Hill Rd: first pullout south of clearcut (west side)","2026-04-24 10:10",1,40.8239794,-123.7007858,TRUE,FALSE,TRUE,"S326770626",NA
+"267","mouqua","Mountain Quail","Oreortyx pictus","L2402396","Feather Falls Trail","2026-04-24 09:48",6,39.6429745,-121.2739992,TRUE,FALSE,FALSE,"S326728122",NA
+"268","mouqua","Mountain Quail","Oreortyx pictus","L64093583","Tish Tang Point NE - Crogan Hole Trail","2026-04-24 09:41",4,41.1007463,-123.5026741,TRUE,FALSE,TRUE,"S328155402",NA
+"269","mouqua","Mountain Quail","Oreortyx pictus","L11358648","Titlow Hill Road: Russ Ranch Clearcut","2026-04-24 09:35",1,40.8300413,-123.7041884,TRUE,FALSE,TRUE,"S326768005",NA
+"270","mouqua","Mountain Quail","Oreortyx pictus","L17237536","Los Padres National Forest, Santa Ynez US-CA 34.72075, -119.95501","2026-04-24 09:34",3,34.720748,-119.955014,TRUE,FALSE,TRUE,"S326664241",NA
+"271","mouqua","Mountain Quail","Oreortyx pictus","L63813497","Generals Hwy, Kings Canyon National Pk US-CA 36.71340, -118.97147","2026-04-24 09:30",1,36.7134,-118.971473,TRUE,FALSE,TRUE,"S326796868",NA
+"272","mouqua","Mountain Quail","Oreortyx pictus","L63763388","97396, Willamina US-OR 45.10849, -123.52543 Private","2026-04-24 09:14",2,45.108492,-123.52543,TRUE,FALSE,TRUE,"S326552685",NA
+"273","mouqua","Mountain Quail","Oreortyx pictus","L63799420","Frey Creek Upper Bridge","2026-04-24 09:08",2,39.6277527,-121.26093,TRUE,FALSE,TRUE,"S326727638",NA
+"274","mouqua","Mountain Quail","Oreortyx pictus","L63561185","CA-299, Fall River Mills US-CA 40.99371, -121.49128","2026-04-24 08:59",1,40.99371,-121.491285,TRUE,FALSE,TRUE,"S326559096",NA
+"275","mouqua","Mountain Quail","Oreortyx pictus","L63799270","Feather Falls Trail South","2026-04-24 08:43",2,39.620447,-121.262593,TRUE,FALSE,TRUE,"S326726853",NA
+"276","mouqua","Mountain Quail","Oreortyx pictus","L19704940","Sunrise Hwy--mile 15.5 pullout","2026-04-24 08:42",4,32.8266631,-116.4964801,TRUE,FALSE,FALSE,"S326776393",NA
+"277","mouqua","Mountain Quail","Oreortyx pictus","L2776216","Sedgwick Reserve (restricted access)","2026-04-24 08:40",3,34.692571,-120.0405478,TRUE,FALSE,FALSE,"S326625336",NA
+"278","mouqua","Mountain Quail","Oreortyx pictus","L5577996","Black Canyon bridge","2026-04-24 08:37",2,33.123094,-116.800401,TRUE,FALSE,TRUE,"S326697320",NA
+"279","mouqua","Mountain Quail","Oreortyx pictus","L2982959","Titlow Hill Road: 5N10","2026-04-24 08:35",1,40.8471962,-123.7260318,TRUE,FALSE,TRUE,"S326765437",NA
+"280","mouqua","Mountain Quail","Oreortyx pictus","L21710831","Shepherd Creek trail","2026-04-24 08:30",7,36.7477631,-118.2892082,TRUE,FALSE,FALSE,"S327165961",NA
+"281","mouqua","Mountain Quail","Oreortyx pictus","L63793219","Ramona NE - CBA","2026-04-24 08:20",1,33.118485,-116.811537,TRUE,FALSE,TRUE,"S326696941",NA
+"282","mouqua","Mountain Quail","Oreortyx pictus","L24297094","Cochran Rd.","2026-04-24 08:15",2,45.7088689,-123.3560362,TRUE,FALSE,FALSE,"S326628196",NA
+"283","mouqua","Mountain Quail","Oreortyx pictus","L11505337","Cachuma Campground and surroundings, south of Lion Canyon","2026-04-24 08:06",1,34.698094,-119.913987,TRUE,FALSE,FALSE,"S326664062",NA
+"284","mouqua","Mountain Quail","Oreortyx pictus","L11543112","Boy Scout Trail","2026-04-24 08:05",1,35.4217188,-120.7567058,TRUE,FALSE,FALSE,"S326579451",NA
+"285","mouqua","Mountain Quail","Oreortyx pictus","L888601","Laguna/El Prado Campground","2026-04-24 08:05",1,32.883901,-116.44745,TRUE,FALSE,TRUE,"S326740359",NA
+"286","mouqua","Mountain Quail","Oreortyx pictus","L63801639","Auto selected 32.88408, -116.44720","2026-04-24 08:05",1,32.884084,-116.447196,TRUE,FALSE,TRUE,"S326739643",NA
+"287","mouqua","Mountain Quail","Oreortyx pictus","L734091","Mendocino NF--Grizzly Flat area","2026-04-24 08:02",8,39.6993945,-122.9909134,TRUE,FALSE,FALSE,"S326771017",NA
+"288","mouqua","Mountain Quail","Oreortyx pictus","L31073582","Mason Valley TT - PCT","2026-04-24 07:58",1,33.0094246,-116.5302783,TRUE,FALSE,TRUE,"S326704282",NA
+"289","mouqua","Mountain Quail","Oreortyx pictus","L64156508","Evergreen Rd, Groveland US-CA 37.81359, -119.87461","2026-04-24 07:50",2,37.813591,-119.874614,TRUE,FALSE,TRUE,"S328490938",NA
+"290","mouqua","Mountain Quail","Oreortyx pictus","L63815114","Pacific Crest National Scenic Trail, Ranchita US-CA 33.16902, -116.54201","2026-04-24 07:37",2,33.169019,-116.542012,TRUE,FALSE,TRUE,"S326803687",NA
+"291","mouqua","Mountain Quail","Oreortyx pictus","L63788063","Ochoco National Forest, Prineville US-OR 44.50638, -120.41961","2026-04-24 07:28",1,44.506381,-120.419611,TRUE,FALSE,TRUE,"S326671046",NA
+"292","mouqua","Mountain Quail","Oreortyx pictus","L25573398","Ward Road-Starker Forests land Polk (permit req)","2026-04-24 06:49",2,44.726975,-123.385623,TRUE,FALSE,TRUE,"S326631671",NA
+"293","mouqua","Mountain Quail","Oreortyx pictus","L63814646","Inyo National Forest, Independence US-CA 36.76025, -118.26507","2026-04-24 06:49",5,36.760246,-118.265067,TRUE,FALSE,TRUE,"S326801715",NA
+"294","mouqua","Mountain Quail","Oreortyx pictus","L2826970","Titlow Hill Road: 6N38 (second forest service road east)","2026-04-24 06:45",1,40.8662788,-123.7299113,TRUE,FALSE,TRUE,"S326760639",NA
+"295","mouqua","Mountain Quail","Oreortyx pictus","L63954561","Stanislaus National Forest, West Point US-CA 38.44844, -120.33646","2026-04-24 06:41",1,38.448443,-120.336464,TRUE,FALSE,TRUE,"S327465620",NA
+"296","mouqua","Mountain Quail","Oreortyx pictus","L220842","Lower Table Rock","2026-04-24 06:32",1,42.4549631,-122.9499321,TRUE,FALSE,FALSE,"S326685459",NA
+"297","mouqua","Mountain Quail","Oreortyx pictus","L2937902","Titlow Hill Rd.: approach to Horse Mt.","2026-04-24 06:32",3,40.8655082,-123.7378496,TRUE,FALSE,TRUE,"S326757961",NA
+"298","mouqua","Mountain Quail","Oreortyx pictus","L26528995","Jupiter vicinity","2026-04-23 18:32",1,38.1216884,-120.2824371,TRUE,FALSE,FALSE,"S327374600",NA
+"299","mouqua","Mountain Quail","Oreortyx pictus","L49970900","Hasting Rd, Hyampom US-CA 40.51437, -123.50589","2026-04-23 18:25",5,40.514374,-123.50589,TRUE,FALSE,TRUE,"S328224469",NA
+"300","mouqua","Mountain Quail","Oreortyx pictus","L2842283","Bell View Trail--Loop North of Robinson Ranch Road","2026-04-23 17:36",1,33.65613,-117.55837,TRUE,TRUE,FALSE,"S326268171",NA
+"301","mouqua","Mountain Quail","Oreortyx pictus","L63706467","Pine Grove Hills--HTNF FR-192 (upper)","2026-04-23 17:29",1,38.678812,-119.186273,TRUE,FALSE,TRUE,"S326246985",NA
+"302","mouqua","Mountain Quail","Oreortyx pictus","L9296349","Wishon","2026-04-23 17:22",3,36.174124,-118.69826,TRUE,FALSE,TRUE,"S326523481",NA
+"303","mouqua","Mountain Quail","Oreortyx pictus","L18358842","Philpot CG. Shasta T NF, US-CA (40.4717,-123.1953)","2026-04-23 17:20",3,40.471742,-123.195325,TRUE,FALSE,TRUE,"S326270369",NA
+"304","mouqua","Mountain Quail","Oreortyx pictus","L18329883","Hell gate Campground. Shasta T NF US-CA 40.36962, -123.31391","2026-04-23 15:57",1,40.369619,-123.313909,TRUE,FALSE,TRUE,"S326220705",NA
+"305","mouqua","Mountain Quail","Oreortyx pictus","L14548487","Gibraltar Rock","2026-04-23 15:15",2,34.4771632,-119.6802521,TRUE,FALSE,FALSE,"S326540808",NA
+"306","mouqua","Mountain Quail","Oreortyx pictus","L63718374","35-2E-2, Eagle Point, Oregon, US (42.581, -122.56)","2026-04-23 14:50",2,42.5810649,-122.5603555,TRUE,FALSE,TRUE,"S326306996",NA
+"307","mouqua","Mountain Quail","Oreortyx pictus","L63067817","7185–7677 San Simeon Creek Rd, Cambria US-CA 35.65389, -121.04404","2026-04-23 14:30",1,35.65389,-121.044036,TRUE,FALSE,TRUE,"S326196049",NA
+"308","mouqua","Mountain Quail","Oreortyx pictus","L939113","Piute Mtns.--Saddle Springs Rd. (27S02)","2026-04-23 14:00",2,35.5448831,-118.4704342,TRUE,FALSE,FALSE,"S326235058",NA
+"309","mouqua","Mountain Quail","Oreortyx pictus","L63696905","Saddle Springs Rd upper","2026-04-23 12:38",1,35.469799,-118.388869,TRUE,FALSE,TRUE,"S326193520",NA
+"310","mouqua","Mountain Quail","Oreortyx pictus","L63749431","Klamath Co. - Parker Mtn.","2026-04-23 12:20",2,42.103161,-122.2782358,TRUE,TRUE,TRUE,"S326490375",NA
+"311","mouqua","Mountain Quail","Oreortyx pictus","L31771914","Indians Rd, Greenfield US-CA 36.12511, -121.47080","2026-04-23 12:19",2,36.125111,-121.470799,TRUE,FALSE,TRUE,"S326176776",NA
+"312","mouqua","Mountain Quail","Oreortyx pictus","L63779075","Gold Point Trail (Lower)","2026-04-23 11:59",2,43.9558615,-122.4648454,TRUE,FALSE,TRUE,"S326628648",NA
+"313","mouqua","Mountain Quail","Oreortyx pictus","L578106","Los Padres NF--Santa Lucia Memorial Park","2026-04-23 11:07",3,36.1181033,-121.4655769,TRUE,FALSE,FALSE,"S326177256",NA
+"314","mouqua","Mountain Quail","Oreortyx pictus","L2980350","Yosemite NP--Lower Yosemite Falls Trail","2026-04-23 11:04",4,37.7494079,-119.596138,TRUE,FALSE,FALSE,"S326131347",NA
+"315","mouqua","Mountain Quail","Oreortyx pictus","L19834284","Hood Mountain Regional Park- Pythian Road parking lot area","2026-04-23 10:30",1,38.45189,-122.5742798,TRUE,FALSE,FALSE,"S326151648",NA
+"316","mouqua","Mountain Quail","Oreortyx pictus","L23827187","Deer Mountain","2026-04-23 10:10",1,43.990032,-122.656173,TRUE,FALSE,TRUE,"S326238396",NA
+"317","mouqua","Mountain Quail","Oreortyx pictus","L1308816","Yosemite NP--Wawona Meadow","2026-04-23 10:05",2,37.5289234,-119.6420574,TRUE,FALSE,FALSE,"S326136592",NA
+"318","mouqua","Mountain Quail","Oreortyx pictus","L18861544","Slover Canyon, San Gabriel Mountains, California, US","2026-04-23 09:43",1,34.3371851,-117.601578,TRUE,FALSE,TRUE,"S326119737",NA
+"319","mouqua","Mountain Quail","Oreortyx pictus","L1184385","Largo Vista Rd.","2026-04-23 09:35",2,34.4207173,-117.7677727,TRUE,FALSE,FALSE,"S326209630",NA
+"320","mouqua","Mountain Quail","Oreortyx pictus","L63695695","Forest 8N01, Los Olivos, California, US (34.761, -119.957)","2026-04-23 09:28",4,34.7613371,-119.9567638,TRUE,FALSE,TRUE,"S326186585",NA
+"321","mouqua","Mountain Quail","Oreortyx pictus","L21499624","6100 North Bank Road, Roseburg, Oregon, US (43.32, -123.254)","2026-04-23 09:16",1,43.3195139,-123.2538023,TRUE,FALSE,TRUE,"S326482467",NA
+"322","mouqua","Mountain Quail","Oreortyx pictus","L63671395","CA-299, Bieber US-CA 41.06570, -121.20708","2026-04-23 09:13",2,41.065697,-121.207082,TRUE,FALSE,TRUE,"S326060775",NA
+"323","mouqua","Mountain Quail","Oreortyx pictus","L28815415","Antelope Lake","2026-04-23 09:00",2,40.1911647,-120.6055076,TRUE,FALSE,TRUE,"S326194075",NA
+"324","mouqua","Mountain Quail","Oreortyx pictus","L11088365","Clark Mill Loop","2026-04-23 08:57",1,45.312827,-121.2862316,TRUE,FALSE,TRUE,"S326258724",NA
+"325","mouqua","Mountain Quail","Oreortyx pictus","L1435018","Pacific Crest Trail--east of Kitchen Creek Rd.","2026-04-23 08:27",3,32.7507445,-116.444531,TRUE,FALSE,FALSE,"S326695647",NA
+"326","mouqua","Mountain Quail","Oreortyx pictus","L922702","Mill Creek Upper Pond and County Park","2026-04-23 08:06",1,39.1263233,-123.1286716,TRUE,FALSE,FALSE,"S326772317",NA
+"327","mouqua","Mountain Quail","Oreortyx pictus","L63674776","Humbug Road","2026-04-23 07:59",4,41.750237,-122.656861,TRUE,FALSE,TRUE,"S326077925",NA
+"328","mouqua","Mountain Quail","Oreortyx pictus","L1649176","Blue Ridge Rd.--MP 7.1 - 7.2 (SOL Co.)","2026-04-23 07:51",6,38.4364159,-122.1241917,TRUE,TRUE,FALSE,"S326112499",NA
+"329","mouqua","Mountain Quail","Oreortyx pictus","L63673000","Glass Road, Angelus Oaks, California, US (34.179, -116.906)","2026-04-23 07:00",2,34.1792005,-116.9061902,TRUE,FALSE,TRUE,"S326069168",NA
+"330","mouqua","Mountain Quail","Oreortyx pictus","L1557184","Angelo Coast Range Reserve","2026-04-23 06:38",1,39.7216481,-123.6532264,TRUE,FALSE,FALSE,"S328250677",NA
+"331","mouqua","Mountain Quail","Oreortyx pictus","L466092","Jackson Lake","2026-04-23 06:36",2,34.3923915,-117.7261019,TRUE,FALSE,FALSE,"S326209359",NA
+"332","mouqua","Mountain Quail","Oreortyx pictus","L63659042","South Ridge Trail, Pine Cove US-CA 33.73546, -116.69595","2026-04-23 06:24",NA,33.73546,-116.69595,TRUE,FALSE,TRUE,"S326000928",NA
+"333","mouqua","Mountain Quail","Oreortyx pictus","L367550","Mix Canyon","2026-04-23 06:14",8,38.411937,-122.1104944,TRUE,TRUE,FALSE,"S325982934",NA
+"334","mouqua","Mountain Quail","Oreortyx pictus","L19103347","Cook's Meadow Loop, Yosemite Valley, California, US (37.746, -119.59)","2026-04-23 06:05",1,37.7464641,-119.5899831,TRUE,FALSE,TRUE,"S325945797",NA
+"335","mouqua","Mountain Quail","Oreortyx pictus","L58385783","YMCA Camp Whittle","2026-04-23 05:56",3,34.282821,-116.967578,TRUE,FALSE,TRUE,"S325948003",NA
+"336","mouqua","Mountain Quail","Oreortyx pictus","L1084273","Hwy 253 / Boonville Rd.--midpoint","2026-04-23 05:50",2,39.0501187,-123.2610655,TRUE,FALSE,FALSE,"S326771880",NA
+"337","mouqua","Mountain Quail","Oreortyx pictus","L48345576","Panther Gulch Rd - end of pavement to county line","2026-04-22 20:30",2,42.2038329,-123.2355454,TRUE,FALSE,TRUE,"S325781469",NA
+"338","mouqua","Mountain Quail","Oreortyx pictus","L561940","Palomar Observatory","2026-04-22 19:30",2,33.3574791,-116.865027,TRUE,FALSE,FALSE,"S326268596",NA
+"339","mouqua","Mountain Quail","Oreortyx pictus","L63687267","Aspen Grove Trail, Angelus Oaks US-CA 34.14771, -116.78987","2026-04-22 18:50",4,34.147705,-116.789872,TRUE,FALSE,TRUE,"S326138839",NA
+"340","mouqua","Mountain Quail","Oreortyx pictus","L7626992","Idyllwild--Ernie Maxwell Scenic Trail","2026-04-22 17:30",NA,33.7504633,-116.6937733,TRUE,FALSE,FALSE,"S326137778",NA
+"341","mouqua","Mountain Quail","Oreortyx pictus","L63607586","Forest Glen SE / Six Rivers National Forest, Mad River US-CA (40.2808,-123.3002)","2026-04-22 15:38",2,40.280755,-123.300196,TRUE,FALSE,TRUE,"S325716567",NA
+"342","mouqua","Mountain Quail","Oreortyx pictus","L1119979","Sequoia NP--Marble Falls Trail","2026-04-22 15:25",1,36.521507,-118.799258,TRUE,FALSE,FALSE,"S325961705",NA
+"343","mouqua","Mountain Quail","Oreortyx pictus","L63654297","Breckenridge Rd, Caliente US-CA 35.47413, -118.61965","2026-04-22 15:17",5,35.474131,-118.619645,TRUE,FALSE,TRUE,"S325975275",NA
+"344","mouqua","Mountain Quail","Oreortyx pictus","L19142522","Ney Springs Forest trail","2026-04-22 14:03",1,41.2754807,-122.3245494,TRUE,FALSE,TRUE,"S325714797",NA
+"345","mouqua","Mountain Quail","Oreortyx pictus","L63650466","Deardorf creek","2026-04-22 13:10",1,44.3938094,-118.5387548,TRUE,FALSE,TRUE,"S325954616",NA
+"346","mouqua","Mountain Quail","Oreortyx pictus","L18566342","Chilcoot Pocket","2026-04-22 12:48",2,39.8254742,-120.1179577,TRUE,FALSE,FALSE,"S325654863",NA
+"347","mouqua","Mountain Quail","Oreortyx pictus","L5108860","San Jacinto Mtns--Seven Pines Trail","2026-04-22 12:10",3,33.813297,-116.7235136,TRUE,FALSE,FALSE,"S326022527",NA
+"348","mouqua","Mountain Quail","Oreortyx pictus","L63599979","Near Watertanks","2026-04-22 12:09",1,39.708329,-120.564924,TRUE,FALSE,TRUE,"S325672459",NA
+"349","mouqua","Mountain Quail","Oreortyx pictus","L35155408","Green Mountain State Forest--GM-1 gate area","2026-04-22 12:06",2,47.5809623,-122.8349912,TRUE,FALSE,FALSE,"S325638094","N"
+"350","mouqua","Mountain Quail","Oreortyx pictus","L63615282","Generals Hwy, Three Rivers US-CA 36.53968, -118.77699","2026-04-22 10:47",1,36.539683,-118.77699,TRUE,FALSE,TRUE,"S325758658",NA
+"351","mouqua","Mountain Quail","Oreortyx pictus","L4668935","Sequoia NP--Eleven Range Overlook","2026-04-22 10:09",1,36.5590036,-118.784641,TRUE,FALSE,FALSE,"S325758469",NA
+"352","mouqua","Mountain Quail","Oreortyx pictus","L3442269","Los Padres NF--Dough Flat Rd.","2026-04-22 10:00",2,34.4867983,-118.9099002,TRUE,FALSE,FALSE,"S325778271",NA
+"353","mouqua","Mountain Quail","Oreortyx pictus","L63596735","Kitchen Creek Rd - Mt Laguna CW","2026-04-22 09:54",2,32.830673,-116.452264,TRUE,FALSE,TRUE,"S325654167",NA
+"354","mouqua","Mountain Quail","Oreortyx pictus","L63585211","South Shore Nest","2026-04-22 09:32",1,40.642467,-122.614282,TRUE,FALSE,TRUE,"S325596252",NA
+"355","mouqua","Mountain Quail","Oreortyx pictus","L6075001","Windy Springs","2026-04-22 09:00",4,36.029147,-118.097625,TRUE,FALSE,FALSE,"S326199565",NA
+"356","mouqua","Mountain Quail","Oreortyx pictus","L1049145","Los Padres NF--Santa Paula Canyon","2026-04-22 08:58",4,34.4436542,-119.0697384,TRUE,FALSE,FALSE,"S325754133",NA
+"357","mouqua","Mountain Quail","Oreortyx pictus","L63574713","Hwy 44 rest stop area","2026-04-22 08:50",6,40.6424418,-121.2221246,TRUE,FALSE,TRUE,"S325548369",NA
+"358","mouqua","Mountain Quail","Oreortyx pictus","L156861","Spencer Butte Park","2026-04-22 08:34",1,43.9831,-123.0946,TRUE,FALSE,FALSE,"S325546898",NA
+"359","mouqua","Mountain Quail","Oreortyx pictus","L63569273","Generals Hwy, Three Rivers US-CA 36.54340, -118.78170","2026-04-22 08:31",1,36.543399,-118.781703,TRUE,FALSE,TRUE,"S325531694",NA
+"360","mouqua","Mountain Quail","Oreortyx pictus","L63609318","Buckeye Trail","2026-04-22 07:45",15,35.820895,-121.370573,TRUE,FALSE,TRUE,"S325726678",NA
+"361","mouqua","Mountain Quail","Oreortyx pictus","L42952893","My Place","2026-04-22 07:31",1,40.215585,-123.945953,TRUE,FALSE,TRUE,"S325522775",NA
+"362","mouqua","Mountain Quail","Oreortyx pictus","L60047479","South Mule Town Road","2026-04-22 07:28",6,40.5624728,-122.5288045,TRUE,FALSE,TRUE,"S325593132",NA
+"363","mouqua","Mountain Quail","Oreortyx pictus","L1569109","Blue Ridge Rd.--Mt. Vaca area","2026-04-21 18:58",5,38.4324088,-122.1261911,TRUE,FALSE,FALSE,"S326764875",NA
+"364","mouqua","Mountain Quail","Oreortyx pictus","L63527133","18709–18777 Maricopa Hwy, Ojai US-CA 34.54037, -119.23911","2026-04-21 18:07",1,34.540367,-119.239109,TRUE,FALSE,TRUE,"S325297282",NA
+"365","mouqua","Mountain Quail","Oreortyx pictus","L390171","Mix Canyon Rd.","2026-04-21 16:44",5,38.4100202,-122.0608521,TRUE,FALSE,FALSE,"S326764562",NA
+"366","mouqua","Mountain Quail","Oreortyx pictus","L6147788","Suicide Rock Trail","2026-04-21 14:45",2,33.7692208,-116.7096519,TRUE,FALSE,FALSE,"S325515965",NA
+"367","mouqua","Mountain Quail","Oreortyx pictus","L47441856","BLM Rd 38-5-17","2026-04-21 10:21",1,42.2622428,-123.3257068,TRUE,FALSE,TRUE,"S330034869",NA
+"368","mouqua","Mountain Quail","Oreortyx pictus","L61133466","Muletown Road North","2026-04-21 09:04",3,40.577568,-122.515658,TRUE,FALSE,TRUE,"S325120709",NA
+"369","mouqua","Mountain Quail","Oreortyx pictus","L27892985","29025 Pinon Road, Llano, California, US (34.434, -117.727)","2026-04-21 08:42",1,34.4342773,-117.7265452,TRUE,FALSE,TRUE,"S325094375",NA
+"370","mouqua","Mountain Quail","Oreortyx pictus","L228769","Big Rock Campground","2026-04-21 08:31",12,34.388,-117.7767,TRUE,FALSE,FALSE,"S325207692",NA
+"371","mouqua","Mountain Quail","Oreortyx pictus","L447448","Marys Peak","2026-04-21 07:53",1,44.5101917,-123.5505647,TRUE,FALSE,FALSE,"S325157441",NA
+"372","mouqua","Mountain Quail","Oreortyx pictus","L60420396","Cloudland Truck Trail (2N40)","2026-04-21 06:28",1,34.2188375,-117.299583,TRUE,FALSE,TRUE,"S325112229",NA
+"373","mouqua","Mountain Quail","Oreortyx pictus","L61643284","NEED Camp","2026-04-21 06:24",1,40.579866,-122.541875,TRUE,FALSE,TRUE,"S325120005",NA

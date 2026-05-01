@@ -1,2 +1,6 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","refcor","Red-faced Cormorant","Urile urile","L22187146","Resurrection Bay--Spire Cove","2026-04-21 15:17",1,59.8764992,-149.5736218,TRUE,FALSE,FALSE,"S325288128"
+"1","redcro9","Cassia Crossbill","Loxia sinesciuris","L64291791","AVR-UAVR","2026-04-28 07:42",1,39.829904,-105.552832,TRUE,TRUE,TRUE,"S329197238"
+"2","redcro9","Cassia Crossbill","Loxia sinesciuris","L64291761","92 Timber Dr, Black Hawk US-CO 39.83947, -105.47333","2026-04-28 07:29",2,39.839468,-105.473327,TRUE,TRUE,TRUE,"S329196999"
+"3","redcro9","Cassia Crossbill","Loxia sinesciuris","L58987348","Walstrom Hollow Ski Trail","2026-04-25 09:35",3,42.200571,-114.2808472,TRUE,FALSE,TRUE,"S327884476"
+"4","redcro9","Cassia Crossbill","Loxia sinesciuris","L1214246","Lower Penstemon Campground","2026-04-23 09:11",6,42.1963185,-114.2834973,TRUE,FALSE,FALSE,"S326142976"
+"5","redcro9","Cassia Crossbill","Loxia sinesciuris","L1223571","Diamondfield Jack Campground and Picnic Area","2026-04-23 08:30",4,42.1713873,-114.279356,TRUE,FALSE,FALSE,"S326270115"
