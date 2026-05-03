@@ -1,3 +1,5 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
-"1","orabis1","Northern Red Bishop","Euplectes franciscanus","L8565316","Arevalos Park","2026-05-01 06:47",1,33.6767097,-117.9452166,TRUE,FALSE,FALSE,"S330431668","P"
-"2","orabis1","Northern Red Bishop","Euplectes franciscanus","L600290","Fairview Park, Costa Mesa","2026-04-26 08:58",1,33.662014,-117.9413974,TRUE,FALSE,FALSE,"S327959150","P"
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
+"1","corshe1","Cory's Shearwater","Calonectris borealis","L45007342","Hatteras Point","2026-04-29 06:01",1,35.1991783,-75.722874,TRUE,TRUE,TRUE,"S329664587"
+"2","corshe1","Cory's Shearwater","Calonectris borealis","L11650972","Hatteras Pelagic - On the Shelf (Inshore of the Shelf Break)","2026-04-26 11:36",2,35.0715166,-75.6011031,TRUE,FALSE,TRUE,"S328196243"
+"3","corshe1","Cory's Shearwater","Calonectris borealis","L548893","Hatteras Pelagic--Gulf Stream","2026-04-26 08:06",1,34.8588905,-75.2453613,TRUE,FALSE,FALSE,"S328191908"
+"4","corshe1","Cory's Shearwater","Calonectris borealis","L127452","Dry Tortugas NP--Garden Key","2026-04-23 11:00",1,24.6276,-82.8728,TRUE,TRUE,FALSE,"S326237337"
