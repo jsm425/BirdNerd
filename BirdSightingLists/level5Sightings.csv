@@ -1,6 +1,2 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","litgul","Little Gull","Hydrocoloeus minutus","L367769","Woodland Beach","2026-04-30 16:58",1,39.3317581,-75.471611,TRUE,TRUE,FALSE,"S330136478"
-"2","litgul","Little Gull","Hydrocoloeus minutus","L693848","Cape Island--CMP--Coral Ave. dune crossing","2026-04-30 08:19",1,38.9327948,-74.9651502,TRUE,TRUE,FALSE,"S329815296"
-"3","litgul","Little Gull","Hydrocoloeus minutus","L12132844","Graham Point","2026-04-27 06:20",1,45.8493661,-84.705258,TRUE,TRUE,FALSE,"S328733777"
-"4","litgul","Little Gull","Hydrocoloeus minutus","L718378","Chincoteague NWR* (general area)","2026-04-25 07:40",1,37.9106228,-75.3479719,TRUE,TRUE,FALSE,"S330125128"
-"5","litgul","Little Gull","Hydrocoloeus minutus","L1616913","Chincoteague NWR--Beach","2026-04-25 07:31",1,37.88718,-75.34464,TRUE,TRUE,FALSE,"S327085462"
+"1","baispa","Baird's Sparrow","Centronyx bairdii","L158882","Lostwood NWR","2026-05-01 10:25",8,48.602636,-102.4386493,TRUE,FALSE,FALSE,"S330556061"
