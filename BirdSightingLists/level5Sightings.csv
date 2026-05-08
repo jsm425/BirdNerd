@@ -1,2 +1,6 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","x00682","Ring-necked Duck x scaup sp. (hybrid)","Aythya collaris x marila/affinis","L461329","Shreve Lake Wildlife Area","2026-05-03 18:56",1,40.6837623,-82.0445251,TRUE,TRUE,FALSE,"S332153348"
+"1","rotbec","Rose-throated Becard","Pachyramphus aglaiae","L129086","Santa Margarita Ranch (LTC 079) (restricted access - guided groups only)","2026-05-07 06:27",2,26.4856177,-99.0912337,TRUE,TRUE,FALSE,"S334112472"
+"2","rotbec","Rose-throated Becard","Pachyramphus aglaiae","L768735","Harshaw Creek Road","2026-05-06 16:26",1,31.506978,-110.6798543,TRUE,TRUE,FALSE,"S333903607"
+"3","rotbec","Rose-throated Becard","Pachyramphus aglaiae","L45929440","stakeout Rose-throated Becard, Harshaw Creek Rd (2025)","2026-05-05 05:52",2,31.5162598,-110.6928891,TRUE,TRUE,FALSE,"S333052808"
+"4","rotbec","Rose-throated Becard","Pachyramphus aglaiae","L26445644","Harshaw Creek Road, Patagonia, Arizona, US (31.515, -110.693)","2026-05-03 08:40",1,31.5154407,-110.6929105,TRUE,TRUE,TRUE,"S332119697"
+"5","rotbec","Rose-throated Becard","Pachyramphus aglaiae","L336009","National Butterfly Center--General & area North of Levee","2026-05-03 08:32",1,26.1796025,-98.3664483,TRUE,TRUE,FALSE,"S331766305"
