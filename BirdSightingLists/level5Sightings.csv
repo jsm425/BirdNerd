@@ -1,3 +1,2 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
-"1","whwpar","White-winged Parakeet","Brotogeris versicolurus","L65307611","8665 Bird Rd, Miami US-FL 25.73407, -80.33509","2026-05-07 19:40",1,25.734071,-80.335086,TRUE,TRUE,TRUE,"S334266226","N"
-"2","whwpar","White-winged Parakeet","Brotogeris versicolurus","L3486936","Cortadito Cowbirds","2026-05-06 19:05",2,25.7323915,-80.3350863,TRUE,TRUE,FALSE,"S334225234","N"
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
+"1","x00448","Rose-breasted x Black-headed Grosbeak (hybrid)","Pheucticus ludovicianus x melanocephalus","L46633697","My home","2026-05-08 09:45",1,38.899356,-94.241512,TRUE,TRUE,TRUE,"S334576418"
