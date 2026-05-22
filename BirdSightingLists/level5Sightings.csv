@@ -1,2 +1,4 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","x00787","Common Black x Red-shouldered Hawk (hybrid)","Buteogallus anthracinus x Buteo lineatus","L761019","Santa Rosa Creek Trail and Delta Pond (west of Willowside Rd)","2026-05-11 09:12",1,38.4453208,-122.8155613,TRUE,TRUE,FALSE,"S337316408"
+"1","comsni","Common Snipe","Gallinago gallinago","L67088068","Adak, Alaska, US","2026-05-21 07:49",2,51.8895169,-176.6254125,TRUE,FALSE,TRUE,"S343602743"
+"2","comsni","Common Snipe","Gallinago gallinago","L268250","Adak Island","2026-05-20 15:16",1,51.8941856,-176.6443634,TRUE,FALSE,FALSE,"S343177277"
+"3","comsni","Common Snipe","Gallinago gallinago","L261146","St. Paul Island","2026-05-19 17:00",1,57.17012,-170.296751,TRUE,FALSE,FALSE,"S343218162"
