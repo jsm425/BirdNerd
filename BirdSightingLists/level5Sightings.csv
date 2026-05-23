@@ -1,4 +1,2 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","comsni","Common Snipe","Gallinago gallinago","L67088068","Adak, Alaska, US","2026-05-21 07:49",2,51.8895169,-176.6254125,TRUE,FALSE,TRUE,"S343602743"
-"2","comsni","Common Snipe","Gallinago gallinago","L268250","Adak Island","2026-05-20 15:16",1,51.8941856,-176.6443634,TRUE,FALSE,FALSE,"S343177277"
-"3","comsni","Common Snipe","Gallinago gallinago","L261146","St. Paul Island","2026-05-19 17:00",1,57.17012,-170.296751,TRUE,FALSE,FALSE,"S343218162"
+"1","scoshe1","Scopoli's Shearwater","Calonectris diomedea","L548893","Hatteras Pelagic--Gulf Stream","2026-05-21 07:57",2,34.8588905,-75.2453613,TRUE,FALSE,FALSE,"S343610006"
