@@ -1,97 +1,39 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","chclon","Chestnut-collared Longspur","Calcarius ornatus","L67243830","6193–6899 N-29, Harrison US-NE 42.62362, -103.89321","2026-05-22 14:17",3,42.623616,-103.893214,TRUE,FALSE,TRUE,"S344138297"
-"2","chclon","Chestnut-collared Longspur","Calcarius ornatus","L7622448","Medicine Lake NWR--E Lake Hwy crossing","2026-05-22 13:48",2,48.5020635,-104.2924592,TRUE,FALSE,FALSE,"S344167144"
-"3","chclon","Chestnut-collared Longspur","Calcarius ornatus","L67218427","Buffalo Historical Marker","2026-05-22 11:21",2,48.2809048,-106.7035902,TRUE,FALSE,TRUE,"S344024306"
-"4","chclon","Chestnut-collared Longspur","Calcarius ornatus","L67217422","135th Avenue Southwest, Scranton, North Dakota, US (46.085, -103.183)","2026-05-22 11:16",1,46.0848889,-103.1825202,TRUE,FALSE,TRUE,"S344019779"
-"5","chclon","Chestnut-collared Longspur","Calcarius ornatus","L3662688","Henry Road--North","2026-05-22 09:47",2,42.6191178,-104.04984,TRUE,FALSE,FALSE,"S344002671"
-"6","chclon","Chestnut-collared Longspur","Calcarius ornatus","L14493832","Old Gap Road","2026-05-22 09:09",1,46.56268,-109.81457,TRUE,FALSE,FALSE,"S344003904"
-"7","chclon","Chestnut-collared Longspur","Calcarius ornatus","L6061718","Oka Rd.","2026-05-22 08:07",4,46.62089,-109.79721,TRUE,FALSE,FALSE,"S343939065"
-"8","chclon","Chestnut-collared Longspur","Calcarius ornatus","L247318","Benton Lake NWR","2026-05-22 08:00",6,47.6641904,-111.3007221,TRUE,FALSE,FALSE,"S343968471"
-"9","chclon","Chestnut-collared Longspur","Calcarius ornatus","L166589","Big Lake","2026-05-22 07:16",5,45.8852246,-109.0522046,TRUE,FALSE,FALSE,"S343960301"
-"10","chclon","Chestnut-collared Longspur","Calcarius ornatus","L67148740","30853 South Dakota 10, Herreid, South Dakota, US (45.768, -99.976)","2026-05-21 19:41",1,45.767551,-99.9756815,TRUE,FALSE,TRUE,"S343682970"
-"11","chclon","Chestnut-collared Longspur","Calcarius ornatus","L31902286","South Dakota 45, Eureka, South Dakota, US (45.756, -99.217)","2026-05-21 19:04",2,45.7561604,-99.2167692,TRUE,FALSE,TRUE,"S343683093"
-"12","chclon","Chestnut-collared Longspur","Calcarius ornatus","L67115205","Snowy Mountain Rd, Roundup US-MT (46.6275,-108.6142)","2026-05-21 12:00",16,46.627467,-108.614224,TRUE,FALSE,TRUE,"S343519026"
-"13","chclon","Chestnut-collared Longspur","Calcarius ornatus","L67115273","882–998 Lake Mason Rd, Roundup US-MT 46.63451, -108.73737","2026-05-21 12:00",1,46.634507,-108.737373,TRUE,FALSE,TRUE,"S343519312"
-"14","chclon","Chestnut-collared Longspur","Calcarius ornatus","L1110246","Lake Mason NWR--Middle Unit","2026-05-21 11:30",2,46.62964,-108.73739,TRUE,FALSE,FALSE,"S343481103"
-"15","chclon","Chestnut-collared Longspur","Calcarius ornatus","L67152417","59523, Chinook US-MT 48.31572, -108.80111","2026-05-21 10:33",NA,48.315717,-108.801113,TRUE,FALSE,TRUE,"S343699358"
-"16","chclon","Chestnut-collared Longspur","Calcarius ornatus","L67103242","57th St SW, Amidon US-ND 46.58392, -103.21130","2026-05-21 09:09",6,46.583916,-103.211297,TRUE,FALSE,TRUE,"S343462218"
-"17","chclon","Chestnut-collared Longspur","Calcarius ornatus","L67098383","Snowy Mountain Rd, Roundup US-MT (46.6456,-108.8004)","2026-05-21 08:52",3,46.645597,-108.800399,TRUE,FALSE,TRUE,"S343439315"
-"18","chclon","Chestnut-collared Longspur","Calcarius ornatus","L67098375","Snowy Mountain Rd","2026-05-21 08:51",11,46.605003,-108.588161,TRUE,FALSE,TRUE,"S343439272"
-"19","chclon","Chestnut-collared Longspur","Calcarius ornatus","L1308896","Round Lake (Sheridan Co.)","2026-05-21 08:38",1,48.8903,-104.06143,TRUE,FALSE,FALSE,"S343641763"
-"20","chclon","Chestnut-collared Longspur","Calcarius ornatus","L523587","Goose Lake WPA (Sheridan Co.)","2026-05-21 07:57",1,48.8177157,-104.0686798,TRUE,FALSE,FALSE,"S343638311"
-"21","chclon","Chestnut-collared Longspur","Calcarius ornatus","L158584","Bowdoin NWR","2026-05-21 06:59",6,48.40275,-107.68543,TRUE,FALSE,FALSE,"S343556785"
-"22","chclon","Chestnut-collared Longspur","Calcarius ornatus","L523569","Upper Goose Lake (Sheridan Co.)","2026-05-21 06:34",8,48.8479566,-104.0606976,TRUE,FALSE,FALSE,"S343599412"
-"23","chclon","Chestnut-collared Longspur","Calcarius ornatus","L67095507","Castlebutte Rd, Hettinger US-SD","2026-05-21 04:40",12,45.906518,-102.549296,TRUE,FALSE,TRUE,"S343425410"
-"24","chclon","Chestnut-collared Longspur","Calcarius ornatus","L332514","Medicine Lake NWR","2026-05-20 13:42",35,48.48384,-104.44945,TRUE,FALSE,FALSE,"S343150760"
-"25","chclon","Chestnut-collared Longspur","Calcarius ornatus","L3757372","Molt (town)","2026-05-20 12:29",2,45.86116,-108.92786,TRUE,FALSE,FALSE,"S343093988"
-"26","chclon","Chestnut-collared Longspur","Calcarius ornatus","L67023726","Buffalo Sussex Cutoff Road, Buffalo, Wyoming, US (44.064, -106.524)","2026-05-20 12:05",2,44.0636746,-106.5237193,TRUE,FALSE,TRUE,"S343060678"
-"27","chclon","Chestnut-collared Longspur","Calcarius ornatus","L15267064","American Prairie Reserve--“Mailbox”","2026-05-20 10:00",4,47.9205652,-107.9966503,TRUE,FALSE,FALSE,"S342895796"
-"28","chclon","Chestnut-collared Longspur","Calcarius ornatus","L67039790","6192–6898 N-29, Harrison US-NE 42.63261, -103.89316","2026-05-20 08:29",1,42.632613,-103.893161,TRUE,FALSE,TRUE,"S343144575"
-"29","chclon","Chestnut-collared Longspur","Calcarius ornatus","L45967103","Des Moines School Section Prairie","2026-05-20 07:26",10,47.1181876,-99.682209,TRUE,FALSE,FALSE,"S342806437"
-"30","chclon","Chestnut-collared Longspur","Calcarius ornatus","L66925532","6193–6899 N-29, Harrison US-NE 42.65773, -103.89327","2026-05-19 17:16",3,42.657726,-103.893267,TRUE,FALSE,TRUE,"S342565769"
-"31","chclon","Chestnut-collared Longspur","Calcarius ornatus","L66923716","27001–27699 County Road 108, Ault US-CO 40.76907, -104.54151","2026-05-19 17:11",3,40.769074,-104.54151,TRUE,FALSE,TRUE,"S342555226"
-"32","chclon","Chestnut-collared Longspur","Calcarius ornatus","L2949801","Henry Road (NE)","2026-05-19 16:20",2,42.6556769,-104.0504837,TRUE,FALSE,TRUE,"S342626430"
-"33","chclon","Chestnut-collared Longspur","Calcarius ornatus","L66925274","7887 Shorey Rd, Billings US-MT 45.85626, -108.70993","2026-05-19 14:10",3,45.856262,-108.709931,TRUE,FALSE,TRUE,"S342564134"
-"34","chclon","Chestnut-collared Longspur","Calcarius ornatus","L7795637","59421, Cascade US-MT (47.3664,-111.7944)","2026-05-19 11:19",1,47.36638,-111.794405,TRUE,FALSE,TRUE,"S342615226"
-"35","chclon","Chestnut-collared Longspur","Calcarius ornatus","L24642449","Lonesome Lake","2026-05-19 09:29",8,48.25333,-110.21453,TRUE,FALSE,FALSE,"S342445336"
-"36","chclon","Chestnut-collared Longspur","Calcarius ornatus","L1169963","Lower Nihill Rd.--West","2026-05-19 08:18",1,46.48982,-109.79591,TRUE,FALSE,FALSE,"S342330245"
-"37","chclon","Chestnut-collared Longspur","Calcarius ornatus","L66873119","Marmarth Rd, Golva US-ND 46.62978, -103.98773","2026-05-19 06:57",4,46.629783,-103.987731,TRUE,FALSE,TRUE,"S342311265"
-"38","chclon","Chestnut-collared Longspur","Calcarius ornatus","L331980","Ft. Pierre NG (Lyman Co.)","2026-05-19 06:15",5,44.1679295,-100.3215695,TRUE,FALSE,FALSE,"S342382321"
-"39","chclon","Chestnut-collared Longspur","Calcarius ornatus","L66825969","58552, Linton US-ND 46.27572, -100.56264","2026-05-18 20:43",1,46.275717,-100.562637,TRUE,FALSE,TRUE,"S342073943"
-"40","chclon","Chestnut-collared Longspur","Calcarius ornatus","L66807566","45th Ave SE, Tappen US-ND 46.88529, -99.51045","2026-05-18 16:50",2,46.885286,-99.510447,TRUE,FALSE,TRUE,"S341970098"
-"41","chclon","Chestnut-collared Longspur","Calcarius ornatus","L4318590","Bowdoin NWR--first 5 mi. Auto Tour Route","2026-05-18 14:38",6,48.39156,-107.72862,TRUE,FALSE,FALSE,"S342028536"
-"42","chclon","Chestnut-collared Longspur","Calcarius ornatus","L66784047","County Road 49, Nunn US-CO 40.81353, -104.60096","2026-05-18 10:20",3,40.813532,-104.600962,TRUE,FALSE,TRUE,"S341854833"
-"43","chclon","Chestnut-collared Longspur","Calcarius ornatus","L66776143","2829 Montana 59, Miles City, Montana, US (46.73, -106.201)","2026-05-18 07:04",1,46.7298287,-106.2005557,TRUE,FALSE,TRUE,"S341816990"
-"44","chclon","Chestnut-collared Longspur","Calcarius ornatus","L3522929","YMCA WPA","2026-05-18",NA,46.6942796,-100.2847481,TRUE,FALSE,FALSE,"S343543339"
-"45","chclon","Chestnut-collared Longspur","Calcarius ornatus","L66147870","East Shore","2026-05-17 20:34",1,45.8956218,-109.0270027,TRUE,FALSE,TRUE,"S341470169"
-"46","chclon","Chestnut-collared Longspur","Calcarius ornatus","L66716317","db road","2026-05-17 20:23",2,45.9136605,-109.026927,TRUE,FALSE,TRUE,"S341470323"
-"47","chclon","Chestnut-collared Longspur","Calcarius ornatus","L66711892","Terry Badlands Overlook","2026-05-17 18:24",1,46.829801,-105.393613,TRUE,FALSE,TRUE,"S341448844"
-"48","chclon","Chestnut-collared Longspur","Calcarius ornatus","L66714963","31800–32054 Funk Rd, Calhan US-CO (38.9980,-104.2294)","2026-05-17 17:30",1,38.998038,-104.229434,TRUE,TRUE,TRUE,"S341462968"
-"49","chclon","Chestnut-collared Longspur","Calcarius ornatus","L930469","Base Pond","2026-05-17 16:07",1,48.4484,-106.57722,TRUE,FALSE,FALSE,"S341356839"
-"50","chclon","Chestnut-collared Longspur","Calcarius ornatus","L13189037","Dip on Harrison Raven","2026-05-17 15:58",6,42.640511,-103.893228,TRUE,FALSE,TRUE,"S341422023"
-"51","chclon","Chestnut-collared Longspur","Calcarius ornatus","L25393383","31800–32054 Funk Rd, Calhan US-CO 38.99792, -104.23428","2026-05-17 13:45",1,38.997924,-104.234282,TRUE,TRUE,TRUE,"S341691972"
-"52","chclon","Chestnut-collared Longspur","Calcarius ornatus","L741983","White Lake NWR","2026-05-17 12:48",2,46.47555,-103.21323,TRUE,FALSE,FALSE,"S341214657"
-"53","chclon","Chestnut-collared Longspur","Calcarius ornatus","L6196151","Pawnee NG--Weld CR-47 near CR-116","2026-05-17 11:42",3,40.8208245,-104.6189404,TRUE,FALSE,FALSE,"S341290595"
-"54","chclon","Chestnut-collared Longspur","Calcarius ornatus","L9173467","100th St. Wetland (seasonal)","2026-05-17 10:03",3,45.9741554,-103.3905629,TRUE,FALSE,FALSE,"S341088013"
-"55","chclon","Chestnut-collared Longspur","Calcarius ornatus","L66612795","3600–3698 45th Ave SE, Tappen US-ND 46.88272, -99.51039","2026-05-17 09:34",6,46.882715,-99.510392,TRUE,FALSE,TRUE,"S340965735"
-"56","chclon","Chestnut-collared Longspur","Calcarius ornatus","L935173","57th St. N Wetland (McHenry Co.)","2026-05-17 09:31",1,48.2397222,-100.7257223,TRUE,FALSE,FALSE,"S341355153"
-"57","chclon","Chestnut-collared Longspur","Calcarius ornatus","L9645816","Pawnee NG Bird Tour--CR-96","2026-05-17 08:25",1,40.682221,-104.5055931,TRUE,FALSE,FALSE,"S341152104"
-"58","chclon","Chestnut-collared Longspur","Calcarius ornatus","L66603360","I-25 N, Chugwater US-WY 41.66587, -104.83862","2026-05-17 07:56",15,41.665874,-104.83862,TRUE,TRUE,TRUE,"S340914273"
-"59","chclon","Chestnut-collared Longspur","Calcarius ornatus","L66599966","I-25 N, Cheyenne US-WY 41.45855, -104.88536","2026-05-17 07:42",3,41.458545,-104.885365,TRUE,FALSE,TRUE,"S340894656"
-"60","chclon","Chestnut-collared Longspur","Calcarius ornatus","L66507900","27 1/2 St SW, New Salem US-ND (47.0172,-101.4420)","2026-05-16 16:19",2,47.017226,-101.44204,TRUE,FALSE,TRUE,"S340403894"
-"61","chclon","Chestnut-collared Longspur","Calcarius ornatus","L66536955","28396 Warcreek Road, Fort Pierre, South Dakota, US (44.226, -100.454)","2026-05-16 14:50",1,44.2263499,-100.4537368,TRUE,FALSE,TRUE,"S340550277"
-"62","chclon","Chestnut-collared Longspur","Calcarius ornatus","L66505475","Benton Lake, Power US-MT 47.67759, -111.36065","2026-05-16 14:48",7,47.677587,-111.360651,TRUE,FALSE,TRUE,"S340392331"
-"63","chclon","Chestnut-collared Longspur","Calcarius ornatus","L3931217","Cross Ranch Central Unit (The Nature Conservancy)","2026-05-16 13:38",1,47.2227516,-101.011956,TRUE,FALSE,FALSE,"S340404327"
-"64","chclon","Chestnut-collared Longspur","Calcarius ornatus","L4318610","Bowdoin NWR--second 5 mi. Auto Tour Route","2026-05-16 12:41",1,48.4081921,-107.6499653,TRUE,FALSE,FALSE,"S340384549"
-"65","chclon","Chestnut-collared Longspur","Calcarius ornatus","L66515471","N Shore Rd, Homestead US-MT 48.48397, -104.48956","2026-05-16 11:53",10,48.483971,-104.489556,TRUE,FALSE,TRUE,"S340440882"
-"66","chclon","Chestnut-collared Longspur","Calcarius ornatus","L3717571","Big Tree","2026-05-16 11:26",8,46.5905313,-109.8086011,TRUE,FALSE,TRUE,"S340557894"
-"67","chclon","Chestnut-collared Longspur","Calcarius ornatus","L66116190","27000–27678 County Road 108, Ault US-CO (40.7690,-104.5383)","2026-05-16 10:44",7,40.768956,-104.538298,TRUE,FALSE,TRUE,"S340481639"
-"68","chclon","Chestnut-collared Longspur","Calcarius ornatus","L4740318","Old Gap Road","2026-05-16 10:15",3,46.4722927,-109.8106155,TRUE,FALSE,TRUE,"S341330226"
-"69","chclon","Chestnut-collared Longspur","Calcarius ornatus","L66626616","57532, Fort Pierre US-SD 44.55953, -100.79793","2026-05-16 10:05",1,44.559525,-100.797928,TRUE,FALSE,TRUE,"S341035404"
-"70","chclon","Chestnut-collared Longspur","Calcarius ornatus","L66424387","I-94 W, Tappen US-ND 46.87923, -99.54347","2026-05-16 08:48",1,46.879232,-99.543475,TRUE,FALSE,TRUE,"S340020543"
-"71","chclon","Chestnut-collared Longspur","Calcarius ornatus","L66444528","Chohill Road","2026-05-16 08:33",2,48.319481,-110.193415,TRUE,FALSE,TRUE,"S340121309"
-"72","chclon","Chestnut-collared Longspur","Calcarius ornatus","L3032485","Chalk Bluff Rd.","2026-05-16 07:17",3,41.0524308,-104.6389389,TRUE,FALSE,FALSE,"S340058422"
-"73","chclon","Chestnut-collared Longspur","Calcarius ornatus","L67239123","McKenzie Slough, Sterling US-ND (46.8155,-100.4190)","2026-05-16 07:00",2,46.815492,-100.418993,TRUE,FALSE,TRUE,"S344118794"
-"74","chclon","Chestnut-collared Longspur","Calcarius ornatus","L43908514","53rd Street Southwest, Lefor, North Dakota, US (46.644, -102.49)","2026-05-16 06:10",3,46.6443904,-102.4898653,TRUE,FALSE,TRUE,"S339922386"
-"75","chclon","Chestnut-collared Longspur","Calcarius ornatus","L11951376","5217 96th Avenue Southwest, Lefor, North Dakota, US (46.657, -102.475)","2026-05-16 05:44",1,46.6566644,-102.4748193,TRUE,FALSE,TRUE,"S339889768"
-"76","chclon","Chestnut-collared Longspur","Calcarius ornatus","L4576507","Hwy 8 wetland","2026-05-15 15:40",1,48.23779,-108.454762,TRUE,FALSE,FALSE,"S339702341"
-"77","chclon","Chestnut-collared Longspur","Calcarius ornatus","L66366981","1542–1764 Horse Creek Rd, Circle US-MT 47.49937, -105.89563","2026-05-15 15:06",5,47.49937,-105.895627,TRUE,FALSE,TRUE,"S339725852"
-"78","chclon","Chestnut-collared Longspur","Calcarius ornatus","L66318395","31901–32101 SD-34, Harrold US-SD 44.27363, -99.76082","2026-05-15 13:16",2,44.273631,-99.760815,TRUE,FALSE,TRUE,"S339486603"
-"79","chclon","Chestnut-collared Longspur","Calcarius ornatus","L66316501","SD-34, Highmore US-SD (44.2702,-99.5405)","2026-05-15 13:08",1,44.270205,-99.540456,TRUE,FALSE,TRUE,"S339477905"
-"80","chclon","Chestnut-collared Longspur","Calcarius ornatus","L32171410","Chestnut longspur spot 2024","2026-05-15 13:05",3,38.998021,-104.227884,TRUE,TRUE,TRUE,"S339529359"
-"81","chclon","Chestnut-collared Longspur","Calcarius ornatus","L4604102","Rupert Rd. State Land","2026-05-15 12:36",12,46.0895711,-109.8643112,TRUE,FALSE,TRUE,"S339697250"
-"82","chclon","Chestnut-collared Longspur","Calcarius ornatus","L20770275","Comertown","2026-05-15 12:17",2,48.89842,-104.25072,TRUE,FALSE,FALSE,"S339655938"
-"83","chclon","Chestnut-collared Longspur","Calcarius ornatus","L66299059","320th Ave, Onida US-SD 44.84820, -99.75589","2026-05-15 10:32",1,44.848199,-99.755893,TRUE,FALSE,TRUE,"S339398329"
-"84","chclon","Chestnut-collared Longspur","Calcarius ornatus","L66331083","Judith Gap Rd Area (private property)","2026-05-15 05:58",10,46.613107,-109.708938,TRUE,FALSE,TRUE,"S339546119"
-"85","chclon","Chestnut-collared Longspur","Calcarius ornatus","L66199954","4969–5013 CR-86, Almont US-ND 46.69800, -101.50943","2026-05-14 13:28",1,46.697997,-101.509435,TRUE,FALSE,TRUE,"S338906453"
-"86","chclon","Chestnut-collared Longspur","Calcarius ornatus","L9644406","Pawnee NG Bird Tour—Stops 5-8","2026-05-14 12:24",1,40.683148,-104.410754,TRUE,FALSE,FALSE,"S338941129"
-"87","chclon","Chestnut-collared Longspur","Calcarius ornatus","L754760","Pawnee NG--Pawnee Buttes and area","2026-05-14 05:15",8,40.8016295,-104.0129113,TRUE,FALSE,FALSE,"S338739000"
-"88","chclon","Chestnut-collared Longspur","Calcarius ornatus","L20290525","Buffalo Rd, MT 47.37188, -108.81057","2026-05-13 15:17",14,47.371884,-108.810569,TRUE,FALSE,TRUE,"S338475828"
-"89","chclon","Chestnut-collared Longspur","Calcarius ornatus","L20294880","Cimrhaki Rd., MT 47.37188, -108.81057","2026-05-13 14:47",2,47.390634,-108.8612604,TRUE,FALSE,TRUE,"S338447209"
-"90","chclon","Chestnut-collared Longspur","Calcarius ornatus","L854348","Bentonite Rd.","2026-05-13 13:34",1,48.1843787,-106.8158034,TRUE,FALSE,FALSE,"S338511948"
-"91","chclon","Chestnut-collared Longspur","Calcarius ornatus","L66098406","164th Street, Raymond, South Dakota, US (45.006, -97.865)","2026-05-13 13:32",2,45.0064157,-97.8647964,TRUE,FALSE,TRUE,"S338395160"
-"92","chclon","Chestnut-collared Longspur","Calcarius ornatus","L66103642","650 12E101N, Judith Gap, Montana, US (46.532, -109.819)","2026-05-13 13:13",1,46.531693,-109.8192108,TRUE,FALSE,TRUE,"S338421014"
-"93","chclon","Chestnut-collared Longspur","Calcarius ornatus","L597970","Berguson WPA","2026-05-13 09:29",6,45.64209,-99.18544,TRUE,FALSE,FALSE,"S338326761"
-"94","chclon","Chestnut-collared Longspur","Calcarius ornatus","L23961871","18401–18545 SD-1806, Fort Pierre US-SD 44.60171, -100.79211","2026-05-13 08:42",2,44.601712,-100.792114,TRUE,FALSE,TRUE,"S338327134"
-"95","chclon","Chestnut-collared Longspur","Calcarius ornatus","L19687960","3 - Ranch (Private Property)","2026-05-13 08:18",1,41.2414296,-104.4992372,TRUE,FALSE,TRUE,"S338255913"
-"96","chclon","Chestnut-collared Longspur","Calcarius ornatus","L15833664","Hillsdale4 (Private Land)","2026-05-13 07:40",1,41.2412916,-104.4899252,TRUE,FALSE,TRUE,"S338282774"
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
+"1","calcon","California Condor","Gymnogyps californianus","L1229436","Zion NP--Kolob Reservoir Rd","2026-05-23 13:11",1,37.2976892,-113.0999565,TRUE,FALSE,FALSE,"S344857986",NA
+"2","calcon","California Condor","Gymnogyps californianus","L2443192","Pinnacles NP--Bench Trail","2026-05-23 11:53",2,36.4849543,-121.1672741,TRUE,FALSE,FALSE,"S344928513",NA
+"3","calcon","California Condor","Gymnogyps californianus","L2299857","Pinnacles NP--Bear Gulch Nature Center","2026-05-23 11:24",5,36.4814632,-121.1807306,TRUE,FALSE,FALSE,"S344928236",NA
+"4","calcon","California Condor","Gymnogyps californianus","L821559","Glen Canyon NRA--Navajo Bridge","2026-05-23 09:56",3,36.817626,-111.6312477,TRUE,FALSE,FALSE,"S344706277",NA
+"5","calcon","California Condor","Gymnogyps californianus","L157667","Kolob Reservoir","2026-05-23 09:47",1,37.436527,-113.04785,TRUE,FALSE,FALSE,"S344730514",NA
+"6","calcon","California Condor","Gymnogyps californianus","L67433926","I-5","2026-05-23 09:26",1,34.7390412,-118.7965428,TRUE,FALSE,TRUE,"S345001420",NA
+"7","calcon","California Condor","Gymnogyps californianus","L67371869","Mather Pt, Grand Canyon Village US-AZ 36.05898, -112.10738","2026-05-23 09:18",NA,36.058985,-112.107377,TRUE,FALSE,TRUE,"S344734197",NA
+"8","calcon","California Condor","Gymnogyps californianus","L835068","Vermilion Cliffs--Condor Viewing Site","2026-05-23 08:10",4,36.771,-112.0565,TRUE,FALSE,FALSE,"S344928391",NA
+"9","calcon","California Condor","Gymnogyps californianus","L2427823","Pinnacles NP--Visitor Center","2026-05-21 13:16",2,36.4937287,-121.1462805,TRUE,FALSE,FALSE,"S343662527",NA
+"10","calcon","California Condor","Gymnogyps californianus","L54292735","Zion NP--Observation Point","2026-05-21 12:36",2,37.2780812,-112.9403417,TRUE,FALSE,FALSE,"S343514481",NA
+"11","calcon","California Condor","Gymnogyps californianus","L23802150","Zion NP--Angels Landing Peak (stationary counts)","2026-05-21 12:00",2,37.2695018,-112.9481106,TRUE,FALSE,FALSE,"S343539427",NA
+"12","calcon","California Condor","Gymnogyps californianus","L66926866","Stallion Springs","2026-05-19 12:54",8,35.0732861,-118.6287524,TRUE,FALSE,TRUE,"S342573330",NA
+"13","calcon","California Condor","Gymnogyps californianus","L1053553","Pinnacles NP--Condor Gulch Trail","2026-05-19 09:09",4,36.4855387,-121.1927605,TRUE,FALSE,FALSE,"S342492596",NA
+"14","calcon","California Condor","Gymnogyps californianus","L3871674","Grand Canyon NP--Visitor Center","2026-05-18 16:29",1,36.0589308,-112.1092182,TRUE,FALSE,FALSE,"S342030802",NA
+"15","calcon","California Condor","Gymnogyps californianus","L6360062","Orick (town)","2026-05-18 15:28",2,41.2863526,-124.0598059,TRUE,TRUE,FALSE,"S342065590","P"
+"16","calcon","California Condor","Gymnogyps californianus","L24121272","Redwood NP--Dolason Prairie Picnic Area","2026-05-18 13:18",2,41.205458,-123.950758,TRUE,TRUE,FALSE,"S341940642","P"
+"17","calcon","California Condor","Gymnogyps californianus","L5655832","Zion NP--Big Bend","2026-05-18 13:05",1,37.2733015,-112.9457617,TRUE,FALSE,FALSE,"S342028191",NA
+"18","calcon","California Condor","Gymnogyps californianus","L67021104","Zion National Park","2026-05-18 13:00",1,37.238211,-112.958678,TRUE,FALSE,TRUE,"S343046930",NA
+"19","calcon","California Condor","Gymnogyps californianus","L66937289","Zion Canyon Scenic Dr, Virgin US-UT 37.27696, -112.94593","2026-05-18 12:00",1,37.276962,-112.945932,TRUE,FALSE,TRUE,"S342626093",NA
+"20","calcon","California Condor","Gymnogyps californianus","L9789223","Zion Lodge","2026-05-18 11:47",1,37.2504228,-112.9571072,TRUE,FALSE,FALSE,"S341881065",NA
+"21","calcon","California Condor","Gymnogyps californianus","L302299","Pinnacles NP","2026-05-18 09:32",5,36.4891359,-121.1843199,TRUE,FALSE,FALSE,"S341929491",NA
+"22","calcon","California Condor","Gymnogyps californianus","L1803495","Pinnacles NP--West Side Visitor Station (SBT Co.)","2026-05-18 08:59",1,36.477557,-121.2255891,TRUE,FALSE,FALSE,"S341977899",NA
+"23","calcon","California Condor","Gymnogyps californianus","L973579","Pinnacles NP--Chaparral Trailhead Parking","2026-05-17 11:30",1,36.4913697,-121.2092829,TRUE,FALSE,FALSE,"S341470673",NA
+"24","calcon","California Condor","Gymnogyps californianus","L1053551","Pinnacles NP--High Peaks Trail (steep narrow section)","2026-05-17 09:55",5,36.4841154,-121.1979854,TRUE,FALSE,FALSE,"S341143811",NA
+"25","calcon","California Condor","Gymnogyps californianus","L1053539","Pinnacles NP--Rim & South High Peaks Trail","2026-05-17 06:48",6,36.477171,-121.1872673,TRUE,FALSE,FALSE,"S341114275",NA
+"26","calcon","California Condor","Gymnogyps californianus","L66532979","1212 Zion Park Blvd, Springdale US-UT 37.18441, -113.00305","2026-05-16 19:11",3,37.18441,-113.003052,TRUE,FALSE,TRUE,"S340532208",NA
+"27","calcon","California Condor","Gymnogyps californianus","L479492","Big Sur coast--Grimes Pt.","2026-05-16 18:59",1,36.2055508,-121.7354894,TRUE,FALSE,FALSE,"S340560080",NA
+"28","calcon","California Condor","Gymnogyps californianus","L21146135","Pinnacles NP--Peaks View","2026-05-16 18:12",4,36.4825475,-121.161959,TRUE,FALSE,FALSE,"S340551662",NA
+"29","calcon","California Condor","Gymnogyps californianus","L8334289","Pinnacles NP--Blue Oak Trail","2026-05-16 14:46",2,36.4917816,-121.1805429,TRUE,FALSE,FALSE,"S340552773",NA
+"30","calcon","California Condor","Gymnogyps californianus","L66517613","Bald Hills Rd — Counts Hill Prairie","2026-05-16 11:53",1,41.185802,-123.926935,TRUE,TRUE,TRUE,"S340451652","P"
+"31","calcon","California Condor","Gymnogyps californianus","L854917","Pinnacles NP--Bear Gulch Reservoir","2026-05-16 11:34",2,36.4723052,-121.187911,TRUE,FALSE,FALSE,"S340356296",NA
+"32","calcon","California Condor","Gymnogyps californianus","L832838","Pinnacles NP--campground","2026-05-16 10:29",5,36.4908694,-121.1476135,TRUE,FALSE,FALSE,"S340544179",NA
+"33","calcon","California Condor","Gymnogyps californianus","L631087","Lake Piru Recreation Area","2026-05-16 08:09",2,34.47445,-118.7614,TRUE,FALSE,FALSE,"S340172904",NA
+"34","calcon","California Condor","Gymnogyps californianus","L1342739","Zion NP--Angel's Landing Trail","2026-05-15 16:59",2,37.2646665,-112.9505291,TRUE,FALSE,FALSE,"S339630035",NA
+"35","calcon","California Condor","Gymnogyps californianus","L2039947","Big Sur coast--Esalen (restricted access)","2026-05-15 09:11",1,36.1270042,-121.6418749,TRUE,FALSE,FALSE,"S339595375",NA
+"36","calcon","California Condor","Gymnogyps californianus","L317501","Pfeiffer Big Sur SP","2026-05-14 14:17",1,36.2496724,-121.7794991,TRUE,FALSE,FALSE,"S339397696",NA
+"37","calcon","California Condor","Gymnogyps californianus","L595412","Bald Hills Rd. (general)","2026-05-14 12:46",2,41.1899929,-123.9324114,TRUE,TRUE,FALSE,"S339057807","P"
+"38","calcon","California Condor","Gymnogyps californianus","L796406","Quatal Canyon (VEN Co.)","2026-05-14 07:42",1,34.8198633,-119.402504,TRUE,FALSE,FALSE,"S339099663",NA
