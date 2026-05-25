@@ -1,39 +1,33 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
-"1","calcon","California Condor","Gymnogyps californianus","L1229436","Zion NP--Kolob Reservoir Rd","2026-05-23 13:11",1,37.2976892,-113.0999565,TRUE,FALSE,FALSE,"S344857986",NA
-"2","calcon","California Condor","Gymnogyps californianus","L2443192","Pinnacles NP--Bench Trail","2026-05-23 11:53",2,36.4849543,-121.1672741,TRUE,FALSE,FALSE,"S344928513",NA
-"3","calcon","California Condor","Gymnogyps californianus","L2299857","Pinnacles NP--Bear Gulch Nature Center","2026-05-23 11:24",5,36.4814632,-121.1807306,TRUE,FALSE,FALSE,"S344928236",NA
-"4","calcon","California Condor","Gymnogyps californianus","L821559","Glen Canyon NRA--Navajo Bridge","2026-05-23 09:56",3,36.817626,-111.6312477,TRUE,FALSE,FALSE,"S344706277",NA
-"5","calcon","California Condor","Gymnogyps californianus","L157667","Kolob Reservoir","2026-05-23 09:47",1,37.436527,-113.04785,TRUE,FALSE,FALSE,"S344730514",NA
-"6","calcon","California Condor","Gymnogyps californianus","L67433926","I-5","2026-05-23 09:26",1,34.7390412,-118.7965428,TRUE,FALSE,TRUE,"S345001420",NA
-"7","calcon","California Condor","Gymnogyps californianus","L67371869","Mather Pt, Grand Canyon Village US-AZ 36.05898, -112.10738","2026-05-23 09:18",NA,36.058985,-112.107377,TRUE,FALSE,TRUE,"S344734197",NA
-"8","calcon","California Condor","Gymnogyps californianus","L835068","Vermilion Cliffs--Condor Viewing Site","2026-05-23 08:10",4,36.771,-112.0565,TRUE,FALSE,FALSE,"S344928391",NA
-"9","calcon","California Condor","Gymnogyps californianus","L2427823","Pinnacles NP--Visitor Center","2026-05-21 13:16",2,36.4937287,-121.1462805,TRUE,FALSE,FALSE,"S343662527",NA
-"10","calcon","California Condor","Gymnogyps californianus","L54292735","Zion NP--Observation Point","2026-05-21 12:36",2,37.2780812,-112.9403417,TRUE,FALSE,FALSE,"S343514481",NA
-"11","calcon","California Condor","Gymnogyps californianus","L23802150","Zion NP--Angels Landing Peak (stationary counts)","2026-05-21 12:00",2,37.2695018,-112.9481106,TRUE,FALSE,FALSE,"S343539427",NA
-"12","calcon","California Condor","Gymnogyps californianus","L66926866","Stallion Springs","2026-05-19 12:54",8,35.0732861,-118.6287524,TRUE,FALSE,TRUE,"S342573330",NA
-"13","calcon","California Condor","Gymnogyps californianus","L1053553","Pinnacles NP--Condor Gulch Trail","2026-05-19 09:09",4,36.4855387,-121.1927605,TRUE,FALSE,FALSE,"S342492596",NA
-"14","calcon","California Condor","Gymnogyps californianus","L3871674","Grand Canyon NP--Visitor Center","2026-05-18 16:29",1,36.0589308,-112.1092182,TRUE,FALSE,FALSE,"S342030802",NA
-"15","calcon","California Condor","Gymnogyps californianus","L6360062","Orick (town)","2026-05-18 15:28",2,41.2863526,-124.0598059,TRUE,TRUE,FALSE,"S342065590","P"
-"16","calcon","California Condor","Gymnogyps californianus","L24121272","Redwood NP--Dolason Prairie Picnic Area","2026-05-18 13:18",2,41.205458,-123.950758,TRUE,TRUE,FALSE,"S341940642","P"
-"17","calcon","California Condor","Gymnogyps californianus","L5655832","Zion NP--Big Bend","2026-05-18 13:05",1,37.2733015,-112.9457617,TRUE,FALSE,FALSE,"S342028191",NA
-"18","calcon","California Condor","Gymnogyps californianus","L67021104","Zion National Park","2026-05-18 13:00",1,37.238211,-112.958678,TRUE,FALSE,TRUE,"S343046930",NA
-"19","calcon","California Condor","Gymnogyps californianus","L66937289","Zion Canyon Scenic Dr, Virgin US-UT 37.27696, -112.94593","2026-05-18 12:00",1,37.276962,-112.945932,TRUE,FALSE,TRUE,"S342626093",NA
-"20","calcon","California Condor","Gymnogyps californianus","L9789223","Zion Lodge","2026-05-18 11:47",1,37.2504228,-112.9571072,TRUE,FALSE,FALSE,"S341881065",NA
-"21","calcon","California Condor","Gymnogyps californianus","L302299","Pinnacles NP","2026-05-18 09:32",5,36.4891359,-121.1843199,TRUE,FALSE,FALSE,"S341929491",NA
-"22","calcon","California Condor","Gymnogyps californianus","L1803495","Pinnacles NP--West Side Visitor Station (SBT Co.)","2026-05-18 08:59",1,36.477557,-121.2255891,TRUE,FALSE,FALSE,"S341977899",NA
-"23","calcon","California Condor","Gymnogyps californianus","L973579","Pinnacles NP--Chaparral Trailhead Parking","2026-05-17 11:30",1,36.4913697,-121.2092829,TRUE,FALSE,FALSE,"S341470673",NA
-"24","calcon","California Condor","Gymnogyps californianus","L1053551","Pinnacles NP--High Peaks Trail (steep narrow section)","2026-05-17 09:55",5,36.4841154,-121.1979854,TRUE,FALSE,FALSE,"S341143811",NA
-"25","calcon","California Condor","Gymnogyps californianus","L1053539","Pinnacles NP--Rim & South High Peaks Trail","2026-05-17 06:48",6,36.477171,-121.1872673,TRUE,FALSE,FALSE,"S341114275",NA
-"26","calcon","California Condor","Gymnogyps californianus","L66532979","1212 Zion Park Blvd, Springdale US-UT 37.18441, -113.00305","2026-05-16 19:11",3,37.18441,-113.003052,TRUE,FALSE,TRUE,"S340532208",NA
-"27","calcon","California Condor","Gymnogyps californianus","L479492","Big Sur coast--Grimes Pt.","2026-05-16 18:59",1,36.2055508,-121.7354894,TRUE,FALSE,FALSE,"S340560080",NA
-"28","calcon","California Condor","Gymnogyps californianus","L21146135","Pinnacles NP--Peaks View","2026-05-16 18:12",4,36.4825475,-121.161959,TRUE,FALSE,FALSE,"S340551662",NA
-"29","calcon","California Condor","Gymnogyps californianus","L8334289","Pinnacles NP--Blue Oak Trail","2026-05-16 14:46",2,36.4917816,-121.1805429,TRUE,FALSE,FALSE,"S340552773",NA
-"30","calcon","California Condor","Gymnogyps californianus","L66517613","Bald Hills Rd — Counts Hill Prairie","2026-05-16 11:53",1,41.185802,-123.926935,TRUE,TRUE,TRUE,"S340451652","P"
-"31","calcon","California Condor","Gymnogyps californianus","L854917","Pinnacles NP--Bear Gulch Reservoir","2026-05-16 11:34",2,36.4723052,-121.187911,TRUE,FALSE,FALSE,"S340356296",NA
-"32","calcon","California Condor","Gymnogyps californianus","L832838","Pinnacles NP--campground","2026-05-16 10:29",5,36.4908694,-121.1476135,TRUE,FALSE,FALSE,"S340544179",NA
-"33","calcon","California Condor","Gymnogyps californianus","L631087","Lake Piru Recreation Area","2026-05-16 08:09",2,34.47445,-118.7614,TRUE,FALSE,FALSE,"S340172904",NA
-"34","calcon","California Condor","Gymnogyps californianus","L1342739","Zion NP--Angel's Landing Trail","2026-05-15 16:59",2,37.2646665,-112.9505291,TRUE,FALSE,FALSE,"S339630035",NA
-"35","calcon","California Condor","Gymnogyps californianus","L2039947","Big Sur coast--Esalen (restricted access)","2026-05-15 09:11",1,36.1270042,-121.6418749,TRUE,FALSE,FALSE,"S339595375",NA
-"36","calcon","California Condor","Gymnogyps californianus","L317501","Pfeiffer Big Sur SP","2026-05-14 14:17",1,36.2496724,-121.7794991,TRUE,FALSE,FALSE,"S339397696",NA
-"37","calcon","California Condor","Gymnogyps californianus","L595412","Bald Hills Rd. (general)","2026-05-14 12:46",2,41.1899929,-123.9324114,TRUE,TRUE,FALSE,"S339057807","P"
-"38","calcon","California Condor","Gymnogyps californianus","L796406","Quatal Canyon (VEN Co.)","2026-05-14 07:42",1,34.8198633,-119.402504,TRUE,FALSE,FALSE,"S339099663",NA
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
+"1","layalb","Laysan Albatross","Phoebastria immutabilis","L285807","Ka'ena Point NAR","2026-05-24 18:17",2,21.5742024,-158.2777119,TRUE,FALSE,FALSE,"S346000695"
+"2","layalb","Laysan Albatross","Phoebastria immutabilis","L7291453","Green Island, Kure Atoll (restricted access)","2026-05-24 18:01",NA,28.392533,-178.2939005,TRUE,FALSE,FALSE,"S346015859"
+"3","layalb","Laysan Albatross","Phoebastria immutabilis","L67617118","Auto selected 44.00062, -124.40045","2026-05-24 13:57",1,44.000617,-124.400454,TRUE,FALSE,TRUE,"S345846867"
+"4","layalb","Laysan Albatross","Phoebastria immutabilis","L268250","Adak Island","2026-05-24 13:26",2,51.8941856,-176.6443634,TRUE,FALSE,FALSE,"S345995892"
+"5","layalb","Laysan Albatross","Phoebastria immutabilis","L266182","Kilauea Point NWR","2026-05-24 11:04",2,22.2316072,-159.4019778,TRUE,FALSE,FALSE,"S345811720"
+"6","layalb","Laysan Albatross","Phoebastria immutabilis","L3315515","Kiska Island","2026-05-24 10:22",3,52.0127818,177.5349426,TRUE,FALSE,FALSE,"S345890461"
+"7","layalb","Laysan Albatross","Phoebastria immutabilis","L67436994","Adak to Kiska via Tiglax, Day 1, Incidental 1 - 5/23/26","2026-05-23 15:33",6,51.6969284,-178.9771172,TRUE,FALSE,TRUE,"S345014943"
+"8","layalb","Laysan Albatross","Phoebastria immutabilis","L67413521","Adak to Kiska via Tiglax, Day 1, Leg 1 - 5/23/26","2026-05-23 11:14",24,51.960475,-177.953253,TRUE,FALSE,TRUE,"S344912354"
+"9","layalb","Laysan Albatross","Phoebastria immutabilis","L67401536","North Pacific Ocean US-AK (51.9613,-176.1735)","2026-05-22 23:46",1,51.961332,-176.173524,TRUE,FALSE,TRUE,"S344927816"
+"10","layalb","Laysan Albatross","Phoebastria immutabilis","L875376","Turtle Bay Resort, 'O'ahu","2026-05-22 14:50",4,21.7051636,-157.9987192,TRUE,FALSE,FALSE,"S344278341"
+"11","layalb","Laysan Albatross","Phoebastria immutabilis","L67363556","Auto selected 51.94147, -176.35092","2026-05-22 14:21",1,51.941472,-176.350923,TRUE,FALSE,TRUE,"S344698477"
+"12","layalb","Laysan Albatross","Phoebastria immutabilis","L7119675","Little Tanaga Strait","2026-05-22 12:15",1,51.8423867,-176.2466079,TRUE,FALSE,FALSE,"S345079634"
+"13","layalb","Laysan Albatross","Phoebastria immutabilis","L38809511","Princeville Neighborhood (General)","2026-05-22 11:40",2,22.2271855,-159.47762,TRUE,FALSE,FALSE,"S344281715"
+"14","layalb","Laysan Albatross","Phoebastria immutabilis","L67242001","Aiktak to Adak via Tiglax, Day 3, Leg 1 - 5/22/26","2026-05-22 11:08",32,52.557881,-172.525388,TRUE,FALSE,TRUE,"S344130334"
+"15","layalb","Laysan Albatross","Phoebastria immutabilis","L602318","Offshore (SLO Co.)","2026-05-22 07:47",1,35.4704382,-121.6156311,TRUE,FALSE,FALSE,"S344273016"
+"16","layalb","Laysan Albatross","Phoebastria immutabilis","L67262109","Caspar Highspot (underwater bank)","2026-05-22 07:13",2,39.3532102,-123.8812481,TRUE,FALSE,TRUE,"S344059540"
+"17","layalb","Laysan Albatross","Phoebastria immutabilis","L67153680","Aiktak to Adak via Tiglax, Day 2, Leg 2 - 5/21/26","2026-05-21 19:52",20,52.9388672,-169.7951154,TRUE,FALSE,TRUE,"S343705953"
+"18","layalb","Laysan Albatross","Phoebastria immutabilis","L67151588","Aiktak to Adak via Tiglax, Day 2, Leg 1 - 5/21/26","2026-05-21 18:50",7,52.9369864,-169.5191472,TRUE,FALSE,TRUE,"S343710947"
+"19","layalb","Laysan Albatross","Phoebastria immutabilis","L67137126","Aiktak to Adak via Tiglax, Day 2, Incidental 3 - 5/21/26","2026-05-21 14:56",4,53.2297613,-168.9989465,TRUE,FALSE,TRUE,"S343625569"
+"20","layalb","Laysan Albatross","Phoebastria immutabilis","L8027824","Kīlauea Point NWR--Overlook (always open)","2026-05-21 12:09",4,22.2277391,-159.4012624,TRUE,FALSE,FALSE,"S343633850"
+"21","layalb","Laysan Albatross","Phoebastria immutabilis","L67115375","Chowiet to Aiktak via Tiglax, Day 2, Incidental","2026-05-21 11:02",3,53.432969,-168.535877,TRUE,FALSE,TRUE,"S343519759"
+"22","layalb","Laysan Albatross","Phoebastria immutabilis","L9648770","Kahili Beach Preserve (Rock Quarry)","2026-05-21 10:50",1,22.2180049,-159.3853334,TRUE,FALSE,FALSE,"S343733421"
+"23","layalb","Laysan Albatross","Phoebastria immutabilis","L38977976","Adak Island--city limits (east of airport)","2026-05-21 07:45",8,51.8764454,-176.6334005,TRUE,FALSE,FALSE,"S343956526"
+"24","layalb","Laysan Albatross","Phoebastria immutabilis","L67123397","Ka'ena Point State Park, Waialua US-HI (21.5748,-158.2777)","2026-05-21 07:36",1,21.574768,-158.27773,TRUE,FALSE,TRUE,"S343558225"
+"25","layalb","Laysan Albatross","Phoebastria immutabilis","L66936029","Auto selected 55.91457, -157.28253","2026-05-18 20:51",1,55.914567,-157.282534,TRUE,FALSE,TRUE,"S342620477"
+"26","layalb","Laysan Albatross","Phoebastria immutabilis","L830622","Lehua Islet","2026-05-18 08:30",20,22.0118939,-160.0947046,TRUE,FALSE,FALSE,"S343720147"
+"27","layalb","Laysan Albatross","Phoebastria immutabilis","L66936555","Homer to Chowiet via Tiglax, Day 1, Leg 5 - 5/17/26","2026-05-17 13:08",1,58.7178917,-152.6440024,TRUE,FALSE,TRUE,"S342622859"
+"28","layalb","Laysan Albatross","Phoebastria immutabilis","L66721259","Midway Atoll National Wildlife Refuge (28.1592,-177.3884)","2026-05-17 07:15",2000,28.159169,-177.388374,TRUE,FALSE,TRUE,"S341493557"
+"29","layalb","Laysan Albatross","Phoebastria immutabilis","L109309","Pt. Pinos--seawatch only","2026-05-16 11:48",1,36.6373821,-121.9357538,TRUE,TRUE,FALSE,"S340540625"
+"30","layalb","Laysan Albatross","Phoebastria immutabilis","L19347455","Princeville Makai Golf Course","2026-05-16 07:01",9,22.2202636,-159.4802692,TRUE,FALSE,FALSE,"S340293684"
+"31","layalb","Laysan Albatross","Phoebastria immutabilis","L270792","Shemya Island--Eareckson AS (restricted access)","2026-05-15 15:40",2,52.7207244,174.1123276,TRUE,FALSE,FALSE,"S339717134"
+"32","layalb","Laysan Albatross","Phoebastria immutabilis","L66361644","Princeville area","2026-05-15 15:05",1,22.2193804,-159.4798964,TRUE,FALSE,TRUE,"S339704084"
