@@ -1,7 +1,2 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
-"1","chfmac1","Chestnut-fronted Macaw","Ara severus","L127426","Fairchild Tropical Botanic Garden","2026-06-02 15:43",1,25.6764,-80.2713,TRUE,FALSE,FALSE,"S351513298","P"
-"2","chfmac1","Chestnut-fronted Macaw","Ara severus","L29274526","Betty’s Yard","2026-06-02 06:44",2,25.670335,-80.309328,TRUE,FALSE,TRUE,"S351280839","P"
-"3","chfmac1","Chestnut-fronted Macaw","Ara severus","L127425","Matheson Hammock Park","2026-05-29 13:34",2,25.6806539,-80.2726364,TRUE,FALSE,FALSE,"S349094955","P"
-"4","chfmac1","Chestnut-fronted Macaw","Ara severus","L51410416","backyard","2026-05-27 18:43",1,25.6683159,-80.3136393,TRUE,FALSE,TRUE,"S347948249","P"
-"5","chfmac1","Chestnut-fronted Macaw","Ara severus","L16019847","Betty’s Yard","2026-05-26 08:03",4,25.6704256,-80.3094112,TRUE,FALSE,TRUE,"S347059794","P"
-"6","chfmac1","Chestnut-fronted Macaw","Ara severus","L14386129","SW 60th St, Miami US-FL 25.71446, -80.30741","2026-05-26 07:32",2,25.714457,-80.307411,TRUE,FALSE,TRUE,"S347029725","P"
+"1","x00754","House x Eurasian Tree Sparrow (hybrid)","Passer domesticus x montanus","L890181","Lye Creek Prairie Burn, aka The Burn","2026-05-26 13:06",1,40.1334128,-86.8616867,TRUE,TRUE,FALSE,"S347287982","N"
