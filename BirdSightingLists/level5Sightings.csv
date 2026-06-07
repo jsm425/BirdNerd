@@ -1,2 +1,2 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
-"1","gnlthr","Greater Necklaced Laughingthrush","Pterorhinus pectoralis","L4796177","Sleeping Giant--Nounou East Trail","2026-06-02 09:14",1,22.0619372,-159.3489861,TRUE,FALSE,FALSE,"S351507764","N"
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
+"1","smew","Smew","Mergellus albellus","L270792","Shemya Island--Eareckson AS (restricted access)","2026-05-29 09:15",1,52.7207244,174.1123276,TRUE,TRUE,FALSE,"S352427007"
