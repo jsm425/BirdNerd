@@ -1,2 +1,4 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","smew","Smew","Mergellus albellus","L270792","Shemya Island--Eareckson AS (restricted access)","2026-05-29 09:15",1,52.7207244,174.1123276,TRUE,TRUE,FALSE,"S352427007"
+"1","hawcre","Hawaii Creeper","Loxops mana","L695639","Hakalau Forest NWR--Pua Akala Tract (restricted access)","2026-06-04 10:30",11,19.7895,-155.3262,TRUE,TRUE,FALSE,"S352534688"
+"2","hawcre","Hawaii Creeper","Loxops mana","L67979739","Hakalau Forest National Wildlife Refuge, Hilo US-HI 19.78971, -155.33108","2026-06-04 10:01",12,19.789707,-155.331076,TRUE,TRUE,TRUE,"S353067484"
+"3","hawcre","Hawaii Creeper","Loxops mana","L366605","Pu'u O'o Trail, Kipuka Ainahou section (first 2 miles)","2026-05-30 10:06",1,19.6714434,-155.3849602,TRUE,TRUE,FALSE,"S349844418"
