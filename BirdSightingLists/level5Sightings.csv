@@ -1,2 +1,5 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","x00613","Ring-necked Duck x Lesser Scaup (hybrid)","Aythya collaris x affinis","L4647937","Cedar Point Biological Station","2026-06-01 08:43",1,41.2095019,-101.6477233,TRUE,TRUE,FALSE,"S351053909"
+"1","akepa1","Hawaii Akepa","Loxops coccineus","L695639","Hakalau Forest NWR--Pua Akala Tract (restricted access)","2026-06-10 08:14",3,19.7895,-155.3262,TRUE,TRUE,FALSE,"S355602645"
+"2","akepa1","Hawaii Akepa","Loxops coccineus","L69522658","Hakalau Forest National Wildlife Refuge, Hilo US-HI 19.79067, -155.32862","2026-06-08 13:43",2,19.790671,-155.328617,TRUE,TRUE,TRUE,"S354782906"
+"3","akepa1","Hawaii Akepa","Loxops coccineus","L69514535","Hakalau Forest National Wildlife Refuge, Hilo US-HI 19.78993, -155.33160","2026-06-08 09:28",3,19.789932,-155.331602,TRUE,TRUE,TRUE,"S354741962"
+"4","akepa1","Hawaii Akepa","Loxops coccineus","L67979739","Hakalau Forest National Wildlife Refuge, Hilo US-HI 19.78971, -155.33108","2026-06-04 10:01",4,19.789707,-155.331076,TRUE,TRUE,TRUE,"S353067484"

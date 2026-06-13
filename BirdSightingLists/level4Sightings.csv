@@ -1,46 +1,54 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","x00004","Mallard x American Black Duck (hybrid)","Anas platyrhynchos x rubripes","L43347298","Neighborhood","2026-06-10 08:53",1,39.71476,-75.708609,TRUE,FALSE,TRUE,"S355452396"
-"2","x00004","Mallard x American Black Duck (hybrid)","Anas platyrhynchos x rubripes","L69102492","Delaware River Between Thompson Neely And Soldiers Graves, New Hope, Pennsylvania, US","2026-06-10 07:00",1,40.3322075,-74.9365086,TRUE,FALSE,TRUE,"S355546412"
-"3","x00004","Mallard x American Black Duck (hybrid)","Anas platyrhynchos x rubripes","L129046","Plum Island--Parker River NWR & Sandy Pt. State Reservation","2026-06-10 05:15",1,42.74735,-70.80824,TRUE,FALSE,FALSE,"S355441848"
-"4","x00004","Mallard x American Black Duck (hybrid)","Anas platyrhynchos x rubripes","L31938904","Isle Royale NP--Mott Island","2026-06-09 20:24",1,48.1121828,-88.5344,TRUE,FALSE,FALSE,"S355529847"
-"5","x00004","Mallard x American Black Duck (hybrid)","Anas platyrhynchos x rubripes","L2402215","Turners Falls--Unity Park","2026-06-09 17:44",1,42.6067372,-72.551651,TRUE,FALSE,FALSE,"S355156254"
-"6","x00004","Mallard x American Black Duck (hybrid)","Anas platyrhynchos x rubripes","L109516","Prospect Park","2026-06-09 13:44",1,40.6602841,-73.9689534,TRUE,FALSE,FALSE,"S355116308"
-"7","x00004","Mallard x American Black Duck (hybrid)","Anas platyrhynchos x rubripes","L780746","Vinalhaven--Lane's Island Preserve (TNC)","2026-06-09 13:38",3,44.0378278,-68.832382,TRUE,FALSE,FALSE,"S355119698"
-"8","x00004","Mallard x American Black Duck (hybrid)","Anas platyrhynchos x rubripes","L448190","Scarborough Marsh--Pelreco Building","2026-06-09 10:18",1,43.5435712,-70.3495789,TRUE,FALSE,FALSE,"S355026615"
-"9","x00004","Mallard x American Black Duck (hybrid)","Anas platyrhynchos x rubripes","L69509967","18 N Jefferson St, West Carthage US-NY 43.97470, -75.61842","2026-06-08 17:47",1,43.974705,-75.618422,TRUE,FALSE,TRUE,"S354720120"
-"10","x00004","Mallard x American Black Duck (hybrid)","Anas platyrhynchos x rubripes","L109136","Cape Island--South Cape May Meadows (SCMM)","2026-06-08 10:51",1,38.9359287,-74.9434519,TRUE,FALSE,FALSE,"S354587653"
-"11","x00004","Mallard x American Black Duck (hybrid)","Anas platyrhynchos x rubripes","L487186","Hart-Miller Island","2026-06-08 07:15",1,39.2487391,-76.3652802,TRUE,FALSE,FALSE,"S354664725"
-"12","x00004","Mallard x American Black Duck (hybrid)","Anas platyrhynchos x rubripes","L23588716","Worlds End (TTOR)--Damde Meadows Tidal Marsh","2026-06-07 16:12",1,42.2584447,-70.8740044,TRUE,FALSE,FALSE,"S354189861"
-"13","x00004","Mallard x American Black Duck (hybrid)","Anas platyrhynchos x rubripes","L1273673","Acadia NP--Seawall Pond","2026-06-07 11:07",6,44.2426166,-68.299427,TRUE,FALSE,FALSE,"S354003556"
-"14","x00004","Mallard x American Black Duck (hybrid)","Anas platyrhynchos x rubripes","L33140907","Route 600 to New Point Comfort","2026-06-07 09:22",3,37.328011,-76.2808461,TRUE,FALSE,TRUE,"S354244009"
-"15","x00004","Mallard x American Black Duck (hybrid)","Anas platyrhynchos x rubripes","L1025768","Franklin Delano Roosevelt (FDR) Park","2026-06-07 08:26",1,39.9027901,-75.1819754,TRUE,FALSE,FALSE,"S353945561"
-"16","x00004","Mallard x American Black Duck (hybrid)","Anas platyrhynchos x rubripes","L191106","Central Park","2026-06-07 07:32",1,40.7715482,-73.9724819,TRUE,FALSE,FALSE,"S353904484"
-"17","x00004","Mallard x American Black Duck (hybrid)","Anas platyrhynchos x rubripes","L598944","Blackwater NWR--Wildlife Drive","2026-06-07 06:03",1,38.4456871,-76.0915446,TRUE,FALSE,FALSE,"S353853245"
-"18","x00004","Mallard x American Black Duck (hybrid)","Anas platyrhynchos x rubripes","L69304570","67–99 W Starr Ave, Long Beach Township US-NJ 39.54415, -74.25767","2026-06-07 06:01",1,39.544145,-74.257672,TRUE,FALSE,TRUE,"S353807374"
-"19","x00004","Mallard x American Black Duck (hybrid)","Anas platyrhynchos x rubripes","L8082660","Pea Island NWR--New Field Pond Platform","2026-06-07 06:00",4,35.7023132,-75.488955,TRUE,FALSE,TRUE,"S354216915"
-"20","x00004","Mallard x American Black Duck (hybrid)","Anas platyrhynchos x rubripes","L6866343","Mill River Park - Stamford","2026-06-06 15:09",1,41.054479,-73.544341,TRUE,FALSE,FALSE,"S353516383"
-"21","x00004","Mallard x American Black Duck (hybrid)","Anas platyrhynchos x rubripes","L765570","Central Park--The Pond and Hallett Sanctuary","2026-06-06 13:10",1,40.7662497,-73.9743751,TRUE,FALSE,FALSE,"S353482572"
-"22","x00004","Mallard x American Black Duck (hybrid)","Anas platyrhynchos x rubripes","L365394","Pea Island NWR--South Pond","2026-06-06 09:08",1,35.693971,-75.485696,TRUE,FALSE,FALSE,"S354981335"
-"23","x00004","Mallard x American Black Duck (hybrid)","Anas platyrhynchos x rubripes","L8227740","Riverside Yacht Club, Riverside, CT, US (41.043, -73.582)","2026-06-06 07:31",1,41.0228151,-73.5924637,TRUE,FALSE,TRUE,"S353201080"
-"24","x00004","Mallard x American Black Duck (hybrid)","Anas platyrhynchos x rubripes","L444485","Plumb Beach","2026-06-06 07:30",1,40.5823284,-73.9153746,TRUE,FALSE,FALSE,"S353391984"
-"25","x00004","Mallard x American Black Duck (hybrid)","Anas platyrhynchos x rubripes","L68873394","Waukesha Riverwalk - Barstow St Dam","2026-06-05 14:40",NA,43.0135453,-88.2290496,TRUE,FALSE,TRUE,"S352933763"
-"26","x00004","Mallard x American Black Duck (hybrid)","Anas platyrhynchos x rubripes","L280466","Greensprings Interpretive Trail","2026-06-05 08:59",1,37.2495271,-76.7872925,TRUE,FALSE,FALSE,"S352753376"
-"27","x00004","Mallard x American Black Duck (hybrid)","Anas platyrhynchos x rubripes","L28115925","Farm Pond off of Jerdens Lane","2026-06-05 08:16",1,42.6511699,-70.6129138,TRUE,FALSE,TRUE,"S352688972"
-"28","x00004","Mallard x American Black Duck (hybrid)","Anas platyrhynchos x rubripes","L14874886","Sheriff’s Meadow Sanctuary--John Butler's Mudhole","2026-06-04 14:46",1,41.3958945,-70.5134408,TRUE,FALSE,FALSE,"S352399650"
-"29","x00004","Mallard x American Black Duck (hybrid)","Anas platyrhynchos x rubripes","L8585617","Woodlawn Cemetery","2026-06-04 12:29",9,42.441783,-83.1260791,TRUE,TRUE,FALSE,"S352347035"
-"30","x00004","Mallard x American Black Duck (hybrid)","Anas platyrhynchos x rubripes","L3578568","Patriot Park","2026-06-03 12:57",1,35.7875033,-83.5516756,TRUE,FALSE,FALSE,"S351897875"
-"31","x00004","Mallard x American Black Duck (hybrid)","Anas platyrhynchos x rubripes","L4106617","Oyster Shell Park","2026-06-03 12:09",2,41.1053551,-73.4153867,TRUE,FALSE,FALSE,"S351886303"
-"32","x00004","Mallard x American Black Duck (hybrid)","Anas platyrhynchos x rubripes","L318103","Central Park--The Pool","2026-06-03 09:15",1,40.7947416,-73.9606707,TRUE,FALSE,FALSE,"S351796422"
-"33","x00004","Mallard x American Black Duck (hybrid)","Anas platyrhynchos x rubripes","L1555375","Pea Island NWR--Salt Flats Wildlife Trail","2026-06-03 06:55",1,35.7355509,-75.5053226,TRUE,FALSE,FALSE,"S351728204"
-"34","x00004","Mallard x American Black Duck (hybrid)","Anas platyrhynchos x rubripes","L389007","Richard W. DeKorte Park","2026-06-03 06:00",1,40.7833,-74.1025167,TRUE,FALSE,FALSE,"S351738467"
-"35","x00004","Mallard x American Black Duck (hybrid)","Anas platyrhynchos x rubripes","L48223753","18 Washington Avenue, Topping, Virginia, US (37.606, -76.436)","2026-06-02 16:44",1,37.6063305,-76.4355409,TRUE,FALSE,TRUE,"S351523381"
-"36","x00004","Mallard x American Black Duck (hybrid)","Anas platyrhynchos x rubripes","L20552946","Boston Pond Nature Area","2026-06-02 16:08",1,47.1690882,-88.5186076,TRUE,FALSE,FALSE,"S351499096"
-"37","x00004","Mallard x American Black Duck (hybrid)","Anas platyrhynchos x rubripes","L6159373","Wissahickon Valley Park--Walnut Ln. to Kitchens Ln.","2026-06-02 11:55",1,40.0367463,-75.2008581,TRUE,FALSE,FALSE,"S351434403"
-"38","x00004","Mallard x American Black Duck (hybrid)","Anas platyrhynchos x rubripes","L621284","Squantum--Squantum Point Park","2026-06-02 08:30",1,42.2999604,-71.0365033,TRUE,FALSE,FALSE,"S351295293"
-"39","x00004","Mallard x American Black Duck (hybrid)","Anas platyrhynchos x rubripes","L351189","Calvert Vaux Park (Dreier-Offerman Park)","2026-06-02 07:43",1,40.5848762,-73.9945752,TRUE,FALSE,FALSE,"S351359642"
-"40","x00004","Mallard x American Black Duck (hybrid)","Anas platyrhynchos x rubripes","L62338711","Ponderlodge","2026-06-01 17:10",1,39.0032163,-74.9481692,TRUE,FALSE,TRUE,"S351043170"
-"41","x00004","Mallard x American Black Duck (hybrid)","Anas platyrhynchos x rubripes","L350765","Villas--Cox Hall Creek WMA","2026-06-01 17:09",1,39.0015934,-74.9446321,TRUE,FALSE,FALSE,"S351043235"
-"42","x00004","Mallard x American Black Duck (hybrid)","Anas platyrhynchos x rubripes","L300517","Clove Lakes Park","2026-06-01 15:04",1,40.6203877,-74.1149795,TRUE,FALSE,FALSE,"S351121582"
-"43","x00004","Mallard x American Black Duck (hybrid)","Anas platyrhynchos x rubripes","L471305","Perryman Peninsula","2026-06-01 08:58",1,39.4477265,-76.2170076,TRUE,FALSE,FALSE,"S350952383"
-"44","x00004","Mallard x American Black Duck (hybrid)","Anas platyrhynchos x rubripes","L3356473","Aurora Sanctuary, Antigo","2026-06-01 07:00",3,45.1328486,-89.1405344,TRUE,FALSE,TRUE,"S351110953"
-"45","x00004","Mallard x American Black Duck (hybrid)","Anas platyrhynchos x rubripes","L52165497","BOST GLRI Banding Site","2026-06-01 06:56",1,47.169909,-88.520367,TRUE,FALSE,TRUE,"S350869198"
+"","speciesCode","comName","sciName","locId","locName","obsDt","lat","lng","obsValid","obsReviewed","locationPrivate","subId","howMany"
+"1","apapan","Apapane","Himatione sanguinea","L370534","Kaulana Manu Nature Trail (""Kīpuka 21"")","2026-06-12 11:24",19.6713676,-155.3679389,TRUE,FALSE,FALSE,"S356352133",NA
+"2","apapan","Apapane","Himatione sanguinea","L366605","Pu'u O'o Trail, Kipuka Ainahou section (first 2 miles)","2026-06-12 07:12",19.6714434,-155.3849602,TRUE,FALSE,FALSE,"S356351404",10
+"3","apapan","Apapane","Himatione sanguinea","L247163","Haleakala NP--Hosmer Grove","2026-06-11 15:26",20.7684183,-156.2365883,TRUE,FALSE,FALSE,"S356022204",6
+"4","apapan","Apapane","Himatione sanguinea","L7615600","Hosmer Grove Campground","2026-06-11 14:19",20.7682265,-156.2381816,TRUE,FALSE,FALSE,"S356019146",2
+"5","apapan","Apapane","Himatione sanguinea","L10123074","Hawaiʻi Volcanoes NP--Devastation Trail","2026-06-11 13:33",19.4070035,-155.252863,TRUE,FALSE,FALSE,"S355991441",3
+"6","apapan","Apapane","Himatione sanguinea","L1614549","HI: Haleakala NP - Visitors' Center (lower)","2026-06-11 10:52",20.7587584,-156.2470973,TRUE,FALSE,FALSE,"S356023144",2
+"7","apapan","Apapane","Himatione sanguinea","L11295921","Pu'u Hinahina Lookout","2026-06-11 07:42",22.1095656,-159.6697324,TRUE,FALSE,FALSE,"S356006161",2
+"8","apapan","Apapane","Himatione sanguinea","L8599253","Honua‘ula Forest Reserve (Makāula -‘O‘oma section)","2026-06-11 07:34",19.7179801,-155.9487784,TRUE,FALSE,FALSE,"S355917946",2
+"9","apapan","Apapane","Himatione sanguinea","L1042043","ʻAiea Ridge Trail","2026-06-10 17:25",21.4059294,-157.8822041,TRUE,FALSE,FALSE,"S355686007",5
+"10","apapan","Apapane","Himatione sanguinea","L253053","ʻAiea Loop Trail and Keaīwa Heiau SP","2026-06-10 16:06",21.3988172,-157.9000568,TRUE,FALSE,FALSE,"S355686130",3
+"11","apapan","Apapane","Himatione sanguinea","L69699720","Waiheʻe Ridge Trail, Wailuku US-HI (20.9526,-156.5319)","2026-06-10 13:08",20.952554,-156.531861,TRUE,FALSE,TRUE,"S355587819",5
+"12","apapan","Apapane","Himatione sanguinea","L695639","Hakalau Forest NWR--Pua Akala Tract (restricted access)","2026-06-10 08:14",19.7895,-155.3262,TRUE,FALSE,FALSE,"S355602645",5
+"13","apapan","Apapane","Himatione sanguinea","L1087054","Hawai'i Volcanoes NP--'Ola'a Small Tract","2026-06-10 07:05",19.4593898,-155.2465153,TRUE,FALSE,FALSE,"S355480436",2
+"14","apapan","Apapane","Himatione sanguinea","L577371","Hawai'i Volcanoes National Park (general)","2026-06-09 19:54",19.3292867,-155.194416,TRUE,FALSE,FALSE,"S355252935",NA
+"15","apapan","Apapane","Himatione sanguinea","L837288","Hawaiʻi Volcanoes NP--Kīlauea Iki and Thurston Lava Tube","2026-06-09 11:03",19.4136642,-155.2386349,TRUE,FALSE,FALSE,"S355173837",12
+"16","apapan","Apapane","Himatione sanguinea","L20815790","Kōkeʻe State Park--Puʻu O Kila Lookout","2026-06-09 10:59",22.1477985,-159.6309566,TRUE,FALSE,FALSE,"S355223865",5
+"17","apapan","Apapane","Himatione sanguinea","L69599341","Crater Rim Trail, Pahoa US-HI 19.43136, -155.27366","2026-06-09 10:37",19.431362,-155.273659,TRUE,FALSE,TRUE,"S355128613",3
+"18","apapan","Apapane","Himatione sanguinea","L69605145","Kīlauea Iki Trail","2026-06-09 10:01",19.41255,-155.240805,TRUE,FALSE,TRUE,"S355154146",4
+"19","apapan","Apapane","Himatione sanguinea","L20815783","Kōkeʻe State Park--Kalalau Lookout","2026-06-09 07:15",22.1506629,-159.6452744,TRUE,FALSE,FALSE,"S355643282",2
+"20","apapan","Apapane","Himatione sanguinea","L7671052","Hakalau Forest National Wildlife Refuge (General Area)","2026-06-08 17:33",19.8207555,-155.3300758,TRUE,FALSE,FALSE,"S354857774",5
+"21","apapan","Apapane","Himatione sanguinea","L69616631","2136 Polipoli Road, Kula, Hawaii, US (20.707, -156.343)","2026-06-08 15:55",20.7067802,-156.3434755,TRUE,FALSE,TRUE,"S355211111",3
+"22","apapan","Apapane","Himatione sanguinea","L69522658","Hakalau Forest National Wildlife Refuge, Hilo US-HI 19.79067, -155.32862","2026-06-08 13:43",19.790671,-155.328617,TRUE,FALSE,TRUE,"S354782906",5
+"23","apapan","Apapane","Himatione sanguinea","L69534913","Halemauu Trail, Kula US-HI 20.75268, -156.22844","2026-06-08 11:40",20.752679,-156.228441,TRUE,FALSE,TRUE,"S354839123",3
+"24","apapan","Apapane","Himatione sanguinea","L69514535","Hakalau Forest National Wildlife Refuge, Hilo US-HI 19.78993, -155.33160","2026-06-08 09:28",19.789932,-155.331602,TRUE,FALSE,TRUE,"S354741962",5
+"25","apapan","Apapane","Himatione sanguinea","L69496767","Auto selected 19.78764, -155.33207","2026-06-08 08:27",19.787637,-155.33207,TRUE,FALSE,TRUE,"S354665294",1
+"26","apapan","Apapane","Himatione sanguinea","L69482832","Upper Waiakea Forest Reserve, Hilo US-HI 19.67059, -155.36653","2026-06-08 07:03",19.670595,-155.366531,TRUE,FALSE,TRUE,"S354608059",1
+"27","apapan","Apapane","Himatione sanguinea","L285822","Hawaiʻi Volcanoes NP--Kīpuka Puaulu","2026-06-07 18:10",19.4405764,-155.3024554,TRUE,FALSE,FALSE,"S354356427",8
+"28","apapan","Apapane","Himatione sanguinea","L1428616","Hawai'i Volcanoes NP--Visitor Center and Volcano House","2026-06-07 17:40",19.4295211,-155.2575515,TRUE,FALSE,FALSE,"S354340796",5
+"29","apapan","Apapane","Himatione sanguinea","L69426130","Crater Rim Dr, Pahoa US-HI 19.41685, -155.24280","2026-06-07 17:40",19.416848,-155.242801,TRUE,FALSE,TRUE,"S354340945",6
+"30","apapan","Apapane","Himatione sanguinea","L69425399","30228–30230 Crater Rd, Kula US-HI 20.75946, -156.24667","2026-06-07 17:20",20.759463,-156.246667,TRUE,FALSE,TRUE,"S354337977",1
+"31","apapan","Apapane","Himatione sanguinea","L69424988","Crater Rim Trail, Pahoa US-HI 19.41668, -155.25075","2026-06-07 17:15",19.41668,-155.250747,TRUE,FALSE,TRUE,"S354336296",5
+"32","apapan","Apapane","Himatione sanguinea","L69424489","Crater Rim Trail, Pahoa US-HI 19.41706, -155.24298","2026-06-07 16:41",19.417059,-155.242978,TRUE,FALSE,TRUE,"S354334137",18
+"33","apapan","Apapane","Himatione sanguinea","L1107884","Hawai'i Volcanoes NP--Waldron Ledge and 'Earthquake Trail'","2026-06-07 15:20",19.4220778,-155.2561069,TRUE,FALSE,FALSE,"S354327625",15
+"34","apapan","Apapane","Himatione sanguinea","L11530048","Aiea upper loop trail, Aiea US-HI (21.3985,-157.9002)","2026-06-07 08:08",21.398505,-157.900234,TRUE,FALSE,TRUE,"S354312636",10
+"35","apapan","Apapane","Himatione sanguinea","L4761214","Wiliwilinui Ridge Trail","2026-06-07 07:54",21.2994507,-157.7625346,TRUE,FALSE,TRUE,"S354281457",8
+"36","apapan","Apapane","Himatione sanguinea","L69367786","300 Maʻalaea Rd, Maalaea US-HI 20.79189, -156.51333","2026-06-07 07:29",20.791895,-156.513328,TRUE,FALSE,TRUE,"S354094719",1
+"37","apapan","Apapane","Himatione sanguinea","L69272923","73-1820 Hao St, Kailua Kona US-HI 19.70703, -155.95074","2026-06-06 16:10",19.707034,-155.950739,TRUE,FALSE,TRUE,"S353673080",2
+"38","apapan","Apapane","Himatione sanguinea","L69263725","Crater Rim Trail, Pāhoa, Hawaii, US (19.417, -155.243)","2026-06-06 14:26",19.4167281,-155.2429146,TRUE,FALSE,TRUE,"S353634556",1
+"39","apapan","Apapane","Himatione sanguinea","L69281828","Hawai'i Volcanoes NP - Fuel Break Trail","2026-06-06 14:20",19.4370119,-155.3012487,TRUE,FALSE,TRUE,"S353715231",75
+"40","apapan","Apapane","Himatione sanguinea","L69281459","Hawai'i Volcanoes NP - Crater Rim Dr + Mauna Loa Road","2026-06-06 12:47",19.4256678,-155.2862802,TRUE,FALSE,TRUE,"S353712112",40
+"41","apapan","Apapane","Himatione sanguinea","L69280982","Hawai'i Volcanoes NP- Crater Rim Trail","2026-06-06 09:12",19.4300242,-155.2596812,TRUE,FALSE,TRUE,"S353710923",60
+"42","apapan","Apapane","Himatione sanguinea","L285813","Pu'u La'au, Palila Discovery Trail and Ka'ohe GMA","2026-06-06 07:01",19.8319137,-155.5947653,TRUE,FALSE,FALSE,"S354383076",3
+"43","apapan","Apapane","Himatione sanguinea","L68437462","Middle Road","2026-06-06 06:05",20.7155561,-156.3369171,TRUE,FALSE,TRUE,"S353405740",1
+"44","apapan","Apapane","Himatione sanguinea","L880987","Hale pōhaku and the Mauna Kea Visitor Center","2026-06-05 14:36",19.7596054,-155.4553413,TRUE,FALSE,FALSE,"S353027922",NA
+"45","apapan","Apapane","Himatione sanguinea","L51850309","Kaloko Dr","2026-06-04 17:30",19.707379,-155.950423,TRUE,FALSE,TRUE,"S352558822",2
+"46","apapan","Apapane","Himatione sanguinea","L13219201","Haleakala NP--Summit","2026-06-04 13:36",20.7120835,-156.2495577,TRUE,FALSE,FALSE,"S352521637",3
+"47","apapan","Apapane","Himatione sanguinea","L67979739","Hakalau Forest National Wildlife Refuge, Hilo US-HI 19.78971, -155.33108","2026-06-04 10:01",19.789707,-155.331076,TRUE,FALSE,TRUE,"S353067484",11
+"48","apapan","Apapane","Himatione sanguinea","L1574904","Mōhihi Waiʻalae Trail","2026-06-04 09:30",22.1148068,-159.5774295,TRUE,FALSE,FALSE,"S353042176",10
+"49","apapan","Apapane","Himatione sanguinea","L69684303","Laupahoehoe Forest Reserve—Ha‘akoa (Restricted Access)","2026-06-04 08:25",19.892747,-155.313476,TRUE,FALSE,TRUE,"S355520991",100
+"50","apapan","Apapane","Himatione sanguinea","L68987315","Kona Cloud Forest Sanctuary","2026-06-04 06:52",19.705624,-155.947415,TRUE,FALSE,TRUE,"S352438388",4
+"51","apapan","Apapane","Himatione sanguinea","L290236","Kōkeʻe State Park (general)","2026-06-03 10:18",22.1302507,-159.6556377,TRUE,FALSE,FALSE,"S352037279",2
+"52","apapan","Apapane","Himatione sanguinea","L1291660","Top of Kaloko Drive and Huehue Street (restricted access)","2026-06-03 09:58",19.7199289,-155.9191704,TRUE,FALSE,FALSE,"S351970594",14
+"53","apapan","Apapane","Himatione sanguinea","L69249692","Kōkeʻe State Park, Princeville US-HI 22.15056, -159.64452","2026-06-03 07:42",22.150563,-159.644518,TRUE,FALSE,TRUE,"S353573077",2
