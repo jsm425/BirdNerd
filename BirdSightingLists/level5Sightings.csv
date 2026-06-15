@@ -1,9 +1,2 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","lat","lng","obsValid","obsReviewed","locationPrivate","subId","howMany"
-"1","shtalb","Short-tailed Albatross","Phoebastria albatrus","L69958804","2026AI09","2026-06-10 09:00",52.5601,-172.3811,TRUE,FALSE,TRUE,"S356703635",NA
-"2","shtalb","Short-tailed Albatross","Phoebastria albatrus","L69618885","2026AI08","2026-06-09 10:00",52.793,-170.6661,TRUE,TRUE,TRUE,"S355221726",4
-"3","shtalb","Short-tailed Albatross","Phoebastria albatrus","L28355826","portlock bank","2026-06-08 12:00",58.2,-150.3,TRUE,TRUE,TRUE,"S355001202",1
-"4","shtalb","Short-tailed Albatross","Phoebastria albatrus","L69617612","2026AI07","2026-06-08 09:00",52.978,-170.0383,TRUE,TRUE,TRUE,"S355216075",4
-"5","shtalb","Short-tailed Albatross","Phoebastria albatrus","L69426014","North Pacific Ocean US (54.4060,-165.6707)","2026-06-07 18:53",54.405995,-165.670748,TRUE,FALSE,TRUE,"S354340481",1
-"6","shtalb","Short-tailed Albatross","Phoebastria albatrus","L69616812","2026AI05","2026-06-06 09:00",53.521,-167.5131,TRUE,FALSE,TRUE,"S355212288",1
-"7","shtalb","Short-tailed Albatross","Phoebastria albatrus","L69191585","2026AI04","2026-06-04 09:00",53.816,-167.2912,TRUE,FALSE,TRUE,"S353350064",1
-"8","shtalb","Short-tailed Albatross","Phoebastria albatrus","L69069428","2026AI03","2026-06-04 09:00",54.4151,-167.2912,TRUE,FALSE,TRUE,"S352824367",1
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
+"1","motowl","Mottled Owl","Strix virgata","L129086","Santa Margarita Ranch (LTC 079) (restricted access - guided groups only)","2026-06-13 05:13",1,26.4856177,-99.0912337,TRUE,TRUE,FALSE,"S357017600"
