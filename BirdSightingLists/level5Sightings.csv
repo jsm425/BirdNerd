@@ -1,2 +1,2 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","motowl","Mottled Owl","Strix virgata","L129086","Santa Margarita Ranch (LTC 079) (restricted access - guided groups only)","2026-06-13 05:13",1,26.4856177,-99.0912337,TRUE,TRUE,FALSE,"S357017600"
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
+"1","yeclov","Yellow-collared Lovebird","Agapornis personatus","L22008560","Exeter District Cemetery, Exeter US-CA 36.31155, -119.13461","2026-06-12 10:27",1,36.311553,-119.134612,TRUE,TRUE,TRUE,"S356272140","X"
