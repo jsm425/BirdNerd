@@ -1,5 +1,2 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","scoshe1","Scopoli's Shearwater","Calonectris diomedea","L19913535","Hatteras Fishing--On The Shelf","2026-06-20 12:00",1,34.9941051,-75.3785672,TRUE,FALSE,TRUE,"S360569170"
-"2","scoshe1","Scopoli's Shearwater","Calonectris diomedea","L70690998","AP Whale Watch - list 3 on Jun 19, 2026","2026-06-19 13:52",1,40.341086,-73.8363,TRUE,TRUE,TRUE,"S359882160"
-"3","scoshe1","Scopoli's Shearwater","Calonectris diomedea","L11650972","Hatteras Pelagic - On the Shelf (Inshore of the Shelf Break)","2026-06-14 13:45",2,35.0715166,-75.6011031,TRUE,FALSE,TRUE,"S357568880"
-"4","scoshe1","Scopoli's Shearwater","Calonectris diomedea","L548893","Hatteras Pelagic--Gulf Stream","2026-06-14 07:40",10,34.8588905,-75.2453613,TRUE,TRUE,FALSE,"S357565615"
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
+"1","cockat","Cockatiel","Nymphicus hollandicus","L380385","Lake Carolyn","2026-06-15 20:08",1,32.8709369,-96.9378662,TRUE,TRUE,FALSE,"S358058878","X"
