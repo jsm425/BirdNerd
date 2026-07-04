@@ -1,2 +1,6 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","sxrgoo1","Snow x Ross's Goose (hybrid)","Anser caerulescens x rossii","L459816","Santa Fe Dam Rec. Area","2026-07-02 07:35",1,34.1113782,-117.9507637,TRUE,TRUE,FALSE,"S366635424"
+"","speciesCode","comName","sciName","locId","locName","obsDt","lat","lng","obsValid","obsReviewed","locationPrivate","subId","howMany"
+"1","relkit","Red-legged Kittiwake","Rissa brevirostris","L72231093","Polovina Tpke, St. Paul US-AK 57.12709, -170.27462","2026-07-02 20:31",57.127087,-170.274624,TRUE,FALSE,TRUE,"S366819209",NA
+"2","relkit","Red-legged Kittiwake","Rissa brevirostris","L599648","St. George Island","2026-07-02 20:19",56.5776409,-169.6069336,TRUE,FALSE,FALSE,"S367225839",100
+"3","relkit","Red-legged Kittiwake","Rissa brevirostris","L261146","St. Paul Island","2026-07-02 09:22",57.17012,-170.296751,TRUE,FALSE,FALSE,"S366861949",80
+"4","relkit","Red-legged Kittiwake","Rissa brevirostris","L685834","Alaska Maritime NWR--Buldir Island","2026-07-01 11:00",52.3504409,175.9172058,TRUE,FALSE,FALSE,"S367292229",60
+"5","relkit","Red-legged Kittiwake","Rissa brevirostris","L72035451","St. George Island Airport, St. George Island US-AK","2026-06-28 13:31",56.575358,-169.663981,TRUE,FALSE,TRUE,"S365970299",2
