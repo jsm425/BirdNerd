@@ -1,516 +1,572 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
-"1","nutman","Scaly-breasted Munia","Lonchura punctulata","L29166474","APT","2026-07-15 19:38",5,29.732843,-95.577239,TRUE,FALSE,TRUE,"S372568074","N"
-"2","nutman","Scaly-breasted Munia","Lonchura punctulata","L282089","Laguna Lake","2026-07-15 19:10",1,35.2656069,-120.6903817,TRUE,FALSE,FALSE,"S372588631","N"
-"3","nutman","Scaly-breasted Munia","Lonchura punctulata","L229936","Mission Trails Regional Park--Kumeyaay Lake & campground","2026-07-15 18:37",30,32.8417935,-117.0320288,TRUE,FALSE,FALSE,"S372583651","N"
-"4","nutman","Scaly-breasted Munia","Lonchura punctulata","L73209047","Hilo DOFAW Arboretum","2026-07-15 18:30",3,19.706156,-155.073577,TRUE,FALSE,TRUE,"S372597897","N"
-"5","nutman","Scaly-breasted Munia","Lonchura punctulata","L72331591","Riviere du Chien Rental","2026-07-15 18:15",7,30.613099,-88.125978,TRUE,FALSE,TRUE,"S372549637","N"
-"6","nutman","Scaly-breasted Munia","Lonchura punctulata","L9794932","Private Residence","2026-07-15 18:10",4,32.7508624,-117.0571512,TRUE,FALSE,TRUE,"S372574574","N"
-"7","nutman","Scaly-breasted Munia","Lonchura punctulata","L4298779","Encinitas suburb","2026-07-15 17:45",3,33.0592833,-117.2551328,TRUE,FALSE,TRUE,"S372571615","N"
-"8","nutman","Scaly-breasted Munia","Lonchura punctulata","L418752","Tijuana River Valley--Bird & Butterfly Garden (Myers Ranch)","2026-07-15 17:30",2,32.5538589,-117.084619,TRUE,FALSE,FALSE,"S372599131","N"
-"9","nutman","Scaly-breasted Munia","Lonchura punctulata","L39882875","3056 Braemar Dr, Santa Barbara US-CA 34.40704, -119.74354","2026-07-15 17:21",2,34.407039,-119.743543,TRUE,FALSE,TRUE,"S372566523","N"
-"10","nutman","Scaly-breasted Munia","Lonchura punctulata","L382758","Carbon Canyon Regional Park","2026-07-15 17:03",1,33.9205466,-117.834255,TRUE,FALSE,FALSE,"S372576552","N"
-"11","nutman","Scaly-breasted Munia","Lonchura punctulata","L500123","Upper Newport Bay Nature Preserve--Muth Interpretive Center area","2026-07-15 15:56",1,33.6529275,-117.8849691,TRUE,FALSE,FALSE,"S372545747","N"
-"12","nutman","Scaly-breasted Munia","Lonchura punctulata","L57933016","backyard","2026-07-15 15:00",4,32.9066154,-117.070048,TRUE,FALSE,TRUE,"S372545390","N"
-"13","nutman","Scaly-breasted Munia","Lonchura punctulata","L1124298","Hanalei NWR--'Ohiki Rd","2026-07-15 15:00",3,22.2075046,-159.4748387,TRUE,FALSE,FALSE,"S372602666","N"
-"14","nutman","Scaly-breasted Munia","Lonchura punctulata","L167991","Batiquitos Lagoon--north side trails","2026-07-15 14:42",5,33.091669,-117.2960981,TRUE,FALSE,FALSE,"S372534195","N"
-"15","nutman","Scaly-breasted Munia","Lonchura punctulata","L2616847","University of South Alabama","2026-07-15 14:00",2,30.7000915,-88.1846273,TRUE,FALSE,FALSE,"S372493993","N"
-"16","nutman","Scaly-breasted Munia","Lonchura punctulata","L73575777","Aubrey Green Drive, Mobile, Alabama, US (30.701, -88.184)","2026-07-15 13:49",1,30.7008206,-88.1844037,TRUE,FALSE,TRUE,"S372492042","N"
-"17","nutman","Scaly-breasted Munia","Lonchura punctulata","L1023253","Torrey Pines State Reserve--Extension","2026-07-15 13:30",NA,32.9386565,-117.2527564,TRUE,FALSE,FALSE,"S372570792","N"
-"18","nutman","Scaly-breasted Munia","Lonchura punctulata","L1332676","Providence Subdivision","2026-07-15 13:30",25,29.682,-95.644,TRUE,FALSE,TRUE,"S372589666","N"
-"19","nutman","Scaly-breasted Munia","Lonchura punctulata","L794370","Presidio Park","2026-07-15 12:01",5,32.7579913,-117.1928083,TRUE,FALSE,FALSE,"S372507739","N"
-"20","nutman","Scaly-breasted Munia","Lonchura punctulata","L9957587","La Mirada Creek Park--south of Imperial Hwy","2026-07-15 12:01",2,33.9152248,-118.010128,TRUE,FALSE,FALSE,"S372507546","N"
-"21","nutman","Scaly-breasted Munia","Lonchura punctulata","L34569228","Crest Way, Del Mar, California, US (32.952, -117.256)","2026-07-15 12:00",2,32.9521074,-117.2559949,TRUE,FALSE,TRUE,"S372496282","N"
-"22","nutman","Scaly-breasted Munia","Lonchura punctulata","L72848118","South Ponto SP Parking Lot","2026-07-15 11:13",4,33.082916,-117.310362,TRUE,FALSE,TRUE,"S372485157","N"
-"23","nutman","Scaly-breasted Munia","Lonchura punctulata","L3160013","Snow Creek Greenbelt","2026-07-15 10:53",4,34.035395,-117.83793,TRUE,FALSE,FALSE,"S372597445","N"
-"24","nutman","Scaly-breasted Munia","Lonchura punctulata","L9884311","Wing St. Canyon","2026-07-15 10:44",3,32.744551,-117.218106,TRUE,FALSE,FALSE,"S372484271","N"
-"25","nutman","Scaly-breasted Munia","Lonchura punctulata","L247163","Haleakala NP--Hosmer Grove","2026-07-15 10:09",5,20.7684183,-156.2365883,TRUE,FALSE,FALSE,"S372517705","N"
-"26","nutman","Scaly-breasted Munia","Lonchura punctulata","L8151566","609 North 72nd Avenue, Pensacola, Florida, US (30.418, -87.308)","2026-07-15 10:09",5,30.417964,-87.3078919,TRUE,FALSE,TRUE,"S372423269","N"
-"27","nutman","Scaly-breasted Munia","Lonchura punctulata","L152139","Madrona Marsh","2026-07-15 09:53",20,33.82865,-118.34328,TRUE,FALSE,FALSE,"S372463660","N"
-"28","nutman","Scaly-breasted Munia","Lonchura punctulata","L12412551","Alta Mesa, Santa Barbara US-CA 34.41421, -119.72770","2026-07-15 09:43",3,34.414212,-119.727704,TRUE,FALSE,TRUE,"S372446293","N"
-"29","nutman","Scaly-breasted Munia","Lonchura punctulata","L761141","San Elijo Lagoon--west","2026-07-15 08:59",8,33.0084139,-117.271476,TRUE,FALSE,FALSE,"S372477753","N"
-"30","nutman","Scaly-breasted Munia","Lonchura punctulata","L3386255","Lake Murray--southeast side","2026-07-15 08:50",1,32.7852326,-117.039897,TRUE,FALSE,FALSE,"S372429019","N"
-"31","nutman","Scaly-breasted Munia","Lonchura punctulata","L469003","Tijuana River Valley--Community Gardens","2026-07-15 08:47",2,32.5567428,-117.0849895,TRUE,FALSE,FALSE,"S372590589","N"
-"32","nutman","Scaly-breasted Munia","Lonchura punctulata","L194688","Sepulveda Basin--East of Woodley Ave","2026-07-15 08:42",1,34.1767221,-118.4737308,TRUE,FALSE,FALSE,"S372448353","N"
-"33","nutman","Scaly-breasted Munia","Lonchura punctulata","L757716","San Diego River--estuary (Old Sea World Dr.)","2026-07-15 08:40",6,32.7597508,-117.2179803,TRUE,FALSE,FALSE,"S372433699","N"
-"34","nutman","Scaly-breasted Munia","Lonchura punctulata","L230931","Huntington Botanical Gardens","2026-07-15 08:14",8,34.1288701,-118.114462,TRUE,FALSE,FALSE,"S372442428","N"
-"35","nutman","Scaly-breasted Munia","Lonchura punctulata","L18991004","28019–28033 Calle Arroyo, San Juan Capistrano US-CA (33.5071,-117.6410)","2026-07-15 08:07",1,33.507142,-117.641001,TRUE,FALSE,TRUE,"S372412480","N"
-"36","nutman","Scaly-breasted Munia","Lonchura punctulata","L11153898","Encinitas backyard","2026-07-15 08:05",2,33.0601607,-117.2554371,TRUE,FALSE,TRUE,"S372423479","N"
-"37","nutman","Scaly-breasted Munia","Lonchura punctulata","L4548328","Eternal Hills Cemetery","2026-07-15 08:05",8,33.193707,-117.333028,TRUE,FALSE,FALSE,"S372441253","N"
-"38","nutman","Scaly-breasted Munia","Lonchura punctulata","L632002","Quail Hill Preserve, Irvine","2026-07-15 08:04",2,33.6536375,-117.7858829,TRUE,FALSE,FALSE,"S372539064","N"
-"39","nutman","Scaly-breasted Munia","Lonchura punctulata","L11792177","Harmon Canyon Preserve","2026-07-15 08:00",2,34.3029077,-119.2000843,TRUE,FALSE,FALSE,"S372516382","N"
-"40","nutman","Scaly-breasted Munia","Lonchura punctulata","L1574904","Mōhihi Waiʻalae Trail","2026-07-15 08:00",4,22.1148068,-159.5774295,TRUE,FALSE,FALSE,"S372562263","N"
-"41","nutman","Scaly-breasted Munia","Lonchura punctulata","L16557434","Miramar National Cemetery (limited access)","2026-07-15 08:00",2,32.8718347,-117.1898414,TRUE,FALSE,FALSE,"S372477508","N"
-"42","nutman","Scaly-breasted Munia","Lonchura punctulata","L993146","Taminco/Air Products Wildlife Sanctuary","2026-07-15 08:00",2,30.5885682,-87.134285,TRUE,FALSE,TRUE,"S372507845","N"
-"43","nutman","Scaly-breasted Munia","Lonchura punctulata","L801783","Rancho Jurupa Park","2026-07-15 07:55",16,33.9818016,-117.4175835,TRUE,FALSE,FALSE,"S372513820","N"
-"44","nutman","Scaly-breasted Munia","Lonchura punctulata","L595298","Lower Arroyo Seco","2026-07-15 07:54",1,34.137561,-118.1677651,TRUE,FALSE,FALSE,"S372435817","N"
-"45","nutman","Scaly-breasted Munia","Lonchura punctulata","L73556521","Carrotwood Trees On Foxfire Dr","2026-07-15 07:49",1,33.5779125,-117.191942,TRUE,FALSE,TRUE,"S372416647","N"
-"46","nutman","Scaly-breasted Munia","Lonchura punctulata","L109339","IRWD San Joaquin Marsh & Wildlife Sanctuary","2026-07-15 07:45",2,33.6637274,-117.8426814,TRUE,FALSE,FALSE,"S372485438","N"
-"47","nutman","Scaly-breasted Munia","Lonchura punctulata","L354230","Saticoy Spreading Ponds","2026-07-15 07:44",15,34.2733696,-119.1251398,TRUE,FALSE,FALSE,"S372585276","N"
-"48","nutman","Scaly-breasted Munia","Lonchura punctulata","L1073047","Redlands - private residence","2026-07-15 07:28",1,34.031112,-117.1950422,TRUE,FALSE,TRUE,"S372405633","N"
-"49","nutman","Scaly-breasted Munia","Lonchura punctulata","L235486","Tecolote Canyon Natural Park","2026-07-15 07:20",5,32.7750469,-117.1959062,TRUE,FALSE,FALSE,"S372603460","N"
-"50","nutman","Scaly-breasted Munia","Lonchura punctulata","L30327677","Beacon Bay Drive","2026-07-15 07:20",1,33.113363,-117.305313,TRUE,FALSE,TRUE,"S372408263","N"
-"51","nutman","Scaly-breasted Munia","Lonchura punctulata","L40778695","Home","2026-07-15 07:19",2,29.69772,-95.678414,TRUE,FALSE,TRUE,"S372418526","N"
-"52","nutman","Scaly-breasted Munia","Lonchura punctulata","L502845","Craig Regional Park, Fullerton","2026-07-15 07:13",6,33.9046872,-117.8852749,TRUE,FALSE,FALSE,"S372565544","N"
-"53","nutman","Scaly-breasted Munia","Lonchura punctulata","L801273","William R Mason Regional Park--east side","2026-07-15 07:12",3,33.6556558,-117.824378,TRUE,FALSE,FALSE,"S372463596","N"
-"54","nutman","Scaly-breasted Munia","Lonchura punctulata","L73574240","5-6814–5-6976 Kuhio Hwy, Princeville US-HI (22.2148,-159.5420)","2026-07-15 07:08",1,22.214824,-159.54205,TRUE,FALSE,TRUE,"S372486082","N"
-"55","nutman","Scaly-breasted Munia","Lonchura punctulata","L40229180","7903 Sleepy Bay Boulevard, Navarre, Florida, US (30.436, -86.892)","2026-07-15 07:07",1,30.4355414,-86.8916597,TRUE,FALSE,TRUE,"S372352535","N"
-"56","nutman","Scaly-breasted Munia","Lonchura punctulata","L3590537","Woodglen Vista Park","2026-07-15 07:02",5,32.8668278,-116.9744235,TRUE,FALSE,FALSE,"S372478673","N"
-"57","nutman","Scaly-breasted Munia","Lonchura punctulata","L208627","Arthur Storey Park","2026-07-15 06:54",2,29.6988358,-95.5605838,TRUE,FALSE,FALSE,"S372392383","N"
-"58","nutman","Scaly-breasted Munia","Lonchura punctulata","L815817","Frank G. Bonelli RP/Puddingstone Reservoir and vicinity","2026-07-15 06:50",2,34.0870104,-117.8050125,TRUE,FALSE,FALSE,"S372600127","N"
-"59","nutman","Scaly-breasted Munia","Lonchura punctulata","L3594213","*Backyard-Carmel Valley(San Diego)","2026-07-15 06:45",5,32.9173415,-117.2151974,TRUE,FALSE,TRUE,"S372388198","N"
-"60","nutman","Scaly-breasted Munia","Lonchura punctulata","L13669686","Backfence, Arroyo Grande US-CA","2026-07-15 06:44",6,35.124354,-120.569998,TRUE,FALSE,TRUE,"S372484347","N"
-"61","nutman","Scaly-breasted Munia","Lonchura punctulata","L70427368","Tierrasanta, San Diego US-CA (32.8205,-117.0934)","2026-07-15 06:40",4,32.820484,-117.09338,TRUE,FALSE,TRUE,"S372406707","N"
-"62","nutman","Scaly-breasted Munia","Lonchura punctulata","L37010230","40000 Amberley Cir, Temecula US-CA 33.53938, -117.11067","2026-07-15 06:35",2,33.539375,-117.110666,TRUE,FALSE,TRUE,"S372414320","N"
-"63","nutman","Scaly-breasted Munia","Lonchura punctulata","L5814436","Sugar Land Yard","2026-07-15 06:26",2,29.603834,-95.589375,TRUE,FALSE,TRUE,"S372573248","N"
-"64","nutman","Scaly-breasted Munia","Lonchura punctulata","L50696112","Bjork Neighborhood","2026-07-15 06:23",6,34.4356641,-119.7806739,TRUE,FALSE,TRUE,"S372407956","N"
-"65","nutman","Scaly-breasted Munia","Lonchura punctulata","L764098","Los Penasquitos Lagoon--Carmel Valley Rd. pullouts","2026-07-15 06:15",NA,32.9325739,-117.2523218,TRUE,FALSE,FALSE,"S372570153","N"
-"66","nutman","Scaly-breasted Munia","Lonchura punctulata","L73565660","Hanalei Colony Resort, Hā’ena US-HI (22.2219,-159.5448)","2026-07-15 06:06",1,22.221938,-159.544775,TRUE,FALSE,TRUE,"S372452860","N"
-"67","nutman","Scaly-breasted Munia","Lonchura punctulata","L7366557","Windsor Forest","2026-07-15 06:00",2,30.6322255,-87.1791208,TRUE,FALSE,TRUE,"S372468722","N"
-"68","nutman","Scaly-breasted Munia","Lonchura punctulata","L73595646","4190–4196 Lei O Papa Rd, Princeville US-HI (22.2157,-159.4843)","2026-07-15 05:45",5,22.215653,-159.48433,TRUE,FALSE,TRUE,"S372574438","N"
-"69","nutman","Scaly-breasted Munia","Lonchura punctulata","L109451","Huntington Central Park","2026-07-15 02:10",4,33.7010644,-118.006382,TRUE,FALSE,FALSE,"S372601660","N"
-"70","nutman","Scaly-breasted Munia","Lonchura punctulata","L3675490","Lake Murray--northwest side","2026-07-14 19:31",1,32.7901775,-117.0456053,TRUE,FALSE,FALSE,"S372229895","N"
-"71","nutman","Scaly-breasted Munia","Lonchura punctulata","L4256873","Meadow Wood Hill","2026-07-14 19:25",2,33.0624136,-117.2555995,TRUE,FALSE,TRUE,"S372225493","N"
-"72","nutman","Scaly-breasted Munia","Lonchura punctulata","L2841155","San Gabriel River Channel--Duarte","2026-07-14 19:18",2,34.1428001,-117.9345095,TRUE,FALSE,FALSE,"S372236615","N"
-"73","nutman","Scaly-breasted Munia","Lonchura punctulata","L72786719","Las Virgenes Canyon Trail, West Hills US-CA (34.1711,-118.7035)","2026-07-14 18:53",1,34.17109,-118.703458,TRUE,FALSE,TRUE,"S372228776","N"
-"74","nutman","Scaly-breasted Munia","Lonchura punctulata","L859369","Harry Griffen Regional Park","2026-07-14 18:38",NA,32.7859369,-116.98789,TRUE,FALSE,FALSE,"S372222185","N"
-"75","nutman","Scaly-breasted Munia","Lonchura punctulata","L21240260","The cliffs","2026-07-14 18:37",2,22.227207,-159.480424,TRUE,FALSE,TRUE,"S372246760","N"
-"76","nutman","Scaly-breasted Munia","Lonchura punctulata","L34047936","Parkway Terrace","2026-07-14 18:13",2,29.743188,-95.621035,TRUE,FALSE,TRUE,"S372197950","N"
-"77","nutman","Scaly-breasted Munia","Lonchura punctulata","L42391462","8720 SW 159th St, Palmetto Bay US-FL 25.62230, -80.33402","2026-07-14 17:36",6,25.622299,-80.334018,TRUE,FALSE,TRUE,"S372181002","N"
-"78","nutman","Scaly-breasted Munia","Lonchura punctulata","L73502895","6662–6698 Cindy Ln, Houston US-TX (29.7955,-95.4334)","2026-07-14 17:26",5,29.795517,-95.433439,TRUE,FALSE,TRUE,"S372177732","N"
-"79","nutman","Scaly-breasted Munia","Lonchura punctulata","L11611565","3056 Braemar Dr, Santa Barbara US-CA 34.40691, -119.74346","2026-07-14 17:13",2,34.40691,-119.743456,TRUE,FALSE,TRUE,"S372208014","N"
-"80","nutman","Scaly-breasted Munia","Lonchura punctulata","L3311348","Lake Hodges--east end (footbridge, lakebed, scrub)","2026-07-14 16:51",5,33.0559773,-117.082199,TRUE,FALSE,FALSE,"S372222818","N"
-"81","nutman","Scaly-breasted Munia","Lonchura punctulata","L861999","Municipal Park (Langan Park)","2026-07-14 16:36",10,30.7053866,-88.1606483,TRUE,FALSE,FALSE,"S372177824","N"
-"82","nutman","Scaly-breasted Munia","Lonchura punctulata","L38809511","Princeville Neighborhood (General)","2026-07-14 16:34",2,22.2271855,-159.47762,TRUE,FALSE,FALSE,"S372226297","N"
-"83","nutman","Scaly-breasted Munia","Lonchura punctulata","L208280","Lindo Lake","2026-07-14 16:33",1,32.8583295,-116.9170833,TRUE,FALSE,FALSE,"S372204703","N"
-"84","nutman","Scaly-breasted Munia","Lonchura punctulata","L56808693","Famosa Slough (CA Atlas - Point Loma NW)","2026-07-14 16:27",10,32.749082,-117.2289563,TRUE,FALSE,FALSE,"S372200104","N"
-"85","nutman","Scaly-breasted Munia","Lonchura punctulata","L73209060","Hilo DOFAW Baseyard (Restricted Access)","2026-07-14 16:20",2,19.704468,-155.072152,TRUE,FALSE,TRUE,"S372255044","N"
-"86","nutman","Scaly-breasted Munia","Lonchura punctulata","L940460","Mission Valley Preserve/Sefton Park","2026-07-14 15:54",2,32.7619456,-117.1932823,TRUE,FALSE,FALSE,"S372187521","N"
-"87","nutman","Scaly-breasted Munia","Lonchura punctulata","L73519140","Walmart Photo Center, Līhuʻe US-HI (21.9821,-159.3658)","2026-07-14 15:45",1,21.982071,-159.365828,TRUE,FALSE,TRUE,"S372247180","N"
-"88","nutman","Scaly-breasted Munia","Lonchura punctulata","L251012","Kendall--Baptist Hospital Area","2026-07-14 15:45",2,25.68765,-80.33864,TRUE,FALSE,FALSE,"S372167347","N"
-"89","nutman","Scaly-breasted Munia","Lonchura punctulata","L6487085","Encinitas Community Park","2026-07-14 14:23",4,33.0321309,-117.2807693,TRUE,FALSE,FALSE,"S372210879","N"
-"90","nutman","Scaly-breasted Munia","Lonchura punctulata","L599857","Pinto Lake County Park","2026-07-14 14:18",3,36.9600428,-121.7723322,TRUE,FALSE,FALSE,"S372418000","N"
-"91","nutman","Scaly-breasted Munia","Lonchura punctulata","L34691276","Kōkeʻe SP road--Kalalau to Pu‘u O Kila lookout","2026-07-14 13:04",4,22.149111,-159.637159,TRUE,FALSE,FALSE,"S372231328","N"
-"92","nutman","Scaly-breasted Munia","Lonchura punctulata","L35527793","Lewis Smith Dr Residence","2026-07-14 12:43",6,30.33879,-87.733381,TRUE,FALSE,TRUE,"S372108835","N"
-"93","nutman","Scaly-breasted Munia","Lonchura punctulata","L22494868","Windsor Cottage","2026-07-14 12:33",NA,32.757785,-117.022186,TRUE,FALSE,TRUE,"S372214024","N"
-"94","nutman","Scaly-breasted Munia","Lonchura punctulata","L73508770","University of Hawaiʻi at Mānoa","2026-07-14 12:28",4,21.29749,-157.816526,TRUE,FALSE,TRUE,"S372203337","N"
-"95","nutman","Scaly-breasted Munia","Lonchura punctulata","L160935","Ballona Freshwater Marsh","2026-07-14 11:45",1,33.9701285,-118.4305573,TRUE,FALSE,FALSE,"S372143376","N"
-"96","nutman","Scaly-breasted Munia","Lonchura punctulata","L4146565","San Marcos Creek","2026-07-14 11:39",6,33.102219,-117.2216769,TRUE,FALSE,FALSE,"S372428375","N"
-"97","nutman","Scaly-breasted Munia","Lonchura punctulata","L683111","Batiquitos Lagoon--east end","2026-07-14 10:10",1,33.0940148,-117.2795257,TRUE,FALSE,FALSE,"S372164845","N"
-"98","nutman","Scaly-breasted Munia","Lonchura punctulata","L452002","Felicita County Park","2026-07-14 10:07",20,33.081222,-117.0852685,TRUE,FALSE,FALSE,"S372104272","N"
-"99","nutman","Scaly-breasted Munia","Lonchura punctulata","L253341","Waimea Valley Audubon Center","2026-07-14 09:57",14,21.6336111,-158.0547222,TRUE,FALSE,FALSE,"S372164982","N"
-"100","nutman","Scaly-breasted Munia","Lonchura punctulata","L73495270","Amauulu Rd, Hilo US-HI 19.73228, -155.12200","2026-07-14 09:43",20,19.732284,-155.122,TRUE,FALSE,TRUE,"S372147920","N"
-"101","nutman","Scaly-breasted Munia","Lonchura punctulata","L39279858","Spring Hills Golf Course, Watsonville","2026-07-14 09:40",4,36.981477,-121.756772,TRUE,FALSE,TRUE,"S372080375","N"
-"102","nutman","Scaly-breasted Munia","Lonchura punctulata","L7835343","45 Riparian Vw, Irvine US-CA (33.6609,-117.8419)Meadow","2026-07-14 09:24",2,33.660875,-117.841885,TRUE,FALSE,TRUE,"S372090256","N"
-"103","nutman","Scaly-breasted Munia","Lonchura punctulata","L724385","San Dieguito Lagoon--northeast","2026-07-14 09:11",3,32.9780447,-117.2469413,TRUE,FALSE,FALSE,"S372119077","N"
-"104","nutman","Scaly-breasted Munia","Lonchura punctulata","L3199493","Little La Jolla Canyon","2026-07-14 09:09",3,32.8786444,-117.2124267,TRUE,FALSE,FALSE,"S372108920","N"
-"105","nutman","Scaly-breasted Munia","Lonchura punctulata","L1299132",""" Oceania Ct","2026-07-14 09:00",2,29.7603277,-95.7094413,TRUE,FALSE,TRUE,"S372123052","N"
-"106","nutman","Scaly-breasted Munia","Lonchura punctulata","L489033","Huntington Central Park--West","2026-07-14 09:00",2,33.6987793,-118.0100083,TRUE,FALSE,FALSE,"S372200989","N"
-"107","nutman","Scaly-breasted Munia","Lonchura punctulata","L508729","Huntington Central Park--Shipley Nature Center","2026-07-14 09:00",1,33.7032414,-118.0085759,TRUE,FALSE,FALSE,"S372088581","N"
-"108","nutman","Scaly-breasted Munia","Lonchura punctulata","L4318331","Encinitas--Arden Dr.","2026-07-14 08:48",1,33.0379604,-117.2881212,TRUE,FALSE,FALSE,"S372074163","N"
-"109","nutman","Scaly-breasted Munia","Lonchura punctulata","L6846331","Mississippi State University--Coastal Research & Extension Center","2026-07-14 08:41",2,30.4412661,-88.943592,TRUE,FALSE,FALSE,"S372026230","P"
-"110","nutman","Scaly-breasted Munia","Lonchura punctulata","L73479904","Andrée Clark Bird Refuge, Santa Barbara US-CA (34.4222,-119.6592)","2026-07-14 08:34",4,34.422184,-119.659199,TRUE,FALSE,TRUE,"S372087628","N"
-"111","nutman","Scaly-breasted Munia","Lonchura punctulata","L615794","Coal Oil Point Natural Reserve--Devereux Lagoon","2026-07-14 08:31",2,34.4136013,-119.8756027,TRUE,FALSE,FALSE,"S372099618","N"
-"112","nutman","Scaly-breasted Munia","Lonchura punctulata","L60414653","2135 Citrus Tree Ln, Spring Valley US-CA 32.72895, -116.97746","2026-07-14 08:30",6,32.728947,-116.977456,TRUE,FALSE,TRUE,"S372075347","N"
-"113","nutman","Scaly-breasted Munia","Lonchura punctulata","L17635501","Tustin Legacy Park","2026-07-14 08:25",1,33.7055458,-117.8409781,TRUE,FALSE,FALSE,"S372173812","N"
-"114","nutman","Scaly-breasted Munia","Lonchura punctulata","L4418318","Carmel Grove Park","2026-07-14 08:22",7,32.9419516,-117.2317883,TRUE,FALSE,FALSE,"S372077143","N"
-"115","nutman","Scaly-breasted Munia","Lonchura punctulata","L23532995","SAR Temescal Creek at Lincoln 92880, Corona US-CA (33.8947,-117.5789)","2026-07-14 08:17",4,33.894677,-117.578866,TRUE,FALSE,TRUE,"S372062106","N"
-"116","nutman","Scaly-breasted Munia","Lonchura punctulata","L27073703","Medical Park Creekview Trail","2026-07-14 08:13",14,33.183526,-117.2822121,TRUE,FALSE,FALSE,"S372069598","N"
-"117","nutman","Scaly-breasted Munia","Lonchura punctulata","L33113432","San Luis Rey River--Foussat to Douglas","2026-07-14 08:10",8,33.2353389,-117.3417672,TRUE,FALSE,FALSE,"S372068143","N"
-"118","nutman","Scaly-breasted Munia","Lonchura punctulata","L208146","Mission Trails Regional Park--northeast region","2026-07-14 08:04",10,32.8439826,-117.0376255,TRUE,FALSE,FALSE,"S372121851","N"
-"119","nutman","Scaly-breasted Munia","Lonchura punctulata","L14100960","Carmel Knolls Park","2026-07-14 07:57",4,32.950488,-117.2141495,TRUE,FALSE,FALSE,"S372050779","N"
-"120","nutman","Scaly-breasted Munia","Lonchura punctulata","L1062918","Dixon Lake","2026-07-14 07:53",3,33.1615529,-117.0498848,TRUE,FALSE,FALSE,"S372131623","N"
-"121","nutman","Scaly-breasted Munia","Lonchura punctulata","L731118","Marian Bear Natural Memorial Park--Regents Rd.","2026-07-14 07:50",4,32.8410212,-117.216745,TRUE,FALSE,FALSE,"S372068853","N"
-"122","nutman","Scaly-breasted Munia","Lonchura punctulata","L23825850","Steve Soboroff Court Park","2026-07-14 07:44",6,33.9828092,-118.400743,TRUE,FALSE,FALSE,"S372048359","N"
-"123","nutman","Scaly-breasted Munia","Lonchura punctulata","L18262164","San Rafael hills north of la Loma rd.","2026-07-14 07:38",8,34.136664,-118.180409,TRUE,FALSE,TRUE,"S372067298","N"
-"124","nutman","Scaly-breasted Munia","Lonchura punctulata","L57746857","Home","2026-07-14 07:35",3,34.081289,-118.488138,TRUE,FALSE,TRUE,"S372081774","N"
-"125","nutman","Scaly-breasted Munia","Lonchura punctulata","L13187228","Carmel Creek Neighborhood Park","2026-07-14 07:31",8,32.9515766,-117.224105,TRUE,FALSE,FALSE,"S372041759","N"
-"126","nutman","Scaly-breasted Munia","Lonchura punctulata","L57435847","neighborhood walk","2026-07-14 07:30",1,32.9055959,-117.0724583,TRUE,FALSE,TRUE,"S372058237","N"
-"127","nutman","Scaly-breasted Munia","Lonchura punctulata","L16450772","Madrona Marsh","2026-07-14 07:30",1,33.8288756,-118.3417869,TRUE,FALSE,TRUE,"S372137310","N"
-"128","nutman","Scaly-breasted Munia","Lonchura punctulata","L73458819","Marlow Ferry Park","2026-07-14 07:26",6,30.462059,-87.801198,TRUE,FALSE,TRUE,"S371998925","N"
-"129","nutman","Scaly-breasted Munia","Lonchura punctulata","L6566182","Bay Park, 4834 Huron Avenue, San Diego, California, US (32.796, -117.196)","2026-07-14 07:23",5,32.796341,-117.1958369,TRUE,FALSE,TRUE,"S372043559","N"
-"130","nutman","Scaly-breasted Munia","Lonchura punctulata","L253053","ʻAiea Loop Trail and Keaīwa Heiau SP","2026-07-14 07:23",1,21.3988172,-157.9000568,TRUE,FALSE,FALSE,"S372158912","N"
-"131","nutman","Scaly-breasted Munia","Lonchura punctulata","L4421921","Serrano Creek Trail - SE Segment","2026-07-14 07:21",7,33.6540435,-117.6805043,TRUE,FALSE,FALSE,"S372059015","N"
-"132","nutman","Scaly-breasted Munia","Lonchura punctulata","L55765825","Oak ridge park road community","2026-07-14 07:09",3,34.86473,-120.40688,TRUE,FALSE,TRUE,"S372077999","N"
-"133","nutman","Scaly-breasted Munia","Lonchura punctulata","L771367","Santa Ana River--Adams Ave. to Gisler Ave.","2026-07-14 07:06",5,33.6802826,-117.9420948,TRUE,FALSE,FALSE,"S372044113","N"
-"134","nutman","Scaly-breasted Munia","Lonchura punctulata","L4463559","Carmel Mission Park","2026-07-14 07:00",4,32.9477773,-117.2215623,TRUE,FALSE,FALSE,"S372032353","N"
-"135","nutman","Scaly-breasted Munia","Lonchura punctulata","L20165643","backyard","2026-07-14 07:00",4,32.7592926,-117.0376257,TRUE,FALSE,TRUE,"S372478235","N"
-"136","nutman","Scaly-breasted Munia","Lonchura punctulata","L599013","Biola University","2026-07-14 06:53",9,33.9053284,-118.0157697,TRUE,FALSE,FALSE,"S372176561","N"
-"137","nutman","Scaly-breasted Munia","Lonchura punctulata","L3837006","5049 Walnut Park Drive","2026-07-14 06:52",1,34.4508251,-119.7977167,TRUE,FALSE,TRUE,"S372241818","N"
-"138","nutman","Scaly-breasted Munia","Lonchura punctulata","L29918441","Mill House","2026-07-14 06:51",1,30.636246,-87.158941,TRUE,FALSE,TRUE,"S371972173","N"
-"139","nutman","Scaly-breasted Munia","Lonchura punctulata","L38747733","lower Country Club Dr, Laguna Beach","2026-07-14 06:47",2,33.5127957,-117.7521529,TRUE,FALSE,TRUE,"S372536943","N"
-"140","nutman","Scaly-breasted Munia","Lonchura punctulata","L63522488","1919 Rue Chateau, Chula Vista US-CA (32.6542,-116.9845)","2026-07-14 06:32",1,32.654152,-116.984474,TRUE,FALSE,TRUE,"S372012728","N"
-"141","nutman","Scaly-breasted Munia","Lonchura punctulata","L942775","Tarragona Dr.","2026-07-14 06:16",15,32.7553044,-117.062473,TRUE,FALSE,TRUE,"S372012793","N"
-"142","nutman","Scaly-breasted Munia","Lonchura punctulata","L38755058","Serra Retreat","2026-07-14 06:12",5,34.0455301,-118.6817193,TRUE,FALSE,FALSE,"S372230277","N"
-"143","nutman","Scaly-breasted Munia","Lonchura punctulata","L57404771","San Elijo Lagoon--east (CA Atlas - Rancho Santa Fe SW)","2026-07-14 06:09",6,33.0096658,-117.2431639,TRUE,FALSE,FALSE,"S372052196","N"
-"144","nutman","Scaly-breasted Munia","Lonchura punctulata","L27703661","backyard","2026-07-14 04:31",3,33.7592782,-118.4019712,TRUE,FALSE,TRUE,"S372207404","N"
-"145","nutman","Scaly-breasted Munia","Lonchura punctulata","L7186031","Walker Preserve Trail","2026-07-13 18:53",NA,32.8495018,-116.9695779,TRUE,FALSE,FALSE,"S371851796","N"
-"146","nutman","Scaly-breasted Munia","Lonchura punctulata","L7206023","Gallery St, Pascagoula US-MS (30.3499,-88.5178)","2026-07-13 18:51",1,30.349914,-88.517803,TRUE,FALSE,TRUE,"S371826857","P"
-"147","nutman","Scaly-breasted Munia","Lonchura punctulata","L37228334","3509 Willow Ln, Gulf Breeze","2026-07-13 18:46",4,30.385512,-87.073321,TRUE,FALSE,TRUE,"S371819219","N"
-"148","nutman","Scaly-breasted Munia","Lonchura punctulata","L73431231","1645 Peʻe Rd, Poʻipū US-HI 21.87029, -159.44550","2026-07-13 18:34",2,21.870287,-159.445503,TRUE,FALSE,TRUE,"S371870564","N"
-"149","nutman","Scaly-breasted Munia","Lonchura punctulata","L73420686","San Diego creek","2026-07-13 17:14",2,33.679494,-117.803695,TRUE,FALSE,TRUE,"S371826305","N"
-"150","nutman","Scaly-breasted Munia","Lonchura punctulata","L72605244","San Diego Mesa College","2026-07-13 16:48",8,32.8042585,-117.1695304,TRUE,FALSE,FALSE,"S371841035","N"
-"151","nutman","Scaly-breasted Munia","Lonchura punctulata","L59991087","Marshburn Retarding Basin (Restricted Access)","2026-07-13 16:08",2,33.694302,-117.727114,TRUE,FALSE,TRUE,"S371815240","N"
-"152","nutman","Scaly-breasted Munia","Lonchura punctulata","L73411501","Mile Square","2026-07-13 15:00",1,33.728072,-117.941994,TRUE,FALSE,TRUE,"S371792640","N"
-"153","nutman","Scaly-breasted Munia","Lonchura punctulata","L60006454","Eastfoot Retarding Basin (Restricted Access)","2026-07-13 14:48",2,33.751678,-117.753703,TRUE,FALSE,TRUE,"S371796198","N"
-"154","nutman","Scaly-breasted Munia","Lonchura punctulata","L732299","Hansen Dam","2026-07-13 14:40",4,34.2670624,-118.385067,TRUE,FALSE,FALSE,"S372048425","N"
-"155","nutman","Scaly-breasted Munia","Lonchura punctulata","L3121882","Entradero Park","2026-07-13 14:05",6,33.8536309,-118.3720636,TRUE,FALSE,FALSE,"S371786357","N"
-"156","nutman","Scaly-breasted Munia","Lonchura punctulata","L12646843","Ocean Air Community Park","2026-07-13 13:32",NA,32.927071,-117.2171065,TRUE,FALSE,FALSE,"S371782236","N"
-"157","nutman","Scaly-breasted Munia","Lonchura punctulata","L73428360","Kualoa Ranch, Kaneohe","2026-07-13 13:27",1,21.520532,-157.837754,TRUE,FALSE,TRUE,"S371857622","N"
-"158","nutman","Scaly-breasted Munia","Lonchura punctulata","L27962572","discovery lake","2026-07-13 13:03",1,33.1236025,-117.1789926,TRUE,FALSE,TRUE,"S371769613","N"
-"159","nutman","Scaly-breasted Munia","Lonchura punctulata","L464545","Buddy Todd Park","2026-07-13 12:30",8,33.2076695,-117.3475885,TRUE,FALSE,FALSE,"S371809437","N"
-"160","nutman","Scaly-breasted Munia","Lonchura punctulata","L548691","San Dieguito County Park","2026-07-13 12:05",1,32.9984386,-117.2368133,TRUE,FALSE,FALSE,"S371786703","N"
-"161","nutman","Scaly-breasted Munia","Lonchura punctulata","L13535275","Lydgate Beach Park","2026-07-13 11:57",1,22.0404183,-159.3354678,TRUE,FALSE,FALSE,"S371862700","N"
-"162","nutman","Scaly-breasted Munia","Lonchura punctulata","L73408572","3486 Rice St, Līhuʻe US-HI 21.96078, -159.35265","2026-07-13 10:54",1,21.960781,-159.352651,TRUE,FALSE,TRUE,"S371776111","N"
-"163","nutman","Scaly-breasted Munia","Lonchura punctulata","L1552663","Ken Malloy Harbor Regional Park","2026-07-13 10:52",1,33.7874582,-118.2939363,TRUE,FALSE,FALSE,"S371779802","N"
-"164","nutman","Scaly-breasted Munia","Lonchura punctulata","L11830333","Los Peñasquitos Canyon Preserve","2026-07-13 10:37",2,32.9370987,-117.1276689,TRUE,FALSE,FALSE,"S371753214","N"
-"165","nutman","Scaly-breasted Munia","Lonchura punctulata","L8591521","Home - 10810 Tupperlake Dr. Houston, Texas","2026-07-13 10:35",4,29.755732,-95.5685111,TRUE,FALSE,TRUE,"S371677284","N"
-"166","nutman","Scaly-breasted Munia","Lonchura punctulata","L1284797","Del Mar Public Works","2026-07-13 10:32",7,32.9708025,-117.2644883,TRUE,FALSE,FALSE,"S371734205","N"
-"167","nutman","Scaly-breasted Munia","Lonchura punctulata","L213999","Laguna Niguel Regional Park","2026-07-13 10:31",2,33.5494066,-117.709837,TRUE,FALSE,FALSE,"S372429744","N"
-"168","nutman","Scaly-breasted Munia","Lonchura punctulata","L12384763","Wild Oaks Dr, Ocean Springs US-MS","2026-07-13 10:00",4,30.381412,-88.764587,TRUE,FALSE,TRUE,"S371734640","P"
-"169","nutman","Scaly-breasted Munia","Lonchura punctulata","L6946870","San Dieguito Dr. south end","2026-07-13 09:39",6,32.9615027,-117.256233,TRUE,FALSE,FALSE,"S371708375","N"
-"170","nutman","Scaly-breasted Munia","Lonchura punctulata","L738572","Gum Grove Park, Seal Beach","2026-07-13 09:37",2,33.7496426,-118.0959034,TRUE,FALSE,FALSE,"S371721496","N"
-"171","nutman","Scaly-breasted Munia","Lonchura punctulata","L634125","San Dieguito Rd. horse pastures","2026-07-13 09:30",5,32.9844148,-117.2037524,TRUE,FALSE,FALSE,"S371846792","N"
-"172","nutman","Scaly-breasted Munia","Lonchura punctulata","L1368596","Huntington Central Park--Urban Forest","2026-07-13 09:24",2,33.6940085,-118.0108236,TRUE,FALSE,FALSE,"S371787862","N"
-"173","nutman","Scaly-breasted Munia","Lonchura punctulata","L716168","SDSU","2026-07-13 09:12",4,32.7747876,-117.0717972,TRUE,FALSE,FALSE,"S371702627","N"
-"174","nutman","Scaly-breasted Munia","Lonchura punctulata","L631083","Buccaneer Park & Loma Alta Creek","2026-07-13 09:10",3,33.1772196,-117.3686157,TRUE,FALSE,FALSE,"S371732541","N"
-"175","nutman","Scaly-breasted Munia","Lonchura punctulata","L3215932","Poway Creek","2026-07-13 09:05",2,32.9509914,-117.0495415,TRUE,FALSE,FALSE,"S371705861","N"
-"176","nutman","Scaly-breasted Munia","Lonchura punctulata","L28360851","7413 Mirano Dr, Goleta US-CA 34.43882, -119.88506","2026-07-13 09:03",4,34.438815,-119.885057,TRUE,FALSE,TRUE,"S371709674","N"
-"177","nutman","Scaly-breasted Munia","Lonchura punctulata","L631089","Mission San Diego de Alcala","2026-07-13 08:58",4,32.7842953,-117.1063989,TRUE,FALSE,FALSE,"S371734849","N"
-"178","nutman","Scaly-breasted Munia","Lonchura punctulata","L73382560","92121, San Diego US-CA 32.84980, -117.16082","2026-07-13 08:45",1,32.849799,-117.160823,TRUE,FALSE,TRUE,"S371679518","N"
-"179","nutman","Scaly-breasted Munia","Lonchura punctulata","L1267069","Torrey Pines State Reserve--Flintkote Ave.","2026-07-13 08:44",2,32.90862,-117.2333908,TRUE,FALSE,FALSE,"S371738086","N"
-"180","nutman","Scaly-breasted Munia","Lonchura punctulata","L2066795","La Cumbre Country Club (restricted access)","2026-07-13 08:41",12,34.4320095,-119.7586155,TRUE,FALSE,FALSE,"S371702038","N"
-"181","nutman","Scaly-breasted Munia","Lonchura punctulata","L22243916","Las Brisas Trail greenbelt","2026-07-13 08:41",3,33.5774819,-117.18723,TRUE,FALSE,FALSE,"S371687530","N"
-"182","nutman","Scaly-breasted Munia","Lonchura punctulata","L6429438","Mission Trails Regional Park--Lake Murray Blvd. trailhead","2026-07-13 08:40",1,32.8159194,-117.0101291,TRUE,FALSE,FALSE,"S371675709","N"
-"183","nutman","Scaly-breasted Munia","Lonchura punctulata","L50153372","Urban Orchard Park","2026-07-13 08:20",2,33.9466283,-118.1715596,TRUE,FALSE,FALSE,"S371669821","N"
-"184","nutman","Scaly-breasted Munia","Lonchura punctulata","L72089143","Buffalo Bayou Park, Houston US-TX 29.76043, -95.40211","2026-07-13 08:07",5,29.760434,-95.402109,TRUE,FALSE,TRUE,"S371638094","N"
-"185","nutman","Scaly-breasted Munia","Lonchura punctulata","L16019847","Betty’s Yard","2026-07-13 08:05",2,25.6704256,-80.3094112,TRUE,FALSE,TRUE,"S371594762","N"
-"186","nutman","Scaly-breasted Munia","Lonchura punctulata","L7051697","Trail to Wyllie's Beach / Princeville Westin Resort","2026-07-13 08:04",3,22.2217854,-159.4682674,TRUE,FALSE,FALSE,"S371758752","N"
-"187","nutman","Scaly-breasted Munia","Lonchura punctulata","L836315","Loyola Marymount University","2026-07-13 08:03",2,33.9723529,-118.4164274,TRUE,FALSE,FALSE,"S371763510","N"
-"188","nutman","Scaly-breasted Munia","Lonchura punctulata","L13354292","Birdcage Park","2026-07-13 08:03",2,33.8303109,-118.1042092,TRUE,FALSE,FALSE,"S372539652","N"
-"189","nutman","Scaly-breasted Munia","Lonchura punctulata","L760845","Rose Canyon Park","2026-07-13 07:58",1,32.8563378,-117.220881,TRUE,FALSE,FALSE,"S371677924","N"
-"190","nutman","Scaly-breasted Munia","Lonchura punctulata","L52505728","San Rafael hills south of glen nullen west of Ave 64","2026-07-13 07:35",6,34.133445,-118.179921,TRUE,FALSE,TRUE,"S371686875","N"
-"191","nutman","Scaly-breasted Munia","Lonchura punctulata","L61021671","Esperanza Channel (Dominguez Ranch Trail)","2026-07-13 07:34",3,33.884649,-117.762878,TRUE,FALSE,TRUE,"S371688790","N"
-"192","nutman","Scaly-breasted Munia","Lonchura punctulata","L17516119","BVAS Mauro Preserve, Oceanside, CA","2026-07-13 07:33",7,33.2400515,-117.3449792,TRUE,FALSE,TRUE,"S371802772","N"
-"193","nutman","Scaly-breasted Munia","Lonchura punctulata","L30922803","Roccy and Paula's place","2026-07-13 07:27",10,32.7753033,-116.9231768,TRUE,FALSE,TRUE,"S371757099","N"
-"194","nutman","Scaly-breasted Munia","Lonchura punctulata","L73381891","Parker Ranch Trail","2026-07-13 07:18",2,34.267184,-118.69276,TRUE,FALSE,TRUE,"S371677250","N"
-"195","nutman","Scaly-breasted Munia","Lonchura punctulata","L958620","Upper Santa Ana River--Taft Ave. to Lincoln Ave.","2026-07-13 07:12",3,33.8260771,-117.866478,TRUE,FALSE,FALSE,"S371686904","N"
-"196","nutman","Scaly-breasted Munia","Lonchura punctulata","L73377178","12476 Rue Fountainebleau, San Diego US-CA 32.90654, -117.06980","2026-07-13 07:11",2,32.906539,-117.069797,TRUE,FALSE,TRUE,"S371658287","N"
-"197","nutman","Scaly-breasted Munia","Lonchura punctulata","L9817881","Home","2026-07-13 07:04",1,33.9990074,-117.8041415,TRUE,FALSE,TRUE,"S371631684","N"
-"198","nutman","Scaly-breasted Munia","Lonchura punctulata","L1960476","Home, Backyard","2026-07-13 07:02",3,32.9407274,-117.073676,TRUE,FALSE,TRUE,"S371632391","N"
-"199","nutman","Scaly-breasted Munia","Lonchura punctulata","L695728","Serrano Creek Park, Lake Forest","2026-07-13 07:01",8,33.6484932,-117.6979065,TRUE,FALSE,FALSE,"S371650003","N"
-"200","nutman","Scaly-breasted Munia","Lonchura punctulata","L20658552","Home 7231 Londres Dr, Houston US-TX 29.69772, -95.67843","2026-07-13 07:00",1,29.697723,-95.678433,TRUE,FALSE,TRUE,"S371602827","N"
-"201","nutman","Scaly-breasted Munia","Lonchura punctulata","L8859975","Home","2026-07-13 06:45",1,33.1002384,-117.2705588,TRUE,FALSE,TRUE,"S371639139","N"
-"202","nutman","Scaly-breasted Munia","Lonchura punctulata","L20295174","2559 Greyling Dr, San Diego US-CA 32.79194, -117.14274","2026-07-13 06:43",6,32.791941,-117.142738,TRUE,FALSE,TRUE,"S371622742","N"
-"203","nutman","Scaly-breasted Munia","Lonchura punctulata","L26112517","1557 Martingale Ct","2026-07-13 06:40",1,33.115566,-117.289995,TRUE,FALSE,TRUE,"S371655177","N"
-"204","nutman","Scaly-breasted Munia","Lonchura punctulata","L34782608","PARCEL 2","2026-07-13 06:39",3,33.902035,-117.616724,TRUE,FALSE,TRUE,"S371641065","N"
-"205","nutman","Scaly-breasted Munia","Lonchura punctulata","L3310898","Northwest Open Space Park","2026-07-13 06:35",1,33.5274,-117.67162,TRUE,FALSE,FALSE,"S371861803","N"
-"206","nutman","Scaly-breasted Munia","Lonchura punctulata","L24338549","George Wolfberg Park at Potrero Canyon","2026-07-13 06:32",8,34.036991,-118.524064,TRUE,FALSE,FALSE,"S371683387","N"
-"207","nutman","Scaly-breasted Munia","Lonchura punctulata","L73373347","92121, San Diego US-CA 32.84190, -117.15570","2026-07-13 06:29",6,32.841901,-117.155697,TRUE,FALSE,TRUE,"S371643195","N"
-"208","nutman","Scaly-breasted Munia","Lonchura punctulata","L28365220","34th St Canyon Open Space","2026-07-13 06:10",3,32.7216238,-117.1185064,TRUE,FALSE,FALSE,"S371686100","N"
-"209","nutman","Scaly-breasted Munia","Lonchura punctulata","L577740","San Elijo Lagoon--east","2026-07-13 06:02",8,33.0112764,-117.2520982,TRUE,FALSE,FALSE,"S371777413","N"
-"210","nutman","Scaly-breasted Munia","Lonchura punctulata","L596714","Playa Vista Riparian Corridor","2026-07-13 05:54",NA,33.9737232,-118.4146357,TRUE,FALSE,FALSE,"S371624181","N"
-"211","nutman","Scaly-breasted Munia","Lonchura punctulata","L73381855","Flamingo street","2026-07-13 05:42",5,21.348337,-157.731221,TRUE,FALSE,TRUE,"S371677111","N"
-"212","nutman","Scaly-breasted Munia","Lonchura punctulata","L601812","Black Widow Ranch","2026-07-13",3,33.9856225,-117.3125723,TRUE,FALSE,TRUE,"S371881654","N"
-"213","nutman","Scaly-breasted Munia","Lonchura punctulata","L2359236","Creekside Park (Aliso Viejo)","2026-07-12 19:11",1,33.5855228,-117.7150404,TRUE,FALSE,FALSE,"S371466396","N"
-"214","nutman","Scaly-breasted Munia","Lonchura punctulata","L8565316","Arevalos Park","2026-07-12 18:34",2,33.6767097,-117.9452166,TRUE,FALSE,FALSE,"S371693991","N"
-"215","nutman","Scaly-breasted Munia","Lonchura punctulata","L6086286","Baby Beach","2026-07-12 17:38",2,21.8796471,-159.4719064,TRUE,FALSE,FALSE,"S371481150","N"
-"216","nutman","Scaly-breasted Munia","Lonchura punctulata","L41045347","My back yard","2026-07-12 17:05",1,33.048713,-117.239865,TRUE,FALSE,TRUE,"S371662339","N"
-"217","nutman","Scaly-breasted Munia","Lonchura punctulata","L1327798","Elysian Park--Chavez Ravine","2026-07-12 16:24",1,34.0819259,-118.2473737,TRUE,FALSE,FALSE,"S371419205","N"
-"218","nutman","Scaly-breasted Munia","Lonchura punctulata","L152148","Atwater Village","2026-07-12 15:23",5,34.12261,-118.26931,TRUE,FALSE,FALSE,"S371407773","N"
-"219","nutman","Scaly-breasted Munia","Lonchura punctulata","L27747707","4345 Del Mar Trails Rd, San Diego US-CA 32.94184, -117.22108","2026-07-12 15:21",2,32.941844,-117.22108,TRUE,FALSE,TRUE,"S371396440","N"
-"220","nutman","Scaly-breasted Munia","Lonchura punctulata","L3177894","West San Gabriel River Parkway Nature Trail","2026-07-12 15:01",8,33.83918,-118.09587,TRUE,FALSE,FALSE,"S371432720","N"
-"221","nutman","Scaly-breasted Munia","Lonchura punctulata","L2442505","Meadow Park--San Luis Obispo","2026-07-12 14:51",2,35.2675798,-120.6606531,TRUE,FALSE,FALSE,"S371395278","N"
-"222","nutman","Scaly-breasted Munia","Lonchura punctulata","L4375892","Switzer Canyon west","2026-07-12 14:49",5,32.7330142,-117.1308231,TRUE,FALSE,FALSE,"S371399749","N"
-"223","nutman","Scaly-breasted Munia","Lonchura punctulata","L62815413","forever home","2026-07-12 14:46",19,30.384852,-89.3606419,TRUE,FALSE,TRUE,"S371371497","P"
-"224","nutman","Scaly-breasted Munia","Lonchura punctulata","L2566412","Aviara Resort","2026-07-12 14:36",15,33.0941948,-117.2830161,TRUE,FALSE,FALSE,"S371419219","N"
-"225","nutman","Scaly-breasted Munia","Lonchura punctulata","L5786034","Talbert Regional Park (North)","2026-07-12 12:22",3,33.6606925,-117.9456997,TRUE,FALSE,FALSE,"S371342380","N"
-"226","nutman","Scaly-breasted Munia","Lonchura punctulata","L2455878","Whittier Narrows--mitigation lakes","2026-07-12 12:16",1,34.027624,-118.0591035,TRUE,FALSE,FALSE,"S371367350","N"
-"227","nutman","Scaly-breasted Munia","Lonchura punctulata","L839457","Getty Villa Museum","2026-07-12 11:30",1,34.0444455,-118.5658371,TRUE,FALSE,FALSE,"S371868551","N"
-"228","nutman","Scaly-breasted Munia","Lonchura punctulata","L54821439","Oak Creek Neighborhood, Escondido US-CA","2026-07-12 11:13",10,33.086326,-117.082758,TRUE,FALSE,TRUE,"S371326462","N"
-"229","nutman","Scaly-breasted Munia","Lonchura punctulata","L4379714","Los Angeles County Arboretum & Botanic Garden","2026-07-12 10:19",10,34.1438801,-118.0518637,TRUE,FALSE,FALSE,"S371326207","N"
-"230","nutman","Scaly-breasted Munia","Lonchura punctulata","L19347455","Princeville Makai Golf Course","2026-07-12 10:12",2,22.2202636,-159.4802692,TRUE,FALSE,FALSE,"S371461600","N"
-"231","nutman","Scaly-breasted Munia","Lonchura punctulata","L73327407","1990 ridge View dr san diego ca","2026-07-12 10:00",10,32.7265832,-117.0982616,TRUE,FALSE,TRUE,"S371443425","N"
-"232","nutman","Scaly-breasted Munia","Lonchura punctulata","L623627","Santiago Park, Santa Ana","2026-07-12 09:21",4,33.7739036,-117.8600407,TRUE,FALSE,FALSE,"S371314437","N"
-"233","nutman","Scaly-breasted Munia","Lonchura punctulata","L8505070","388 Avenida de Diamante, Arroyo Grande, CA 93420","2026-07-12 09:15",1,35.1302944,-120.5885601,TRUE,FALSE,TRUE,"S371243384","N"
-"234","nutman","Scaly-breasted Munia","Lonchura punctulata","L446946","Mile Square Regional Park, Fountain Valley","2026-07-12 09:15",2,33.7246609,-117.9395199,TRUE,FALSE,FALSE,"S371336135","N"
-"235","nutman","Scaly-breasted Munia","Lonchura punctulata","L267488","San Jose Creek--near Berkeley Road","2026-07-12 09:07",2,34.4459306,-119.8152416,TRUE,FALSE,FALSE,"S371404392","N"
-"236","nutman","Scaly-breasted Munia","Lonchura punctulata","L10053177","La Costa Ranch","2026-07-12 09:06",11,33.0895832,-117.2502914,TRUE,FALSE,FALSE,"S371246402","N"
-"237","nutman","Scaly-breasted Munia","Lonchura punctulata","L4955870","12675 Waxwing Ave. (private)","2026-07-12 08:50",1,30.68596,-87.8065796,TRUE,FALSE,TRUE,"S371264649","N"
-"238","nutman","Scaly-breasted Munia","Lonchura punctulata","L27739727","Aston & Rutherford business area","2026-07-12 08:30",1,33.1316733,-117.2864743,TRUE,FALSE,FALSE,"S371227978","N"
-"239","nutman","Scaly-breasted Munia","Lonchura punctulata","L1929860","Playa Vista Sports Park","2026-07-12 08:18",2,33.9674369,-118.4258392,TRUE,FALSE,FALSE,"S371228274","N"
-"240","nutman","Scaly-breasted Munia","Lonchura punctulata","L16493035","Andrea’s yard","2026-07-12 08:14",5,25.676636,-80.295191,TRUE,FALSE,TRUE,"S371355289","N"
-"241","nutman","Scaly-breasted Munia","Lonchura punctulata","L30724656","Mānā Plains Forest Reserve Wetland","2026-07-12 08:08",3,22.0140235,-159.7736478,TRUE,FALSE,FALSE,"S371320094","N"
-"242","nutman","Scaly-breasted Munia","Lonchura punctulata","L13754061","Leucadia Oaks Park","2026-07-12 08:02",6,33.0742511,-117.304346,TRUE,FALSE,FALSE,"S371212972","N"
-"243","nutman","Scaly-breasted Munia","Lonchura punctulata","L2263572","San Joaquin Wildlife Sanctuary--Fledgling Loop Trail","2026-07-12 08:00",1,33.6609892,-117.8437141,TRUE,FALSE,FALSE,"S371309522","N"
-"244","nutman","Scaly-breasted Munia","Lonchura punctulata","L45610150","Coldwater Canyon Park (Beverly Hills)","2026-07-12 07:54",2,34.090862,-118.411719,TRUE,FALSE,FALSE,"S371200612","N"
-"245","nutman","Scaly-breasted Munia","Lonchura punctulata","L384938","San Diego Zoo Safari Park","2026-07-12 07:54",1,33.0973669,-116.9981978,TRUE,FALSE,FALSE,"S371314327","N"
-"246","nutman","Scaly-breasted Munia","Lonchura punctulata","L38591616","Home","2026-07-12 07:46",2,32.800348,-117.026368,TRUE,FALSE,TRUE,"S371196919","N"
-"247","nutman","Scaly-breasted Munia","Lonchura punctulata","L40102377","My Yard","2026-07-12 07:42",1,33.118652,-117.011624,TRUE,FALSE,TRUE,"S371210266","N"
-"248","nutman","Scaly-breasted Munia","Lonchura punctulata","L54607268","Calle Pelicano, Santa Barbara US-CA 34.44435, -119.76589","2026-07-12 07:39",2,34.444353,-119.765887,TRUE,FALSE,TRUE,"S371267394","N"
-"249","nutman","Scaly-breasted Munia","Lonchura punctulata","L283345","Guajome Regional Park","2026-07-12 07:35",5,33.2471763,-117.2729558,TRUE,FALSE,FALSE,"S371398102","N"
-"250","nutman","Scaly-breasted Munia","Lonchura punctulata","L9867311","Higbee Rd. Pond","2026-07-12 07:29",4,30.5674834,-87.8445762,TRUE,FALSE,FALSE,"S371116035","N"
-"251","nutman","Scaly-breasted Munia","Lonchura punctulata","L481023","Los Angeles River--Willow St.","2026-07-12 07:23",1,33.8048977,-118.2059383,TRUE,FALSE,FALSE,"S371226842","N"
-"252","nutman","Scaly-breasted Munia","Lonchura punctulata","L451252","Ralph B. Clark Regional Park, Buena Park","2026-07-12 07:14",1,33.8942326,-117.9763627,TRUE,FALSE,FALSE,"S371279686","N"
-"253","nutman","Scaly-breasted Munia","Lonchura punctulata","L10331727","Walker Preserve Trail--Riverford Rd to Channel Rd","2026-07-12 07:02",3,32.8607076,-116.9363581,TRUE,FALSE,FALSE,"S371226168","N"
-"254","nutman","Scaly-breasted Munia","Lonchura punctulata","L1936212","Art's  yard","2026-07-12 06:55",9,32.7014038,-117.0168574,TRUE,FALSE,TRUE,"S371221725","N"
-"255","nutman","Scaly-breasted Munia","Lonchura punctulata","L54413547","Deer Park Monastery- Solidity Hamlet","2026-07-12 06:52",2,33.189031,-117.073509,TRUE,FALSE,TRUE,"S371162998","N"
-"256","nutman","Scaly-breasted Munia","Lonchura punctulata","L344141","Los Angeles River--Sunnynook Bridge","2026-07-12 06:49",3,34.1161926,-118.2674682,TRUE,FALSE,FALSE,"S371198538","N"
-"257","nutman","Scaly-breasted Munia","Lonchura punctulata","L9995680","Modoc Preserve","2026-07-12 06:48",1,34.4369649,-119.7633147,TRUE,FALSE,FALSE,"S371167626","N"
-"258","nutman","Scaly-breasted Munia","Lonchura punctulata","L899956","San Timoteo Creek (SBE Co.)","2026-07-12 06:32",10,34.0239962,-117.1946812,TRUE,FALSE,FALSE,"S371238534","N"
-"259","nutman","Scaly-breasted Munia","Lonchura punctulata","L16897096","Home","2026-07-12 06:22",2,33.212318,-117.284457,TRUE,FALSE,TRUE,"S371169774","N"
-"260","nutman","Scaly-breasted Munia","Lonchura punctulata","L768273","Los Angeles River--Sepulveda Basin","2026-07-12 06:00",1,34.1694526,-118.4756184,TRUE,FALSE,FALSE,"S372212948","N"
-"261","nutman","Scaly-breasted Munia","Lonchura punctulata","L1865408","IP Wetlands (no public access)","2026-07-12 05:55",4,30.4622915,-87.3852814,TRUE,FALSE,TRUE,"S371187865","N"
-"262","nutman","Scaly-breasted Munia","Lonchura punctulata","L422444","Franklin Canyon Park--upper","2026-07-11 19:42",1,34.1211488,-118.4098935,TRUE,FALSE,FALSE,"S370947372","N"
-"263","nutman","Scaly-breasted Munia","Lonchura punctulata","L73430148","Rancho Simi Community Park, Simi Valley US-CA (34.2670,-118.7642)","2026-07-11 18:40",1,34.266974,-118.764204,TRUE,FALSE,TRUE,"S371865031","N"
-"264","nutman","Scaly-breasted Munia","Lonchura punctulata","L2777431","Sabre Springs Hill Walk","2026-07-11 17:55",2,32.9449011,-117.0753336,TRUE,FALSE,TRUE,"S370945525","N"
-"265","nutman","Scaly-breasted Munia","Lonchura punctulata","L73299087","73-1865 Hao St, Kailua Kona US-HI (19.7061,-155.9478)","2026-07-11 17:53",1,19.706124,-155.947838,TRUE,FALSE,TRUE,"S371331514","N"
-"266","nutman","Scaly-breasted Munia","Lonchura punctulata","L5195500","Valley Middle School Trail","2026-07-11 17:49",2,33.156318,-117.329889,TRUE,FALSE,FALSE,"S372443039","N"
-"267","nutman","Scaly-breasted Munia","Lonchura punctulata","L6677058","Upper Ballona Creek Bike Path, Culver City","2026-07-11 17:30",3,34.0119037,-118.3918399,TRUE,FALSE,FALSE,"S370922241","N"
-"268","nutman","Scaly-breasted Munia","Lonchura punctulata","L49176888","alpenglow winery","2026-07-11 17:00",1,33.023832,-116.939387,TRUE,FALSE,TRUE,"S370933778","N"
-"269","nutman","Scaly-breasted Munia","Lonchura punctulata","L28863922","My Yard","2026-07-11 16:41",1,32.7258377,-116.8956375,TRUE,FALSE,TRUE,"S370910177","N"
-"270","nutman","Scaly-breasted Munia","Lonchura punctulata","L2123841","Balboa Park--Florida Canyon scrub","2026-07-11 12:29",1,32.7356314,-117.1423674,TRUE,FALSE,FALSE,"S370854218","N"
-"271","nutman","Scaly-breasted Munia","Lonchura punctulata","L1165694","Bolsa Chica--walkbridge/inner bay","2026-07-11 12:10",2,33.6965128,-118.0451372,TRUE,FALSE,FALSE,"S370857128","N"
-"272","nutman","Scaly-breasted Munia","Lonchura punctulata","L16275276","1016 West San Marcos Boulevard, San Marcos, California, US (33.134, -117.19)","2026-07-11 12:07",20,33.1344527,-117.1897775,TRUE,FALSE,TRUE,"S372571135","N"
-"273","nutman","Scaly-breasted Munia","Lonchura punctulata","L3242241","Anstine-Audubon Nature Preserve (open Saturdays 9a–4p)","2026-07-11 11:50",NA,33.2392109,-117.2408353,TRUE,FALSE,FALSE,"S370819699","N"
-"274","nutman","Scaly-breasted Munia","Lonchura punctulata","L56499796","131 S Kihei Rd, Kīhei US-HI 20.78057, -156.46118","2026-07-11 11:48",3,20.780569,-156.46118,TRUE,FALSE,TRUE,"S370870651","N"
-"275","nutman","Scaly-breasted Munia","Lonchura punctulata","L688896","Gardena Willows Wetland Preserve (Limited Access)","2026-07-11 11:30",8,33.8744598,-118.2919621,TRUE,FALSE,FALSE,"S370867951","N"
-"276","nutman","Scaly-breasted Munia","Lonchura punctulata","L21290229","3515 Gulf Breeze Parkway","2026-07-11 10:27",2,30.387566,-87.075282,TRUE,FALSE,TRUE,"S370713036","N"
-"277","nutman","Scaly-breasted Munia","Lonchura punctulata","L40131691","7615 Shady Way Dr, Sugar Land US-TX (29.5509,-95.6764)","2026-07-11 10:16",1,29.550886,-95.676431,TRUE,FALSE,TRUE,"S370752304","N"
-"278","nutman","Scaly-breasted Munia","Lonchura punctulata","L4151048","Ventura Community Park","2026-07-11 09:46",3,34.27098,-119.19185,TRUE,FALSE,FALSE,"S370757952","N"
-"279","nutman","Scaly-breasted Munia","Lonchura punctulata","L73133714","5740 San Felipe Street, Houston, Texas, US (29.75, -95.478)","2026-07-11 09:42",1,29.7501874,-95.4783173,TRUE,FALSE,TRUE,"S370686875","N"
-"280","nutman","Scaly-breasted Munia","Lonchura punctulata","L1532020","San Dieguito Lagoon--Southeast & Dust Devil Trails","2026-07-11 09:41",4,32.9696861,-117.2395813,TRUE,FALSE,FALSE,"S370792567","N"
-"281","nutman","Scaly-breasted Munia","Lonchura punctulata","L39237830","California Oaks Trail","2026-07-11 09:38",2,33.5722846,-117.2119354,TRUE,FALSE,FALSE,"S370767765","N"
-"282","nutman","Scaly-breasted Munia","Lonchura punctulata","L17399403","Power line open space 33.16755, -117.31585","2026-07-11 09:33",5,33.167545,-117.315854,TRUE,FALSE,TRUE,"S370866335","N"
-"283","nutman","Scaly-breasted Munia","Lonchura punctulata","L3337121","Dover Hendrix Park (Conejo Community Park)","2026-07-11 09:32",1,34.1934,-118.88026,TRUE,FALSE,FALSE,"S370879762","N"
-"284","nutman","Scaly-breasted Munia","Lonchura punctulata","L8967900","8435 Jade Coast Drive, San Diego, California, US (32.902, -117.142)","2026-07-11 09:21",5,32.901949,-117.1417255,TRUE,FALSE,TRUE,"S370770765","N"
-"285","nutman","Scaly-breasted Munia","Lonchura punctulata","L4792086","Dominguez Gap Wetlands","2026-07-11 09:16",3,33.8393561,-118.2025695,TRUE,FALSE,FALSE,"S370770984","N"
-"286","nutman","Scaly-breasted Munia","Lonchura punctulata","L769314","Canyon Park, Costa Mesa","2026-07-11 09:15",1,33.646448,-117.9395306,TRUE,FALSE,FALSE,"S370857879","N"
-"287","nutman","Scaly-breasted Munia","Lonchura punctulata","L43355225","Dalles Ave","2026-07-11 09:15",2,32.8131948,-117.1977903,TRUE,FALSE,TRUE,"S370877536","N"
-"288","nutman","Scaly-breasted Munia","Lonchura punctulata","L871699","San Gabriel River at Spreading Grounds","2026-07-11 09:14",4,33.98585,-118.07646,TRUE,FALSE,FALSE,"S370848516","N"
-"289","nutman","Scaly-breasted Munia","Lonchura punctulata","L22484867","Hollywood Bowl","2026-07-11 09:13",1,34.1123116,-118.3386479,TRUE,FALSE,FALSE,"S370851838","N"
-"290","nutman","Scaly-breasted Munia","Lonchura punctulata","L353255","Elkhorn Slough Reserve (NERR)","2026-07-11 09:08",3,36.8182308,-121.7364764,TRUE,FALSE,FALSE,"S370782674","N"
-"291","nutman","Scaly-breasted Munia","Lonchura punctulata","L40309166","Escondido Mockingbird","2026-07-11 09:02",2,33.090834,-117.054231,TRUE,FALSE,TRUE,"S371666503","N"
-"292","nutman","Scaly-breasted Munia","Lonchura punctulata","L192625","Santee Lakes","2026-07-11 09:02",NA,32.8570948,-117.0071411,TRUE,FALSE,FALSE,"S370764523","N"
-"293","nutman","Scaly-breasted Munia","Lonchura punctulata","L13754281","791–799 Wilson St, Laguna Beach US-CA 33.53875, -117.77541","2026-07-11 08:56",NA,33.538746,-117.775413,TRUE,FALSE,TRUE,"S370784745","N"
-"294","nutman","Scaly-breasted Munia","Lonchura punctulata","L1127546","Ala Moana Park and State Recreation Area","2026-07-11 08:53",5,21.2894543,-157.8464985,TRUE,FALSE,FALSE,"S370833839","N"
-"295","nutman","Scaly-breasted Munia","Lonchura punctulata","L14432055","Harmony Grove Village Community Park","2026-07-11 08:45",1,33.099173,-117.133753,TRUE,FALSE,FALSE,"S370793465","N"
-"296","nutman","Scaly-breasted Munia","Lonchura punctulata","L481024","Los Angeles River--Del Amo Blvd to Metro Blue Line","2026-07-11 08:35",30,33.8394095,-118.2037926,TRUE,FALSE,FALSE,"S372214090","N"
-"297","nutman","Scaly-breasted Munia","Lonchura punctulata","L990849","Dave's neighborhood","2026-07-11 08:35",2,34.2753163,-119.1528788,TRUE,FALSE,TRUE,"S371346607","N"
-"298","nutman","Scaly-breasted Munia","Lonchura punctulata","L73155217","Lakeside's River Park Conservancy, Lakeside US-CA 32.85892, -116.93303","2026-07-11 08:33",9,32.858916,-116.933031,TRUE,FALSE,TRUE,"S370764266","N"
-"299","nutman","Scaly-breasted Munia","Lonchura punctulata","L11251590","Mobile Botanical Gardens Longleaf Forest","2026-07-11 08:33",2,30.7019719,-88.1579746,TRUE,FALSE,FALSE,"S370667351","N"
-"300","nutman","Scaly-breasted Munia","Lonchura punctulata","L73184160","Powerline trail- CBA southeast","2026-07-11 08:20",6,33.156358,-117.311629,TRUE,FALSE,TRUE,"S370865595","N"
-"301","nutman","Scaly-breasted Munia","Lonchura punctulata","L685423","Houston Arboretum and Nature Center","2026-07-11 08:11",13,29.7653925,-95.4520351,TRUE,FALSE,FALSE,"S370697019","N"
-"302","nutman","Scaly-breasted Munia","Lonchura punctulata","L824449","Johnson Lake/laguna area","2026-07-11 08:09",5,34.1299104,-118.1739235,TRUE,FALSE,TRUE,"S370752452","N"
-"303","nutman","Scaly-breasted Munia","Lonchura punctulata","L1357335","Huntington Central Park--East","2026-07-11 08:06",2,33.7040978,-118.0022383,TRUE,FALSE,FALSE,"S370808430","N"
-"304","nutman","Scaly-breasted Munia","Lonchura punctulata","L1177649","San Luis Rey River--Benet to Foussat","2026-07-11 08:02",4,33.2213648,-117.3511578,TRUE,FALSE,FALSE,"S371399935","N"
-"305","nutman","Scaly-breasted Munia","Lonchura punctulata","L914293","Los Cerritos Wetlands Hellman property","2026-07-11 08:00",2,33.7512483,-118.0984354,TRUE,FALSE,TRUE,"S370763848","N"
-"306","nutman","Scaly-breasted Munia","Lonchura punctulata","L12949129","Ballona Wetlands Ecological Reserve (Area A)","2026-07-11 08:00",2,33.9784536,-118.4327922,TRUE,FALSE,FALSE,"S372177709","N"
-"307","nutman","Scaly-breasted Munia","Lonchura punctulata","L4145522","Mahr Reservoir","2026-07-11 07:57",7,33.0932584,-117.2220773,TRUE,FALSE,FALSE,"S370818839","N"
-"308","nutman","Scaly-breasted Munia","Lonchura punctulata","L49148267","5875 Overlake Avenue, San Diego US-CA 32.78703, -117.05101","2026-07-11 07:56",2,32.787028,-117.051013,TRUE,FALSE,TRUE,"S370699904","N"
-"309","nutman","Scaly-breasted Munia","Lonchura punctulata","L1096830","Poggi Creek greenbelt & residential","2026-07-11 07:54",40,32.5921909,-117.0419442,TRUE,FALSE,FALSE,"S370701811","N"
-"310","nutman","Scaly-breasted Munia","Lonchura punctulata","L73165917","650 Lipoa Parkway, Kihei, Hawaii, US (20.748, -156.437)","2026-07-11 07:54",1,20.7484147,-156.4369062,TRUE,FALSE,TRUE,"S370800934","N"
-"311","nutman","Scaly-breasted Munia","Lonchura punctulata","L15195145","Marty Russo Youth Athletic Park","2026-07-11 07:50",3,33.6404559,-117.6404093,TRUE,FALSE,FALSE,"S370802473","N"
-"312","nutman","Scaly-breasted Munia","Lonchura punctulata","L4410967","Warwick Ave riparian","2026-07-11 07:49",9,33.0289465,-117.282278,TRUE,FALSE,FALSE,"S370703128","N"
-"313","nutman","Scaly-breasted Munia","Lonchura punctulata","L873348","San Diego Botanic Garden","2026-07-11 07:48",3,33.0531158,-117.280587,TRUE,FALSE,FALSE,"S370764142","N"
-"314","nutman","Scaly-breasted Munia","Lonchura punctulata","L7073030","Lake Hodges--boat launch (central)","2026-07-11 07:37",3,33.0658921,-117.1084947,TRUE,FALSE,FALSE,"S370809741","N"
-"315","nutman","Scaly-breasted Munia","Lonchura punctulata","L45932722","Cerro San Luis North","2026-07-11 07:36",1,35.287225,-120.67283,TRUE,FALSE,TRUE,"S370735087","N"
-"316","nutman","Scaly-breasted Munia","Lonchura punctulata","L721848","Lopez Canyon","2026-07-11 07:30",5,32.9095681,-117.1928358,TRUE,FALSE,FALSE,"S370691322","N"
-"317","nutman","Scaly-breasted Munia","Lonchura punctulata","L247020","Kleb Woods Nature Preserve (UTC 098)","2026-07-11 07:07",2,30.0720853,-95.7398187,TRUE,FALSE,FALSE,"S370729659","N"
-"318","nutman","Scaly-breasted Munia","Lonchura punctulata","L4695999","Walnut Canyon Reservoir","2026-07-11 07:02",2,33.8418334,-117.7497697,TRUE,FALSE,FALSE,"S370668211","N"
-"319","nutman","Scaly-breasted Munia","Lonchura punctulata","L272840","Andree Clark Bird Refuge","2026-07-11 07:00",8,34.4215353,-119.6572856,TRUE,FALSE,FALSE,"S370713146","N"
-"320","nutman","Scaly-breasted Munia","Lonchura punctulata","L73139300","15650 Chicago Avenue, Riverside, California, US (33.893, -117.348)","2026-07-11 06:47",3,33.8925307,-117.3483011,TRUE,FALSE,TRUE,"S370707832","N"
-"321","nutman","Scaly-breasted Munia","Lonchura punctulata","L6668557","The Rolling Land Company","2026-07-11 06:39",4,32.759099,-117.054679,TRUE,FALSE,TRUE,"S370667215","N"
-"322","nutman","Scaly-breasted Munia","Lonchura punctulata","L16931721","3700 W Clay St, Houston US-TX 29.75539, -95.40708","2026-07-11 06:39",2,29.755388,-95.407082,TRUE,FALSE,TRUE,"S370578044","N"
-"323","nutman","Scaly-breasted Munia","Lonchura punctulata","L23670106","Wagon Wheel and Spur","2026-07-11 06:15",8,33.2486346,-117.2535639,TRUE,FALSE,TRUE,"S370684222","N"
-"324","nutman","Scaly-breasted Munia","Lonchura punctulata","L7416249","Ka'anapali Beach","2026-07-11 06:08",1,20.9227691,-156.6954989,TRUE,FALSE,FALSE,"S370732438","N"
-"325","nutman","Scaly-breasted Munia","Lonchura punctulata","L224113","Cullinan Park, Sugar Land (UTC 095)","2026-07-11 06:04",3,29.6355459,-95.6603193,TRUE,FALSE,FALSE,"S370667593","N"
-"326","nutman","Scaly-breasted Munia","Lonchura punctulata","L21989981","Deer Canyon Park","2026-07-11 05:45",NA,33.854245,-117.752458,TRUE,FALSE,FALSE,"S370929150","N"
-"327","nutman","Scaly-breasted Munia","Lonchura punctulata","L73066867","Mugshots Marsh","2026-07-10 19:16",1,30.80457,-88.108207,TRUE,FALSE,TRUE,"S370392817","N"
-"328","nutman","Scaly-breasted Munia","Lonchura punctulata","L11747515","La Costa Valley Club Trail","2026-07-10 17:28",7,33.0787054,-117.2528996,TRUE,FALSE,FALSE,"S370402528","N"
-"329","nutman","Scaly-breasted Munia","Lonchura punctulata","L21966576","11 Kai Ala Drive, Lahaina, Hawaii, US (20.938, -156.691)","2026-07-10 16:03",7,20.9376277,-156.6906914,TRUE,FALSE,TRUE,"S370424492","N"
-"330","nutman","Scaly-breasted Munia","Lonchura punctulata","L3239468","Tijuana Slough NWR--Visitor Center/North McCoy Trail","2026-07-10 15:17",2,32.5748894,-117.1259087,TRUE,FALSE,FALSE,"S370747896","N"
-"331","nutman","Scaly-breasted Munia","Lonchura punctulata","L698153","Los Penasquitos Canyon Preserve--east","2026-07-10 14:57",1,32.9373905,-117.1475505,TRUE,FALSE,FALSE,"S370413794","N"
-"332","nutman","Scaly-breasted Munia","Lonchura punctulata","L12742454","Kaupulehu - Kukio Beach","2026-07-10 14:29",1,19.8216652,-155.9956537,TRUE,FALSE,FALSE,"S370885720","N"
-"333","nutman","Scaly-breasted Munia","Lonchura punctulata","L17146602","Vintage Park, Lake Forest","2026-07-10 14:04",2,33.6528835,-117.6576596,TRUE,FALSE,FALSE,"S370350581","N"
-"334","nutman","Scaly-breasted Munia","Lonchura punctulata","L694957","Ennisbrook Open Space","2026-07-10 13:41",2,34.4302636,-119.6226395,TRUE,FALSE,FALSE,"S370351129","N"
-"335","nutman","Scaly-breasted Munia","Lonchura punctulata","L619691","Santa Barbara Cemetery","2026-07-10 13:16",5,34.4186776,-119.6554094,TRUE,FALSE,FALSE,"S370347761","N"
-"336","nutman","Scaly-breasted Munia","Lonchura punctulata","L21737506","Hacienda Park","2026-07-10 12:01",7,33.9566945,-117.9589361,TRUE,FALSE,FALSE,"S370330047","N"
-"337","nutman","Scaly-breasted Munia","Lonchura punctulata","L12242733","Los Peñasquitos Ranch House","2026-07-10 11:01",4,32.9387305,-117.1395024,TRUE,FALSE,FALSE,"S370292699","N"
-"338","nutman","Scaly-breasted Munia","Lonchura punctulata","L8471220","Waikoloa Skatepark","2026-07-10 11:00",2,19.956208,-155.789264,TRUE,FALSE,FALSE,"S370357137","N"
-"339","nutman","Scaly-breasted Munia","Lonchura punctulata","L73254151","12-7005 Kekaikolo St, Pahoa US-HI 19.40413, -154.92058","2026-07-10 10:53",3,19.404127,-154.920583,TRUE,FALSE,TRUE,"S371160803","N"
-"340","nutman","Scaly-breasted Munia","Lonchura punctulata","L52185874","Home - Retention Pond - Willowbrae","2026-07-10 10:30",1,28.0455453,-82.52004,TRUE,FALSE,TRUE,"S370205810","P"
-"341","nutman","Scaly-breasted Munia","Lonchura punctulata","L20317304","Chica’s Backyard (Private)","2026-07-10 10:18",6,33.079837,-117.249502,TRUE,FALSE,TRUE,"S370326876","N"
-"342","nutman","Scaly-breasted Munia","Lonchura punctulata","L30030693","Scripps Ranch Community Park","2026-07-10 09:45",2,32.9278688,-117.0795608,TRUE,FALSE,FALSE,"S370273224","N"
-"343","nutman","Scaly-breasted Munia","Lonchura punctulata","L1069566","Mast Park--west side trails","2026-07-10 09:29",5,32.8429621,-117.0003605,TRUE,FALSE,FALSE,"S370242037","N"
-"344","nutman","Scaly-breasted Munia","Lonchura punctulata","L49393076","8570 Cleo Smith Rd, Pass Christian US-MS 30.41132, -89.32313","2026-07-10 09:14",5,30.411318,-89.323135,TRUE,FALSE,TRUE,"S370288024","P"
-"345","nutman","Scaly-breasted Munia","Lonchura punctulata","L6351012","Batiquitos Lagoon--Cholla Point","2026-07-10 09:10",2,33.0935914,-117.2709236,TRUE,FALSE,FALSE,"S370283534","N"
-"346","nutman","Scaly-breasted Munia","Lonchura punctulata","L982508","Sweetwater Regional Park--Morrison Pond","2026-07-10 08:55",5,32.673739,-117.0232329,TRUE,FALSE,FALSE,"S370290000","N"
-"347","nutman","Scaly-breasted Munia","Lonchura punctulata","L40262799","Home","2026-07-10 08:54",2,33.7568849,-118.3159657,TRUE,FALSE,TRUE,"S370226786","N"
-"348","nutman","Scaly-breasted Munia","Lonchura punctulata","L807319","San Marcos Foothills Preserve","2026-07-10 08:42",4,34.4621261,-119.7597477,TRUE,FALSE,FALSE,"S370271936","N"
-"349","nutman","Scaly-breasted Munia","Lonchura punctulata","L19981690","MCAS Miramar (restricted access)","2026-07-10 08:40",4,32.8726216,-117.1570878,TRUE,FALSE,FALSE,"S370243309","N"
-"350","nutman","Scaly-breasted Munia","Lonchura punctulata","L4710501","Agua Hedionda Lagoon--east end","2026-07-10 08:30",2,33.1402372,-117.308649,TRUE,FALSE,FALSE,"S370723659","N"
-"351","nutman","Scaly-breasted Munia","Lonchura punctulata","L22487349","531 Via Vaquero, Arroyo Grande US-CA (35.1298,-120.5902)","2026-07-10 08:21",1,35.129757,-120.590221,TRUE,FALSE,TRUE,"S370228016","N"
-"352","nutman","Scaly-breasted Munia","Lonchura punctulata","L52846167","Camino Vida Roble Park, Carlsbad","2026-07-10 08:10",1,33.1215179,-117.2819924,TRUE,FALSE,FALSE,"S370344735","N"
-"353","nutman","Scaly-breasted Munia","Lonchura punctulata","L21237564","Batiquitos Dr. and Kingfisher Lane, Carlsbad, CA","2026-07-10 08:07",4,33.0938761,-117.2847215,TRUE,FALSE,TRUE,"S370282389","N"
-"354","nutman","Scaly-breasted Munia","Lonchura punctulata","L2703582","Prospect Park","2026-07-10 08:02",25,34.0390888,-117.1722364,TRUE,FALSE,FALSE,"S370285045","N"
-"355","nutman","Scaly-breasted Munia","Lonchura punctulata","L73035023","Vista","2026-07-10 08:00",NA,33.2055648,-117.2190365,TRUE,FALSE,TRUE,"S370286055","N"
-"356","nutman","Scaly-breasted Munia","Lonchura punctulata","L1111067","San Luis Rey Mission","2026-07-10 07:57",4,33.2321545,-117.3196936,TRUE,FALSE,FALSE,"S370218668","N"
-"357","nutman","Scaly-breasted Munia","Lonchura punctulata","L73018144","30402 Benecia Ave, Laguna Niguel US-CA (33.5211,-117.7121)","2026-07-10 07:53",7,33.521079,-117.712129,TRUE,FALSE,TRUE,"S370205942","N"
-"358","nutman","Scaly-breasted Munia","Lonchura punctulata","L592046","Mast Park","2026-07-10 07:48",4,32.8445596,-116.9941469,TRUE,FALSE,FALSE,"S370208556","N"
-"359","nutman","Scaly-breasted Munia","Lonchura punctulata","L469000","Dairy Mart Ponds","2026-07-10 07:48",7,32.5542602,-117.0629611,TRUE,FALSE,FALSE,"S370945997","N"
-"360","nutman","Scaly-breasted Munia","Lonchura punctulata","L50224537","Andrée Clark Bird Refuge, Santa Barbara US-CA 34.42180, -119.65806","2026-07-10 07:39",1,34.421804,-119.658056,TRUE,FALSE,TRUE,"S370216324","N"
-"361","nutman","Scaly-breasted Munia","Lonchura punctulata","L36224242","Monte Vista School (private)","2026-07-10 07:35",4,36.982149,-121.768347,TRUE,FALSE,TRUE,"S370220934","N"
-"362","nutman","Scaly-breasted Munia","Lonchura punctulata","L7913252","Ed Radice Sports Complex","2026-07-10 07:24",2,28.0831977,-82.6085669,TRUE,FALSE,FALSE,"S370133607","P"
-"363","nutman","Scaly-breasted Munia","Lonchura punctulata","L810352","San Diego River--behind Walmart in Santee","2026-07-10 07:15",4,32.8440814,-116.9896627,TRUE,FALSE,FALSE,"S370199241","N"
-"364","nutman","Scaly-breasted Munia","Lonchura punctulata","L13235736","San Dieguito Sports Fields & Riparian","2026-07-10 07:10",8,32.9813412,-117.2167691,TRUE,FALSE,FALSE,"S370340465","N"
-"365","nutman","Scaly-breasted Munia","Lonchura punctulata","L46884427","Santa Rosa Valley Park, Santa Rosa Valley US-CA 34.22896, -118.93214","2026-07-10 07:03",14,34.228958,-118.932135,TRUE,FALSE,TRUE,"S370237705","N"
-"366","nutman","Scaly-breasted Munia","Lonchura punctulata","L468267","Irvine Lake","2026-07-10 06:40",1,33.7737252,-117.7176476,TRUE,FALSE,FALSE,"S370346878","N"
-"367","nutman","Scaly-breasted Munia","Lonchura punctulata","L9814183","Emery Park, Fullerton","2026-07-10 06:40",4,33.8826458,-117.9717661,TRUE,FALSE,FALSE,"S370184240","N"
-"368","nutman","Scaly-breasted Munia","Lonchura punctulata","L16755574","7222 San Pablo Dr, Houston US-TX 29.69738, -95.67635","2026-07-10 06:35",15,29.697383,-95.67635,TRUE,FALSE,TRUE,"S370150538","N"
-"369","nutman","Scaly-breasted Munia","Lonchura punctulata","L6435174","Salt Creek Trail--Monarch Beach segment","2026-07-10 06:29",3,33.4876714,-117.7196604,TRUE,FALSE,FALSE,"S370219525","N"
-"370","nutman","Scaly-breasted Munia","Lonchura punctulata","L7805992","3600 block 8th Ave., Hillcrest area","2026-07-10 06:25",2,32.74412,-117.1575,TRUE,FALSE,TRUE,"S370180921","N"
-"371","nutman","Scaly-breasted Munia","Lonchura punctulata","L39991019","Wiegand Private Residence","2026-07-09 20:45",3,28.866638,-97.029775,TRUE,TRUE,TRUE,"S369982030","N"
-"372","nutman","Scaly-breasted Munia","Lonchura punctulata","L879387","Scripps Library pond","2026-07-09 19:44",2,32.9113065,-117.1038562,TRUE,FALSE,FALSE,"S369993578","N"
-"373","nutman","Scaly-breasted Munia","Lonchura punctulata","L14808145","509 S Barnwell St, Oceanside US-CA 33.20126, -117.34654","2026-07-09 19:10",11,33.201263,-117.346543,TRUE,FALSE,TRUE,"S369994447","N"
-"374","nutman","Scaly-breasted Munia","Lonchura punctulata","L639463","Emma Wood State Beach","2026-07-09 18:48",1,34.2791874,-119.3132186,TRUE,FALSE,FALSE,"S369992869","N"
-"375","nutman","Scaly-breasted Munia","Lonchura punctulata","L27171543","Home","2026-07-09 18:38",10,33.119938,-117.124799,TRUE,FALSE,TRUE,"S369987413","N"
-"376","nutman","Scaly-breasted Munia","Lonchura punctulata","L11980306","9711 Vomac Rd, Santee US-CA 32.85522, -116.99468","2026-07-09 18:36",5,32.855225,-116.99468,TRUE,FALSE,TRUE,"S369990857","N"
-"377","nutman","Scaly-breasted Munia","Lonchura punctulata","L69714724","Home","2026-07-09 18:30",1,34.132105,-118.24412,TRUE,FALSE,TRUE,"S369993504","N"
-"378","nutman","Scaly-breasted Munia","Lonchura punctulata","L3915792","Agua Hedionda Creek & Laguna Riviera Park","2026-07-09 16:57",9,33.1457656,-117.310863,TRUE,FALSE,FALSE,"S370310836","N"
-"379","nutman","Scaly-breasted Munia","Lonchura punctulata","L438238","Rice U. Campus","2026-07-09 15:30",2,29.714489,-95.401809,TRUE,FALSE,FALSE,"S369926588","N"
-"380","nutman","Scaly-breasted Munia","Lonchura punctulata","L72985213","1600 Kīlauea Ave, Hilo US-HI 19.70465, -155.07406","2026-07-09 15:27",6,19.704647,-155.074065,TRUE,FALSE,TRUE,"S370056984","N"
-"381","nutman","Scaly-breasted Munia","Lonchura punctulata","L854540","Canyonside Community Park","2026-07-09 13:18",1,32.9406458,-117.1327189,TRUE,FALSE,FALSE,"S369908355","N"
-"382","nutman","Scaly-breasted Munia","Lonchura punctulata","L62244850","Laguna Lake Park (Fullerton)(CA Atlas - La Habra SE)","2026-07-09 12:35",1,33.9091127,-117.9345713,TRUE,FALSE,FALSE,"S370715143","N"
-"383","nutman","Scaly-breasted Munia","Lonchura punctulata","L387957","Pearl Harbor NWR--Honouliuli Unit (restricted access)","2026-07-09 12:10",1,21.3567,-158.0194,TRUE,FALSE,FALSE,"S370074618","N"
-"384","nutman","Scaly-breasted Munia","Lonchura punctulata","L16933603","Lamar County Park","2026-07-09 10:22",1,32.7406048,-117.0066137,TRUE,FALSE,FALSE,"S369869479","N"
-"385","nutman","Scaly-breasted Munia","Lonchura punctulata","L789249","Fullerton Arboretum","2026-07-09 10:05",2,33.8875331,-117.8830862,TRUE,FALSE,FALSE,"S370219695","N"
-"386","nutman","Scaly-breasted Munia","Lonchura punctulata","L72875602","1105 Palawai Street, Lanai City, Hawaii, US (20.823, -156.916)","2026-07-09 09:55",2,20.8229199,-156.9156534,TRUE,FALSE,TRUE,"S369915505","N"
-"387","nutman","Scaly-breasted Munia","Lonchura punctulata","L8813309","Holy Cross Cemetery","2026-07-09 09:41",2,32.7160846,-117.0978936,TRUE,FALSE,FALSE,"S369855962","N"
-"388","nutman","Scaly-breasted Munia","Lonchura punctulata","L8976469","Marcie's yard, San Diego US-CA (32.8014,-117.1759)","2026-07-09 09:31",10,32.801435,-117.17587,TRUE,FALSE,TRUE,"S369954167","N"
-"389","nutman","Scaly-breasted Munia","Lonchura punctulata","L8665870","Pacific View Memorial Park","2026-07-09 09:18",1,33.6100714,-117.8538287,TRUE,FALSE,FALSE,"S369830631","N"
-"390","nutman","Scaly-breasted Munia","Lonchura punctulata","L1266900","El Monte County Park","2026-07-09 09:03",6,32.8922408,-116.8468738,TRUE,FALSE,FALSE,"S369987968","N"
-"391","nutman","Scaly-breasted Munia","Lonchura punctulata","L72948144","1 Bay Drive, Lahaina, Hawaii, US (21.002, -156.666)","2026-07-09 08:58",6,21.002291,-156.6660906,TRUE,FALSE,TRUE,"S369892246","N"
-"392","nutman","Scaly-breasted Munia","Lonchura punctulata","L2931919","Gilman Park, Fullerton","2026-07-09 08:57",5,33.9024967,-117.8764719,TRUE,FALSE,FALSE,"S369839026","N"
-"393","nutman","Scaly-breasted Munia","Lonchura punctulata","L12558511","North Chollas Community Park","2026-07-09 08:55",1,32.738204,-117.072531,TRUE,FALSE,FALSE,"S369855617","N"
-"394","nutman","Scaly-breasted Munia","Lonchura punctulata","L13701839","Yard - UC Southwest","2026-07-09 08:30",8,32.8484533,-117.2268759,TRUE,FALSE,TRUE,"S369806146","N"
-"395","nutman","Scaly-breasted Munia","Lonchura punctulata","L853965","CSU Channel Islands","2026-07-09 08:17",2,34.1611541,-119.0414722,TRUE,FALSE,FALSE,"S369808523","N"
-"396","nutman","Scaly-breasted Munia","Lonchura punctulata","L72950838","More Mesa Neighborhood","2026-07-09 08:10",1,34.420622,-119.80406,TRUE,FALSE,TRUE,"S369903255","N"
-"397","nutman","Scaly-breasted Munia","Lonchura punctulata","L10441074","Mission Oaks Park","2026-07-09 07:58",7,34.2321313,-118.9911604,TRUE,FALSE,FALSE,"S369816238","N"
-"398","nutman","Scaly-breasted Munia","Lonchura punctulata","L2658366","Floridatown Park","2026-07-09 07:40",2,30.5812809,-87.1612358,TRUE,FALSE,FALSE,"S369994325","N"
-"399","nutman","Scaly-breasted Munia","Lonchura punctulata","L63640863","Old Golf Course","2026-07-09 07:34",6,29.995547,-95.54998,TRUE,FALSE,TRUE,"S369735030","N"
-"400","nutman","Scaly-breasted Munia","Lonchura punctulata","L36637930","91915, Chula Vista US-CA 32.59804, -116.94678","2026-07-09 07:18",4,32.598045,-116.946779,TRUE,FALSE,TRUE,"S369851885","N"
-"401","nutman","Scaly-breasted Munia","Lonchura punctulata","L59669218","Casa Bella E overlook of Tecalote canyon","2026-07-09 07:17",8,32.787651,-117.183656,TRUE,FALSE,TRUE,"S369805787","N"
-"402","nutman","Scaly-breasted Munia","Lonchura punctulata","L511806","Wildwood Regional Park","2026-07-09 07:16",3,34.21981,-118.90525,TRUE,FALSE,FALSE,"S370286029","N"
-"403","nutman","Scaly-breasted Munia","Lonchura punctulata","L48501015","Braes Bayou Green Belt prairie Houston US-TX 29.70117, -95.65962","2026-07-09 07:09",15,29.701173,-95.659624,TRUE,FALSE,TRUE,"S369736230","N"
-"404","nutman","Scaly-breasted Munia","Lonchura punctulata","L2145354","Roselle St. riparian","2026-07-09 07:04",2,32.9065224,-117.2298424,TRUE,FALSE,FALSE,"S369792920","N"
-"405","nutman","Scaly-breasted Munia","Lonchura punctulata","L1848019","San Jose Creek--near Kellogg Open Space","2026-07-09 06:40",2,34.4502816,-119.815135,TRUE,FALSE,FALSE,"S369817914","N"
-"406","nutman","Scaly-breasted Munia","Lonchura punctulata","L48959351","1948 Rolling Vista Dr, Lomita US-CA 33.77562, -118.31308","2026-07-09 06:17",2,33.775616,-118.313084,TRUE,FALSE,TRUE,"S369750781","N"
-"407","nutman","Scaly-breasted Munia","Lonchura punctulata","L13405391","Cresthaven Dr.","2026-07-09 06:15",2,33.9375112,-117.3622769,TRUE,FALSE,TRUE,"S369966588","N"
-"408","nutman","Scaly-breasted Munia","Lonchura punctulata","L8414895","Penasquitos Creek trail","2026-07-08 18:49",1,32.945015,-117.076033,TRUE,FALSE,FALSE,"S369580297","N"
-"409","nutman","Scaly-breasted Munia","Lonchura punctulata","L718190","Lake Miramar","2026-07-08 18:40",2,32.9151015,-117.1000592,TRUE,FALSE,FALSE,"S369573486","N"
-"410","nutman","Scaly-breasted Munia","Lonchura punctulata","L15823844","Linda Vista--Goodwin Street","2026-07-08 17:38",1,32.7776396,-117.1784628,TRUE,FALSE,TRUE,"S369555715","N"
-"411","nutman","Scaly-breasted Munia","Lonchura punctulata","L297967","Kanahā Pond Wildlife Sanctuary","2026-07-08 17:08",2,20.8926173,-156.4581578,TRUE,FALSE,FALSE,"S369582279","N"
-"412","nutman","Scaly-breasted Munia","Lonchura punctulata","L52424758","Pipilo Street and surrounding neighborhood","2026-07-08 16:45",2,32.9518714,-117.1262517,TRUE,FALSE,TRUE,"S371256256","N"
-"413","nutman","Scaly-breasted Munia","Lonchura punctulata","L759708","Harris, TX, Riverview Place","2026-07-08 13:50",1,29.7555106,-95.574317,TRUE,FALSE,TRUE,"S369451823","N"
-"414","nutman","Scaly-breasted Munia","Lonchura punctulata","L72878541","Kipu Ranch","2026-07-08 13:36",90,21.938634,-159.407258,TRUE,FALSE,TRUE,"S369579916","N"
-"415","nutman","Scaly-breasted Munia","Lonchura punctulata","L3180575","Castaways Park, Newport Beach","2026-07-08 13:19",2,33.6191938,-117.9059279,TRUE,FALSE,FALSE,"S369510254","N"
-"416","nutman","Scaly-breasted Munia","Lonchura punctulata","L18290687","Beachwood House private property","2026-07-08 12:50",7,34.1201563,-118.319425,TRUE,FALSE,TRUE,"S369474980","N"
-"417","nutman","Scaly-breasted Munia","Lonchura punctulata","L22925619","Spruce Park, Playa Vista","2026-07-08 12:35",4,33.976164,-118.407492,TRUE,FALSE,TRUE,"S369484811","N"
-"418","nutman","Scaly-breasted Munia","Lonchura punctulata","L7602793","2622 Bay Pointe Drive, Biloxi, Mississippi, US (30.409, -88.991)","2026-07-08 11:46",20,30.4088445,-88.991013,TRUE,FALSE,TRUE,"S369409918","P"
-"419","nutman","Scaly-breasted Munia","Lonchura punctulata","L1308894","Murphy Ranch Park","2026-07-08 11:42",2,33.9591124,-117.9812765,TRUE,FALSE,FALSE,"S369475891","N"
-"420","nutman","Scaly-breasted Munia","Lonchura punctulata","L715898","Whelan Lake Bird Sanctuary (permission required)","2026-07-08 10:21",3,33.2424922,-117.3364091,TRUE,FALSE,FALSE,"S369450802","N"
-"421","nutman","Scaly-breasted Munia","Lonchura punctulata","L40265386","Berry Street Greenbelt","2026-07-08 10:18",1,33.939312,-117.907173,TRUE,FALSE,FALSE,"S369468612","N"
-"422","nutman","Scaly-breasted Munia","Lonchura punctulata","L621817","Silver Lake Reservoir (LA Co.)","2026-07-08 10:10",2,34.0992965,-118.2647324,TRUE,FALSE,FALSE,"S369449519","N"
-"423","nutman","Scaly-breasted Munia","Lonchura punctulata","L922804","Conejo Canyons Open Space--Hill Canyon","2026-07-08 09:42",1,34.2170614,-118.9281177,TRUE,FALSE,FALSE,"S369456422","N"
-"424","nutman","Scaly-breasted Munia","Lonchura punctulata","L10433887","AES Redondo Wetland","2026-07-08 09:06",4,33.8500956,-118.3931381,TRUE,FALSE,FALSE,"S369490085","N"
-"425","nutman","Scaly-breasted Munia","Lonchura punctulata","L62054922","The Huntington","2026-07-08 09:00",1,34.127551,-118.116194,TRUE,FALSE,TRUE,"S369444523","N"
-"426","nutman","Scaly-breasted Munia","Lonchura punctulata","L72863280","1101–1199 San Cayetano St, Fillmore US-CA 34.37511, -118.95074","2026-07-08 08:54",2,34.375113,-118.950743,TRUE,FALSE,TRUE,"S369514498","N"
-"427","nutman","Scaly-breasted Munia","Lonchura punctulata","L4198297","San Bernardo Valley--east of I-15","2026-07-08 08:53",1,33.0569093,-117.0507844,TRUE,FALSE,FALSE,"S369394291","N"
-"428","nutman","Scaly-breasted Munia","Lonchura punctulata","L282694","Pismo SB--Oceano Campground","2026-07-08 08:45",NA,35.1085767,-120.6265268,TRUE,FALSE,FALSE,"S369423483","N"
-"429","nutman","Scaly-breasted Munia","Lonchura punctulata","L4548215","El Corazon Park--Garrison Creek Nature Trail","2026-07-08 08:35",5,33.20298,-117.32941,TRUE,FALSE,FALSE,"S369436704","N"
-"430","nutman","Scaly-breasted Munia","Lonchura punctulata","L2118313","Bart Spendlove Memorial Park, Mission Viejo","2026-07-08 08:34",6,33.6086685,-117.6796246,TRUE,FALSE,FALSE,"S369442664","N"
-"431","nutman","Scaly-breasted Munia","Lonchura punctulata","L48882354","Indian Drive, Biloxi","2026-07-08 08:34",1,30.4378457,-88.9444865,TRUE,FALSE,TRUE,"S369339572","P"
-"432","nutman","Scaly-breasted Munia","Lonchura punctulata","L27466799","1878–1882 Allen Pkwy, Houston US-TX 29.76113, -95.38770","2026-07-08 08:05",2,29.761133,-95.387702,TRUE,FALSE,TRUE,"S369354673","N"
-"433","nutman","Scaly-breasted Munia","Lonchura punctulata","L35724685","Riverton Park, Temecula US-CA (33.5397,-117.1101)","2026-07-08 08:02",6,33.539723,-117.110089,TRUE,FALSE,TRUE,"S369397677","N"
-"434","nutman","Scaly-breasted Munia","Lonchura punctulata","L3182195","Flinn Springs County Park","2026-07-08 07:59",3,32.8473006,-116.8623089,TRUE,FALSE,FALSE,"S369494659","N"
-"435","nutman","Scaly-breasted Munia","Lonchura punctulata","L3347000","Villa La Jolla Park","2026-07-08 07:13",3,32.8572456,-117.23441,TRUE,FALSE,FALSE,"S369356194","N"
-"436","nutman","Scaly-breasted Munia","Lonchura punctulata","L802669","Balboa Park--west side","2026-07-08 07:02",2,32.7341455,-117.1585499,TRUE,FALSE,FALSE,"S369778681","N"
-"437","nutman","Scaly-breasted Munia","Lonchura punctulata","L830622","Lehua Islet","2026-07-08 07:00",40,22.0118939,-160.0947046,TRUE,FALSE,FALSE,"S370498977","N"
-"438","nutman","Scaly-breasted Munia","Lonchura punctulata","L3955849","Pensacola house","2026-07-08 07:00",2,30.5322178,-87.3594216,TRUE,FALSE,TRUE,"S371597141","N"
-"439","nutman","Scaly-breasted Munia","Lonchura punctulata","L22128354","Lake Murray","2026-07-08 06:55",1,32.7845993,-117.0365524,TRUE,FALSE,TRUE,"S369509626","N"
-"440","nutman","Scaly-breasted Munia","Lonchura punctulata","L72863408","Old Somis Rd, Camarillo US-CA 34.24233, -119.00829","2026-07-08 06:54",1,34.242329,-119.008287,TRUE,FALSE,TRUE,"S369514928","N"
-"441","nutman","Scaly-breasted Munia","Lonchura punctulata","L692655","Environmental Nature Center","2026-07-08 06:45",2,33.6216194,-117.9089561,TRUE,FALSE,FALSE,"S369426718","N"
-"442","nutman","Scaly-breasted Munia","Lonchura punctulata","L59145961","Oceanside Harbor (CA Atlas - Oceanside NE)","2026-07-08 06:02",2,33.2105258,-117.3957325,TRUE,FALSE,FALSE,"S369353018","N"
-"443","nutman","Scaly-breasted Munia","Lonchura punctulata","L744865","Ellwood Beach","2026-07-07 18:45",1,34.4201155,-119.8941636,TRUE,FALSE,FALSE,"S369205218","N"
-"444","nutman","Scaly-breasted Munia","Lonchura punctulata","L868862","Lokowaka Pond and 4 Miles Beaches","2026-07-07 17:02",1,19.7308362,-155.0285912,TRUE,FALSE,FALSE,"S370908507","N"
-"445","nutman","Scaly-breasted Munia","Lonchura punctulata","L6532962","San Diego Creek Trail--I-405 to Bake Parkway","2026-07-07 16:58",6,33.644642,-117.7526236,TRUE,FALSE,FALSE,"S369144789","N"
-"446","nutman","Scaly-breasted Munia","Lonchura punctulata","L1953038","Home","2026-07-07 16:45",5,30.6704094,-87.0966804,TRUE,FALSE,TRUE,"S369160912","N"
-"447","nutman","Scaly-breasted Munia","Lonchura punctulata","L43208899","Backyard","2026-07-07 16:29",7,29.7562118,-95.5320171,TRUE,FALSE,TRUE,"S372204428","N"
-"448","nutman","Scaly-breasted Munia","Lonchura punctulata","L30017078","7118 Wolverine Street, Ventura, California, US (34.254, -119.192) Backyard At Home","2026-07-07 16:13",10,34.2536483,-119.1918222,TRUE,FALSE,TRUE,"S369114924","N"
-"449","nutman","Scaly-breasted Munia","Lonchura punctulata","L1451065","Old Trolley Barn Park","2026-07-07 14:51",4,32.7630049,-117.1438237,TRUE,FALSE,FALSE,"S369104777","N"
-"450","nutman","Scaly-breasted Munia","Lonchura punctulata","L2229107","Home 2909 Brant St","2026-07-07 13:06",2,32.7357292,-117.1664429,TRUE,FALSE,TRUE,"S369068678","N"
-"451","nutman","Scaly-breasted Munia","Lonchura punctulata","L1103423","Claremont Memorial Park","2026-07-07 13:04",1,34.1025303,-117.7193856,TRUE,FALSE,FALSE,"S369231581","N"
-"452","nutman","Scaly-breasted Munia","Lonchura punctulata","L13833648","118 Marrakech Ct.","2026-07-07 12:56",2,29.700559,-95.45274,TRUE,FALSE,TRUE,"S369020862","N"
-"453","nutman","Scaly-breasted Munia","Lonchura punctulata","L1100143","Pololu Valley","2026-07-07 11:34",3,20.2041319,-155.7312012,TRUE,FALSE,FALSE,"S369109380","N"
-"454","nutman","Scaly-breasted Munia","Lonchura punctulata","L8603442","Bruce Beach","2026-07-07 11:06",4,30.4048612,-87.2230008,TRUE,FALSE,FALSE,"S368982571","N"
-"455","nutman","Scaly-breasted Munia","Lonchura punctulata","L72768689","Wild Willows Farm","2026-07-07 10:01",2,32.554216,-117.080059,TRUE,FALSE,TRUE,"S369093103","N"
-"456","nutman","Scaly-breasted Munia","Lonchura punctulata","L72766108","Maxwell Park, Cypress US-TX 29.96480, -95.62162","2026-07-07 09:50",2,29.964802,-95.621616,TRUE,FALSE,TRUE,"S369082161","N"
-"457","nutman","Scaly-breasted Munia","Lonchura punctulata","L20665143","Tijuana River Valley Bird & Butterfly Garden","2026-07-07 09:30",1,32.5539033,-117.0847964,TRUE,FALSE,TRUE,"S369030444","N"
-"458","nutman","Scaly-breasted Munia","Lonchura punctulata","L796467","Greenwood Memorial Park","2026-07-07 09:18",2,32.7065324,-117.1026345,TRUE,FALSE,FALSE,"S369029822","N"
-"459","nutman","Scaly-breasted Munia","Lonchura punctulata","L59297512","Val Sereno County Preserve","2026-07-07 09:08",10,33.051021,-117.2240632,TRUE,FALSE,FALSE,"S369000635","N"
-"460","nutman","Scaly-breasted Munia","Lonchura punctulata","L54731097","Makena Golf","2026-07-07 09:04",2,20.640238,-156.439428,TRUE,FALSE,TRUE,"S369067223","N"
-"461","nutman","Scaly-breasted Munia","Lonchura punctulata","L6566735","Backyard 2505 Canyon Vw, Pasadena US-CA (34.1810,-118.0979)","2026-07-07 08:59",1,34.180988,-118.097881,TRUE,FALSE,TRUE,"S368997684","N"
-"462","nutman","Scaly-breasted Munia","Lonchura punctulata","L25239248","Los Alamitos Retarding Basin","2026-07-07 08:47",2,33.7546211,-118.0922973,TRUE,FALSE,FALSE,"S368977235","N"
-"463","nutman","Scaly-breasted Munia","Lonchura punctulata","L6464367","Tecolote Canyon Natural Park--Genesee Ave to Balboa Ave","2026-07-07 08:45",3,32.8274856,-117.1956468,TRUE,FALSE,FALSE,"S369009392","N"
-"464","nutman","Scaly-breasted Munia","Lonchura punctulata","L1823974","Tropical Park","2026-07-07 08:38",3,25.727907,-80.3235126,TRUE,FALSE,FALSE,"S368899872","N"
-"465","nutman","Scaly-breasted Munia","Lonchura punctulata","L41368184","Madrona Marsh Preserve","2026-07-07 08:06",12,33.827684,-118.34265,TRUE,FALSE,TRUE,"S369008333","N"
-"466","nutman","Scaly-breasted Munia","Lonchura punctulata","L977865","Holy Cross Cemetery (LA Co.)","2026-07-07 08:01",2,33.9917206,-118.3852279,TRUE,FALSE,FALSE,"S368993035","N"
-"467","nutman","Scaly-breasted Munia","Lonchura punctulata","L3864028","Portola Reservoir (Restricted Access)","2026-07-07 07:59",1,33.6326299,-117.5828505,TRUE,FALSE,FALSE,"S368957500","N"
-"468","nutman","Scaly-breasted Munia","Lonchura punctulata","L22593584","Ocean View Ranch","2026-07-07 07:51",1,32.96466,-117.117677,TRUE,FALSE,TRUE,"S368972049","N"
-"469","nutman","Scaly-breasted Munia","Lonchura punctulata","L6820415","Seal Beach Blvd Public Trail, Seal Beach","2026-07-07 07:38",3,33.749665,-118.089743,TRUE,FALSE,TRUE,"S368952109","N"
-"470","nutman","Scaly-breasted Munia","Lonchura punctulata","L446944","William R Mason Regional Park, Irvine","2026-07-07 07:34",NA,33.6561023,-117.8293562,TRUE,FALSE,FALSE,"S368973004","N"
-"471","nutman","Scaly-breasted Munia","Lonchura punctulata","L37337655","Esencia Walk","2026-07-07 07:28",3,33.548946,-117.605872,TRUE,FALSE,TRUE,"S369062554","N"
-"472","nutman","Scaly-breasted Munia","Lonchura punctulata","L71242101","Heron Pointe","2026-07-07 07:27",1,33.752941,-118.091414,TRUE,FALSE,TRUE,"S368967200","N"
-"473","nutman","Scaly-breasted Munia","Lonchura punctulata","L37756652","1846 Galveston St, San Diego US-CA 32.77931, -117.20217","2026-07-07 07:27",1,32.779312,-117.202172,TRUE,FALSE,TRUE,"S368944190","N"
-"474","nutman","Scaly-breasted Munia","Lonchura punctulata","L458792","Kendall Indian Hammocks Park","2026-07-07 07:05",5,25.6953,-80.3734,TRUE,FALSE,FALSE,"S368926276","N"
-"475","nutman","Scaly-breasted Munia","Lonchura punctulata","L7599786","9805 SW 126th Ter, Miami US-FL (25.6525,-80.3526)","2026-07-07 07:00",8,25.652493,-80.352605,TRUE,FALSE,TRUE,"S368906046","N"
-"476","nutman","Scaly-breasted Munia","Lonchura punctulata","L336013","Lake Los Carneros Park","2026-07-07 06:40",3,34.44322,-119.84975,TRUE,FALSE,FALSE,"S368996500","N"
-"477","nutman","Scaly-breasted Munia","Lonchura punctulata","L4928107","Gonzales Canyon","2026-07-07 06:05",3,32.9675913,-117.2238851,TRUE,FALSE,FALSE,"S369152831","N"
-"478","nutman","Scaly-breasted Munia","Lonchura punctulata","L72394791","Santa Rosa","2026-07-07",3,34.2280414,-118.9329016,TRUE,FALSE,TRUE,"S369044487","N"
-"479","nutman","Scaly-breasted Munia","Lonchura punctulata","L34090449","Summitridge Longview Drive Park","2026-07-06 18:30",5,34.0077854,-117.7897654,TRUE,FALSE,TRUE,"S368751657","N"
-"480","nutman","Scaly-breasted Munia","Lonchura punctulata","L6841561","Mesa Lane backyard","2026-07-06 17:58",1,34.408699,-119.526193,TRUE,FALSE,TRUE,"S368747605","N"
-"481","nutman","Scaly-breasted Munia","Lonchura punctulata","L742496","Ellwood Mesa Open Space","2026-07-06 17:28",1,34.4216023,-119.8887134,TRUE,FALSE,FALSE,"S368766795","N"
-"482","nutman","Scaly-breasted Munia","Lonchura punctulata","L60428051","92129 near Waterford Ln, San Diego US-CA 32.97126, -117.14268","2026-07-06 17:24",4,32.971261,-117.142683,TRUE,FALSE,TRUE,"S368746894","N"
-"483","nutman","Scaly-breasted Munia","Lonchura punctulata","L13975177","Ranchito Bolsa Nueva (private/offset)","2026-07-06 16:06",1,36.8170447,-121.7049825,TRUE,FALSE,TRUE,"S369109561","N"
-"484","nutman","Scaly-breasted Munia","Lonchura punctulata","L4017588","Arroyo Burro Creek","2026-07-06 12:53",2,34.4242219,-119.7503543,TRUE,FALSE,FALSE,"S368686317","N"
-"485","nutman","Scaly-breasted Munia","Lonchura punctulata","L280047","Oso Creek Trail","2026-07-06 12:39",12,33.5980824,-117.6556048,TRUE,FALSE,FALSE,"S368689541","N"
-"486","nutman","Scaly-breasted Munia","Lonchura punctulata","L264648","Neary Lagoon","2026-07-06 12:20",1,36.9632874,-122.0303111,TRUE,FALSE,FALSE,"S368678211","N"
-"487","nutman","Scaly-breasted Munia","Lonchura punctulata","L72673316","Tierrasanta, San Diego US-CA (32.8180,-117.0932)","2026-07-06 12:13",3,32.817951,-117.093166,TRUE,FALSE,TRUE,"S368676226","N"
-"488","nutman","Scaly-breasted Munia","Lonchura punctulata","L4146292","Sycamore Canyon (Whittier, CA)","2026-07-06 12:03",2,34.004289,-118.0543345,TRUE,FALSE,FALSE,"S368676682","N"
-"489","nutman","Scaly-breasted Munia","Lonchura punctulata","L2235766","Los Jilgueros Preserve","2026-07-06 10:49",1,33.357684,-117.2454071,TRUE,FALSE,FALSE,"S368645787","N"
-"490","nutman","Scaly-breasted Munia","Lonchura punctulata","L5290660","Memorial Oaks Cemetery, Houston","2026-07-06 10:30",2,29.7821958,-95.6149685,TRUE,FALSE,FALSE,"S368580460","N"
-"491","nutman","Scaly-breasted Munia","Lonchura punctulata","L2024856","Sunset Drive Area--eucs & riparian","2026-07-06 10:17",5,33.0663161,-117.0680021,TRUE,FALSE,FALSE,"S368678044","N"
-"492","nutman","Scaly-breasted Munia","Lonchura punctulata","L9430472","Kluge/Quail Forest Retention Basin","2026-07-06 09:52",4,29.9838917,-95.6292837,TRUE,FALSE,FALSE,"S368586648","N"
-"493","nutman","Scaly-breasted Munia","Lonchura punctulata","L42984610","Language Park","2026-07-06 09:38",1,30.7062722,-88.1592291,TRUE,FALSE,TRUE,"S368546642","N"
-"494","nutman","Scaly-breasted Munia","Lonchura punctulata","L3336970","Poinsettia Park","2026-07-06 09:38",8,33.1141842,-117.3087931,TRUE,FALSE,FALSE,"S368646196","N"
-"495","nutman","Scaly-breasted Munia","Lonchura punctulata","L3480072","T.C. Jester Park & adjacent Railroad right of way.","2026-07-06 09:35",1,29.8229975,-95.4542398,TRUE,FALSE,FALSE,"S368552445","N"
-"496","nutman","Scaly-breasted Munia","Lonchura punctulata","L5374673","Tijuana River Valley--ranger station","2026-07-06 09:06",12,32.545626,-117.0741007,TRUE,FALSE,FALSE,"S368582749","N"
-"497","nutman","Scaly-breasted Munia","Lonchura punctulata","L799306","San Dieguito Lagoon--southwest","2026-07-06 08:42",2,32.9677315,-117.2594056,TRUE,FALSE,FALSE,"S368681829","N"
-"498","nutman","Scaly-breasted Munia","Lonchura punctulata","L11514214","Phelps Creek to UCSB NCOS","2026-07-06 08:40",11,34.4247631,-119.8808375,TRUE,FALSE,TRUE,"S368706170","N"
-"499","nutman","Scaly-breasted Munia","Lonchura punctulata","L72655112","5182 Gardena Ave, San Diego US-CA 32.77516, -117.19142","2026-07-06 08:34",7,32.775163,-117.191424,TRUE,FALSE,TRUE,"S368606183","N"
-"500","nutman","Scaly-breasted Munia","Lonchura punctulata","L21979573","East Rancho Carrillo Trail","2026-07-06 08:33",2,33.1256496,-117.232464,TRUE,FALSE,FALSE,"S368598748","N"
-"501","nutman","Scaly-breasted Munia","Lonchura punctulata","L16550752","Esencia Sports Park & Orchard Loop Trail, Rancho Mission Viejo","2026-07-06 08:19",3,33.548722,-117.6028895,TRUE,FALSE,FALSE,"S368704364","N"
-"502","nutman","Scaly-breasted Munia","Lonchura punctulata","L764103","El Camino Memorial Park","2026-07-06 08:13",5,32.8948312,-117.183609,TRUE,FALSE,FALSE,"S368636481","N"
-"503","nutman","Scaly-breasted Munia","Lonchura punctulata","L6263142","Bagdad Mill Site Park","2026-07-06 08:00",2,30.6049697,-87.0327044,TRUE,FALSE,FALSE,"S368759234","N"
-"504","nutman","Scaly-breasted Munia","Lonchura punctulata","L39569596","San Dieguito riparian from Old Coach Staging Area","2026-07-06 07:46",4,33.0661336,-117.0311133,TRUE,FALSE,TRUE,"S368672532","N"
-"505","nutman","Scaly-breasted Munia","Lonchura punctulata","L8825994","Memorial Park—Eastern Glades, Houston","2026-07-06 07:37",3,29.7672447,-95.4299637,TRUE,FALSE,FALSE,"S368524229","N"
-"506","nutman","Scaly-breasted Munia","Lonchura punctulata","L10437527","Johnson lake San Rafael loop","2026-07-06 07:23",6,34.130347,-118.174581,TRUE,FALSE,TRUE,"S369003695","N"
-"507","nutman","Scaly-breasted Munia","Lonchura punctulata","L5213342","Kickerillo-Mischer Preserve","2026-07-06 07:07",3,29.9875941,-95.5693334,TRUE,FALSE,FALSE,"S368547234","N"
-"508","nutman","Scaly-breasted Munia","Lonchura punctulata","L1640093","Upper Newport Bay--Big Canyon","2026-07-06 07:04",1,33.6321866,-117.8841044,TRUE,FALSE,FALSE,"S368683519","N"
-"509","nutman","Scaly-breasted Munia","Lonchura punctulata","L285807","Ka'ena Point NAR","2026-07-06 07:03",7,21.5742024,-158.2777119,TRUE,FALSE,FALSE,"S368663897","N"
-"510","nutman","Scaly-breasted Munia","Lonchura punctulata","L6338443","Manzano & El Arbol riparian","2026-07-06 06:57",3,33.1273024,-117.3290204,TRUE,FALSE,FALSE,"S368637054","N"
-"511","nutman","Scaly-breasted Munia","Lonchura punctulata","L288881","Colorado Lagoon","2026-07-06 06:56",1,33.7711322,-118.1334941,TRUE,FALSE,FALSE,"S368558749","N"
-"512","nutman","Scaly-breasted Munia","Lonchura punctulata","L947342","Buffalo Run Park","2026-07-06 06:44",6,29.6148788,-95.5135059,TRUE,FALSE,FALSE,"S368528456","N"
-"513","nutman","Scaly-breasted Munia","Lonchura punctulata","L2093003","Fairview Park Wetlands","2026-07-06 06:26",2,33.6664968,-117.940979,TRUE,FALSE,FALSE,"S368565913","N"
-"514","nutman","Scaly-breasted Munia","Lonchura punctulata","L68691802","92071, San Diego US-CA 32.87763, -117.00719","2026-07-06 06:10",1,32.877629,-117.007191,TRUE,FALSE,TRUE,"S368587883","N"
-"515","nutman","Scaly-breasted Munia","Lonchura punctulata","L404795","Oak Canyon Nature Center, Anaheim","2026-07-06 05:42",6,33.8372351,-117.7554989,TRUE,FALSE,FALSE,"S368607267","N"
+"","speciesCode","comName","sciName","locId","locName","obsDt","lat","lng","obsValid","obsReviewed","locationPrivate","subId","howMany"
+"1","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L36598035","2949 West Via Novamas, Cottonwood, Arizona, US (34.686, -112.06)","2026-07-16 15:43",34.6863237,-112.05999,TRUE,FALSE,TRUE,"S372905665",NA
+"2","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L14182939","Monterey Park","2026-07-16 15:30",33.3671527,-111.682347,TRUE,FALSE,FALSE,"S372907757",3
+"3","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L290333","Arthur Pack Regional Park","2026-07-16 14:48",32.3733753,-111.0535231,TRUE,FALSE,FALSE,"S372895566",1
+"4","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L272736","Kennedy Park","2026-07-16 14:47",32.1805717,-111.0074136,TRUE,FALSE,FALSE,"S372897634",1
+"5","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L762000","Purple Heart Park","2026-07-16 14:40",32.1038072,-110.7838583,TRUE,FALSE,FALSE,"S372892470",1
+"6","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L129114","Tumacacori NHP","2026-07-16 14:19",31.5683867,-111.0506648,TRUE,FALSE,FALSE,"S372910735",1
+"7","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8034096","Mesa Tierra number three subdivision water retention basin","2026-07-16 14:08",33.3818613,-111.7858774,TRUE,FALSE,TRUE,"S372890499",1
+"8","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L30700429","La Posada Campus (Private Access)","2026-07-16 14:06",31.859562,-110.973835,TRUE,FALSE,TRUE,"S372901092",2
+"9","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L57699650","1931 North La Rienda Avenue, Tucson, Arizona, US (32.245, -110.81)","2026-07-16 13:32",32.2453422,-110.8097748,TRUE,FALSE,TRUE,"S372881787",1
+"10","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L387543","Papago Park","2026-07-16 13:10",33.4564,-111.95,TRUE,FALSE,FALSE,"S372882900",2
+"11","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73662289","8630 E Via de Ventura, Scottsdale US-AZ 33.55426, -111.89542","2026-07-16 12:54",33.554261,-111.895423,TRUE,FALSE,TRUE,"S372867121",1
+"12","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L39036107","The Castle Aaaaarrrrrrggghhh (Yard)","2026-07-16 12:51",33.3366808,-111.908964,TRUE,FALSE,TRUE,"S372871744",1
+"13","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L6353876","Rockin' River Ranch State Park","2026-07-16 12:35",34.503349,-111.831179,TRUE,FALSE,FALSE,"S372886196",1
+"14","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L199300","Ash Canyon Bird Sanctuary (closed Thursday morning)","2026-07-16 12:30",31.3904516,-110.2392496,TRUE,FALSE,FALSE,"S372890791",4
+"15","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1115897","Canoa Ranch Conservation Park","2026-07-16 12:05",31.7948045,-111.0156226,TRUE,FALSE,FALSE,"S372880482",2
+"16","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L29830899","San Miguel (Restricted Access)","2026-07-16 11:40",32.2639503,-110.8738859,TRUE,FALSE,TRUE,"S372883062",1
+"17","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L17216397","Optimist Park","2026-07-16 11:23",33.370418,-111.901996,TRUE,FALSE,FALSE,"S372901043",4
+"18","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L14792167","Michael Sadat's Yard","2026-07-16 11:02",32.2403251,-110.9312982,TRUE,FALSE,TRUE,"S372834750",2
+"19","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L4226928","E Whitton Ave","2026-07-16 11:00",33.4889201,-112.0678183,TRUE,FALSE,TRUE,"S372832790",1
+"20","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L9326333","Saguaro NP--East--Loma Verde Trailhead","2026-07-16 10:58",32.2033393,-110.7099992,TRUE,FALSE,FALSE,"S372869605",1
+"21","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L23553642","The Paton Center for Hummingbirds, Patagonia US-AZ (31.5395,-110.7601)","2026-07-16 10:58",31.53953,-110.760076,TRUE,FALSE,TRUE,"S372888633",1
+"22","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73654348","Cactus Forest Dr, Tucson US-AZ 32.19840, -110.73496","2026-07-16 10:25",32.198398,-110.734961,TRUE,FALSE,TRUE,"S372835702",8
+"23","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L32258596","Sabino Vista yard nr Crestwood / Larrea, Tucson","2026-07-16 10:21",32.27733,-110.815652,TRUE,FALSE,TRUE,"S372820607",1
+"24","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L65405187","The Green Line","2026-07-16 10:18",33.44235,-111.933095,TRUE,FALSE,TRUE,"S372883200",2
+"25","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L21883530","Piest home in Vail","2026-07-16 10:17",32.07903,-110.6577817,TRUE,FALSE,TRUE,"S372828869",2
+"26","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L18187056","Saguaro NP--East--Extreme Living Overlook","2026-07-16 10:08",32.189803,-110.731385,TRUE,FALSE,FALSE,"S372819392",2
+"27","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L19555544","Almartin Street Neighborhood","2026-07-16 10:05",32.2567875,-110.924359,TRUE,FALSE,TRUE,"S372814056",2
+"28","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L39311782","6114 E Calle de la Almendra, Hereford US-AZ 31.45680, -110.22048","2026-07-16 09:52",31.456799,-110.220484,TRUE,FALSE,TRUE,"S372831972",1
+"29","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L12232801","Sonoita/Patagonia Home","2026-07-16 09:23",31.61107,-110.729694,TRUE,FALSE,TRUE,"S372818357",1
+"30","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L21132395","Anamax Park","2026-07-16 09:16",31.9318653,-110.9887171,TRUE,FALSE,FALSE,"S372813146",2
+"31","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L41715386","2102 West Legends Way, Anthem, Arizona, US (33.871, -112.104)","2026-07-16 09:11",33.8708645,-112.1041982,TRUE,FALSE,TRUE,"S372794315",1
+"32","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L66520427","East Stacey Road, Queen Creek, Arizona, US (33.206, -111.7)","2026-07-16 09:10",33.20628,-111.6998234,TRUE,FALSE,TRUE,"S372801201",NA
+"33","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L938672","Usery Mountain Regional Park","2026-07-16 09:00",33.474,-111.615385,TRUE,FALSE,FALSE,"S372839672",1
+"34","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L9310338","Tempe Women's Club Park","2026-07-16 08:50",33.443123,-111.931006,TRUE,FALSE,FALSE,"S372807054",1
+"35","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1224355","Anza Trail--Amado Road Trailhead","2026-07-16 08:42",31.7076693,-111.0570294,TRUE,FALSE,FALSE,"S372823771",1
+"36","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73649351","W Tucson-Ajo Hwy, Sells US-AZ 31.98815, -111.71490","2026-07-16 08:39",31.988153,-111.714901,TRUE,FALSE,TRUE,"S372816765",1
+"37","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L5219326","Anza Trail--Tubac kiosk area","2026-07-16 08:31",31.6047365,-111.0429811,TRUE,FALSE,FALSE,"S372910555",4
+"38","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L393566","Casa de San Pedro B&B--Visitors Welcome","2026-07-16 08:30",31.4088134,-110.1067829,TRUE,FALSE,FALSE,"S372809599",7
+"39","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L5809821","Haus von Detwiler","2026-07-16 08:29",32.6999678,-114.6841248,TRUE,FALSE,TRUE,"S372797000",2
+"40","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1735043","Saguaro NP--East--Cactus Forest Dr Loop","2026-07-16 08:24",32.191219,-110.7076505,TRUE,FALSE,FALSE,"S372836394",5
+"41","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L273411","Tucson Bird Alliance Mason Center","2026-07-16 08:19",32.3655786,-111.0477639,TRUE,FALSE,FALSE,"S372786163",2
+"42","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L4233573","Ocotillo Community Area, Chandler","2026-07-16 08:15",33.2512743,-111.8714277,TRUE,FALSE,TRUE,"S372880246",1
+"43","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L129052","Patagonia-Sonoita Creek Preserve","2026-07-16 08:13",31.528,-110.775,TRUE,FALSE,FALSE,"S372786036",4
+"44","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L44914486","402 E Burrows Pl, Tucson US-AZ (32.2951,-110.9656)","2026-07-16 08:07",32.295055,-110.965585,TRUE,FALSE,TRUE,"S372778080",2
+"45","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L52799027","The Pit","2026-07-16 08:06",31.604726,-111.043815,TRUE,FALSE,TRUE,"S372910502",1
+"46","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L208918","Sweetwater Wetlands","2026-07-16 08:00",32.2790144,-111.0216061,TRUE,FALSE,FALSE,"S372848283",3
+"47","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L762169","Himmel Park","2026-07-16 07:55",32.2334226,-110.9327316,TRUE,FALSE,FALSE,"S372777041",2
+"48","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L765027","Las Cienegas NCA--Empire Gulch","2026-07-16 07:48",31.7878465,-110.6365728,TRUE,FALSE,FALSE,"S372789030",4
+"49","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L819335","Gilbert and Riggs Rds. pond","2026-07-16 07:45",33.2241133,-111.7906094,TRUE,FALSE,FALSE,"S372880791",1
+"50","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L4341205","La Madera Park","2026-07-16 07:43",32.2595329,-110.9310982,TRUE,FALSE,FALSE,"S372778169",NA
+"51","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L166979","Boyce Thompson Arboretum","2026-07-16 07:42",33.2795082,-111.158756,TRUE,FALSE,FALSE,"S372812933",4
+"52","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L55713122","Cornell Ave. Yard","2026-07-16 07:38",33.3725737,-111.9036173,TRUE,FALSE,TRUE,"S372856276",3
+"53","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L27373176","Allen-Mathis Home, Hereford, Arizona, US (31.424, -110.126)","2026-07-16 07:36",31.4240896,-110.1256971,TRUE,FALSE,TRUE,"S372782134",4
+"54","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L55592841","Camp Verde Property","2026-07-16 07:34",34.6040457,-111.8957728,TRUE,FALSE,TRUE,"S372767086",1
+"55","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L14148221","Rillito Regional Park","2026-07-16 07:34",32.2915594,-110.9592973,TRUE,FALSE,FALSE,"S372800044",1
+"56","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L2883481","The Ice House","2026-07-16 07:30",31.4920438,-110.9900558,TRUE,FALSE,TRUE,"S372774738",1
+"57","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L3868066","Mitchell Park","2026-07-16 07:27",32.2554975,-110.9546325,TRUE,FALSE,FALSE,"S372765576",1
+"58","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73587377","Phoenician Resort","2026-07-16 07:25",33.507273,-111.949542,TRUE,FALSE,TRUE,"S372762168",2
+"59","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L11229243","Our 'Habitat at Home'","2026-07-16 07:20",32.3066877,-110.9521783,TRUE,FALSE,TRUE,"S372782552",3
+"60","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L21154994","Crotalus House, Catalina, Arizona, US (32.504, -110.922)","2026-07-16 07:16",32.5039554,-110.9216491,TRUE,FALSE,TRUE,"S372769604",3
+"61","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L144858","Riparian Preserve at Gilbert Water Ranch","2026-07-16 07:15",33.3614502,-111.7339478,TRUE,FALSE,FALSE,"S372809956",3
+"62","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L247122","Paton Center for Hummingbirds (Patons' Yard)","2026-07-16 07:12",31.5390131,-110.7606337,TRUE,FALSE,FALSE,"S372916842",3
+"63","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L17345174","Vistoso Trails Nature Preserve","2026-07-16 07:05",32.4544094,-110.9822788,TRUE,FALSE,FALSE,"S372765561",2
+"64","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L128938","Catalina SP","2026-07-16 07:00",32.4244027,-110.9123905,TRUE,FALSE,FALSE,"S372817462",2
+"65","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L128870","Agua Caliente Park","2026-07-16 06:52",32.2813752,-110.7298226,TRUE,FALSE,FALSE,"S372797519",4
+"66","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8626038","SRP ponds","2026-07-16 06:50",33.441654,-111.95136,TRUE,FALSE,FALSE,"S372822478",2
+"67","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73651317","San Ignacio Golf Club, Green Valley US-AZ 31.81037, -111.02745 pond","2026-07-16 06:47",31.810374,-111.027452,TRUE,FALSE,TRUE,"S372824432",1
+"68","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1586823","Saguaro NP--East--Lower Chiminea Canyon","2026-07-16 06:46",32.1534807,-110.6086395,TRUE,FALSE,FALSE,"S372759178",7
+"69","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L53709901","Glenbrook 14","2026-07-16 06:40",33.619684,-111.733182,TRUE,FALSE,TRUE,"S372747666",1
+"70","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L6175589","Market House","2026-07-16 06:39",31.603425,-111.046801,TRUE,FALSE,TRUE,"S372910483",1
+"71","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L689527","Sabino Dam and downstream riparian","2026-07-16 06:35",32.3131068,-110.8113941,TRUE,FALSE,FALSE,"S372782347",2
+"72","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L302348","Dead Horse Ranch SP","2026-07-16 06:30",34.751972,-112.0131749,TRUE,FALSE,FALSE,"S372876598",4
+"73","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1151548","Naranja Town Park","2026-07-16 06:30",32.4124291,-110.9840584,TRUE,FALSE,FALSE,"S372753908",1
+"74","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L58811718","Old Vail Road- Granit Construction Pit","2026-07-16 06:28",32.0757541,-110.8757791,TRUE,FALSE,TRUE,"S372746712",1
+"75","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L480168","Veterans Oasis Park","2026-07-16 06:27",33.2347837,-111.7695838,TRUE,FALSE,FALSE,"S372821510",8
+"76","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L35513933","Placita Cresta Loma- Front","2026-07-16 06:26",32.3016224,-110.9837563,TRUE,FALSE,TRUE,"S372739567",1
+"77","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8110430","Phoenix Mountains Preserve--40th Street trailhead","2026-07-16 06:25",33.567723,-111.9967697,TRUE,FALSE,FALSE,"S372787216",7
+"78","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L12371210","Arizona Birding Guides feeders--Visitors Welcome","2026-07-16 06:19",31.5432844,-110.7519356,TRUE,FALSE,FALSE,"S372877989",2
+"79","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L22091545","Anthem—Southeast Parkside","2026-07-16 06:13",33.847651,-112.103797,TRUE,FALSE,TRUE,"S372755145",8
+"80","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1546530","Brown Canyon Ranch (opened 2011)","2026-07-16 06:12",31.4740051,-110.2977887,TRUE,FALSE,FALSE,"S372793524",2
+"81","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L6770504","Pantano River Park--Glenn St/Sahuara Ave (opened 2018)","2026-07-16 06:09",32.257666,-110.866469,TRUE,FALSE,FALSE,"S372767083",6
+"82","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L129072","Sabino Canyon Recreation Area","2026-07-16 06:04",32.3300526,-110.7944301,TRUE,FALSE,FALSE,"S372826947",8
+"83","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L129080","San Pedro RNCA--San Pedro House and trails","2026-07-16 06:02",31.5478992,-110.1408997,TRUE,FALSE,FALSE,"S372865778",6
+"84","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L190217","Evelyn Hallman Park","2026-07-16 06:01",33.4480905,-111.9371943,TRUE,FALSE,FALSE,"S372750583",5
+"85","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L11047160","Home list","2026-07-16 06:00",31.417106,-110.245284,TRUE,FALSE,TRUE,"S372786463",2
+"86","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L56564723","Sun Lakes Yard","2026-07-16 05:57",33.2318556,-111.8775269,TRUE,FALSE,TRUE,"S372746742",1
+"87","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L17283814","My Neighborhood","2026-07-16 05:56",32.2365172,-110.9248519,TRUE,FALSE,TRUE,"S372724028",2
+"88","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L710850","Glendale Recharge Ponds","2026-07-16 05:55",33.5242237,-112.286582,TRUE,FALSE,FALSE,"S372879222",2
+"89","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L774996","Rillito River Park--Columbus Weed Patch","2026-07-16 05:51",32.2732364,-110.9032059,TRUE,FALSE,FALSE,"S372755526",11
+"90","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L819322","Gilbert and Chandler Heights Rds. pond","2026-07-16 05:50",33.2386696,-111.7912853,TRUE,FALSE,FALSE,"S372881364",2
+"91","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L9245857","BW's Yard","2026-07-16 05:48",32.2349959,-110.9037019,TRUE,FALSE,TRUE,"S372734742",2
+"92","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L28562107","200 Silver Sky Place, Green Valley, Arizona, US (31.809, -110.992)","2026-07-16 05:45",31.8094588,-110.9921305,TRUE,FALSE,TRUE,"S372741375",2
+"93","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L35513979","Placita Cresta Loma-Back","2026-07-16 05:41",32.3015168,-110.9840233,TRUE,FALSE,TRUE,"S372725374",3
+"94","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L551510","Beeline Highway--Sunflower","2026-07-16 05:39",33.8731948,-111.4690876,TRUE,FALSE,FALSE,"S372817408",3
+"95","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L838090","Seneca/Ridgeway area","2026-07-16 05:37",32.2475404,-110.8653452,TRUE,FALSE,FALSE,"S372740311",3
+"96","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L20973859","Quartzite Drive","2026-07-16 05:26",32.9107012,-111.2718299,TRUE,FALSE,TRUE,"S372870810",2
+"97","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L229841","Agua Nueva Park (was Roger Road WRF)","2026-07-16 05:25",32.2804902,-111.0272755,TRUE,FALSE,FALSE,"S372851024",7
+"98","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L7843372","Vekol Valley--South Vekol Well","2026-07-16 05:25",32.7379985,-112.2309233,TRUE,FALSE,FALSE,"S372863984",1
+"99","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L2469984","Tucson -- Arroyo Chico neighborhood","2026-07-16 05:13",32.2174486,-110.9228182,TRUE,FALSE,TRUE,"S372744348",6
+"100","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L17948450","Yard List","2026-07-16 05:08",33.5851075,-112.2179359,TRUE,FALSE,TRUE,"S372721920",1
+"101","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L350281","El Rio Preserve","2026-07-16 05:06",32.392141,-111.1384898,TRUE,FALSE,FALSE,"S372791107",3
+"102","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L31393048","Cresta Loma Drive","2026-07-16 05:05",32.302041,-110.98336,TRUE,FALSE,TRUE,"S372714739",2
+"103","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L267156","Danny Lopez Park (formerly Columbus Park)","2026-07-16 05:05",32.2856814,-111.0346556,TRUE,FALSE,FALSE,"S372876860",10
+"104","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L2331591","Home and Royal Palm Park","2026-07-15 19:10",33.5578585,-112.0897293,TRUE,FALSE,TRUE,"S372582781",2
+"105","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1400591","Rio Vista Natural Resource Park","2026-07-15 18:40",32.2800719,-110.9326502,TRUE,FALSE,FALSE,"S372771932",1
+"106","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L38078087","Queen Creek Wash Trail (Pecan Circle)","2026-07-15 18:24",33.2317196,-111.6101168,TRUE,FALSE,FALSE,"S372572946",2
+"107","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L25140960","3423 E Fourth St, Tucson US-AZ 32.23125, -110.92023","2026-07-15 18:21",32.231251,-110.92023,TRUE,FALSE,TRUE,"S372574530",2
+"108","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L29125749","Desert Willow House","2026-07-15 18:17",33.31633,-112.028847,TRUE,FALSE,TRUE,"S372607336",1
+"109","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L21976076","Soldier's Creek Park","2026-07-15 18:17",31.5618989,-110.3065109,TRUE,FALSE,FALSE,"S372577896",2
+"110","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L42196637","Oro Valley, AZ","2026-07-15 18:15",32.3919224,-110.961802,TRUE,FALSE,TRUE,"S372591802",2
+"111","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L11114928","Sahuaro Ranch Park","2026-07-15 18:10",33.5766321,-112.1904582,TRUE,FALSE,FALSE,"S372604786",1
+"112","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73655566","Eagle Creek Bat Cave, Morenci, Arizona, US (33.022, -109.414)","2026-07-15 17:40",33.0223959,-109.4138843,TRUE,FALSE,TRUE,"S372840214",4
+"113","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L2438871","Sahuarita--North Santa Cruz Park","2026-07-15 17:30",31.9873804,-110.9630556,TRUE,FALSE,FALSE,"S372569171",1
+"114","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1163017","Florida Wash--Corral at Jct FR488&62A","2026-07-15 15:49",31.7741936,-110.8621198,TRUE,FALSE,FALSE,"S372605412",1
+"115","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73591405","Sears Park, Tucson US-AZ 32.21728, -110.86376","2026-07-15 15:27",32.217275,-110.863764,TRUE,FALSE,TRUE,"S372556228",6
+"116","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L12259291","Calle Lottie Tucson","2026-07-15 15:20",32.3254475,-110.9561947,TRUE,FALSE,TRUE,"S372546094",2
+"117","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L71994048","ATV community pool","2026-07-15 15:10",33.334731,-111.992654,TRUE,FALSE,TRUE,"S372531519",1
+"118","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L128879","Arizona-Sonora Desert Museum (please do not report captive birds)","2026-07-15 13:49",32.2437113,-111.168125,TRUE,FALSE,FALSE,"S372551369",3
+"119","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L54982723","Boulder Canyon","2026-07-15 13:30",32.4745337,-111.1104649,TRUE,FALSE,TRUE,"S372591258",3
+"120","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L5050566","Rincon Mountains--Turkey Creek Trailhead riparian","2026-07-15 12:55",32.1560315,-110.4745352,TRUE,FALSE,FALSE,"S372605777",2
+"121","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L733825","Sahuarita--Parque Los Arroyos","2026-07-15 12:43",31.920113,-110.9817839,TRUE,FALSE,FALSE,"S372508690",3
+"122","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L54581561","The Green","2026-07-15 12:42",31.9682387,-110.9701914,TRUE,FALSE,FALSE,"S372501454",1
+"123","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L234314","Anza Trail--Tubac","2026-07-15 11:37",31.6128313,-111.040829,TRUE,FALSE,FALSE,"S372490768",2
+"124","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L7049134","Caviglia-Arivaca Library","2026-07-15 11:26",31.57574,-111.32672,TRUE,FALSE,FALSE,"S372480481",1
+"125","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L40448134","Lewis lesser goldfinch","2026-07-15 10:57",33.474959,-111.958628,TRUE,FALSE,TRUE,"S372470170",1
+"126","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L31600142","Woods Canyon Trail","2026-07-15 10:28",34.754673,-111.760051,TRUE,FALSE,FALSE,"S372472668",1
+"127","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L352346","Santa Gertrudis Lane (foot access only)","2026-07-15 10:27",31.5620883,-111.0473766,TRUE,FALSE,FALSE,"S372478923",3
+"128","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L300609","Salt River--Granite Reef Recreation Area","2026-07-15 09:45",33.5145045,-111.6815139,TRUE,FALSE,FALSE,"S372518567",1
+"129","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L5077524","Scottsdale Civic Center Park","2026-07-15 09:16",33.4910094,-111.9227437,TRUE,FALSE,FALSE,"S372519767",2
+"130","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1899580","Sun Lakes and Riggs Rd ponds","2026-07-15 09:10",33.2173458,-111.8807906,TRUE,FALSE,FALSE,"S372435854",1
+"131","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L25830782","Mitchell Park","2026-07-15 09:06",33.42009,-111.949098,TRUE,FALSE,FALSE,"S372436709",2
+"132","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L35522013","Temporal Gulch (lower)","2026-07-15 08:42",31.603404,-110.78838,TRUE,FALSE,TRUE,"S372877198",6
+"133","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L19581073","The Paton Center for Hummingbirds, Patagonia US-AZ 31.53921, -110.76059","2026-07-15 08:41",31.539212,-110.76059,TRUE,FALSE,TRUE,"S372858710",3
+"134","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1416114","Riggs and Price Rds. ponds","2026-07-15 08:40",33.2193147,-111.892638,TRUE,FALSE,FALSE,"S372524493",2
+"135","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L303389","Nogales Dog Park ponds (formerly Palo Duro Creek Golf Course)","2026-07-15 08:36",31.388,-110.959,TRUE,FALSE,FALSE,"S372512771",4
+"136","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L27188306","Dinosaur Park","2026-07-15 08:35",33.3636891,-111.4382315,TRUE,FALSE,FALSE,"S372518680",5
+"137","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L497742","Yuma East Wetlands","2026-07-15 08:29",32.7207934,-114.6065962,TRUE,FALSE,FALSE,"S372420108",2
+"138","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73571378","85348, Salome US-AZ 33.85684, -113.35318","2026-07-15 08:25",33.856843,-113.353177,TRUE,FALSE,TRUE,"S372475161",1
+"139","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L48156327","Home","2026-07-15 08:20",32.549801,-110.861341,TRUE,FALSE,TRUE,"S372439415",1
+"140","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73465094","526 E Mabel St, Tucson US-AZ 32.23831, -110.96331","2026-07-15 08:20",32.238313,-110.963308,TRUE,FALSE,TRUE,"S372416549",2
+"141","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L71320419","6552 E Cave Creek Rd, Cave Creek US-AZ 33.83377, -111.93950","2026-07-15 08:15",33.833769,-111.939501,TRUE,FALSE,TRUE,"S372415423",1
+"142","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L622087","McCormick Park","2026-07-15 08:02",32.2612251,-110.8999872,TRUE,FALSE,FALSE,"S372414774",3
+"143","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L25220741","Las Cienegas NCA--Levee and Cienega","2026-07-15 08:00",31.8245674,-110.585358,TRUE,FALSE,FALSE,"S372459483",3
+"144","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L10786942","Williamson/Wood home - Mill Rd.","2026-07-15 07:54",31.4095525,-109.8806739,TRUE,FALSE,TRUE,"S372428475",1
+"145","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L49436554","Cottonwood Impoundment on North Hill Farm Drive, Tucson, Arizona, US","2026-07-15 07:51",32.2653191,-110.8835369,TRUE,FALSE,TRUE,"S372429447",3
+"146","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L10892635","Judy's yard","2026-07-15 07:44",31.833468,-110.997357,TRUE,FALSE,TRUE,"S372443309",2
+"147","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L629205","University of Arizona","2026-07-15 07:39",32.2321157,-110.9511852,TRUE,FALSE,FALSE,"S372417345",1
+"148","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L17264691","Anza Trail--north of Desert Meadows Park","2026-07-15 07:39",31.8592836,-110.9851899,TRUE,FALSE,FALSE,"S372427641",4
+"149","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L12831020","Backyard","2026-07-15 07:30",32.1975166,-111.0045938,TRUE,FALSE,TRUE,"S372525107",2
+"150","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L35660648","9066 Seven Oaks Drive (Private), Hereford, Arizona, US (31.404, -110.234)","2026-07-15 07:25",31.404478,-110.2342918,TRUE,FALSE,TRUE,"S372398616",2
+"151","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L859415","Needle Rock Recreation Area","2026-07-15 07:24",33.7585986,-111.6755104,TRUE,FALSE,FALSE,"S372424254",3
+"152","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L40472442","E Empire Ranch Rd, Sonoita US-AZ 31.82518, -110.58694","2026-07-15 07:23",31.825176,-110.586938,TRUE,FALSE,TRUE,"S372399885",1
+"153","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L935411","Rillito River--Craycroft Rd","2026-07-15 07:22",32.2693356,-110.8771884,TRUE,FALSE,TRUE,"S372406508",3
+"154","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73556152","85364, Yuma US-AZ 32.72789, -114.61432","2026-07-15 07:09",32.727893,-114.614316,TRUE,FALSE,TRUE,"S372415119",1
+"155","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L45260416","Alamo Wash -- Ft Lowell to Glenn","2026-07-15 07:00",32.2614836,-110.8857643,TRUE,FALSE,TRUE,"S372429347",3
+"156","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L697198","PebbleCreek","2026-07-15 06:50",33.4876479,-112.4050981,TRUE,FALSE,TRUE,"S372422790",3
+"157","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L283449","Forty Niner Country Club","2026-07-15 06:42",32.2488084,-110.7349778,TRUE,FALSE,FALSE,"S372420741",6
+"158","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L21987482","Tallercito Tumamoc","2026-07-15 06:40",32.234609,-111.000559,TRUE,FALSE,TRUE,"S372833361",6
+"159","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L3533323","Sun City, Mom Webster House","2026-07-15 06:39",33.6258987,-112.2647381,TRUE,FALSE,TRUE,"S372411148",4
+"160","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L30118924","Vault Mine Ct. Verandah Watch","2026-07-15 06:35",31.8560083,-110.9666535,TRUE,FALSE,TRUE,"S372421530",2
+"161","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L52364448","Rock Ledge Spring (no public access)","2026-07-15 06:35",32.3049823,-110.7876274,TRUE,FALSE,TRUE,"S372380740",1
+"162","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L17557889","Foothills Park","2026-07-15 06:34",33.654918,-112.18361,TRUE,FALSE,FALSE,"S372392541",2
+"163","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L913627","Green Valley--Desert Meadows Park","2026-07-15 06:27",31.8552155,-110.9860539,TRUE,FALSE,FALSE,"S372401246",1
+"164","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L44497431","Bambi","2026-07-15 06:24",33.6732,-112.082004,TRUE,FALSE,TRUE,"S372583669",1
+"165","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L800002","Anthem--Southeast Parkside","2026-07-15 06:22",33.8464948,-112.1102387,TRUE,FALSE,TRUE,"S372400298",2
+"166","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L17138033","AZ: Green Valley, BBAP Bird Sanctuary 2","2026-07-15 06:20",31.8023549,-111.029918,TRUE,FALSE,TRUE,"S372390027",1
+"167","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L5238840","E Mountain View Road (private residence)","2026-07-15 06:15",31.3853692,-110.2273214,TRUE,FALSE,TRUE,"S372524612",1
+"168","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L3286634","Morning Star Ranch - Winery Springs Cyn.","2026-07-15 06:10",31.5651832,-110.937242,TRUE,FALSE,TRUE,"S372397610",4
+"169","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L6281202","Santa Cruz Flats: Phillips/LaPalma.","2026-07-15 06:09",32.7188917,-111.5326667,TRUE,FALSE,TRUE,"S372544295",3
+"170","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73558914","Lower San Pedro River Wildlife Area - AZGFD restoration site","2026-07-15 06:09",32.8136834,-110.6977658,TRUE,FALSE,TRUE,"S372426306",3
+"171","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L20329824","Oro Valley Home (private)","2026-07-15 06:00",32.4330004,-110.9912966,TRUE,FALSE,TRUE,"S372581731",1
+"172","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L11034681","My backyard","2026-07-15 05:58",32.238525,-110.924171,TRUE,FALSE,TRUE,"S372486205",3
+"173","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L346021","Vernon Ave yard","2026-07-15 05:56",33.4740986,-111.9596002,TRUE,FALSE,TRUE,"S372730184",2
+"174","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L68505045","7557 W Buckeye Path, Marana US-AZ (32.4608,-111.1245)","2026-07-15 05:53",32.460787,-111.124511,TRUE,FALSE,TRUE,"S372383295",7
+"175","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1004595","Box Bar Recreation Site","2026-07-15 05:51",33.743719,-111.6602969,TRUE,FALSE,FALSE,"S372391941",1
+"176","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L999878","Northsight Park","2026-07-15 05:48",33.6122247,-111.8988848,TRUE,FALSE,FALSE,"S372380407",3
+"177","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L250145","Sam Lena Park and KERP","2026-07-15 05:48",32.1812,-110.932,TRUE,FALSE,FALSE,"S372408601",2
+"178","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L2714898","The Jail Trail","2026-07-15 05:46",34.7496668,-112.0269971,TRUE,FALSE,FALSE,"S372441543",3
+"179","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L72276172","Mountainview Golf Course","2026-07-15 05:36",32.533027,-110.8943675,TRUE,FALSE,TRUE,"S372404105",5
+"180","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L18461951","Neighborhood","2026-07-15 05:30",32.299075,-110.833703,TRUE,FALSE,TRUE,"S372399387",12
+"181","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L245447","Fort Lowell Park and Pantano Wash","2026-07-15 05:30",32.2605631,-110.8727628,TRUE,FALSE,FALSE,"S372393341",12
+"182","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1427432","Loews Ventana Canyon Resort","2026-07-15 05:25",32.328408,-110.850251,TRUE,FALSE,FALSE,"S372428957",9
+"183","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L4917200","Gibbons Yard","2026-07-15 05:23",32.1681629,-110.7623023,TRUE,FALSE,TRUE,"S372412070",6
+"184","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L6641721","Sierra Vista Golf Center at Pueblo del Sol","2026-07-15 05:18",31.5201792,-110.2647999,TRUE,TRUE,FALSE,"S372535623",25
+"185","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L715412","Higley and Ocotillo Rds. ponds","2026-07-15 05:17",33.2533311,-111.7181683,TRUE,FALSE,FALSE,"S372499701",2
+"186","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L9410713","Yard, Quail Creek, Green Valley","2026-07-15 05:15",31.879996,-110.9294221,TRUE,FALSE,TRUE,"S372417048",4
+"187","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L744803","Plumtree","2026-07-15 05:05",32.2610446,-110.9017322,TRUE,FALSE,TRUE,"S372348688",1
+"188","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L848304","Salt River--Goldfield Recreation Area","2026-07-15 05:05",33.5534649,-111.6225891,TRUE,FALSE,FALSE,"S372421280",8
+"189","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L284416","Arivaca Lake","2026-07-15 04:53",31.5302935,-111.2521748,TRUE,FALSE,FALSE,"S372475762",1
+"190","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L56476558","Joe and Molly's Yard","2026-07-15",33.4008429,-111.905499,TRUE,FALSE,TRUE,"S372542746",2
+"191","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L16701148","2876 Solarro Dr, Sierra Vista US-AZ 31.52677, -110.26926","2026-07-14 19:14",31.526775,-110.269264,TRUE,FALSE,TRUE,"S372225867",2
+"192","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L815678","Granada Park","2026-07-14 18:30",33.5324095,-112.036517,TRUE,FALSE,FALSE,"S372231183",4
+"193","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L6686511","Vista del Camino Park--north end","2026-07-14 17:55",33.4608582,-111.9148493,TRUE,FALSE,FALSE,"S372223801",2
+"194","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L13617283","Coral Bells","2026-07-14 17:54",32.243215,-111.0413732,TRUE,FALSE,TRUE,"S372215657",1
+"195","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L5525302","W Turkey Creek Rd--Nat'l Forest boundary to road end (mp 8.3-11)","2026-07-14 16:02",31.8658952,-109.3487477,TRUE,FALSE,FALSE,"S372214023",1
+"196","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L51941890","18418 West Ivy Lane, Surprise, Arizona, US (33.626, -112.456)","2026-07-14 15:18",33.6258479,-112.4555649,TRUE,FALSE,TRUE,"S372179697",1
+"197","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L357429","Scottsdale--Chaparral Park","2026-07-14 13:37",33.5110032,-111.906631,TRUE,FALSE,FALSE,"S372169966",2
+"198","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L13710758","Lake Havasu City, Arizona, US (34.503, -114.319)","2026-07-14 13:08",34.5028549,-114.3193797,TRUE,FALSE,TRUE,"S372174241",1
+"199","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L50349369","Quarry Pines","2026-07-14 12:31",32.356224,-111.099041,TRUE,FALSE,TRUE,"S372191123",4
+"200","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1327826","Quail Creek Veterans Municipal Park","2026-07-14 11:55",31.8966516,-110.9654436,TRUE,FALSE,FALSE,"S372743400",1
+"201","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L4093520","Scottsdale Nature Area--Indian Bend Village","2026-07-14 11:45",33.5360425,-111.9083489,TRUE,FALSE,FALSE,"S372152310",2
+"202","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1406596","Saguaro NP--West--Desert Discovery Trail","2026-07-14 11:33",32.2625304,-111.2106575,TRUE,FALSE,FALSE,"S372133319",3
+"203","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L340020","ASU Main Campus","2026-07-14 11:20",33.4207756,-111.9340445,TRUE,FALSE,FALSE,"S372278597",4
+"204","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L51161116","Saguaro NP--West--watering hole","2026-07-14 11:04",32.2558369,-111.2022467,TRUE,FALSE,FALSE,"S372133414",1
+"205","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L474140","Anza Trail--Rio Rico (Guy Tobin Trailhead)","2026-07-14 10:24",31.4679656,-110.9918475,TRUE,FALSE,FALSE,"S372176544",2
+"206","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L19927896","home","2026-07-14 10:15",32.2753563,-110.8715439,TRUE,FALSE,TRUE,"S372126201",1
+"207","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L684301","Tucson Botanical Gardens","2026-07-14 10:07",32.2482323,-110.9086132,TRUE,FALSE,FALSE,"S372137734",5
+"208","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L250958","Lakeside Park","2026-07-14 09:55",32.1861206,-110.8162263,TRUE,FALSE,FALSE,"S372159743",1
+"209","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73478248","11222 East Stampede Place, Tucson, Arizona, US (32.274, -110.752)","2026-07-14 09:44",32.2740679,-110.7516027,TRUE,FALSE,TRUE,"S372081322",2
+"210","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L53750496","N Wrens Nest Pl","2026-07-14 09:27",32.252257,-110.8166705,TRUE,FALSE,TRUE,"S372078438",2
+"211","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L54854210","Pistol Hill - North Slope Trail","2026-07-14 09:27",32.063166,-110.6539164,TRUE,FALSE,TRUE,"S372107739",1
+"212","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L879018","Las Lagunas de Anza wetlands (Drive-in Ponds)","2026-07-14 09:23",31.3896771,-110.9557467,TRUE,FALSE,FALSE,"S372176424",2
+"213","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L5140436","Silly Mountain","2026-07-14 09:19",33.3805246,-111.4834106,TRUE,FALSE,FALSE,"S372165537",1
+"214","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L51073251","S Canyon Edge Tr","2026-07-14 09:19",31.9330311,-110.7977619,TRUE,FALSE,TRUE,"S372078618",4
+"215","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73486165","SRP, Legends, Desert Meadows to Continental and back","2026-07-14 09:01",31.839988,-110.992308,TRUE,FALSE,TRUE,"S372112275",3
+"216","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L46677983","Sycamore Leaf (from Smooth Opal to the dead end)","2026-07-14 08:57",31.9349555,-110.8048437,TRUE,FALSE,TRUE,"S372071743",5
+"217","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L4935482","Rio Vista Community Park/Riparian Area","2026-07-14 08:45",33.61579,-112.24497,TRUE,FALSE,FALSE,"S372073878",NA
+"218","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L17109435","Lost Goldmine Trailhead","2026-07-14 08:41",33.3896936,-111.4246087,TRUE,FALSE,FALSE,"S372165416",1
+"219","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L721572","Base and Meridian WA","2026-07-14 08:39",33.3791718,-112.3074389,TRUE,FALSE,FALSE,"S372212428",2
+"220","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L20022402","Hampton Inn—Tucson Airport","2026-07-14 08:37",32.125139,-110.934339,TRUE,FALSE,TRUE,"S372064856",1
+"221","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L39714720","UTM: 12 R 519000 3534000.(1,010 m)","2026-07-14 08:34",31.941779,-110.798974,TRUE,FALSE,TRUE,"S372063233",2
+"222","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L876690","San Pedro River--San Manuel Crossing","2026-07-14 08:30",32.6003009,-110.5358934,TRUE,FALSE,FALSE,"S372085848",4
+"223","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L22809304","Park Mall Park","2026-07-14 08:28",32.217292,-110.862633,TRUE,FALSE,TRUE,"S372116615",9
+"224","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L281844","Montosa Canyon--km 1 (culvert area)","2026-07-14 08:14",31.6714585,-110.941082,TRUE,FALSE,FALSE,"S372090306",1
+"225","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L3633807","1 - Our Yard in Pima","2026-07-14 08:01",32.8941555,-109.8318538,TRUE,FALSE,TRUE,"S372084768",3
+"226","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L302906","Mammoth Sewage Ponds","2026-07-14 08:00",32.7407148,-110.6504989,TRUE,FALSE,FALSE,"S372084179",1
+"227","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73469062","Kat’s Home","2026-07-14 07:55",33.367093,-112.042147,TRUE,FALSE,TRUE,"S372044300",1
+"228","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L39851177","TREASURE/Honor Court Park","2026-07-14 07:55",33.8464491,-112.1114458,TRUE,FALSE,FALSE,"S372049395",5
+"229","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L37081085","Agua Linda Park","2026-07-14 07:42",33.524679,-111.893303,TRUE,FALSE,FALSE,"S372045805",2
+"230","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8891223","Villa de Sabino","2026-07-14 07:25",32.3070792,-110.8262683,TRUE,FALSE,TRUE,"S372064955",3
+"231","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L21749954","Tamarisk Neighborhood","2026-07-14 07:01",32.2794613,-110.9298653,TRUE,FALSE,TRUE,"S372028538",3
+"232","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L45568964","85255, Scottsdale US-AZ  North Hayden Rd","2026-07-14 06:57",33.649381,-111.912159,TRUE,FALSE,TRUE,"S372027178",1
+"233","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L32982923","Nighthawk Native Nursery, Tucson, Arizona, US (32.203, -111.209)","2026-07-14 06:55",32.2028633,-111.208825,TRUE,FALSE,TRUE,"S372050107",1
+"234","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L299012","Oracle State Park","2026-07-14 06:50",32.6083177,-110.7335132,TRUE,FALSE,FALSE,"S372086553",2
+"235","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L52023772","Rincon Heights House","2026-07-14 06:45",32.224403,-110.952362,TRUE,FALSE,TRUE,"S372196289",1
+"236","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L2605557","Santa Cruz River--Congress St. to Silverlake Rd.","2026-07-14 06:43",32.2105498,-110.9848738,TRUE,FALSE,FALSE,"S372071532",6
+"237","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L40080032","Formative ct home","2026-07-14 06:40",32.257085,-110.732807,TRUE,FALSE,TRUE,"S372055614",5
+"238","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1023602","Pinnacle Peak Park","2026-07-14 06:39",33.7274211,-111.8645221,TRUE,FALSE,FALSE,"S372046642",4
+"239","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L3334807","Bubbling Ponds, Page Springs Fish Hatchery","2026-07-14 06:29",34.7655186,-111.8948078,TRUE,FALSE,TRUE,"S372138657",8
+"240","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L38610202","Home","2026-07-14 06:28",33.5975669,-112.3004797,TRUE,FALSE,TRUE,"S372024046",1
+"241","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L52338103","Catalina Regional Park","2026-07-14 06:19",32.461161,-110.904437,TRUE,FALSE,TRUE,"S372577333",3
+"242","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L18069742","Old Southern canals","2026-07-14 06:19",33.3939527,-112.0165658,TRUE,FALSE,TRUE,"S372070275",2
+"243","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L50024274","7B YBCU South Route","2026-07-14 06:18",32.699608,-110.620027,TRUE,FALSE,TRUE,"S372182713",6
+"244","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L21728254","Pistol Hill","2026-07-14 06:17",32.0650642,-110.6547667,TRUE,FALSE,TRUE,"S372019390",1
+"245","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L128943","San Pedro RNCA--Charleston Bridge","2026-07-14 06:10",31.6257,-110.1735992,TRUE,FALSE,FALSE,"S372193526",7
+"246","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L210015","Desert Botanical Garden","2026-07-14 06:01",33.4618165,-111.9436349,TRUE,FALSE,FALSE,"S372077512",8
+"247","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L42633809","4315 N Camino del Obispo, Tucson US-AZ (32.2857,-110.9300)#2","2026-07-14 06:01",32.285672,-110.930024,TRUE,FALSE,TRUE,"S372020290",6
+"248","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73467325","Lower San Pedro River Wildlife Area","2026-07-14 05:52",32.811682,-110.688608,TRUE,FALSE,TRUE,"S372037453",2
+"249","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L4179908","Rillito River Park--Swan to Craycroft","2026-07-14 05:51",32.268967,-110.882987,TRUE,FALSE,FALSE,"S372055968",5
+"250","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L128958","San Pedro RNCA--Escapule Wash","2026-07-14 05:42",31.6100006,-110.1669998,TRUE,FALSE,FALSE,"S372101151",6
+"251","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L65166147","LYMA'S Nest","2026-07-14 05:41",31.5161122,-110.2698959,TRUE,FALSE,TRUE,"S372048393",3
+"252","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L5201724","16638 Yard List","2026-07-14 05:35",33.2946645,-112.0714366,TRUE,FALSE,TRUE,"S372408711",1
+"253","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L38661731","Boone Home","2026-07-14 05:10",32.371035,-111.117993,TRUE,FALSE,TRUE,"S372120050",2
+"254","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1091568","Rillito River Park--Children's Memorial Park","2026-07-13 19:20",32.2950368,-110.9849301,TRUE,FALSE,FALSE,"S371854527",2
+"255","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L2849094","Tartesso, Buckeye AZ","2026-07-13 18:59",33.4927897,-112.6862097,TRUE,FALSE,TRUE,"S371854646",2
+"256","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L35966793","Sabino Vista Hills neighborhood","2026-07-13 18:10",32.279368,-110.815178,TRUE,FALSE,TRUE,"S371843868",2
+"257","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L57883933","Desert Montage","2026-07-13 18:10",32.225944,-111.032702,TRUE,FALSE,TRUE,"S371846872",1
+"258","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L834429","Kiwanis Park","2026-07-13 18:09",33.3739933,-111.939311,TRUE,FALSE,FALSE,"S371863403",2
+"259","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L54338481","Rancho del Lago Golf Course","2026-07-13 18:00",32.0614232,-110.7012515,TRUE,FALSE,TRUE,"S372059645",2
+"260","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L227274","Reid Park","2026-07-13 18:00",32.2102866,-110.9235907,TRUE,FALSE,FALSE,"S371849146",3
+"261","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L5578351","Sky Ranch","2026-07-13 17:50",32.4183604,-111.0557038,TRUE,FALSE,TRUE,"S371857427",4
+"262","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L10250243","Saguaro NP--East--Cactus Forest South Trailhead","2026-07-13 12:57",32.1704179,-110.7287979,TRUE,FALSE,FALSE,"S371869117",3
+"263","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L17411966","Home","2026-07-13 10:37",33.523892,-111.96824,TRUE,FALSE,TRUE,"S371718098",1
+"264","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1583722","Tempe: Marlborough Park neighborhood","2026-07-13 10:30",33.4483263,-111.9330702,TRUE,FALSE,TRUE,"S372277299",1
+"265","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L3493885","Blue Haven Rd--Temporal Gulch","2026-07-13 10:18",31.5253383,-110.7790115,TRUE,FALSE,FALSE,"S371723774",2
+"266","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L20758806","Gila Springs Park","2026-07-13 09:35",33.311157,-111.942626,TRUE,FALSE,FALSE,"S371697048",1
+"267","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L129113","Tucson Mountain Park","2026-07-13 09:13",32.2300828,-111.129241,TRUE,FALSE,FALSE,"S371700439",NA
+"268","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L38476212","Sunrise Pointe, and Vista and Legends","2026-07-13 09:12",31.834782,-110.995906,TRUE,FALSE,TRUE,"S371721525",2
+"269","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L169112","Hassayampa River Preserve (closed Mon/Tue)","2026-07-13 08:55",33.9333419,-112.6946297,TRUE,FALSE,FALSE,"S372579463",2
+"270","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73025324","May and Day Neighborhood","2026-07-13 08:45",33.3144472,-111.9389939,TRUE,FALSE,TRUE,"S371682264",3
+"271","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L11891124","Mittry Lake--overlook","2026-07-13 08:33",32.8160367,-114.4612177,TRUE,FALSE,FALSE,"S371671660",3
+"272","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73377736","92283, Winterhaven US-CA 32.82406, -114.49374","2026-07-13 08:08",32.824061,-114.493741,TRUE,FALSE,TRUE,"S371660592",2
+"273","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L35133632","0-Jalapa Ct, RIO RICO, AZ","2026-07-13 08:07",31.516882,-111.04574,TRUE,FALSE,TRUE,"S371677974",1
+"274","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L12460894","Claire Weeks Terra del Sol Park","2026-07-13 07:53",32.1976621,-110.8484653,TRUE,FALSE,FALSE,"S371654209",2
+"275","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L505270","Anza Trail--Tumacacori","2026-07-13 07:33",31.5694771,-111.0472888,TRUE,FALSE,FALSE,"S372017175",12
+"276","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L51526314","Grayhawk Park SE Bench","2026-07-13 07:31",33.672862,-111.919845,TRUE,FALSE,TRUE,"S371651372",4
+"277","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L4490836","Placita De Suerte area","2026-07-13 07:30",32.2463227,-111.0678104,TRUE,FALSE,TRUE,"S371749107",1
+"278","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1142953","Mission Road Home","2026-07-13 07:27",32.1939715,-110.99757,TRUE,FALSE,TRUE,"S371673508",1
+"279","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L45063625","359 W Bismark St, San Tan Valley US-AZ 33.15919, -111.57113","2026-07-13 07:26",33.159189,-111.571128,TRUE,FALSE,TRUE,"S371640702",2
+"280","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L247950","Phoenix Zoo","2026-07-13 07:19",33.4516913,-111.9480357,TRUE,FALSE,FALSE,"S371713377",5
+"281","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L9169581","Sutherland Wash - Golder D.T. loop","2026-07-13 07:11",32.482148,-110.876548,TRUE,FALSE,TRUE,"S371719673",11
+"282","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L3717605","2410 E Adams St","2026-07-13 07:10",32.240544,-110.9362829,TRUE,FALSE,TRUE,"S371730304",1
+"283","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L623683","Betty's Kitchen/Laguna Dam","2026-07-13 07:10",32.8194716,-114.4882978,TRUE,FALSE,FALSE,"S371654094",4
+"284","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1889862","Saguaro NP--East--Douglas Spring Trail","2026-07-13 07:00",32.2348945,-110.6854404,TRUE,FALSE,FALSE,"S371718089",1
+"285","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L4958619","Sienna Hills","2026-07-13 06:51",33.4680357,-112.5147707,TRUE,FALSE,TRUE,"S371635471",2
+"286","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L69952016","Sweetwater Preserve, Tucson US-AZ 32.27501, -111.07318","2026-07-13 06:51",32.275009,-111.073185,TRUE,FALSE,TRUE,"S371662310",3
+"287","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L21514596","Rainbow Vista Walks","2026-07-13 06:45",32.245808,-110.8711872,TRUE,FALSE,TRUE,"S371632030",3
+"288","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L370788","Quail Creek Country Club","2026-07-13 06:43",31.8886356,-110.9454346,TRUE,FALSE,FALSE,"S371700014",3
+"289","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L36616356","Rancho Cancion HOA north-central (restricted access)","2026-07-13 06:32",32.169196,-110.7614135,TRUE,FALSE,TRUE,"S371655889",3
+"290","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L2257540","Saguaro NP--West--Red Hills Visitors Center","2026-07-13 06:31",32.2542072,-111.1972591,TRUE,FALSE,FALSE,"S371638299",1
+"291","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L865856","Villa Serena Park","2026-07-13 06:29",32.2450292,-110.8647108,TRUE,FALSE,FALSE,"S371617433",2
+"292","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L128965","Florida Wash at Madera Canyon Rd","2026-07-13 06:24",31.7835694,-110.8863696,TRUE,FALSE,FALSE,"S371628528",2
+"293","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73408570","5710 N Sabino Canyon Rd, Tucson US-AZ 32.31042, -110.82302","2026-07-13 06:09",32.310424,-110.823022,TRUE,FALSE,TRUE,"S371776103",2
+"294","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73372355","S Kinney Rd, Tucson US-AZ 32.20588, -111.12561","2026-07-13 05:57",32.20588,-111.125606,TRUE,FALSE,TRUE,"S371638993",1
+"295","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L11172420","SHARP (Southeast Houghton Area Recharge Project)","2026-07-13 05:54",32.1475886,-110.7812904,TRUE,FALSE,FALSE,"S371612344",2
+"296","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L23713050","Wrens Nest","2026-07-13 05:53",32.251983,-110.816445,TRUE,FALSE,TRUE,"S372121071",2
+"297","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L819351","White Tank Mountain Regional Park","2026-07-13 05:52",33.5763768,-112.5086387,TRUE,FALSE,FALSE,"S371657921",3
+"298","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L16231809","14465 West Tala Way, Tucson, Arizona, US (32.062, -111.271)","2026-07-13 05:37",32.0615902,-111.2709314,TRUE,FALSE,TRUE,"S371613623",1
+"299","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L32000084","Pueblo Villas","2026-07-13 05:35",32.302777,-110.980107,TRUE,FALSE,TRUE,"S371602654",2
+"300","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L69521889","McClintock High","2026-07-13 05:32",33.396872,-111.9077139,TRUE,FALSE,TRUE,"S371695927",3
+"301","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L69167350","House","2026-07-13 05:30",33.34464,-111.84636,TRUE,FALSE,TRUE,"S372026013",1
+"302","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L48434230","3591 North Bear Canyon Road
+Tucson, AZ 85749","2026-07-13 05:24",32.2777578,-110.8080185,TRUE,FALSE,TRUE,"S371626283",6
+"303","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L6750468","Reach 11--Bullfrog Pond","2026-07-13 05:23",33.6551267,-111.9686402,TRUE,FALSE,FALSE,"S371640948",2
+"304","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L59988063","Santa Cruz River—West Branch Conservation Area","2026-07-13 05:23",32.1848901,-110.9968904,TRUE,FALSE,FALSE,"S371603544",2
+"305","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L4712195","Sycamore Creek--upper Beeline Hwy","2026-07-13 05:20",33.9117312,-111.4825845,TRUE,FALSE,FALSE,"S371745852",2
+"306","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L17080119","701–799 S la Posada Cir, Green Valley US-AZ 31.86073, -110.98212","2026-07-13 05:15",31.860727,-110.982117,TRUE,FALSE,TRUE,"S371617822",3
+"307","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L48334308","Backyard Corriente/Silverado G.C.","2026-07-13",33.5376095,-111.9168202,TRUE,FALSE,TRUE,"S371881588",2
+"308","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L49291826","2633 West Luce Drive, Phoenix, Arizona, US (33.805, -112.118)","2026-07-12 19:29",33.8049679,-112.1178388,TRUE,FALSE,TRUE,"S371461731",1
+"309","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L24856917","Tempe: University Lutheran Church","2026-07-12 19:04",33.4123086,-111.9311663,TRUE,FALSE,TRUE,"S371504607",2
+"310","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L12228954","Home","2026-07-12 18:52",32.17675,-110.82788,TRUE,FALSE,TRUE,"S371454903",1
+"311","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L14692174","Back Yard","2026-07-12 18:47",33.602704,-112.157261,TRUE,FALSE,TRUE,"S371458522",1
+"312","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L5131981","Mom's Yard - 830 Kings Court","2026-07-12 18:42",32.8207707,-109.7179987,TRUE,FALSE,TRUE,"S371487339",1
+"313","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L66230770","S Islands Dr E Neighborhood","2026-07-12 18:01",33.341166,-111.816035,TRUE,FALSE,TRUE,"S371471424",1
+"314","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L61219830","655 W Camino Curvitas, Sahuarita US-AZ 31.97034, -110.97947","2026-07-12 18:00",31.970344,-110.979466,TRUE,FALSE,TRUE,"S371447312",1
+"315","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L47983192","Patagonia Lake State Park, Nogales US-AZ 31.49703, -110.85045","2026-07-12 17:58",31.497029,-110.850454,TRUE,FALSE,TRUE,"S371621519",1
+"316","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L41594676","Jasmine Street, Mesa, Arizona","2026-07-12 17:56",33.4492517,-111.7673637,TRUE,FALSE,TRUE,"S371445474",2
+"317","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L72344382","Davis-Monthan AFB—northeast corner behind small arms ranges","2026-07-12 17:53",32.155434,-110.797644,TRUE,FALSE,TRUE,"S372127088",8
+"318","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L24931203","3423 E Fourth St, Tucson US-AZ 32.23124, -110.92024","2026-07-12 17:50",32.231237,-110.920237,TRUE,FALSE,TRUE,"S371449925",2
+"319","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L13898741","SaddleBrooke Ranch Home","2026-07-12 16:50",32.593535,-110.906979,TRUE,FALSE,TRUE,"S371459293",1
+"320","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1796846","Ken Morgan Pl Vail","2026-07-12 15:30",31.9711922,-110.8230771,TRUE,FALSE,TRUE,"S371462068",4
+"321","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L14595751","Circle K Park","2026-07-12 14:57",33.3711978,-112.0552039,TRUE,FALSE,FALSE,"S371386628",2
+"322","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L129106","Tanque Verde Wash--Wentworth Rd.","2026-07-12 14:00",32.2400762,-110.7208975,TRUE,FALSE,FALSE,"S371405744",4
+"323","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L20755217","Lower Casa Blanca Canyon Road","2026-07-12 13:27",31.61212,-110.728386,TRUE,FALSE,TRUE,"S371368000",1
+"324","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L13591625","Rockwood Park","2026-07-12 12:56",32.6702636,-115.4924128,TRUE,FALSE,FALSE,"S371687064",4
+"325","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L7698893","Rancho Santa Cruz","2026-07-12 12:35",31.5437758,-111.0414027,TRUE,FALSE,FALSE,"S371482066",2
+"326","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L2954201","Las Cienegas NCA--Cottonwood Tanks","2026-07-12 11:35",31.761537,-110.6195044,TRUE,FALSE,FALSE,"S371316674",3
+"327","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L275689","Patagonia Town Park","2026-07-12 11:23",31.5400292,-110.7542655,TRUE,FALSE,FALSE,"S371309289",2
+"328","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L12619229","Blue Haven Rd--between Paton's and the Preserve","2026-07-12 10:43",31.5356696,-110.7645165,TRUE,FALSE,FALSE,"S371290669",6
+"329","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L37958543","Frisco Camp Picnic Site","2026-07-12 10:23",33.20305,-109.149523,TRUE,FALSE,FALSE,"S371344579",4
+"330","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L7420665","Page Springs--South Wildlife Viewing Area","2026-07-12 09:50",34.7595237,-111.8898694,TRUE,FALSE,FALSE,"S371320746",4
+"331","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L62348458","13692 West Cottonwood Street, Surprise, Arizona, US (33.63, -112.355) Dog Park","2026-07-12 09:43",33.6302061,-112.3549771,TRUE,FALSE,TRUE,"S371254529",1
+"332","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1908758","Buenos Aires NWR--Headquarters Area","2026-07-12 09:42",31.572,-111.5062,TRUE,FALSE,FALSE,"S371269225",1
+"333","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L455142","Rousseau Sod Farm (restricted access)","2026-07-12 09:20",33.522882,-111.8430412,TRUE,FALSE,FALSE,"S371349647",1
+"334","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L5491240","Camelback Park","2026-07-12 09:15",33.505709,-111.90788,TRUE,FALSE,FALSE,"S371422581",1
+"335","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L211851","Avra Valley WTP","2026-07-12 09:07",32.165,-111.179,TRUE,FALSE,FALSE,"S371322243",2
+"336","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L20606399","Ewing Irrigation Pond","2026-07-12 08:48",33.419603,-112.00907,TRUE,FALSE,FALSE,"S371239295",2
+"337","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8360018","TBC 537_01","2026-07-12 08:46",32.2140055,-110.9234683,TRUE,FALSE,TRUE,"S371225372",1
+"338","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L757626","WolfSoul's house","2026-07-12 08:36",32.3934835,-111.1412881,TRUE,FALSE,TRUE,"S371244600",2
+"339","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L42795062","RCE Sierra Vista AZ","2026-07-12 08:17",31.570343,-110.2678833,TRUE,FALSE,TRUE,"S371248294",4
+"340","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L40821690","SRP,SRP Vistas, Legends, Desert Meadows and back","2026-07-12 08:12",31.837641,-110.991672,TRUE,FALSE,TRUE,"S371282821",2
+"341","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8360019","TBC 537_02","2026-07-12 08:08",32.2090715,-110.9247988,TRUE,FALSE,TRUE,"S371205065",1
+"342","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L3186111","US-AZ-Scottsdale-4800 N 68th St (Private)","2026-07-12 07:49",33.505878,-111.93664,TRUE,FALSE,TRUE,"S371349575",2
+"343","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L12826796","Fort Huachuca--Officer's Pond","2026-07-12 07:41",31.5482307,-110.3606754,TRUE,FALSE,FALSE,"S371249647",1
+"344","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8360020","TBC 537_03","2026-07-12 07:39",32.2089078,-110.9226555,TRUE,FALSE,TRUE,"S371196053",1
+"345","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L23374706","Scottsdale--Apache Park","2026-07-12 07:33",33.45998,-111.896074,TRUE,FALSE,FALSE,"S371201929",1
+"346","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L387263","Scottsdale Community College","2026-07-12 07:30",33.5120588,-111.8850231,TRUE,FALSE,FALSE,"S371347534",5
+"347","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8359501","TBC 508_07","2026-07-12 07:28",32.283088,-110.7386054,TRUE,FALSE,TRUE,"S371184103",1
+"348","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8360022","TBC 537_05","2026-07-12 07:18",32.2095842,-110.9222941,TRUE,FALSE,TRUE,"S371179756",2
+"349","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73302587","Martinez Ranch fields","2026-07-12 07:15",33.20345,-109.158491,TRUE,FALSE,TRUE,"S371344203",3
+"350","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L993428","Ron Morriss Park","2026-07-12 07:02",31.6090037,-111.0424018,TRUE,FALSE,FALSE,"S371306966",1
+"351","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L38657404","La Reserve, Oro Valley","2026-07-12 07:00",32.396267,-110.94704,TRUE,FALSE,TRUE,"S371459597",3
+"352","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L281121","Red Rock WMA","2026-07-12 06:59",32.6906271,-108.73745,TRUE,FALSE,FALSE,"S371264939",4
+"353","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8359498","TBC 508_04","2026-07-12 06:50",32.2830242,-110.7339435,TRUE,FALSE,TRUE,"S371160112",2
+"354","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8360025","TBC 537_08","2026-07-12 06:42",32.2213971,-110.9140699,TRUE,FALSE,TRUE,"S371155451",1
+"355","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L12098435","Back Yard Feeder","2026-07-12 06:28",32.445576,-110.965767,TRUE,FALSE,TRUE,"S371146950",2
+"356","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L40328636","Thompson Backyard","2026-07-12 06:25",32.3750543,-111.0710533,TRUE,FALSE,TRUE,"S371151993",1
+"357","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L817656","Vista del Camino Park--McKellips Lake","2026-07-12 06:24",33.4527127,-111.9127464,TRUE,FALSE,FALSE,"S371175826",1
+"358","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73122260","874–998 S Gollob Rd, Tucson US-AZ 32.20997, -110.79846","2026-07-12 06:19",32.209969,-110.798459,TRUE,FALSE,TRUE,"S371160448",3
+"359","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L633028","Scottsdale Ranch Park--Lake Serena","2026-07-12 06:18",33.5771656,-111.8582171,TRUE,FALSE,FALSE,"S371324757",5
+"360","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L387193","Ahakhav Tribal Preserve","2026-07-12 06:16",34.132,-114.333,TRUE,FALSE,FALSE,"S371201405",1
+"361","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L72912900","4125 E Roberts Pl, Tucson US-AZ 32.23283, -110.90382","2026-07-12 06:05",32.232828,-110.903824,TRUE,FALSE,TRUE,"S371142647",2
+"362","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L13566716","SaddleBrooke Ranch Pond and surrounding area","2026-07-12 06:05",32.5907602,-110.9196866,TRUE,FALSE,TRUE,"S371389739",2
+"363","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8359499","TBC 508_05","2026-07-12 06:04",32.2826483,-110.7311092,TRUE,FALSE,TRUE,"S371129782",1
+"364","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L2627481","Rimrock House","2026-07-12 06:00",34.6308394,-111.7931843,TRUE,FALSE,TRUE,"S372571200",2
+"365","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L47151800","5255 East Spring Road, Hereford, Arizona, US (31.39, -110.239)","2026-07-12 05:57",31.3901681,-110.2394701,TRUE,FALSE,TRUE,"S371296513",2
+"366","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8397180","West Puesta Del Sol, Whetstone","2026-07-12 05:57",31.6837898,-110.3886416,TRUE,FALSE,TRUE,"S372121459",1
+"367","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L3449842","Selleh Park","2026-07-12 05:48",33.4031251,-111.9036618,TRUE,FALSE,FALSE,"S371158754",1
+"368","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L15559321","Villas West","2026-07-12 05:48",31.8657175,-110.9982275,TRUE,FALSE,TRUE,"S371120861",2
+"369","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L70767304","T R Ranch Road, Tucson, Arizona, US (31.897, -111.306)","2026-07-12 05:46",31.8965404,-111.3055972,TRUE,FALSE,TRUE,"S371204198",3
+"370","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L602655","Agua Fria NM--Horseshoe Ford","2026-07-12 05:46",34.2572164,-112.0639801,TRUE,FALSE,FALSE,"S371284690",1
+"371","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8359500","TBC 508_06","2026-07-12 05:42",32.2817687,-110.7290091,TRUE,FALSE,TRUE,"S371117669",1
+"372","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8936302","1245 W Calzada Ct","2026-07-12 05:40",32.3458072,-110.9932477,TRUE,FALSE,TRUE,"S371234191",1
+"373","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L72343322","Oro Valley, Arizona (private yard, not exact location)","2026-07-12 05:28",32.4238665,-110.9956741,TRUE,FALSE,TRUE,"S371441280",1
+"374","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L36306718","Horseshoe Ranch","2026-07-12 05:18",34.2614849,-112.0576308,TRUE,FALSE,FALSE,"S371324659",3
+"375","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L5856370","Wind Cave Trail","2026-07-12 05:15",33.4749096,-111.6068673,TRUE,FALSE,FALSE,"S371167815",6
+"376","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73245474","85142, Queen Creek US-AZ (33.0852,-111.6883)","2026-07-12 04:59",33.085186,-111.688269,TRUE,FALSE,TRUE,"S371119556",3
+"377","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L836408","Salt River--Blue Point Recreation Area","2026-07-11 18:38",33.5554258,-111.5736944,TRUE,FALSE,FALSE,"S371171426",1
+"378","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L27661229","1730 W Thunderhill Dr, Phoenix US-AZ 33.30494, -112.09656","2026-07-11 18:06",33.304939,-112.096557,TRUE,FALSE,TRUE,"S370931026",4
+"379","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L802983","Marana River Heritage Park","2026-07-11 18:00",32.427,-111.213,TRUE,FALSE,FALSE,"S370929517",3
+"380","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L13601906","Michl Haus","2026-07-11 16:53",33.499698,-111.897622,TRUE,FALSE,TRUE,"S370908863",2
+"381","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L25543501","2102 West Legends Way, New River, Arizona, US (33.871, -112.104)","2026-07-11 16:51",33.8710415,-112.1042014,TRUE,FALSE,TRUE,"S370904799",NA
+"382","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L33401945","Moyza Ranch Rd. (TimBuckTwo)","2026-07-11 16:45",31.6467508,-111.2356083,TRUE,FALSE,TRUE,"S370917855",1
+"383","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73193496","101 E Rudasill Rd, Tucson US-AZ 32.31761, -110.97049","2026-07-11 16:24",32.317613,-110.970487,TRUE,FALSE,TRUE,"S370901157",1
+"384","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L43298298","7100–7168 S Peaceful Valley Dr, Tucson US-AZ 32.12193, -111.11520","2026-07-11 15:12",32.121926,-111.115197,TRUE,FALSE,TRUE,"S370935291",2
+"385","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L46523977","Stetson Casita","2026-07-11 12:21",32.270726,-110.752451,TRUE,FALSE,TRUE,"S370840832",1
+"386","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73174864","The Club at Starr Pass","2026-07-11 11:48",32.209642,-111.040138,TRUE,FALSE,TRUE,"S370833009",3
+"387","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L303988","Cienega Creek Preserve (permit required)","2026-07-11 11:20",32.01793,-110.6429,TRUE,FALSE,FALSE,"S370875277",4
+"388","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L4540580","Steam Pump Ranch","2026-07-11 10:45",32.4050156,-110.9499085,TRUE,FALSE,FALSE,"S370786121",1
+"389","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L40733259","Ranchos Carmela Estates","2026-07-11 09:57",31.5722179,-110.2666092,TRUE,FALSE,TRUE,"S370778356",1
+"390","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L16701528","Verde River--Access south of Box Bar & Rio Verde Ranch","2026-07-11 09:39",33.7333402,-111.6622371,TRUE,FALSE,FALSE,"S370973177",6
+"391","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L677603","Whitehouse Canyon Road","2026-07-11 09:35",31.8156935,-110.9143853,TRUE,FALSE,FALSE,"S370750622",1
+"392","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L21645220","Scottsdale--Hayden and McDonald Pond","2026-07-11 09:07",33.5249418,-111.9074726,TRUE,FALSE,FALSE,"S370771346",1
+"393","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L2045030","Ponds-Ranch Circle South and Mountain Parkway","2026-07-11 08:43",33.3080703,-111.9986683,TRUE,FALSE,TRUE,"S370723639",2
+"394","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L12701141","Chandler Blvd and 28th Street Ponds, Phoenix, Arizona, US (33.304, -112.022)","2026-07-11 08:30",33.3039115,-112.0215472,TRUE,FALSE,TRUE,"S370714158",1
+"395","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L16956971","Ajo Plaza","2026-07-11 08:20",32.3731395,-112.8622118,TRUE,FALSE,FALSE,"S370712105",4
+"396","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L21414247","Toscana Lakeside","2026-07-11 08:20",33.298245,-112.056133,TRUE,FALSE,FALSE,"S370708365",1
+"397","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73186278","Salt River, Mesa US-AZ 33.54999, -111.55702","2026-07-11 08:18",33.549987,-111.557017,TRUE,FALSE,TRUE,"S370873217",1
+"398","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L39669723","The Shoppes at La Posada","2026-07-11 08:15",31.8577947,-110.9755525,TRUE,FALSE,TRUE,"S370730197",2
+"399","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L22511758","2201 E Aire Libre Ave, Phoenix US-AZ (33.6372,-112.0344)","2026-07-11 08:10",33.63717,-112.034428,TRUE,FALSE,TRUE,"S370702408",2
+"400","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L3824246","Cochise College (Sierra Vista Campus)","2026-07-11 08:08",31.5640289,-110.2463329,TRUE,FALSE,FALSE,"S370812236",1
+"401","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L41899732","Patagonia-Sonoita Creek Preserve","2026-07-11 08:07",31.5279767,-110.7754254,TRUE,FALSE,TRUE,"S370795179",11
+"402","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L128959","San Pedro RNCA--Fairbank","2026-07-11 08:06",31.7198009,-110.1865997,TRUE,FALSE,FALSE,"S370958353",4
+"403","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L69832095","Imperial Dam Rd, Winterhaven US-CA 32.85984, -114.49387","2026-07-11 07:57",32.859842,-114.493869,TRUE,FALSE,TRUE,"S372460059",7
+"404","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73141581","6533 W El Camino Del Cerro, Tucson US-AZ (32.2873,-111.1049)","2026-07-11 07:54",32.287335,-111.104889,TRUE,FALSE,TRUE,"S370716184",3
+"405","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L270969","Catalina Regional Park--pond","2026-07-11 07:35",32.461507,-110.9046225,TRUE,FALSE,FALSE,"S370829377",3
+"406","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1103455","Finger Rock trailhead","2026-07-11 07:34",32.3361251,-110.9100842,TRUE,FALSE,TRUE,"S370683328",2
+"407","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L12162514","Roundhouse at The Boulders","2026-07-11 07:23",33.7972431,-111.9223662,TRUE,FALSE,TRUE,"S370929878",4
+"408","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L3601258","Isabella Lee Natural Preserve","2026-07-11 07:20",32.2426592,-110.7814242,TRUE,FALSE,FALSE,"S370744507",3
+"409","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L4073128","Patagonia Lake dam/spillway area","2026-07-11 07:15",31.4891873,-110.8682724,TRUE,FALSE,FALSE,"S370828067",4
+"410","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L36546881","Dad's House Oro Valley","2026-07-11 07:14",32.456091,-110.9703,TRUE,FALSE,TRUE,"S370702098",1
+"411","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L55260988","East Wilds Road, Catalina","2026-07-11 07:10",32.4745868,-110.9186987,TRUE,FALSE,TRUE,"S370916250",1
+"412","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73425776","Agua Fria National Monument, Mayer US-AZ 34.25590, -112.03851","2026-07-11 07:01",34.255896,-112.038509,TRUE,FALSE,TRUE,"S371847699",1
+"413","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L14058931","Topacios","2026-07-11 07:00",31.860249,-110.9997695,TRUE,FALSE,TRUE,"S370846600",1
+"414","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L813473","Battiste's Bird Garden","2026-07-11 07:00",31.4204234,-110.2475023,TRUE,FALSE,FALSE,"S371452095",1
+"415","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L351763","Cluff Ranch WA","2026-07-11 06:55",32.81605,-109.84935,TRUE,FALSE,FALSE,"S370679113",1
+"416","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L64340407","Pontatoc Trail--1st Mile","2026-07-11 06:53",32.3393906,-110.9048511,TRUE,FALSE,TRUE,"S370680226",4
+"417","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L30065366","South Mountain Park--Mountain Park Ranch Hiking Trail","2026-07-11 06:47",33.31943,-112.026912,TRUE,FALSE,TRUE,"S370713668",1
+"418","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L2439998","Desert Breeze Park","2026-07-11 06:41",33.312903,-111.9197041,TRUE,FALSE,FALSE,"S370686330",3
+"419","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L71949163","5947 South Moon Desert Drive, Tucson, Arizona, US","2026-07-11 06:39",32.14372,-110.7611167,TRUE,FALSE,TRUE,"S370699979",2
+"420","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L32379214","House of Payne","2026-07-11 06:26",32.261308,-111.017658,TRUE,FALSE,TRUE,"S370662166",3
+"421","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73183657","Finger Rock Trail, Tucson, Arizona, US (32.359, -110.886)","2026-07-11 06:25",32.3592147,-110.8859935,TRUE,FALSE,TRUE,"S370864003",2
+"422","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L3025079","US-AZ-Patagonia--Stage Stop Inn","2026-07-11 06:25",31.540224,-110.752837,TRUE,FALSE,TRUE,"S370652573",2
+"423","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L64340532","Pontatoc Trail--2nd Mile","2026-07-11 06:24",32.3441599,-110.8934688,TRUE,FALSE,TRUE,"S370656982",4
+"424","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L129050","Patagonia Lake State Park","2026-07-11 06:21",31.4951992,-110.8566971,TRUE,FALSE,FALSE,"S370801583",9
+"425","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L128978","Guadalupe Canyon (Hidalgo Co.)","2026-07-11 06:20",31.36212,-109.03305,TRUE,FALSE,FALSE,"S371370967",7
+"426","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L6376959","Las Cienages--HQ Discovery Trail","2026-07-11 06:09",31.785736,-110.641752,TRUE,FALSE,TRUE,"S370814904",2
+"427","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8412770","Painted Hills Trailhead (Tucson Mountains)--opened 2019","2026-07-11 06:07",32.2274879,-111.038544,TRUE,FALSE,FALSE,"S370682589",1
+"428","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73131301","Tucson Mountain Guest Ranch","2026-07-11 06:04",32.239438,-111.055671,TRUE,FALSE,TRUE,"S370677265",2
+"429","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L14034313","Francisco Highland Park","2026-07-11 06:03",33.3712695,-112.0240474,TRUE,FALSE,FALSE,"S370670280",6
+"430","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73138515","85736, Tucson US-AZ (31.8991,-111.3402)","2026-07-11 06:03",31.899101,-111.340178,TRUE,FALSE,TRUE,"S370704749",4
+"431","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L6448572","Friendship Village","2026-07-11 06:00",33.3895315,-111.8815631,TRUE,FALSE,FALSE,"S371248585",2
+"432","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73135121","Saguaro NP--East--Garwood Trail","2026-07-11 05:56",32.235109,-110.686878,TRUE,FALSE,TRUE,"S370692152",NA
+"433","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L12296120","8761 E Desert Lupine Pl, Tucson US-AZ 32.24517, -110.80541","2026-07-11 05:52",32.24517,-110.805412,TRUE,FALSE,TRUE,"S370665678",4
+"434","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73133300","Riparian Preserve at Water Ranch, Gilbert US-AZ 33.36350, -111.73440 on","2026-07-11 05:52",33.363502,-111.734402,TRUE,FALSE,TRUE,"S370685308",1
+"435","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1351145","Mission & Ajo Intersection","2026-07-11 05:48",32.1790385,-111.0017126,TRUE,FALSE,TRUE,"S370625981",1
+"436","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L5948468","Moon Valley Park","2026-07-11 05:47",33.6273485,-112.0809075,TRUE,FALSE,FALSE,"S370883784",1
+"437","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73128492","85338, Goodyear US-AZ 33.38505, -112.37663","2026-07-11 05:46",33.385052,-112.37663,TRUE,FALSE,TRUE,"S370665929",1
+"438","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L68024606","71 W 11th Street, Ajo","2026-07-11 05:37",32.3884242,-112.8601609,TRUE,FALSE,TRUE,"S370619553",2
+"439","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L248042","Las Cienegas NCA (Pima Co.)","2026-07-11 05:32",31.7726703,-110.6616783,TRUE,FALSE,FALSE,"S370767494",1
+"440","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L21408588","South Mountain Park--Mormon Trailhead","2026-07-11 05:28",33.36641,-112.030862,TRUE,FALSE,FALSE,"S370623227",5
+"441","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L72920796","Mountainview Blvd","2026-07-11 05:23",32.536046,-110.89214,TRUE,FALSE,TRUE,"S370664137",4
+"442","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L284334","Estrella Mountain Regional Park","2026-07-11 05:19",33.3844217,-112.3823583,TRUE,FALSE,FALSE,"S370665170",3
+"443","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L17840540","stakeout Golden-winged Warbler, Salt River Rec. Area (2022)","2026-07-11 05:18",33.517422,-111.674054,TRUE,FALSE,FALSE,"S370730459",2
+"444","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1429190","Tucson--Skyline Dr/Alvernon Way","2026-07-11 05:08",32.3227513,-110.9098289,TRUE,FALSE,TRUE,"S370596335",3
+"445","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L25678112","EPF house 3","2026-07-11 05:04",33.3976439,-111.9283075,TRUE,FALSE,TRUE,"S370902119",1
+"446","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L71451420","Mittry Lake Wildlife Area, Yuma US-AZ 32.82078, -114.48635","2026-07-11 04:51",32.820775,-114.486346,TRUE,FALSE,TRUE,"S372459928",7
+"447","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73081002","8455–8469 W McCain Loop Rd, Tucson US-AZ 32.22040, -111.14811","2026-07-10 19:21",32.220399,-111.148112,TRUE,FALSE,TRUE,"S370448582",1
+"448","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L768735","Harshaw Creek Road","2026-07-10 18:11",31.506978,-110.6798543,TRUE,FALSE,FALSE,"S370424652",3
+"449","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L42266954","2 miles north of downtown","2026-07-10 18:06",32.256011,-110.9681737,TRUE,FALSE,TRUE,"S372584888",1
+"450","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73044045","Saguaro Corners","2026-07-10 12:14",32.177678,-110.738443,TRUE,FALSE,TRUE,"S370305559",1
+"451","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1070018","Rock Corral Canyon","2026-07-10 11:03",31.547472,-111.0989535,TRUE,FALSE,FALSE,"S370316082",1
+"452","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L10877130","The Boulders (Restricted access)","2026-07-10 09:03",33.8014246,-111.9243526,TRUE,FALSE,TRUE,"S370235889",1
+"453","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L72533826","11331 North Chynna Rose Place, Oro Valley, Arizona, US (32.412, -111.012)","2026-07-10 08:55",32.4122783,-111.0121517,TRUE,FALSE,TRUE,"S370228281",1
+"454","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73007000","airbnb","2026-07-10 08:07",33.9530771,-112.736344,TRUE,FALSE,TRUE,"S370156991",1
+"455","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L18571446","Indian Bend Park","2026-07-10 08:06",33.4491501,-111.9188837,TRUE,FALSE,FALSE,"S370215401",1
+"456","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L190421","Chandler--416 W. McNair St, Home","2026-07-10 08:00",33.3528579,-111.8478449,TRUE,FALSE,TRUE,"S370433657",1
+"457","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L26661294","Amado Montosa Rd, Amado, AZ","2026-07-10 07:31",31.7076023,-111.0556433,TRUE,FALSE,TRUE,"S371267407",1
+"458","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L3220807","Fulton Ranch Blvd., Chandler","2026-07-10 07:30",33.2378979,-111.8459702,TRUE,FALSE,TRUE,"S370257001",1
+"459","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L6803404","CDO Wash--along Tucson National Golf Course","2026-07-10 07:23",32.356829,-111.020182,TRUE,FALSE,FALSE,"S370198981",2
+"460","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L128878","Buenos Aires NWR--Arivaca Cienega","2026-07-10 07:22",31.5735272,-111.3242853,TRUE,FALSE,FALSE,"S370256530",3
+"461","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L930389","Del Urich GC--west pond view","2026-07-10 07:10",32.2133185,-110.9178829,TRUE,FALSE,TRUE,"S370186320",2
+"462","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L18078847","210 West 2nd Avenue, Ajo","2026-07-10 07:05",32.3800019,-112.8640239,TRUE,FALSE,TRUE,"S370188743",3
+"463","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L41683910","N Nanini Dr","2026-07-10 07:00",32.330907,-110.973861,TRUE,FALSE,TRUE,"S370377343",6
+"464","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L42103751","Madison","2026-07-10 06:53",33.623561,-112.082976,TRUE,FALSE,TRUE,"S370769097",1
+"465","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L10235391","1188 YardBirds, Green Valley US-AZ (31.8562,-110.9608)","2026-07-10 06:44",31.8561598,-110.9606013,TRUE,FALSE,TRUE,"S370351665",1
+"466","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L66644848","Senator Wash Marsh","2026-07-10 06:25",32.902942,-114.484021,TRUE,FALSE,TRUE,"S370684683",5
+"467","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73413730","Sonoita Creek--Cuckoo Survey West of Town","2026-07-10 06:25",31.530199,-110.766884,TRUE,FALSE,TRUE,"S371796787",9
+"468","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L16343483","The Paton Center for Hummingbirds, Patagonia US-AZ 31.53919, -110.76055","2026-07-10 06:22",31.539192,-110.760554,TRUE,FALSE,TRUE,"S370233790",5
+"469","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L27122643","Agua Fria NM--Riverbend Recreation Area","2026-07-10 06:16",34.3205072,-112.0736897,TRUE,FALSE,FALSE,"S371847546",4
+"470","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L25922356","Holiday Inn Express, Sierra Vista","2026-07-10 06:15",31.53475,-110.259049,TRUE,FALSE,TRUE,"S370177774",1
+"471","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L20790312","The Flower Avenues","2026-07-10 06:14",32.180785,-111.1406596,TRUE,FALSE,TRUE,"S370163357",1
+"472","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1778836","home","2026-07-10 06:06",32.2886421,-111.0730675,TRUE,FALSE,TRUE,"S370156518",1
+"473","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L55435470","The Loop between Country Club and Campbell","2026-07-10 05:53",32.2812302,-110.9395082,TRUE,FALSE,TRUE,"S370174093",2
+"474","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8359883","TBC 528_03","2026-07-10 05:51",32.2628944,-110.8998778,TRUE,FALSE,TRUE,"S370151849",1
+"475","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L21728627","Mountain Creek Ranch East","2026-07-10 05:48",32.0736092,-110.6572808,TRUE,FALSE,TRUE,"S370160858",3
+"476","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L27248738","Majestic Hills Neighborhood","2026-07-10 05:47",33.310247,-112.019853,TRUE,FALSE,TRUE,"S370172483",2
+"477","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8359882","TBC 528_02","2026-07-10 05:42",32.261748,-110.8989979,TRUE,FALSE,TRUE,"S370147496",2
+"478","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L17220455","Kleinman Park","2026-07-10 05:27",33.400844,-111.851216,TRUE,FALSE,FALSE,"S370169170",1
+"479","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8359881","TBC 528_01","2026-07-10 05:27",32.26025,-110.90041,TRUE,FALSE,TRUE,"S370141251",3
+"480","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L25835839","Mission Wash","2026-07-10 04:39",32.8335137,-114.5437874,TRUE,TRUE,FALSE,"S370320172",13
+"481","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L10026105","George Ditch","2026-07-09 19:28",33.4129771,-111.9348324,TRUE,FALSE,FALSE,"S370492359",1
+"482","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L6931264","15939 West Monroe Street, Goodyear, Arizona, US (33.449, -112.402)","2026-07-09 16:44",33.4485691,-112.402014,TRUE,FALSE,TRUE,"S369953634",5
+"483","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L128986","San Pedro RNCA--Hereford Bridge","2026-07-09 13:57",31.4384285,-110.1076526,TRUE,FALSE,FALSE,"S369926760",3
+"484","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L23558258","273 camino Panama","2026-07-09 13:02",31.489506,-110.991979,TRUE,FALSE,TRUE,"S369912091",1
+"485","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8346460","Griffin Riley Home","2026-07-09 10:40",33.7281594,-111.7343015,TRUE,FALSE,TRUE,"S369897560",3
+"486","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L40220110","Retina Specialists Parking Lot Area","2026-07-09 09:53",32.2641488,-110.8909595,TRUE,FALSE,TRUE,"S369836924",6
+"487","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L26325201","Salero Ranch, 61 Cougar Pass Rd, Santa Cruz Co","2026-07-09 08:18",31.577165,-110.853891,TRUE,FALSE,TRUE,"S369828313",1
+"488","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L21454129","G. R. Herberger Park","2026-07-09 07:51",33.490802,-111.9566649,TRUE,FALSE,FALSE,"S369791084",2
+"489","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L45929440","stakeout Rose-throated Becard, Harshaw Creek Rd (2025)","2026-07-09 07:33",31.5162598,-110.6928891,TRUE,FALSE,FALSE,"S369886693",1
+"490","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1035985","Mission Garden","2026-07-09 07:07",32.2134183,-110.9871268,TRUE,FALSE,FALSE,"S369817293",2
+"491","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L128977","Green Valley WRF (park outside fence, walk in only)","2026-07-09 06:44",31.899334,-110.9695026,TRUE,FALSE,FALSE,"S369775935",1
+"492","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L129074","Saguaro NP--West--Tucson Mountains Unit","2026-07-09 06:40",32.2812996,-111.178299,TRUE,FALSE,FALSE,"S370376192",8
+"493","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73059907","4100 N Romero Rd, Tucson US-AZ 32.28204, -111.00284","2026-07-09 06:36",32.282038,-111.002845,TRUE,FALSE,TRUE,"S370364616",1
+"494","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L24511634","South side Nature trail at Page Springs Fish Hatchery","2026-07-09 06:32",34.759513,-111.890644,TRUE,FALSE,TRUE,"S369971940",1
+"495","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L27874838","myLocation","2026-07-09 06:23",33.5284708,-112.0954492,TRUE,FALSE,TRUE,"S369758156",1
+"496","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L18726082","Vista Canyon Park","2026-07-09 06:19",33.3000089,-112.0194405,TRUE,FALSE,FALSE,"S369754291",1
+"497","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L7352043","Griffin Riley home","2026-07-09 06:15",33.728114,-111.7342576,TRUE,FALSE,TRUE,"S369810566",3
+"498","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8523547","White Tanks--Goat Camp Trail","2026-07-09 05:49",33.568719,-112.505439,TRUE,FALSE,FALSE,"S369779503",4
+"499","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L51567394","Paseo Trail--Ocotillo Rd to Chandler Heights Rd","2026-07-09 05:44",33.239776,-111.830836,TRUE,FALSE,FALSE,"S369762345",3
+"500","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L18507299","Saguaro NP--West--Valley View Overlook Trail","2026-07-09 05:25",32.2770486,-111.197789,TRUE,FALSE,FALSE,"S370373358",6
+"501","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L71451207","Mittry Lake Wildlife Area, Yuma US-AZ 32.87394, -114.46432","2026-07-09 04:37",32.873941,-114.464319,TRUE,FALSE,TRUE,"S370319765",8
+"502","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L31566719","Front Yard","2026-07-08 16:54",33.602729,-112.157129,TRUE,FALSE,TRUE,"S369940641",1
+"503","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L290792","Tucson Bird Alliance Office","2026-07-08 13:00",32.2315386,-110.9668535,TRUE,FALSE,FALSE,"S369944633",1
+"504","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L72840749","2nd home","2026-07-08 10:21",32.2049179,-110.8646545,TRUE,FALSE,TRUE,"S369486896",4
+"505","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L72865106","Patagonia Lake State Park, Nogales US-AZ 31.49360, -110.85787","2026-07-08 10:20",31.493601,-110.857872,TRUE,FALSE,TRUE,"S369522104",1
+"506","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8360017","TBC 536_07","2026-07-08 09:47",32.4299064,-110.9267541,TRUE,FALSE,TRUE,"S369430325",1
+"507","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8360016","TBC 536_06","2026-07-08 09:24",32.4246703,-110.9203872,TRUE,FALSE,TRUE,"S369430561",2
+"508","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L32076143","Corbell Park","2026-07-08 09:11",33.3519509,-111.9210308,TRUE,FALSE,FALSE,"S369401891",2
+"509","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8360011","TBC 536_01","2026-07-08 08:46",32.4262312,-110.9076114,TRUE,FALSE,TRUE,"S369431710",2
+"510","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L25489253","Harter Park","2026-07-08 08:01",33.3135249,-111.9029748,TRUE,FALSE,FALSE,"S369391421",1
+"511","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8359866","TBC 525_25","2026-07-08 07:47",32.2308075,-110.6827789,TRUE,FALSE,TRUE,"S369359283",1
+"512","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8360014","TBC 536_04","2026-07-08 07:45",32.4207381,-110.9086912,TRUE,FALSE,TRUE,"S369431016",1
+"513","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L830862","Surprise Community Park","2026-07-08 07:37",33.6297356,-112.3752558,TRUE,FALSE,FALSE,"S369360386",1
+"514","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8359867","TBC 525_26","2026-07-08 07:31",32.2322913,-110.6773395,TRUE,FALSE,TRUE,"S369353383",1
+"515","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L72850349","E Box Canyon Rd, Sonoita US-AZ 31.78606, -110.86438","2026-07-08 07:21",31.786063,-110.864382,TRUE,FALSE,TRUE,"S369459942",1
+"516","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L52217633","Rincon Heights Neighborhood","2026-07-08 07:15",32.223794,-110.950153,TRUE,FALSE,TRUE,"S369944152",3
+"517","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L45886156","OrangeTheory - Ahwatukee","2026-07-08 07:15",33.318423,-111.968938,TRUE,FALSE,TRUE,"S369402006",1
+"518","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8359783","TBC 525_23","2026-07-08 07:12",32.223631,-110.6846292,TRUE,FALSE,TRUE,"S369351107",5
+"519","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L9049329","TBC 536 Supp.","2026-07-08 07:11",32.4267559,-110.916705,TRUE,FALSE,TRUE,"S369433583",1
+"520","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L29139420","1 N Prison Hill Rd, Yuma US-AZ 32.72693, -114.61353","2026-07-08 07:07",32.726931,-114.613534,TRUE,FALSE,TRUE,"S369381474",2
+"521","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L72820266","9141 E Ocotillo Dr, Tucson US-AZ 32.30138, -110.79722","2026-07-08 06:57",32.301384,-110.797222,TRUE,FALSE,TRUE,"S369338247",1
+"522","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8359778","TBC 525_18","2026-07-08 06:52",32.2189464,-110.6872454,TRUE,FALSE,TRUE,"S369340563",4
+"523","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L39084486","Sweetwater Preserve, Tucson US-AZ 32.27750, -111.06342","2026-07-08 06:50",32.277503,-111.063418,TRUE,FALSE,TRUE,"S369354732",3
+"524","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L72818901","Purple Heart Trail, Yucca, Arizona, US (34.742, -114.24)","2026-07-08 06:46",34.7424826,-114.2400589,TRUE,FALSE,TRUE,"S369332065",1
+"525","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L72876590","Usery Mountain Regional Park Nature Center 3939 N Usery Pass Rd","2026-07-08 06:40",33.4808472,-111.6208738,TRUE,FALSE,TRUE,"S369989060",1
+"526","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L72829939","65668 East Rocky Path Drive, Tucson, Arizona, US (32.544, -110.865)","2026-07-08 06:40",32.5444463,-110.8652247,TRUE,FALSE,TRUE,"S369379281",1
+"527","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1091644","La Posta Quemada Ranch","2026-07-08 06:36",32.0512984,-110.6363797,TRUE,FALSE,FALSE,"S369456605",6
+"528","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L48932817","Pink Hill Trail, Tucson US-AZ 32.22117, -110.71982","2026-07-08 06:32",32.221175,-110.719822,TRUE,FALSE,TRUE,"S369365161",4
+"529","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L72820916","SL’s Place","2026-07-08 06:30",33.245063,-111.802914,TRUE,FALSE,TRUE,"S369341162",1
+"530","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L17853923","There 2, Brawley, California, US (32.982, -115.546)","2026-07-08 06:21",32.981865,-115.5464885,TRUE,FALSE,TRUE,"S369335157",1
+"531","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8359777","TBC 525_17","2026-07-08 06:17",32.2189747,-110.6988975,TRUE,FALSE,TRUE,"S369324850",5
+"532","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L72825298","5000 E Via Estancia Miraval, Tucson US-AZ 32.50763, -110.88471","2026-07-08 06:07",32.507626,-110.884715,TRUE,FALSE,TRUE,"S369360321",2
+"533","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L6718077","3 Canyons Ranch West of Deer Ridge (gated comm)","2026-07-08 05:53",31.4091589,-110.2040644,TRUE,FALSE,TRUE,"S369450873",2
+"534","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8359781","TBC 525_21","2026-07-08 05:51",32.2278495,-110.6941984,TRUE,FALSE,TRUE,"S369316840",2
+"535","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L25017936","Sonoita, Arizona, US (31.814, -110.592)","2026-07-08 05:48",31.8138528,-110.5916551,TRUE,FALSE,TRUE,"S369330821",2
+"536","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8359782","TBC 525_22","2026-07-08 05:33",32.228636,-110.6911604,TRUE,FALSE,TRUE,"S369302001",1
+"537","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1085016","Mission Manor Park","2026-07-08 05:33",32.1445862,-110.979681,TRUE,FALSE,FALSE,"S369345669",5
+"538","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L2600811","Ramsey Canyon Rd--mesquite/grassland habitat","2026-07-08 05:29",31.4672839,-110.2776906,TRUE,FALSE,FALSE,"S369315573",2
+"539","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8359784","TBC 525_24","2026-07-08 05:17",32.2336786,-110.6910159,TRUE,FALSE,TRUE,"S369294549",1
+"540","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L331921","Salt River--Phon D. Sutton Recreation Area","2026-07-08 05:10",33.54611,-111.65944,TRUE,FALSE,FALSE,"S369374433",4
+"541","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L22673897","New River property","2026-07-07 18:49",33.8973985,-112.0535271,TRUE,FALSE,TRUE,"S369155521",5
+"542","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L20499982","La Reserve","2026-07-07 16:21",32.3993947,-110.9446924,TRUE,FALSE,TRUE,"S369719188",2
+"543","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L72782504","85736, Tucson US-AZ 31.82128, -111.34943","2026-07-07 15:16",31.821284,-111.349425,TRUE,FALSE,TRUE,"S369153801",8
+"544","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L71896954","6140 N Calle de la Culebra, Tucson US-AZ (32.3183,-110.9467)","2026-07-07 12:35",32.318347,-110.946737,TRUE,FALSE,TRUE,"S369058829",1
+"545","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L72755440","357 Sonoita Avenue, Patagonia, Arizona, US (31.541, -110.756)","2026-07-07 11:34",31.5405802,-110.7556096,TRUE,FALSE,TRUE,"S369039906",5
+"546","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L72757877","Tonto National Forest, Rio Verde US-AZ 33.73610, -111.65642","2026-07-07 11:07",33.7361,-111.656418,TRUE,FALSE,TRUE,"S369049211",1
+"547","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L10515755","Power Ranch--North Pond","2026-07-07 11:00",33.2848822,-111.6987517,TRUE,FALSE,FALSE,"S369176645",1
+"548","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L56839939","Gila Box--White Rock Canyon confluence (Grant Co.)","2026-07-07 10:45",32.634661,-108.852707,TRUE,FALSE,FALSE,"S369310064",4
+"549","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L18187183","Saguaro NP--East--Cactus Forest Overlook","2026-07-07 09:38",32.198267,-110.735012,TRUE,FALSE,FALSE,"S369471542",2
+"550","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L72746552","170 Harshaw Creek Road, Patagonia, Arizona, US (31.516, -110.685)","2026-07-07 09:21",31.5159543,-110.6852053,TRUE,FALSE,TRUE,"S369004304",1
+"551","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L340562","Montezuma Castle NM","2026-07-07 09:06",34.6116667,-111.8391667,TRUE,FALSE,FALSE,"S368997496",1
+"552","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L72732661","OGMS","2026-07-07 08:12",32.32621,-110.941827,TRUE,FALSE,TRUE,"S368957639",1
+"553","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L623666","Senator Wash Reservoir","2026-07-07 07:41",32.9067338,-114.4802499,TRUE,FALSE,FALSE,"S368958811",2
+"554","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L10783458","Kate’s Place Petirrojo, Green Valley US-AZ 31.81442, -111.01367","2026-07-07 07:29",31.814398,-111.0136164,TRUE,FALSE,TRUE,"S368952630",1
+"555","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1396778","Tucson--Atturbury Wash S of Lakeside Park","2026-07-07 07:19",32.1830644,-110.8157989,TRUE,FALSE,TRUE,"S368941557",2
+"556","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8359773","TBC 525_12","2026-07-07 07:17",32.2096803,-110.713423,TRUE,FALSE,TRUE,"S368936814",1
+"557","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8359775","TBC 525_15","2026-07-07 06:59",32.2121232,-110.7086508,TRUE,FALSE,TRUE,"S368931172",1
+"558","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L63738341","22450–22698 S Suizo Rd, Tucson US-AZ 32.66682, -111.08518","2026-07-07 06:48",32.66682,-111.085176,TRUE,FALSE,TRUE,"S368993465",3
+"559","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8359776","TBC 525_16","2026-07-07 06:31",32.21765,-110.7072006,TRUE,FALSE,TRUE,"S368917282",3
+"560","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L2891001","Ajo Community Golf Course","2026-07-07 06:31",32.4499385,-112.850318,TRUE,FALSE,FALSE,"S368961295",15
+"561","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8359779","TBC 525_19","2026-07-07 06:17",32.2228318,-110.7048067,TRUE,FALSE,TRUE,"S368911500",3
+"562","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L29226485","Liberty Bell Park","2026-07-07 06:08",33.8492588,-112.1000684,TRUE,FALSE,FALSE,"S369026987",3
+"563","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8359780","TBC 525_20","2026-07-07 06:08",32.225127,-110.7064443,TRUE,FALSE,TRUE,"S368909357",1
+"564","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L44833508","Hill Farms (Restricted Access)","2026-07-07 06:06",32.263148,-110.8813126,TRUE,FALSE,TRUE,"S368953936",5
+"565","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L5772402","Gila River--Nichols Canyon confluence (NMSLO)","2026-07-07 06:06",32.653555,-108.840233,TRUE,FALSE,FALSE,"S369308525",3
+"566","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L367115","Eldorado Park","2026-07-07 05:56",33.4701843,-111.9160938,TRUE,FALSE,FALSE,"S368940090",4
+"567","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L64456191","Sweetwater Wetlands","2026-07-07 05:35",32.278474,-111.024209,TRUE,FALSE,TRUE,"S368939991",1
+"568","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8359774","TBC 525_13","2026-07-07 05:34",32.2189184,-110.7175222,TRUE,FALSE,TRUE,"S368903056",2
+"569","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L72731409","Brown Canyon Ranch Trail, Sierra Vista US-AZ 31.46581, -110.29260","2026-07-07 05:24",31.465806,-110.292596,TRUE,FALSE,TRUE,"S368941307",2
+"570","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L821296","Vista Del Prado Park","2026-07-07 05:22",32.1839122,-110.8460212,TRUE,FALSE,FALSE,"S368889005",2
