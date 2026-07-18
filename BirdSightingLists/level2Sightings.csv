@@ -1,572 +1,559 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","lat","lng","obsValid","obsReviewed","locationPrivate","subId","howMany"
-"1","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L36598035","2949 West Via Novamas, Cottonwood, Arizona, US (34.686, -112.06)","2026-07-16 15:43",34.6863237,-112.05999,TRUE,FALSE,TRUE,"S372905665",NA
-"2","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L14182939","Monterey Park","2026-07-16 15:30",33.3671527,-111.682347,TRUE,FALSE,FALSE,"S372907757",3
-"3","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L290333","Arthur Pack Regional Park","2026-07-16 14:48",32.3733753,-111.0535231,TRUE,FALSE,FALSE,"S372895566",1
-"4","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L272736","Kennedy Park","2026-07-16 14:47",32.1805717,-111.0074136,TRUE,FALSE,FALSE,"S372897634",1
-"5","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L762000","Purple Heart Park","2026-07-16 14:40",32.1038072,-110.7838583,TRUE,FALSE,FALSE,"S372892470",1
-"6","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L129114","Tumacacori NHP","2026-07-16 14:19",31.5683867,-111.0506648,TRUE,FALSE,FALSE,"S372910735",1
-"7","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8034096","Mesa Tierra number three subdivision water retention basin","2026-07-16 14:08",33.3818613,-111.7858774,TRUE,FALSE,TRUE,"S372890499",1
-"8","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L30700429","La Posada Campus (Private Access)","2026-07-16 14:06",31.859562,-110.973835,TRUE,FALSE,TRUE,"S372901092",2
-"9","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L57699650","1931 North La Rienda Avenue, Tucson, Arizona, US (32.245, -110.81)","2026-07-16 13:32",32.2453422,-110.8097748,TRUE,FALSE,TRUE,"S372881787",1
-"10","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L387543","Papago Park","2026-07-16 13:10",33.4564,-111.95,TRUE,FALSE,FALSE,"S372882900",2
-"11","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73662289","8630 E Via de Ventura, Scottsdale US-AZ 33.55426, -111.89542","2026-07-16 12:54",33.554261,-111.895423,TRUE,FALSE,TRUE,"S372867121",1
-"12","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L39036107","The Castle Aaaaarrrrrrggghhh (Yard)","2026-07-16 12:51",33.3366808,-111.908964,TRUE,FALSE,TRUE,"S372871744",1
-"13","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L6353876","Rockin' River Ranch State Park","2026-07-16 12:35",34.503349,-111.831179,TRUE,FALSE,FALSE,"S372886196",1
-"14","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L199300","Ash Canyon Bird Sanctuary (closed Thursday morning)","2026-07-16 12:30",31.3904516,-110.2392496,TRUE,FALSE,FALSE,"S372890791",4
-"15","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1115897","Canoa Ranch Conservation Park","2026-07-16 12:05",31.7948045,-111.0156226,TRUE,FALSE,FALSE,"S372880482",2
-"16","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L29830899","San Miguel (Restricted Access)","2026-07-16 11:40",32.2639503,-110.8738859,TRUE,FALSE,TRUE,"S372883062",1
-"17","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L17216397","Optimist Park","2026-07-16 11:23",33.370418,-111.901996,TRUE,FALSE,FALSE,"S372901043",4
-"18","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L14792167","Michael Sadat's Yard","2026-07-16 11:02",32.2403251,-110.9312982,TRUE,FALSE,TRUE,"S372834750",2
-"19","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L4226928","E Whitton Ave","2026-07-16 11:00",33.4889201,-112.0678183,TRUE,FALSE,TRUE,"S372832790",1
-"20","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L9326333","Saguaro NP--East--Loma Verde Trailhead","2026-07-16 10:58",32.2033393,-110.7099992,TRUE,FALSE,FALSE,"S372869605",1
-"21","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L23553642","The Paton Center for Hummingbirds, Patagonia US-AZ (31.5395,-110.7601)","2026-07-16 10:58",31.53953,-110.760076,TRUE,FALSE,TRUE,"S372888633",1
-"22","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73654348","Cactus Forest Dr, Tucson US-AZ 32.19840, -110.73496","2026-07-16 10:25",32.198398,-110.734961,TRUE,FALSE,TRUE,"S372835702",8
-"23","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L32258596","Sabino Vista yard nr Crestwood / Larrea, Tucson","2026-07-16 10:21",32.27733,-110.815652,TRUE,FALSE,TRUE,"S372820607",1
-"24","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L65405187","The Green Line","2026-07-16 10:18",33.44235,-111.933095,TRUE,FALSE,TRUE,"S372883200",2
-"25","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L21883530","Piest home in Vail","2026-07-16 10:17",32.07903,-110.6577817,TRUE,FALSE,TRUE,"S372828869",2
-"26","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L18187056","Saguaro NP--East--Extreme Living Overlook","2026-07-16 10:08",32.189803,-110.731385,TRUE,FALSE,FALSE,"S372819392",2
-"27","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L19555544","Almartin Street Neighborhood","2026-07-16 10:05",32.2567875,-110.924359,TRUE,FALSE,TRUE,"S372814056",2
-"28","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L39311782","6114 E Calle de la Almendra, Hereford US-AZ 31.45680, -110.22048","2026-07-16 09:52",31.456799,-110.220484,TRUE,FALSE,TRUE,"S372831972",1
-"29","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L12232801","Sonoita/Patagonia Home","2026-07-16 09:23",31.61107,-110.729694,TRUE,FALSE,TRUE,"S372818357",1
-"30","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L21132395","Anamax Park","2026-07-16 09:16",31.9318653,-110.9887171,TRUE,FALSE,FALSE,"S372813146",2
-"31","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L41715386","2102 West Legends Way, Anthem, Arizona, US (33.871, -112.104)","2026-07-16 09:11",33.8708645,-112.1041982,TRUE,FALSE,TRUE,"S372794315",1
-"32","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L66520427","East Stacey Road, Queen Creek, Arizona, US (33.206, -111.7)","2026-07-16 09:10",33.20628,-111.6998234,TRUE,FALSE,TRUE,"S372801201",NA
-"33","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L938672","Usery Mountain Regional Park","2026-07-16 09:00",33.474,-111.615385,TRUE,FALSE,FALSE,"S372839672",1
-"34","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L9310338","Tempe Women's Club Park","2026-07-16 08:50",33.443123,-111.931006,TRUE,FALSE,FALSE,"S372807054",1
-"35","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1224355","Anza Trail--Amado Road Trailhead","2026-07-16 08:42",31.7076693,-111.0570294,TRUE,FALSE,FALSE,"S372823771",1
-"36","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73649351","W Tucson-Ajo Hwy, Sells US-AZ 31.98815, -111.71490","2026-07-16 08:39",31.988153,-111.714901,TRUE,FALSE,TRUE,"S372816765",1
-"37","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L5219326","Anza Trail--Tubac kiosk area","2026-07-16 08:31",31.6047365,-111.0429811,TRUE,FALSE,FALSE,"S372910555",4
-"38","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L393566","Casa de San Pedro B&B--Visitors Welcome","2026-07-16 08:30",31.4088134,-110.1067829,TRUE,FALSE,FALSE,"S372809599",7
-"39","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L5809821","Haus von Detwiler","2026-07-16 08:29",32.6999678,-114.6841248,TRUE,FALSE,TRUE,"S372797000",2
-"40","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1735043","Saguaro NP--East--Cactus Forest Dr Loop","2026-07-16 08:24",32.191219,-110.7076505,TRUE,FALSE,FALSE,"S372836394",5
-"41","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L273411","Tucson Bird Alliance Mason Center","2026-07-16 08:19",32.3655786,-111.0477639,TRUE,FALSE,FALSE,"S372786163",2
-"42","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L4233573","Ocotillo Community Area, Chandler","2026-07-16 08:15",33.2512743,-111.8714277,TRUE,FALSE,TRUE,"S372880246",1
-"43","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L129052","Patagonia-Sonoita Creek Preserve","2026-07-16 08:13",31.528,-110.775,TRUE,FALSE,FALSE,"S372786036",4
-"44","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L44914486","402 E Burrows Pl, Tucson US-AZ (32.2951,-110.9656)","2026-07-16 08:07",32.295055,-110.965585,TRUE,FALSE,TRUE,"S372778080",2
-"45","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L52799027","The Pit","2026-07-16 08:06",31.604726,-111.043815,TRUE,FALSE,TRUE,"S372910502",1
-"46","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L208918","Sweetwater Wetlands","2026-07-16 08:00",32.2790144,-111.0216061,TRUE,FALSE,FALSE,"S372848283",3
-"47","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L762169","Himmel Park","2026-07-16 07:55",32.2334226,-110.9327316,TRUE,FALSE,FALSE,"S372777041",2
-"48","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L765027","Las Cienegas NCA--Empire Gulch","2026-07-16 07:48",31.7878465,-110.6365728,TRUE,FALSE,FALSE,"S372789030",4
-"49","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L819335","Gilbert and Riggs Rds. pond","2026-07-16 07:45",33.2241133,-111.7906094,TRUE,FALSE,FALSE,"S372880791",1
-"50","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L4341205","La Madera Park","2026-07-16 07:43",32.2595329,-110.9310982,TRUE,FALSE,FALSE,"S372778169",NA
-"51","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L166979","Boyce Thompson Arboretum","2026-07-16 07:42",33.2795082,-111.158756,TRUE,FALSE,FALSE,"S372812933",4
-"52","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L55713122","Cornell Ave. Yard","2026-07-16 07:38",33.3725737,-111.9036173,TRUE,FALSE,TRUE,"S372856276",3
-"53","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L27373176","Allen-Mathis Home, Hereford, Arizona, US (31.424, -110.126)","2026-07-16 07:36",31.4240896,-110.1256971,TRUE,FALSE,TRUE,"S372782134",4
-"54","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L55592841","Camp Verde Property","2026-07-16 07:34",34.6040457,-111.8957728,TRUE,FALSE,TRUE,"S372767086",1
-"55","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L14148221","Rillito Regional Park","2026-07-16 07:34",32.2915594,-110.9592973,TRUE,FALSE,FALSE,"S372800044",1
-"56","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L2883481","The Ice House","2026-07-16 07:30",31.4920438,-110.9900558,TRUE,FALSE,TRUE,"S372774738",1
-"57","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L3868066","Mitchell Park","2026-07-16 07:27",32.2554975,-110.9546325,TRUE,FALSE,FALSE,"S372765576",1
-"58","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73587377","Phoenician Resort","2026-07-16 07:25",33.507273,-111.949542,TRUE,FALSE,TRUE,"S372762168",2
-"59","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L11229243","Our 'Habitat at Home'","2026-07-16 07:20",32.3066877,-110.9521783,TRUE,FALSE,TRUE,"S372782552",3
-"60","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L21154994","Crotalus House, Catalina, Arizona, US (32.504, -110.922)","2026-07-16 07:16",32.5039554,-110.9216491,TRUE,FALSE,TRUE,"S372769604",3
-"61","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L144858","Riparian Preserve at Gilbert Water Ranch","2026-07-16 07:15",33.3614502,-111.7339478,TRUE,FALSE,FALSE,"S372809956",3
-"62","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L247122","Paton Center for Hummingbirds (Patons' Yard)","2026-07-16 07:12",31.5390131,-110.7606337,TRUE,FALSE,FALSE,"S372916842",3
-"63","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L17345174","Vistoso Trails Nature Preserve","2026-07-16 07:05",32.4544094,-110.9822788,TRUE,FALSE,FALSE,"S372765561",2
-"64","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L128938","Catalina SP","2026-07-16 07:00",32.4244027,-110.9123905,TRUE,FALSE,FALSE,"S372817462",2
-"65","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L128870","Agua Caliente Park","2026-07-16 06:52",32.2813752,-110.7298226,TRUE,FALSE,FALSE,"S372797519",4
-"66","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8626038","SRP ponds","2026-07-16 06:50",33.441654,-111.95136,TRUE,FALSE,FALSE,"S372822478",2
-"67","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73651317","San Ignacio Golf Club, Green Valley US-AZ 31.81037, -111.02745 pond","2026-07-16 06:47",31.810374,-111.027452,TRUE,FALSE,TRUE,"S372824432",1
-"68","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1586823","Saguaro NP--East--Lower Chiminea Canyon","2026-07-16 06:46",32.1534807,-110.6086395,TRUE,FALSE,FALSE,"S372759178",7
-"69","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L53709901","Glenbrook 14","2026-07-16 06:40",33.619684,-111.733182,TRUE,FALSE,TRUE,"S372747666",1
-"70","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L6175589","Market House","2026-07-16 06:39",31.603425,-111.046801,TRUE,FALSE,TRUE,"S372910483",1
-"71","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L689527","Sabino Dam and downstream riparian","2026-07-16 06:35",32.3131068,-110.8113941,TRUE,FALSE,FALSE,"S372782347",2
-"72","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L302348","Dead Horse Ranch SP","2026-07-16 06:30",34.751972,-112.0131749,TRUE,FALSE,FALSE,"S372876598",4
-"73","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1151548","Naranja Town Park","2026-07-16 06:30",32.4124291,-110.9840584,TRUE,FALSE,FALSE,"S372753908",1
-"74","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L58811718","Old Vail Road- Granit Construction Pit","2026-07-16 06:28",32.0757541,-110.8757791,TRUE,FALSE,TRUE,"S372746712",1
-"75","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L480168","Veterans Oasis Park","2026-07-16 06:27",33.2347837,-111.7695838,TRUE,FALSE,FALSE,"S372821510",8
-"76","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L35513933","Placita Cresta Loma- Front","2026-07-16 06:26",32.3016224,-110.9837563,TRUE,FALSE,TRUE,"S372739567",1
-"77","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8110430","Phoenix Mountains Preserve--40th Street trailhead","2026-07-16 06:25",33.567723,-111.9967697,TRUE,FALSE,FALSE,"S372787216",7
-"78","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L12371210","Arizona Birding Guides feeders--Visitors Welcome","2026-07-16 06:19",31.5432844,-110.7519356,TRUE,FALSE,FALSE,"S372877989",2
-"79","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L22091545","Anthem—Southeast Parkside","2026-07-16 06:13",33.847651,-112.103797,TRUE,FALSE,TRUE,"S372755145",8
-"80","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1546530","Brown Canyon Ranch (opened 2011)","2026-07-16 06:12",31.4740051,-110.2977887,TRUE,FALSE,FALSE,"S372793524",2
-"81","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L6770504","Pantano River Park--Glenn St/Sahuara Ave (opened 2018)","2026-07-16 06:09",32.257666,-110.866469,TRUE,FALSE,FALSE,"S372767083",6
-"82","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L129072","Sabino Canyon Recreation Area","2026-07-16 06:04",32.3300526,-110.7944301,TRUE,FALSE,FALSE,"S372826947",8
-"83","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L129080","San Pedro RNCA--San Pedro House and trails","2026-07-16 06:02",31.5478992,-110.1408997,TRUE,FALSE,FALSE,"S372865778",6
-"84","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L190217","Evelyn Hallman Park","2026-07-16 06:01",33.4480905,-111.9371943,TRUE,FALSE,FALSE,"S372750583",5
-"85","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L11047160","Home list","2026-07-16 06:00",31.417106,-110.245284,TRUE,FALSE,TRUE,"S372786463",2
-"86","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L56564723","Sun Lakes Yard","2026-07-16 05:57",33.2318556,-111.8775269,TRUE,FALSE,TRUE,"S372746742",1
-"87","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L17283814","My Neighborhood","2026-07-16 05:56",32.2365172,-110.9248519,TRUE,FALSE,TRUE,"S372724028",2
-"88","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L710850","Glendale Recharge Ponds","2026-07-16 05:55",33.5242237,-112.286582,TRUE,FALSE,FALSE,"S372879222",2
-"89","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L774996","Rillito River Park--Columbus Weed Patch","2026-07-16 05:51",32.2732364,-110.9032059,TRUE,FALSE,FALSE,"S372755526",11
-"90","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L819322","Gilbert and Chandler Heights Rds. pond","2026-07-16 05:50",33.2386696,-111.7912853,TRUE,FALSE,FALSE,"S372881364",2
-"91","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L9245857","BW's Yard","2026-07-16 05:48",32.2349959,-110.9037019,TRUE,FALSE,TRUE,"S372734742",2
-"92","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L28562107","200 Silver Sky Place, Green Valley, Arizona, US (31.809, -110.992)","2026-07-16 05:45",31.8094588,-110.9921305,TRUE,FALSE,TRUE,"S372741375",2
-"93","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L35513979","Placita Cresta Loma-Back","2026-07-16 05:41",32.3015168,-110.9840233,TRUE,FALSE,TRUE,"S372725374",3
-"94","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L551510","Beeline Highway--Sunflower","2026-07-16 05:39",33.8731948,-111.4690876,TRUE,FALSE,FALSE,"S372817408",3
-"95","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L838090","Seneca/Ridgeway area","2026-07-16 05:37",32.2475404,-110.8653452,TRUE,FALSE,FALSE,"S372740311",3
-"96","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L20973859","Quartzite Drive","2026-07-16 05:26",32.9107012,-111.2718299,TRUE,FALSE,TRUE,"S372870810",2
-"97","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L229841","Agua Nueva Park (was Roger Road WRF)","2026-07-16 05:25",32.2804902,-111.0272755,TRUE,FALSE,FALSE,"S372851024",7
-"98","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L7843372","Vekol Valley--South Vekol Well","2026-07-16 05:25",32.7379985,-112.2309233,TRUE,FALSE,FALSE,"S372863984",1
-"99","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L2469984","Tucson -- Arroyo Chico neighborhood","2026-07-16 05:13",32.2174486,-110.9228182,TRUE,FALSE,TRUE,"S372744348",6
-"100","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L17948450","Yard List","2026-07-16 05:08",33.5851075,-112.2179359,TRUE,FALSE,TRUE,"S372721920",1
-"101","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L350281","El Rio Preserve","2026-07-16 05:06",32.392141,-111.1384898,TRUE,FALSE,FALSE,"S372791107",3
-"102","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L31393048","Cresta Loma Drive","2026-07-16 05:05",32.302041,-110.98336,TRUE,FALSE,TRUE,"S372714739",2
-"103","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L267156","Danny Lopez Park (formerly Columbus Park)","2026-07-16 05:05",32.2856814,-111.0346556,TRUE,FALSE,FALSE,"S372876860",10
-"104","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L2331591","Home and Royal Palm Park","2026-07-15 19:10",33.5578585,-112.0897293,TRUE,FALSE,TRUE,"S372582781",2
-"105","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1400591","Rio Vista Natural Resource Park","2026-07-15 18:40",32.2800719,-110.9326502,TRUE,FALSE,FALSE,"S372771932",1
-"106","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L38078087","Queen Creek Wash Trail (Pecan Circle)","2026-07-15 18:24",33.2317196,-111.6101168,TRUE,FALSE,FALSE,"S372572946",2
-"107","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L25140960","3423 E Fourth St, Tucson US-AZ 32.23125, -110.92023","2026-07-15 18:21",32.231251,-110.92023,TRUE,FALSE,TRUE,"S372574530",2
-"108","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L29125749","Desert Willow House","2026-07-15 18:17",33.31633,-112.028847,TRUE,FALSE,TRUE,"S372607336",1
-"109","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L21976076","Soldier's Creek Park","2026-07-15 18:17",31.5618989,-110.3065109,TRUE,FALSE,FALSE,"S372577896",2
-"110","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L42196637","Oro Valley, AZ","2026-07-15 18:15",32.3919224,-110.961802,TRUE,FALSE,TRUE,"S372591802",2
-"111","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L11114928","Sahuaro Ranch Park","2026-07-15 18:10",33.5766321,-112.1904582,TRUE,FALSE,FALSE,"S372604786",1
-"112","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73655566","Eagle Creek Bat Cave, Morenci, Arizona, US (33.022, -109.414)","2026-07-15 17:40",33.0223959,-109.4138843,TRUE,FALSE,TRUE,"S372840214",4
-"113","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L2438871","Sahuarita--North Santa Cruz Park","2026-07-15 17:30",31.9873804,-110.9630556,TRUE,FALSE,FALSE,"S372569171",1
-"114","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1163017","Florida Wash--Corral at Jct FR488&62A","2026-07-15 15:49",31.7741936,-110.8621198,TRUE,FALSE,FALSE,"S372605412",1
-"115","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73591405","Sears Park, Tucson US-AZ 32.21728, -110.86376","2026-07-15 15:27",32.217275,-110.863764,TRUE,FALSE,TRUE,"S372556228",6
-"116","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L12259291","Calle Lottie Tucson","2026-07-15 15:20",32.3254475,-110.9561947,TRUE,FALSE,TRUE,"S372546094",2
-"117","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L71994048","ATV community pool","2026-07-15 15:10",33.334731,-111.992654,TRUE,FALSE,TRUE,"S372531519",1
-"118","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L128879","Arizona-Sonora Desert Museum (please do not report captive birds)","2026-07-15 13:49",32.2437113,-111.168125,TRUE,FALSE,FALSE,"S372551369",3
-"119","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L54982723","Boulder Canyon","2026-07-15 13:30",32.4745337,-111.1104649,TRUE,FALSE,TRUE,"S372591258",3
-"120","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L5050566","Rincon Mountains--Turkey Creek Trailhead riparian","2026-07-15 12:55",32.1560315,-110.4745352,TRUE,FALSE,FALSE,"S372605777",2
-"121","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L733825","Sahuarita--Parque Los Arroyos","2026-07-15 12:43",31.920113,-110.9817839,TRUE,FALSE,FALSE,"S372508690",3
-"122","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L54581561","The Green","2026-07-15 12:42",31.9682387,-110.9701914,TRUE,FALSE,FALSE,"S372501454",1
-"123","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L234314","Anza Trail--Tubac","2026-07-15 11:37",31.6128313,-111.040829,TRUE,FALSE,FALSE,"S372490768",2
-"124","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L7049134","Caviglia-Arivaca Library","2026-07-15 11:26",31.57574,-111.32672,TRUE,FALSE,FALSE,"S372480481",1
-"125","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L40448134","Lewis lesser goldfinch","2026-07-15 10:57",33.474959,-111.958628,TRUE,FALSE,TRUE,"S372470170",1
-"126","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L31600142","Woods Canyon Trail","2026-07-15 10:28",34.754673,-111.760051,TRUE,FALSE,FALSE,"S372472668",1
-"127","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L352346","Santa Gertrudis Lane (foot access only)","2026-07-15 10:27",31.5620883,-111.0473766,TRUE,FALSE,FALSE,"S372478923",3
-"128","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L300609","Salt River--Granite Reef Recreation Area","2026-07-15 09:45",33.5145045,-111.6815139,TRUE,FALSE,FALSE,"S372518567",1
-"129","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L5077524","Scottsdale Civic Center Park","2026-07-15 09:16",33.4910094,-111.9227437,TRUE,FALSE,FALSE,"S372519767",2
-"130","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1899580","Sun Lakes and Riggs Rd ponds","2026-07-15 09:10",33.2173458,-111.8807906,TRUE,FALSE,FALSE,"S372435854",1
-"131","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L25830782","Mitchell Park","2026-07-15 09:06",33.42009,-111.949098,TRUE,FALSE,FALSE,"S372436709",2
-"132","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L35522013","Temporal Gulch (lower)","2026-07-15 08:42",31.603404,-110.78838,TRUE,FALSE,TRUE,"S372877198",6
-"133","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L19581073","The Paton Center for Hummingbirds, Patagonia US-AZ 31.53921, -110.76059","2026-07-15 08:41",31.539212,-110.76059,TRUE,FALSE,TRUE,"S372858710",3
-"134","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1416114","Riggs and Price Rds. ponds","2026-07-15 08:40",33.2193147,-111.892638,TRUE,FALSE,FALSE,"S372524493",2
-"135","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L303389","Nogales Dog Park ponds (formerly Palo Duro Creek Golf Course)","2026-07-15 08:36",31.388,-110.959,TRUE,FALSE,FALSE,"S372512771",4
-"136","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L27188306","Dinosaur Park","2026-07-15 08:35",33.3636891,-111.4382315,TRUE,FALSE,FALSE,"S372518680",5
-"137","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L497742","Yuma East Wetlands","2026-07-15 08:29",32.7207934,-114.6065962,TRUE,FALSE,FALSE,"S372420108",2
-"138","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73571378","85348, Salome US-AZ 33.85684, -113.35318","2026-07-15 08:25",33.856843,-113.353177,TRUE,FALSE,TRUE,"S372475161",1
-"139","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L48156327","Home","2026-07-15 08:20",32.549801,-110.861341,TRUE,FALSE,TRUE,"S372439415",1
-"140","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73465094","526 E Mabel St, Tucson US-AZ 32.23831, -110.96331","2026-07-15 08:20",32.238313,-110.963308,TRUE,FALSE,TRUE,"S372416549",2
-"141","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L71320419","6552 E Cave Creek Rd, Cave Creek US-AZ 33.83377, -111.93950","2026-07-15 08:15",33.833769,-111.939501,TRUE,FALSE,TRUE,"S372415423",1
-"142","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L622087","McCormick Park","2026-07-15 08:02",32.2612251,-110.8999872,TRUE,FALSE,FALSE,"S372414774",3
-"143","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L25220741","Las Cienegas NCA--Levee and Cienega","2026-07-15 08:00",31.8245674,-110.585358,TRUE,FALSE,FALSE,"S372459483",3
-"144","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L10786942","Williamson/Wood home - Mill Rd.","2026-07-15 07:54",31.4095525,-109.8806739,TRUE,FALSE,TRUE,"S372428475",1
-"145","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L49436554","Cottonwood Impoundment on North Hill Farm Drive, Tucson, Arizona, US","2026-07-15 07:51",32.2653191,-110.8835369,TRUE,FALSE,TRUE,"S372429447",3
-"146","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L10892635","Judy's yard","2026-07-15 07:44",31.833468,-110.997357,TRUE,FALSE,TRUE,"S372443309",2
-"147","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L629205","University of Arizona","2026-07-15 07:39",32.2321157,-110.9511852,TRUE,FALSE,FALSE,"S372417345",1
-"148","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L17264691","Anza Trail--north of Desert Meadows Park","2026-07-15 07:39",31.8592836,-110.9851899,TRUE,FALSE,FALSE,"S372427641",4
-"149","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L12831020","Backyard","2026-07-15 07:30",32.1975166,-111.0045938,TRUE,FALSE,TRUE,"S372525107",2
-"150","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L35660648","9066 Seven Oaks Drive (Private), Hereford, Arizona, US (31.404, -110.234)","2026-07-15 07:25",31.404478,-110.2342918,TRUE,FALSE,TRUE,"S372398616",2
-"151","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L859415","Needle Rock Recreation Area","2026-07-15 07:24",33.7585986,-111.6755104,TRUE,FALSE,FALSE,"S372424254",3
-"152","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L40472442","E Empire Ranch Rd, Sonoita US-AZ 31.82518, -110.58694","2026-07-15 07:23",31.825176,-110.586938,TRUE,FALSE,TRUE,"S372399885",1
-"153","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L935411","Rillito River--Craycroft Rd","2026-07-15 07:22",32.2693356,-110.8771884,TRUE,FALSE,TRUE,"S372406508",3
-"154","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73556152","85364, Yuma US-AZ 32.72789, -114.61432","2026-07-15 07:09",32.727893,-114.614316,TRUE,FALSE,TRUE,"S372415119",1
-"155","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L45260416","Alamo Wash -- Ft Lowell to Glenn","2026-07-15 07:00",32.2614836,-110.8857643,TRUE,FALSE,TRUE,"S372429347",3
-"156","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L697198","PebbleCreek","2026-07-15 06:50",33.4876479,-112.4050981,TRUE,FALSE,TRUE,"S372422790",3
-"157","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L283449","Forty Niner Country Club","2026-07-15 06:42",32.2488084,-110.7349778,TRUE,FALSE,FALSE,"S372420741",6
-"158","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L21987482","Tallercito Tumamoc","2026-07-15 06:40",32.234609,-111.000559,TRUE,FALSE,TRUE,"S372833361",6
-"159","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L3533323","Sun City, Mom Webster House","2026-07-15 06:39",33.6258987,-112.2647381,TRUE,FALSE,TRUE,"S372411148",4
-"160","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L30118924","Vault Mine Ct. Verandah Watch","2026-07-15 06:35",31.8560083,-110.9666535,TRUE,FALSE,TRUE,"S372421530",2
-"161","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L52364448","Rock Ledge Spring (no public access)","2026-07-15 06:35",32.3049823,-110.7876274,TRUE,FALSE,TRUE,"S372380740",1
-"162","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L17557889","Foothills Park","2026-07-15 06:34",33.654918,-112.18361,TRUE,FALSE,FALSE,"S372392541",2
-"163","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L913627","Green Valley--Desert Meadows Park","2026-07-15 06:27",31.8552155,-110.9860539,TRUE,FALSE,FALSE,"S372401246",1
-"164","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L44497431","Bambi","2026-07-15 06:24",33.6732,-112.082004,TRUE,FALSE,TRUE,"S372583669",1
-"165","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L800002","Anthem--Southeast Parkside","2026-07-15 06:22",33.8464948,-112.1102387,TRUE,FALSE,TRUE,"S372400298",2
-"166","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L17138033","AZ: Green Valley, BBAP Bird Sanctuary 2","2026-07-15 06:20",31.8023549,-111.029918,TRUE,FALSE,TRUE,"S372390027",1
-"167","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L5238840","E Mountain View Road (private residence)","2026-07-15 06:15",31.3853692,-110.2273214,TRUE,FALSE,TRUE,"S372524612",1
-"168","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L3286634","Morning Star Ranch - Winery Springs Cyn.","2026-07-15 06:10",31.5651832,-110.937242,TRUE,FALSE,TRUE,"S372397610",4
-"169","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L6281202","Santa Cruz Flats: Phillips/LaPalma.","2026-07-15 06:09",32.7188917,-111.5326667,TRUE,FALSE,TRUE,"S372544295",3
-"170","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73558914","Lower San Pedro River Wildlife Area - AZGFD restoration site","2026-07-15 06:09",32.8136834,-110.6977658,TRUE,FALSE,TRUE,"S372426306",3
-"171","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L20329824","Oro Valley Home (private)","2026-07-15 06:00",32.4330004,-110.9912966,TRUE,FALSE,TRUE,"S372581731",1
-"172","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L11034681","My backyard","2026-07-15 05:58",32.238525,-110.924171,TRUE,FALSE,TRUE,"S372486205",3
-"173","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L346021","Vernon Ave yard","2026-07-15 05:56",33.4740986,-111.9596002,TRUE,FALSE,TRUE,"S372730184",2
-"174","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L68505045","7557 W Buckeye Path, Marana US-AZ (32.4608,-111.1245)","2026-07-15 05:53",32.460787,-111.124511,TRUE,FALSE,TRUE,"S372383295",7
-"175","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1004595","Box Bar Recreation Site","2026-07-15 05:51",33.743719,-111.6602969,TRUE,FALSE,FALSE,"S372391941",1
-"176","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L999878","Northsight Park","2026-07-15 05:48",33.6122247,-111.8988848,TRUE,FALSE,FALSE,"S372380407",3
-"177","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L250145","Sam Lena Park and KERP","2026-07-15 05:48",32.1812,-110.932,TRUE,FALSE,FALSE,"S372408601",2
-"178","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L2714898","The Jail Trail","2026-07-15 05:46",34.7496668,-112.0269971,TRUE,FALSE,FALSE,"S372441543",3
-"179","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L72276172","Mountainview Golf Course","2026-07-15 05:36",32.533027,-110.8943675,TRUE,FALSE,TRUE,"S372404105",5
-"180","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L18461951","Neighborhood","2026-07-15 05:30",32.299075,-110.833703,TRUE,FALSE,TRUE,"S372399387",12
-"181","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L245447","Fort Lowell Park and Pantano Wash","2026-07-15 05:30",32.2605631,-110.8727628,TRUE,FALSE,FALSE,"S372393341",12
-"182","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1427432","Loews Ventana Canyon Resort","2026-07-15 05:25",32.328408,-110.850251,TRUE,FALSE,FALSE,"S372428957",9
-"183","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L4917200","Gibbons Yard","2026-07-15 05:23",32.1681629,-110.7623023,TRUE,FALSE,TRUE,"S372412070",6
-"184","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L6641721","Sierra Vista Golf Center at Pueblo del Sol","2026-07-15 05:18",31.5201792,-110.2647999,TRUE,TRUE,FALSE,"S372535623",25
-"185","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L715412","Higley and Ocotillo Rds. ponds","2026-07-15 05:17",33.2533311,-111.7181683,TRUE,FALSE,FALSE,"S372499701",2
-"186","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L9410713","Yard, Quail Creek, Green Valley","2026-07-15 05:15",31.879996,-110.9294221,TRUE,FALSE,TRUE,"S372417048",4
-"187","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L744803","Plumtree","2026-07-15 05:05",32.2610446,-110.9017322,TRUE,FALSE,TRUE,"S372348688",1
-"188","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L848304","Salt River--Goldfield Recreation Area","2026-07-15 05:05",33.5534649,-111.6225891,TRUE,FALSE,FALSE,"S372421280",8
-"189","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L284416","Arivaca Lake","2026-07-15 04:53",31.5302935,-111.2521748,TRUE,FALSE,FALSE,"S372475762",1
-"190","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L56476558","Joe and Molly's Yard","2026-07-15",33.4008429,-111.905499,TRUE,FALSE,TRUE,"S372542746",2
-"191","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L16701148","2876 Solarro Dr, Sierra Vista US-AZ 31.52677, -110.26926","2026-07-14 19:14",31.526775,-110.269264,TRUE,FALSE,TRUE,"S372225867",2
-"192","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L815678","Granada Park","2026-07-14 18:30",33.5324095,-112.036517,TRUE,FALSE,FALSE,"S372231183",4
-"193","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L6686511","Vista del Camino Park--north end","2026-07-14 17:55",33.4608582,-111.9148493,TRUE,FALSE,FALSE,"S372223801",2
-"194","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L13617283","Coral Bells","2026-07-14 17:54",32.243215,-111.0413732,TRUE,FALSE,TRUE,"S372215657",1
-"195","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L5525302","W Turkey Creek Rd--Nat'l Forest boundary to road end (mp 8.3-11)","2026-07-14 16:02",31.8658952,-109.3487477,TRUE,FALSE,FALSE,"S372214023",1
-"196","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L51941890","18418 West Ivy Lane, Surprise, Arizona, US (33.626, -112.456)","2026-07-14 15:18",33.6258479,-112.4555649,TRUE,FALSE,TRUE,"S372179697",1
-"197","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L357429","Scottsdale--Chaparral Park","2026-07-14 13:37",33.5110032,-111.906631,TRUE,FALSE,FALSE,"S372169966",2
-"198","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L13710758","Lake Havasu City, Arizona, US (34.503, -114.319)","2026-07-14 13:08",34.5028549,-114.3193797,TRUE,FALSE,TRUE,"S372174241",1
-"199","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L50349369","Quarry Pines","2026-07-14 12:31",32.356224,-111.099041,TRUE,FALSE,TRUE,"S372191123",4
-"200","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1327826","Quail Creek Veterans Municipal Park","2026-07-14 11:55",31.8966516,-110.9654436,TRUE,FALSE,FALSE,"S372743400",1
-"201","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L4093520","Scottsdale Nature Area--Indian Bend Village","2026-07-14 11:45",33.5360425,-111.9083489,TRUE,FALSE,FALSE,"S372152310",2
-"202","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1406596","Saguaro NP--West--Desert Discovery Trail","2026-07-14 11:33",32.2625304,-111.2106575,TRUE,FALSE,FALSE,"S372133319",3
-"203","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L340020","ASU Main Campus","2026-07-14 11:20",33.4207756,-111.9340445,TRUE,FALSE,FALSE,"S372278597",4
-"204","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L51161116","Saguaro NP--West--watering hole","2026-07-14 11:04",32.2558369,-111.2022467,TRUE,FALSE,FALSE,"S372133414",1
-"205","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L474140","Anza Trail--Rio Rico (Guy Tobin Trailhead)","2026-07-14 10:24",31.4679656,-110.9918475,TRUE,FALSE,FALSE,"S372176544",2
-"206","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L19927896","home","2026-07-14 10:15",32.2753563,-110.8715439,TRUE,FALSE,TRUE,"S372126201",1
-"207","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L684301","Tucson Botanical Gardens","2026-07-14 10:07",32.2482323,-110.9086132,TRUE,FALSE,FALSE,"S372137734",5
-"208","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L250958","Lakeside Park","2026-07-14 09:55",32.1861206,-110.8162263,TRUE,FALSE,FALSE,"S372159743",1
-"209","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73478248","11222 East Stampede Place, Tucson, Arizona, US (32.274, -110.752)","2026-07-14 09:44",32.2740679,-110.7516027,TRUE,FALSE,TRUE,"S372081322",2
-"210","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L53750496","N Wrens Nest Pl","2026-07-14 09:27",32.252257,-110.8166705,TRUE,FALSE,TRUE,"S372078438",2
-"211","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L54854210","Pistol Hill - North Slope Trail","2026-07-14 09:27",32.063166,-110.6539164,TRUE,FALSE,TRUE,"S372107739",1
-"212","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L879018","Las Lagunas de Anza wetlands (Drive-in Ponds)","2026-07-14 09:23",31.3896771,-110.9557467,TRUE,FALSE,FALSE,"S372176424",2
-"213","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L5140436","Silly Mountain","2026-07-14 09:19",33.3805246,-111.4834106,TRUE,FALSE,FALSE,"S372165537",1
-"214","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L51073251","S Canyon Edge Tr","2026-07-14 09:19",31.9330311,-110.7977619,TRUE,FALSE,TRUE,"S372078618",4
-"215","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73486165","SRP, Legends, Desert Meadows to Continental and back","2026-07-14 09:01",31.839988,-110.992308,TRUE,FALSE,TRUE,"S372112275",3
-"216","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L46677983","Sycamore Leaf (from Smooth Opal to the dead end)","2026-07-14 08:57",31.9349555,-110.8048437,TRUE,FALSE,TRUE,"S372071743",5
-"217","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L4935482","Rio Vista Community Park/Riparian Area","2026-07-14 08:45",33.61579,-112.24497,TRUE,FALSE,FALSE,"S372073878",NA
-"218","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L17109435","Lost Goldmine Trailhead","2026-07-14 08:41",33.3896936,-111.4246087,TRUE,FALSE,FALSE,"S372165416",1
-"219","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L721572","Base and Meridian WA","2026-07-14 08:39",33.3791718,-112.3074389,TRUE,FALSE,FALSE,"S372212428",2
-"220","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L20022402","Hampton Inn—Tucson Airport","2026-07-14 08:37",32.125139,-110.934339,TRUE,FALSE,TRUE,"S372064856",1
-"221","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L39714720","UTM: 12 R 519000 3534000.(1,010 m)","2026-07-14 08:34",31.941779,-110.798974,TRUE,FALSE,TRUE,"S372063233",2
-"222","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L876690","San Pedro River--San Manuel Crossing","2026-07-14 08:30",32.6003009,-110.5358934,TRUE,FALSE,FALSE,"S372085848",4
-"223","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L22809304","Park Mall Park","2026-07-14 08:28",32.217292,-110.862633,TRUE,FALSE,TRUE,"S372116615",9
-"224","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L281844","Montosa Canyon--km 1 (culvert area)","2026-07-14 08:14",31.6714585,-110.941082,TRUE,FALSE,FALSE,"S372090306",1
-"225","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L3633807","1 - Our Yard in Pima","2026-07-14 08:01",32.8941555,-109.8318538,TRUE,FALSE,TRUE,"S372084768",3
-"226","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L302906","Mammoth Sewage Ponds","2026-07-14 08:00",32.7407148,-110.6504989,TRUE,FALSE,FALSE,"S372084179",1
-"227","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73469062","Kat’s Home","2026-07-14 07:55",33.367093,-112.042147,TRUE,FALSE,TRUE,"S372044300",1
-"228","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L39851177","TREASURE/Honor Court Park","2026-07-14 07:55",33.8464491,-112.1114458,TRUE,FALSE,FALSE,"S372049395",5
-"229","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L37081085","Agua Linda Park","2026-07-14 07:42",33.524679,-111.893303,TRUE,FALSE,FALSE,"S372045805",2
-"230","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8891223","Villa de Sabino","2026-07-14 07:25",32.3070792,-110.8262683,TRUE,FALSE,TRUE,"S372064955",3
-"231","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L21749954","Tamarisk Neighborhood","2026-07-14 07:01",32.2794613,-110.9298653,TRUE,FALSE,TRUE,"S372028538",3
-"232","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L45568964","85255, Scottsdale US-AZ  North Hayden Rd","2026-07-14 06:57",33.649381,-111.912159,TRUE,FALSE,TRUE,"S372027178",1
-"233","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L32982923","Nighthawk Native Nursery, Tucson, Arizona, US (32.203, -111.209)","2026-07-14 06:55",32.2028633,-111.208825,TRUE,FALSE,TRUE,"S372050107",1
-"234","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L299012","Oracle State Park","2026-07-14 06:50",32.6083177,-110.7335132,TRUE,FALSE,FALSE,"S372086553",2
-"235","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L52023772","Rincon Heights House","2026-07-14 06:45",32.224403,-110.952362,TRUE,FALSE,TRUE,"S372196289",1
-"236","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L2605557","Santa Cruz River--Congress St. to Silverlake Rd.","2026-07-14 06:43",32.2105498,-110.9848738,TRUE,FALSE,FALSE,"S372071532",6
-"237","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L40080032","Formative ct home","2026-07-14 06:40",32.257085,-110.732807,TRUE,FALSE,TRUE,"S372055614",5
-"238","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1023602","Pinnacle Peak Park","2026-07-14 06:39",33.7274211,-111.8645221,TRUE,FALSE,FALSE,"S372046642",4
-"239","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L3334807","Bubbling Ponds, Page Springs Fish Hatchery","2026-07-14 06:29",34.7655186,-111.8948078,TRUE,FALSE,TRUE,"S372138657",8
-"240","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L38610202","Home","2026-07-14 06:28",33.5975669,-112.3004797,TRUE,FALSE,TRUE,"S372024046",1
-"241","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L52338103","Catalina Regional Park","2026-07-14 06:19",32.461161,-110.904437,TRUE,FALSE,TRUE,"S372577333",3
-"242","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L18069742","Old Southern canals","2026-07-14 06:19",33.3939527,-112.0165658,TRUE,FALSE,TRUE,"S372070275",2
-"243","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L50024274","7B YBCU South Route","2026-07-14 06:18",32.699608,-110.620027,TRUE,FALSE,TRUE,"S372182713",6
-"244","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L21728254","Pistol Hill","2026-07-14 06:17",32.0650642,-110.6547667,TRUE,FALSE,TRUE,"S372019390",1
-"245","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L128943","San Pedro RNCA--Charleston Bridge","2026-07-14 06:10",31.6257,-110.1735992,TRUE,FALSE,FALSE,"S372193526",7
-"246","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L210015","Desert Botanical Garden","2026-07-14 06:01",33.4618165,-111.9436349,TRUE,FALSE,FALSE,"S372077512",8
-"247","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L42633809","4315 N Camino del Obispo, Tucson US-AZ (32.2857,-110.9300)#2","2026-07-14 06:01",32.285672,-110.930024,TRUE,FALSE,TRUE,"S372020290",6
-"248","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73467325","Lower San Pedro River Wildlife Area","2026-07-14 05:52",32.811682,-110.688608,TRUE,FALSE,TRUE,"S372037453",2
-"249","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L4179908","Rillito River Park--Swan to Craycroft","2026-07-14 05:51",32.268967,-110.882987,TRUE,FALSE,FALSE,"S372055968",5
-"250","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L128958","San Pedro RNCA--Escapule Wash","2026-07-14 05:42",31.6100006,-110.1669998,TRUE,FALSE,FALSE,"S372101151",6
-"251","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L65166147","LYMA'S Nest","2026-07-14 05:41",31.5161122,-110.2698959,TRUE,FALSE,TRUE,"S372048393",3
-"252","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L5201724","16638 Yard List","2026-07-14 05:35",33.2946645,-112.0714366,TRUE,FALSE,TRUE,"S372408711",1
-"253","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L38661731","Boone Home","2026-07-14 05:10",32.371035,-111.117993,TRUE,FALSE,TRUE,"S372120050",2
-"254","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1091568","Rillito River Park--Children's Memorial Park","2026-07-13 19:20",32.2950368,-110.9849301,TRUE,FALSE,FALSE,"S371854527",2
-"255","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L2849094","Tartesso, Buckeye AZ","2026-07-13 18:59",33.4927897,-112.6862097,TRUE,FALSE,TRUE,"S371854646",2
-"256","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L35966793","Sabino Vista Hills neighborhood","2026-07-13 18:10",32.279368,-110.815178,TRUE,FALSE,TRUE,"S371843868",2
-"257","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L57883933","Desert Montage","2026-07-13 18:10",32.225944,-111.032702,TRUE,FALSE,TRUE,"S371846872",1
-"258","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L834429","Kiwanis Park","2026-07-13 18:09",33.3739933,-111.939311,TRUE,FALSE,FALSE,"S371863403",2
-"259","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L54338481","Rancho del Lago Golf Course","2026-07-13 18:00",32.0614232,-110.7012515,TRUE,FALSE,TRUE,"S372059645",2
-"260","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L227274","Reid Park","2026-07-13 18:00",32.2102866,-110.9235907,TRUE,FALSE,FALSE,"S371849146",3
-"261","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L5578351","Sky Ranch","2026-07-13 17:50",32.4183604,-111.0557038,TRUE,FALSE,TRUE,"S371857427",4
-"262","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L10250243","Saguaro NP--East--Cactus Forest South Trailhead","2026-07-13 12:57",32.1704179,-110.7287979,TRUE,FALSE,FALSE,"S371869117",3
-"263","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L17411966","Home","2026-07-13 10:37",33.523892,-111.96824,TRUE,FALSE,TRUE,"S371718098",1
-"264","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1583722","Tempe: Marlborough Park neighborhood","2026-07-13 10:30",33.4483263,-111.9330702,TRUE,FALSE,TRUE,"S372277299",1
-"265","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L3493885","Blue Haven Rd--Temporal Gulch","2026-07-13 10:18",31.5253383,-110.7790115,TRUE,FALSE,FALSE,"S371723774",2
-"266","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L20758806","Gila Springs Park","2026-07-13 09:35",33.311157,-111.942626,TRUE,FALSE,FALSE,"S371697048",1
-"267","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L129113","Tucson Mountain Park","2026-07-13 09:13",32.2300828,-111.129241,TRUE,FALSE,FALSE,"S371700439",NA
-"268","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L38476212","Sunrise Pointe, and Vista and Legends","2026-07-13 09:12",31.834782,-110.995906,TRUE,FALSE,TRUE,"S371721525",2
-"269","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L169112","Hassayampa River Preserve (closed Mon/Tue)","2026-07-13 08:55",33.9333419,-112.6946297,TRUE,FALSE,FALSE,"S372579463",2
-"270","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73025324","May and Day Neighborhood","2026-07-13 08:45",33.3144472,-111.9389939,TRUE,FALSE,TRUE,"S371682264",3
-"271","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L11891124","Mittry Lake--overlook","2026-07-13 08:33",32.8160367,-114.4612177,TRUE,FALSE,FALSE,"S371671660",3
-"272","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73377736","92283, Winterhaven US-CA 32.82406, -114.49374","2026-07-13 08:08",32.824061,-114.493741,TRUE,FALSE,TRUE,"S371660592",2
-"273","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L35133632","0-Jalapa Ct, RIO RICO, AZ","2026-07-13 08:07",31.516882,-111.04574,TRUE,FALSE,TRUE,"S371677974",1
-"274","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L12460894","Claire Weeks Terra del Sol Park","2026-07-13 07:53",32.1976621,-110.8484653,TRUE,FALSE,FALSE,"S371654209",2
-"275","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L505270","Anza Trail--Tumacacori","2026-07-13 07:33",31.5694771,-111.0472888,TRUE,FALSE,FALSE,"S372017175",12
-"276","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L51526314","Grayhawk Park SE Bench","2026-07-13 07:31",33.672862,-111.919845,TRUE,FALSE,TRUE,"S371651372",4
-"277","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L4490836","Placita De Suerte area","2026-07-13 07:30",32.2463227,-111.0678104,TRUE,FALSE,TRUE,"S371749107",1
-"278","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1142953","Mission Road Home","2026-07-13 07:27",32.1939715,-110.99757,TRUE,FALSE,TRUE,"S371673508",1
-"279","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L45063625","359 W Bismark St, San Tan Valley US-AZ 33.15919, -111.57113","2026-07-13 07:26",33.159189,-111.571128,TRUE,FALSE,TRUE,"S371640702",2
-"280","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L247950","Phoenix Zoo","2026-07-13 07:19",33.4516913,-111.9480357,TRUE,FALSE,FALSE,"S371713377",5
-"281","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L9169581","Sutherland Wash - Golder D.T. loop","2026-07-13 07:11",32.482148,-110.876548,TRUE,FALSE,TRUE,"S371719673",11
-"282","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L3717605","2410 E Adams St","2026-07-13 07:10",32.240544,-110.9362829,TRUE,FALSE,TRUE,"S371730304",1
-"283","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L623683","Betty's Kitchen/Laguna Dam","2026-07-13 07:10",32.8194716,-114.4882978,TRUE,FALSE,FALSE,"S371654094",4
-"284","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1889862","Saguaro NP--East--Douglas Spring Trail","2026-07-13 07:00",32.2348945,-110.6854404,TRUE,FALSE,FALSE,"S371718089",1
-"285","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L4958619","Sienna Hills","2026-07-13 06:51",33.4680357,-112.5147707,TRUE,FALSE,TRUE,"S371635471",2
-"286","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L69952016","Sweetwater Preserve, Tucson US-AZ 32.27501, -111.07318","2026-07-13 06:51",32.275009,-111.073185,TRUE,FALSE,TRUE,"S371662310",3
-"287","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L21514596","Rainbow Vista Walks","2026-07-13 06:45",32.245808,-110.8711872,TRUE,FALSE,TRUE,"S371632030",3
-"288","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L370788","Quail Creek Country Club","2026-07-13 06:43",31.8886356,-110.9454346,TRUE,FALSE,FALSE,"S371700014",3
-"289","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L36616356","Rancho Cancion HOA north-central (restricted access)","2026-07-13 06:32",32.169196,-110.7614135,TRUE,FALSE,TRUE,"S371655889",3
-"290","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L2257540","Saguaro NP--West--Red Hills Visitors Center","2026-07-13 06:31",32.2542072,-111.1972591,TRUE,FALSE,FALSE,"S371638299",1
-"291","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L865856","Villa Serena Park","2026-07-13 06:29",32.2450292,-110.8647108,TRUE,FALSE,FALSE,"S371617433",2
-"292","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L128965","Florida Wash at Madera Canyon Rd","2026-07-13 06:24",31.7835694,-110.8863696,TRUE,FALSE,FALSE,"S371628528",2
-"293","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73408570","5710 N Sabino Canyon Rd, Tucson US-AZ 32.31042, -110.82302","2026-07-13 06:09",32.310424,-110.823022,TRUE,FALSE,TRUE,"S371776103",2
-"294","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73372355","S Kinney Rd, Tucson US-AZ 32.20588, -111.12561","2026-07-13 05:57",32.20588,-111.125606,TRUE,FALSE,TRUE,"S371638993",1
-"295","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L11172420","SHARP (Southeast Houghton Area Recharge Project)","2026-07-13 05:54",32.1475886,-110.7812904,TRUE,FALSE,FALSE,"S371612344",2
-"296","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L23713050","Wrens Nest","2026-07-13 05:53",32.251983,-110.816445,TRUE,FALSE,TRUE,"S372121071",2
-"297","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L819351","White Tank Mountain Regional Park","2026-07-13 05:52",33.5763768,-112.5086387,TRUE,FALSE,FALSE,"S371657921",3
-"298","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L16231809","14465 West Tala Way, Tucson, Arizona, US (32.062, -111.271)","2026-07-13 05:37",32.0615902,-111.2709314,TRUE,FALSE,TRUE,"S371613623",1
-"299","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L32000084","Pueblo Villas","2026-07-13 05:35",32.302777,-110.980107,TRUE,FALSE,TRUE,"S371602654",2
-"300","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L69521889","McClintock High","2026-07-13 05:32",33.396872,-111.9077139,TRUE,FALSE,TRUE,"S371695927",3
-"301","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L69167350","House","2026-07-13 05:30",33.34464,-111.84636,TRUE,FALSE,TRUE,"S372026013",1
-"302","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L48434230","3591 North Bear Canyon Road
-Tucson, AZ 85749","2026-07-13 05:24",32.2777578,-110.8080185,TRUE,FALSE,TRUE,"S371626283",6
-"303","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L6750468","Reach 11--Bullfrog Pond","2026-07-13 05:23",33.6551267,-111.9686402,TRUE,FALSE,FALSE,"S371640948",2
-"304","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L59988063","Santa Cruz River—West Branch Conservation Area","2026-07-13 05:23",32.1848901,-110.9968904,TRUE,FALSE,FALSE,"S371603544",2
-"305","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L4712195","Sycamore Creek--upper Beeline Hwy","2026-07-13 05:20",33.9117312,-111.4825845,TRUE,FALSE,FALSE,"S371745852",2
-"306","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L17080119","701–799 S la Posada Cir, Green Valley US-AZ 31.86073, -110.98212","2026-07-13 05:15",31.860727,-110.982117,TRUE,FALSE,TRUE,"S371617822",3
-"307","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L48334308","Backyard Corriente/Silverado G.C.","2026-07-13",33.5376095,-111.9168202,TRUE,FALSE,TRUE,"S371881588",2
-"308","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L49291826","2633 West Luce Drive, Phoenix, Arizona, US (33.805, -112.118)","2026-07-12 19:29",33.8049679,-112.1178388,TRUE,FALSE,TRUE,"S371461731",1
-"309","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L24856917","Tempe: University Lutheran Church","2026-07-12 19:04",33.4123086,-111.9311663,TRUE,FALSE,TRUE,"S371504607",2
-"310","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L12228954","Home","2026-07-12 18:52",32.17675,-110.82788,TRUE,FALSE,TRUE,"S371454903",1
-"311","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L14692174","Back Yard","2026-07-12 18:47",33.602704,-112.157261,TRUE,FALSE,TRUE,"S371458522",1
-"312","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L5131981","Mom's Yard - 830 Kings Court","2026-07-12 18:42",32.8207707,-109.7179987,TRUE,FALSE,TRUE,"S371487339",1
-"313","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L66230770","S Islands Dr E Neighborhood","2026-07-12 18:01",33.341166,-111.816035,TRUE,FALSE,TRUE,"S371471424",1
-"314","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L61219830","655 W Camino Curvitas, Sahuarita US-AZ 31.97034, -110.97947","2026-07-12 18:00",31.970344,-110.979466,TRUE,FALSE,TRUE,"S371447312",1
-"315","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L47983192","Patagonia Lake State Park, Nogales US-AZ 31.49703, -110.85045","2026-07-12 17:58",31.497029,-110.850454,TRUE,FALSE,TRUE,"S371621519",1
-"316","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L41594676","Jasmine Street, Mesa, Arizona","2026-07-12 17:56",33.4492517,-111.7673637,TRUE,FALSE,TRUE,"S371445474",2
-"317","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L72344382","Davis-Monthan AFB—northeast corner behind small arms ranges","2026-07-12 17:53",32.155434,-110.797644,TRUE,FALSE,TRUE,"S372127088",8
-"318","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L24931203","3423 E Fourth St, Tucson US-AZ 32.23124, -110.92024","2026-07-12 17:50",32.231237,-110.920237,TRUE,FALSE,TRUE,"S371449925",2
-"319","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L13898741","SaddleBrooke Ranch Home","2026-07-12 16:50",32.593535,-110.906979,TRUE,FALSE,TRUE,"S371459293",1
-"320","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1796846","Ken Morgan Pl Vail","2026-07-12 15:30",31.9711922,-110.8230771,TRUE,FALSE,TRUE,"S371462068",4
-"321","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L14595751","Circle K Park","2026-07-12 14:57",33.3711978,-112.0552039,TRUE,FALSE,FALSE,"S371386628",2
-"322","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L129106","Tanque Verde Wash--Wentworth Rd.","2026-07-12 14:00",32.2400762,-110.7208975,TRUE,FALSE,FALSE,"S371405744",4
-"323","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L20755217","Lower Casa Blanca Canyon Road","2026-07-12 13:27",31.61212,-110.728386,TRUE,FALSE,TRUE,"S371368000",1
-"324","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L13591625","Rockwood Park","2026-07-12 12:56",32.6702636,-115.4924128,TRUE,FALSE,FALSE,"S371687064",4
-"325","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L7698893","Rancho Santa Cruz","2026-07-12 12:35",31.5437758,-111.0414027,TRUE,FALSE,FALSE,"S371482066",2
-"326","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L2954201","Las Cienegas NCA--Cottonwood Tanks","2026-07-12 11:35",31.761537,-110.6195044,TRUE,FALSE,FALSE,"S371316674",3
-"327","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L275689","Patagonia Town Park","2026-07-12 11:23",31.5400292,-110.7542655,TRUE,FALSE,FALSE,"S371309289",2
-"328","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L12619229","Blue Haven Rd--between Paton's and the Preserve","2026-07-12 10:43",31.5356696,-110.7645165,TRUE,FALSE,FALSE,"S371290669",6
-"329","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L37958543","Frisco Camp Picnic Site","2026-07-12 10:23",33.20305,-109.149523,TRUE,FALSE,FALSE,"S371344579",4
-"330","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L7420665","Page Springs--South Wildlife Viewing Area","2026-07-12 09:50",34.7595237,-111.8898694,TRUE,FALSE,FALSE,"S371320746",4
-"331","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L62348458","13692 West Cottonwood Street, Surprise, Arizona, US (33.63, -112.355) Dog Park","2026-07-12 09:43",33.6302061,-112.3549771,TRUE,FALSE,TRUE,"S371254529",1
-"332","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1908758","Buenos Aires NWR--Headquarters Area","2026-07-12 09:42",31.572,-111.5062,TRUE,FALSE,FALSE,"S371269225",1
-"333","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L455142","Rousseau Sod Farm (restricted access)","2026-07-12 09:20",33.522882,-111.8430412,TRUE,FALSE,FALSE,"S371349647",1
-"334","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L5491240","Camelback Park","2026-07-12 09:15",33.505709,-111.90788,TRUE,FALSE,FALSE,"S371422581",1
-"335","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L211851","Avra Valley WTP","2026-07-12 09:07",32.165,-111.179,TRUE,FALSE,FALSE,"S371322243",2
-"336","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L20606399","Ewing Irrigation Pond","2026-07-12 08:48",33.419603,-112.00907,TRUE,FALSE,FALSE,"S371239295",2
-"337","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8360018","TBC 537_01","2026-07-12 08:46",32.2140055,-110.9234683,TRUE,FALSE,TRUE,"S371225372",1
-"338","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L757626","WolfSoul's house","2026-07-12 08:36",32.3934835,-111.1412881,TRUE,FALSE,TRUE,"S371244600",2
-"339","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L42795062","RCE Sierra Vista AZ","2026-07-12 08:17",31.570343,-110.2678833,TRUE,FALSE,TRUE,"S371248294",4
-"340","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L40821690","SRP,SRP Vistas, Legends, Desert Meadows and back","2026-07-12 08:12",31.837641,-110.991672,TRUE,FALSE,TRUE,"S371282821",2
-"341","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8360019","TBC 537_02","2026-07-12 08:08",32.2090715,-110.9247988,TRUE,FALSE,TRUE,"S371205065",1
-"342","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L3186111","US-AZ-Scottsdale-4800 N 68th St (Private)","2026-07-12 07:49",33.505878,-111.93664,TRUE,FALSE,TRUE,"S371349575",2
-"343","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L12826796","Fort Huachuca--Officer's Pond","2026-07-12 07:41",31.5482307,-110.3606754,TRUE,FALSE,FALSE,"S371249647",1
-"344","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8360020","TBC 537_03","2026-07-12 07:39",32.2089078,-110.9226555,TRUE,FALSE,TRUE,"S371196053",1
-"345","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L23374706","Scottsdale--Apache Park","2026-07-12 07:33",33.45998,-111.896074,TRUE,FALSE,FALSE,"S371201929",1
-"346","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L387263","Scottsdale Community College","2026-07-12 07:30",33.5120588,-111.8850231,TRUE,FALSE,FALSE,"S371347534",5
-"347","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8359501","TBC 508_07","2026-07-12 07:28",32.283088,-110.7386054,TRUE,FALSE,TRUE,"S371184103",1
-"348","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8360022","TBC 537_05","2026-07-12 07:18",32.2095842,-110.9222941,TRUE,FALSE,TRUE,"S371179756",2
-"349","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73302587","Martinez Ranch fields","2026-07-12 07:15",33.20345,-109.158491,TRUE,FALSE,TRUE,"S371344203",3
-"350","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L993428","Ron Morriss Park","2026-07-12 07:02",31.6090037,-111.0424018,TRUE,FALSE,FALSE,"S371306966",1
-"351","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L38657404","La Reserve, Oro Valley","2026-07-12 07:00",32.396267,-110.94704,TRUE,FALSE,TRUE,"S371459597",3
-"352","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L281121","Red Rock WMA","2026-07-12 06:59",32.6906271,-108.73745,TRUE,FALSE,FALSE,"S371264939",4
-"353","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8359498","TBC 508_04","2026-07-12 06:50",32.2830242,-110.7339435,TRUE,FALSE,TRUE,"S371160112",2
-"354","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8360025","TBC 537_08","2026-07-12 06:42",32.2213971,-110.9140699,TRUE,FALSE,TRUE,"S371155451",1
-"355","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L12098435","Back Yard Feeder","2026-07-12 06:28",32.445576,-110.965767,TRUE,FALSE,TRUE,"S371146950",2
-"356","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L40328636","Thompson Backyard","2026-07-12 06:25",32.3750543,-111.0710533,TRUE,FALSE,TRUE,"S371151993",1
-"357","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L817656","Vista del Camino Park--McKellips Lake","2026-07-12 06:24",33.4527127,-111.9127464,TRUE,FALSE,FALSE,"S371175826",1
-"358","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73122260","874–998 S Gollob Rd, Tucson US-AZ 32.20997, -110.79846","2026-07-12 06:19",32.209969,-110.798459,TRUE,FALSE,TRUE,"S371160448",3
-"359","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L633028","Scottsdale Ranch Park--Lake Serena","2026-07-12 06:18",33.5771656,-111.8582171,TRUE,FALSE,FALSE,"S371324757",5
-"360","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L387193","Ahakhav Tribal Preserve","2026-07-12 06:16",34.132,-114.333,TRUE,FALSE,FALSE,"S371201405",1
-"361","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L72912900","4125 E Roberts Pl, Tucson US-AZ 32.23283, -110.90382","2026-07-12 06:05",32.232828,-110.903824,TRUE,FALSE,TRUE,"S371142647",2
-"362","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L13566716","SaddleBrooke Ranch Pond and surrounding area","2026-07-12 06:05",32.5907602,-110.9196866,TRUE,FALSE,TRUE,"S371389739",2
-"363","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8359499","TBC 508_05","2026-07-12 06:04",32.2826483,-110.7311092,TRUE,FALSE,TRUE,"S371129782",1
-"364","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L2627481","Rimrock House","2026-07-12 06:00",34.6308394,-111.7931843,TRUE,FALSE,TRUE,"S372571200",2
-"365","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L47151800","5255 East Spring Road, Hereford, Arizona, US (31.39, -110.239)","2026-07-12 05:57",31.3901681,-110.2394701,TRUE,FALSE,TRUE,"S371296513",2
-"366","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8397180","West Puesta Del Sol, Whetstone","2026-07-12 05:57",31.6837898,-110.3886416,TRUE,FALSE,TRUE,"S372121459",1
-"367","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L3449842","Selleh Park","2026-07-12 05:48",33.4031251,-111.9036618,TRUE,FALSE,FALSE,"S371158754",1
-"368","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L15559321","Villas West","2026-07-12 05:48",31.8657175,-110.9982275,TRUE,FALSE,TRUE,"S371120861",2
-"369","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L70767304","T R Ranch Road, Tucson, Arizona, US (31.897, -111.306)","2026-07-12 05:46",31.8965404,-111.3055972,TRUE,FALSE,TRUE,"S371204198",3
-"370","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L602655","Agua Fria NM--Horseshoe Ford","2026-07-12 05:46",34.2572164,-112.0639801,TRUE,FALSE,FALSE,"S371284690",1
-"371","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8359500","TBC 508_06","2026-07-12 05:42",32.2817687,-110.7290091,TRUE,FALSE,TRUE,"S371117669",1
-"372","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8936302","1245 W Calzada Ct","2026-07-12 05:40",32.3458072,-110.9932477,TRUE,FALSE,TRUE,"S371234191",1
-"373","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L72343322","Oro Valley, Arizona (private yard, not exact location)","2026-07-12 05:28",32.4238665,-110.9956741,TRUE,FALSE,TRUE,"S371441280",1
-"374","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L36306718","Horseshoe Ranch","2026-07-12 05:18",34.2614849,-112.0576308,TRUE,FALSE,FALSE,"S371324659",3
-"375","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L5856370","Wind Cave Trail","2026-07-12 05:15",33.4749096,-111.6068673,TRUE,FALSE,FALSE,"S371167815",6
-"376","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73245474","85142, Queen Creek US-AZ (33.0852,-111.6883)","2026-07-12 04:59",33.085186,-111.688269,TRUE,FALSE,TRUE,"S371119556",3
-"377","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L836408","Salt River--Blue Point Recreation Area","2026-07-11 18:38",33.5554258,-111.5736944,TRUE,FALSE,FALSE,"S371171426",1
-"378","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L27661229","1730 W Thunderhill Dr, Phoenix US-AZ 33.30494, -112.09656","2026-07-11 18:06",33.304939,-112.096557,TRUE,FALSE,TRUE,"S370931026",4
-"379","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L802983","Marana River Heritage Park","2026-07-11 18:00",32.427,-111.213,TRUE,FALSE,FALSE,"S370929517",3
-"380","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L13601906","Michl Haus","2026-07-11 16:53",33.499698,-111.897622,TRUE,FALSE,TRUE,"S370908863",2
-"381","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L25543501","2102 West Legends Way, New River, Arizona, US (33.871, -112.104)","2026-07-11 16:51",33.8710415,-112.1042014,TRUE,FALSE,TRUE,"S370904799",NA
-"382","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L33401945","Moyza Ranch Rd. (TimBuckTwo)","2026-07-11 16:45",31.6467508,-111.2356083,TRUE,FALSE,TRUE,"S370917855",1
-"383","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73193496","101 E Rudasill Rd, Tucson US-AZ 32.31761, -110.97049","2026-07-11 16:24",32.317613,-110.970487,TRUE,FALSE,TRUE,"S370901157",1
-"384","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L43298298","7100–7168 S Peaceful Valley Dr, Tucson US-AZ 32.12193, -111.11520","2026-07-11 15:12",32.121926,-111.115197,TRUE,FALSE,TRUE,"S370935291",2
-"385","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L46523977","Stetson Casita","2026-07-11 12:21",32.270726,-110.752451,TRUE,FALSE,TRUE,"S370840832",1
-"386","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73174864","The Club at Starr Pass","2026-07-11 11:48",32.209642,-111.040138,TRUE,FALSE,TRUE,"S370833009",3
-"387","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L303988","Cienega Creek Preserve (permit required)","2026-07-11 11:20",32.01793,-110.6429,TRUE,FALSE,FALSE,"S370875277",4
-"388","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L4540580","Steam Pump Ranch","2026-07-11 10:45",32.4050156,-110.9499085,TRUE,FALSE,FALSE,"S370786121",1
-"389","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L40733259","Ranchos Carmela Estates","2026-07-11 09:57",31.5722179,-110.2666092,TRUE,FALSE,TRUE,"S370778356",1
-"390","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L16701528","Verde River--Access south of Box Bar & Rio Verde Ranch","2026-07-11 09:39",33.7333402,-111.6622371,TRUE,FALSE,FALSE,"S370973177",6
-"391","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L677603","Whitehouse Canyon Road","2026-07-11 09:35",31.8156935,-110.9143853,TRUE,FALSE,FALSE,"S370750622",1
-"392","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L21645220","Scottsdale--Hayden and McDonald Pond","2026-07-11 09:07",33.5249418,-111.9074726,TRUE,FALSE,FALSE,"S370771346",1
-"393","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L2045030","Ponds-Ranch Circle South and Mountain Parkway","2026-07-11 08:43",33.3080703,-111.9986683,TRUE,FALSE,TRUE,"S370723639",2
-"394","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L12701141","Chandler Blvd and 28th Street Ponds, Phoenix, Arizona, US (33.304, -112.022)","2026-07-11 08:30",33.3039115,-112.0215472,TRUE,FALSE,TRUE,"S370714158",1
-"395","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L16956971","Ajo Plaza","2026-07-11 08:20",32.3731395,-112.8622118,TRUE,FALSE,FALSE,"S370712105",4
-"396","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L21414247","Toscana Lakeside","2026-07-11 08:20",33.298245,-112.056133,TRUE,FALSE,FALSE,"S370708365",1
-"397","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73186278","Salt River, Mesa US-AZ 33.54999, -111.55702","2026-07-11 08:18",33.549987,-111.557017,TRUE,FALSE,TRUE,"S370873217",1
-"398","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L39669723","The Shoppes at La Posada","2026-07-11 08:15",31.8577947,-110.9755525,TRUE,FALSE,TRUE,"S370730197",2
-"399","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L22511758","2201 E Aire Libre Ave, Phoenix US-AZ (33.6372,-112.0344)","2026-07-11 08:10",33.63717,-112.034428,TRUE,FALSE,TRUE,"S370702408",2
-"400","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L3824246","Cochise College (Sierra Vista Campus)","2026-07-11 08:08",31.5640289,-110.2463329,TRUE,FALSE,FALSE,"S370812236",1
-"401","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L41899732","Patagonia-Sonoita Creek Preserve","2026-07-11 08:07",31.5279767,-110.7754254,TRUE,FALSE,TRUE,"S370795179",11
-"402","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L128959","San Pedro RNCA--Fairbank","2026-07-11 08:06",31.7198009,-110.1865997,TRUE,FALSE,FALSE,"S370958353",4
-"403","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L69832095","Imperial Dam Rd, Winterhaven US-CA 32.85984, -114.49387","2026-07-11 07:57",32.859842,-114.493869,TRUE,FALSE,TRUE,"S372460059",7
-"404","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73141581","6533 W El Camino Del Cerro, Tucson US-AZ (32.2873,-111.1049)","2026-07-11 07:54",32.287335,-111.104889,TRUE,FALSE,TRUE,"S370716184",3
-"405","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L270969","Catalina Regional Park--pond","2026-07-11 07:35",32.461507,-110.9046225,TRUE,FALSE,FALSE,"S370829377",3
-"406","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1103455","Finger Rock trailhead","2026-07-11 07:34",32.3361251,-110.9100842,TRUE,FALSE,TRUE,"S370683328",2
-"407","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L12162514","Roundhouse at The Boulders","2026-07-11 07:23",33.7972431,-111.9223662,TRUE,FALSE,TRUE,"S370929878",4
-"408","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L3601258","Isabella Lee Natural Preserve","2026-07-11 07:20",32.2426592,-110.7814242,TRUE,FALSE,FALSE,"S370744507",3
-"409","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L4073128","Patagonia Lake dam/spillway area","2026-07-11 07:15",31.4891873,-110.8682724,TRUE,FALSE,FALSE,"S370828067",4
-"410","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L36546881","Dad's House Oro Valley","2026-07-11 07:14",32.456091,-110.9703,TRUE,FALSE,TRUE,"S370702098",1
-"411","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L55260988","East Wilds Road, Catalina","2026-07-11 07:10",32.4745868,-110.9186987,TRUE,FALSE,TRUE,"S370916250",1
-"412","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73425776","Agua Fria National Monument, Mayer US-AZ 34.25590, -112.03851","2026-07-11 07:01",34.255896,-112.038509,TRUE,FALSE,TRUE,"S371847699",1
-"413","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L14058931","Topacios","2026-07-11 07:00",31.860249,-110.9997695,TRUE,FALSE,TRUE,"S370846600",1
-"414","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L813473","Battiste's Bird Garden","2026-07-11 07:00",31.4204234,-110.2475023,TRUE,FALSE,FALSE,"S371452095",1
-"415","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L351763","Cluff Ranch WA","2026-07-11 06:55",32.81605,-109.84935,TRUE,FALSE,FALSE,"S370679113",1
-"416","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L64340407","Pontatoc Trail--1st Mile","2026-07-11 06:53",32.3393906,-110.9048511,TRUE,FALSE,TRUE,"S370680226",4
-"417","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L30065366","South Mountain Park--Mountain Park Ranch Hiking Trail","2026-07-11 06:47",33.31943,-112.026912,TRUE,FALSE,TRUE,"S370713668",1
-"418","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L2439998","Desert Breeze Park","2026-07-11 06:41",33.312903,-111.9197041,TRUE,FALSE,FALSE,"S370686330",3
-"419","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L71949163","5947 South Moon Desert Drive, Tucson, Arizona, US","2026-07-11 06:39",32.14372,-110.7611167,TRUE,FALSE,TRUE,"S370699979",2
-"420","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L32379214","House of Payne","2026-07-11 06:26",32.261308,-111.017658,TRUE,FALSE,TRUE,"S370662166",3
-"421","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73183657","Finger Rock Trail, Tucson, Arizona, US (32.359, -110.886)","2026-07-11 06:25",32.3592147,-110.8859935,TRUE,FALSE,TRUE,"S370864003",2
-"422","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L3025079","US-AZ-Patagonia--Stage Stop Inn","2026-07-11 06:25",31.540224,-110.752837,TRUE,FALSE,TRUE,"S370652573",2
-"423","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L64340532","Pontatoc Trail--2nd Mile","2026-07-11 06:24",32.3441599,-110.8934688,TRUE,FALSE,TRUE,"S370656982",4
-"424","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L129050","Patagonia Lake State Park","2026-07-11 06:21",31.4951992,-110.8566971,TRUE,FALSE,FALSE,"S370801583",9
-"425","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L128978","Guadalupe Canyon (Hidalgo Co.)","2026-07-11 06:20",31.36212,-109.03305,TRUE,FALSE,FALSE,"S371370967",7
-"426","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L6376959","Las Cienages--HQ Discovery Trail","2026-07-11 06:09",31.785736,-110.641752,TRUE,FALSE,TRUE,"S370814904",2
-"427","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8412770","Painted Hills Trailhead (Tucson Mountains)--opened 2019","2026-07-11 06:07",32.2274879,-111.038544,TRUE,FALSE,FALSE,"S370682589",1
-"428","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73131301","Tucson Mountain Guest Ranch","2026-07-11 06:04",32.239438,-111.055671,TRUE,FALSE,TRUE,"S370677265",2
-"429","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L14034313","Francisco Highland Park","2026-07-11 06:03",33.3712695,-112.0240474,TRUE,FALSE,FALSE,"S370670280",6
-"430","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73138515","85736, Tucson US-AZ (31.8991,-111.3402)","2026-07-11 06:03",31.899101,-111.340178,TRUE,FALSE,TRUE,"S370704749",4
-"431","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L6448572","Friendship Village","2026-07-11 06:00",33.3895315,-111.8815631,TRUE,FALSE,FALSE,"S371248585",2
-"432","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73135121","Saguaro NP--East--Garwood Trail","2026-07-11 05:56",32.235109,-110.686878,TRUE,FALSE,TRUE,"S370692152",NA
-"433","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L12296120","8761 E Desert Lupine Pl, Tucson US-AZ 32.24517, -110.80541","2026-07-11 05:52",32.24517,-110.805412,TRUE,FALSE,TRUE,"S370665678",4
-"434","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73133300","Riparian Preserve at Water Ranch, Gilbert US-AZ 33.36350, -111.73440 on","2026-07-11 05:52",33.363502,-111.734402,TRUE,FALSE,TRUE,"S370685308",1
-"435","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1351145","Mission & Ajo Intersection","2026-07-11 05:48",32.1790385,-111.0017126,TRUE,FALSE,TRUE,"S370625981",1
-"436","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L5948468","Moon Valley Park","2026-07-11 05:47",33.6273485,-112.0809075,TRUE,FALSE,FALSE,"S370883784",1
-"437","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73128492","85338, Goodyear US-AZ 33.38505, -112.37663","2026-07-11 05:46",33.385052,-112.37663,TRUE,FALSE,TRUE,"S370665929",1
-"438","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L68024606","71 W 11th Street, Ajo","2026-07-11 05:37",32.3884242,-112.8601609,TRUE,FALSE,TRUE,"S370619553",2
-"439","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L248042","Las Cienegas NCA (Pima Co.)","2026-07-11 05:32",31.7726703,-110.6616783,TRUE,FALSE,FALSE,"S370767494",1
-"440","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L21408588","South Mountain Park--Mormon Trailhead","2026-07-11 05:28",33.36641,-112.030862,TRUE,FALSE,FALSE,"S370623227",5
-"441","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L72920796","Mountainview Blvd","2026-07-11 05:23",32.536046,-110.89214,TRUE,FALSE,TRUE,"S370664137",4
-"442","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L284334","Estrella Mountain Regional Park","2026-07-11 05:19",33.3844217,-112.3823583,TRUE,FALSE,FALSE,"S370665170",3
-"443","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L17840540","stakeout Golden-winged Warbler, Salt River Rec. Area (2022)","2026-07-11 05:18",33.517422,-111.674054,TRUE,FALSE,FALSE,"S370730459",2
-"444","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1429190","Tucson--Skyline Dr/Alvernon Way","2026-07-11 05:08",32.3227513,-110.9098289,TRUE,FALSE,TRUE,"S370596335",3
-"445","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L25678112","EPF house 3","2026-07-11 05:04",33.3976439,-111.9283075,TRUE,FALSE,TRUE,"S370902119",1
-"446","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L71451420","Mittry Lake Wildlife Area, Yuma US-AZ 32.82078, -114.48635","2026-07-11 04:51",32.820775,-114.486346,TRUE,FALSE,TRUE,"S372459928",7
-"447","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73081002","8455–8469 W McCain Loop Rd, Tucson US-AZ 32.22040, -111.14811","2026-07-10 19:21",32.220399,-111.148112,TRUE,FALSE,TRUE,"S370448582",1
-"448","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L768735","Harshaw Creek Road","2026-07-10 18:11",31.506978,-110.6798543,TRUE,FALSE,FALSE,"S370424652",3
-"449","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L42266954","2 miles north of downtown","2026-07-10 18:06",32.256011,-110.9681737,TRUE,FALSE,TRUE,"S372584888",1
-"450","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73044045","Saguaro Corners","2026-07-10 12:14",32.177678,-110.738443,TRUE,FALSE,TRUE,"S370305559",1
-"451","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1070018","Rock Corral Canyon","2026-07-10 11:03",31.547472,-111.0989535,TRUE,FALSE,FALSE,"S370316082",1
-"452","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L10877130","The Boulders (Restricted access)","2026-07-10 09:03",33.8014246,-111.9243526,TRUE,FALSE,TRUE,"S370235889",1
-"453","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L72533826","11331 North Chynna Rose Place, Oro Valley, Arizona, US (32.412, -111.012)","2026-07-10 08:55",32.4122783,-111.0121517,TRUE,FALSE,TRUE,"S370228281",1
-"454","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73007000","airbnb","2026-07-10 08:07",33.9530771,-112.736344,TRUE,FALSE,TRUE,"S370156991",1
-"455","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L18571446","Indian Bend Park","2026-07-10 08:06",33.4491501,-111.9188837,TRUE,FALSE,FALSE,"S370215401",1
-"456","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L190421","Chandler--416 W. McNair St, Home","2026-07-10 08:00",33.3528579,-111.8478449,TRUE,FALSE,TRUE,"S370433657",1
-"457","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L26661294","Amado Montosa Rd, Amado, AZ","2026-07-10 07:31",31.7076023,-111.0556433,TRUE,FALSE,TRUE,"S371267407",1
-"458","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L3220807","Fulton Ranch Blvd., Chandler","2026-07-10 07:30",33.2378979,-111.8459702,TRUE,FALSE,TRUE,"S370257001",1
-"459","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L6803404","CDO Wash--along Tucson National Golf Course","2026-07-10 07:23",32.356829,-111.020182,TRUE,FALSE,FALSE,"S370198981",2
-"460","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L128878","Buenos Aires NWR--Arivaca Cienega","2026-07-10 07:22",31.5735272,-111.3242853,TRUE,FALSE,FALSE,"S370256530",3
-"461","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L930389","Del Urich GC--west pond view","2026-07-10 07:10",32.2133185,-110.9178829,TRUE,FALSE,TRUE,"S370186320",2
-"462","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L18078847","210 West 2nd Avenue, Ajo","2026-07-10 07:05",32.3800019,-112.8640239,TRUE,FALSE,TRUE,"S370188743",3
-"463","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L41683910","N Nanini Dr","2026-07-10 07:00",32.330907,-110.973861,TRUE,FALSE,TRUE,"S370377343",6
-"464","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L42103751","Madison","2026-07-10 06:53",33.623561,-112.082976,TRUE,FALSE,TRUE,"S370769097",1
-"465","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L10235391","1188 YardBirds, Green Valley US-AZ (31.8562,-110.9608)","2026-07-10 06:44",31.8561598,-110.9606013,TRUE,FALSE,TRUE,"S370351665",1
-"466","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L66644848","Senator Wash Marsh","2026-07-10 06:25",32.902942,-114.484021,TRUE,FALSE,TRUE,"S370684683",5
-"467","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73413730","Sonoita Creek--Cuckoo Survey West of Town","2026-07-10 06:25",31.530199,-110.766884,TRUE,FALSE,TRUE,"S371796787",9
-"468","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L16343483","The Paton Center for Hummingbirds, Patagonia US-AZ 31.53919, -110.76055","2026-07-10 06:22",31.539192,-110.760554,TRUE,FALSE,TRUE,"S370233790",5
-"469","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L27122643","Agua Fria NM--Riverbend Recreation Area","2026-07-10 06:16",34.3205072,-112.0736897,TRUE,FALSE,FALSE,"S371847546",4
-"470","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L25922356","Holiday Inn Express, Sierra Vista","2026-07-10 06:15",31.53475,-110.259049,TRUE,FALSE,TRUE,"S370177774",1
-"471","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L20790312","The Flower Avenues","2026-07-10 06:14",32.180785,-111.1406596,TRUE,FALSE,TRUE,"S370163357",1
-"472","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1778836","home","2026-07-10 06:06",32.2886421,-111.0730675,TRUE,FALSE,TRUE,"S370156518",1
-"473","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L55435470","The Loop between Country Club and Campbell","2026-07-10 05:53",32.2812302,-110.9395082,TRUE,FALSE,TRUE,"S370174093",2
-"474","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8359883","TBC 528_03","2026-07-10 05:51",32.2628944,-110.8998778,TRUE,FALSE,TRUE,"S370151849",1
-"475","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L21728627","Mountain Creek Ranch East","2026-07-10 05:48",32.0736092,-110.6572808,TRUE,FALSE,TRUE,"S370160858",3
-"476","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L27248738","Majestic Hills Neighborhood","2026-07-10 05:47",33.310247,-112.019853,TRUE,FALSE,TRUE,"S370172483",2
-"477","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8359882","TBC 528_02","2026-07-10 05:42",32.261748,-110.8989979,TRUE,FALSE,TRUE,"S370147496",2
-"478","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L17220455","Kleinman Park","2026-07-10 05:27",33.400844,-111.851216,TRUE,FALSE,FALSE,"S370169170",1
-"479","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8359881","TBC 528_01","2026-07-10 05:27",32.26025,-110.90041,TRUE,FALSE,TRUE,"S370141251",3
-"480","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L25835839","Mission Wash","2026-07-10 04:39",32.8335137,-114.5437874,TRUE,TRUE,FALSE,"S370320172",13
-"481","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L10026105","George Ditch","2026-07-09 19:28",33.4129771,-111.9348324,TRUE,FALSE,FALSE,"S370492359",1
-"482","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L6931264","15939 West Monroe Street, Goodyear, Arizona, US (33.449, -112.402)","2026-07-09 16:44",33.4485691,-112.402014,TRUE,FALSE,TRUE,"S369953634",5
-"483","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L128986","San Pedro RNCA--Hereford Bridge","2026-07-09 13:57",31.4384285,-110.1076526,TRUE,FALSE,FALSE,"S369926760",3
-"484","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L23558258","273 camino Panama","2026-07-09 13:02",31.489506,-110.991979,TRUE,FALSE,TRUE,"S369912091",1
-"485","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8346460","Griffin Riley Home","2026-07-09 10:40",33.7281594,-111.7343015,TRUE,FALSE,TRUE,"S369897560",3
-"486","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L40220110","Retina Specialists Parking Lot Area","2026-07-09 09:53",32.2641488,-110.8909595,TRUE,FALSE,TRUE,"S369836924",6
-"487","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L26325201","Salero Ranch, 61 Cougar Pass Rd, Santa Cruz Co","2026-07-09 08:18",31.577165,-110.853891,TRUE,FALSE,TRUE,"S369828313",1
-"488","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L21454129","G. R. Herberger Park","2026-07-09 07:51",33.490802,-111.9566649,TRUE,FALSE,FALSE,"S369791084",2
-"489","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L45929440","stakeout Rose-throated Becard, Harshaw Creek Rd (2025)","2026-07-09 07:33",31.5162598,-110.6928891,TRUE,FALSE,FALSE,"S369886693",1
-"490","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1035985","Mission Garden","2026-07-09 07:07",32.2134183,-110.9871268,TRUE,FALSE,FALSE,"S369817293",2
-"491","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L128977","Green Valley WRF (park outside fence, walk in only)","2026-07-09 06:44",31.899334,-110.9695026,TRUE,FALSE,FALSE,"S369775935",1
-"492","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L129074","Saguaro NP--West--Tucson Mountains Unit","2026-07-09 06:40",32.2812996,-111.178299,TRUE,FALSE,FALSE,"S370376192",8
-"493","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L73059907","4100 N Romero Rd, Tucson US-AZ 32.28204, -111.00284","2026-07-09 06:36",32.282038,-111.002845,TRUE,FALSE,TRUE,"S370364616",1
-"494","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L24511634","South side Nature trail at Page Springs Fish Hatchery","2026-07-09 06:32",34.759513,-111.890644,TRUE,FALSE,TRUE,"S369971940",1
-"495","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L27874838","myLocation","2026-07-09 06:23",33.5284708,-112.0954492,TRUE,FALSE,TRUE,"S369758156",1
-"496","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L18726082","Vista Canyon Park","2026-07-09 06:19",33.3000089,-112.0194405,TRUE,FALSE,FALSE,"S369754291",1
-"497","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L7352043","Griffin Riley home","2026-07-09 06:15",33.728114,-111.7342576,TRUE,FALSE,TRUE,"S369810566",3
-"498","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8523547","White Tanks--Goat Camp Trail","2026-07-09 05:49",33.568719,-112.505439,TRUE,FALSE,FALSE,"S369779503",4
-"499","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L51567394","Paseo Trail--Ocotillo Rd to Chandler Heights Rd","2026-07-09 05:44",33.239776,-111.830836,TRUE,FALSE,FALSE,"S369762345",3
-"500","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L18507299","Saguaro NP--West--Valley View Overlook Trail","2026-07-09 05:25",32.2770486,-111.197789,TRUE,FALSE,FALSE,"S370373358",6
-"501","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L71451207","Mittry Lake Wildlife Area, Yuma US-AZ 32.87394, -114.46432","2026-07-09 04:37",32.873941,-114.464319,TRUE,FALSE,TRUE,"S370319765",8
-"502","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L31566719","Front Yard","2026-07-08 16:54",33.602729,-112.157129,TRUE,FALSE,TRUE,"S369940641",1
-"503","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L290792","Tucson Bird Alliance Office","2026-07-08 13:00",32.2315386,-110.9668535,TRUE,FALSE,FALSE,"S369944633",1
-"504","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L72840749","2nd home","2026-07-08 10:21",32.2049179,-110.8646545,TRUE,FALSE,TRUE,"S369486896",4
-"505","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L72865106","Patagonia Lake State Park, Nogales US-AZ 31.49360, -110.85787","2026-07-08 10:20",31.493601,-110.857872,TRUE,FALSE,TRUE,"S369522104",1
-"506","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8360017","TBC 536_07","2026-07-08 09:47",32.4299064,-110.9267541,TRUE,FALSE,TRUE,"S369430325",1
-"507","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8360016","TBC 536_06","2026-07-08 09:24",32.4246703,-110.9203872,TRUE,FALSE,TRUE,"S369430561",2
-"508","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L32076143","Corbell Park","2026-07-08 09:11",33.3519509,-111.9210308,TRUE,FALSE,FALSE,"S369401891",2
-"509","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8360011","TBC 536_01","2026-07-08 08:46",32.4262312,-110.9076114,TRUE,FALSE,TRUE,"S369431710",2
-"510","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L25489253","Harter Park","2026-07-08 08:01",33.3135249,-111.9029748,TRUE,FALSE,FALSE,"S369391421",1
-"511","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8359866","TBC 525_25","2026-07-08 07:47",32.2308075,-110.6827789,TRUE,FALSE,TRUE,"S369359283",1
-"512","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8360014","TBC 536_04","2026-07-08 07:45",32.4207381,-110.9086912,TRUE,FALSE,TRUE,"S369431016",1
-"513","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L830862","Surprise Community Park","2026-07-08 07:37",33.6297356,-112.3752558,TRUE,FALSE,FALSE,"S369360386",1
-"514","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8359867","TBC 525_26","2026-07-08 07:31",32.2322913,-110.6773395,TRUE,FALSE,TRUE,"S369353383",1
-"515","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L72850349","E Box Canyon Rd, Sonoita US-AZ 31.78606, -110.86438","2026-07-08 07:21",31.786063,-110.864382,TRUE,FALSE,TRUE,"S369459942",1
-"516","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L52217633","Rincon Heights Neighborhood","2026-07-08 07:15",32.223794,-110.950153,TRUE,FALSE,TRUE,"S369944152",3
-"517","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L45886156","OrangeTheory - Ahwatukee","2026-07-08 07:15",33.318423,-111.968938,TRUE,FALSE,TRUE,"S369402006",1
-"518","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8359783","TBC 525_23","2026-07-08 07:12",32.223631,-110.6846292,TRUE,FALSE,TRUE,"S369351107",5
-"519","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L9049329","TBC 536 Supp.","2026-07-08 07:11",32.4267559,-110.916705,TRUE,FALSE,TRUE,"S369433583",1
-"520","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L29139420","1 N Prison Hill Rd, Yuma US-AZ 32.72693, -114.61353","2026-07-08 07:07",32.726931,-114.613534,TRUE,FALSE,TRUE,"S369381474",2
-"521","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L72820266","9141 E Ocotillo Dr, Tucson US-AZ 32.30138, -110.79722","2026-07-08 06:57",32.301384,-110.797222,TRUE,FALSE,TRUE,"S369338247",1
-"522","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8359778","TBC 525_18","2026-07-08 06:52",32.2189464,-110.6872454,TRUE,FALSE,TRUE,"S369340563",4
-"523","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L39084486","Sweetwater Preserve, Tucson US-AZ 32.27750, -111.06342","2026-07-08 06:50",32.277503,-111.063418,TRUE,FALSE,TRUE,"S369354732",3
-"524","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L72818901","Purple Heart Trail, Yucca, Arizona, US (34.742, -114.24)","2026-07-08 06:46",34.7424826,-114.2400589,TRUE,FALSE,TRUE,"S369332065",1
-"525","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L72876590","Usery Mountain Regional Park Nature Center 3939 N Usery Pass Rd","2026-07-08 06:40",33.4808472,-111.6208738,TRUE,FALSE,TRUE,"S369989060",1
-"526","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L72829939","65668 East Rocky Path Drive, Tucson, Arizona, US (32.544, -110.865)","2026-07-08 06:40",32.5444463,-110.8652247,TRUE,FALSE,TRUE,"S369379281",1
-"527","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1091644","La Posta Quemada Ranch","2026-07-08 06:36",32.0512984,-110.6363797,TRUE,FALSE,FALSE,"S369456605",6
-"528","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L48932817","Pink Hill Trail, Tucson US-AZ 32.22117, -110.71982","2026-07-08 06:32",32.221175,-110.719822,TRUE,FALSE,TRUE,"S369365161",4
-"529","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L72820916","SL’s Place","2026-07-08 06:30",33.245063,-111.802914,TRUE,FALSE,TRUE,"S369341162",1
-"530","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L17853923","There 2, Brawley, California, US (32.982, -115.546)","2026-07-08 06:21",32.981865,-115.5464885,TRUE,FALSE,TRUE,"S369335157",1
-"531","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8359777","TBC 525_17","2026-07-08 06:17",32.2189747,-110.6988975,TRUE,FALSE,TRUE,"S369324850",5
-"532","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L72825298","5000 E Via Estancia Miraval, Tucson US-AZ 32.50763, -110.88471","2026-07-08 06:07",32.507626,-110.884715,TRUE,FALSE,TRUE,"S369360321",2
-"533","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L6718077","3 Canyons Ranch West of Deer Ridge (gated comm)","2026-07-08 05:53",31.4091589,-110.2040644,TRUE,FALSE,TRUE,"S369450873",2
-"534","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8359781","TBC 525_21","2026-07-08 05:51",32.2278495,-110.6941984,TRUE,FALSE,TRUE,"S369316840",2
-"535","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L25017936","Sonoita, Arizona, US (31.814, -110.592)","2026-07-08 05:48",31.8138528,-110.5916551,TRUE,FALSE,TRUE,"S369330821",2
-"536","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8359782","TBC 525_22","2026-07-08 05:33",32.228636,-110.6911604,TRUE,FALSE,TRUE,"S369302001",1
-"537","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1085016","Mission Manor Park","2026-07-08 05:33",32.1445862,-110.979681,TRUE,FALSE,FALSE,"S369345669",5
-"538","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L2600811","Ramsey Canyon Rd--mesquite/grassland habitat","2026-07-08 05:29",31.4672839,-110.2776906,TRUE,FALSE,FALSE,"S369315573",2
-"539","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8359784","TBC 525_24","2026-07-08 05:17",32.2336786,-110.6910159,TRUE,FALSE,TRUE,"S369294549",1
-"540","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L331921","Salt River--Phon D. Sutton Recreation Area","2026-07-08 05:10",33.54611,-111.65944,TRUE,FALSE,FALSE,"S369374433",4
-"541","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L22673897","New River property","2026-07-07 18:49",33.8973985,-112.0535271,TRUE,FALSE,TRUE,"S369155521",5
-"542","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L20499982","La Reserve","2026-07-07 16:21",32.3993947,-110.9446924,TRUE,FALSE,TRUE,"S369719188",2
-"543","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L72782504","85736, Tucson US-AZ 31.82128, -111.34943","2026-07-07 15:16",31.821284,-111.349425,TRUE,FALSE,TRUE,"S369153801",8
-"544","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L71896954","6140 N Calle de la Culebra, Tucson US-AZ (32.3183,-110.9467)","2026-07-07 12:35",32.318347,-110.946737,TRUE,FALSE,TRUE,"S369058829",1
-"545","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L72755440","357 Sonoita Avenue, Patagonia, Arizona, US (31.541, -110.756)","2026-07-07 11:34",31.5405802,-110.7556096,TRUE,FALSE,TRUE,"S369039906",5
-"546","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L72757877","Tonto National Forest, Rio Verde US-AZ 33.73610, -111.65642","2026-07-07 11:07",33.7361,-111.656418,TRUE,FALSE,TRUE,"S369049211",1
-"547","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L10515755","Power Ranch--North Pond","2026-07-07 11:00",33.2848822,-111.6987517,TRUE,FALSE,FALSE,"S369176645",1
-"548","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L56839939","Gila Box--White Rock Canyon confluence (Grant Co.)","2026-07-07 10:45",32.634661,-108.852707,TRUE,FALSE,FALSE,"S369310064",4
-"549","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L18187183","Saguaro NP--East--Cactus Forest Overlook","2026-07-07 09:38",32.198267,-110.735012,TRUE,FALSE,FALSE,"S369471542",2
-"550","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L72746552","170 Harshaw Creek Road, Patagonia, Arizona, US (31.516, -110.685)","2026-07-07 09:21",31.5159543,-110.6852053,TRUE,FALSE,TRUE,"S369004304",1
-"551","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L340562","Montezuma Castle NM","2026-07-07 09:06",34.6116667,-111.8391667,TRUE,FALSE,FALSE,"S368997496",1
-"552","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L72732661","OGMS","2026-07-07 08:12",32.32621,-110.941827,TRUE,FALSE,TRUE,"S368957639",1
-"553","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L623666","Senator Wash Reservoir","2026-07-07 07:41",32.9067338,-114.4802499,TRUE,FALSE,FALSE,"S368958811",2
-"554","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L10783458","Kate’s Place Petirrojo, Green Valley US-AZ 31.81442, -111.01367","2026-07-07 07:29",31.814398,-111.0136164,TRUE,FALSE,TRUE,"S368952630",1
-"555","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L1396778","Tucson--Atturbury Wash S of Lakeside Park","2026-07-07 07:19",32.1830644,-110.8157989,TRUE,FALSE,TRUE,"S368941557",2
-"556","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8359773","TBC 525_12","2026-07-07 07:17",32.2096803,-110.713423,TRUE,FALSE,TRUE,"S368936814",1
-"557","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8359775","TBC 525_15","2026-07-07 06:59",32.2121232,-110.7086508,TRUE,FALSE,TRUE,"S368931172",1
-"558","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L63738341","22450–22698 S Suizo Rd, Tucson US-AZ 32.66682, -111.08518","2026-07-07 06:48",32.66682,-111.085176,TRUE,FALSE,TRUE,"S368993465",3
-"559","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8359776","TBC 525_16","2026-07-07 06:31",32.21765,-110.7072006,TRUE,FALSE,TRUE,"S368917282",3
-"560","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L2891001","Ajo Community Golf Course","2026-07-07 06:31",32.4499385,-112.850318,TRUE,FALSE,FALSE,"S368961295",15
-"561","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8359779","TBC 525_19","2026-07-07 06:17",32.2228318,-110.7048067,TRUE,FALSE,TRUE,"S368911500",3
-"562","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L29226485","Liberty Bell Park","2026-07-07 06:08",33.8492588,-112.1000684,TRUE,FALSE,FALSE,"S369026987",3
-"563","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8359780","TBC 525_20","2026-07-07 06:08",32.225127,-110.7064443,TRUE,FALSE,TRUE,"S368909357",1
-"564","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L44833508","Hill Farms (Restricted Access)","2026-07-07 06:06",32.263148,-110.8813126,TRUE,FALSE,TRUE,"S368953936",5
-"565","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L5772402","Gila River--Nichols Canyon confluence (NMSLO)","2026-07-07 06:06",32.653555,-108.840233,TRUE,FALSE,FALSE,"S369308525",3
-"566","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L367115","Eldorado Park","2026-07-07 05:56",33.4701843,-111.9160938,TRUE,FALSE,FALSE,"S368940090",4
-"567","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L64456191","Sweetwater Wetlands","2026-07-07 05:35",32.278474,-111.024209,TRUE,FALSE,TRUE,"S368939991",1
-"568","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L8359774","TBC 525_13","2026-07-07 05:34",32.2189184,-110.7175222,TRUE,FALSE,TRUE,"S368903056",2
-"569","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L72731409","Brown Canyon Ranch Trail, Sierra Vista US-AZ 31.46581, -110.29260","2026-07-07 05:24",31.465806,-110.292596,TRUE,FALSE,TRUE,"S368941307",2
-"570","gilwoo","Gila Woodpecker","Melanerpes uropygialis","L821296","Vista Del Prado Park","2026-07-07 05:22",32.1839122,-110.8460212,TRUE,FALSE,FALSE,"S368889005",2
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
+"1","virrai","Virginia Rail","Rallus limicola","L11228598","Marlboro Ave, cattails","2026-07-17 17:59",1,40.9721516,-81.2123017,TRUE,FALSE,TRUE,"S373269806"
+"2","virrai","Virginia Rail","Rallus limicola","L272172","Missisquoi NWR--Stephen Young Marsh","2026-07-17 16:22",2,44.9537903,-73.2070595,TRUE,FALSE,FALSE,"S373259678"
+"3","virrai","Virginia Rail","Rallus limicola","L518674","Hile School Rd. wetland, Dryden","2026-07-17 14:51",1,42.5329115,-76.3534811,TRUE,FALSE,FALSE,"S373243984"
+"4","virrai","Virginia Rail","Rallus limicola","L292857","Kah Tai Lagoon","2026-07-17 13:43",2,48.1114603,-122.7781165,TRUE,FALSE,FALSE,"S373259360"
+"5","virrai","Virginia Rail","Rallus limicola","L299647","Lincoln Point","2026-07-17 12:49",3,40.1456645,-111.8063121,TRUE,FALSE,FALSE,"S373249251"
+"6","virrai","Virginia Rail","Rallus limicola","L4021198","Chambers Creek Regional Park","2026-07-17 12:16",2,47.2006984,-122.5778787,TRUE,FALSE,FALSE,"S373284096"
+"7","virrai","Virginia Rail","Rallus limicola","L165376","Delta Park IBA","2026-07-17 12:09",1,44.5333652,-73.2777677,TRUE,FALSE,FALSE,"S373193503"
+"8","virrai","Virginia Rail","Rallus limicola","L592967","Ridgefield NWR--River 'S' Unit","2026-07-17 12:02",2,45.7990694,-122.7490082,TRUE,FALSE,FALSE,"S373247098"
+"9","virrai","Virginia Rail","Rallus limicola","L73747216","Cornwall Creek at Osmun Road","2026-07-17 11:50",1,45.1423263,-84.5612986,TRUE,FALSE,TRUE,"S373232218"
+"10","virrai","Virginia Rail","Rallus limicola","L1399884","Bay Point Regional Shoreline","2026-07-17 11:45",2,38.0426832,-121.9660856,TRUE,FALSE,FALSE,"S373248510"
+"11","virrai","Virginia Rail","Rallus limicola","L5987280","Crooked River Wetlands Complex","2026-07-17 11:20",3,44.3165109,-120.897857,TRUE,FALSE,FALSE,"S373233678"
+"12","virrai","Virginia Rail","Rallus limicola","L829557","Hawley Cove Park","2026-07-17 11:01",1,47.626999,-122.5036848,TRUE,FALSE,FALSE,"S373232999"
+"13","virrai","Virginia Rail","Rallus limicola","L901766","Billy Frank Jr. Nisqually NWR--Twin Barns Loop","2026-07-17 10:59",1,47.0780133,-122.7119207,TRUE,FALSE,FALSE,"S373238332"
+"14","virrai","Virginia Rail","Rallus limicola","L686411","Wood River Wetland","2026-07-17 10:58",2,42.5807466,-121.9327068,TRUE,FALSE,FALSE,"S373251157"
+"15","virrai","Virginia Rail","Rallus limicola","L19335562","Fort Saybrook Monument Park","2026-07-17 10:44",2,41.2847733,-72.3517968,TRUE,FALSE,FALSE,"S373136256"
+"16","virrai","Virginia Rail","Rallus limicola","L207439","Ipswich River Wildlife Sanctuary (Mass Audubon)","2026-07-17 10:42",1,42.6317644,-70.9208532,TRUE,FALSE,FALSE,"S373185980"
+"17","virrai","Virginia Rail","Rallus limicola","L14563608","35th Street Marsh","2026-07-17 10:24",1,44.6123885,-124.0424505,TRUE,FALSE,FALSE,"S373188956"
+"18","virrai","Virginia Rail","Rallus limicola","L5865277","Sea Summit trails","2026-07-17 10:06",1,33.4359837,-117.6329803,TRUE,FALSE,FALSE,"S373200381"
+"19","virrai","Virginia Rail","Rallus limicola","L3786091","Round Lake Preserve (Saratoga Co.)","2026-07-17 09:51",1,42.9274492,-73.771002,TRUE,FALSE,FALSE,"S373155004"
+"20","virrai","Virginia Rail","Rallus limicola","L14992916","North Branch Wetlands (Kempton)","2026-07-17 09:37",1,39.203877,-79.475123,TRUE,FALSE,FALSE,"S373144561"
+"21","virrai","Virginia Rail","Rallus limicola","L5988406","Fern Ridge WMA--Fisher Butte Unit north (dikes around Pond 4, 5, 6, and west edge of 3)","2026-07-17 09:27",2,44.0667313,-123.263855,TRUE,FALSE,FALSE,"S373203931"
+"22","virrai","Virginia Rail","Rallus limicola","L73751237","National Forest Development Mid-Point Of Gravel Road, Ruby Valley, Nevada","2026-07-17 09:25",1,40.3227527,-115.5033223,TRUE,FALSE,TRUE,"S373243795"
+"23","virrai","Virginia Rail","Rallus limicola","L3406540","Market Lake WMA--General","2026-07-17 09:18",6,43.7808238,-112.146163,TRUE,FALSE,FALSE,"S373150742"
+"24","virrai","Virginia Rail","Rallus limicola","L603712","Mentor Marsh State Nature Preserve--Wake Robin","2026-07-17 09:12",3,41.7297856,-81.3189554,TRUE,FALSE,FALSE,"S373115678"
+"25","virrai","Virginia Rail","Rallus limicola","L18291931","160 Little Basin Creek Road, Butte, Montana, US (45.958, -112.552)","2026-07-17 09:07",1,45.9582686,-112.5522266,TRUE,FALSE,TRUE,"S373151965"
+"26","virrai","Virginia Rail","Rallus limicola","L5094073","Cross Creek Regional Park","2026-07-17 09:01",1,38.7130677,-104.6855476,TRUE,FALSE,FALSE,"S373140821"
+"27","virrai","Virginia Rail","Rallus limicola","L13853712","Snowberry Pond","2026-07-17 08:58",1,48.690494,-122.935363,TRUE,FALSE,TRUE,"S373164825"
+"28","virrai","Virginia Rail","Rallus limicola","L73717440","8514 US-51, Minocqua US-WI (45.8757,-89.7039)","2026-07-17 08:54",1,45.875713,-89.703891,TRUE,FALSE,TRUE,"S373113272"
+"29","virrai","Virginia Rail","Rallus limicola","L73719399","Schwerin Williams parking lot","2026-07-17 08:53",1,45.875743,-89.70378,TRUE,FALSE,TRUE,"S373121935"
+"30","virrai","Virginia Rail","Rallus limicola","L282253","Billy Frank Jr. Nisqually NWR","2026-07-17 08:45",1,47.0812514,-122.7180576,TRUE,FALSE,FALSE,"S373198185"
+"31","virrai","Virginia Rail","Rallus limicola","L92448","Edwin B. Forsythe NWR--Wildlife Drive (8-mile auto tour loop only)","2026-07-17 08:45",3,39.464298,-74.417612,TRUE,FALSE,FALSE,"S373218340"
+"32","virrai","Virginia Rail","Rallus limicola","L1441287","Russell Bird Sanctuary","2026-07-17 08:42",2,42.5866954,-71.4732347,TRUE,FALSE,FALSE,"S373202877"
+"33","virrai","Virginia Rail","Rallus limicola","L500033","Prescott WTP (Restricted Access)","2026-07-17 08:41",1,34.6580632,-112.4044704,TRUE,FALSE,FALSE,"S373150123"
+"34","virrai","Virginia Rail","Rallus limicola","L1280089","Pescadero Marsh and Natural Preserve--(South Marsh) trail systems from Pescadero Creek Rd. access","2026-07-17 08:35",1,37.2595835,-122.4114737,TRUE,FALSE,FALSE,"S373200555"
+"35","virrai","Virginia Rail","Rallus limicola","L73731503","Furbish Marsh","2026-07-17 08:30",1,43.282631,-70.581991,TRUE,FALSE,TRUE,"S373169786"
+"36","virrai","Virginia Rail","Rallus limicola","L487048","Fern Ridge WMA--Royal Ave. area (general)","2026-07-17 08:28",1,44.0705825,-123.2574606,TRUE,FALSE,FALSE,"S373184436"
+"37","virrai","Virginia Rail","Rallus limicola","L73725987","Fitz Ln, Fallon US-NV 39.51783, -118.55665","2026-07-17 08:22",1,39.517832,-118.556648,TRUE,FALSE,TRUE,"S373148347"
+"38","virrai","Virginia Rail","Rallus limicola","L4586539","Russell-Abbott SF, Wilton/Mason","2026-07-17 08:20",1,42.7888915,-71.7581481,TRUE,FALSE,FALSE,"S373185516"
+"39","virrai","Virginia Rail","Rallus limicola","L9439634","Wayne MacCallum Wildlife Management Area","2026-07-17 08:16",1,42.29368,-71.6350793,TRUE,FALSE,FALSE,"S373111685"
+"40","virrai","Virginia Rail","Rallus limicola","L876716","Bosque del Apache NWR--South Loop ONLY (formerly Marsh Loop)","2026-07-17 08:04",5,33.7831424,-106.8928528,TRUE,FALSE,FALSE,"S373140652"
+"41","virrai","Virginia Rail","Rallus limicola","L11002552","Woodland Regional Park Preserve","2026-07-17 08:04",1,38.64209,-121.7254663,TRUE,FALSE,FALSE,"S373156464"
+"42","virrai","Virginia Rail","Rallus limicola","L109133","Edwin B. Forsythe NWR (formerly Brig)","2026-07-17 07:35",1,39.465,-74.4477778,TRUE,FALSE,FALSE,"S373211211"
+"43","virrai","Virginia Rail","Rallus limicola","L8781273","Hindman Springs","2026-07-17 07:30",2,44.3228076,-121.5198986,TRUE,FALSE,FALSE,"S373179807"
+"44","virrai","Virginia Rail","Rallus limicola","L724627","Crex Meadows SWA--Phantom Lake Rd.","2026-07-17 07:25",3,45.8089696,-92.6506985,TRUE,FALSE,FALSE,"S373130548"
+"45","virrai","Virginia Rail","Rallus limicola","L158589","Lake Helena WMA","2026-07-17 07:21",2,46.701945,-111.9576446,TRUE,FALSE,FALSE,"S373235147"
+"46","virrai","Virginia Rail","Rallus limicola","L208284","Great Meadows NWR--Concord Unit","2026-07-17 07:19",4,42.4751409,-71.3295084,TRUE,FALSE,FALSE,"S373142063"
+"47","virrai","Virginia Rail","Rallus limicola","L6104780","Mill Race Path--Booth Kelly Trailhead & ponds","2026-07-17 07:02",2,44.0426035,-123.0117509,TRUE,FALSE,FALSE,"S373213586"
+"48","virrai","Virginia Rail","Rallus limicola","L337164","McNary NWR--Headquarters/Quail Trail","2026-07-17 06:54",1,46.2014931,-118.9934768,TRUE,FALSE,FALSE,"S373152777"
+"49","virrai","Virginia Rail","Rallus limicola","L57035830","Piute Ponds (permit required) (CA Atlas - Rosamond Lake CW)","2026-07-17 06:51",6,34.797161,-118.117435,TRUE,FALSE,FALSE,"S373206940"
+"50","virrai","Virginia Rail","Rallus limicola","L162766","Union Bay Natural Area/Montlake Fill","2026-07-17 06:45",2,47.65424,-122.29137,TRUE,FALSE,FALSE,"S373213267"
+"51","virrai","Virginia Rail","Rallus limicola","L1573369","Knox Wetland","2026-07-17 06:45",1,42.6716667,-74.1275414,TRUE,FALSE,FALSE,"S373081452"
+"52","virrai","Virginia Rail","Rallus limicola","L1769655","Airport Rd., Swanzey","2026-07-17 06:30",1,42.8974579,-72.2757906,TRUE,FALSE,FALSE,"S373183344"
+"53","virrai","Virginia Rail","Rallus limicola","L766976","Essex Woods","2026-07-17 06:30",1,44.8233275,-68.7654391,TRUE,FALSE,FALSE,"S373123787"
+"54","virrai","Virginia Rail","Rallus limicola","L73681256","US-395, Paisley US-OR 42.68259, -120.16256","2026-07-17 06:28",8,42.682592,-120.162562,TRUE,FALSE,TRUE,"S373220197"
+"55","virrai","Virginia Rail","Rallus limicola","L901002","Hunter's Hot Springs","2026-07-17 06:24",1,42.2199686,-120.3677344,TRUE,FALSE,FALSE,"S373112848"
+"56","virrai","Virginia Rail","Rallus limicola","L6481317","Eagle Trail","2026-07-17 06:23",1,40.0802222,-105.2362776,TRUE,FALSE,FALSE,"S373242828"
+"57","virrai","Virginia Rail","Rallus limicola","L298015","Old Cedar Ave. Bridge","2026-07-17 06:17",2,44.8306236,-93.2436534,TRUE,FALSE,FALSE,"S373068069"
+"58","virrai","Virginia Rail","Rallus limicola","L450424","Riverbend Ponds Natural Area","2026-07-17 06:00",5,40.5728595,-105.0278807,TRUE,FALSE,FALSE,"S373128371"
+"59","virrai","Virginia Rail","Rallus limicola","L207348","Belle Isle Marsh","2026-07-17 05:59",1,42.3910639,-70.9930195,TRUE,FALSE,FALSE,"S373091240"
+"60","virrai","Virginia Rail","Rallus limicola","L294962","Montezuma (NMWMA)--Railroad Rd. Marshes","2026-07-17 05:58",1,43.0572241,-76.7246532,TRUE,FALSE,FALSE,"S373097121"
+"61","virrai","Virginia Rail","Rallus limicola","L1871151","Tres Rios Overbank Wetlands (permit required)","2026-07-17 05:48",1,33.389402,-112.2597653,TRUE,FALSE,FALSE,"S373205801"
+"62","virrai","Virginia Rail","Rallus limicola","L207458","Stony Brook Wildlife Sanctuary (Mass Audubon)","2026-07-17 05:30",1,42.1081717,-71.3191637,TRUE,FALSE,FALSE,"S373145582"
+"63","virrai","Virginia Rail","Rallus limicola","L577740","San Elijo Lagoon--east","2026-07-17 05:26",1,33.0112764,-117.2520982,TRUE,FALSE,FALSE,"S373108638"
+"64","virrai","Virginia Rail","Rallus limicola","L4560052","Wetlands, Upper Woods Rd.","2026-07-17 05:20",3,41.787907,-75.295956,TRUE,FALSE,TRUE,"S373096923"
+"65","virrai","Virginia Rail","Rallus limicola","L448189","Scarborough Marsh--Eastern Trail","2026-07-17 05:16",1,43.5649691,-70.3639502,TRUE,FALSE,FALSE,"S373065125"
+"66","virrai","Virginia Rail","Rallus limicola","L789043","Pacheco Marsh--Pt. Edith Trail (TransMontaigne Pipeline Trail)","2026-07-16 19:43",2,38.0309084,-122.0878469,TRUE,FALSE,FALSE,"S372948580"
+"67","virrai","Virginia Rail","Rallus limicola","L661934","Pearrygin Lake SP","2026-07-16 19:19",1,48.4927198,-120.1521492,TRUE,FALSE,FALSE,"S372948436"
+"68","virrai","Virginia Rail","Rallus limicola","L1472417","Reeds Marsh WMA, Orford","2026-07-16 18:44",1,43.8887769,-72.1516797,TRUE,FALSE,FALSE,"S372936437"
+"69","virrai","Virginia Rail","Rallus limicola","L232479","Juanita Bay Park","2026-07-16 18:19",1,47.6981686,-122.2101878,TRUE,FALSE,FALSE,"S372938143"
+"70","virrai","Virginia Rail","Rallus limicola","L2396926","Alamosa NWR--Auto Tour Route","2026-07-16 17:34",8,37.4385003,-105.8016819,TRUE,FALSE,FALSE,"S372919219"
+"71","virrai","Virginia Rail","Rallus limicola","L73676353","Neal Marsh, Gurnee US-IL 42.39705, -87.92925","2026-07-16 16:40",1,42.397053,-87.929246,TRUE,FALSE,TRUE,"S372923551"
+"72","virrai","Virginia Rail","Rallus limicola","L11182707","Safe Harbor Marsh","2026-07-16 15:55",1,47.7799073,-114.1485319,TRUE,FALSE,FALSE,"S372914441"
+"73","virrai","Virginia Rail","Rallus limicola","L35996588","Any Flat","2026-07-16 15:02",1,48.720108,-114.877328,TRUE,FALSE,TRUE,"S373224052"
+"74","virrai","Virginia Rail","Rallus limicola","L29554645","Boreas River Loop Trail","2026-07-16 14:13",1,43.8913625,-74.0147715,TRUE,FALSE,FALSE,"S372918574"
+"75","virrai","Virginia Rail","Rallus limicola","L1767830","Prairie WMA","2026-07-16 13:54",2,45.336793,-96.3799962,TRUE,FALSE,FALSE,"S372847983"
+"76","virrai","Virginia Rail","Rallus limicola","L17923595","Lindon Marina","2026-07-16 12:53",1,40.3277782,-111.766746,TRUE,FALSE,FALSE,"S372858116"
+"77","virrai","Virginia Rail","Rallus limicola","L2941082","Columbia Land Trust - Walluski North Natural Area","2026-07-16 12:34",1,46.1325686,-123.7775581,TRUE,FALSE,TRUE,"S372866746"
+"78","virrai","Virginia Rail","Rallus limicola","L267814","Montezuma NWR--Wildlife Drive","2026-07-16 12:06",1,42.9817483,-76.7353284,TRUE,FALSE,FALSE,"S372809262"
+"79","virrai","Virginia Rail","Rallus limicola","L564832","High Ridge WMA--Smith St. Entrance","2026-07-16 12:05",1,42.586171,-71.953454,TRUE,FALSE,FALSE,"S372883758"
+"80","virrai","Virginia Rail","Rallus limicola","L62643785","Big Dry Creek Trail and Retention Pond (stakeout White Ibis, Apr 2026)","2026-07-16 11:34",1,39.868397,-105.210311,TRUE,FALSE,FALSE,"S372821594"
+"81","virrai","Virginia Rail","Rallus limicola","L73664807","Island beach state park","2026-07-16 11:00",1,39.9075365,-74.078642,TRUE,FALSE,TRUE,"S372878472"
+"82","virrai","Virginia Rail","Rallus limicola","L1472846","Cobbosseecontee Lake Causeway","2026-07-16 10:31",1,44.2152131,-69.9661325,TRUE,FALSE,FALSE,"S372766123"
+"83","virrai","Virginia Rail","Rallus limicola","L250091","Theler Wetlands","2026-07-16 10:16",2,47.4378813,-122.8411134,TRUE,FALSE,FALSE,"S372844570"
+"84","virrai","Virginia Rail","Rallus limicola","L766832","Channel Drive","2026-07-16 10:15",1,48.4400773,-122.4980307,TRUE,FALSE,FALSE,"S372925520"
+"85","virrai","Virginia Rail","Rallus limicola","L159723","Ken Euers Nature Area","2026-07-16 09:57",1,44.55768,-88.03675,TRUE,FALSE,FALSE,"S372781632"
+"86","virrai","Virginia Rail","Rallus limicola","L4526500","Partridge Point","2026-07-16 09:39",3,45.0080013,-83.4386516,TRUE,FALSE,FALSE,"S372857833"
+"87","virrai","Virginia Rail","Rallus limicola","L832172","Surprise Valley Rd.--north","2026-07-16 09:39",5,41.9592348,-120.0294757,TRUE,FALSE,FALSE,"S372943485"
+"88","virrai","Virginia Rail","Rallus limicola","L64063243","Wagon Bend Road Marsh","2026-07-16 09:33",1,40.338788,-105.081724,TRUE,FALSE,TRUE,"S372784120"
+"89","virrai","Virginia Rail","Rallus limicola","L1370796","Orweiler Rd. Marsh","2026-07-16 09:26",1,40.7257871,-82.6546955,TRUE,FALSE,FALSE,"S372939115"
+"90","virrai","Virginia Rail","Rallus limicola","L506711","LeBarron Point ","2026-07-16 09:18",2,40.0436655,-111.8778026,TRUE,FALSE,FALSE,"S372873319"
+"91","virrai","Virginia Rail","Rallus limicola","L2146581","Hopland Research and Extension Center (Restricted Access)","2026-07-16 09:15",3,39.0020417,-123.0847102,TRUE,FALSE,FALSE,"S372896675"
+"92","virrai","Virginia Rail","Rallus limicola","L165064","Benson Marina","2026-07-16 09:13",1,41.787153,-111.9525719,TRUE,FALSE,FALSE,"S372793099"
+"93","virrai","Virginia Rail","Rallus limicola","L248365","GSL Shoreline Preserve","2026-07-16 09:08",1,41.0403388,-112.0255668,TRUE,FALSE,FALSE,"S372782216"
+"94","virrai","Virginia Rail","Rallus limicola","L12736770","Beaver Brook, Westford","2026-07-16 09:05",1,42.5660152,-71.4701893,TRUE,FALSE,FALSE,"S372777861"
+"95","virrai","Virginia Rail","Rallus limicola","L73630550","19701–19919 Morrow Rd, Hillman US-MI 45.11591, -83.92164","2026-07-16 08:35",3,45.115913,-83.921642,TRUE,FALSE,TRUE,"S372740345"
+"96","virrai","Virginia Rail","Rallus limicola","L338763","Totten Reservoir","2026-07-16 08:34",2,37.364487,-108.530594,TRUE,FALSE,FALSE,"S372788165"
+"97","virrai","Virginia Rail","Rallus limicola","L608397","Hayfork WTP","2026-07-16 08:23",2,40.541004,-123.2032156,TRUE,FALSE,FALSE,"S373268081"
+"98","virrai","Virginia Rail","Rallus limicola","L805572","Cherry Creek SP--Cottonwood Creek Wetlands","2026-07-16 08:19",1,39.6246748,-104.8488443,TRUE,FALSE,FALSE,"S372762696"
+"99","virrai","Virginia Rail","Rallus limicola","L126631","Eastern Neck National Wildlife Refuge","2026-07-16 08:17",3,39.0347918,-76.2258053,TRUE,FALSE,FALSE,"S372768937"
+"100","virrai","Virginia Rail","Rallus limicola","L216132","Coyote Hills Regional Park","2026-07-16 08:00",1,37.553764,-122.0875025,TRUE,FALSE,FALSE,"S372814081"
+"101","virrai","Virginia Rail","Rallus limicola","L4651503","Denman WMA--Ave. G and Ave. H ponds","2026-07-16 07:54",1,42.4395493,-122.8742575,TRUE,FALSE,FALSE,"S372935008"
+"102","virrai","Virginia Rail","Rallus limicola","L6705638","Brookfield Park","2026-07-16 07:52",1,40.5618248,-74.1601933,TRUE,FALSE,FALSE,"S372716995"
+"103","virrai","Virginia Rail","Rallus limicola","L387148","Mojave Narrows Regional Park","2026-07-16 07:40",1,34.5129928,-117.2708559,TRUE,FALSE,FALSE,"S372862693"
+"104","virrai","Virginia Rail","Rallus limicola","L73620799","Eversource ROW","2026-07-16 07:28",NA,42.1355981,-71.3691274,TRUE,FALSE,TRUE,"S372691676"
+"105","virrai","Virginia Rail","Rallus limicola","L14604407","Raymond Reservation","2026-07-16 07:22",4,42.3537924,-71.4210728,TRUE,FALSE,FALSE,"S372717985"
+"106","virrai","Virginia Rail","Rallus limicola","L1340436","Kicking Horse Reservoir","2026-07-16 07:21",2,47.45703,-114.07907,TRUE,FALSE,FALSE,"S372917287"
+"107","virrai","Virginia Rail","Rallus limicola","L56770539","Karle Rd.","2026-07-16 07:17",1,45.9456865,-88.335084,TRUE,FALSE,FALSE,"S372866670"
+"108","virrai","Virginia Rail","Rallus limicola","L4983233","Boe Rd., Stanwood","2026-07-16 07:15",2,48.2104382,-122.3513031,TRUE,FALSE,FALSE,"S372847399"
+"109","virrai","Virginia Rail","Rallus limicola","L493042","William L. Finley NWR--Cabell Marsh","2026-07-16 07:14",1,44.4152525,-123.319205,TRUE,FALSE,FALSE,"S372792971"
+"110","virrai","Virginia Rail","Rallus limicola","L613438","Klamath Wildlife Area Miller Island Unit","2026-07-16 07:03",2,42.1551736,-121.8082073,TRUE,FALSE,FALSE,"S372822113"
+"111","virrai","Virginia Rail","Rallus limicola","L1312278","Arco Ponds","2026-07-16 06:45",1,46.1624744,-112.7791214,TRUE,FALSE,FALSE,"S372918374"
+"112","virrai","Virginia Rail","Rallus limicola","L278283","Thompson Wildlife Sanctuary, Sandwich","2026-07-16 06:36",1,43.835513,-71.3710221,TRUE,FALSE,FALSE,"S372707763"
+"113","virrai","Virginia Rail","Rallus limicola","L229936","Mission Trails Regional Park--Kumeyaay Lake & campground","2026-07-16 06:31",1,32.8417935,-117.0320288,TRUE,FALSE,FALSE,"S372764953"
+"114","virrai","Virginia Rail","Rallus limicola","L374380","Edmonds Marsh","2026-07-16 06:30",1,47.8085287,-122.3864508,TRUE,FALSE,FALSE,"S372761946"
+"115","virrai","Virginia Rail","Rallus limicola","L9034845","Rocky Mountain Arsenal NWR--Wildlife Drive","2026-07-16 06:23",1,39.8537552,-104.8238524,TRUE,FALSE,FALSE,"S372943690"
+"116","virrai","Virginia Rail","Rallus limicola","L65116648","Perch River--Allen Rd.","2026-07-16 06:22",1,44.0760178,-75.9884132,TRUE,FALSE,TRUE,"S372815473"
+"117","virrai","Virginia Rail","Rallus limicola","L4615587","Silver Oak-Rose Canyon","2026-07-16 06:17",1,39.2036988,-119.7926366,TRUE,FALSE,TRUE,"S372772609"
+"118","virrai","Virginia Rail","Rallus limicola","L358988","Platte Canyon Reservoir","2026-07-16 06:15",1,39.489569,-105.0867176,TRUE,FALSE,FALSE,"S372742138"
+"119","virrai","Virginia Rail","Rallus limicola","L139567","Rodeo Lagoon (including beach and offshore)","2026-07-16 06:10",1,37.8304863,-122.5329514,TRUE,FALSE,FALSE,"S372863149"
+"120","virrai","Virginia Rail","Rallus limicola","L140450","Lower Latham Reservoir area","2026-07-16 06:02",1,40.3345066,-104.6397114,TRUE,FALSE,FALSE,"S372748755"
+"121","virrai","Virginia Rail","Rallus limicola","L16897356","Ousterhout Farm","2026-07-16 06:00",1,42.4517934,-122.831615,TRUE,FALSE,TRUE,"S372775093"
+"122","virrai","Virginia Rail","Rallus limicola","L351484","Marymoor Park","2026-07-16 06:00",1,47.6612642,-122.1184109,TRUE,FALSE,FALSE,"S372896885"
+"123","virrai","Virginia Rail","Rallus limicola","L321279","Marymoor Park--Interpretive Trail","2026-07-16 05:59",1,47.6545148,-122.1077304,TRUE,FALSE,FALSE,"S372796220"
+"124","virrai","Virginia Rail","Rallus limicola","L19716723","Hwy 101- North Port Orford","2026-07-16 05:34",3,42.7577105,-124.4974011,TRUE,FALSE,TRUE,"S372722843"
+"125","virrai","Virginia Rail","Rallus limicola","L1836931","Cedar Island NWR--Causeway","2026-07-16 05:27",5,34.9408513,-76.3378386,TRUE,FALSE,FALSE,"S372789176"
+"126","virrai","Virginia Rail","Rallus limicola","L57404771","San Elijo Lagoon--east (CA Atlas - Rancho Santa Fe SW)","2026-07-16 05:00",3,33.0096658,-117.2431639,TRUE,FALSE,FALSE,"S372807332"
+"127","virrai","Virginia Rail","Rallus limicola","L350679","Millennium Park, Boston","2026-07-15 22:28",4,42.2817402,-71.1812353,TRUE,TRUE,FALSE,"S372587547"
+"128","virrai","Virginia Rail","Rallus limicola","L506053","Damonte Ranch Wetlands","2026-07-15 20:06",3,39.4275085,-119.7185326,TRUE,FALSE,FALSE,"S372598139"
+"129","virrai","Virginia Rail","Rallus limicola","L63956565","Yolo Bypass Wildlife Area (CA Atlas - Sacramento West SW)","2026-07-15 19:26",1,38.536186,-121.620405,TRUE,FALSE,FALSE,"S372698281"
+"130","virrai","Virginia Rail","Rallus limicola","L869682","Woods Edge Park","2026-07-15 19:24",1,40.0350079,-76.3856435,TRUE,FALSE,FALSE,"S372555228"
+"131","virrai","Virginia Rail","Rallus limicola","L982486","Bosque del Apache NWR--Boardwalk Lagoon ONLY","2026-07-15 19:23",1,33.7724767,-106.9021654,TRUE,FALSE,FALSE,"S372576192"
+"132","virrai","Virginia Rail","Rallus limicola","L198798","Shollenberger Park","2026-07-15 18:16",1,38.2262552,-122.5976274,TRUE,FALSE,FALSE,"S372580387"
+"133","virrai","Virginia Rail","Rallus limicola","L909851","Tieton State Airport Marsh","2026-07-15 17:56",1,46.6395545,-121.1233926,TRUE,FALSE,FALSE,"S372605453"
+"134","virrai","Virginia Rail","Rallus limicola","L1615277","Turnbull NWR--Pine Lakes Loop Trail and Winslow Pool","2026-07-15 17:03",1,47.4125974,-117.5383435,TRUE,FALSE,FALSE,"S372577822"
+"135","virrai","Virginia Rail","Rallus limicola","L725880","Dechambeau Ponds","2026-07-15 16:44",1,38.0506527,-119.0841529,TRUE,FALSE,FALSE,"S372555803"
+"136","virrai","Virginia Rail","Rallus limicola","L161008","Walden Ponds Wildlife Habitat--Sawhill Ponds only","2026-07-15 15:55",1,40.0422692,-105.1864529,TRUE,FALSE,FALSE,"S372552935"
+"137","virrai","Virginia Rail","Rallus limicola","L25848239","Horicon NWR--Egret Hiking Trail/Boardwalk","2026-07-15 15:42",1,43.618058,-88.6707401,TRUE,FALSE,FALSE,"S372535483"
+"138","virrai","Virginia Rail","Rallus limicola","L9683092","Turnbull NWR--Auto Tour Route","2026-07-15 15:20",1,47.4262878,-117.5384159,TRUE,FALSE,FALSE,"S372573791"
+"139","virrai","Virginia Rail","Rallus limicola","L14223712","Coquille Valley Wildlife Area","2026-07-15 13:37",1,43.2160479,-124.2587955,TRUE,FALSE,FALSE,"S372521032"
+"140","virrai","Virginia Rail","Rallus limicola","L950776","Big Four Ice Caves","2026-07-15 13:35",1,48.0651548,-121.5151566,TRUE,FALSE,FALSE,"S372583398"
+"141","virrai","Virginia Rail","Rallus limicola","L380565","140th St. Marsh","2026-07-15 13:04",1,44.7465808,-93.0168629,TRUE,FALSE,FALSE,"S372504251"
+"142","virrai","Virginia Rail","Rallus limicola","L813905","Brown's Ferry Park","2026-07-15 11:49",1,45.3830796,-122.7380133,TRUE,FALSE,FALSE,"S372520790"
+"143","virrai","Virginia Rail","Rallus limicola","L232598","Tuttle Marsh Wildlife Area","2026-07-15 11:34",3,44.36827,-83.4477604,TRUE,FALSE,FALSE,"S372444682"
+"144","virrai","Virginia Rail","Rallus limicola","L383706","Pintail Lake","2026-07-15 11:09",2,34.3052296,-110.027647,TRUE,FALSE,FALSE,"S372495426"
+"145","virrai","Virginia Rail","Rallus limicola","L7229628","Weaver Lake, Warren","2026-07-15 11:05",2,42.847965,-74.927421,TRUE,TRUE,FALSE,"S372525697"
+"146","virrai","Virginia Rail","Rallus limicola","L257950","M Street Marsh/Emerald Downs","2026-07-15 10:50",1,47.3284365,-122.2431564,TRUE,FALSE,FALSE,"S372478138"
+"147","virrai","Virginia Rail","Rallus limicola","L562935","Briggs Lake Loop Trail","2026-07-15 10:33",1,48.5914832,-123.1256676,TRUE,FALSE,FALSE,"S372548828"
+"148","virrai","Virginia Rail","Rallus limicola","L718721","Saxis WMA","2026-07-15 10:30",5,37.9155603,-75.682497,TRUE,FALSE,FALSE,"S373082103"
+"149","virrai","Virginia Rail","Rallus limicola","L73566958","95536, Ferndale US-CA 40.62617, -124.31748","2026-07-15 10:22",1,40.626167,-124.317484,TRUE,FALSE,TRUE,"S372457854"
+"150","virrai","Virginia Rail","Rallus limicola","L34282501","Clear Creek Wetlands","2026-07-15 10:20",1,44.340916,-106.720684,TRUE,FALSE,TRUE,"S372437797"
+"151","virrai","Virginia Rail","Rallus limicola","L4647742","King's Highway Wetlands","2026-07-15 09:55",2,45.6845539,-85.5266571,TRUE,FALSE,FALSE,"S372397848"
+"152","virrai","Virginia Rail","Rallus limicola","L3943306","Apache Creek: Tularosa River Riparian Corridor","2026-07-15 09:50",1,33.8334002,-108.6207627,TRUE,FALSE,TRUE,"S372461331"
+"153","virrai","Virginia Rail","Rallus limicola","L434119","Martis Creek Lake (PLA Co.)","2026-07-15 09:46",1,39.3153083,-120.1177311,TRUE,FALSE,FALSE,"S372593359"
+"154","virrai","Virginia Rail","Rallus limicola","L73684592","97402, Eugene US-OR 44.07050, -123.27027","2026-07-15 09:33",3,44.0705,-123.270275,TRUE,FALSE,TRUE,"S372957822"
+"155","virrai","Virginia Rail","Rallus limicola","L375214","Humboldt Bay NWR--Salmon Creek Unit","2026-07-15 09:25",5,40.684888,-124.211354,TRUE,FALSE,FALSE,"S372559920"
+"156","virrai","Virginia Rail","Rallus limicola","L6860732","Bancroft Pond","2026-07-15 09:19",3,46.838266,-114.0102768,TRUE,FALSE,FALSE,"S372431560"
+"157","virrai","Virginia Rail","Rallus limicola","L355448","Minnesota Valley NWR--Bass Ponds","2026-07-15 09:13",NA,44.84479,-93.23007,TRUE,FALSE,FALSE,"S372451932"
+"158","virrai","Virginia Rail","Rallus limicola","L9074102","Rumbly Point Road","2026-07-15 09:04",1,37.994348,-75.72827,TRUE,FALSE,TRUE,"S372412387"
+"159","virrai","Virginia Rail","Rallus limicola","L26593733","Lake Camelot","2026-07-15 09:01",1,45.0582467,-93.4616983,TRUE,FALSE,TRUE,"S372403700"
+"160","virrai","Virginia Rail","Rallus limicola","L3779770","Red Brush","2026-07-15 09:00",1,37.9342052,-87.306397,TRUE,FALSE,TRUE,"S373258567"
+"161","virrai","Virginia Rail","Rallus limicola","L264663","Kachina Wetlands","2026-07-15 08:55",2,35.1096843,-111.6895866,TRUE,FALSE,FALSE,"S372456034"
+"162","virrai","Virginia Rail","Rallus limicola","L207361","Daniel Webster Wildlife Sanctuary (Mass Audubon)","2026-07-15 08:55",1,42.0881122,-70.6772727,TRUE,FALSE,FALSE,"S372448795"
+"163","virrai","Virginia Rail","Rallus limicola","L4093730","Soos Creek Trail","2026-07-15 08:30",NA,47.4157759,-122.1584415,TRUE,FALSE,FALSE,"S372490773"
+"164","virrai","Virginia Rail","Rallus limicola","L1450545","Rachel Carson NWR--Furbish Road","2026-07-15 08:30",1,43.2818137,-70.5812466,TRUE,FALSE,FALSE,"S372464621"
+"165","virrai","Virginia Rail","Rallus limicola","L3858879","Baskett Slough NWR--South Slough transect path","2026-07-15 08:30",2,44.9562801,-123.2571548,TRUE,FALSE,FALSE,"S372502947"
+"166","virrai","Virginia Rail","Rallus limicola","L785749","Braddock Bay--Dalheim unit","2026-07-15 08:25",1,43.3079732,-77.7412319,TRUE,FALSE,FALSE,"S372358738"
+"167","virrai","Virginia Rail","Rallus limicola","L1048888","Carmel River SB (beach, lagoon, and/or Cross Hill)","2026-07-15 07:51",1,36.536193,-121.9275892,TRUE,FALSE,FALSE,"S372437978"
+"168","virrai","Virginia Rail","Rallus limicola","L5221192","Fort Worden SP--Chinese Gardens Pond","2026-07-15 07:48",3,48.1377918,-122.7787089,TRUE,FALSE,FALSE,"S372419553"
+"169","virrai","Virginia Rail","Rallus limicola","L11454464","Miller Pond","2026-07-15 07:32",1,41.7197521,-75.3541555,TRUE,FALSE,FALSE,"S372338952"
+"170","virrai","Virginia Rail","Rallus limicola","L1219737","Sierra Valley--Marble Hot Springs Rd. bridge","2026-07-15 07:25",2,39.7555406,-120.3542966,TRUE,FALSE,FALSE,"S372510305"
+"171","virrai","Virginia Rail","Rallus limicola","L1474222","Pleasant Valley Dam Rd. and Campground","2026-07-15 07:18",1,37.4050432,-118.5039444,TRUE,FALSE,FALSE,"S372415565"
+"172","virrai","Virginia Rail","Rallus limicola","L12968236","Bolsa Chica Ecological Reserve-Backside (restricted access)","2026-07-15 07:18",2,33.7025628,-118.035571,TRUE,FALSE,FALSE,"S372476209"
+"173","virrai","Virginia Rail","Rallus limicola","L4209447","Ninigret Pond Mudflats (east of the breach)","2026-07-15 07:05",1,41.3644898,-71.637404,TRUE,FALSE,FALSE,"S372864387"
+"174","virrai","Virginia Rail","Rallus limicola","L861798","Ankeny NWR--Pintail Marsh","2026-07-15 06:54",1,44.7762488,-123.0898891,TRUE,FALSE,FALSE,"S372418936"
+"175","virrai","Virginia Rail","Rallus limicola","L947247","Margaret Peak Nature Preserve","2026-07-15 06:50",1,41.3400548,-82.0315808,TRUE,FALSE,FALSE,"S372571451"
+"176","virrai","Virginia Rail","Rallus limicola","L8062695","Owens Lake--northeast ponds (T29s, T30s) and vicinity","2026-07-15 06:37",1,36.508666,-117.9292846,TRUE,FALSE,FALSE,"S372392213"
+"177","virrai","Virginia Rail","Rallus limicola","L8082660","Pea Island NWR--New Field Pond Platform","2026-07-15 06:34",1,35.7023132,-75.488955,TRUE,FALSE,TRUE,"S372330408"
+"178","virrai","Virginia Rail","Rallus limicola","L844420","Hansen Creek Restoration Project","2026-07-15 06:27",1,48.5237107,-122.198782,TRUE,FALSE,FALSE,"S372398631"
+"179","virrai","Virginia Rail","Rallus limicola","L635842","Alamosa Riverwalk","2026-07-15 06:17",1,37.4779914,-105.8759737,TRUE,FALSE,FALSE,"S372390194"
+"180","virrai","Virginia Rail","Rallus limicola","L1225301","Corbin Hill Rd., N of US 20","2026-07-15 06:09",2,42.7607245,-74.4267393,TRUE,FALSE,FALSE,"S372523214"
+"181","virrai","Virginia Rail","Rallus limicola","L601513","Nature Conservancy Foulweather Bluff Preserve","2026-07-15 06:09",1,47.9216197,-122.6001048,TRUE,FALSE,FALSE,"S372491980"
+"182","virrai","Virginia Rail","Rallus limicola","L4896383","Summit Valley (Placer Co)","2026-07-15 05:46",1,39.3146273,-120.3666654,TRUE,FALSE,FALSE,"S372528111"
+"183","virrai","Virginia Rail","Rallus limicola","L868854","Carson City WWTP Wetlands","2026-07-15 05:37",1,39.1638915,-119.7365785,TRUE,FALSE,FALSE,"S372483934"
+"184","virrai","Virginia Rail","Rallus limicola","L6305606","Dutch Slough Restoration Area","2026-07-15 05:33",1,38.0112071,-121.6772854,TRUE,FALSE,FALSE,"S372465931"
+"185","virrai","Virginia Rail","Rallus limicola","L11758940","Upper Coos Recreational Trail-- Colebrook to Welcome Center","2026-07-15 05:18",1,44.8971678,-71.5019161,TRUE,FALSE,FALSE,"S372314604"
+"186","virrai","Virginia Rail","Rallus limicola","L867437","CJ Strike WMA--Bruneau Arm Narrows ","2026-07-15",1,42.9200092,-115.903573,TRUE,FALSE,FALSE,"S372513881"
+"187","virrai","Virginia Rail","Rallus limicola","L5815689","Springwater Corridor--Zenger Farm marsh","2026-07-14 20:33",1,45.4789712,-122.54209,TRUE,FALSE,FALSE,"S372239158"
+"188","virrai","Virginia Rail","Rallus limicola","L5637710","Bergstrom waterfowl complex- observation tower","2026-07-14 20:25",4,44.4741479,-88.5244464,TRUE,FALSE,TRUE,"S372219730"
+"189","virrai","Virginia Rail","Rallus limicola","L610738","Manitou Lake","2026-07-14 20:10",1,39.0901133,-105.097661,TRUE,FALSE,FALSE,"S372957743"
+"190","virrai","Virginia Rail","Rallus limicola","L4756268","Field's Riffle","2026-07-14 19:59",1,47.9166297,-122.1268988,TRUE,FALSE,FALSE,"S372239343"
+"191","virrai","Virginia Rail","Rallus limicola","L2525070","Fall City--Neal Rd.","2026-07-14 19:42",1,47.5930764,-121.9113135,TRUE,FALSE,FALSE,"S372247000"
+"192","virrai","Virginia Rail","Rallus limicola","L949294","Gila NF--Apache Creek Campground and Tularosa River riparian","2026-07-14 19:00",1,33.8310144,-108.6241349,TRUE,FALSE,FALSE,"S372444007"
+"193","virrai","Virginia Rail","Rallus limicola","L277453","Lower Wisconsin SR--Bakken's Pond Unit","2026-07-14 17:47",1,43.1748874,-90.1545571,TRUE,FALSE,FALSE,"S372698784"
+"194","virrai","Virginia Rail","Rallus limicola","L73729689","Dike Trail, Great Meadows NWR","2026-07-14 16:00",5,42.4773254,-71.3320052,TRUE,FALSE,TRUE,"S373239892"
+"195","virrai","Virginia Rail","Rallus limicola","L9439457","Clearwater River Hiking and Canoe Trails","2026-07-14 14:02",1,47.2159591,-113.5265333,TRUE,FALSE,FALSE,"S372226124"
+"196","virrai","Virginia Rail","Rallus limicola","L15962918","Rosewood Nature Study Area","2026-07-14 12:56",1,39.4972026,-119.7306347,TRUE,FALSE,FALSE,"S372161169"
+"197","virrai","Virginia Rail","Rallus limicola","L73496537","98862, Winthrop US-WA 48.44807, -120.19817. Twin Lakes Winthrop WA","2026-07-14 12:40",2,48.448072,-120.198165,TRUE,FALSE,TRUE,"S372152757"
+"198","virrai","Virginia Rail","Rallus limicola","L109181","Kootenai NWR","2026-07-14 12:15",1,48.7166667,-116.4,TRUE,FALSE,FALSE,"S372548107"
+"199","virrai","Virginia Rail","Rallus limicola","L2865409","Bashakill State WMA--Haven Road (incl. causeway bridge)","2026-07-14 11:57",NA,41.5356812,-74.5166769,TRUE,FALSE,FALSE,"S372364945"
+"200","virrai","Virginia Rail","Rallus limicola","L192708","Martinez Regional Shoreline Park","2026-07-14 11:37",1,38.0241261,-122.1401596,TRUE,FALSE,FALSE,"S372241916"
+"201","virrai","Virginia Rail","Rallus limicola","L960072","Bombay Hook NWR--Finis Pool","2026-07-14 11:37",1,39.2738595,-75.4912663,TRUE,FALSE,FALSE,"S372080446"
+"202","virrai","Virginia Rail","Rallus limicola","L43406460","LAAB13","2026-07-14 11:18",1,42.529548,-120.2342028,TRUE,FALSE,TRUE,"S372119318"
+"203","virrai","Virginia Rail","Rallus limicola","L39234872","Forest Song x Las Palmas Pkwy (restricted access)","2026-07-14 11:05",1,36.604607,-121.6519211,TRUE,FALSE,TRUE,"S372167396"
+"204","virrai","Virginia Rail","Rallus limicola","L517778","Deer Lagoon","2026-07-14 11:00",NA,47.9938851,-122.4926662,TRUE,FALSE,FALSE,"S372280966"
+"205","virrai","Virginia Rail","Rallus limicola","L212323","Lee Kay Ponds","2026-07-14 10:26",1,40.7397136,-112.0437241,TRUE,FALSE,FALSE,"S372117089"
+"206","virrai","Virginia Rail","Rallus limicola","L6843321","Santa Fe River at Calle Debra","2026-07-14 10:22",1,35.6171824,-106.1121503,TRUE,FALSE,FALSE,"S372077446"
+"207","virrai","Virginia Rail","Rallus limicola","L659759","Sherburne NWR--Wildlife Drive","2026-07-14 10:15",1,45.4656464,-93.7356734,TRUE,FALSE,FALSE,"S372125287"
+"208","virrai","Virginia Rail","Rallus limicola","L40504995","Alviso Slough, San Jose","2026-07-14 10:13",1,37.4234234,-121.993201,TRUE,FALSE,TRUE,"S372228431"
+"209","virrai","Virginia Rail","Rallus limicola","L4461675","Lake Camelot","2026-07-14 09:54",1,45.0582894,-93.4571099,TRUE,FALSE,FALSE,"S372073715"
+"210","virrai","Virginia Rail","Rallus limicola","L27014202","Incline Lake Road/Trail","2026-07-14 09:46",1,39.2985257,-119.9278678,TRUE,FALSE,FALSE,"S372160047"
+"211","virrai","Virginia Rail","Rallus limicola","L15155750","Upper Deschutes River between Dillon Falls and the Slough","2026-07-14 09:30",4,43.949196,-121.417473,TRUE,FALSE,TRUE,"S372206061"
+"212","virrai","Virginia Rail","Rallus limicola","L42014563","South Creek Trail To Wilson Park, Lincoln CA","2026-07-14 09:17",1,38.8457467,-121.268155,TRUE,FALSE,TRUE,"S372122510"
+"213","virrai","Virginia Rail","Rallus limicola","L25194619","Pray’s Brook Marsh (MCHT)","2026-07-14 09:16",1,44.3801976,-68.3558974,TRUE,FALSE,FALSE,"S372104258"
+"214","virrai","Virginia Rail","Rallus limicola","L695607","Owens Lake--westside delta ponds (T36s)","2026-07-14 09:16",1,36.5135522,-117.9787226,TRUE,FALSE,FALSE,"S372588185"
+"215","virrai","Virginia Rail","Rallus limicola","L165807","Spencer Island","2026-07-14 09:10",1,47.99167,-122.15833,TRUE,FALSE,FALSE,"S372099837"
+"216","virrai","Virginia Rail","Rallus limicola","L969765","Scarborough Marsh--Eastern Trail Pannes","2026-07-14 09:05",1,43.5668063,-70.3579393,TRUE,FALSE,FALSE,"S372032618"
+"217","virrai","Virginia Rail","Rallus limicola","L5786158","Ebey Waterfront Trail, Marysville","2026-07-14 09:00",1,48.0458046,-122.1758652,TRUE,FALSE,FALSE,"S372128758"
+"218","virrai","Virginia Rail","Rallus limicola","L151033","County 9 Marsh","2026-07-14 08:44",1,44.02001,-92.39274,TRUE,FALSE,FALSE,"S372017435"
+"219","virrai","Virginia Rail","Rallus limicola","L189487","Arcata Marsh and Wildlife Sanctuary","2026-07-14 08:26",1,40.857361,-124.094612,TRUE,FALSE,FALSE,"S372102740"
+"220","virrai","Virginia Rail","Rallus limicola","L1341883","Coyote Hills Regional Park--Visitor Center area","2026-07-14 08:13",1,37.5533565,-122.0907479,TRUE,FALSE,FALSE,"S372549461"
+"221","virrai","Virginia Rail","Rallus limicola","L3702586","Mount Ouray SWA","2026-07-14 08:04",2,38.5572075,-106.0388138,TRUE,FALSE,FALSE,"S373047042"
+"222","virrai","Virginia Rail","Rallus limicola","L781326","State Line Park Rd. (CA side only)","2026-07-14 08:01",4,41.9927695,-120.3267073,TRUE,FALSE,FALSE,"S372074568"
+"223","virrai","Virginia Rail","Rallus limicola","L16913155","Juanita Bay, Kirkland US-WA 47.69803, -122.21225","2026-07-14 07:42",1,47.698026,-122.212254,TRUE,FALSE,TRUE,"S372038049"
+"224","virrai","Virginia Rail","Rallus limicola","L48884557","Fischer Lake","2026-07-14 07:36",1,45.7266364,-88.1049561,TRUE,FALSE,FALSE,"S372054001"
+"225","virrai","Virginia Rail","Rallus limicola","L73471348","Marsh Overlook Trail","2026-07-14 07:16",4,33.770609,-106.901803,TRUE,FALSE,TRUE,"S372054061"
+"226","virrai","Virginia Rail","Rallus limicola","L352958","Fish Springs NWR","2026-07-14 07:03",2,39.865343,-113.3936175,TRUE,FALSE,FALSE,"S372432526"
+"227","virrai","Virginia Rail","Rallus limicola","L63209940","Enville Home, Bowdon US-ND","2026-07-14 07:03",1,47.469585,-99.703376,TRUE,FALSE,TRUE,"S371982391"
+"228","virrai","Virginia Rail","Rallus limicola","L73471243","Tilton Road","2026-07-14 06:56",NA,38.380247,-122.885024,TRUE,FALSE,TRUE,"S372053632"
+"229","virrai","Virginia Rail","Rallus limicola","L267398","Shiawassee NWR--Wildlife Drive","2026-07-14 06:54",2,43.3596344,-84.0304756,TRUE,FALSE,FALSE,"S372008741"
+"230","virrai","Virginia Rail","Rallus limicola","L43389870","LAAB01","2026-07-14 06:50",1,42.6831738,-120.162308,TRUE,FALSE,TRUE,"S372050666"
+"231","virrai","Virginia Rail","Rallus limicola","L4629436","Trapper Park","2026-07-14 06:45",1,41.7065615,-111.8743372,TRUE,FALSE,FALSE,"S372027931"
+"232","virrai","Virginia Rail","Rallus limicola","L1445403","Great Vly WMA--West Camp Rd.","2026-07-14 06:30",2,42.1330671,-73.9396956,TRUE,FALSE,FALSE,"S372022847"
+"233","virrai","Virginia Rail","Rallus limicola","L9220835","South Phantom Lake","2026-07-14 06:20",1,45.8080806,-92.6443483,TRUE,FALSE,TRUE,"S371989607"
+"234","virrai","Virginia Rail","Rallus limicola","L109260","South Fork Kern River Valley--general area","2026-07-14 06:02",4,35.672219,-118.307476,TRUE,FALSE,FALSE,"S372448827"
+"235","virrai","Virginia Rail","Rallus limicola","L73468740","Nelson Pond","2026-07-14 06:00",1,41.23274,-105.831919,TRUE,FALSE,TRUE,"S372043989"
+"236","virrai","Virginia Rail","Rallus limicola","L800627","North Spit--old Weyco Settling Pond & deflation plain","2026-07-14 05:58",2,43.4210895,-124.2850935,TRUE,FALSE,FALSE,"S372062368"
+"237","virrai","Virginia Rail","Rallus limicola","L589444","Yosemite NP--Hodgdon Meadow","2026-07-14 05:50",1,37.7955424,-119.8623848,TRUE,FALSE,FALSE,"S373266447"
+"238","virrai","Virginia Rail","Rallus limicola","L42637966","Rice Creek Marsh Boardwalk","2026-07-13 21:11",1,45.149947,-93.112521,TRUE,FALSE,TRUE,"S371851758"
+"239","virrai","Virginia Rail","Rallus limicola","L352584","Silver Creek Preserve--General","2026-07-13 19:53",1,43.3166853,-114.1500092,TRUE,FALSE,FALSE,"S372245962"
+"240","virrai","Virginia Rail","Rallus limicola","L390301","Paynes Creek Wetland including Bass Pond","2026-07-13 19:37",2,40.273346,-122.1934383,TRUE,FALSE,FALSE,"S371864309"
+"241","virrai","Virginia Rail","Rallus limicola","L9974891","Bullard Lake","2026-07-13 19:11",1,48.7083128,-122.4408759,TRUE,FALSE,FALSE,"S371857077"
+"242","virrai","Virginia Rail","Rallus limicola","L73586648","Thanksgiving Point Golf Club, Lehi US-UT 40.41761, -111.89399","2026-07-13 18:25",2,40.417615,-111.893993,TRUE,FALSE,TRUE,"S372535616"
+"243","virrai","Virginia Rail","Rallus limicola","L1563742","Ponderosa SP--Lily Marsh","2026-07-13 16:12",1,44.9482318,-116.0760927,TRUE,FALSE,FALSE,"S371831424"
+"244","virrai","Virginia Rail","Rallus limicola","L139740","Bath Nature Preserve","2026-07-13 16:10",1,41.1814673,-81.6500853,TRUE,FALSE,FALSE,"S371796678"
+"245","virrai","Virginia Rail","Rallus limicola","L1649572","Crane Pond WMA--Center St. Marsh","2026-07-13 14:40",1,42.7634868,-70.9992229,TRUE,FALSE,FALSE,"S371804840"
+"246","virrai","Virginia Rail","Rallus limicola","L15160100","McDowell Lake, Little Pend Oreille NWR, Colville, Washington, US (48.467, -117.675)","2026-07-13 14:10",1,48.4665915,-117.6754584,TRUE,FALSE,TRUE,"S371841193"
+"247","virrai","Virginia Rail","Rallus limicola","L8363307","Job Swamp","2026-07-13 13:40",2,42.7849527,-70.992848,TRUE,FALSE,FALSE,"S371802340"
+"248","virrai","Virginia Rail","Rallus limicola","L812291","Ted Trueblood WMA","2026-07-13 12:45",1,43.0112374,-116.110468,TRUE,FALSE,FALSE,"S371743324"
+"249","virrai","Virginia Rail","Rallus limicola","L73414238","Turkey Hill Road wetland","2026-07-13 12:30",2,42.7809578,-70.9306734,TRUE,FALSE,TRUE,"S371799931"
+"250","virrai","Virginia Rail","Rallus limicola","L73429656","5905 Natomas Road, Pleasant Grove, California, US (38.823, -121.527)","2026-07-13 12:20",1,38.8229514,-121.5267708,TRUE,FALSE,TRUE,"S371862811"
+"251","virrai","Virginia Rail","Rallus limicola","L663765","Cuttyhunk Island","2026-07-13 12:14",1,41.4200747,-70.9346008,TRUE,FALSE,FALSE,"S371701192"
+"252","virrai","Virginia Rail","Rallus limicola","L64955259","Russell Lakes SWA--Johnson Lake","2026-07-13 11:42",1,37.9372956,-106.1396651,TRUE,FALSE,FALSE,"S371718967"
+"253","virrai","Virginia Rail","Rallus limicola","L109160","Station 43","2026-07-13 11:35",1,41.8338915,-72.6233196,TRUE,FALSE,FALSE,"S371678887"
+"254","virrai","Virginia Rail","Rallus limicola","L303740","180th St. Marsh (Marshall's Marsh)","2026-07-13 10:35",1,44.68822,-92.9659032,TRUE,FALSE,FALSE,"S371685077"
+"255","virrai","Virginia Rail","Rallus limicola","L4732455","St. Clair Lake-Six Mile Lake Natural Area","2026-07-13 10:15",1,45.1633629,-85.2186922,TRUE,FALSE,FALSE,"S371646929"
+"256","virrai","Virginia Rail","Rallus limicola","L726695","Northern State Recreation Area","2026-07-13 10:08",1,48.5309012,-122.1971512,TRUE,FALSE,FALSE,"S371719315"
+"257","virrai","Virginia Rail","Rallus limicola","L167876","Murphy-Hanrehan Park Reserve--Pet Trails","2026-07-13 10:02",1,44.7058838,-93.3356917,TRUE,FALSE,FALSE,"S371685899"
+"258","virrai","Virginia Rail","Rallus limicola","L580373","Tualatin River NWR","2026-07-13 09:55",1,45.3811203,-122.8353667,TRUE,FALSE,FALSE,"S371859070"
+"259","virrai","Virginia Rail","Rallus limicola","L16164353","Crane Prairie Reservoir, NE section, Oregon, US (43.803, -121.77)","2026-07-13 09:44",1,43.8029402,-121.7695606,TRUE,FALSE,TRUE,"S371865580"
+"260","virrai","Virginia Rail","Rallus limicola","L160935","Ballona Freshwater Marsh","2026-07-13 09:30",1,33.9701285,-118.4305573,TRUE,FALSE,FALSE,"S371768170"
+"261","virrai","Virginia Rail","Rallus limicola","L279612","Sunnyvale Baylands Park","2026-07-13 09:09",1,37.4128753,-121.9958747,TRUE,FALSE,FALSE,"S371729074"
+"262","virrai","Virginia Rail","Rallus limicola","L814019","Kensington Metropark--Livingston Co. only","2026-07-13 08:30",2,42.5282146,-83.6757481,TRUE,FALSE,FALSE,"S371739240"
+"263","virrai","Virginia Rail","Rallus limicola","L281052","Elephant Butte Lake SP--South Monticello Point","2026-07-13 08:30",1,33.2971201,-107.1783553,TRUE,FALSE,FALSE,"S371832286"
+"264","virrai","Virginia Rail","Rallus limicola","L416769","Cuyahoga Valley NP--Ira Rd. Beaver Marsh","2026-07-13 08:28",1,41.1842256,-81.5825629,TRUE,FALSE,FALSE,"S371633600"
+"265","virrai","Virginia Rail","Rallus limicola","L1356667","Bellefield Office Park","2026-07-13 07:56",4,47.5973211,-122.1896538,TRUE,FALSE,FALSE,"S372032592"
+"266","virrai","Virginia Rail","Rallus limicola","L29730771","Mercer Slough","2026-07-13 07:54",1,47.590792,-122.187988,TRUE,FALSE,TRUE,"S371736258"
+"267","virrai","Virginia Rail","Rallus limicola","L71213165","Ridgefield Wildlife Refuge","2026-07-13 07:30",1,45.811973,-122.748712,TRUE,FALSE,TRUE,"S371757013"
+"268","virrai","Virginia Rail","Rallus limicola","L208929","Gardiner County Park","2026-07-13 07:19",1,40.7010162,-73.2766605,TRUE,TRUE,FALSE,"S371639213"
+"269","virrai","Virginia Rail","Rallus limicola","L127945","Bosque del Apache NWR (please use for checklists covering the entire refuge)","2026-07-13 07:10",4,33.802,-106.88,TRUE,FALSE,FALSE,"S371668033"
+"270","virrai","Virginia Rail","Rallus limicola","L47330167","Horicon NWR—Old Marsh Road","2026-07-13 07:09",1,43.611197,-88.616102,TRUE,FALSE,TRUE,"S372432843"
+"271","virrai","Virginia Rail","Rallus limicola","L1663502","Pea Island NWR--North Pond Wildlife Trail","2026-07-13 07:09",1,35.7156212,-75.4935891,TRUE,FALSE,FALSE,"S371582027"
+"272","virrai","Virginia Rail","Rallus limicola","L73378775","17618 Goldfinch Ln, Bend US-OR 43.89944, -121.44564","2026-07-13 06:57",1,43.899438,-121.445638,TRUE,FALSE,TRUE,"S371664938"
+"273","virrai","Virginia Rail","Rallus limicola","L3695461","Tahoe Meadows--Interpretive Loop Trail","2026-07-13 06:44",1,39.3071942,-119.9062066,TRUE,FALSE,FALSE,"S371842830"
+"274","virrai","Virginia Rail","Rallus limicola","L275227","Piute Ponds (permit required)","2026-07-13 06:20",1,34.7901193,-118.1181776,TRUE,FALSE,FALSE,"S371779456"
+"275","virrai","Virginia Rail","Rallus limicola","L140459","Wheat Ridge Greenbelt","2026-07-13 06:15",1,39.7742004,-105.1276016,TRUE,FALSE,FALSE,"S371687474"
+"276","virrai","Virginia Rail","Rallus limicola","L598873","White Memorial Foundation--Little Pond","2026-07-13 05:45",1,41.7332765,-73.1986856,TRUE,FALSE,FALSE,"S371712415"
+"277","virrai","Virginia Rail","Rallus limicola","L476174","Skagit Wildlife Area--Wiley Slough","2026-07-13 05:42",1,48.3246351,-122.3741287,TRUE,FALSE,FALSE,"S372433615"
+"278","virrai","Virginia Rail","Rallus limicola","L246052","Sunriver Nature Center","2026-07-13 05:42",1,43.8849722,-121.44825,TRUE,FALSE,FALSE,"S371664814"
+"279","virrai","Virginia Rail","Rallus limicola","L7374323","Corey Marsh Ecological Research Center","2026-07-13 05:36",1,42.8279214,-84.3795697,TRUE,FALSE,FALSE,"S371868666"
+"280","virrai","Virginia Rail","Rallus limicola","L129046","Plum Island--Parker River NWR & Sandy Pt. State Reservation","2026-07-13 05:31",1,42.74735,-70.80824,TRUE,FALSE,FALSE,"S371621350"
+"281","virrai","Virginia Rail","Rallus limicola","L594031","Ackerson Meadow","2026-07-13 05:15",4,37.835,-119.847,TRUE,FALSE,FALSE,"S372247052"
+"282","virrai","Virginia Rail","Rallus limicola","L11687425","Upper Verde River Wildlife Area","2026-07-13 04:52",1,34.8681514,-112.4028826,TRUE,FALSE,FALSE,"S371858094"
+"283","virrai","Virginia Rail","Rallus limicola","L6226129","TNC Moses Coulee Research Station (limited public access)","2026-07-13 01:48",2,47.5374324,-119.7123152,TRUE,FALSE,FALSE,"S371523346"
+"284","virrai","Virginia Rail","Rallus limicola","L3646197","Mira Loma Pond","2026-07-12 20:00",1,39.4851729,-119.7393116,TRUE,FALSE,FALSE,"S371470230"
+"285","virrai","Virginia Rail","Rallus limicola","L25185015","my yard","2026-07-12 19:58",1,41.6846619,-81.3812485,TRUE,FALSE,TRUE,"S371468939"
+"286","virrai","Virginia Rail","Rallus limicola","L1489499","Borthwick Ave. Marsh at Portsmouth Regional Hospital","2026-07-12 19:28",2,43.0629767,-70.7883453,TRUE,FALSE,FALSE,"S371420881"
+"287","virrai","Virginia Rail","Rallus limicola","L1435007","Scriber Creek Park","2026-07-12 19:05",1,47.81612,-122.2998572,TRUE,FALSE,FALSE,"S371458857"
+"288","virrai","Virginia Rail","Rallus limicola","L67015543","Big Hill Area (Alley Side)","2026-07-12 19:00",1,38.294059,-104.6248204,TRUE,FALSE,TRUE,"S371462616"
+"289","virrai","Virginia Rail","Rallus limicola","L73315738","734–798 CR-637, Newport US-NJ (39.2474,-75.1715)","2026-07-12 18:19",1,39.247404,-75.171532,TRUE,FALSE,TRUE,"S371393858"
+"290","virrai","Virginia Rail","Rallus limicola","L22156199","100 Hollywood Boulevard, Whitefield, Maine, US","2026-07-12 18:06",1,44.143381,-69.6025972,TRUE,FALSE,TRUE,"S371412254"
+"291","virrai","Virginia Rail","Rallus limicola","L573127","Horicon NWR--Old Marsh Rd.","2026-07-12 18:04",2,43.6159453,-88.6473083,TRUE,FALSE,FALSE,"S371461737"
+"292","virrai","Virginia Rail","Rallus limicola","L156186","Audubon Community Nature Center","2026-07-12 17:15",4,42.0193687,-79.1683766,TRUE,FALSE,FALSE,"S371441262"
+"293","virrai","Virginia Rail","Rallus limicola","L1578572","Grant St. Marsh","2026-07-12 17:14",1,41.5643642,-87.3655132,TRUE,FALSE,FALSE,"S371428931"
+"294","virrai","Virginia Rail","Rallus limicola","L2898687","Muirhead Springs Forest Preserve","2026-07-12 16:07",1,42.0466113,-88.4521948,TRUE,FALSE,FALSE,"S371423844"
+"295","virrai","Virginia Rail","Rallus limicola","L14758315","Haybridge Wetland (restricted access)","2026-07-12 15:12",1,41.8328543,-85.5792834,TRUE,FALSE,FALSE,"S371330382"
+"296","virrai","Virginia Rail","Rallus limicola","L935839","Beaver Pond Trail (Okanogan Co.)","2026-07-12 15:05",1,48.4673444,-120.2625275,TRUE,FALSE,FALSE,"S371635342"
+"297","virrai","Virginia Rail","Rallus limicola","L140257","Fernhill Wetlands","2026-07-12 14:15",3,45.5069542,-123.0868073,TRUE,FALSE,TRUE,"S371390944"
+"298","virrai","Virginia Rail","Rallus limicola","L760740","Lake Cascade--Old State Rd.","2026-07-12 14:10",2,44.6495647,-116.0684726,TRUE,FALSE,FALSE,"S371403347"
+"299","virrai","Virginia Rail","Rallus limicola","L1188392","North Central State Trail (Gaylord section)","2026-07-12 14:02",1,45.0496502,-84.6808681,TRUE,FALSE,FALSE,"S371323861"
+"300","virrai","Virginia Rail","Rallus limicola","L1156220","Thousand Acre Marsh","2026-07-12 13:50",1,39.5470076,-75.5847359,TRUE,FALSE,FALSE,"S371290357"
+"301","virrai","Virginia Rail","Rallus limicola","L1304374","Panoche Rd.--Panoche Creek (east of Silver Creek Ranch)","2026-07-12 13:38",1,36.5951187,-120.7581621,TRUE,FALSE,FALSE,"S372184391"
+"302","virrai","Virginia Rail","Rallus limicola","L1361038","Salt Pond A10","2026-07-12 13:22",1,37.4499086,-122.008844,TRUE,FALSE,FALSE,"S371372840"
+"303","virrai","Virginia Rail","Rallus limicola","L858912","Fairmount WMA-- East Impoundment","2026-07-12 12:31",1,38.0820984,-75.8083677,TRUE,FALSE,FALSE,"S371252432"
+"304","virrai","Virginia Rail","Rallus limicola","L920630","Sand Point Nature Preserve","2026-07-12 12:18",1,43.9083437,-83.3310199,TRUE,FALSE,FALSE,"S371299568"
+"305","virrai","Virginia Rail","Rallus limicola","L520659","McLane Creek Nature Trail","2026-07-12 11:50",1,47.0005389,-123.0049896,TRUE,FALSE,FALSE,"S371816151"
+"306","virrai","Virginia Rail","Rallus limicola","L1048528","Livermore Rd.","2026-07-12 11:42",1,45.0097499,-123.2535124,TRUE,FALSE,FALSE,"S371322271"
+"307","virrai","Virginia Rail","Rallus limicola","L73261910","kensington park","2026-07-12 11:08",2,42.550148,-83.6346741,TRUE,FALSE,TRUE,"S371205076"
+"308","virrai","Virginia Rail","Rallus limicola","L73272098","7875 Interstate 94, Jamestown, North Dakota, US (46.893, -98.804)","2026-07-12 10:58",1,46.8932549,-98.8036354,TRUE,FALSE,TRUE,"S371233640"
+"309","virrai","Virginia Rail","Rallus limicola","L614015","Malheur NWR--Buena Vista Ponds","2026-07-12 10:31",1,43.0672732,-118.8632083,TRUE,FALSE,FALSE,"S371426443"
+"310","virrai","Virginia Rail","Rallus limicola","L213239","Five Rivers EEC","2026-07-12 10:28",1,42.6099952,-73.8907678,TRUE,FALSE,FALSE,"S371233503"
+"311","virrai","Virginia Rail","Rallus limicola","L73284668","929 North Miller Street, Rockaway Beach, Oregon, US (45.625, -123.942)","2026-07-12 10:22",1,45.6248294,-123.9419607,TRUE,FALSE,TRUE,"S371279656"
+"312","virrai","Virginia Rail","Rallus limicola","L2081227","Durham Meadows--Frederick White Farm","2026-07-12 10:06",2,41.4771151,-72.6857615,TRUE,FALSE,FALSE,"S371228069"
+"313","virrai","Virginia Rail","Rallus limicola","L9443819","Summer Lake Wildlife Area--East Link and Gull Island","2026-07-12 09:57",1,42.955722,-120.714412,TRUE,FALSE,FALSE,"S371278601"
+"314","virrai","Virginia Rail","Rallus limicola","L772841","Ottawa NWR (Ottawa Co.)","2026-07-12 09:04",1,41.616084,-83.2284737,TRUE,FALSE,FALSE,"S371185404"
+"315","virrai","Virginia Rail","Rallus limicola","L39208719","Salt Pond. Lincoln","2026-07-12 09:04",4,38.8758082,-121.2759632,TRUE,FALSE,TRUE,"S371354129"
+"316","virrai","Virginia Rail","Rallus limicola","L1033595","Brecksville Reservation--Chippewa Ford","2026-07-12 09:00",1,41.3182215,-81.5979695,TRUE,FALSE,FALSE,"S371219168"
+"317","virrai","Virginia Rail","Rallus limicola","L1117941","Rio Fernando Wetlands (Fred Baca Park and adjacent Rio Fernando Park)","2026-07-12 09:00",3,36.3991437,-105.5896854,TRUE,FALSE,FALSE,"S372703910"
+"318","virrai","Virginia Rail","Rallus limicola","L276900","Robert H. Long Park","2026-07-12 08:47",1,42.5271345,-83.4507015,TRUE,FALSE,FALSE,"S371150645"
+"319","virrai","Virginia Rail","Rallus limicola","L36122571","Evans Creek Trail","2026-07-12 08:42",2,47.6794081,-122.0837644,TRUE,FALSE,FALSE,"S371257961"
+"320","virrai","Virginia Rail","Rallus limicola","L109339","IRWD San Joaquin Marsh & Wildlife Sanctuary","2026-07-12 08:30",1,33.6637274,-117.8426814,TRUE,FALSE,FALSE,"S371331234"
+"321","virrai","Virginia Rail","Rallus limicola","L1743855","Lake Elsinore--south levee and back basin","2026-07-12 08:30",1,33.6427729,-117.3317176,TRUE,FALSE,FALSE,"S371385400"
+"322","virrai","Virginia Rail","Rallus limicola","L52979081","Pickerel Pond, Natick","2026-07-12 08:19",1,42.310619,-71.340931,TRUE,FALSE,FALSE,"S371149398"
+"323","virrai","Virginia Rail","Rallus limicola","L1272567","Russ Ranch Wetlands","2026-07-12 07:55",3,40.577205,-124.3439871,TRUE,FALSE,FALSE,"S371394523"
+"324","virrai","Virginia Rail","Rallus limicola","L3485867","Cedar Lake","2026-07-12 07:51",3,41.6636791,-122.4067926,TRUE,FALSE,FALSE,"S371333808"
+"325","virrai","Virginia Rail","Rallus limicola","L67968516","Codman Wy","2026-07-12 07:47",1,42.302594,-71.608515,TRUE,FALSE,TRUE,"S371087746"
+"326","virrai","Virginia Rail","Rallus limicola","L448084","Woodland WTP","2026-07-12 07:37",1,38.6624345,-121.7173585,TRUE,FALSE,FALSE,"S371276123"
+"327","virrai","Virginia Rail","Rallus limicola","L792599","Suffield WMA","2026-07-12 07:30",1,42.0328787,-72.7453709,TRUE,FALSE,FALSE,"S371267745"
+"328","virrai","Virginia Rail","Rallus limicola","L1818121","Rocky Mountain Arsenal NWR--Lake Ladora","2026-07-12 07:26",1,39.8170715,-104.8569235,TRUE,FALSE,FALSE,"S371361704"
+"329","virrai","Virginia Rail","Rallus limicola","L452526","Cattus Island County Park","2026-07-12 07:19",1,39.9826119,-74.1285324,TRUE,FALSE,FALSE,"S371224037"
+"330","virrai","Virginia Rail","Rallus limicola","L992303","Ankeny NWR--Rail Trail","2026-07-12 07:14",3,44.7741583,-123.0824089,TRUE,FALSE,FALSE,"S371212418"
+"331","virrai","Virginia Rail","Rallus limicola","L12936465","Mingus Pond Transect B","2026-07-12 07:07",1,42.370332,-122.89294,TRUE,FALSE,TRUE,"S371185927"
+"332","virrai","Virginia Rail","Rallus limicola","L6948577","Portage Creek Bicentennial Park","2026-07-12 07:06",1,42.2294707,-85.5784321,TRUE,FALSE,FALSE,"S371094988"
+"333","virrai","Virginia Rail","Rallus limicola","L447435","Hatfield Lake","2026-07-12 07:04",2,44.1232081,-121.198554,TRUE,FALSE,FALSE,"S371291017"
+"334","virrai","Virginia Rail","Rallus limicola","L9251935","Johnsonburg Swamp Preserve (Warren Co.)","2026-07-12 06:58",1,40.9760855,-74.8667993,TRUE,TRUE,FALSE,"S371173450"
+"335","virrai","Virginia Rail","Rallus limicola","L319816","Goose Pond FWA* general area (use more precise loc.)","2026-07-12 06:47",1,38.9820314,-87.1711363,TRUE,FALSE,FALSE,"S371330872"
+"336","virrai","Virginia Rail","Rallus limicola","L1658217","Camp Polk Meadow Preserve (restricted access)","2026-07-12 06:42",3,44.3204741,-121.5123711,TRUE,FALSE,FALSE,"S371253847"
+"337","virrai","Virginia Rail","Rallus limicola","L4710090","Aldo Leopold WMA","2026-07-12 06:30",1,42.6820884,-92.1554124,TRUE,FALSE,FALSE,"S371260547"
+"338","virrai","Virginia Rail","Rallus limicola","L44136338","Sunnyfield Dr. Marsh (roadside access only)","2026-07-12 06:13",2,41.9351471,-76.6079005,TRUE,FALSE,FALSE,"S371125161"
+"339","virrai","Virginia Rail","Rallus limicola","L873417","New River Area of Critical Environmental Concern","2026-07-12 06:12",1,42.996424,-124.4563866,TRUE,FALSE,FALSE,"S371258380"
+"340","virrai","Virginia Rail","Rallus limicola","L450231","Irish Grove MOS Sanctuary","2026-07-12 06:10",2,37.994404,-75.7302618,TRUE,FALSE,FALSE,"S371082117"
+"341","virrai","Virginia Rail","Rallus limicola","L1150226","Iroquois NWR--Kumpf Marsh","2026-07-12 06:09",1,43.1184025,-78.4346581,TRUE,FALSE,FALSE,"S371132046"
+"342","virrai","Virginia Rail","Rallus limicola","L343338","Everett Sewage Lagoons","2026-07-12 06:04",2,47.9988889,-122.17,TRUE,FALSE,FALSE,"S371242127"
+"343","virrai","Virginia Rail","Rallus limicola","L254786","Mentor Marsh State Nature Preserve","2026-07-12 05:45",4,41.7376575,-81.300753,TRUE,FALSE,FALSE,"S371121651"
+"344","virrai","Virginia Rail","Rallus limicola","L1959187","Chambers Creek - Grandview/Soundview Loop","2026-07-12 05:44",3,47.1993074,-122.5710203,TRUE,FALSE,TRUE,"S371375308"
+"345","virrai","Virginia Rail","Rallus limicola","L2457005","River Rd. marshes and RR tracks","2026-07-12 05:23",1,40.6165874,-74.1940534,TRUE,FALSE,FALSE,"S371209656"
+"346","virrai","Virginia Rail","Rallus limicola","L168886","Nauset Bay East","2026-07-12 05:01",1,41.842472,-69.948135,TRUE,FALSE,FALSE,"S371065451"
+"347","virrai","Virginia Rail","Rallus limicola","L5820155","coys brook","2026-07-12 05:00",2,42.2581827,-72.1049076,TRUE,FALSE,TRUE,"S371757477"
+"348","virrai","Virginia Rail","Rallus limicola","L1783919","Mare's Egg Spring","2026-07-11 21:30",1,42.6599234,-122.0880604,TRUE,FALSE,FALSE,"S370991201"
+"349","virrai","Virginia Rail","Rallus limicola","L73205294","6536 N Espana Ct, Aurora US-CO (39.8160,-104.7590)","2026-07-11 20:39",2,39.815978,-104.758958,TRUE,FALSE,TRUE,"S370945265"
+"350","virrai","Virginia Rail","Rallus limicola","L73308910","7305 Dunlavey Ridge Rd, Fraziers Bottom US-WV 38.63560, -82.00785","2026-07-11 20:37",1,38.6356,-82.007854,TRUE,FALSE,TRUE,"S371366909"
+"351","virrai","Virginia Rail","Rallus limicola","L733414","Conneaut Marsh--McMichael/Brown Hill Rd.","2026-07-11 19:55",1,41.587218,-80.2651531,TRUE,FALSE,FALSE,"S370945358"
+"352","virrai","Virginia Rail","Rallus limicola","L832224","Amon Creek--Willowbrook section","2026-07-11 19:47",1,46.2070124,-119.2621171,TRUE,FALSE,FALSE,"S370953175"
+"353","virrai","Virginia Rail","Rallus limicola","L6206084","Onondaga Lake Park--Marshy Spits Area","2026-07-11 19:44",1,43.065508,-76.192503,TRUE,FALSE,FALSE,"S370916026"
+"354","virrai","Virginia Rail","Rallus limicola","L924747","Cowlitz Bay Preserve","2026-07-11 18:47",1,48.6941898,-123.0424976,TRUE,FALSE,FALSE,"S370945343"
+"355","virrai","Virginia Rail","Rallus limicola","L7462406","Mason Valley WMA--South Unit (incl. Nature Trail, Weir, Joggles Ditch)","2026-07-11 18:46",1,39.0329236,-119.137514,TRUE,FALSE,FALSE,"S370954143"
+"356","virrai","Virginia Rail","Rallus limicola","L3192597","Damonte Ranch Wetlands--Veterans Pkwy Lake and Wetlands","2026-07-11 18:37",6,39.4202899,-119.7332203,TRUE,FALSE,FALSE,"S370953791"
+"357","virrai","Virginia Rail","Rallus limicola","L17661596","Eagle Lake - Merill Campground","2026-07-11 18:09",1,40.5566272,-120.8080016,TRUE,FALSE,FALSE,"S370936660"
+"358","virrai","Virginia Rail","Rallus limicola","L3822615","Ryan Meadow","2026-07-11 18:06",1,43.9518454,-121.4198899,TRUE,FALSE,FALSE,"S370950446"
+"359","virrai","Virginia Rail","Rallus limicola","L302859","Mackay Island NWR","2026-07-11 17:00",3,36.5170859,-75.9569081,TRUE,FALSE,FALSE,"S370927760"
+"360","virrai","Virginia Rail","Rallus limicola","L807500","Koll Center Wetlands Area","2026-07-11 16:35",1,45.4561652,-122.7919064,TRUE,FALSE,FALSE,"S370953039"
+"361","virrai","Virginia Rail","Rallus limicola","L152637","Fermilab (DuPage Co.)","2026-07-11 16:30",1,41.8395126,-88.2190218,TRUE,FALSE,FALSE,"S371314044"
+"362","virrai","Virginia Rail","Rallus limicola","L11068777","Vosburgh Trail, Altamont, New York, US (42.709, -73.94)","2026-07-11 13:53",1,42.7094893,-73.9395124,TRUE,FALSE,TRUE,"S370890192"
+"363","virrai","Virginia Rail","Rallus limicola","L9429297","Summer Lake Wildlife Area--River Ranch Campground and The Barn","2026-07-11 13:50",1,42.960428,-120.726701,TRUE,FALSE,FALSE,"S370872789"
+"364","virrai","Virginia Rail","Rallus limicola","L722281","Norwottuck Rail Trail--Station Rd.","2026-07-11 13:33",1,42.3426859,-72.4878573,TRUE,FALSE,FALSE,"S370801967"
+"365","virrai","Virginia Rail","Rallus limicola","L1512655","William Clough Preserve","2026-07-11 13:27",1,41.445224,-73.6058029,TRUE,FALSE,FALSE,"S370812652"
+"366","virrai","Virginia Rail","Rallus limicola","L9825059","Mitchell Ponds Trail","2026-07-11 12:33",3,43.6712062,-74.7410535,TRUE,FALSE,FALSE,"S372802268"
+"367","virrai","Virginia Rail","Rallus limicola","L60821624","2447 Sunlight Beach Road, Clinton, Washington, US (47.991, -122.481)","2026-07-11 12:32",2,47.9911938,-122.481121,TRUE,FALSE,TRUE,"S370866016"
+"368","virrai","Virginia Rail","Rallus limicola","L292411","Crescent Lake WMA","2026-07-11 12:26",1,47.8162308,-121.9934082,TRUE,FALSE,FALSE,"S370852660"
+"369","virrai","Virginia Rail","Rallus limicola","L2086209","Helen McCabe Park","2026-07-11 12:11",1,46.9253224,-120.5087382,TRUE,FALSE,FALSE,"S370834923"
+"370","virrai","Virginia Rail","Rallus limicola","L41509887","Meadow Loop, Hollis US-NH 42.72170, -71.62948","2026-07-11 12:07",1,42.721698,-71.62948,TRUE,FALSE,TRUE,"S370733946"
+"371","virrai","Virginia Rail","Rallus limicola","L4744202","Wimisink Preserve","2026-07-11 11:35",1,41.6380151,-73.5013783,TRUE,FALSE,FALSE,"S371353394"
+"372","virrai","Virginia Rail","Rallus limicola","L3482228","Killbuck Marsh Wildlife Area--Valley Rd. South","2026-07-11 11:25",1,40.6903032,-81.9808066,TRUE,FALSE,FALSE,"S370906201"
+"373","virrai","Virginia Rail","Rallus limicola","L73188553","Springdale Spring complex (Private property)","2026-07-11 11:22",1,37.02946,-116.751569,TRUE,FALSE,TRUE,"S370881822"
+"374","virrai","Virginia Rail","Rallus limicola","L73156382","Quivira National Wildlife Refuge, Stafford US-KS 38.18829, -98.52293","2026-07-11 10:53",1,38.188288,-98.522931,TRUE,FALSE,TRUE,"S370936410"
+"375","virrai","Virginia Rail","Rallus limicola","L5006963","Chapungu Sculpture Park at Centerra","2026-07-11 10:32",1,40.413415,-104.9880269,TRUE,FALSE,FALSE,"S370752704"
+"376","virrai","Virginia Rail","Rallus limicola","L508804","Montezuma NWR--Van Dyne Spoor Rd.","2026-07-11 10:28",4,43.0489452,-76.7335796,TRUE,FALSE,FALSE,"S370716458"
+"377","virrai","Virginia Rail","Rallus limicola","L44016340","Tewksbury Yard","2026-07-11 10:05",1,42.58145,-71.203734,TRUE,FALSE,TRUE,"S370747268"
+"378","virrai","Virginia Rail","Rallus limicola","L2123565","Canal Road, Toutle","2026-07-11 09:40",1,46.2967215,-122.7351379,TRUE,FALSE,FALSE,"S370791027"
+"379","virrai","Virginia Rail","Rallus limicola","L338300","Sierra Valley--Marble Hot Springs Rd.","2026-07-11 09:38",11,39.7627625,-120.3465128,TRUE,FALSE,FALSE,"S370907161"
+"380","virrai","Virginia Rail","Rallus limicola","L391136","Pt. Reyes--Drakes Beach (DO NOT INCLUDE Horseshoe Pond or beach/estero beyond Horseshoe Pond)","2026-07-11 09:31",1,38.0271821,-122.9615507,TRUE,FALSE,FALSE,"S370884916"
+"381","virrai","Virginia Rail","Rallus limicola","L139835","Lake Erie Metropark","2026-07-11 09:30",1,42.0691986,-83.1941986,TRUE,FALSE,FALSE,"S370758026"
+"382","virrai","Virginia Rail","Rallus limicola","L40145368","Mentor Marsh State Nature Preserve--Pipeline (Restricted Access)","2026-07-11 09:30",1,41.7275952,-81.3261889,TRUE,FALSE,TRUE,"S370720563"
+"383","virrai","Virginia Rail","Rallus limicola","L726768","Kern River Preserve--Headquarters","2026-07-11 09:24",2,35.669,-118.306,TRUE,FALSE,FALSE,"S370790475"
+"384","virrai","Virginia Rail","Rallus limicola","L1421915","Arroyo Hondo--Pond & Wetlands","2026-07-11 09:22",1,36.5340165,-105.668766,TRUE,FALSE,FALSE,"S370914347"
+"385","virrai","Virginia Rail","Rallus limicola","L684542","Canebrake Ecological Reserve","2026-07-11 09:15",1,35.7264561,-118.1698465,TRUE,FALSE,FALSE,"S371227154"
+"386","virrai","Virginia Rail","Rallus limicola","L1280066","Lost Creek Wetland (Stevens Point)","2026-07-11 08:54",1,44.5334556,-89.4655323,TRUE,FALSE,FALSE,"S370680688"
+"387","virrai","Virginia Rail","Rallus limicola","L252030","Horicon NWR--Auto Tour and Trails","2026-07-11 08:53",1,43.6237,-88.67391,TRUE,FALSE,FALSE,"S370772295"
+"388","virrai","Virginia Rail","Rallus limicola","L150417","Steigerwald Lake NWR","2026-07-11 08:47",1,45.5676572,-122.3147392,TRUE,FALSE,FALSE,"S370825218"
+"389","virrai","Virginia Rail","Rallus limicola","L208678","Vischer Ferry Nature & Historic Preserve","2026-07-11 08:38",1,42.7860031,-73.8023715,TRUE,FALSE,FALSE,"S370717179"
+"390","virrai","Virginia Rail","Rallus limicola","L12170208","Cherry Creek SP--Prairie Loop","2026-07-11 08:29",1,39.6310891,-104.8538449,TRUE,FALSE,FALSE,"S370712134"
+"391","virrai","Virginia Rail","Rallus limicola","L4344479","Lee Metcalf NWR--Kenai Trail","2026-07-11 08:14",1,46.5603357,-114.073416,TRUE,FALSE,FALSE,"S370821764"
+"392","virrai","Virginia Rail","Rallus limicola","L989640","Hudeman Slough Wetlands (formerly Hudeman Slough)","2026-07-11 08:13",2,38.2203803,-122.3933011,TRUE,FALSE,FALSE,"S370776229"
+"393","virrai","Virginia Rail","Rallus limicola","L159726","Sensiba SWA","2026-07-11 08:02",1,44.6403,-88.0155,TRUE,FALSE,FALSE,"S370701879"
+"394","virrai","Virginia Rail","Rallus limicola","L830113","Powell Slough","2026-07-11 08:01",1,40.2716348,-111.7405915,TRUE,FALSE,FALSE,"S370701833"
+"395","virrai","Virginia Rail","Rallus limicola","L1515665","Three Meadows Marsh (restricted access)","2026-07-11 08:00",1,48.5606729,-123.0681595,TRUE,FALSE,FALSE,"S370818958"
+"396","virrai","Virginia Rail","Rallus limicola","L51984617","1211 Main Street, Grand Isle, Maine, US (47.266, -68.098)","2026-07-11 08:00",1,47.265541,-68.0982792,TRUE,FALSE,TRUE,"S370631752"
+"397","virrai","Virginia Rail","Rallus limicola","L12545056","Harlem Valley Rail Trail--Rudd Pond Road to White House Crossing","2026-07-11 07:56",3,42.0259729,-73.5197251,TRUE,FALSE,FALSE,"S371783924"
+"398","virrai","Virginia Rail","Rallus limicola","L1672642","Ausable Marsh WMA","2026-07-11 07:55",2,44.5684585,-73.4335613,TRUE,FALSE,FALSE,"S370747516"
+"399","virrai","Virginia Rail","Rallus limicola","L1588211","Sherburne railroad grade marsh","2026-07-11 07:54",2,42.6478491,-75.5313063,TRUE,FALSE,FALSE,"S370661920"
+"400","virrai","Virginia Rail","Rallus limicola","L491963","William L. Finley NWR--McFadden Marsh","2026-07-11 07:15",2,44.3907013,-123.2976294,TRUE,FALSE,FALSE,"S370694243"
+"401","virrai","Virginia Rail","Rallus limicola","L4971040","Howard Marsh Metropark","2026-07-11 07:11",1,41.6450689,-83.2637178,TRUE,FALSE,FALSE,"S370910848"
+"402","virrai","Virginia Rail","Rallus limicola","L568465","Otter View Park","2026-07-11 07:02",1,44.0197155,-73.1787837,TRUE,FALSE,FALSE,"S370603344"
+"403","virrai","Virginia Rail","Rallus limicola","L11175361","Duffy’s Pond","2026-07-11 06:59",2,46.213655,-119.111352,TRUE,FALSE,FALSE,"S371116747"
+"404","virrai","Virginia Rail","Rallus limicola","L2231788","Fish Lake (Chelan Co.)","2026-07-11 06:58",1,47.8307071,-120.7125806,TRUE,FALSE,FALSE,"S370760005"
+"405","virrai","Virginia Rail","Rallus limicola","L3039102","Van Tuyl Ranch Trail","2026-07-11 06:56",1,38.563381,-106.937601,TRUE,FALSE,FALSE,"S370649647"
+"406","virrai","Virginia Rail","Rallus limicola","L9147199","Belle Isle Marsh--Lawn Ave. Path","2026-07-11 06:39",1,42.3888101,-70.9947877,TRUE,FALSE,FALSE,"S370558271"
+"407","virrai","Virginia Rail","Rallus limicola","L109136","Cape Island--South Cape May Meadows (SCMM)","2026-07-11 06:30",1,38.9359287,-74.9434519,TRUE,FALSE,FALSE,"S370723679"
+"408","virrai","Virginia Rail","Rallus limicola","L845454","Kern River Preserve--Mariposa/Alexander","2026-07-11 06:25",2,35.6757052,-118.2946014,TRUE,FALSE,FALSE,"S370757272"
+"409","virrai","Virginia Rail","Rallus limicola","L73207639","Poudre canyon","2026-07-11 06:15",1,40.6982949,-105.6239377,TRUE,FALSE,TRUE,"S370954027"
+"410","virrai","Virginia Rail","Rallus limicola","L1227281","Missisquoi NWR--Charcoal Creek","2026-07-11 05:58",1,44.9702025,-73.1789446,TRUE,FALSE,FALSE,"S370580391"
+"411","virrai","Virginia Rail","Rallus limicola","L6179390","Old Marsh Road - East End","2026-07-11 05:57",4,43.6113707,-88.6193061,TRUE,FALSE,TRUE,"S370743678"
+"412","virrai","Virginia Rail","Rallus limicola","L61033445","Hanning Flat Recreation Area","2026-07-11 05:53",1,35.6746,-118.3734,TRUE,FALSE,FALSE,"S370773431"
+"413","virrai","Virginia Rail","Rallus limicola","L32088963","Slag Point (Morgan Park Mudflats)","2026-07-11 05:50",3,46.6867,-92.201862,TRUE,FALSE,FALSE,"S370684899"
+"414","virrai","Virginia Rail","Rallus limicola","L523951","Stipson Island Rd.","2026-07-11 04:30",1,39.1890256,-74.9109006,TRUE,FALSE,FALSE,"S370716997"
+"415","virrai","Virginia Rail","Rallus limicola","L3330516","Plummer's Hollow","2026-07-11 00:00",1,40.665,-78.23028,TRUE,TRUE,FALSE,"S372292725"
+"416","virrai","Virginia Rail","Rallus limicola","L9814796","McHugh wetlands (private property)","2026-07-10 20:35",1,42.2088995,-93.8363915,TRUE,FALSE,FALSE,"S370416362"
+"417","virrai","Virginia Rail","Rallus limicola","L3065196","Thorne Swift Nature Preserve","2026-07-10 20:34",1,45.4530866,-85.0627184,TRUE,FALSE,FALSE,"S370408609"
+"418","virrai","Virginia Rail","Rallus limicola","L73075598","Glacial Drumlin State Trail, Lake Mills US-WI 43.05795, -88.97330","2026-07-10 20:29",1,43.057949,-88.973296,TRUE,FALSE,TRUE,"S370425748"
+"419","virrai","Virginia Rail","Rallus limicola","L12344970","Lake Louise Bird Sanctuary","2026-07-10 20:25",1,48.7076007,-122.3254308,TRUE,FALSE,FALSE,"S370429902"
+"420","virrai","Virginia Rail","Rallus limicola","L73065872","SD-127, New Effington US-SD 45.84882, -96.89472","2026-07-10 18:55",1,45.848821,-96.894722,TRUE,FALSE,TRUE,"S370388789"
+"421","virrai","Virginia Rail","Rallus limicola","L1791873","Wheat Ridge Greenbelt--Bass Lake Wildlife Trail","2026-07-10 18:45",1,39.7720371,-105.1336853,TRUE,FALSE,FALSE,"S370408413"
+"422","virrai","Virginia Rail","Rallus limicola","L1331363","Independence Greenway Trail","2026-07-10 18:37",2,42.5460224,-71.0002157,TRUE,FALSE,FALSE,"S370391389"
+"423","virrai","Virginia Rail","Rallus limicola","L48093099","Bogles Wharf Road, Rock Hall, Maryland, US (39.036, -76.218)","2026-07-10 18:20",1,39.0362473,-76.2178923,TRUE,FALSE,TRUE,"S370365831"
+"424","virrai","Virginia Rail","Rallus limicola","L15719825","8512 U.S. 51, Minocqua, Wisconsin, US (45.876, -89.705)","2026-07-10 18:19",2,45.8757752,-89.7038539,TRUE,FALSE,TRUE,"S370379276"
+"425","virrai","Virginia Rail","Rallus limicola","L26341965","Rocky Ford Creek Fishing Access","2026-07-10 17:40",2,47.3227439,-119.4405248,TRUE,FALSE,TRUE,"S370447630"
+"426","virrai","Virginia Rail","Rallus limicola","L15715646","Bergstrom Waterfowl Complex","2026-07-10 16:29",1,44.474149,-88.523537,TRUE,FALSE,FALSE,"S370871166"
+"427","virrai","Virginia Rail","Rallus limicola","L738429","Belfair State Park","2026-07-10 13:31",1,47.4293937,-122.8781319,TRUE,FALSE,FALSE,"S370333181"
+"428","virrai","Virginia Rail","Rallus limicola","L742874","Fern Ridge WMA--Perkins Peninsula","2026-07-10 13:10",1,44.0569986,-123.2899475,TRUE,FALSE,FALSE,"S370332238"
+"429","virrai","Virginia Rail","Rallus limicola","L7276896","National Elk Refuge--Bert's Bench","2026-07-10 12:09",1,43.486779,-110.7611743,TRUE,FALSE,FALSE,"S370316515"
+"430","virrai","Virginia Rail","Rallus limicola","L340370","Hollister Water Treatment Plant  (No public access)","2026-07-10 11:50",1,36.8544884,-121.4469051,TRUE,FALSE,FALSE,"S370435717"
+"431","virrai","Virginia Rail","Rallus limicola","L45498642","Shasta Valley WA--Trout Lake","2026-07-10 11:39",1,41.690594,-122.480795,TRUE,FALSE,FALSE,"S370330123"
+"432","virrai","Virginia Rail","Rallus limicola","L717614","CJ Strike WMA--Jack's Creek","2026-07-10 11:30",1,42.8996097,-115.8592415,TRUE,FALSE,FALSE,"S370411576"
+"433","virrai","Virginia Rail","Rallus limicola","L777463","Egypt Lane Ponds, Fairhaven","2026-07-10 10:15",1,41.634733,-70.892723,TRUE,FALSE,FALSE,"S370191959"
+"434","virrai","Virginia Rail","Rallus limicola","L43600183","Old Marsh Road East end","2026-07-10 09:45",1,43.5970518,-88.6440468,TRUE,FALSE,TRUE,"S370271652"
+"435","virrai","Virginia Rail","Rallus limicola","L207664","Las Gallinas Valley Sanitary District","2026-07-10 09:41",1,38.0274109,-122.515583,TRUE,FALSE,FALSE,"S370381318"
+"436","virrai","Virginia Rail","Rallus limicola","L1285865","Bethany Lake Park","2026-07-10 09:38",1,45.5572001,-122.8692913,TRUE,FALSE,FALSE,"S370359428"
+"437","virrai","Virginia Rail","Rallus limicola","L462778","Montezuma NWR--Visitor Center area","2026-07-10 09:30",1,42.9669441,-76.7409772,TRUE,FALSE,FALSE,"S370176040"
+"438","virrai","Virginia Rail","Rallus limicola","L34154598","Hoff-Fronning WPA","2026-07-10 09:14",1,46.1867057,-96.0399746,TRUE,FALSE,FALSE,"S370206920"
+"439","virrai","Virginia Rail","Rallus limicola","L256020","Zmudowski SB","2026-07-10 09:01",1,36.8372464,-121.8014572,TRUE,FALSE,FALSE,"S370354895"
+"440","virrai","Virginia Rail","Rallus limicola","L55383709","Modoc National Wildlife Refuge","2026-07-10 08:54",1,41.4679789,-120.5267086,TRUE,FALSE,TRUE,"S370451738"
+"441","virrai","Virginia Rail","Rallus limicola","L4759341","Greer--East Fork Road (1121/FS79)","2026-07-10 08:39",1,34.0069216,-109.4542766,TRUE,FALSE,FALSE,"S370250118"
+"442","virrai","Virginia Rail","Rallus limicola","L594112","Twin Lakes Rock Co WMA","2026-07-10 08:32",1,42.3143853,-99.4852352,TRUE,FALSE,FALSE,"S370167586"
+"443","virrai","Virginia Rail","Rallus limicola","L634615","Commonwealth Lake Park","2026-07-10 08:32",1,45.5119108,-122.8098106,TRUE,FALSE,FALSE,"S370254402"
+"444","virrai","Virginia Rail","Rallus limicola","L41886152","Hammock River Marsh Wildlife Area","2026-07-10 08:12",1,41.2670519,-72.5101019,TRUE,FALSE,FALSE,"S370131974"
+"445","virrai","Virginia Rail","Rallus limicola","L25873065","Lear Blvd Ponds and Wetlands","2026-07-10 08:09",1,39.6469011,-119.8509521,TRUE,FALSE,FALSE,"S370361913"
+"446","virrai","Virginia Rail","Rallus limicola","L504770","Stoddard Slough WMA ","2026-07-10 07:45",1,41.0635849,-111.7102638,TRUE,FALSE,FALSE,"S370300344"
+"447","virrai","Virginia Rail","Rallus limicola","L829123","William L. Finley NWR--Cabell Marsh Gazebo","2026-07-10 07:44",3,44.4176818,-123.3243334,TRUE,FALSE,FALSE,"S370309626"
+"448","virrai","Virginia Rail","Rallus limicola","L2097983","William L. Finley NWR--Turtle Flats","2026-07-10 07:42",1,44.4222259,-123.3144093,TRUE,FALSE,FALSE,"S370197522"
+"449","virrai","Virginia Rail","Rallus limicola","L1486456","Bull River wetland","2026-07-10 07:36",1,48.1969295,-115.8548644,TRUE,FALSE,FALSE,"S370331710"
+"450","virrai","Virginia Rail","Rallus limicola","L7753966","Open Sky Loop Trail","2026-07-10 07:36",1,40.1363436,-105.1908259,TRUE,FALSE,TRUE,"S370216965"
+"451","virrai","Virginia Rail","Rallus limicola","L73003819","Auto selected 45.72368, -99.46951","2026-07-10 07:32",2,45.723679,-99.469505,TRUE,FALSE,TRUE,"S370141127"
+"452","virrai","Virginia Rail","Rallus limicola","L73003931","Wetland W of Clear Lake","2026-07-10 07:20",1,46.923563,-100.249242,TRUE,FALSE,TRUE,"S370141750"
+"453","virrai","Virginia Rail","Rallus limicola","L159584","Jackson Bottom Wetlands Preserve","2026-07-10 07:18",1,45.505,-122.9889,TRUE,FALSE,FALSE,"S370275998"
+"454","virrai","Virginia Rail","Rallus limicola","L3572935","Swan Lake Nature Study Area (IBA)--Boardwalk","2026-07-10 07:16",3,39.6531916,-119.856496,TRUE,FALSE,FALSE,"S370361939"
+"455","virrai","Virginia Rail","Rallus limicola","L2747329","Marjorie Perry Nature Preserve","2026-07-10 06:33",1,39.6204613,-104.9354517,TRUE,FALSE,FALSE,"S370312193"
+"456","virrai","Virginia Rail","Rallus limicola","L59898961","Bosque del Apache National wildlife refuge","2026-07-10 06:30",2,33.8045233,-106.8910074,TRUE,FALSE,TRUE,"S371235343"
+"457","virrai","Virginia Rail","Rallus limicola","L6435174","Salt Creek Trail--Monarch Beach segment","2026-07-10 06:29",1,33.4876714,-117.7196604,TRUE,FALSE,FALSE,"S370219525"
+"458","virrai","Virginia Rail","Rallus limicola","L1867387","Linden Hawk Rise Sanctuary","2026-07-10 06:06",1,40.602752,-74.2479886,TRUE,TRUE,FALSE,"S370203165"
+"459","virrai","Virginia Rail","Rallus limicola","L450041","Poplar Island (access by guided tour only)","2026-07-10 05:54",2,38.7648589,-76.3814163,TRUE,FALSE,FALSE,"S370561231"
+"460","virrai","Virginia Rail","Rallus limicola","L967691","Greer--Little Colorado River (north crossing)","2026-07-10 05:32",1,34.0233648,-109.4504786,TRUE,FALSE,FALSE,"S370249781"
+"461","virrai","Virginia Rail","Rallus limicola","L72972830","52 Cemetery Rd, Gosnold US-MA 41.42093, -70.92658","2026-07-09 22:49",1,41.420931,-70.926582,TRUE,FALSE,TRUE,"S369991093"
+"462","virrai","Virginia Rail","Rallus limicola","L1548496","Jamie Hill's Waterford, PA, Wildlife Sanctuary","2026-07-09 22:00",1,41.9315959,-79.956799,TRUE,FALSE,TRUE,"S369986391"
+"463","virrai","Virginia Rail","Rallus limicola","L72969923","Beall Lane","2026-07-09 21:43",1,39.066043,-79.424105,TRUE,TRUE,TRUE,"S369983421"
+"464","virrai","Virginia Rail","Rallus limicola","L49678290","CR HH (Las Animas Cty, CO)","2026-07-09 20:59",3,38.085351,-103.124648,TRUE,FALSE,TRUE,"S370003671"
+"465","virrai","Virginia Rail","Rallus limicola","L509261","Equalizer Lake","2026-07-09 20:42",1,40.4157179,-105.0078392,TRUE,FALSE,FALSE,"S369991602"
+"466","virrai","Virginia Rail","Rallus limicola","L15027503","Blackfoot-Clearwater WMA","2026-07-09 20:09",1,47.0087353,-113.3824353,TRUE,FALSE,FALSE,"S370239195"
+"467","virrai","Virginia Rail","Rallus limicola","L594701","Coddington Valley Rail Trail--Ridgeway Rd. to Finger Lakes Trail","2026-07-09 20:03",2,42.33468,-76.38556,TRUE,FALSE,FALSE,"S369965680"
+"468","virrai","Virginia Rail","Rallus limicola","L589213","Modoc NWR","2026-07-09 19:11",1,41.4575229,-120.5219078,TRUE,FALSE,FALSE,"S369989769"
+"469","virrai","Virginia Rail","Rallus limicola","L23762146","Benner Rd. New Franklin","2026-07-09 18:52",1,40.9154656,-81.5948275,TRUE,FALSE,TRUE,"S369946538"
+"470","virrai","Virginia Rail","Rallus limicola","L11473759","Somers Marsh","2026-07-09 18:52",1,41.3262362,-73.6903374,TRUE,FALSE,FALSE,"S371668197"
+"471","virrai","Virginia Rail","Rallus limicola","L109132","Cape Island--Cape May Point SP (CMPSP)","2026-07-09 18:28",1,38.9338272,-74.9550854,TRUE,FALSE,FALSE,"S369945902"
+"472","virrai","Virginia Rail","Rallus limicola","L299772","Yellowstone NP--Floating Island Lake","2026-07-09 18:11",1,44.9423636,-110.4497081,TRUE,FALSE,FALSE,"S370198415"
+"473","virrai","Virginia Rail","Rallus limicola","L72966581","Erie Canal Towpath Community Connector Trail, Clifton Park US-NY 42.79290, -73.79601","2026-07-09 18:06",1,42.792903,-73.796012,TRUE,FALSE,TRUE,"S369967302"
+"474","virrai","Virginia Rail","Rallus limicola","L69206433","Erie Canal Towpath Community Connector Trail, Rexford US-NY 42.79281, -73.79621","2026-07-09 18:05",1,42.792809,-73.796209,TRUE,FALSE,TRUE,"S369967307"
+"475","virrai","Virginia Rail","Rallus limicola","L72973270","Clear Creek Community Park","2026-07-09 15:29",3,40.2985041,-121.0485492,TRUE,FALSE,TRUE,"S369992765"
+"476","virrai","Virginia Rail","Rallus limicola","L53164809","16979 E County Road 2705 N, Danville US-IL 40.25768, -87.62381","2026-07-09 13:57",1,40.257684,-87.623812,TRUE,FALSE,TRUE,"S369931747"
+"477","virrai","Virginia Rail","Rallus limicola","L131619","Holbrook Reservoir","2026-07-09 13:42",1,38.0627775,-103.6097217,TRUE,FALSE,FALSE,"S369911861"
+"478","virrai","Virginia Rail","Rallus limicola","L37884758","RA4 Nature Area","2026-07-09 12:53",1,45.5417682,-122.9132927,TRUE,FALSE,TRUE,"S369894635"
+"479","virrai","Virginia Rail","Rallus limicola","L49997338","29500–29648 725th Ave, Dassel US-MN 45.16779, -94.30703","2026-07-09 12:44",1,45.167794,-94.307032,TRUE,FALSE,TRUE,"S369847209"
+"480","virrai","Virginia Rail","Rallus limicola","L338154","Windsor Reservoir","2026-07-09 12:34",1,40.5343848,-104.8904285,TRUE,FALSE,FALSE,"S370799720"
+"481","virrai","Virginia Rail","Rallus limicola","L46981166","Driebelbis Birding Area","2026-07-09 12:02",1,40.844117,-77.98342,TRUE,FALSE,TRUE,"S369842338"
+"482","virrai","Virginia Rail","Rallus limicola","L770875","Bear River MBR--Visitor Center","2026-07-09 11:39",1,41.5076774,-112.068851,TRUE,FALSE,FALSE,"S369932399"
+"483","virrai","Virginia Rail","Rallus limicola","L2999203","Eleanor Roosevelt NHS (Val-kill)","2026-07-09 11:05",1,41.7618317,-73.8986966,TRUE,FALSE,FALSE,"S369935870"
+"484","virrai","Virginia Rail","Rallus limicola","L1066362","Patuxent River Park--Nottingham","2026-07-09 10:30",3,38.7110316,-76.7096329,TRUE,FALSE,FALSE,"S369916398"
+"485","virrai","Virginia Rail","Rallus limicola","L1023024","Seaquest SP--Wetland Haven Trail","2026-07-09 10:28",1,46.2936673,-122.8197455,TRUE,FALSE,FALSE,"S369853429"
+"486","virrai","Virginia Rail","Rallus limicola","L520349","Edwards AFB--south evaporation ponds (restricted access)","2026-07-09 09:59",2,34.8625527,-117.877636,TRUE,FALSE,FALSE,"S370120809"
+"487","virrai","Virginia Rail","Rallus limicola","L269461","Magnuson Park","2026-07-09 09:38",1,47.6815336,-122.2505453,TRUE,FALSE,FALSE,"S369835677"
+"488","virrai","Virginia Rail","Rallus limicola","L163529","Fernhill Wetlands (general)","2026-07-09 09:32",1,45.5064875,-123.0851855,TRUE,FALSE,FALSE,"S369830898"
+"489","virrai","Virginia Rail","Rallus limicola","L132036","Bashakill State WMA","2026-07-09 09:30",3,41.5384264,-74.5156422,TRUE,FALSE,FALSE,"S369844582"
+"490","virrai","Virginia Rail","Rallus limicola","L487186","Hart-Miller Island","2026-07-09 09:18",2,39.2487391,-76.3652802,TRUE,FALSE,FALSE,"S369906295"
+"491","virrai","Virginia Rail","Rallus limicola","L659890","Amelia Earhart Dam","2026-07-09 09:08",1,42.3955092,-71.0739899,TRUE,FALSE,FALSE,"S369761913"
+"492","virrai","Virginia Rail","Rallus limicola","L9651991","Black Lake","2026-07-09 09:07",1,47.2124753,-68.4649342,TRUE,FALSE,FALSE,"S369766608"
+"493","virrai","Virginia Rail","Rallus limicola","L67933719","CSKT Habitat Conservation Area KHN6","2026-07-09 09:03",1,47.395348,-114.185457,TRUE,FALSE,TRUE,"S369977059"
+"494","virrai","Virginia Rail","Rallus limicola","L4847526","Old St Louis Natural Area","2026-07-09 08:50",3,40.38349,-105.0632609,TRUE,FALSE,FALSE,"S369793648"
+"495","virrai","Virginia Rail","Rallus limicola","L1432660","West Kingston Wetland (roadside viewing only)","2026-07-09 08:38",1,47.7994915,-122.5387492,TRUE,FALSE,FALSE,"S369820644"
+"496","virrai","Virginia Rail","Rallus limicola","L46049432","2947–2999 38th Ave SE, Dawson US-ND 46.98456, -99.69237","2026-07-09 08:35",1,46.984561,-99.692368,TRUE,FALSE,TRUE,"S369976597"
+"497","virrai","Virginia Rail","Rallus limicola","L51975455","Rocky Mountain Arsenal NWR--Lower Ladora area","2026-07-09 08:35",1,39.813165,-104.849883,TRUE,FALSE,FALSE,"S370001000"
+"498","virrai","Virginia Rail","Rallus limicola","L10101902","Pushaw Lake--Gould Landing (OLT)","2026-07-09 08:24",1,44.8974489,-68.7880328,TRUE,FALSE,FALSE,"S369839417"
+"499","virrai","Virginia Rail","Rallus limicola","L911700","Burrage Pond WMA","2026-07-09 08:16",1,42.0212167,-70.8722806,TRUE,FALSE,FALSE,"S369742624"
+"500","virrai","Virginia Rail","Rallus limicola","L9971552","Hollywood Blvd, Whitefield ME","2026-07-09 08:00",1,44.1350969,-69.6012925,TRUE,FALSE,TRUE,"S369827710"
+"501","virrai","Virginia Rail","Rallus limicola","L390863","Indian Creek Reservoir","2026-07-09 07:57",1,43.3878656,-116.0129213,TRUE,FALSE,FALSE,"S369781149"
+"502","virrai","Virginia Rail","Rallus limicola","L913805","Long Pond--Massasoit Bridge","2026-07-09 07:27",1,41.2721783,-70.1856422,TRUE,FALSE,FALSE,"S369955035"
+"503","virrai","Virginia Rail","Rallus limicola","L167924","Rocky Mountain Arsenal NWR (Please use more specific locations)","2026-07-09 07:14",1,39.8209707,-104.8680639,TRUE,FALSE,FALSE,"S369777873"
+"504","virrai","Virginia Rail","Rallus limicola","L1457027","Shelburne Pond, Pond Road wetlands (UVM Natural Area)","2026-07-09 07:02",1,44.3764908,-73.1481275,TRUE,FALSE,FALSE,"S369924455"
+"505","virrai","Virginia Rail","Rallus limicola","L42249679","Homestead Fields, Fall City US-WA 47.56854, -121.87838","2026-07-09 06:58",1,47.568545,-121.878376,TRUE,FALSE,TRUE,"S369834703"
+"506","virrai","Virginia Rail","Rallus limicola","L16401239","Townsend-Grady Wildlife Preserve","2026-07-09 06:57",2,42.5993954,-77.1473425,TRUE,FALSE,FALSE,"S369699388"
+"507","virrai","Virginia Rail","Rallus limicola","L248057","Pte. Mouillee SGA (permit required Sep 1-Dec 31)","2026-07-09 06:53",2,42.0364452,-83.2114657,TRUE,FALSE,FALSE,"S369757815"
+"508","virrai","Virginia Rail","Rallus limicola","L207765","Tifft Nature Preserve","2026-07-09 06:45",1,42.8462509,-78.8594553,TRUE,FALSE,FALSE,"S369722894"
+"509","virrai","Virginia Rail","Rallus limicola","L2246364","Fort Hill WMA, Stratford","2026-07-09 06:23",1,44.6598622,-71.5734386,TRUE,FALSE,FALSE,"S369729294"
+"510","virrai","Virginia Rail","Rallus limicola","L730351","Charleston Slough/Coast Casey Forebay","2026-07-09 06:10",1,37.4359191,-122.098918,TRUE,FALSE,FALSE,"S369995345"
+"511","virrai","Virginia Rail","Rallus limicola","L483865","Running Deer & Cottonwood Hollow Natural Areas","2026-07-09 06:04",2,40.5656971,-105.017178,TRUE,FALSE,FALSE,"S369784031"
+"512","virrai","Virginia Rail","Rallus limicola","L65405339","Lower Klamath National Wildlife Refuge, Tulelake US-CA 41.97572, -121.71365","2026-07-09 04:51",1,41.975715,-121.713648,TRUE,FALSE,TRUE,"S369751223"
+"513","virrai","Virginia Rail","Rallus limicola","L27239018","16979 E County Road 2705 N, Danville US-IL 40.25768, -87.62378","2026-07-08 22:12",1,40.257683,-87.623781,TRUE,FALSE,TRUE,"S369584527"
+"514","virrai","Virginia Rail","Rallus limicola","L986996","Tivoli Bays WMA","2026-07-08 19:50",3,42.0482729,-73.9215946,TRUE,FALSE,FALSE,"S369585609"
+"515","virrai","Virginia Rail","Rallus limicola","L41632341","76745–76771 E Highway 730, Irrigon US-OR 45.90431, -119.45079","2026-07-08 19:48",1,45.904309,-119.450785,TRUE,FALSE,TRUE,"S369788912"
+"516","virrai","Virginia Rail","Rallus limicola","L1350365","Payen Rd. (ED Co.)","2026-07-08 19:36",3,38.6127457,-121.0693099,TRUE,FALSE,FALSE,"S369585000"
+"517","virrai","Virginia Rail","Rallus limicola","L996486","Cider Knoll Conservation Land","2026-07-08 18:48",1,42.3691348,-71.5151167,TRUE,FALSE,FALSE,"S369541825"
+"518","virrai","Virginia Rail","Rallus limicola","L942502","Santa Fe Canyon Preserve","2026-07-08 18:47",2,35.6883371,-105.8927482,TRUE,FALSE,FALSE,"S369575013"
+"519","virrai","Virginia Rail","Rallus limicola","L3084439","Greer--Lazy Trout Motel and Store","2026-07-08 18:37",1,34.0260813,-109.4506046,TRUE,FALSE,TRUE,"S369580228"
+"520","virrai","Virginia Rail","Rallus limicola","L207387","Smiley's Pond, South Egremont","2026-07-08 15:20",1,42.158,-73.424,TRUE,FALSE,FALSE,"S369486213"
+"521","virrai","Virginia Rail","Rallus limicola","L758167","Pontook Reservoir, Dummer","2026-07-08 15:00",1,44.6364873,-71.2434597,TRUE,FALSE,FALSE,"S369465273"
+"522","virrai","Virginia Rail","Rallus limicola","L233562","East Boulder Trail--Teller Lakes","2026-07-08 14:57",1,40.0393258,-105.1421853,TRUE,FALSE,FALSE,"S369507442"
+"523","virrai","Virginia Rail","Rallus limicola","L11608300","Dwyer Rd. Swamp and Trail","2026-07-08 14:39",1,43.1530602,-75.5845785,TRUE,FALSE,FALSE,"S371087221"
+"524","virrai","Virginia Rail","Rallus limicola","L35719684","Valentine NWR--Little Hay Lake","2026-07-08 13:21",1,42.5377065,-100.5548441,TRUE,FALSE,FALSE,"S369467247"
+"525","virrai","Virginia Rail","Rallus limicola","L275986","Magee Marsh--Boardwalk","2026-07-08 13:09",1,41.6277095,-83.191884,TRUE,FALSE,FALSE,"S369463467"
+"526","virrai","Virginia Rail","Rallus limicola","L2182592","Larry Wehmeyer Environmental Education Area","2026-07-08 12:45",1,41.2945672,-122.32557,TRUE,FALSE,FALSE,"S369504012"
+"527","virrai","Virginia Rail","Rallus limicola","L246473","Conewango Swamp WMA","2026-07-08 12:29",1,42.1794444,-78.9861111,TRUE,FALSE,FALSE,"S369519879"
+"528","virrai","Virginia Rail","Rallus limicola","L620466","Rocky Neck SP","2026-07-08 11:56",1,41.3028935,-72.2409868,TRUE,FALSE,FALSE,"S369397376"
+"529","virrai","Virginia Rail","Rallus limicola","L381890","Bluff Lake","2026-07-08 11:27",1,34.2198934,-116.968689,TRUE,TRUE,FALSE,"S369501636"
+"530","virrai","Virginia Rail","Rallus limicola","L5829918","EC Fish Lake","2026-07-08 10:50",1,41.5818589,-85.6632613,TRUE,FALSE,TRUE,"S369534901"
+"531","virrai","Virginia Rail","Rallus limicola","L73274724","Hosmer Lake, Sisters US-OR 43.97143, -121.77792","2026-07-08 10:49",2,43.971431,-121.777924,TRUE,FALSE,TRUE,"S371243807"
+"532","virrai","Virginia Rail","Rallus limicola","L12748878","Manton Mansion","2026-07-08 10:30",1,44.4344682,-85.479805,TRUE,FALSE,TRUE,"S372233516"
+"533","virrai","Virginia Rail","Rallus limicola","L29468978","Copeland WMA","2026-07-08 10:30",2,46.1199083,-96.2309217,TRUE,FALSE,FALSE,"S369399762"
+"534","virrai","Virginia Rail","Rallus limicola","L3546269","Jackson Bottom Wetlands Preserve--Survey Area 1","2026-07-08 10:13",NA,45.5022695,-122.986249,TRUE,FALSE,FALSE,"S369445447"
+"535","virrai","Virginia Rail","Rallus limicola","L56691885","2463 Sunlight Beach Road, Clinton, Washington, US (47.991, -122.48)","2026-07-08 10:09",2,47.9908995,-122.4803069,TRUE,FALSE,TRUE,"S369589887"
+"536","virrai","Virginia Rail","Rallus limicola","L13530124","Rodman Slough Park","2026-07-08 09:50",1,39.1179868,-122.8849653,TRUE,FALSE,FALSE,"S369822242"
+"537","virrai","Virginia Rail","Rallus limicola","L72679329","Centerville Restoration Project--Cannibal Island SW CBBA block","2026-07-08 09:28",1,40.6268863,-124.3176235,TRUE,FALSE,TRUE,"S369533209"
+"538","virrai","Virginia Rail","Rallus limicola","L712218","Beechwood SP","2026-07-08 09:15",1,43.2673188,-77.0297813,TRUE,FALSE,FALSE,"S369375519"
+"539","virrai","Virginia Rail","Rallus limicola","L5765319","Cherry Creek SP--Pelican Point area","2026-07-08 08:25",1,39.6364436,-104.8418274,TRUE,FALSE,FALSE,"S369364436"
+"540","virrai","Virginia Rail","Rallus limicola","L11862979","Sinclair Thoroughfare","2026-07-08 08:21",1,47.16604,-68.2679972,TRUE,FALSE,TRUE,"S369332024"
+"541","virrai","Virginia Rail","Rallus limicola","L72871835","Mackenzie Meadows (Private, roadside access only)","2026-07-08 08:15",1,40.3491434,-120.899622,TRUE,FALSE,TRUE,"S369553101"
+"542","virrai","Virginia Rail","Rallus limicola","L393329","Sanford Lagoons (open Mon. - Fri., 8 am - 3 pm, closed weekends and holidays)","2026-07-08 08:14",1,43.4122805,-70.7238007,TRUE,FALSE,FALSE,"S369356920"
+"543","virrai","Virginia Rail","Rallus limicola","L32510429","Marden Cobb Waterway Trail, US 62 near PA Line (NY)","2026-07-08 08:10",1,42.0015006,-79.1553424,TRUE,FALSE,FALSE,"S369518801"
+"544","virrai","Virginia Rail","Rallus limicola","L462733","Chief Timothy Park","2026-07-08 08:03",1,46.4159672,-117.1939945,TRUE,FALSE,FALSE,"S370209152"
+"545","virrai","Virginia Rail","Rallus limicola","L59801775","360 Discovery Bay Blvd, Discovery Bay US-CA (37.9174,-121.5920)","2026-07-08 08:01",1,37.91741,-121.591984,TRUE,FALSE,TRUE,"S369542202"
+"546","virrai","Virginia Rail","Rallus limicola","L59589977","Beall Lane","2026-07-08 07:57",1,39.0660141,-79.4236843,TRUE,TRUE,TRUE,"S369384990"
+"547","virrai","Virginia Rail","Rallus limicola","L2182908","North Ottawa Impoundment","2026-07-08 07:47",1,45.9856315,-96.2471008,TRUE,FALSE,FALSE,"S369330978"
+"548","virrai","Virginia Rail","Rallus limicola","L662379","Barr Lake SP--Neidrach Nature Trail & Visitor Center area","2026-07-08 07:36",1,39.9369479,-104.7524576,TRUE,FALSE,FALSE,"S369382583"
+"549","virrai","Virginia Rail","Rallus limicola","L6138225","Inter-Urban Pathway","2026-07-08 07:12",1,42.7408485,-84.4336773,TRUE,FALSE,FALSE,"S369292105"
+"550","virrai","Virginia Rail","Rallus limicola","L72856902","Amon Creek pond, Richland US-WA 46.20400, -119.26272","2026-07-08 07:04",1,46.204004,-119.262723,TRUE,FALSE,TRUE,"S369487666"
+"551","virrai","Virginia Rail","Rallus limicola","L46687219","Unnamed Road, Novato, California, US (38.09, -122.537)","2026-07-08 06:30",NA,38.0900217,-122.5367421,TRUE,FALSE,TRUE,"S369484997"
+"552","virrai","Virginia Rail","Rallus limicola","L169426","Harriet Alexander Nature Center","2026-07-08 06:25",1,45.017292,-93.12438,TRUE,FALSE,FALSE,"S369280808"
+"553","virrai","Virginia Rail","Rallus limicola","L1241997","Ewing Rd marsh","2026-07-08 06:24",NA,47.974415,-122.4299777,TRUE,FALSE,FALSE,"S369524278"
+"554","virrai","Virginia Rail","Rallus limicola","L1560543","Benson RR Trail","2026-07-08 06:24",1,41.781617,-111.9431734,TRUE,FALSE,FALSE,"S369319685"
+"555","virrai","Virginia Rail","Rallus limicola","L31371737","Meadowbrook Preserve, New York, US (43.347, -73.644)","2026-07-08 06:08",1,43.3467325,-73.644384,TRUE,FALSE,TRUE,"S369266551"
+"556","virrai","Virginia Rail","Rallus limicola","L850012","Lower Lake Mary","2026-07-08 05:50",1,35.1083941,-111.5798092,TRUE,FALSE,FALSE,"S369398581"
+"557","virrai","Virginia Rail","Rallus limicola","L4474469","William L. Finley NWR--Cabell Marsh NW corner","2026-07-08 05:46",3,44.416576,-123.322173,TRUE,FALSE,TRUE,"S369372118"
+"558","virrai","Virginia Rail","Rallus limicola","L1577003","Erstad Prairie","2026-07-08 05:38",1,43.3434358,-89.3021847,TRUE,FALSE,FALSE,"S369354953"
