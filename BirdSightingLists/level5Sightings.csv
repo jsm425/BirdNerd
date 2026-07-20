@@ -1,2 +1,2 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","arcloo","Arctic Loon","Gavia arctica","L2217402","Kotzebue lagoon and east hills","2026-07-17 20:42",3,66.8867023,-162.5568008,TRUE,FALSE,TRUE,"S373349164"
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
+"1","cockat","Cockatiel","Nymphicus hollandicus","L1405409","Bethel Island","2026-07-18 10:40",1,38.0320688,-121.6374509,TRUE,TRUE,FALSE,"S373714246","X"
