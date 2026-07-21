@@ -1,2 +1,2 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
-"1","cockat","Cockatiel","Nymphicus hollandicus","L1405409","Bethel Island","2026-07-18 10:40",1,38.0320688,-121.6374509,TRUE,TRUE,FALSE,"S373714246","X"
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
+"1","elepai5","Kauai Elepaio","Chasiempis sclateri","L1574904","Mōhihi Waiʻalae Trail","2026-07-18 07:00",3,22.1148068,-159.5774295,TRUE,FALSE,FALSE,"S373770091"
