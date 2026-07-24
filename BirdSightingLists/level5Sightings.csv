@@ -1,4 +1,4 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","relkit","Red-legged Kittiwake","Rissa brevirostris","L599648","St. George Island","2026-07-21 13:30",10,56.5776409,-169.6069336,TRUE,FALSE,FALSE,"S374951337"
-"2","relkit","Red-legged Kittiwake","Rissa brevirostris","L261146","St. Paul Island","2026-07-19 15:50",150,57.17012,-170.296751,TRUE,FALSE,FALSE,"S374282502"
-"3","relkit","Red-legged Kittiwake","Rissa brevirostris","L685834","Alaska Maritime NWR--Buldir Island","2026-07-13 10:53",57,52.3504409,175.9172058,TRUE,FALSE,FALSE,"S372648832"
+"1","leaauk","Least Auklet","Aethia pusilla","L599648","St. George Island","2026-07-21 13:30",1000,56.5776409,-169.6069336,TRUE,FALSE,FALSE,"S374951337"
+"2","leaauk","Least Auklet","Aethia pusilla","L685834","Alaska Maritime NWR--Buldir Island","2026-07-21 11:00",300,52.3504409,175.9172058,TRUE,FALSE,FALSE,"S374951202"
+"3","leaauk","Least Auklet","Aethia pusilla","L261146","St. Paul Island","2026-07-19 15:50",250,57.17012,-170.296751,TRUE,FALSE,FALSE,"S374282502"
