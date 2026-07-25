@@ -1,298 +1,306 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","shshaw","Sharp-shinned Hawk","Accipiter striatus","L61317109","Tour Loop, Fairfield US-MT 47.67456, -112.04121","2026-07-23 20:51",1,47.674557,-112.041209,TRUE,FALSE,TRUE,"S375631934"
-"2","shshaw","Sharp-shinned Hawk","Accipiter striatus","L20142811","Glenwood Hills","2026-07-23 20:15",1,42.0959242,-80.068082,TRUE,FALSE,TRUE,"S375603540"
-"3","shshaw","Sharp-shinned Hawk","Accipiter striatus","L10498111","97054","2026-07-23 17:41",1,45.9773509,-123.0007441,TRUE,FALSE,TRUE,"S375624617"
-"4","shshaw","Sharp-shinned Hawk","Accipiter striatus","L74245852","4747 SW Cameron Rd, Portland US-OR 45.48378, -122.72675","2026-07-23 17:02",1,45.483776,-122.726754,TRUE,FALSE,TRUE,"S375599700"
-"5","shshaw","Sharp-shinned Hawk","Accipiter striatus","L2226421","Sylvan Solace Preserve","2026-07-23 16:06",3,43.6077733,-84.9412894,TRUE,FALSE,FALSE,"S375568334"
-"6","shshaw","Sharp-shinned Hawk","Accipiter striatus","L74233042","973 Brownsville Road, Victor, New York","2026-07-23 15:11",1,42.9880947,-77.3845428,TRUE,FALSE,TRUE,"S375532095"
-"7","shshaw","Sharp-shinned Hawk","Accipiter striatus","L45854091","Shore Drive - Private","2026-07-23 13:20",1,46.4827095,-86.9475898,TRUE,FALSE,TRUE,"S375507206"
-"8","shshaw","Sharp-shinned Hawk","Accipiter striatus","L7057623","Jackson Hole & Greater Yellowstone Visitor Center","2026-07-23 12:17",1,43.4862989,-110.7618213,TRUE,FALSE,FALSE,"S375530797"
-"9","shshaw","Sharp-shinned Hawk","Accipiter striatus","L6298281","Santa Fe NF--Norski Trail","2026-07-23 12:00",1,35.7890546,-105.808817,TRUE,FALSE,FALSE,"S375567161"
-"10","shshaw","Sharp-shinned Hawk","Accipiter striatus","L2092303","Tilden Regional Park--Wildcat Canyon Rd.","2026-07-23 10:30",1,37.9015424,-122.2490788,TRUE,FALSE,FALSE,"S375607071"
-"11","shshaw","Sharp-shinned Hawk","Accipiter striatus","L5578408","Kenai Fjords NP--Exit Glacier Nature Center","2026-07-23 10:06",1,60.1883826,-149.6311375,TRUE,FALSE,FALSE,"S375534047"
-"12","shshaw","Sharp-shinned Hawk","Accipiter striatus","L7664603","Big Moose Mountain Trail","2026-07-23 09:39",2,45.4783664,-69.7144786,TRUE,FALSE,FALSE,"S375507155"
-"13","shshaw","Sharp-shinned Hawk","Accipiter striatus","L73912848","Camp Stream House","2026-07-23 09:20",1,44.3949634,-68.6794389,TRUE,FALSE,TRUE,"S375449636"
-"14","shshaw","Sharp-shinned Hawk","Accipiter striatus","L577756","Nayanquing Point SWA","2026-07-23 08:41",1,43.7742237,-83.9376283,TRUE,FALSE,FALSE,"S375435688"
-"15","shshaw","Sharp-shinned Hawk","Accipiter striatus","L73764726","Washington Island house","2026-07-23 08:30",1,45.335568,-86.901131,TRUE,FALSE,TRUE,"S375407962"
-"16","shshaw","Sharp-shinned Hawk","Accipiter striatus","L829759","Pleasant Creek WMA--Upper Pleasant Creek Rd. CR 10","2026-07-23 08:30",1,39.2427567,-80.0535965,TRUE,FALSE,FALSE,"S375542267"
-"17","shshaw","Sharp-shinned Hawk","Accipiter striatus","L46888194","Sandy Creek Trail, Cranberry, Pennsylvania, US (41.309, -79.661)","2026-07-23 08:29",2,41.3091,-79.6609848,TRUE,FALSE,TRUE,"S375504242"
-"18","shshaw","Sharp-shinned Hawk","Accipiter striatus","L972133","Fort Bridger State Museum","2026-07-23 08:23",1,41.3168839,-110.3869557,TRUE,FALSE,FALSE,"S375429831"
-"19","shshaw","Sharp-shinned Hawk","Accipiter striatus","L153926","Tongass NF--Mendenhall Visitor Center and Trails","2026-07-23 07:53",2,58.4165947,-134.5469507,TRUE,FALSE,FALSE,"S375512395"
-"20","shshaw","Sharp-shinned Hawk","Accipiter striatus","L21846944","Orchard to Orchard Trail System","2026-07-23 07:52",1,44.698871,-73.012108,TRUE,FALSE,TRUE,"S375392268"
-"21","shshaw","Sharp-shinned Hawk","Accipiter striatus","L26469237","N Down River Rd Jack Pines (2018 cut)","2026-07-23 07:23",1,44.6841537,-84.6373343,TRUE,FALSE,FALSE,"S375428233"
-"22","shshaw","Sharp-shinned Hawk","Accipiter striatus","L20565142","Trip to Pickerel Cove","2026-07-23 07:05",1,43.09999,-72.092266,TRUE,FALSE,TRUE,"S375402354"
-"23","shshaw","Sharp-shinned Hawk","Accipiter striatus","L301972","Wehr Nature Center","2026-07-23 06:49",1,42.925291,-88.0358169,TRUE,TRUE,FALSE,"S375396356"
-"24","shshaw","Sharp-shinned Hawk","Accipiter striatus","L3493345","Cottage at Spruce Cove, St. George, ME. Knox Cty","2026-07-23 05:25",1,43.953535,-69.2665478,TRUE,FALSE,TRUE,"S375425805"
-"25","shshaw","Sharp-shinned Hawk","Accipiter striatus","L20212171","Ski Lake Trail","2026-07-23 05:16",1,43.518273,-110.922168,TRUE,FALSE,FALSE,"S375632194"
-"26","shshaw","Sharp-shinned Hawk","Accipiter striatus","L46418875","Preston Woods Yard","2026-07-22 20:01",1,47.118063,-122.165321,TRUE,FALSE,TRUE,"S375264890"
-"27","shshaw","Sharp-shinned Hawk","Accipiter striatus","L20503956","Roxborough Village - JWay","2026-07-22 19:47",1,39.474289,-105.082291,TRUE,FALSE,TRUE,"S375281033"
-"28","shshaw","Sharp-shinned Hawk","Accipiter striatus","L71443993","Old House","2026-07-22 18:47",1,39.1096242,-104.5986012,TRUE,FALSE,TRUE,"S375245573"
-"29","shshaw","Sharp-shinned Hawk","Accipiter striatus","L20722812","Clear Creek Metro Park - Chestnut Trail - Hocking County","2026-07-22 17:30",3,39.601415,-82.609498,TRUE,TRUE,TRUE,"S375205638"
-"30","shshaw","Sharp-shinned Hawk","Accipiter striatus","L2410046","Smith yard","2026-07-22 16:55",1,42.7827581,-84.5441208,TRUE,TRUE,TRUE,"S375195487"
-"31","shshaw","Sharp-shinned Hawk","Accipiter striatus","L1226667","Liberty Woods Development","2026-07-22 16:51",1,41.151645,-81.887455,TRUE,FALSE,TRUE,"S375193049"
-"32","shshaw","Sharp-shinned Hawk","Accipiter striatus","L4378754","Coon's Age Farm-MT-Belfry-101 Lovers Ln - 45.1171x-108.9953","2026-07-22 16:51",1,45.117067,-108.995307,TRUE,FALSE,TRUE,"S375221161"
-"33","shshaw","Sharp-shinned Hawk","Accipiter striatus","L2225541","*668 Mills Avenue, Los Altos, CA 94022","2026-07-22 16:45",2,37.3826523,-122.0979156,TRUE,FALSE,TRUE,"S375247356"
-"34","shshaw","Sharp-shinned Hawk","Accipiter striatus","L39742732","3418 Valley Road, Marysville, Pennsylvania, US (40.322, -77.095)","2026-07-22 15:35",1,40.3222523,-77.0948075,TRUE,FALSE,TRUE,"S375175795"
-"35","shshaw","Sharp-shinned Hawk","Accipiter striatus","L11210414","9 Oaks, High Island Bird Sanctuary","2026-07-22 14:22",1,29.5667628,-94.3896742,TRUE,TRUE,TRUE,"S375212867"
-"36","shshaw","Sharp-shinned Hawk","Accipiter striatus","L824314","Wildernest (community)","2026-07-22 14:12",1,39.6208299,-106.0907221,TRUE,FALSE,FALSE,"S375247152"
-"37","shshaw","Sharp-shinned Hawk","Accipiter striatus","L1428459","Blue Rock SP--Cutler Lake Trails","2026-07-22 14:07",1,39.8171665,-81.8458063,TRUE,FALSE,FALSE,"S375337330"
-"38","shshaw","Sharp-shinned Hawk","Accipiter striatus","L251836","Monhegan Island","2026-07-22 14:03",1,43.7657055,-69.3131265,TRUE,FALSE,FALSE,"S375154867"
-"39","shshaw","Sharp-shinned Hawk","Accipiter striatus","L3459611","**6 Indian Hill Road","2026-07-22 13:15",1,45.7413155,-121.4814949,TRUE,FALSE,TRUE,"S375198897"
-"40","shshaw","Sharp-shinned Hawk","Accipiter striatus","L3151109","Glacier Bay NP--Bartlett Lake","2026-07-22 13:00",2,58.5012191,-135.8042419,TRUE,FALSE,FALSE,"S375231926"
-"41","shshaw","Sharp-shinned Hawk","Accipiter striatus","L2296910","Yellowstone NP--Wraith Falls Trail","2026-07-22 10:58",1,44.93976,-110.62447,TRUE,FALSE,FALSE,"S375436175"
-"42","shshaw","Sharp-shinned Hawk","Accipiter striatus","L728084","State Game Lands 35","2026-07-22 10:53",1,41.9439019,-75.7072826,TRUE,FALSE,FALSE,"S375186664"
-"43","shshaw","Sharp-shinned Hawk","Accipiter striatus","L74148732","24 Sunset Point Rd, Harrington US-ME 44.58895, -67.78468","2026-07-22 10:06",1,44.588946,-67.784684,TRUE,FALSE,TRUE,"S375091712"
-"44","shshaw","Sharp-shinned Hawk","Accipiter striatus","L5624068","n. Tareyton Dr (212 n. to park; 0.27km)","2026-07-22 09:22",1,42.4735224,-76.4598589,TRUE,FALSE,TRUE,"S375066047"
-"45","shshaw","Sharp-shinned Hawk","Accipiter striatus","L11833980","Clearview Mall","2026-07-22 08:05",1,40.8976194,-79.907064,TRUE,FALSE,TRUE,"S375038067"
-"46","shshaw","Sharp-shinned Hawk","Accipiter striatus","L74165038","White River National Forest, Rifle US-CO 39.41956, -107.78910","2026-07-22 08:01",1,39.419562,-107.789104,TRUE,FALSE,TRUE,"S375255978"
-"47","shshaw","Sharp-shinned Hawk","Accipiter striatus","L2381638","Willow Springs Lake","2026-07-22 07:22",1,34.3135599,-110.8763516,TRUE,FALSE,FALSE,"S375128212"
-"48","shshaw","Sharp-shinned Hawk","Accipiter striatus","L9534775","Transfer, PA - Willadell Rd.","2026-07-22 07:21",1,41.2955247,-80.3786343,TRUE,FALSE,TRUE,"S375014114"
-"49","shshaw","Sharp-shinned Hawk","Accipiter striatus","L26165887","Redwood Christian Park and Two Bar Creek, Boulder Creek","2026-07-22 06:30",1,37.149511,-122.121753,TRUE,FALSE,TRUE,"S375192986"
-"50","shshaw","Sharp-shinned Hawk","Accipiter striatus","L11711030","Inez Creek Trail","2026-07-22 06:12",1,46.7807256,-113.9695716,TRUE,FALSE,FALSE,"S375618630"
-"51","shshaw","Sharp-shinned Hawk","Accipiter striatus","L50238415","Eola Bend / Orange Turtle Loop","2026-07-22 05:38",1,44.924369,-123.0735966,TRUE,FALSE,TRUE,"S375198608"
-"52","shshaw","Sharp-shinned Hawk","Accipiter striatus","L74208201","School House Road","2026-07-22 05:30",1,45.4937179,-93.6955453,TRUE,FALSE,TRUE,"S375444198"
-"53","shshaw","Sharp-shinned Hawk","Accipiter striatus","L1508210","E. Edgewood Drive","2026-07-21 20:19",1,48.4143171,-114.2814676,TRUE,FALSE,TRUE,"S374917442"
-"54","shshaw","Sharp-shinned Hawk","Accipiter striatus","L74155473","15 Carmichael Rd, Cardwell US-MT (45.7109,-111.9459)","2026-07-21 20:15",1,45.710949,-111.945861,TRUE,FALSE,TRUE,"S375098678"
-"55","shshaw","Sharp-shinned Hawk","Accipiter striatus","L3363483","Watertown, CT","2026-07-21 19:30",1,41.598981,-73.1014395,TRUE,FALSE,TRUE,"S375221381"
-"56","shshaw","Sharp-shinned Hawk","Accipiter striatus","L3870533","Harper's Bridge FAS","2026-07-21 18:36",1,46.9317644,-114.2076123,TRUE,FALSE,FALSE,"S374903563"
-"57","shshaw","Sharp-shinned Hawk","Accipiter striatus","L1086986","Sunken Meadow SP--East End","2026-07-21 15:00",1,40.9078045,-73.2389832,TRUE,TRUE,FALSE,"S374889033"
-"58","shshaw","Sharp-shinned Hawk","Accipiter striatus","L9970089","GGSP - Knott Creek (39.8474,-105.3583)","2026-07-21 14:48",1,39.847426,-105.358319,TRUE,FALSE,TRUE,"S374923758"
-"59","shshaw","Sharp-shinned Hawk","Accipiter striatus","L74141047","Glacier Route 1 Road, (48.694, -113.668)","2026-07-21 14:23",1,48.6936656,-113.6684815,TRUE,FALSE,TRUE,"S375013319"
-"60","shshaw","Sharp-shinned Hawk","Accipiter striatus","L8028242","Back Brook Marsh","2026-07-21 14:10",1,44.1007204,-69.3599332,TRUE,FALSE,FALSE,"S374846570"
-"61","shshaw","Sharp-shinned Hawk","Accipiter striatus","L74114862","Crane Creek Swimming Hole","2026-07-21 14:10",1,37.680052,-119.777579,TRUE,FALSE,TRUE,"S374869437"
-"62","shshaw","Sharp-shinned Hawk","Accipiter striatus","L74189066","West Glacier Trail","2026-07-21 14:00",1,58.44441,-134.56545,TRUE,FALSE,TRUE,"S375278072"
-"63","shshaw","Sharp-shinned Hawk","Accipiter striatus","L74107979","34 North Shore Road, Lubec, Maine, US (44.851, -67.027)","2026-07-21 13:02",1,44.8513362,-67.0274682,TRUE,FALSE,TRUE,"S374834582"
-"64","shshaw","Sharp-shinned Hawk","Accipiter striatus","L5408959","Ute Pass Rd.--lower (Summit Co.)","2026-07-21 12:17",1,39.7941609,-106.1395168,TRUE,FALSE,FALSE,"S374913058"
-"65","shshaw","Sharp-shinned Hawk","Accipiter striatus","L74095227","15 South Shore Drive, Rangeley, Maine, US (44.923, -70.614)","2026-07-21 11:45",1,44.9233378,-70.614426,TRUE,FALSE,TRUE,"S374770650"
-"66","shshaw","Sharp-shinned Hawk","Accipiter striatus","L212641","Briones Regional Park","2026-07-21 11:33",1,37.9380572,-122.1346222,TRUE,FALSE,FALSE,"S375208468"
-"67","shshaw","Sharp-shinned Hawk","Accipiter striatus","L3846449","Boulder Creek CG area","2026-07-21 11:09",1,39.7367639,-106.1355538,TRUE,FALSE,FALSE,"S374898686"
-"68","shshaw","Sharp-shinned Hawk","Accipiter striatus","L74104532","Middle Fork Flathead scenic float","2026-07-21 10:35",1,48.5079242,-114.0030504,TRUE,FALSE,TRUE,"S374817221"
-"69","shshaw","Sharp-shinned Hawk","Accipiter striatus","L1253384","Carson NF--Rio Grande del Rancho Wetlands","2026-07-21 10:30",1,36.252921,-105.57938,TRUE,FALSE,FALSE,"S374837098"
-"70","shshaw","Sharp-shinned Hawk","Accipiter striatus","L74089862","Auto selected 44.08222, -69.15035","2026-07-21 10:25",1,44.082219,-69.150349,TRUE,FALSE,TRUE,"S374742410"
-"71","shshaw","Sharp-shinned Hawk","Accipiter striatus","L74123760","Luck Creek Rd","2026-07-21 10:19",3,55.905793,-132.78632,TRUE,FALSE,TRUE,"S374919153"
-"72","shshaw","Sharp-shinned Hawk","Accipiter striatus","L9710664","Jordan River Parkway--Fife Wetlands Preserve","2026-07-21 09:57",1,40.7494596,-111.922102,TRUE,FALSE,FALSE,"S374774749"
-"73","shshaw","Sharp-shinned Hawk","Accipiter striatus","L74140780","245 Sager Pond Road, Friedens, Pennsylvania, US (40.025, -79.022)","2026-07-21 09:42",1,40.0253016,-79.0215906,TRUE,FALSE,TRUE,"S375011554"
-"74","shshaw","Sharp-shinned Hawk","Accipiter striatus","L9970096","GGSP Bootleg Bottom - (39.8583x-105.4474 - Oct 8, 2016, 1:40 PM","2026-07-21 09:30",1,39.858297,-105.447398,TRUE,FALSE,TRUE,"S374813640"
-"75","shshaw","Sharp-shinned Hawk","Accipiter striatus","L68592622","Willow Creek Burn (2025)--Forest Service Rd. 10381","2026-07-21 09:11",1,42.5256701,-110.9194656,TRUE,FALSE,TRUE,"S374810166"
-"76","shshaw","Sharp-shinned Hawk","Accipiter striatus","L50319909","Pine Point, from Rental cottage near 11th Ave to Nonesuch River","2026-07-21 09:07",1,43.54285,-70.340672,TRUE,FALSE,TRUE,"S374758692"
-"77","shshaw","Sharp-shinned Hawk","Accipiter striatus","L1652034","Savage River SF--Keyser's Ridge","2026-07-21 08:45",1,39.7007991,-79.2555848,TRUE,FALSE,FALSE,"S374869923"
-"78","shshaw","Sharp-shinned Hawk","Accipiter striatus","L42516567","Indian Walk Lane","2026-07-21 08:32",1,37.3344377,-75.9402732,TRUE,TRUE,FALSE,"S374888812"
-"79","shshaw","Sharp-shinned Hawk","Accipiter striatus","L74090366","Fraser River Trail, Winter Park US-CO (39.8971,-105.7706)","2026-07-21 08:25",1,39.8971,-105.770594,TRUE,FALSE,TRUE,"S374745056"
-"80","shshaw","Sharp-shinned Hawk","Accipiter striatus","L4256992","OldByeRaymond","2026-07-21 08:20",1,43.0124154,-71.2375402,TRUE,FALSE,TRUE,"S374770703"
-"81","shshaw","Sharp-shinned Hawk","Accipiter striatus","L165381","Victory Basin IBA","2026-07-21 08:19",1,44.5351902,-71.7899171,TRUE,FALSE,FALSE,"S374738413"
-"82","shshaw","Sharp-shinned Hawk","Accipiter striatus","L34766585","Tom Blake Trail","2026-07-21 08:06",1,39.20361,-106.915969,TRUE,FALSE,TRUE,"S374754255"
-"83","shshaw","Sharp-shinned Hawk","Accipiter striatus","L4791117","Spanish Fork Peak -- Maple Lake to Spanish Fork Peak","2026-07-21 08:00",1,40.0943621,-111.5198231,TRUE,TRUE,FALSE,"S374917481"
-"84","shshaw","Sharp-shinned Hawk","Accipiter striatus","L74121385","Forest Road 30972 & Ski Lake Trail","2026-07-21 07:00",1,43.5129907,-110.9140794,TRUE,FALSE,TRUE,"S374908507"
-"85","shshaw","Sharp-shinned Hawk","Accipiter striatus","L2183289","Three Rivers WMA--Kellogg Rd.","2026-07-21 06:44",2,43.1964164,-76.3266563,TRUE,FALSE,FALSE,"S374714546"
-"86","shshaw","Sharp-shinned Hawk","Accipiter striatus","L17763675","179203 CTH-C, Wittenberg US-WI 44.71678, -89.31226","2026-07-21 06:43",1,44.716783,-89.312264,TRUE,FALSE,TRUE,"S374705563"
-"87","shshaw","Sharp-shinned Hawk","Accipiter striatus","L27847601","Mt Prospect Area, Onancock, VA.","2026-07-21 06:37",1,37.7094376,-75.7555343,TRUE,TRUE,TRUE,"S374773385"
-"88","shshaw","Sharp-shinned Hawk","Accipiter striatus","L2808325","Frascatore feeding sight","2026-07-21 04:30",1,43.0968637,-74.7711548,TRUE,FALSE,TRUE,"S374985650"
-"89","shshaw","Sharp-shinned Hawk","Accipiter striatus","L3719843","Allegheny NF--Buckaloons Recreation Area","2026-07-20 19:42",1,41.8382347,-79.2587185,TRUE,FALSE,FALSE,"S374740066"
-"90","shshaw","Sharp-shinned Hawk","Accipiter striatus","L65934385","Shumsky Canoe Launch","2026-07-20 16:59",1,44.651007,-85.590631,TRUE,FALSE,TRUE,"S375635137"
-"91","shshaw","Sharp-shinned Hawk","Accipiter striatus","L74051689","Alt US-93 N, Kalispell US-MT 48.24031, -114.33240","2026-07-20 16:58",1,48.240312,-114.332396,TRUE,FALSE,TRUE,"S374535323"
-"92","shshaw","Sharp-shinned Hawk","Accipiter striatus","L10930712","2022 Hathaway Point Road, Saint Albans City, Vermont, US (44.788, -73.187)","2026-07-20 14:19",1,44.7884333,-73.1866033,TRUE,FALSE,TRUE,"S374475598"
-"93","shshaw","Sharp-shinned Hawk","Accipiter striatus","L74039256","PA-903, Albrightsville US-PA 41.04327, -75.58536","2026-07-20 14:04",1,41.043266,-75.585356,TRUE,FALSE,TRUE,"S374477110"
-"94","shshaw","Sharp-shinned Hawk","Accipiter striatus","L24944960","Turtle Lake Rd. Kirtland's Warbler Area","2026-07-20 13:51",1,44.93934,-84.537021,TRUE,FALSE,FALSE,"S374468072"
-"95","shshaw","Sharp-shinned Hawk","Accipiter striatus","L74123753","Gravelly Creek Rd","2026-07-20 12:45",1,55.785191,-132.623417,TRUE,FALSE,TRUE,"S374919117"
-"96","shshaw","Sharp-shinned Hawk","Accipiter striatus","L1312792","Ketchikan International Airport Perimeter","2026-07-20 12:29",1,55.35739,-131.71036,TRUE,FALSE,FALSE,"S374573899"
-"97","shshaw","Sharp-shinned Hawk","Accipiter striatus","L982925","Brockman's Hummingbird Feeding Station","2026-07-20 12:24",1,42.2188,-114.37586,TRUE,FALSE,FALSE,"S374527655"
-"98","shshaw","Sharp-shinned Hawk","Accipiter striatus","L3151886","Cline Rd., marsh (west)","2026-07-20 11:45",1,43.0689349,-74.6717227,TRUE,FALSE,FALSE,"S374436835"
-"99","shshaw","Sharp-shinned Hawk","Accipiter striatus","L1296818","Missouri Headwaters SP","2026-07-20 11:01",1,45.9234533,-111.4995575,TRUE,FALSE,FALSE,"S374439211"
-"100","shshaw","Sharp-shinned Hawk","Accipiter striatus","L15489780","Warrenton High School","2026-07-20 11:00",1,46.1448462,-123.9320209,TRUE,FALSE,TRUE,"S374507624"
-"101","shshaw","Sharp-shinned Hawk","Accipiter striatus","L74027553","Blueberries, Water Tower Lane, Whittier, North Carolina, US (35.438, -83.37)","2026-07-20 10:49",1,35.438323,-83.3697946,TRUE,FALSE,TRUE,"S374425221"
-"102","shshaw","Sharp-shinned Hawk","Accipiter striatus","L48759336","Minnow Pond, S end, near Blue Mtn. Lake","2026-07-20 10:38",2,43.877122,-74.441577,TRUE,FALSE,FALSE,"S374495559"
-"103","shshaw","Sharp-shinned Hawk","Accipiter striatus","L7068474","Logan to Trident Road","2026-07-20 10:15",1,45.9260957,-111.4586935,TRUE,FALSE,FALSE,"S374419587"
-"104","shshaw","Sharp-shinned Hawk","Accipiter striatus","L3033095","West Baldy Trail No. 94","2026-07-20 10:01",1,33.948262,-109.528473,TRUE,FALSE,FALSE,"S374514844"
-"105","shshaw","Sharp-shinned Hawk","Accipiter striatus","L40195338","Home - Harwinton","2026-07-20 09:45",1,41.7168172,-73.0330106,TRUE,FALSE,TRUE,"S374381284"
-"106","shshaw","Sharp-shinned Hawk","Accipiter striatus","L46691857","Grinnell Woods Trail","2026-07-20 09:01",1,44.2384928,-69.3601876,TRUE,FALSE,FALSE,"S374359777"
-"107","shshaw","Sharp-shinned Hawk","Accipiter striatus","L129820","Hickory Run SP (IBA)","2026-07-20 08:38",1,41.039341,-75.6787872,TRUE,FALSE,FALSE,"S374371178"
-"108","shshaw","Sharp-shinned Hawk","Accipiter striatus","L74109728","Clear Fork Trail, Packwood US-WA 46.65386, -121.48450","2026-07-20 08:01",1,46.653863,-121.484496,TRUE,FALSE,TRUE,"S374843728"
-"109","shshaw","Sharp-shinned Hawk","Accipiter striatus","L24529592","Canal Street and Clearing","2026-07-20 07:58",1,43.189869,-71.717582,TRUE,FALSE,TRUE,"S374332942"
-"110","shshaw","Sharp-shinned Hawk","Accipiter striatus","L10088599","Home, Mount Carmel, Tennessee, US","2026-07-20 07:38",1,36.5759057,-82.6744218,TRUE,FALSE,TRUE,"S374755198"
-"111","shshaw","Sharp-shinned Hawk","Accipiter striatus","L73351762","Huron NF - Aspen Trail","2026-07-20 07:34",1,44.664358,-84.125076,TRUE,FALSE,TRUE,"S375044569"
-"112","shshaw","Sharp-shinned Hawk","Accipiter striatus","L24875626","Home","2026-07-20 07:30",1,42.6570389,-73.5736346,TRUE,FALSE,TRUE,"S374345993"
-"113","shshaw","Sharp-shinned Hawk","Accipiter striatus","L474417","Kettle Cove","2026-07-20 06:43",1,43.5622948,-70.2186012,TRUE,FALSE,FALSE,"S374317549"
-"114","shshaw","Sharp-shinned Hawk","Accipiter striatus","L300732","Jordan River Parkway--12600 S to Bangerter Hwy","2026-07-20 06:32",1,40.5102357,-111.9139795,TRUE,FALSE,FALSE,"S374404117"
-"115","shshaw","Sharp-shinned Hawk","Accipiter striatus","L2296316","Bridge Creek Trailhead","2026-07-20 06:02",1,48.5047233,-120.7187089,TRUE,FALSE,FALSE,"S374431523"
-"116","shshaw","Sharp-shinned Hawk","Accipiter striatus","L61461840","Settlers Cabin- Red/Yellow Trail/Baldwin Rd. Woods, Oakdale SE","2026-07-20 05:53",3,40.4141472,-80.1583545,TRUE,FALSE,TRUE,"S374453444"
-"117","shshaw","Sharp-shinned Hawk","Accipiter striatus","L16385580","Boulder Trail - Hermantown","2026-07-20 05:40",1,46.8041773,-92.1871644,TRUE,FALSE,TRUE,"S374343519"
-"118","shshaw","Sharp-shinned Hawk","Accipiter striatus","L73678094","Emerick Rd, Kensington US-OH","2026-07-19 19:56",1,40.693437,-80.911788,TRUE,FALSE,TRUE,"S374182244"
-"119","shshaw","Sharp-shinned Hawk","Accipiter striatus","L1044387","35 Urban St., New Canaan","2026-07-19 18:45",1,41.1508049,-73.485682,TRUE,TRUE,TRUE,"S374161644"
-"120","shshaw","Sharp-shinned Hawk","Accipiter striatus","L51974700","11310 Kennedy Rd, Brainerd US-MN 46.43776, -94.16345","2026-07-19 18:24",1,46.43776,-94.163446,TRUE,FALSE,TRUE,"S374211029"
-"121","shshaw","Sharp-shinned Hawk","Accipiter striatus","L10064321","Ángel de fuego Santuario de Aves","2026-07-19 17:37",1,36.3729956,-105.2678248,TRUE,FALSE,TRUE,"S374174191"
-"122","shshaw","Sharp-shinned Hawk","Accipiter striatus","L208659","Hiram M. Chittenden Ballard Locks","2026-07-19 16:59",1,47.6653579,-122.3974647,TRUE,FALSE,FALSE,"S374423585"
-"123","shshaw","Sharp-shinned Hawk","Accipiter striatus","L70995544","Farnsworth Rd south of trout club","2026-07-19 16:49",1,41.735988,-79.151503,TRUE,FALSE,TRUE,"S374197227"
-"124","shshaw","Sharp-shinned Hawk","Accipiter striatus","L73971046","69–99 Mud Cove Rd N, Lily Bay Twp US-ME 45.58621, -69.52748","2026-07-19 16:03",1,45.586215,-69.52748,TRUE,FALSE,TRUE,"S374145175"
-"125","shshaw","Sharp-shinned Hawk","Accipiter striatus","L791709","Coyote Creek Trail--Ranch Dr. access","2026-07-19 16:00",1,37.4259852,-121.9245958,TRUE,FALSE,FALSE,"S374203222"
-"126","shshaw","Sharp-shinned Hawk","Accipiter striatus","L767567","State Game Lands 330/Piney Tract--Mt. Zion Rd. (main site)","2026-07-19 15:27",1,41.1467412,-79.4988137,TRUE,FALSE,FALSE,"S374128448"
-"127","shshaw","Sharp-shinned Hawk","Accipiter striatus","L73972126","7415 Sunset Ridge Ln NW, Olympia US-WA (47.0958,-123.0383)","2026-07-19 15:04",1,47.095768,-123.038328,TRUE,FALSE,TRUE,"S374149916"
-"128","shshaw","Sharp-shinned Hawk","Accipiter striatus","L29333151","camp yard","2026-07-19 15:00",1,41.19574,-77.554779,TRUE,FALSE,TRUE,"S374176253"
-"129","shshaw","Sharp-shinned Hawk","Accipiter striatus","L73972615","7415 Sunset Ridge Ln NW, Olympia US-WA (47.0958,-123.0383)","2026-07-19 14:48",1,47.095764,-123.038314,TRUE,FALSE,TRUE,"S374151849"
-"130","shshaw","Sharp-shinned Hawk","Accipiter striatus","L73971164","4255 Shoreline Drive North, Keizer, Oregon, US (44.987, -123.037)","2026-07-19 14:45",1,44.9870234,-123.036528,TRUE,FALSE,TRUE,"S374145685"
-"131","shshaw","Sharp-shinned Hawk","Accipiter striatus","L12382138","Stone Dock Golf Course","2026-07-19 14:11",1,41.8160554,-74.1570852,TRUE,FALSE,TRUE,"S374158622"
-"132","shshaw","Sharp-shinned Hawk","Accipiter striatus","L73964853","48664–48998 Peak to Peak Hwy, Ward US-CO 40.13044, -105.49273","2026-07-19 13:52",1,40.130436,-105.492726,TRUE,FALSE,TRUE,"S374119501"
-"133","shshaw","Sharp-shinned Hawk","Accipiter striatus","L12030247","Blue Ridge Pkwy--Mt. Hardy Overlook","2026-07-19 13:20",1,35.3033174,-82.9055106,TRUE,FALSE,FALSE,"S375254641"
-"134","shshaw","Sharp-shinned Hawk","Accipiter striatus","L73429399","Guanella Pass 7 Mile Boulders","2026-07-19 13:04",1,39.635105,-105.710234,TRUE,FALSE,TRUE,"S374192771"
-"135","shshaw","Sharp-shinned Hawk","Accipiter striatus","L62821498","Ricketts Glen SP","2026-07-19 13:03",NA,41.3354952,-76.3014966,TRUE,FALSE,TRUE,"S374419646"
-"136","shshaw","Sharp-shinned Hawk","Accipiter striatus","L534241","Fairbanks--Peat Ponds Wildlife Area","2026-07-19 13:00",1,64.9110145,-147.9393518,TRUE,FALSE,FALSE,"S374155599"
-"137","shshaw","Sharp-shinned Hawk","Accipiter striatus","L25928558","G Lake Road, Piseco, New York, US (43.383, -74.645)","2026-07-19 12:43",1,43.3826695,-74.6447521,TRUE,FALSE,TRUE,"S374098798"
-"138","shshaw","Sharp-shinned Hawk","Accipiter striatus","L1427326","Lake Umbagog--North End, Errol","2026-07-19 12:39",1,44.7820767,-71.0522079,TRUE,FALSE,FALSE,"S374042092"
-"139","shshaw","Sharp-shinned Hawk","Accipiter striatus","L1959548","Elmore State Park","2026-07-19 12:30",2,44.543444,-72.5295925,TRUE,FALSE,FALSE,"S374138979"
-"140","shshaw","Sharp-shinned Hawk","Accipiter striatus","L61197446","State Game Lands 219--Reagan Hill Rd. Pond","2026-07-19 12:03",1,41.974023,-76.215493,TRUE,FALSE,FALSE,"S374073886"
-"141","shshaw","Sharp-shinned Hawk","Accipiter striatus","L562857","Moose Hill Farm (TTOR)","2026-07-19 12:00",1,42.1274396,-71.2149131,TRUE,TRUE,FALSE,"S374105314"
-"142","shshaw","Sharp-shinned Hawk","Accipiter striatus","L18847789","Mt. Lemmon--Butterfly Trail","2026-07-19 11:25",1,32.429357,-110.739172,TRUE,TRUE,FALSE,"S374142714"
-"143","shshaw","Sharp-shinned Hawk","Accipiter striatus","L73951217","Raccoon State Park Beach","2026-07-19 11:00",1,40.502723,-80.400889,TRUE,FALSE,TRUE,"S374568087"
-"144","shshaw","Sharp-shinned Hawk","Accipiter striatus","L1601321","Big Cottonwood Canyon--Lake Mary Trail","2026-07-19 10:30",1,40.5916267,-111.5814715,TRUE,FALSE,FALSE,"S374194445"
-"145","shshaw","Sharp-shinned Hawk","Accipiter striatus","L2594097","Bar Harbor Airport, Trenton","2026-07-19 10:15",1,44.4425281,-68.3651304,TRUE,FALSE,FALSE,"S374138684"
-"146","shshaw","Sharp-shinned Hawk","Accipiter striatus","L73941535","W 4200 N, Smithfield US-UT 41.80896, -111.86161","2026-07-19 10:00",1,41.808956,-111.861607,TRUE,FALSE,TRUE,"S374027307"
-"147","shshaw","Sharp-shinned Hawk","Accipiter striatus","L7369104","Antrim Commons Dr. Ponds","2026-07-19 09:55",2,39.7603111,-77.7365413,TRUE,FALSE,FALSE,"S373984004"
-"148","shshaw","Sharp-shinned Hawk","Accipiter striatus","L73925528","3914 Lake Breeze Dr, Island Park US-ID 44.66316, -111.37471","2026-07-19 09:44",1,44.663164,-111.37471,TRUE,FALSE,TRUE,"S374015630"
-"149","shshaw","Sharp-shinned Hawk","Accipiter striatus","L301174","Mt. Lemmon--Mt Bigelow Rd","2026-07-19 09:40",1,32.4170301,-110.7250857,TRUE,TRUE,FALSE,"S374146861"
-"150","shshaw","Sharp-shinned Hawk","Accipiter striatus","L46323950","Monroe Road","2026-07-19 09:30",1,40.7348643,-79.7214053,TRUE,FALSE,TRUE,"S374557008"
-"151","shshaw","Sharp-shinned Hawk","Accipiter striatus","L57115271","11418 Silver Avenue, Parks, Arizona, US (35.254, -111.976)","2026-07-19 09:29",1,35.2542651,-111.9755803,TRUE,FALSE,TRUE,"S374037114"
-"152","shshaw","Sharp-shinned Hawk","Accipiter striatus","L15526084","Bob’s house 40.72279, -78.12200","2026-07-19 08:38",1,40.722794,-78.122004,TRUE,FALSE,TRUE,"S374160172"
-"153","shshaw","Sharp-shinned Hawk","Accipiter striatus","L73967863","Mt. Aeneas trail","2026-07-19 08:35",1,48.16113,-113.948227,TRUE,FALSE,TRUE,"S374131704"
-"154","shshaw","Sharp-shinned Hawk","Accipiter striatus","L823675","Arctic Valley Rd. (general area)","2026-07-19 08:29",1,61.2350621,-149.569931,TRUE,FALSE,FALSE,"S374113523"
-"155","shshaw","Sharp-shinned Hawk","Accipiter striatus","L73931885","101 S Garden Ave, Newport US-WA 48.18061, -117.05808","2026-07-19 07:51",1,48.18061,-117.058082,TRUE,FALSE,TRUE,"S373986754"
-"156","shshaw","Sharp-shinned Hawk","Accipiter striatus","L1399773","Mount Blackmore Trail","2026-07-19 07:40",1,45.4692546,-110.9843359,TRUE,FALSE,FALSE,"S374162800"
-"157","shshaw","Sharp-shinned Hawk","Accipiter striatus","L11233426","Spring Valley Preserve--Ferlas Pond","2026-07-19 07:37",1,41.0060939,-74.9276111,TRUE,FALSE,FALSE,"S374121988"
-"158","shshaw","Sharp-shinned Hawk","Accipiter striatus","L439024","Maclay Flat Rec. Area","2026-07-19 07:30",1,46.8356276,-114.1040317,TRUE,FALSE,FALSE,"S374218405"
-"159","shshaw","Sharp-shinned Hawk","Accipiter striatus","L44885169","HOME-6420 Vermont Hill Rd.","2026-07-19 06:47",1,42.7098493,-78.5418899,TRUE,FALSE,TRUE,"S373908388"
-"160","shshaw","Sharp-shinned Hawk","Accipiter striatus","L35788855","8315 Pennystreet Rd, Rome US-NY 43.26433, -75.42997","2026-07-19 06:25",1,43.264333,-75.429969,TRUE,FALSE,TRUE,"S373901898"
-"161","shshaw","Sharp-shinned Hawk","Accipiter striatus","L73882128","14916–14976 McKenzie Hwy, Sisters US-OR 44.29811, -121.59304","2026-07-18 20:17",1,44.298109,-121.593041,TRUE,FALSE,TRUE,"S373768069"
-"162","shshaw","Sharp-shinned Hawk","Accipiter striatus","L19706412","The Farm (Private)","2026-07-18 20:13",1,39.355983,-81.057806,TRUE,FALSE,TRUE,"S373731600"
-"163","shshaw","Sharp-shinned Hawk","Accipiter striatus","L1885899","Silver Creek Preserve--Kilpatrick Bridge","2026-07-18 18:00",1,43.314782,-114.1355446,TRUE,FALSE,FALSE,"S375255125"
-"164","shshaw","Sharp-shinned Hawk","Accipiter striatus","L576682","Tyler SP (PPW-E 065)","2026-07-18 16:35",1,32.4799358,-95.2991867,TRUE,TRUE,FALSE,"S373732043"
-"165","shshaw","Sharp-shinned Hawk","Accipiter striatus","L599641","Gazos Creek Rd.--east of Cloverdale Rd intersection to 5 miles upstream","2026-07-18 16:06",1,37.1867017,-122.3379564,TRUE,FALSE,FALSE,"S373758504"
-"166","shshaw","Sharp-shinned Hawk","Accipiter striatus","L1497711","Rte 16 Elka Park","2026-07-18 15:30",1,42.135219,-74.0916559,TRUE,FALSE,TRUE,"S374423103"
-"167","shshaw","Sharp-shinned Hawk","Accipiter striatus","L74175654","US 202","2026-07-18 15:30",1,43.019454,-71.934727,TRUE,FALSE,TRUE,"S375202306"
-"168","shshaw","Sharp-shinned Hawk","Accipiter striatus","L803086","Herbster Lakefront","2026-07-18 15:16",1,46.8361523,-91.2575376,TRUE,FALSE,FALSE,"S373674869"
-"169","shshaw","Sharp-shinned Hawk","Accipiter striatus","L73876586","River Club Road, Alpena, Michigan, US (45.082, -83.576)","2026-07-18 13:30",1,45.0817051,-83.5755863,TRUE,FALSE,TRUE,"S373747160"
-"170","shshaw","Sharp-shinned Hawk","Accipiter striatus","L2970320","Mouth of the Middle River Conservation Area","2026-07-18 13:23",1,46.6897313,-91.8287204,TRUE,FALSE,FALSE,"S373663955"
-"171","shshaw","Sharp-shinned Hawk","Accipiter striatus","L1553156","Struve Slough--Ohlone Pkwy. to Harkins Slough Rd. (eastside access)","2026-07-18 12:53",1,36.910681,-121.7798638,TRUE,FALSE,FALSE,"S373677836"
-"172","shshaw","Sharp-shinned Hawk","Accipiter striatus","L73833256","Maine Turnpike S, Saco US-ME 43.53738, -70.44265","2026-07-18 12:07",1,43.537377,-70.442654,TRUE,FALSE,TRUE,"S373585732"
-"173","shshaw","Sharp-shinned Hawk","Accipiter striatus","L57071061","Christiansburg Library","2026-07-18 11:47",1,37.1299293,-80.4142752,TRUE,FALSE,TRUE,"S373578870"
-"174","shshaw","Sharp-shinned Hawk","Accipiter striatus","L3722677","Tahoe Meadows--South (Meadow Loop Trails including sections of Tahoe Rim and Ophir Creek Trails)","2026-07-18 11:20",1,39.3009254,-119.9177216,TRUE,FALSE,FALSE,"S373761232"
-"175","shshaw","Sharp-shinned Hawk","Accipiter striatus","L73853126","Garfield Ave","2026-07-18 10:57",1,44.7576331,-85.5952773,TRUE,FALSE,TRUE,"S373659035"
-"176","shshaw","Sharp-shinned Hawk","Accipiter striatus","L776000","Peat Moss Rd. (pond is private)","2026-07-18 10:54",1,39.5719546,-79.2726231,TRUE,FALSE,FALSE,"S373549336"
-"177","shshaw","Sharp-shinned Hawk","Accipiter striatus","L73813531","150 Kaydeross Park Rd, Saratoga Springs US-NY 43.04647, -73.73039","2026-07-18 09:37",1,43.046475,-73.730386,TRUE,FALSE,TRUE,"S373507627"
-"178","shshaw","Sharp-shinned Hawk","Accipiter striatus","L724744","Arctic Valley Ski Area","2026-07-18 09:09",1,61.2467075,-149.535234,TRUE,FALSE,FALSE,"S373686337"
-"179","shshaw","Sharp-shinned Hawk","Accipiter striatus","L73835431","49718–49746 Mineral King Rd, Three Rivers US-CA 36.43110, -118.75820","2026-07-18 08:47",1,36.431097,-118.758195,TRUE,FALSE,TRUE,"S373593888"
-"180","shshaw","Sharp-shinned Hawk","Accipiter striatus","L73888709","N Fork Coppei Creek Hill","2026-07-18 08:40",1,46.139788,-118.038024,TRUE,FALSE,TRUE,"S373800279"
-"181","shshaw","Sharp-shinned Hawk","Accipiter striatus","L3807304","Coconino NF--Sandy's Canyon Trail","2026-07-18 08:25",1,35.1269096,-111.5986973,TRUE,FALSE,FALSE,"S373616364"
-"182","shshaw","Sharp-shinned Hawk","Accipiter striatus","L16285386","Sally Milligan Park","2026-07-18 08:15",1,42.560801,-70.858761,TRUE,FALSE,FALSE,"S373682828"
-"183","shshaw","Sharp-shinned Hawk","Accipiter striatus","L2322568","Stewart Falls","2026-07-18 07:45",1,40.3862425,-111.6041272,TRUE,TRUE,FALSE,"S374139429"
-"184","shshaw","Sharp-shinned Hawk","Accipiter striatus","L299762","Yellowstone NP--Mammoth Hot Springs area","2026-07-18 07:17",1,44.9734094,-110.7041482,TRUE,FALSE,FALSE,"S373680150"
-"185","shshaw","Sharp-shinned Hawk","Accipiter striatus","L73730473","196 Violette Way, Orland US-ME 44.55290, -68.66376","2026-07-18 06:48",1,44.552899,-68.663757,TRUE,FALSE,TRUE,"S373514657"
-"186","shshaw","Sharp-shinned Hawk","Accipiter striatus","L8480079","The Ranch","2026-07-18 06:41",1,38.160876,-105.5894346,TRUE,FALSE,TRUE,"S373516767"
-"187","shshaw","Sharp-shinned Hawk","Accipiter striatus","L8010188","Clam River Dam Park","2026-07-17 21:37",1,44.2407143,-85.0893697,TRUE,FALSE,FALSE,"S373435422"
-"188","shshaw","Sharp-shinned Hawk","Accipiter striatus","L4419530","Red Fleet SP","2026-07-17 20:20",1,40.585608,-109.4411257,TRUE,FALSE,FALSE,"S373599701"
-"189","shshaw","Sharp-shinned Hawk","Accipiter striatus","L73877003","I-476, Taylor, Pennsylvania","2026-07-17 20:06",1,41.3768637,-75.720456,TRUE,FALSE,TRUE,"S373748675"
-"190","shshaw","Sharp-shinned Hawk","Accipiter striatus","L57618108","Sawyer Camp Trail - CBA 10045","2026-07-17 19:04",1,37.588418,-122.412842,TRUE,FALSE,FALSE,"S373322989"
-"191","shshaw","Sharp-shinned Hawk","Accipiter striatus","L68079483","Home Forest","2026-07-17 18:40",1,40.305565,-80.029008,TRUE,FALSE,TRUE,"S373275936"
-"192","shshaw","Sharp-shinned Hawk","Accipiter striatus","L158240","Seven Islands State Birding Park","2026-07-17 17:30",1,35.9472,-83.6897,TRUE,FALSE,FALSE,"S373331517"
-"193","shshaw","Sharp-shinned Hawk","Accipiter striatus","L73764489","Cooper Landing Airbnb-2026","2026-07-17 17:26",1,60.49276,-149.854347,TRUE,FALSE,TRUE,"S373318139"
-"194","shshaw","Sharp-shinned Hawk","Accipiter striatus","L29690471","Dungeness NWR","2026-07-17 17:17",1,48.1463111,-123.1865094,TRUE,FALSE,FALSE,"S374215934"
-"195","shshaw","Sharp-shinned Hawk","Accipiter striatus","L73754220","Everett Turnpike N, Manchester US-NH 43.01987, -71.48665","2026-07-17 17:09",2,43.019869,-71.486645,TRUE,FALSE,TRUE,"S373254989"
-"196","shshaw","Sharp-shinned Hawk","Accipiter striatus","L73861397","Maine Rest Area Northbound","2026-07-17 16:30",1,44.7653228,-68.9365482,TRUE,FALSE,TRUE,"S373689082"
-"197","shshaw","Sharp-shinned Hawk","Accipiter striatus","L74253968","Goose Creek Trailhead Road, Sedalia, Colorado, US (39.185, -105.392)","2026-07-17 16:13",1,39.1852742,-105.3917563,TRUE,FALSE,TRUE,"S375646183"
-"198","shshaw","Sharp-shinned Hawk","Accipiter striatus","L15891796","Secesh Summit","2026-07-17 16:13",1,45.1911476,-115.9726727,TRUE,FALSE,FALSE,"S373307521"
-"199","shshaw","Sharp-shinned Hawk","Accipiter striatus","L73766741","WSU Discovery Loop","2026-07-17 14:59",1,41.1914193,-111.9377027,TRUE,FALSE,TRUE,"S373305204"
-"200","shshaw","Sharp-shinned Hawk","Accipiter striatus","L73833095","2157–2181 Old Pecos Trail S, Santa Fe US-NM 35.65209, -105.93672","2026-07-17 14:57",1,35.652095,-105.936716,TRUE,FALSE,TRUE,"S373585128"
-"201","shshaw","Sharp-shinned Hawk","Accipiter striatus","L1102979","Birchwood Dr. hinesburg","2026-07-17 14:50",1,44.3478366,-73.0826426,TRUE,FALSE,TRUE,"S373223734"
-"202","shshaw","Sharp-shinned Hawk","Accipiter striatus","L33315525","Yosemite NP--Washburn Point","2026-07-17 13:48",1,37.720389,-119.573141,TRUE,FALSE,FALSE,"S373282547"
-"203","shshaw","Sharp-shinned Hawk","Accipiter striatus","L1446015","Lake Earl Wildlife Area--Old Mill Rd.","2026-07-17 12:47",1,41.7986522,-124.216796,TRUE,FALSE,FALSE,"S373242606"
-"204","shshaw","Sharp-shinned Hawk","Accipiter striatus","L26050159","Chapin Pass Trail","2026-07-17 12:00",1,40.4362881,-105.7166683,TRUE,TRUE,TRUE,"S373305329"
-"205","shshaw","Sharp-shinned Hawk","Accipiter striatus","L3904739","Mt. Rainier NP--Box Canyon","2026-07-17 11:58",1,46.7654857,-121.6354644,TRUE,FALSE,FALSE,"S373363911"
-"206","shshaw","Sharp-shinned Hawk","Accipiter striatus","L69217121","Appalachian National Scenic Trail, Pearisburg US-VA 37.21246, -80.85444","2026-07-17 11:47",1,37.212459,-80.854436,TRUE,FALSE,TRUE,"S373234601"
-"207","shshaw","Sharp-shinned Hawk","Accipiter striatus","L34822496","Monument Park-East Road, Pagosa Springs US-CO 37.33117, -107.17230","2026-07-17 11:31",1,37.331173,-107.172301,TRUE,FALSE,TRUE,"S373300922"
-"208","shshaw","Sharp-shinned Hawk","Accipiter striatus","L49188192","Mud Lake","2026-07-17 10:30",1,38.6100583,-120.1491459,TRUE,FALSE,FALSE,"S373273167"
-"209","shshaw","Sharp-shinned Hawk","Accipiter striatus","L246772","Machias Seal Island","2026-07-17 10:22",1,44.5017664,-67.1008222,TRUE,FALSE,FALSE,"S373528775"
-"210","shshaw","Sharp-shinned Hawk","Accipiter striatus","L59779826","Dr. Claire's House","2026-07-17 09:36",1,38.8350405,-104.8396522,TRUE,FALSE,TRUE,"S373160994"
-"211","shshaw","Sharp-shinned Hawk","Accipiter striatus","L73714048","Maine Turnpike S, Portland US-ME","2026-07-17 09:23",1,43.721129,-70.306375,TRUE,FALSE,TRUE,"S373098248"
-"212","shshaw","Sharp-shinned Hawk","Accipiter striatus","L936294","Rimrock Lake","2026-07-17 09:13",1,46.6394779,-121.1628914,TRUE,FALSE,FALSE,"S373161319"
-"213","shshaw","Sharp-shinned Hawk","Accipiter striatus","L19689438","Bug-Den (41.651, -72.397)","2026-07-17 09:02",1,41.6507608,-72.3968523,TRUE,FALSE,TRUE,"S373095813"
-"214","shshaw","Sharp-shinned Hawk","Accipiter striatus","L73721517","Grand Mesa Uncompahgre and Gunnison National Forests, Ophir US-CO 37.86794, -107.86538","2026-07-17 08:46",1,37.867941,-107.865381,TRUE,FALSE,TRUE,"S373130752"
-"215","shshaw","Sharp-shinned Hawk","Accipiter striatus","L1049359","Lower Ausable Lake, north end","2026-07-17 08:46",1,44.1178512,-73.8242135,TRUE,FALSE,FALSE,"S373584691"
-"216","shshaw","Sharp-shinned Hawk","Accipiter striatus","L1977614","94 Sickles Ave, Nyack, NY","2026-07-17 08:14",1,41.0945982,-73.9241749,TRUE,FALSE,TRUE,"S373094204"
-"217","shshaw","Sharp-shinned Hawk","Accipiter striatus","L1522489","Yadkin River Greenway--Happy Valley","2026-07-17 07:21",1,35.990081,-81.558355,TRUE,FALSE,FALSE,"S373082220"
-"218","shshaw","Sharp-shinned Hawk","Accipiter striatus","L14804034","895 Heatherwood Estates Drive, Hollister, California, US (36.83, -121.349)","2026-07-17 06:47",1,36.8296412,-121.3490967,TRUE,FALSE,TRUE,"S373109313"
-"219","shshaw","Sharp-shinned Hawk","Accipiter striatus","L73704550","5079–6361 Lewis Pond Rd, Island Pond US-VT 44.83868, -71.76974","2026-07-17 05:49",1,44.838681,-71.769739,TRUE,FALSE,TRUE,"S373051286"
-"220","shshaw","Sharp-shinned Hawk","Accipiter striatus","L73735033","US Frst Service Road 522 B, Woods Landing-Jelm, Wyoming, US (41.067, -106.047)","2026-07-17 05:41",1,41.067115,-106.0471,TRUE,FALSE,TRUE,"S373183279"
-"221","shshaw","Sharp-shinned Hawk","Accipiter striatus","L793930","Wheat Ridge Greenbelt--Prospect Park & Lake","2026-07-16 18:30",1,39.7760558,-105.1254487,TRUE,FALSE,FALSE,"S372955204"
-"222","shshaw","Sharp-shinned Hawk","Accipiter striatus","L73037169","Foss Road, Nehalem, Oregon, US (45.722, -123.729)","2026-07-16 18:30",1,45.7218427,-123.728966,TRUE,FALSE,TRUE,"S373226778"
-"223","shshaw","Sharp-shinned Hawk","Accipiter striatus","L54647360","Beargrass","2026-07-16 18:20",1,48.7863634,-113.4054464,TRUE,FALSE,TRUE,"S372923722"
-"224","shshaw","Sharp-shinned Hawk","Accipiter striatus","L73677171","1351 Kalama River Rd, Kalama US-WA 46.04604, -122.80597","2026-07-16 18:10",1,46.046043,-122.805968,TRUE,FALSE,TRUE,"S372946783"
-"225","shshaw","Sharp-shinned Hawk","Accipiter striatus","L68214504","Unnamed Road, Bolivar, Ohio, US (40.617, -81.457)","2026-07-16 17:01",NA,40.6174402,-81.4573866,TRUE,FALSE,TRUE,"S372882768"
-"226","shshaw","Sharp-shinned Hawk","Accipiter striatus","L1624582","I.S. and Gertrude Sahli Nature Park","2026-07-16 15:50",1,40.7846861,-80.3877156,TRUE,FALSE,FALSE,"S372873001"
-"227","shshaw","Sharp-shinned Hawk","Accipiter striatus","L24968935","Old Hwy C Bog","2026-07-16 15:40",1,46.77981,-91.090332,TRUE,FALSE,TRUE,"S372897831"
-"228","shshaw","Sharp-shinned Hawk","Accipiter striatus","L15852337","Hwy 88--Horse Canyon Trailhead","2026-07-16 14:23",1,38.679772,-120.116343,TRUE,FALSE,FALSE,"S373062625"
-"229","shshaw","Sharp-shinned Hawk","Accipiter striatus","L54983364","Jack's House","2026-07-16 13:28",2,37.4481016,-122.2216569,TRUE,FALSE,TRUE,"S372876060"
-"230","shshaw","Sharp-shinned Hawk","Accipiter striatus","L2126648","West Massabesic Rockingham Trail, Manchester","2026-07-16 13:13",1,42.999547,-71.3963377,TRUE,FALSE,FALSE,"S372855703"
-"231","shshaw","Sharp-shinned Hawk","Accipiter striatus","L3467712","White Mt. NF--Loon Mt., Lincoln","2026-07-16 12:26",1,44.0376602,-71.6302228,TRUE,FALSE,FALSE,"S372918967"
-"232","shshaw","Sharp-shinned Hawk","Accipiter striatus","L64185199","684 US-5, North Hartland US-VT 43.60136, -72.34912. Meacham field access","2026-07-16 12:06",1,43.601359,-72.349118,TRUE,FALSE,TRUE,"S373116183"
-"233","shshaw","Sharp-shinned Hawk","Accipiter striatus","L64246272","49 Goldmine Rd, Dublin US-NH 42.88732, -72.00307","2026-07-16 11:45",1,42.887325,-72.003071,TRUE,FALSE,TRUE,"S372835436"
-"234","shshaw","Sharp-shinned Hawk","Accipiter striatus","L5114983","Sygan Hill top","2026-07-16 11:25",1,40.3581298,-80.1369998,TRUE,FALSE,TRUE,"S372809246"
-"235","shshaw","Sharp-shinned Hawk","Accipiter striatus","L73682233","97620, Adel US-OR 42.04127, -119.99222","2026-07-16 11:14",2,42.041272,-119.99222,TRUE,FALSE,TRUE,"S372947377"
-"236","shshaw","Sharp-shinned Hawk","Accipiter striatus","L65791479","GP parcel (Washington Co, NY)  (restricted access)","2026-07-16 10:35",1,43.1245397,-73.5831389,TRUE,FALSE,TRUE,"S372889867"
-"237","shshaw","Sharp-shinned Hawk","Accipiter striatus","L550783","Fields Spring SP","2026-07-16 10:33",1,46.0804052,-117.1690392,TRUE,FALSE,FALSE,"S372847277"
-"238","shshaw","Sharp-shinned Hawk","Accipiter striatus","L73643993","12900–12950 County Road 520, La Veta US-CO 37.55033, -105.01984","2026-07-16 10:17",2,37.550333,-105.019845,TRUE,FALSE,TRUE,"S372796614"
-"239","shshaw","Sharp-shinned Hawk","Accipiter striatus","L18055942","Dry Creek, Meadowview neighborhood Longmont, CO","2026-07-16 10:05",1,40.146869,-105.157107,TRUE,FALSE,TRUE,"S372814356"
-"240","shshaw","Sharp-shinned Hawk","Accipiter striatus","L53678158","Lehnert-Hemsath 47.83838, -122.23187","2026-07-16 09:57",1,47.838381,-122.231868,TRUE,FALSE,TRUE,"S372808810"
-"241","shshaw","Sharp-shinned Hawk","Accipiter striatus","L280147","Fields Pond Audubon Center","2026-07-16 09:37",1,44.7386861,-68.7275076,TRUE,FALSE,FALSE,"S372739737"
-"242","shshaw","Sharp-shinned Hawk","Accipiter striatus","L63309239","Apr 19, 2026 12:41 PM
-35.371, -81.656","2026-07-16 09:35",1,35.3705289,-81.6557366,TRUE,FALSE,TRUE,"S372784019"
-"243","shshaw","Sharp-shinned Hawk","Accipiter striatus","L153041","Iroquois NWR--Feeder Rd. Trail (Genesee Co.)","2026-07-16 09:13",1,43.1242469,-78.429129,TRUE,FALSE,FALSE,"S372771811"
-"244","shshaw","Sharp-shinned Hawk","Accipiter striatus","L9622020","Route 32 Rosendale","2026-07-16 08:52",1,41.8456647,-74.0742165,TRUE,FALSE,TRUE,"S373118928"
-"245","shshaw","Sharp-shinned Hawk","Accipiter striatus","L2934441","Intermountain Bird Observatory Diane Moore Nature Center","2026-07-16 08:26",1,43.5427738,-116.0973144,TRUE,TRUE,FALSE,"S372821605"
-"246","shshaw","Sharp-shinned Hawk","Accipiter striatus","L12044802","163 Clay Hill Rd, Hartland US-VT 43.59538, -72.38098","2026-07-16 08:25",1,43.59538,-72.380978,TRUE,FALSE,TRUE,"S373115235"
-"247","shshaw","Sharp-shinned Hawk","Accipiter striatus","L1429974","Battle Ridge Campground","2026-07-16 08:13",1,45.8837536,-110.8785744,TRUE,FALSE,FALSE,"S372909034"
-"248","shshaw","Sharp-shinned Hawk","Accipiter striatus","L19433457","Little Park Creek Trail","2026-07-16 07:37",1,46.7647518,-113.9412716,TRUE,FALSE,FALSE,"S372885771"
-"249","shshaw","Sharp-shinned Hawk","Accipiter striatus","L1194474","River View Drive, Essex Vermont","2026-07-16 06:39",1,44.4834329,-73.0703688,TRUE,FALSE,TRUE,"S372699378"
-"250","shshaw","Sharp-shinned Hawk","Accipiter striatus","L73652500","28230 Hunter Creek Road, Gold Beach, Oregon, US (42.374, -124.413)","2026-07-16 06:25",1,42.3736965,-124.4133649,TRUE,TRUE,TRUE,"S372828734"
-"251","shshaw","Sharp-shinned Hawk","Accipiter striatus","L73665617","Tahoe National Forest, Camptonville US-CA (39.5365,-121.0177)","2026-07-16 06:15",3,39.536543,-121.017699,TRUE,FALSE,TRUE,"S372880067"
-"252","shshaw","Sharp-shinned Hawk","Accipiter striatus","L3066930","Bigelow road (private)","2026-07-16 06:13",1,45.61839,-111.0687733,TRUE,FALSE,TRUE,"S374739018"
-"253","shshaw","Sharp-shinned Hawk","Accipiter striatus","L73665629","Gwynn Creek Trail","2026-07-16 05:05",1,44.272337,-124.0939789,TRUE,FALSE,TRUE,"S372881305"
-"254","shshaw","Sharp-shinned Hawk","Accipiter striatus","L20327997","Gwynn Creek Trail","2026-07-16 05:05",1,44.271597,-124.101773,TRUE,FALSE,TRUE,"S372773475"
-"255","shshaw","Sharp-shinned Hawk","Accipiter striatus","L73594343","Virginia St E, Charleston US-WV 38.34105, -81.62498","2026-07-15 21:03",1,38.341051,-81.624984,TRUE,FALSE,TRUE,"S372569005"
-"256","shshaw","Sharp-shinned Hawk","Accipiter striatus","L72784712","otto street","2026-07-15 20:25",1,48.081799,-122.812751,TRUE,FALSE,TRUE,"S372589003"
-"257","shshaw","Sharp-shinned Hawk","Accipiter striatus","L2393845","Stevens Lake Trail","2026-07-15 19:52",1,47.4421,-115.762944,TRUE,FALSE,FALSE,"S373336062"
-"258","shshaw","Sharp-shinned Hawk","Accipiter striatus","L6243751","Devil's Gulch","2026-07-15 19:12",1,38.0311449,-122.7336332,TRUE,FALSE,FALSE,"S373160714"
-"259","shshaw","Sharp-shinned Hawk","Accipiter striatus","L73649639","Parmalee Gulch Rd","2026-07-15 19:00",1,39.625935,-105.2533877,TRUE,FALSE,TRUE,"S372817896"
-"260","shshaw","Sharp-shinned Hawk","Accipiter striatus","L8237537","Webster Park","2026-07-15 17:50",1,44.8864928,-68.6681872,TRUE,FALSE,FALSE,"S372542483"
-"261","shshaw","Sharp-shinned Hawk","Accipiter striatus","L33889917","Six Rivers National Forest, Hyampom US-CA (40.5194,-123.5041)","2026-07-15 17:05",1,40.519367,-123.504149,TRUE,FALSE,TRUE,"S374569856"
-"262","shshaw","Sharp-shinned Hawk","Accipiter striatus","L11942730","Hoosic River, South Branch","2026-07-15 14:52",1,42.6921727,-73.1138429,TRUE,FALSE,FALSE,"S372503226"
-"263","shshaw","Sharp-shinned Hawk","Accipiter striatus","L4811030","Keese Mill/Blue Mt Road","2026-07-15 12:16",1,44.4411953,-74.3695021,TRUE,FALSE,TRUE,"S372581121"
-"264","shshaw","Sharp-shinned Hawk","Accipiter striatus","L50679926","Northwest Peak","2026-07-15 12:05",1,48.9638908,-115.967184,TRUE,FALSE,TRUE,"S373233308"
-"265","shshaw","Sharp-shinned Hawk","Accipiter striatus","L73596537","Skinner Spring","2026-07-15 12:00",1,38.50896,-112.329854,TRUE,FALSE,TRUE,"S372577886"
-"266","shshaw","Sharp-shinned Hawk","Accipiter striatus","L7570944","Cullaby Wetland Trail (35)","2026-07-15 11:35",1,46.0822468,-123.9113874,TRUE,FALSE,TRUE,"S372486236"
-"267","shshaw","Sharp-shinned Hawk","Accipiter striatus","L73580943","Shadowland","2026-07-15 11:04",1,44.283319,-103.898892,TRUE,FALSE,TRUE,"S372512465"
-"268","shshaw","Sharp-shinned Hawk","Accipiter striatus","L3752246","Blue Ridge Pkwy--Craggy Gardens Snowball Trail","2026-07-15 10:11",1,35.7009932,-82.4040431,TRUE,FALSE,FALSE,"S372499713"
-"269","shshaw","Sharp-shinned Hawk","Accipiter striatus","L718470","Glen Alton Day Use Area","2026-07-15 10:08",3,37.4294,-80.5514,TRUE,FALSE,FALSE,"S372542926"
-"270","shshaw","Sharp-shinned Hawk","Accipiter striatus","L73578646","Deschutes National Forest, Sisters US-OR 44.24980, -121.69042","2026-07-15 10:01",1,44.249803,-121.690416,TRUE,FALSE,TRUE,"S372503333"
-"271","shshaw","Sharp-shinned Hawk","Accipiter striatus","L977404","Longmeadow Sandbar","2026-07-15 10:00",1,42.0578804,-72.5987399,TRUE,TRUE,FALSE,"S372485017"
-"272","shshaw","Sharp-shinned Hawk","Accipiter striatus","L773892","Ulistac Natural Area","2026-07-15 10:00",1,37.4057129,-121.9552374,TRUE,FALSE,FALSE,"S372472897"
-"273","shshaw","Sharp-shinned Hawk","Accipiter striatus","L613434","Tumalo SP","2026-07-15 08:32",1,44.1291227,-121.3307548,TRUE,FALSE,FALSE,"S374131763"
-"274","shshaw","Sharp-shinned Hawk","Accipiter striatus","L73583309","McCullough Peaks","2026-07-15 08:00",1,44.531,-108.89,TRUE,FALSE,TRUE,"S372523215"
-"275","shshaw","Sharp-shinned Hawk","Accipiter striatus","L20424155","455 Knapp Hill Rd","2026-07-15 07:30",1,42.2509228,-75.8815099,TRUE,FALSE,TRUE,"S372348506"
-"276","shshaw","Sharp-shinned Hawk","Accipiter striatus","L7246541","Sinking Creek Haven","2026-07-15 07:07",1,40.8299249,-77.6302751,TRUE,FALSE,TRUE,"S372554260"
-"277","shshaw","Sharp-shinned Hawk","Accipiter striatus","L3084031","Upper Los Alamos Canyon","2026-07-15 07:03",1,35.879071,-106.3344222,TRUE,FALSE,FALSE,"S372522441"
-"278","shshaw","Sharp-shinned Hawk","Accipiter striatus","L28913237","NP: Woods near Cemetery/ Walter Rd Ravine","2026-07-15 06:38",2,40.6047878,-80.0162921,TRUE,FALSE,TRUE,"S372459326"
-"279","shshaw","Sharp-shinned Hawk","Accipiter striatus","L232479","Juanita Bay Park","2026-07-15 06:31",1,47.6981686,-122.2101878,TRUE,FALSE,FALSE,"S372461020"
-"280","shshaw","Sharp-shinned Hawk","Accipiter striatus","L23728042","Isthmus Beach","2026-07-15 06:23",1,48.022,-122.711555,TRUE,FALSE,TRUE,"S372373466"
-"281","shshaw","Sharp-shinned Hawk","Accipiter striatus","L9861160","Buffalo Thunder Casino Ponds (view from parking lot only)","2026-07-14 18:43",1,35.8591521,-105.994053,TRUE,FALSE,FALSE,"S372225734"
-"282","shshaw","Sharp-shinned Hawk","Accipiter striatus","L73515908","Silver mountain trailhead","2026-07-14 17:32",1,40.6324213,-111.6116916,TRUE,FALSE,TRUE,"S372231765"
-"283","shshaw","Sharp-shinned Hawk","Accipiter striatus","L33492339","Bill's Lane power line","2026-07-14 14:01",1,43.333781,-70.6671721,TRUE,FALSE,TRUE,"S372109209"
-"284","shshaw","Sharp-shinned Hawk","Accipiter striatus","L46487735","Grayson Highlands State Park","2026-07-14 13:10",1,36.6333343,-81.50877,TRUE,FALSE,TRUE,"S372221616"
-"285","shshaw","Sharp-shinned Hawk","Accipiter striatus","L73481436","8549 Wisconsin 42, Fish Creek, Wisconsin, US (45.086, -87.249)","2026-07-14 12:20",1,45.0860002,-87.2491133,TRUE,FALSE,TRUE,"S372093738"
-"286","shshaw","Sharp-shinned Hawk","Accipiter striatus","L19476726","Week's Wetland Preserve","2026-07-14 12:15",1,48.5225751,-122.9151275,TRUE,FALSE,TRUE,"S372567647"
-"287","shshaw","Sharp-shinned Hawk","Accipiter striatus","L7300124","Lynden--Flynn & River Rd","2026-07-14 12:09",1,48.9174108,-122.496171,TRUE,FALSE,FALSE,"S372150828"
-"288","shshaw","Sharp-shinned Hawk","Accipiter striatus","L73480905","4195–4245 Monte Cristo Rd, Woodruff US-UT 41.47968, -111.36874","2026-07-14 10:18",1,41.479678,-111.368743,TRUE,FALSE,TRUE,"S372091731"
-"289","shshaw","Sharp-shinned Hawk","Accipiter striatus","L73515447","Hull Creek Camp, US-CA","2026-07-14 09:48",1,38.108926,-120.035849,TRUE,FALSE,TRUE,"S372229862"
-"290","shshaw","Sharp-shinned Hawk","Accipiter striatus","L10145452","1240 Bay St, Florence US-OR (43.9661,-124.1079)","2026-07-14 09:00",1,43.966144,-124.107903,TRUE,FALSE,TRUE,"S372947147"
-"291","shshaw","Sharp-shinned Hawk","Accipiter striatus","L6650625","Morgan Hill SF--Shackham Rd., north (Onondaga Co.)","2026-07-14 07:45",1,42.7946008,-76.009673,TRUE,FALSE,FALSE,"S372032230"
-"292","shshaw","Sharp-shinned Hawk","Accipiter striatus","L22715496","Bicentennial Park","2026-07-14 07:31",1,42.9379377,-112.4710056,TRUE,FALSE,FALSE,"S372028303"
-"293","shshaw","Sharp-shinned Hawk","Accipiter striatus","L14771200","qatáy Valley (49th St to Blaine St)","2026-07-14 07:05",1,48.1205637,-122.7751226,TRUE,FALSE,FALSE,"S372109654"
-"294","shshaw","Sharp-shinned Hawk","Accipiter striatus","L506856","Eastern Egg Rock (island vicinity ONLY, please do NOT include mainland starting points)","2026-07-14 06:00",1,43.8618863,-69.382224,TRUE,FALSE,FALSE,"S372528013"
-"295","shshaw","Sharp-shinned Hawk","Accipiter striatus","L2840221","Strawberry Hill","2026-07-14 05:35",2,42.6967487,-70.824008,TRUE,FALSE,FALSE,"S371946475"
-"296","shshaw","Sharp-shinned Hawk","Accipiter striatus","L7420687","Gazos Creek Mountain Camp--meadow","2026-07-14 05:15",2,37.1983679,-122.2941463,TRUE,FALSE,FALSE,"S372565855"
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
+"1","brnowl","American Barn Owl","Tyto furcata","L4976596","Carmel Valley (Torrey Hills) Residential","2026-07-24 22:12",1,32.9149308,-117.2173997,TRUE,FALSE,TRUE,"S376018828",NA
+"2","brnowl","American Barn Owl","Tyto furcata","L54562082","Echo Yard","2026-07-24 22:06",1,37.371489,-122.209479,TRUE,FALSE,TRUE,"S376017863",NA
+"3","brnowl","American Barn Owl","Tyto furcata","L25727529","Thayer’s Domain (Private)","2026-07-24 21:45",1,40.78819,-124.128352,TRUE,FALSE,TRUE,"S376017190",NA
+"4","brnowl","American Barn Owl","Tyto furcata","L67938589","dog walk","2026-07-24 21:42",1,37.6222508,-122.0472147,TRUE,FALSE,TRUE,"S376014907",NA
+"5","brnowl","American Barn Owl","Tyto furcata","L74321323","120 Simmons Road, Montesano, Washington, US (46.981, -123.573)","2026-07-24 21:38",1,46.9814809,-123.572767,TRUE,FALSE,TRUE,"S376024030",NA
+"6","brnowl","American Barn Owl","Tyto furcata","L506053","Damonte Ranch Wetlands","2026-07-24 21:26",1,39.4275085,-119.7185326,TRUE,FALSE,FALSE,"S376019310",NA
+"7","brnowl","American Barn Owl","Tyto furcata","L2381156","Yard-Leucadia Blvd, Encinitas, CA","2026-07-24 21:22",1,33.064565,-117.299277,TRUE,FALSE,TRUE,"S376012770",NA
+"8","brnowl","American Barn Owl","Tyto furcata","L623357","Paynes Prairie Preserve SP--La Chua Trail","2026-07-24 20:34",1,29.6068756,-82.3031116,TRUE,FALSE,FALSE,"S375988143",NA
+"9","brnowl","American Barn Owl","Tyto furcata","L523951","Stipson Island Rd.","2026-07-24 20:24",2,39.1890256,-74.9109006,TRUE,TRUE,FALSE,"S375987571",NA
+"10","brnowl","American Barn Owl","Tyto furcata","L805293","Cow Creek Rec. Area","2026-07-24 19:56",3,44.5598973,-100.4888535,TRUE,FALSE,FALSE,"S375999252",NA
+"11","brnowl","American Barn Owl","Tyto furcata","L2841155","San Gabriel River Channel--Duarte","2026-07-24 19:21",1,34.1428001,-117.9345095,TRUE,FALSE,FALSE,"S376010726",NA
+"12","brnowl","American Barn Owl","Tyto furcata","L14242758","Irvine Regional Park, Orange US-CA 33.79362, -117.74229","2026-07-24 18:51",1,33.793623,-117.74229,TRUE,FALSE,TRUE,"S376008702",NA
+"13","brnowl","American Barn Owl","Tyto furcata","L581841","Browns Farm Rd.","2026-07-24 17:00",1,26.6215822,-80.5616945,TRUE,FALSE,FALSE,"S376007342",NA
+"14","brnowl","American Barn Owl","Tyto furcata","L364551","Niland--International Rd.","2026-07-24 13:22",1,33.2222357,-115.51476,TRUE,FALSE,FALSE,"S375928203",NA
+"15","brnowl","American Barn Owl","Tyto furcata","L571616","Antelope Island SP--Antelope Island (island only)","2026-07-24 11:02",1,40.9560485,-112.2040558,TRUE,FALSE,FALSE,"S375855748",NA
+"16","brnowl","American Barn Owl","Tyto furcata","L1188911","Forever Wild Field Trial Area","2026-07-24 10:44",1,32.6378571,-87.6886654,TRUE,FALSE,FALSE,"S376008578",NA
+"17","brnowl","American Barn Owl","Tyto furcata","L989640","Hudeman Slough Wetlands (formerly Hudeman Slough)","2026-07-24 09:22",2,38.2203803,-122.3933011,TRUE,FALSE,FALSE,"S375894397",NA
+"18","brnowl","American Barn Owl","Tyto furcata","L685523","Sky Meadows SP--Bridle Trail","2026-07-24 09:03",1,38.9903032,-77.9443073,TRUE,FALSE,FALSE,"S375770422",NA
+"19","brnowl","American Barn Owl","Tyto furcata","L2776216","Sedgwick Reserve (restricted access)","2026-07-24 08:30",1,34.692571,-120.0405478,TRUE,FALSE,FALSE,"S375904199",NA
+"20","brnowl","American Barn Owl","Tyto furcata","L878741","Soscol Water Recycling Facility","2026-07-24 08:25",1,38.2340171,-122.2826385,TRUE,FALSE,FALSE,"S375926522",NA
+"21","brnowl","American Barn Owl","Tyto furcata","L12671731","Arroyo Conejo at Newbury Park Place","2026-07-24 07:03",1,34.1703672,-118.9571684,TRUE,FALSE,FALSE,"S375843961",NA
+"22","brnowl","American Barn Owl","Tyto furcata","L74317881","98292, Stanwood US-WA 48.21194, -122.36603","2026-07-24 07:03",2,48.211945,-122.366026,TRUE,FALSE,TRUE,"S376004928",NA
+"23","brnowl","American Barn Owl","Tyto furcata","L1528140","UC Irvine--Arboretum","2026-07-24 06:40",4,33.6639028,-117.8528959,TRUE,FALSE,FALSE,"S375822161",NA
+"24","brnowl","American Barn Owl","Tyto furcata","L1109955","UC Natural Reserve System Ponds 4-11","2026-07-24 06:16",2,33.6562812,-117.8515975,TRUE,FALSE,TRUE,"S375797307",NA
+"25","brnowl","American Barn Owl","Tyto furcata","L596018","Pt. Reyes Bird Observatory--Palomarin","2026-07-24 06:10",1,37.9298634,-122.73561,TRUE,FALSE,FALSE,"S375895634",NA
+"26","brnowl","American Barn Owl","Tyto furcata","L275227","Piute Ponds (permit required)","2026-07-24 06:05",4,34.7901193,-118.1181776,TRUE,FALSE,FALSE,"S375938939",NA
+"27","brnowl","American Barn Owl","Tyto furcata","L420195","Big Morongo Canyon Preserve & Covington Park","2026-07-24 06:02",1,34.0497222,-116.5702639,TRUE,FALSE,FALSE,"S375817920",NA
+"28","brnowl","American Barn Owl","Tyto furcata","L74295657","Ladd Marsh WMA — Elk Trap Maps Banding Station (Limited Access)","2026-07-24 04:57",1,45.252427,-117.994745,TRUE,FALSE,TRUE,"S375886213",NA
+"29","brnowl","American Barn Owl","Tyto furcata","L128530","Discovery Park","2026-07-24 04:22",4,47.663868,-122.4215317,TRUE,FALSE,FALSE,"S375773951",NA
+"30","brnowl","American Barn Owl","Tyto furcata","L781491","Home, river side","2026-07-24 02:40",1,39.0564257,-123.1424367,TRUE,FALSE,TRUE,"S375839971",NA
+"31","brnowl","American Barn Owl","Tyto furcata","L1184114","Thurber Ln | Santa Cruz, CA","2026-07-24 02:03",1,37.0012375,-121.9750817,TRUE,FALSE,TRUE,"S375690801",NA
+"32","brnowl","American Barn Owl","Tyto furcata","L13231581","Harmon Dr.","2026-07-24 00:21",1,38.5042578,-121.5545109,TRUE,FALSE,TRUE,"S375862156",NA
+"33","brnowl","American Barn Owl","Tyto furcata","L38041147","Aegolius Basterds LRGV (Private Residence)","2026-07-23 23:40",1,26.1842336,-98.3811696,TRUE,FALSE,TRUE,"S375640418",NA
+"34","brnowl","American Barn Owl","Tyto furcata","L74258382","U.S. 380, Carrizozo, New Mexico, US (33.606, -105.739)","2026-07-23 23:30",1,33.6056878,-105.7385365,TRUE,FALSE,TRUE,"S375675590",NA
+"35","brnowl","American Barn Owl","Tyto furcata","L4885585","38th Avenue NE","2026-07-23 23:01",1,47.702304,-122.2883291,TRUE,FALSE,TRUE,"S375651255",NA
+"36","brnowl","American Barn Owl","Tyto furcata","L74289106","Gold Creek Road, Tillamook, Oregon, US (45.444, -123.584)","2026-07-23 22:19",1,45.4444529,-123.5835385,TRUE,FALSE,TRUE,"S375853071",NA
+"37","brnowl","American Barn Owl","Tyto furcata","L785094","Mt. Madonna County Park","2026-07-23 21:48",1,37.0036001,-121.7081952,TRUE,FALSE,FALSE,"S375652474",NA
+"38","brnowl","American Barn Owl","Tyto furcata","L74252002","Botteri's Sparrow spot on Perrin Rd (32.517, -107.915)","2026-07-23 21:45",1,32.5160917,-107.9151599,TRUE,FALSE,TRUE,"S375633961",NA
+"39","brnowl","American Barn Owl","Tyto furcata","L9041740","Longwood University--Main Campus","2026-07-23 20:51",3,37.2995662,-78.3965743,TRUE,TRUE,FALSE,"S375615848",NA
+"40","brnowl","American Barn Owl","Tyto furcata","L169112","Hassayampa River Preserve (closed Mon/Tue)","2026-07-23 20:40",1,33.9333419,-112.6946297,TRUE,FALSE,FALSE,"S375642301",NA
+"41","brnowl","American Barn Owl","Tyto furcata","L6668557","The Rolling Land Company","2026-07-23 20:35",1,32.759099,-117.054679,TRUE,FALSE,TRUE,"S375840057",NA
+"42","brnowl","American Barn Owl","Tyto furcata","L74248195","201 South Main Street, Farmville, Virginia, US (37.301, -78.394)","2026-07-23 19:54",4,37.3006797,-78.3935329,TRUE,TRUE,TRUE,"S375614531",NA
+"43","brnowl","American Barn Owl","Tyto furcata","L856260","South Beach SP","2026-07-23 19:26",1,44.6063572,-124.0631104,TRUE,FALSE,FALSE,"S375997278",NA
+"44","brnowl","American Barn Owl","Tyto furcata","L73882369","3957 Aloaliʻi Dr, Princeville US-HI 22.22044, -159.46688","2026-07-23 17:58",1,22.220442,-159.466881,TRUE,FALSE,TRUE,"S375634805","N"
+"45","brnowl","American Barn Owl","Tyto furcata","L1032455","Wilder Ranch SP--Old Cove Landing Trail","2026-07-23 16:29",1,36.9569044,-122.0840338,TRUE,FALSE,FALSE,"S375611250",NA
+"46","brnowl","American Barn Owl","Tyto furcata","L218324","Pt. Reyes--Abbotts Lagoon","2026-07-23 11:15",1,38.1190611,-122.9522467,TRUE,FALSE,FALSE,"S375562043",NA
+"47","brnowl","American Barn Owl","Tyto furcata","L6209932","Cheyenne Bottoms WA--Inlet Canal","2026-07-23 10:40",2,38.4487239,-98.7100178,TRUE,FALSE,FALSE,"S375633987",NA
+"48","brnowl","American Barn Owl","Tyto furcata","L268126","River Lane","2026-07-23 07:04",1,40.1662735,-111.737139,TRUE,FALSE,FALSE,"S375427138",NA
+"49","brnowl","American Barn Owl","Tyto furcata","L740504","South Fork Wildlife Area--south","2026-07-23 07:01",1,35.655309,-118.357816,TRUE,FALSE,FALSE,"S375467861",NA
+"50","brnowl","American Barn Owl","Tyto furcata","L472951","Paloma Ranch","2026-07-23 06:30",1,32.9189081,-112.8944135,TRUE,FALSE,FALSE,"S375550862",NA
+"51","brnowl","American Barn Owl","Tyto furcata","L74249961","UC Irvine Arboretum–San Joaquin Marsh West Edge","2026-07-23 06:25",1,33.6615747,-117.8490232,TRUE,FALSE,TRUE,"S375624818",NA
+"52","brnowl","American Barn Owl","Tyto furcata","L192708","Martinez Regional Shoreline Park","2026-07-23 06:24",1,38.0241261,-122.1401596,TRUE,FALSE,FALSE,"S375413781",NA
+"53","brnowl","American Barn Owl","Tyto furcata","L74250040","Campus Drive near UCI Marsh","2026-07-23 06:11",1,33.6612892,-117.8487531,TRUE,FALSE,TRUE,"S375625130",NA
+"54","brnowl","American Barn Owl","Tyto furcata","L5809821","Haus von Detwiler","2026-07-23 05:25",1,32.6999678,-114.6841248,TRUE,FALSE,TRUE,"S375407270",NA
+"55","brnowl","American Barn Owl","Tyto furcata","L815544","Migrant Corner Trail and Sierra Way","2026-07-23 04:42",1,35.6725328,-118.3276463,TRUE,FALSE,FALSE,"S375367303",NA
+"56","brnowl","American Barn Owl","Tyto furcata","L74202961","21789–21899 CA-178, Weldon US-CA 35.67756, -118.25379","2026-07-23 04:26",1,35.677563,-118.253789,TRUE,FALSE,TRUE,"S375358391",NA
+"57","brnowl","American Barn Owl","Tyto furcata","L19760045","10900 Trask River Road, Tillamook, Oregon, US (45.44, -123.753)","2026-07-23 00:24",1,45.4399681,-123.7530958,TRUE,FALSE,TRUE,"S375323946",NA
+"58","brnowl","American Barn Owl","Tyto furcata","L10035792","JP Home Muir Beach","2026-07-22 23:09",1,37.8645748,-122.5830476,TRUE,FALSE,TRUE,"S375288184",NA
+"59","brnowl","American Barn Owl","Tyto furcata","L44606233","90278 Lewis Road, Warrenton, Oregon, US (46.093, -123.929)1","2026-07-22 22:55",1,46.0926702,-123.9294104,TRUE,FALSE,TRUE,"S375285614",NA
+"60","brnowl","American Barn Owl","Tyto furcata","L74222489","1710 San Luis Dr, San Luis Obispo US-CA (35.2866,-120.6513)","2026-07-22 22:30",1,35.286646,-120.651333,TRUE,FALSE,TRUE,"S375474063",NA
+"61","brnowl","American Barn Owl","Tyto furcata","L37446421","Magnolia","2026-07-22 22:30",1,38.4929905,-122.4583355,TRUE,FALSE,TRUE,"S375610575",NA
+"62","brnowl","American Barn Owl","Tyto furcata","L57499781","2202 Old Samoa Road, Arcata, California, US (40.866, -124.106)","2026-07-22 22:10",1,40.8663621,-124.1058976,TRUE,FALSE,TRUE,"S375278345",NA
+"63","brnowl","American Barn Owl","Tyto furcata","L74189236","Arcata, Alliance Road and 15th","2026-07-22 22:00",1,40.8762236,-124.0907589,TRUE,FALSE,TRUE,"S375279274",NA
+"64","brnowl","American Barn Owl","Tyto furcata","L463083","Bear Creek Greenway--Ashland","2026-07-22 21:35",1,42.2147144,-122.7162798,TRUE,FALSE,FALSE,"S375273519",NA
+"65","brnowl","American Barn Owl","Tyto furcata","L2365468","Sauvie Island--Oak Island (Multnomah Co.)","2026-07-22 21:30",2,45.7144802,-122.8207541,TRUE,FALSE,FALSE,"S375406484",NA
+"66","brnowl","American Barn Owl","Tyto furcata","L28468733","South Ridge Road, Wellington, Kansas, US (37.251, -97.42)","2026-07-22 21:26",1,37.2512669,-97.4203762,TRUE,FALSE,TRUE,"S375635901",NA
+"67","brnowl","American Barn Owl","Tyto furcata","L74185495","142 Mt Orange Rd, Trenton US-TN 35.95653, -88.99129","2026-07-22 21:04",1,35.95653,-88.99129,TRUE,FALSE,TRUE,"S375257929",NA
+"68","brnowl","American Barn Owl","Tyto furcata","L74202374","Between Venable and Main streets, Farmville","2026-07-22 21:02",4,37.3005726,-78.3937318,TRUE,TRUE,TRUE,"S375356129",NA
+"69","brnowl","American Barn Owl","Tyto furcata","L3147172","*Lotus (rural):  Clark Mtn. (.68 mi. e. of)","2026-07-22 20:45",1,38.8097926,-120.9451067,TRUE,FALSE,TRUE,"S375287879",NA
+"70","brnowl","American Barn Owl","Tyto furcata","L29992877","18921 Laughmiller Road, Tanner, Alabama, US (34.688, -86.982)","2026-07-22 20:43",2,34.6880835,-86.9824636,TRUE,TRUE,TRUE,"S375258948",NA
+"71","brnowl","American Barn Owl","Tyto furcata","L74183630","100 Midtown Ave, Farmville US-VA 37.30057, -78.39314","2026-07-22 20:41",2,37.300574,-78.393142,TRUE,TRUE,TRUE,"S375247547",NA
+"72","brnowl","American Barn Owl","Tyto furcata","L16565422","Shelby Farms Park--Gardner Rd. Marsh","2026-07-22 20:34",2,35.1424179,-89.8488404,TRUE,FALSE,FALSE,"S375253939",NA
+"73","brnowl","American Barn Owl","Tyto furcata","L2215518","Santa Catalina Island--Wrigley Marine Science Center","2026-07-22 20:30",1,33.4448098,-118.4811625,TRUE,FALSE,FALSE,"S375269010",NA
+"74","brnowl","American Barn Owl","Tyto furcata","L29117088","2260 Windsor Court, Perris, California, US (33.814, -117.224)","2026-07-22 20:17",1,33.8135689,-117.2238452,TRUE,FALSE,TRUE,"S375445990",NA
+"75","brnowl","American Barn Owl","Tyto furcata","L74187559","Downtown Farmville","2026-07-22 20:13",4,37.3007575,-78.3933055,TRUE,TRUE,TRUE,"S375268648",NA
+"76","brnowl","American Barn Owl","Tyto furcata","L109339","IRWD San Joaquin Marsh & Wildlife Sanctuary","2026-07-22 19:29",2,33.6637274,-117.8426814,TRUE,FALSE,FALSE,"S375265091",NA
+"77","brnowl","American Barn Owl","Tyto furcata","L53753144","Around Some Flowery Bushes","2026-07-22 19:00",NA,37.520703,-121.924364,TRUE,FALSE,TRUE,"S375275119",NA
+"78","brnowl","American Barn Owl","Tyto furcata","L11075024","Dave's yard","2026-07-22 16:22",1,38.7855509,-98.4873215,TRUE,FALSE,TRUE,"S375209343",NA
+"79","brnowl","American Barn Owl","Tyto furcata","L353255","Elkhorn Slough Reserve (NERR)","2026-07-22 14:49",1,36.8182308,-121.7364764,TRUE,FALSE,FALSE,"S375219073",NA
+"80","brnowl","American Barn Owl","Tyto furcata","L165048","Farmington Bay WMA","2026-07-22 13:31",2,40.955141,-111.9191396,TRUE,FALSE,FALSE,"S375265963",NA
+"81","brnowl","American Barn Owl","Tyto furcata","L1294688","Sacramento Reg Wastewater Treatment Plant (limited access)","2026-07-22 13:01",1,38.4407495,-121.4792633,TRUE,FALSE,FALSE,"S375185999",NA
+"82","brnowl","American Barn Owl","Tyto furcata","L267071","Frager Rd. (north)","2026-07-22 11:48",1,47.418883,-122.2678757,TRUE,FALSE,FALSE,"S375265346",NA
+"83","brnowl","American Barn Owl","Tyto furcata","L348814","Carrizo Plain NM--MU Ranch, no internal access","2026-07-22 11:20",4,34.9859471,-119.4817506,TRUE,FALSE,FALSE,"S375154117",NA
+"84","brnowl","American Barn Owl","Tyto furcata","L14751121","Griggs Area -- Thackaberry Farm","2026-07-22 10:05",1,44.6069807,-122.8456412,TRUE,FALSE,TRUE,"S375138541",NA
+"85","brnowl","American Barn Owl","Tyto furcata","L618559","Chaplin Nature Center","2026-07-22 09:06",1,37.0898975,-97.0983266,TRUE,FALSE,FALSE,"S375065764",NA
+"86","brnowl","American Barn Owl","Tyto furcata","L21539114","Asotin Slough HMU","2026-07-22 08:50",1,46.3369138,-117.0277405,TRUE,FALSE,TRUE,"S375116750",NA
+"87","brnowl","American Barn Owl","Tyto furcata","L418752","Tijuana River Valley--Bird & Butterfly Garden (Myers Ranch)","2026-07-22 08:43",1,32.5538589,-117.084619,TRUE,FALSE,FALSE,"S375125175",NA
+"88","brnowl","American Barn Owl","Tyto furcata","L384111","Hubbard Rec. Area","2026-07-22 07:18",3,43.5145,-116.3565,TRUE,FALSE,FALSE,"S375157062",NA
+"89","brnowl","American Barn Owl","Tyto furcata","L715898","Whelan Lake Bird Sanctuary (permission required)","2026-07-22 07:10",2,33.2424922,-117.3364091,TRUE,FALSE,FALSE,"S375261141",NA
+"90","brnowl","American Barn Owl","Tyto furcata","L48372565","21 Pamaron Way, Novato, California, US (38.067, -122.53)","2026-07-22 07:09",1,38.0668584,-122.5300726,TRUE,FALSE,TRUE,"S375180748",NA
+"91","brnowl","American Barn Owl","Tyto furcata","L1443179","Ousterhout farm","2026-07-22 06:54",4,42.4507573,-122.8318927,TRUE,FALSE,TRUE,"S375089006",NA
+"92","brnowl","American Barn Owl","Tyto furcata","L465904","Borrego Springs--Roadrunner Club/The Springs (private)","2026-07-22 06:50",1,33.262697,-116.3611624,TRUE,FALSE,FALSE,"S375186760",NA
+"93","brnowl","American Barn Owl","Tyto furcata","L212070","Glover Lane & GSL Nature Center","2026-07-22 06:39",3,40.9650238,-111.9299004,TRUE,FALSE,FALSE,"S375071688",NA
+"94","brnowl","American Barn Owl","Tyto furcata","L2263572","San Joaquin Wildlife Sanctuary--Fledgling Loop Trail","2026-07-22 06:30",4,33.6609892,-117.8437141,TRUE,FALSE,FALSE,"S375101032",NA
+"95","brnowl","American Barn Owl","Tyto furcata","L3594213","*Backyard-Carmel Valley(San Diego)","2026-07-22 00:01",1,32.9173415,-117.2151974,TRUE,FALSE,TRUE,"S374954775",NA
+"96","brnowl","American Barn Owl","Tyto furcata","L4379069","Home","2026-07-21 23:38",1,34.175352,-118.334302,TRUE,FALSE,TRUE,"S374947752",NA
+"97","brnowl","American Barn Owl","Tyto furcata","L27645569","Home.","2026-07-21 23:04",1,37.774139,-122.199929,TRUE,FALSE,TRUE,"S374940922",NA
+"98","brnowl","American Barn Owl","Tyto furcata","L74127566","Sequim Cabin Vacay","2026-07-21 22:57",1,48.1251714,-123.1549791,TRUE,FALSE,TRUE,"S374940984",NA
+"99","brnowl","American Barn Owl","Tyto furcata","L18681099","Dutra Estates Park","2026-07-21 22:05",1,37.7766169,-121.2634789,TRUE,FALSE,TRUE,"S374933042",NA
+"100","brnowl","American Barn Owl","Tyto furcata","L74163685","East Avenue A, Portales, New Mexico, US (33.939, -103.359)","2026-07-21 22:00",1,33.9386646,-103.3592216,TRUE,FALSE,TRUE,"S375141959",NA
+"101","brnowl","American Barn Owl","Tyto furcata","L11237112","West Dungeness, WA","2026-07-21 21:54",2,48.1482609,-123.1417876,TRUE,FALSE,TRUE,"S374930407",NA
+"102","brnowl","American Barn Owl","Tyto furcata","L2223139","B  and  J home","2026-07-21 21:24",1,37.645825,-122.089712,TRUE,FALSE,TRUE,"S374928680",NA
+"103","brnowl","American Barn Owl","Tyto furcata","L583568","Home Alta Mesa Rd-Wilton","2026-07-21 20:44",1,38.3993722,-121.2220639,TRUE,FALSE,TRUE,"S374923952",NA
+"104","brnowl","American Barn Owl","Tyto furcata","L393630","Willard Bay--North Spur","2026-07-21 20:30",5,41.4217159,-112.0679176,TRUE,FALSE,FALSE,"S374924628",NA
+"105","brnowl","American Barn Owl","Tyto furcata","L12010944","75-268 Malulani Dr, Kailua Kona US-HI 19.64500, -155.98219","2026-07-21 20:20",1,19.645004,-155.98219,TRUE,FALSE,TRUE,"S374944145","N"
+"106","brnowl","American Barn Owl","Tyto furcata","L4809071","Shawano Drainage District","2026-07-21 20:03",1,26.5684064,-80.5200031,TRUE,FALSE,TRUE,"S375496617",NA
+"107","brnowl","American Barn Owl","Tyto furcata","L74062014","92284, Yucca Valley US-CA 34.22861, -116.36444","2026-07-21 19:40",1,34.228614,-116.364438,TRUE,FALSE,TRUE,"S374925378",NA
+"108","brnowl","American Barn Owl","Tyto furcata","L13236114","Warren Road Homestead","2026-07-21 19:35",1,31.4434776,-97.2295581,TRUE,FALSE,TRUE,"S374911798",NA
+"109","brnowl","American Barn Owl","Tyto furcata","L866412","Imperial Irrigation District Wetland Project--Niland","2026-07-21 14:47",1,33.2118848,-115.5204034,TRUE,FALSE,FALSE,"S375130750",NA
+"110","brnowl","American Barn Owl","Tyto furcata","L74238890","84307, Corinne US-UT (41.5939,-112.2320)","2026-07-21 12:56",1,41.593902,-112.232017,TRUE,FALSE,TRUE,"S375557326",NA
+"111","brnowl","American Barn Owl","Tyto furcata","L38045929","Pine Hills Egg Ranch and Seasonal Ponds","2026-07-21 12:16",1,33.0763676,-116.7853171,TRUE,FALSE,TRUE,"S374836735",NA
+"112","brnowl","American Barn Owl","Tyto furcata","L57035830","Piute Ponds (permit required) (CA Atlas - Rosamond Lake CW)","2026-07-21 11:24",3,34.797161,-118.117435,TRUE,FALSE,FALSE,"S374910723",NA
+"113","brnowl","American Barn Owl","Tyto furcata","L210732","Merced NWR (Please use a more specific hotspot where possible.)","2026-07-21 08:36",1,37.1750923,-120.6160533,TRUE,FALSE,FALSE,"S374891086",NA
+"114","brnowl","American Barn Owl","Tyto furcata","L74101127","4500–4510 Sheepy Creek Rd, Macdoel US-CA 41.98176, -121.87789","2026-07-21 08:34",4,41.981758,-121.87789,TRUE,FALSE,TRUE,"S374799882",NA
+"115","brnowl","American Barn Owl","Tyto furcata","L74094289","Sheepy Creek Road, Dorris, California, US (41.982, -121.878)","2026-07-21 08:33",3,41.9817868,-121.8778567,TRUE,FALSE,TRUE,"S374765962",NA
+"116","brnowl","American Barn Owl","Tyto furcata","L1210098","Antelope Island SP--Visitor Center & Loop Rd.","2026-07-21 08:05",1,41.054726,-112.2407765,TRUE,FALSE,FALSE,"S374767439",NA
+"117","brnowl","American Barn Owl","Tyto furcata","L3824198","US-CA-Kern--Weldon--Kelso Valley--Bird Springs neighborhood","2026-07-21 07:02",1,35.560495,-118.220604,TRUE,FALSE,TRUE,"S374757107",NA
+"118","brnowl","American Barn Owl","Tyto furcata","L74041473","Campus Drive outside of UCI Marsh","2026-07-21 06:16",2,33.6622642,-117.8493588,TRUE,FALSE,TRUE,"S374775854",NA
+"119","brnowl","American Barn Owl","Tyto furcata","L74125321","Campus Drive outside of UCI Marsh","2026-07-21 06:10",3,33.6579259,-117.8477649,TRUE,FALSE,TRUE,"S374927303",NA
+"120","brnowl","American Barn Owl","Tyto furcata","L109462","Lake Henshaw","2026-07-21 06:09",1,33.2316107,-116.7475494,TRUE,FALSE,FALSE,"S374857606",NA
+"121","brnowl","American Barn Owl","Tyto furcata","L62137823","Lemoore College Slough BBS Block","2026-07-21 05:45",3,36.2887233,-119.829875,TRUE,FALSE,TRUE,"S374891143",NA
+"122","brnowl","American Barn Owl","Tyto furcata","L5896176","Aliso and Wood Canyons WP -- Wood Canyon Trail","2026-07-21 05:06",1,33.5688612,-117.7479672,TRUE,FALSE,FALSE,"S374751888",NA
+"123","brnowl","American Barn Owl","Tyto furcata","L74058258","Desert Rose","2026-07-21 01:33",1,33.4767937,-104.665811,TRUE,FALSE,TRUE,"S374627264",NA
+"124","brnowl","American Barn Owl","Tyto furcata","L74104273","US-395 S, Reno US-NV 39.66093, -119.99073","2026-07-20 23:23",1,39.660927,-119.990729,TRUE,FALSE,TRUE,"S374815858",NA
+"125","brnowl","American Barn Owl","Tyto furcata","L74250067","CBA - Campsite","2026-07-20 22:51",1,38.5649934,-123.3122161,TRUE,FALSE,TRUE,"S375624246",NA
+"126","brnowl","American Barn Owl","Tyto furcata","L28496696","Caysie Circle","2026-07-20 22:21",1,43.487249,-112.0912032,TRUE,FALSE,TRUE,"S374589549",NA
+"127","brnowl","American Barn Owl","Tyto furcata","L16707421","Morse Creek Estuary","2026-07-20 22:15",1,48.116971,-123.352917,TRUE,FALSE,TRUE,"S374596601",NA
+"128","brnowl","American Barn Owl","Tyto furcata","L21920375","San Ramon—Bollinger Creek s. of Crow Canyon Rd. to Norris Canyon Road/east of Boll.Cyn Rd (residential),US-CA 37.76847, -121.98817","2026-07-20 22:03",1,37.768474,-121.988167,TRUE,FALSE,TRUE,"S374594916",NA
+"129","brnowl","American Barn Owl","Tyto furcata","L74124852","Umatilla National Forest, Adams US-OR 45.55111, -118.34614","2026-07-20 22:00",1,45.551112,-118.346141,TRUE,FALSE,TRUE,"S374924047",NA
+"130","brnowl","American Barn Owl","Tyto furcata","L1964645","my house, Castro Valley","2026-07-20 21:43",1,37.7111174,-122.0882803,TRUE,FALSE,TRUE,"S374591953",NA
+"131","brnowl","American Barn Owl","Tyto furcata","L74062753","22642 Indian Springs Rd, Salinas US-CA 36.59325, -121.63972","2026-07-20 21:40",1,36.593251,-121.639716,TRUE,FALSE,TRUE,"S374591926",NA
+"132","brnowl","American Barn Owl","Tyto furcata","L40727857","6492 E Tamarind St, Oak Park US-CA 34.16827, -118.75444","2026-07-20 21:21",1,34.168273,-118.754438,TRUE,FALSE,TRUE,"S374589524",NA
+"133","brnowl","American Barn Owl","Tyto furcata","L4399142","Port Townsend--Larry Scott Trail","2026-07-20 20:38",1,48.1013865,-122.7869033,TRUE,FALSE,FALSE,"S374587951",NA
+"134","brnowl","American Barn Owl","Tyto furcata","L6116366","Farmville--Downtown","2026-07-20 20:24",4,37.3010396,-78.3932052,TRUE,TRUE,TRUE,"S374567172",NA
+"135","brnowl","American Barn Owl","Tyto furcata","L1341883","Coyote Hills Regional Park--Visitor Center area","2026-07-20 19:50",1,37.5533565,-122.0907479,TRUE,FALSE,FALSE,"S374602288",NA
+"136","brnowl","American Barn Owl","Tyto furcata","L374047","Cañada Larga Rd.","2026-07-20 18:30",1,34.3445699,-119.2783928,TRUE,FALSE,FALSE,"S374598920",NA
+"137","brnowl","American Barn Owl","Tyto furcata","L60419543","Bird Trail","2026-07-20 18:28",4,40.961054,-111.925879,TRUE,FALSE,TRUE,"S374585132",NA
+"138","brnowl","American Barn Owl","Tyto furcata","L214134","Pickerington Ponds (Franklin Co.)","2026-07-20 17:45",1,39.8866949,-82.8006077,TRUE,TRUE,FALSE,"S374523846",NA
+"139","brnowl","American Barn Owl","Tyto furcata","L840634","Irvine Regional Park","2026-07-20 17:33",1,33.7968382,-117.7532673,TRUE,FALSE,FALSE,"S374597080",NA
+"140","brnowl","American Barn Owl","Tyto furcata","L66716279","Summer Lake Wildlife Area--Ana River Campground","2026-07-20 14:33",1,42.9498854,-120.7631462,TRUE,FALSE,FALSE,"S374576728",NA
+"141","brnowl","American Barn Owl","Tyto furcata","L12324117","Harder Spring","2026-07-20 10:25",2,46.656515,-118.497262,TRUE,FALSE,FALSE,"S374515178",NA
+"142","brnowl","American Barn Owl","Tyto furcata","L74031744","2585 Acacia Avenue, Sonoma, California, US (38.243, -122.42)","2026-07-20 10:23",1,38.2432385,-122.4197601,TRUE,FALSE,TRUE,"S374444105",NA
+"143","brnowl","American Barn Owl","Tyto furcata","L74060093","Highway 97 about two miles north of Wasco Cemetery","2026-07-20 10:00",1,45.6187995,-120.738266,TRUE,FALSE,TRUE,"S374579412",NA
+"144","brnowl","American Barn Owl","Tyto furcata","L46636531","A-2 Reservoir","2026-07-20 09:35",1,26.470038,-80.697312,TRUE,FALSE,TRUE,"S374516224",NA
+"145","brnowl","American Barn Owl","Tyto furcata","L67901100","S Monterey Ave, Tranquillity US-CA 36.62498, -120.37024","2026-07-20 09:18",1,36.624978,-120.370237,TRUE,FALSE,TRUE,"S374515572",NA
+"146","brnowl","American Barn Owl","Tyto furcata","L454599","Refugio Canyon","2026-07-20 09:00",1,34.4968648,-120.0666796,TRUE,FALSE,FALSE,"S374526517",NA
+"147","brnowl","American Barn Owl","Tyto furcata","L304521","Santa Cruz River--Sasco Rd","2026-07-20 07:43",2,32.544589,-111.406889,TRUE,FALSE,FALSE,"S374528847",NA
+"148","brnowl","American Barn Owl","Tyto furcata","L74027422","3279 Campus Drive, Irvine, California, US (33.66, -117.849)","2026-07-20 06:00",1,33.6602439,-117.8485512,TRUE,FALSE,TRUE,"S374424678",NA
+"149","brnowl","American Barn Owl","Tyto furcata","L54588930","Quarry Lakes BUOW survey","2026-07-20 04:41",NA,37.5783837,-122.0028891,TRUE,FALSE,TRUE,"S374554008",NA
+"150","brnowl","American Barn Owl","Tyto furcata","L69759880","Central Valley Hwy, Corcoran US-CA 36.04417, -119.51777","2026-07-20 04:40",3,36.044168,-119.517767,TRUE,FALSE,TRUE,"S374325847",NA
+"151","brnowl","American Barn Owl","Tyto furcata","L55694086","Irving Lawson Water Access Area (WDFW)","2026-07-20 03:59",1,47.89604,-122.09374,TRUE,FALSE,FALSE,"S374365725",NA
+"152","brnowl","American Barn Owl","Tyto furcata","L74011203","73780–74398 Covelo Rd, Covelo US-CA 39.75813, -123.24835","2026-07-20 02:15",2,39.758126,-123.248352,TRUE,FALSE,TRUE,"S374341141",NA
+"153","brnowl","American Barn Owl","Tyto furcata","L73990153","Traverse Ridge Road and Mike Weir Drive","2026-07-19 21:30",1,40.4847367,-111.8613393,TRUE,FALSE,TRUE,"S374233272",NA
+"154","brnowl","American Barn Owl","Tyto furcata","L30652233","310 E St, Davis US-CA 38.54506, -121.74146","2026-07-19 21:30",2,38.545061,-121.741457,TRUE,FALSE,TRUE,"S374224166",NA
+"155","brnowl","American Barn Owl","Tyto furcata","L2828346","Leonora Curtin Wetland Preserve (Jun - Oct; Fee and Entry through Las Golondrinas)","2026-07-19 21:17",1,35.56763,-106.10687,TRUE,FALSE,FALSE,"S374219653",NA
+"156","brnowl","American Barn Owl","Tyto furcata","L577805","Groveland area","2026-07-19 21:16",1,37.8382589,-120.2318859,TRUE,FALSE,FALSE,"S374420096",NA
+"157","brnowl","American Barn Owl","Tyto furcata","L40518854","Spring Hill Natural Area","2026-07-19 20:10",1,45.457426,-123.122621,TRUE,FALSE,FALSE,"S374225976",NA
+"158","brnowl","American Barn Owl","Tyto furcata","L448520","North Davis Farms greenbelt","2026-07-19 17:51",1,38.5713205,-121.7611313,TRUE,FALSE,FALSE,"S374211737",NA
+"159","brnowl","American Barn Owl","Tyto furcata","L216132","Coyote Hills Regional Park","2026-07-19 17:11",2,37.553764,-122.0875025,TRUE,FALSE,FALSE,"S374222243",NA
+"160","brnowl","American Barn Owl","Tyto furcata","L12433547","Maxwell NWR--Road A-2 Woodlot","2026-07-19 15:30",1,36.5662106,-104.5647552,TRUE,FALSE,FALSE,"S374410752",NA
+"161","brnowl","American Barn Owl","Tyto furcata","L7449780","home","2026-07-19 14:00",1,45.7877264,-119.8956227,TRUE,FALSE,TRUE,"S374839947",NA
+"162","brnowl","American Barn Owl","Tyto furcata","L1024345","Maxwell NWR--Lake 13","2026-07-19 13:40",1,36.5810737,-104.5828056,TRUE,FALSE,FALSE,"S374407110",NA
+"163","brnowl","American Barn Owl","Tyto furcata","L4532902","Sierra Valley--Roberti Ranch (restricted access)","2026-07-19 13:07",2,39.7817858,-120.2833414,TRUE,FALSE,FALSE,"S375138633",NA
+"164","brnowl","American Barn Owl","Tyto furcata","L11765666","Dyson Ln, Beckwourth US-CA 39.76249, -120.26754","2026-07-19 13:07",2,39.76249,-120.26754,TRUE,FALSE,TRUE,"S374894636",NA
+"165","brnowl","American Barn Owl","Tyto furcata","L651250","Mussel Rock Park","2026-07-19 11:50",1,37.6662169,-122.495048,TRUE,FALSE,FALSE,"S374218720",NA
+"166","brnowl","American Barn Owl","Tyto furcata","L73965825","Bloomfield Heights","2026-07-19 11:30",1,40.6038378,-112.0407271,TRUE,FALSE,TRUE,"S374071431",NA
+"167","brnowl","American Barn Owl","Tyto furcata","L1026626","Olompali State Historic Park","2026-07-19 10:30",2,38.1488676,-122.5861359,TRUE,FALSE,FALSE,"S374110817",NA
+"168","brnowl","American Barn Owl","Tyto furcata","L493042","William L. Finley NWR--Cabell Marsh","2026-07-19 09:49",1,44.4152525,-123.319205,TRUE,FALSE,FALSE,"S375248273",NA
+"169","brnowl","American Barn Owl","Tyto furcata","L739006","Ft. Loudoun Dam--Bank Access Overlook (tailwaters)","2026-07-19 09:44",1,35.7912195,-84.2463988,TRUE,FALSE,FALSE,"S374004529",NA
+"170","brnowl","American Barn Owl","Tyto furcata","L375214","Humboldt Bay NWR--Salmon Creek Unit","2026-07-19 08:23",1,40.684888,-124.211354,TRUE,FALSE,FALSE,"S374038450",NA
+"171","brnowl","American Barn Owl","Tyto furcata","L52224492","Carrie's Place","2026-07-19 08:20",1,38.3928589,-121.2371032,TRUE,FALSE,TRUE,"S374090386",NA
+"172","brnowl","American Barn Owl","Tyto furcata","L34068721","Puget Power Trail","2026-07-19 08:14",1,47.4009431,-122.2707104,TRUE,FALSE,FALSE,"S374091443",NA
+"173","brnowl","American Barn Owl","Tyto furcata","L128938","Catalina SP","2026-07-19 08:00",1,32.4244027,-110.9123905,TRUE,FALSE,FALSE,"S374110862",NA
+"174","brnowl","American Barn Owl","Tyto furcata","L459813","Mather Lake","2026-07-19 07:33",1,38.5546093,-121.2561035,TRUE,FALSE,FALSE,"S374203067",NA
+"175","brnowl","American Barn Owl","Tyto furcata","L30524779","95327, Jamestown US-CA (37.7572,-120.4166)","2026-07-19 07:11",1,37.757245,-120.416553,TRUE,FALSE,TRUE,"S374216603",NA
+"176","brnowl","American Barn Owl","Tyto furcata","L26890122","School Bus Road, Frostproof, Florida, US (27.657, -81.393); SR 64 to McLean Cabin","2026-07-19 06:02",1,27.6572799,-81.3929008,TRUE,FALSE,TRUE,"S373924960",NA
+"177","brnowl","American Barn Owl","Tyto furcata","L416332","204th Street, Kent","2026-07-19 05:56",2,47.4190282,-122.2763085,TRUE,FALSE,FALSE,"S374028891",NA
+"178","brnowl","American Barn Owl","Tyto furcata","L16897356","Ousterhout Farm","2026-07-19 05:29",4,42.4517934,-122.831615,TRUE,FALSE,TRUE,"S374001197",NA
+"179","brnowl","American Barn Owl","Tyto furcata","L715412","Higley and Ocotillo Rds. ponds","2026-07-19 05:24",1,33.2533311,-111.7181683,TRUE,FALSE,FALSE,"S374185365",NA
+"180","brnowl","American Barn Owl","Tyto furcata","L128874","Jocelyn Nungaray NWR  (Anahuac) (UTC 049)","2026-07-19 05:08",2,29.6148414,-94.5344353,TRUE,FALSE,FALSE,"S373880465",NA
+"181","brnowl","American Barn Owl","Tyto furcata","L73873981","43200 SH-109, Kim US-CO 37.61928, -103.33735","2026-07-19 01:20",1,37.619281,-103.337351,TRUE,FALSE,TRUE,"S373803565",NA
+"182","brnowl","American Barn Owl","Tyto furcata","L73838441","Kilner Park, Tahoe City","2026-07-19 01:16",1,39.134779,-120.158125,TRUE,FALSE,TRUE,"S373818260",NA
+"183","brnowl","American Barn Owl","Tyto furcata","L73883228","Beulah episcopal","2026-07-19 00:58",3,37.301034,-78.393557,TRUE,TRUE,TRUE,"S373773249",NA
+"184","brnowl","American Barn Owl","Tyto furcata","L372053","Pearson-Arastradero Preserve","2026-07-18 23:55",1,37.3871572,-122.174685,TRUE,FALSE,FALSE,"S375968217",NA
+"185","brnowl","American Barn Owl","Tyto furcata","L475420","4229 E Lk Sammamish Shore Ln","2026-07-18 22:49",1,47.5688459,-122.0623004,TRUE,FALSE,TRUE,"S373788822",NA
+"186","brnowl","American Barn Owl","Tyto furcata","L4234394","Claremont Village--Area","2026-07-18 22:46",1,34.0956539,-117.7186239,TRUE,FALSE,FALSE,"S373781230",NA
+"187","brnowl","American Barn Owl","Tyto furcata","L11625977","5812 Giarde Lane, Bellingham, Washington, US (48.851, -122.325)","2026-07-18 22:15",1,48.850908,-122.3253422,TRUE,FALSE,TRUE,"S373776992",NA
+"188","brnowl","American Barn Owl","Tyto furcata","L47642588","Hat’s House","2026-07-18 22:05",1,48.879733,-122.464353,TRUE,FALSE,TRUE,"S373774584",NA
+"189","brnowl","American Barn Owl","Tyto furcata","L351484","Marymoor Park","2026-07-18 21:57",1,47.6612642,-122.1184109,TRUE,FALSE,FALSE,"S373780644",NA
+"190","brnowl","American Barn Owl","Tyto furcata","L3437558","Norman Rd, Stanwood","2026-07-18 21:57",1,48.2085793,-122.2731113,TRUE,FALSE,FALSE,"S373788075",NA
+"191","brnowl","American Barn Owl","Tyto furcata","L73882906","Kava","2026-07-18 21:46",1,38.79777,-121.290827,TRUE,FALSE,TRUE,"S373771544",NA
+"192","brnowl","American Barn Owl","Tyto furcata","L73882869","Kava","2026-07-18 21:45",1,38.797808,-121.290894,TRUE,FALSE,TRUE,"S373771390",NA
+"193","brnowl","American Barn Owl","Tyto furcata","L53781253","Sacramento River--Benham Way access","2026-07-18 21:38",1,38.507414,-121.555304,TRUE,FALSE,FALSE,"S373786484",NA
+"194","brnowl","American Barn Owl","Tyto furcata","L28167865","Morgan Lake Trailhead Parking Lot","2026-07-18 21:33",1,44.983355,-123.26402,TRUE,FALSE,TRUE,"S373775844",NA
+"195","brnowl","American Barn Owl","Tyto furcata","L5671406","Deschamps Ln. Marsh","2026-07-18 21:31",1,46.925728,-114.14542,TRUE,TRUE,FALSE,"S373767182",NA
+"196","brnowl","American Barn Owl","Tyto furcata","L56937000","Carmel Valley Residential (CA Atlas - Del Mar CW)","2026-07-18 21:15",1,32.9173312,-117.2167523,TRUE,FALSE,TRUE,"S373781102",NA
+"197","brnowl","American Barn Owl","Tyto furcata","L8505070","388 Avenida de Diamante, Arroyo Grande, CA 93420","2026-07-18 21:05",1,35.1302944,-120.5885601,TRUE,FALSE,TRUE,"S373766186",NA
+"198","brnowl","American Barn Owl","Tyto furcata","L1315269","Woodward Reservoir--28 Mile Rd. and bridge","2026-07-18 20:58",1,37.8482564,-120.8311987,TRUE,FALSE,FALSE,"S373772182",NA
+"199","brnowl","American Barn Owl","Tyto furcata","L1315265","28 Mile Rd.--Eastman Rd. to Sonora Rd.","2026-07-18 20:54",1,37.8795026,-120.8420616,TRUE,FALSE,FALSE,"S373772529",NA
+"200","brnowl","American Barn Owl","Tyto furcata","L4099757","Daisy Avenue Flood Control Basin","2026-07-18 20:51",1,33.102719,-117.305418,TRUE,FALSE,FALSE,"S373764427",NA
+"201","brnowl","American Barn Owl","Tyto furcata","L73944513","35613–35891 County Road 27, Woodland US-CA (38.6197,-121.8455)","2026-07-18 20:46",1,38.619674,-121.845496,TRUE,FALSE,TRUE,"S374039310",NA
+"202","brnowl","American Barn Owl","Tyto furcata","L357489","Cibola NF--Tres Pistolas Canyon","2026-07-18 20:45",1,35.0787053,-106.4437115,TRUE,FALSE,FALSE,"S373771789",NA
+"203","brnowl","American Barn Owl","Tyto furcata","L1063610","Peter Strauss Ranch","2026-07-18 18:00",1,34.1130482,-118.778193,TRUE,FALSE,FALSE,"S375137432",NA
+"204","brnowl","American Barn Owl","Tyto furcata","L73844433","80539 Zerba Rd, Athena US-OR 45.86369, -118.49783","2026-07-18 10:32",1,45.863689,-118.497827,TRUE,FALSE,TRUE,"S373626615",NA
+"205","brnowl","American Barn Owl","Tyto furcata","L49566031","Ranch","2026-07-18 09:57",1,40.925121,-112.166441,TRUE,FALSE,TRUE,"S373585531",NA
+"206","brnowl","American Barn Owl","Tyto furcata","L7826108","Willits CalTrans Mitigation transects HARC 4 (restricted access)","2026-07-18 09:28",1,39.4347875,-123.3494784,TRUE,FALSE,TRUE,"S373641634",NA
+"207","brnowl","American Barn Owl","Tyto furcata","L73838195","9256 Tonzi Road, Ione, California, US (38.405, -120.855)","2026-07-18 09:09",1,38.4052465,-120.8552202,TRUE,FALSE,TRUE,"S373603878",NA
+"208","brnowl","American Barn Owl","Tyto furcata","L55648768","Otten Farm","2026-07-18 09:04",5,40.8731501,-93.995339,TRUE,TRUE,TRUE,"S373587750",NA
+"209","brnowl","American Barn Owl","Tyto furcata","L741843","Sky Meadows SP--Rolling Meadow Trail","2026-07-18 08:17",1,38.9916583,-77.9387766,TRUE,FALSE,FALSE,"S373646792",NA
+"210","brnowl","American Barn Owl","Tyto furcata","L24739981","29001-29277 Sales Creek Road, Clovis, California, US (36.933, -119.435)","2026-07-18 08:09",2,36.9326336,-119.434919,TRUE,FALSE,TRUE,"S373576752",NA
+"211","brnowl","American Barn Owl","Tyto furcata","L73809899","2928–2944 FM-1585, Levelland US-TX 33.49939, -102.31265","2026-07-18 07:59",1,33.499391,-102.31265,TRUE,FALSE,TRUE,"S373491576",NA
+"212","brnowl","American Barn Owl","Tyto furcata","L3572935","Swan Lake Nature Study Area (IBA)--Boardwalk","2026-07-18 07:21",1,39.6531916,-119.856496,TRUE,FALSE,FALSE,"S373560807",NA
+"213","brnowl","American Barn Owl","Tyto furcata","L4097687","DeWolf Ave.--Big Dry Creek Reservoir Grasslands","2026-07-18 07:20",2,36.872769,-119.6478462,TRUE,FALSE,FALSE,"S373618673",NA
+"214","brnowl","American Barn Owl","Tyto furcata","L2385110","231 S. Lilac St.","2026-07-18 07:00",1,35.6192446,-117.6455498,TRUE,FALSE,TRUE,"S374197597",NA
+"215","brnowl","American Barn Owl","Tyto furcata","L130597","Babel Slough ","2026-07-18 06:42",2,38.4795151,-121.5519791,TRUE,FALSE,FALSE,"S373591793",NA
+"216","brnowl","American Barn Owl","Tyto furcata","L262792","Iowa Dodd Beef/Tyson Ponds","2026-07-18 06:30",1,46.1288528,-118.8985787,TRUE,FALSE,FALSE,"S373645768",NA
+"217","brnowl","American Barn Owl","Tyto furcata","L73879602","45500 California 1, Big Sur, California, US (36.289, -121.845)","2026-07-18 05:36",1,36.2885354,-121.8446476,TRUE,FALSE,TRUE,"S373758396",NA
+"218","brnowl","American Barn Owl","Tyto furcata","L270282","Inland Sea Shorebird Reserve (restricted access)","2026-07-18 05:32",1,40.7837893,-112.100346,TRUE,FALSE,FALSE,"S373607736",NA
+"219","brnowl","American Barn Owl","Tyto furcata","L3602679","Crystalaire Country Club (private property)","2026-07-18 05:26",1,34.4711394,-117.8460073,TRUE,FALSE,FALSE,"S373690746",NA
+"220","brnowl","American Barn Owl","Tyto furcata","L69559473","Linda Vista Park","2026-07-18 05:11",1,34.169049,-118.177882,TRUE,FALSE,TRUE,"S373463676",NA
+"221","brnowl","American Barn Owl","Tyto furcata","L73803903","3055 Ribera Road, Carmel, California, US (36.529, -121.919)","2026-07-18 05:09",1,36.5291873,-121.9191566,TRUE,FALSE,TRUE,"S373463489",NA
+"222","brnowl","American Barn Owl","Tyto furcata","L41067704","Cabrillo Highway, Santa Cruz, California, US (36.962, -122.085)","2026-07-18 04:15",1,36.9620976,-122.0853269,TRUE,FALSE,TRUE,"S373617537",NA
+"223","brnowl","American Barn Owl","Tyto furcata","L19970536","Comanche National Grassland, La Junta US-CO 37.78261, -103.48468","2026-07-18 01:23",1,37.782608,-103.484678,TRUE,FALSE,TRUE,"S373374567",NA
+"224","brnowl","American Barn Owl","Tyto furcata","L128890","Bentsen-Rio Grande Val. SP WBC (Mission) (LTC 069)","2026-07-18 01:02",1,26.1796748,-98.3842338,TRUE,FALSE,FALSE,"S374305344",NA
+"225","brnowl","American Barn Owl","Tyto furcata","L190743","Antelope Island SP","2026-07-18",1,41.0465405,-112.2383881,TRUE,FALSE,FALSE,"S374168121",NA
+"226","brnowl","American Barn Owl","Tyto furcata","L73773674","Herbert Hoover Dikea, Moore Haven US-FL (26.9787,-81.0890)","2026-07-17 22:50",1,26.978658,-81.089042,TRUE,FALSE,TRUE,"S373331025",NA
+"227","brnowl","American Barn Owl","Tyto furcata","L815222","Woodley Island","2026-07-17 22:01",1,40.809868,-124.161412,TRUE,FALSE,FALSE,"S373341656",NA
+"228","brnowl","American Barn Owl","Tyto furcata","L64741438","Dole Road Myrtle Creek Private Property","2026-07-17 21:34",1,43.071678,-123.360153,TRUE,FALSE,TRUE,"S373338153",NA
+"229","brnowl","American Barn Owl","Tyto furcata","L7362843","Portola Valley Ranch","2026-07-17 21:30",1,37.3654504,-122.2096825,TRUE,FALSE,FALSE,"S374090576",NA
+"230","brnowl","American Barn Owl","Tyto furcata","L6614711","Fremont Park","2026-07-17 21:01",4,38.5711824,-121.4888576,TRUE,FALSE,FALSE,"S373617515",NA
+"231","brnowl","American Barn Owl","Tyto furcata","L15312742","Melmont Rd, Nampa US-ID 43.41576, -116.61884","2026-07-17 20:58",2,43.41576,-116.618837,TRUE,FALSE,TRUE,"S373339313",NA
+"232","brnowl","American Barn Owl","Tyto furcata","L2898459","Greaterville Road--between Hwy 83 and Box Canyon Rd","2026-07-17 20:50",1,31.7767701,-110.7229618,TRUE,FALSE,FALSE,"S373332476",NA
+"233","brnowl","American Barn Owl","Tyto furcata","L5040255","Cole Canyon Trail--Sykes Ranch Park","2026-07-17 20:22",1,33.5605023,-117.2374195,TRUE,FALSE,FALSE,"S373333140",NA
+"234","brnowl","American Barn Owl","Tyto furcata","L466488","Peninsula Open Space Trust--Wavecrest (Smith Field and blufftop area)","2026-07-17 19:41",2,37.4465089,-122.4378368,TRUE,FALSE,FALSE,"S373334540",NA
+"235","brnowl","American Barn Owl","Tyto furcata","L73774697","4492–4498 Willow Creek Rd, Orovada US-NV 41.66059, -117.73742","2026-07-17 19:08",1,41.660587,-117.737417,TRUE,FALSE,TRUE,"S373334944",NA
+"236","brnowl","American Barn Owl","Tyto furcata","L73737735","Larkspur Path, Larkspur US-CA (37.9319,-122.5326)","2026-07-17 10:47",1,37.931891,-122.532577,TRUE,FALSE,TRUE,"S373193571",NA
+"237","brnowl","American Barn Owl","Tyto furcata","L31266277","Waters End Neighborhood (Private Community)","2026-07-17 08:15",1,33.105921,-117.315617,TRUE,FALSE,TRUE,"S373620613",NA
+"238","brnowl","American Barn Owl","Tyto furcata","L931500","South Fork Wildlife Area--Hanning Flat","2026-07-17 08:14",1,35.6701272,-118.3697891,TRUE,FALSE,FALSE,"S373166470",NA
+"239","brnowl","American Barn Owl","Tyto furcata","L815817","Frank G. Bonelli RP/Puddingstone Reservoir and vicinity","2026-07-17 07:10",1,34.0870104,-117.8050125,TRUE,FALSE,FALSE,"S373333080",NA
+"240","brnowl","American Barn Owl","Tyto furcata","L42614248","Mortensen House","2026-07-17 07:00",1,37.245573,-106.0199942,TRUE,TRUE,TRUE,"S373213712",NA
+"241","brnowl","American Barn Owl","Tyto furcata","L697005","Mission Adobe Nursery","2026-07-17 06:47",1,37.5795316,-121.9909537,TRUE,FALSE,FALSE,"S373119066",NA
+"242","brnowl","American Barn Owl","Tyto furcata","L4251878","Southern Sierra Research Station","2026-07-17 05:25",1,35.6869342,-118.2895552,TRUE,FALSE,FALSE,"S373097530",NA
+"243","brnowl","American Barn Owl","Tyto furcata","L69233715","Ladd Marsh WMA — Elk Trap MAPS Banding Station","2026-07-17 05:00",1,45.252618,-117.994767,TRUE,FALSE,TRUE,"S373190852",NA
+"244","brnowl","American Barn Owl","Tyto furcata","L2763979","Via Arroyo","2026-07-17 04:00",1,34.2917929,-119.2077112,TRUE,FALSE,TRUE,"S373616511",NA
+"245","brnowl","American Barn Owl","Tyto furcata","L51886928","765 NW Fifth St, Corvallis OR","2026-07-17 03:32",1,44.571078,-123.259511,TRUE,FALSE,TRUE,"S373170273",NA
+"246","brnowl","American Barn Owl","Tyto furcata","L34747889","US 109","2026-07-17 00:42",1,37.7363326,-103.424285,TRUE,FALSE,TRUE,"S374364702",NA
+"247","brnowl","American Barn Owl","Tyto furcata","L73776694","16213–16345 Wilson River Hwy, Tillamook US-OR 45.48196, -123.69823","2026-07-17 00:35",1,45.481956,-123.698227,TRUE,FALSE,TRUE,"S373344341",NA
+"248","brnowl","American Barn Owl","Tyto furcata","L1108347","736 Cieneguitas Rd, Santa Barbara","2026-07-16 22:56",1,34.4499005,-119.7582078,TRUE,FALSE,TRUE,"S372975339",NA
+"249","brnowl","American Barn Owl","Tyto furcata","L608397","Hayfork WTP","2026-07-16 21:30",1,40.541004,-123.2032156,TRUE,FALSE,FALSE,"S373238355",NA
+"250","brnowl","American Barn Owl","Tyto furcata","L40863223","Fort Maley","2026-07-16 21:15",1,37.7373576,-122.4525121,TRUE,FALSE,TRUE,"S372957669",NA
+"251","brnowl","American Barn Owl","Tyto furcata","L212642","Lafayette Reservoir","2026-07-16 21:13",3,37.881609,-122.1425327,TRUE,FALSE,FALSE,"S372956359",NA
+"252","brnowl","American Barn Owl","Tyto furcata","L1135995","Calavera Lake & Nature Preserve","2026-07-16 20:48",1,33.1704153,-117.2850394,TRUE,FALSE,FALSE,"S372953489",NA
+"253","brnowl","American Barn Owl","Tyto furcata","L73678667","10025 Nebo Rd, Nebo US-KY (37.3813,-87.6648)","2026-07-16 20:06",1,37.381287,-87.664803,TRUE,FALSE,TRUE,"S372933438",NA
+"254","brnowl","American Barn Owl","Tyto furcata","L59189331","Trail","2026-07-16 20:05",5,40.961783,-111.927351,TRUE,TRUE,TRUE,"S372953527",NA
+"255","brnowl","American Barn Owl","Tyto furcata","L128987","High Island (UTC 051)","2026-07-16 19:40",1,29.565224,-94.3963361,TRUE,FALSE,FALSE,"S372932023",NA
+"256","brnowl","American Barn Owl","Tyto furcata","L4157282","Smith Oaks Rookery Count (Houston Audubon Staff)","2026-07-16 18:51",1,29.5758645,-94.3901432,TRUE,FALSE,FALSE,"S372938725",NA
+"257","brnowl","American Barn Owl","Tyto furcata","L55081078","San Elijo Lagoon Ecological Reserve, Encinitas US-CA 33.01205, -117.27106","2026-07-16 18:39",2,33.01205,-117.271059,TRUE,FALSE,TRUE,"S372949235",NA
+"258","brnowl","American Barn Owl","Tyto furcata","L19951004","6406 Sperry Rd, Mount Hood Parkdale US-OR 45.54427, -121.62926","2026-07-16 17:12",1,45.544267,-121.629262,TRUE,FALSE,TRUE,"S374170157",NA
+"259","brnowl","American Barn Owl","Tyto furcata","L59142961","Grisley Woods Land and Water Reserve - Private","2026-07-16 17:08",2,37.7999615,-88.8375473,TRUE,TRUE,TRUE,"S373285141",NA
+"260","brnowl","American Barn Owl","Tyto furcata","L33017115","Ferrari Pond","2026-07-16 13:06",1,38.8493423,-121.2723389,TRUE,FALSE,TRUE,"S374874458",NA
+"261","brnowl","American Barn Owl","Tyto furcata","L1023253","Torrey Pines State Reserve--Extension","2026-07-16 12:45",NA,32.9386565,-117.2527564,TRUE,FALSE,FALSE,"S372938852",NA
+"262","brnowl","American Barn Owl","Tyto furcata","L2164629","Loco Lagoon (formerly Conoco Pond)","2026-07-16 11:58",1,32.8089189,-103.7512779,TRUE,FALSE,FALSE,"S372853923",NA
+"263","brnowl","American Barn Owl","Tyto furcata","L63956565","Yolo Bypass Wildlife Area (CA Atlas - Sacramento West SW)","2026-07-16 10:40",2,38.536186,-121.620405,TRUE,FALSE,FALSE,"S373002196",NA
+"264","brnowl","American Barn Owl","Tyto furcata","L370768","Golden Gate Park--North Lake","2026-07-16 09:37",1,37.7700193,-122.5028801,TRUE,FALSE,FALSE,"S372826567",NA
+"265","brnowl","American Barn Owl","Tyto furcata","L6136749","Carmelite Monastery","2026-07-16 09:30",1,37.347199,-121.953402,TRUE,FALSE,FALSE,"S373299734",NA
+"266","brnowl","American Barn Owl","Tyto furcata","L2399913","Harshaw Rd--Corral Canyon","2026-07-16 09:19",1,31.4590247,-110.6708354,TRUE,FALSE,FALSE,"S372801614",NA
+"267","brnowl","American Barn Owl","Tyto furcata","L60844413","CABBA—Val Verde SE","2026-07-16 09:08",1,34.411073,-118.66961,TRUE,FALSE,TRUE,"S375436846",NA
+"268","brnowl","American Barn Owl","Tyto furcata","L30095745","1500 River Road, Gonzales, California, US (36.484, -121.505)","2026-07-16 09:07",NA,36.484424,-121.5053701,TRUE,FALSE,TRUE,"S372808482",NA
+"269","brnowl","American Barn Owl","Tyto furcata","L73581648","Somis Lemon Orchard","2026-07-16 09:04",1,34.292535,-119.051552,TRUE,FALSE,TRUE,"S372821678",NA
+"270","brnowl","American Barn Owl","Tyto furcata","L4625989","US-Oregon-Summer Lake - 42.946x-120.742 - May 21, 2016 10:17 AM","2026-07-16 08:31",5,42.9461006,-120.7419537,TRUE,FALSE,TRUE,"S372955354",NA
+"271","brnowl","American Barn Owl","Tyto furcata","L46687219","Unnamed Road, Novato, California, US (38.09, -122.537)","2026-07-16 07:16",NA,38.0900217,-122.5367421,TRUE,FALSE,TRUE,"S372867554",NA
+"272","brnowl","American Barn Owl","Tyto furcata","L613438","Klamath Wildlife Area Miller Island Unit","2026-07-16 07:03",1,42.1551736,-121.8082073,TRUE,FALSE,FALSE,"S372822113",NA
+"273","brnowl","American Barn Owl","Tyto furcata","L5219209","BRG4 WEST","2026-07-16 06:30",NA,43.6597641,-116.2791233,TRUE,FALSE,TRUE,"S372777440",NA
+"274","brnowl","American Barn Owl","Tyto furcata","L4200718","Home","2026-07-16 06:22",1,37.9021363,-95.4799891,TRUE,FALSE,TRUE,"S372718295",NA
+"275","brnowl","American Barn Owl","Tyto furcata","L6253754","8221 North Col Rowe Boulevard, McAllen, Texas, US (26.278, -98.208)","2026-07-16 06:10",1,26.2778628,-98.2084179,TRUE,FALSE,TRUE,"S374128595",NA
+"276","brnowl","American Barn Owl","Tyto furcata","L73682509","1295 Rockland Dr, Saint Helena US-CA 38.52000, -122.49668","2026-07-16 05:50",1,38.519997,-122.496677,TRUE,FALSE,TRUE,"S372948404",NA
+"277","brnowl","American Barn Owl","Tyto furcata","L721381","South Fork Wildlife Area--KOA Access","2026-07-16 05:02",1,35.657767,-118.343697,TRUE,FALSE,FALSE,"S373709552",NA
+"278","brnowl","American Barn Owl","Tyto furcata","L57404771","San Elijo Lagoon--east (CA Atlas - Rancho Santa Fe SW)","2026-07-16 05:00",1,33.0096658,-117.2431639,TRUE,FALSE,FALSE,"S372807332",NA
+"279","brnowl","American Barn Owl","Tyto furcata","L60624116","Miami Foley Road, Garibaldi, Oregon, US (45.585, -123.875)","2026-07-16 01:24",1,45.5854951,-123.8753148,TRUE,FALSE,TRUE,"S373224858",NA
+"280","brnowl","American Barn Owl","Tyto furcata","L73603516","University Park","2026-07-15 23:06",1,33.66246,-117.824836,TRUE,FALSE,TRUE,"S372613877",NA
+"281","brnowl","American Barn Owl","Tyto furcata","L14974324","HI: Ouli Gulch (2161' el.) / Lanikepu Valley / Kamuela View Estates","2026-07-15 22:21",1,20.0266318,-155.7182075,TRUE,FALSE,TRUE,"S372645155","N"
+"282","brnowl","American Barn Owl","Tyto furcata","L31157234","Ventura--Flint St.","2026-07-15 22:12",1,34.2935317,-119.2985876,TRUE,FALSE,TRUE,"S372602725",NA
+"283","brnowl","American Barn Owl","Tyto furcata","L725247","Moonlight SB","2026-07-15 22:11",1,33.0480961,-117.2982895,TRUE,FALSE,FALSE,"S372602426",NA
+"284","brnowl","American Barn Owl","Tyto furcata","L74171462","Barnes Canyon Trailhead-Back 40, Caliente US-NV 37.61003, -114.44735","2026-07-15 22:10",1,37.610031,-114.447354,TRUE,FALSE,TRUE,"S375181160",NA
+"285","brnowl","American Barn Owl","Tyto furcata","L2450783","Balboa Park--Marston Canyon","2026-07-15 22:00",1,32.7437654,-117.1523323,TRUE,FALSE,FALSE,"S372620092",NA
+"286","brnowl","American Barn Owl","Tyto furcata","L25551972","Home","2026-07-15 21:59",1,25.6769361,-80.3205319,TRUE,FALSE,TRUE,"S372576763",NA
+"287","brnowl","American Barn Owl","Tyto furcata","L191651","Big Pine","2026-07-15 21:46",2,37.16493,-118.28993,TRUE,FALSE,TRUE,"S372601493",NA
+"288","brnowl","American Barn Owl","Tyto furcata","L73607181","Sheraton Waikīkī","2026-07-15 21:30",1,21.27718,-157.830536,TRUE,FALSE,TRUE,"S372633958","N"
+"289","brnowl","American Barn Owl","Tyto furcata","L373341","Robinson Canyon--mp 8.5 to watershed summit (~mp 5)","2026-07-15 21:17",1,36.4895411,-121.8113422,TRUE,FALSE,FALSE,"S372597232",NA
+"290","brnowl","American Barn Owl","Tyto furcata","L9099944","University of Florida--McCarty Woods","2026-07-15 20:59",1,29.6452949,-82.3445235,TRUE,FALSE,FALSE,"S372568900",NA
+"291","brnowl","American Barn Owl","Tyto furcata","L3065745","Summer Lake Wildlife Area Headquarters","2026-07-15 20:44",1,42.9549463,-120.7868671,TRUE,FALSE,FALSE,"S372590108",NA
+"292","brnowl","American Barn Owl","Tyto furcata","L6244093","Farmington Lakes","2026-07-15 18:40",1,40.975192,-111.8185526,TRUE,FALSE,FALSE,"S372888308",NA
+"293","brnowl","American Barn Owl","Tyto furcata","L629358","Mt. Pisgah Arboretum","2026-07-15 18:30",1,44.006462,-122.9810429,TRUE,FALSE,FALSE,"S372575576",NA
+"294","brnowl","American Barn Owl","Tyto furcata","L1023544","Wellington Environmental Preserve","2026-07-15 18:02",1,26.6293528,-80.3059387,TRUE,FALSE,FALSE,"S372563712",NA
+"295","brnowl","American Barn Owl","Tyto furcata","L212323","Lee Kay Ponds","2026-07-15 17:06",2,40.7397136,-112.0437241,TRUE,FALSE,FALSE,"S372576176",NA
+"296","brnowl","American Barn Owl","Tyto furcata","L887381","Fort Stevens SP--South Jetty/Parking Area C","2026-07-15 10:54",1,46.2286726,-124.0217721,TRUE,FALSE,FALSE,"S372476224",NA
+"297","brnowl","American Barn Owl","Tyto furcata","L14304631","Goose Pond FWA--GP18","2026-07-15 10:03",1,38.9748983,-87.2324248,TRUE,FALSE,FALSE,"S372513231",NA
+"298","brnowl","American Barn Owl","Tyto furcata","L934338","Mangas Springs","2026-07-15 08:17",1,32.8418443,-108.5108471,TRUE,FALSE,FALSE,"S372467121",NA
+"299","brnowl","American Barn Owl","Tyto furcata","L1190482","Turtle Rock Community Park","2026-07-15 08:00",1,33.6329872,-117.8055382,TRUE,FALSE,FALSE,"S372502820",NA
+"300","brnowl","American Barn Owl","Tyto furcata","L855608","Carrizo Plain NM--Visitor Center","2026-07-15 06:37",2,35.1899143,-119.8633606,TRUE,FALSE,FALSE,"S372861223",NA
+"301","brnowl","American Barn Owl","Tyto furcata","L73546550","50830–50908 Babel Slough Rd, Clarksburg US-CA 38.45737, -121.57034","2026-07-15 06:13",1,38.457368,-121.570337,TRUE,FALSE,TRUE,"S372373464",NA
+"302","brnowl","American Barn Owl","Tyto furcata","L686411","Wood River Wetland","2026-07-15 04:20",1,42.58108,-121.9284,TRUE,FALSE,FALSE,"S372432941",NA
+"303","brnowl","American Barn Owl","Tyto furcata","L73536567","11101–13499 CA-46, Paso Robles US-CA 35.65894, -120.47955","2026-07-15 04:13",1,35.658939,-120.479549,TRUE,FALSE,TRUE,"S372323316",NA
+"304","brnowl","American Barn Owl","Tyto furcata","L803734","Inyokern--South of Hwy 178","2026-07-15 03:51",1,35.6356568,-117.8090143,TRUE,FALSE,FALSE,"S372541676",NA
+"305","brnowl","American Barn Owl","Tyto furcata","L65166147","LYMA'S Nest","2026-07-15 02:36",1,31.5161122,-110.2698959,TRUE,FALSE,TRUE,"S372345875",NA
