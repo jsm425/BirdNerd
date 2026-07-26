@@ -1,306 +1,325 @@
-"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId","exoticCategory"
-"1","brnowl","American Barn Owl","Tyto furcata","L4976596","Carmel Valley (Torrey Hills) Residential","2026-07-24 22:12",1,32.9149308,-117.2173997,TRUE,FALSE,TRUE,"S376018828",NA
-"2","brnowl","American Barn Owl","Tyto furcata","L54562082","Echo Yard","2026-07-24 22:06",1,37.371489,-122.209479,TRUE,FALSE,TRUE,"S376017863",NA
-"3","brnowl","American Barn Owl","Tyto furcata","L25727529","Thayer’s Domain (Private)","2026-07-24 21:45",1,40.78819,-124.128352,TRUE,FALSE,TRUE,"S376017190",NA
-"4","brnowl","American Barn Owl","Tyto furcata","L67938589","dog walk","2026-07-24 21:42",1,37.6222508,-122.0472147,TRUE,FALSE,TRUE,"S376014907",NA
-"5","brnowl","American Barn Owl","Tyto furcata","L74321323","120 Simmons Road, Montesano, Washington, US (46.981, -123.573)","2026-07-24 21:38",1,46.9814809,-123.572767,TRUE,FALSE,TRUE,"S376024030",NA
-"6","brnowl","American Barn Owl","Tyto furcata","L506053","Damonte Ranch Wetlands","2026-07-24 21:26",1,39.4275085,-119.7185326,TRUE,FALSE,FALSE,"S376019310",NA
-"7","brnowl","American Barn Owl","Tyto furcata","L2381156","Yard-Leucadia Blvd, Encinitas, CA","2026-07-24 21:22",1,33.064565,-117.299277,TRUE,FALSE,TRUE,"S376012770",NA
-"8","brnowl","American Barn Owl","Tyto furcata","L623357","Paynes Prairie Preserve SP--La Chua Trail","2026-07-24 20:34",1,29.6068756,-82.3031116,TRUE,FALSE,FALSE,"S375988143",NA
-"9","brnowl","American Barn Owl","Tyto furcata","L523951","Stipson Island Rd.","2026-07-24 20:24",2,39.1890256,-74.9109006,TRUE,TRUE,FALSE,"S375987571",NA
-"10","brnowl","American Barn Owl","Tyto furcata","L805293","Cow Creek Rec. Area","2026-07-24 19:56",3,44.5598973,-100.4888535,TRUE,FALSE,FALSE,"S375999252",NA
-"11","brnowl","American Barn Owl","Tyto furcata","L2841155","San Gabriel River Channel--Duarte","2026-07-24 19:21",1,34.1428001,-117.9345095,TRUE,FALSE,FALSE,"S376010726",NA
-"12","brnowl","American Barn Owl","Tyto furcata","L14242758","Irvine Regional Park, Orange US-CA 33.79362, -117.74229","2026-07-24 18:51",1,33.793623,-117.74229,TRUE,FALSE,TRUE,"S376008702",NA
-"13","brnowl","American Barn Owl","Tyto furcata","L581841","Browns Farm Rd.","2026-07-24 17:00",1,26.6215822,-80.5616945,TRUE,FALSE,FALSE,"S376007342",NA
-"14","brnowl","American Barn Owl","Tyto furcata","L364551","Niland--International Rd.","2026-07-24 13:22",1,33.2222357,-115.51476,TRUE,FALSE,FALSE,"S375928203",NA
-"15","brnowl","American Barn Owl","Tyto furcata","L571616","Antelope Island SP--Antelope Island (island only)","2026-07-24 11:02",1,40.9560485,-112.2040558,TRUE,FALSE,FALSE,"S375855748",NA
-"16","brnowl","American Barn Owl","Tyto furcata","L1188911","Forever Wild Field Trial Area","2026-07-24 10:44",1,32.6378571,-87.6886654,TRUE,FALSE,FALSE,"S376008578",NA
-"17","brnowl","American Barn Owl","Tyto furcata","L989640","Hudeman Slough Wetlands (formerly Hudeman Slough)","2026-07-24 09:22",2,38.2203803,-122.3933011,TRUE,FALSE,FALSE,"S375894397",NA
-"18","brnowl","American Barn Owl","Tyto furcata","L685523","Sky Meadows SP--Bridle Trail","2026-07-24 09:03",1,38.9903032,-77.9443073,TRUE,FALSE,FALSE,"S375770422",NA
-"19","brnowl","American Barn Owl","Tyto furcata","L2776216","Sedgwick Reserve (restricted access)","2026-07-24 08:30",1,34.692571,-120.0405478,TRUE,FALSE,FALSE,"S375904199",NA
-"20","brnowl","American Barn Owl","Tyto furcata","L878741","Soscol Water Recycling Facility","2026-07-24 08:25",1,38.2340171,-122.2826385,TRUE,FALSE,FALSE,"S375926522",NA
-"21","brnowl","American Barn Owl","Tyto furcata","L12671731","Arroyo Conejo at Newbury Park Place","2026-07-24 07:03",1,34.1703672,-118.9571684,TRUE,FALSE,FALSE,"S375843961",NA
-"22","brnowl","American Barn Owl","Tyto furcata","L74317881","98292, Stanwood US-WA 48.21194, -122.36603","2026-07-24 07:03",2,48.211945,-122.366026,TRUE,FALSE,TRUE,"S376004928",NA
-"23","brnowl","American Barn Owl","Tyto furcata","L1528140","UC Irvine--Arboretum","2026-07-24 06:40",4,33.6639028,-117.8528959,TRUE,FALSE,FALSE,"S375822161",NA
-"24","brnowl","American Barn Owl","Tyto furcata","L1109955","UC Natural Reserve System Ponds 4-11","2026-07-24 06:16",2,33.6562812,-117.8515975,TRUE,FALSE,TRUE,"S375797307",NA
-"25","brnowl","American Barn Owl","Tyto furcata","L596018","Pt. Reyes Bird Observatory--Palomarin","2026-07-24 06:10",1,37.9298634,-122.73561,TRUE,FALSE,FALSE,"S375895634",NA
-"26","brnowl","American Barn Owl","Tyto furcata","L275227","Piute Ponds (permit required)","2026-07-24 06:05",4,34.7901193,-118.1181776,TRUE,FALSE,FALSE,"S375938939",NA
-"27","brnowl","American Barn Owl","Tyto furcata","L420195","Big Morongo Canyon Preserve & Covington Park","2026-07-24 06:02",1,34.0497222,-116.5702639,TRUE,FALSE,FALSE,"S375817920",NA
-"28","brnowl","American Barn Owl","Tyto furcata","L74295657","Ladd Marsh WMA — Elk Trap Maps Banding Station (Limited Access)","2026-07-24 04:57",1,45.252427,-117.994745,TRUE,FALSE,TRUE,"S375886213",NA
-"29","brnowl","American Barn Owl","Tyto furcata","L128530","Discovery Park","2026-07-24 04:22",4,47.663868,-122.4215317,TRUE,FALSE,FALSE,"S375773951",NA
-"30","brnowl","American Barn Owl","Tyto furcata","L781491","Home, river side","2026-07-24 02:40",1,39.0564257,-123.1424367,TRUE,FALSE,TRUE,"S375839971",NA
-"31","brnowl","American Barn Owl","Tyto furcata","L1184114","Thurber Ln | Santa Cruz, CA","2026-07-24 02:03",1,37.0012375,-121.9750817,TRUE,FALSE,TRUE,"S375690801",NA
-"32","brnowl","American Barn Owl","Tyto furcata","L13231581","Harmon Dr.","2026-07-24 00:21",1,38.5042578,-121.5545109,TRUE,FALSE,TRUE,"S375862156",NA
-"33","brnowl","American Barn Owl","Tyto furcata","L38041147","Aegolius Basterds LRGV (Private Residence)","2026-07-23 23:40",1,26.1842336,-98.3811696,TRUE,FALSE,TRUE,"S375640418",NA
-"34","brnowl","American Barn Owl","Tyto furcata","L74258382","U.S. 380, Carrizozo, New Mexico, US (33.606, -105.739)","2026-07-23 23:30",1,33.6056878,-105.7385365,TRUE,FALSE,TRUE,"S375675590",NA
-"35","brnowl","American Barn Owl","Tyto furcata","L4885585","38th Avenue NE","2026-07-23 23:01",1,47.702304,-122.2883291,TRUE,FALSE,TRUE,"S375651255",NA
-"36","brnowl","American Barn Owl","Tyto furcata","L74289106","Gold Creek Road, Tillamook, Oregon, US (45.444, -123.584)","2026-07-23 22:19",1,45.4444529,-123.5835385,TRUE,FALSE,TRUE,"S375853071",NA
-"37","brnowl","American Barn Owl","Tyto furcata","L785094","Mt. Madonna County Park","2026-07-23 21:48",1,37.0036001,-121.7081952,TRUE,FALSE,FALSE,"S375652474",NA
-"38","brnowl","American Barn Owl","Tyto furcata","L74252002","Botteri's Sparrow spot on Perrin Rd (32.517, -107.915)","2026-07-23 21:45",1,32.5160917,-107.9151599,TRUE,FALSE,TRUE,"S375633961",NA
-"39","brnowl","American Barn Owl","Tyto furcata","L9041740","Longwood University--Main Campus","2026-07-23 20:51",3,37.2995662,-78.3965743,TRUE,TRUE,FALSE,"S375615848",NA
-"40","brnowl","American Barn Owl","Tyto furcata","L169112","Hassayampa River Preserve (closed Mon/Tue)","2026-07-23 20:40",1,33.9333419,-112.6946297,TRUE,FALSE,FALSE,"S375642301",NA
-"41","brnowl","American Barn Owl","Tyto furcata","L6668557","The Rolling Land Company","2026-07-23 20:35",1,32.759099,-117.054679,TRUE,FALSE,TRUE,"S375840057",NA
-"42","brnowl","American Barn Owl","Tyto furcata","L74248195","201 South Main Street, Farmville, Virginia, US (37.301, -78.394)","2026-07-23 19:54",4,37.3006797,-78.3935329,TRUE,TRUE,TRUE,"S375614531",NA
-"43","brnowl","American Barn Owl","Tyto furcata","L856260","South Beach SP","2026-07-23 19:26",1,44.6063572,-124.0631104,TRUE,FALSE,FALSE,"S375997278",NA
-"44","brnowl","American Barn Owl","Tyto furcata","L73882369","3957 Aloaliʻi Dr, Princeville US-HI 22.22044, -159.46688","2026-07-23 17:58",1,22.220442,-159.466881,TRUE,FALSE,TRUE,"S375634805","N"
-"45","brnowl","American Barn Owl","Tyto furcata","L1032455","Wilder Ranch SP--Old Cove Landing Trail","2026-07-23 16:29",1,36.9569044,-122.0840338,TRUE,FALSE,FALSE,"S375611250",NA
-"46","brnowl","American Barn Owl","Tyto furcata","L218324","Pt. Reyes--Abbotts Lagoon","2026-07-23 11:15",1,38.1190611,-122.9522467,TRUE,FALSE,FALSE,"S375562043",NA
-"47","brnowl","American Barn Owl","Tyto furcata","L6209932","Cheyenne Bottoms WA--Inlet Canal","2026-07-23 10:40",2,38.4487239,-98.7100178,TRUE,FALSE,FALSE,"S375633987",NA
-"48","brnowl","American Barn Owl","Tyto furcata","L268126","River Lane","2026-07-23 07:04",1,40.1662735,-111.737139,TRUE,FALSE,FALSE,"S375427138",NA
-"49","brnowl","American Barn Owl","Tyto furcata","L740504","South Fork Wildlife Area--south","2026-07-23 07:01",1,35.655309,-118.357816,TRUE,FALSE,FALSE,"S375467861",NA
-"50","brnowl","American Barn Owl","Tyto furcata","L472951","Paloma Ranch","2026-07-23 06:30",1,32.9189081,-112.8944135,TRUE,FALSE,FALSE,"S375550862",NA
-"51","brnowl","American Barn Owl","Tyto furcata","L74249961","UC Irvine Arboretum–San Joaquin Marsh West Edge","2026-07-23 06:25",1,33.6615747,-117.8490232,TRUE,FALSE,TRUE,"S375624818",NA
-"52","brnowl","American Barn Owl","Tyto furcata","L192708","Martinez Regional Shoreline Park","2026-07-23 06:24",1,38.0241261,-122.1401596,TRUE,FALSE,FALSE,"S375413781",NA
-"53","brnowl","American Barn Owl","Tyto furcata","L74250040","Campus Drive near UCI Marsh","2026-07-23 06:11",1,33.6612892,-117.8487531,TRUE,FALSE,TRUE,"S375625130",NA
-"54","brnowl","American Barn Owl","Tyto furcata","L5809821","Haus von Detwiler","2026-07-23 05:25",1,32.6999678,-114.6841248,TRUE,FALSE,TRUE,"S375407270",NA
-"55","brnowl","American Barn Owl","Tyto furcata","L815544","Migrant Corner Trail and Sierra Way","2026-07-23 04:42",1,35.6725328,-118.3276463,TRUE,FALSE,FALSE,"S375367303",NA
-"56","brnowl","American Barn Owl","Tyto furcata","L74202961","21789–21899 CA-178, Weldon US-CA 35.67756, -118.25379","2026-07-23 04:26",1,35.677563,-118.253789,TRUE,FALSE,TRUE,"S375358391",NA
-"57","brnowl","American Barn Owl","Tyto furcata","L19760045","10900 Trask River Road, Tillamook, Oregon, US (45.44, -123.753)","2026-07-23 00:24",1,45.4399681,-123.7530958,TRUE,FALSE,TRUE,"S375323946",NA
-"58","brnowl","American Barn Owl","Tyto furcata","L10035792","JP Home Muir Beach","2026-07-22 23:09",1,37.8645748,-122.5830476,TRUE,FALSE,TRUE,"S375288184",NA
-"59","brnowl","American Barn Owl","Tyto furcata","L44606233","90278 Lewis Road, Warrenton, Oregon, US (46.093, -123.929)1","2026-07-22 22:55",1,46.0926702,-123.9294104,TRUE,FALSE,TRUE,"S375285614",NA
-"60","brnowl","American Barn Owl","Tyto furcata","L74222489","1710 San Luis Dr, San Luis Obispo US-CA (35.2866,-120.6513)","2026-07-22 22:30",1,35.286646,-120.651333,TRUE,FALSE,TRUE,"S375474063",NA
-"61","brnowl","American Barn Owl","Tyto furcata","L37446421","Magnolia","2026-07-22 22:30",1,38.4929905,-122.4583355,TRUE,FALSE,TRUE,"S375610575",NA
-"62","brnowl","American Barn Owl","Tyto furcata","L57499781","2202 Old Samoa Road, Arcata, California, US (40.866, -124.106)","2026-07-22 22:10",1,40.8663621,-124.1058976,TRUE,FALSE,TRUE,"S375278345",NA
-"63","brnowl","American Barn Owl","Tyto furcata","L74189236","Arcata, Alliance Road and 15th","2026-07-22 22:00",1,40.8762236,-124.0907589,TRUE,FALSE,TRUE,"S375279274",NA
-"64","brnowl","American Barn Owl","Tyto furcata","L463083","Bear Creek Greenway--Ashland","2026-07-22 21:35",1,42.2147144,-122.7162798,TRUE,FALSE,FALSE,"S375273519",NA
-"65","brnowl","American Barn Owl","Tyto furcata","L2365468","Sauvie Island--Oak Island (Multnomah Co.)","2026-07-22 21:30",2,45.7144802,-122.8207541,TRUE,FALSE,FALSE,"S375406484",NA
-"66","brnowl","American Barn Owl","Tyto furcata","L28468733","South Ridge Road, Wellington, Kansas, US (37.251, -97.42)","2026-07-22 21:26",1,37.2512669,-97.4203762,TRUE,FALSE,TRUE,"S375635901",NA
-"67","brnowl","American Barn Owl","Tyto furcata","L74185495","142 Mt Orange Rd, Trenton US-TN 35.95653, -88.99129","2026-07-22 21:04",1,35.95653,-88.99129,TRUE,FALSE,TRUE,"S375257929",NA
-"68","brnowl","American Barn Owl","Tyto furcata","L74202374","Between Venable and Main streets, Farmville","2026-07-22 21:02",4,37.3005726,-78.3937318,TRUE,TRUE,TRUE,"S375356129",NA
-"69","brnowl","American Barn Owl","Tyto furcata","L3147172","*Lotus (rural):  Clark Mtn. (.68 mi. e. of)","2026-07-22 20:45",1,38.8097926,-120.9451067,TRUE,FALSE,TRUE,"S375287879",NA
-"70","brnowl","American Barn Owl","Tyto furcata","L29992877","18921 Laughmiller Road, Tanner, Alabama, US (34.688, -86.982)","2026-07-22 20:43",2,34.6880835,-86.9824636,TRUE,TRUE,TRUE,"S375258948",NA
-"71","brnowl","American Barn Owl","Tyto furcata","L74183630","100 Midtown Ave, Farmville US-VA 37.30057, -78.39314","2026-07-22 20:41",2,37.300574,-78.393142,TRUE,TRUE,TRUE,"S375247547",NA
-"72","brnowl","American Barn Owl","Tyto furcata","L16565422","Shelby Farms Park--Gardner Rd. Marsh","2026-07-22 20:34",2,35.1424179,-89.8488404,TRUE,FALSE,FALSE,"S375253939",NA
-"73","brnowl","American Barn Owl","Tyto furcata","L2215518","Santa Catalina Island--Wrigley Marine Science Center","2026-07-22 20:30",1,33.4448098,-118.4811625,TRUE,FALSE,FALSE,"S375269010",NA
-"74","brnowl","American Barn Owl","Tyto furcata","L29117088","2260 Windsor Court, Perris, California, US (33.814, -117.224)","2026-07-22 20:17",1,33.8135689,-117.2238452,TRUE,FALSE,TRUE,"S375445990",NA
-"75","brnowl","American Barn Owl","Tyto furcata","L74187559","Downtown Farmville","2026-07-22 20:13",4,37.3007575,-78.3933055,TRUE,TRUE,TRUE,"S375268648",NA
-"76","brnowl","American Barn Owl","Tyto furcata","L109339","IRWD San Joaquin Marsh & Wildlife Sanctuary","2026-07-22 19:29",2,33.6637274,-117.8426814,TRUE,FALSE,FALSE,"S375265091",NA
-"77","brnowl","American Barn Owl","Tyto furcata","L53753144","Around Some Flowery Bushes","2026-07-22 19:00",NA,37.520703,-121.924364,TRUE,FALSE,TRUE,"S375275119",NA
-"78","brnowl","American Barn Owl","Tyto furcata","L11075024","Dave's yard","2026-07-22 16:22",1,38.7855509,-98.4873215,TRUE,FALSE,TRUE,"S375209343",NA
-"79","brnowl","American Barn Owl","Tyto furcata","L353255","Elkhorn Slough Reserve (NERR)","2026-07-22 14:49",1,36.8182308,-121.7364764,TRUE,FALSE,FALSE,"S375219073",NA
-"80","brnowl","American Barn Owl","Tyto furcata","L165048","Farmington Bay WMA","2026-07-22 13:31",2,40.955141,-111.9191396,TRUE,FALSE,FALSE,"S375265963",NA
-"81","brnowl","American Barn Owl","Tyto furcata","L1294688","Sacramento Reg Wastewater Treatment Plant (limited access)","2026-07-22 13:01",1,38.4407495,-121.4792633,TRUE,FALSE,FALSE,"S375185999",NA
-"82","brnowl","American Barn Owl","Tyto furcata","L267071","Frager Rd. (north)","2026-07-22 11:48",1,47.418883,-122.2678757,TRUE,FALSE,FALSE,"S375265346",NA
-"83","brnowl","American Barn Owl","Tyto furcata","L348814","Carrizo Plain NM--MU Ranch, no internal access","2026-07-22 11:20",4,34.9859471,-119.4817506,TRUE,FALSE,FALSE,"S375154117",NA
-"84","brnowl","American Barn Owl","Tyto furcata","L14751121","Griggs Area -- Thackaberry Farm","2026-07-22 10:05",1,44.6069807,-122.8456412,TRUE,FALSE,TRUE,"S375138541",NA
-"85","brnowl","American Barn Owl","Tyto furcata","L618559","Chaplin Nature Center","2026-07-22 09:06",1,37.0898975,-97.0983266,TRUE,FALSE,FALSE,"S375065764",NA
-"86","brnowl","American Barn Owl","Tyto furcata","L21539114","Asotin Slough HMU","2026-07-22 08:50",1,46.3369138,-117.0277405,TRUE,FALSE,TRUE,"S375116750",NA
-"87","brnowl","American Barn Owl","Tyto furcata","L418752","Tijuana River Valley--Bird & Butterfly Garden (Myers Ranch)","2026-07-22 08:43",1,32.5538589,-117.084619,TRUE,FALSE,FALSE,"S375125175",NA
-"88","brnowl","American Barn Owl","Tyto furcata","L384111","Hubbard Rec. Area","2026-07-22 07:18",3,43.5145,-116.3565,TRUE,FALSE,FALSE,"S375157062",NA
-"89","brnowl","American Barn Owl","Tyto furcata","L715898","Whelan Lake Bird Sanctuary (permission required)","2026-07-22 07:10",2,33.2424922,-117.3364091,TRUE,FALSE,FALSE,"S375261141",NA
-"90","brnowl","American Barn Owl","Tyto furcata","L48372565","21 Pamaron Way, Novato, California, US (38.067, -122.53)","2026-07-22 07:09",1,38.0668584,-122.5300726,TRUE,FALSE,TRUE,"S375180748",NA
-"91","brnowl","American Barn Owl","Tyto furcata","L1443179","Ousterhout farm","2026-07-22 06:54",4,42.4507573,-122.8318927,TRUE,FALSE,TRUE,"S375089006",NA
-"92","brnowl","American Barn Owl","Tyto furcata","L465904","Borrego Springs--Roadrunner Club/The Springs (private)","2026-07-22 06:50",1,33.262697,-116.3611624,TRUE,FALSE,FALSE,"S375186760",NA
-"93","brnowl","American Barn Owl","Tyto furcata","L212070","Glover Lane & GSL Nature Center","2026-07-22 06:39",3,40.9650238,-111.9299004,TRUE,FALSE,FALSE,"S375071688",NA
-"94","brnowl","American Barn Owl","Tyto furcata","L2263572","San Joaquin Wildlife Sanctuary--Fledgling Loop Trail","2026-07-22 06:30",4,33.6609892,-117.8437141,TRUE,FALSE,FALSE,"S375101032",NA
-"95","brnowl","American Barn Owl","Tyto furcata","L3594213","*Backyard-Carmel Valley(San Diego)","2026-07-22 00:01",1,32.9173415,-117.2151974,TRUE,FALSE,TRUE,"S374954775",NA
-"96","brnowl","American Barn Owl","Tyto furcata","L4379069","Home","2026-07-21 23:38",1,34.175352,-118.334302,TRUE,FALSE,TRUE,"S374947752",NA
-"97","brnowl","American Barn Owl","Tyto furcata","L27645569","Home.","2026-07-21 23:04",1,37.774139,-122.199929,TRUE,FALSE,TRUE,"S374940922",NA
-"98","brnowl","American Barn Owl","Tyto furcata","L74127566","Sequim Cabin Vacay","2026-07-21 22:57",1,48.1251714,-123.1549791,TRUE,FALSE,TRUE,"S374940984",NA
-"99","brnowl","American Barn Owl","Tyto furcata","L18681099","Dutra Estates Park","2026-07-21 22:05",1,37.7766169,-121.2634789,TRUE,FALSE,TRUE,"S374933042",NA
-"100","brnowl","American Barn Owl","Tyto furcata","L74163685","East Avenue A, Portales, New Mexico, US (33.939, -103.359)","2026-07-21 22:00",1,33.9386646,-103.3592216,TRUE,FALSE,TRUE,"S375141959",NA
-"101","brnowl","American Barn Owl","Tyto furcata","L11237112","West Dungeness, WA","2026-07-21 21:54",2,48.1482609,-123.1417876,TRUE,FALSE,TRUE,"S374930407",NA
-"102","brnowl","American Barn Owl","Tyto furcata","L2223139","B  and  J home","2026-07-21 21:24",1,37.645825,-122.089712,TRUE,FALSE,TRUE,"S374928680",NA
-"103","brnowl","American Barn Owl","Tyto furcata","L583568","Home Alta Mesa Rd-Wilton","2026-07-21 20:44",1,38.3993722,-121.2220639,TRUE,FALSE,TRUE,"S374923952",NA
-"104","brnowl","American Barn Owl","Tyto furcata","L393630","Willard Bay--North Spur","2026-07-21 20:30",5,41.4217159,-112.0679176,TRUE,FALSE,FALSE,"S374924628",NA
-"105","brnowl","American Barn Owl","Tyto furcata","L12010944","75-268 Malulani Dr, Kailua Kona US-HI 19.64500, -155.98219","2026-07-21 20:20",1,19.645004,-155.98219,TRUE,FALSE,TRUE,"S374944145","N"
-"106","brnowl","American Barn Owl","Tyto furcata","L4809071","Shawano Drainage District","2026-07-21 20:03",1,26.5684064,-80.5200031,TRUE,FALSE,TRUE,"S375496617",NA
-"107","brnowl","American Barn Owl","Tyto furcata","L74062014","92284, Yucca Valley US-CA 34.22861, -116.36444","2026-07-21 19:40",1,34.228614,-116.364438,TRUE,FALSE,TRUE,"S374925378",NA
-"108","brnowl","American Barn Owl","Tyto furcata","L13236114","Warren Road Homestead","2026-07-21 19:35",1,31.4434776,-97.2295581,TRUE,FALSE,TRUE,"S374911798",NA
-"109","brnowl","American Barn Owl","Tyto furcata","L866412","Imperial Irrigation District Wetland Project--Niland","2026-07-21 14:47",1,33.2118848,-115.5204034,TRUE,FALSE,FALSE,"S375130750",NA
-"110","brnowl","American Barn Owl","Tyto furcata","L74238890","84307, Corinne US-UT (41.5939,-112.2320)","2026-07-21 12:56",1,41.593902,-112.232017,TRUE,FALSE,TRUE,"S375557326",NA
-"111","brnowl","American Barn Owl","Tyto furcata","L38045929","Pine Hills Egg Ranch and Seasonal Ponds","2026-07-21 12:16",1,33.0763676,-116.7853171,TRUE,FALSE,TRUE,"S374836735",NA
-"112","brnowl","American Barn Owl","Tyto furcata","L57035830","Piute Ponds (permit required) (CA Atlas - Rosamond Lake CW)","2026-07-21 11:24",3,34.797161,-118.117435,TRUE,FALSE,FALSE,"S374910723",NA
-"113","brnowl","American Barn Owl","Tyto furcata","L210732","Merced NWR (Please use a more specific hotspot where possible.)","2026-07-21 08:36",1,37.1750923,-120.6160533,TRUE,FALSE,FALSE,"S374891086",NA
-"114","brnowl","American Barn Owl","Tyto furcata","L74101127","4500–4510 Sheepy Creek Rd, Macdoel US-CA 41.98176, -121.87789","2026-07-21 08:34",4,41.981758,-121.87789,TRUE,FALSE,TRUE,"S374799882",NA
-"115","brnowl","American Barn Owl","Tyto furcata","L74094289","Sheepy Creek Road, Dorris, California, US (41.982, -121.878)","2026-07-21 08:33",3,41.9817868,-121.8778567,TRUE,FALSE,TRUE,"S374765962",NA
-"116","brnowl","American Barn Owl","Tyto furcata","L1210098","Antelope Island SP--Visitor Center & Loop Rd.","2026-07-21 08:05",1,41.054726,-112.2407765,TRUE,FALSE,FALSE,"S374767439",NA
-"117","brnowl","American Barn Owl","Tyto furcata","L3824198","US-CA-Kern--Weldon--Kelso Valley--Bird Springs neighborhood","2026-07-21 07:02",1,35.560495,-118.220604,TRUE,FALSE,TRUE,"S374757107",NA
-"118","brnowl","American Barn Owl","Tyto furcata","L74041473","Campus Drive outside of UCI Marsh","2026-07-21 06:16",2,33.6622642,-117.8493588,TRUE,FALSE,TRUE,"S374775854",NA
-"119","brnowl","American Barn Owl","Tyto furcata","L74125321","Campus Drive outside of UCI Marsh","2026-07-21 06:10",3,33.6579259,-117.8477649,TRUE,FALSE,TRUE,"S374927303",NA
-"120","brnowl","American Barn Owl","Tyto furcata","L109462","Lake Henshaw","2026-07-21 06:09",1,33.2316107,-116.7475494,TRUE,FALSE,FALSE,"S374857606",NA
-"121","brnowl","American Barn Owl","Tyto furcata","L62137823","Lemoore College Slough BBS Block","2026-07-21 05:45",3,36.2887233,-119.829875,TRUE,FALSE,TRUE,"S374891143",NA
-"122","brnowl","American Barn Owl","Tyto furcata","L5896176","Aliso and Wood Canyons WP -- Wood Canyon Trail","2026-07-21 05:06",1,33.5688612,-117.7479672,TRUE,FALSE,FALSE,"S374751888",NA
-"123","brnowl","American Barn Owl","Tyto furcata","L74058258","Desert Rose","2026-07-21 01:33",1,33.4767937,-104.665811,TRUE,FALSE,TRUE,"S374627264",NA
-"124","brnowl","American Barn Owl","Tyto furcata","L74104273","US-395 S, Reno US-NV 39.66093, -119.99073","2026-07-20 23:23",1,39.660927,-119.990729,TRUE,FALSE,TRUE,"S374815858",NA
-"125","brnowl","American Barn Owl","Tyto furcata","L74250067","CBA - Campsite","2026-07-20 22:51",1,38.5649934,-123.3122161,TRUE,FALSE,TRUE,"S375624246",NA
-"126","brnowl","American Barn Owl","Tyto furcata","L28496696","Caysie Circle","2026-07-20 22:21",1,43.487249,-112.0912032,TRUE,FALSE,TRUE,"S374589549",NA
-"127","brnowl","American Barn Owl","Tyto furcata","L16707421","Morse Creek Estuary","2026-07-20 22:15",1,48.116971,-123.352917,TRUE,FALSE,TRUE,"S374596601",NA
-"128","brnowl","American Barn Owl","Tyto furcata","L21920375","San Ramon—Bollinger Creek s. of Crow Canyon Rd. to Norris Canyon Road/east of Boll.Cyn Rd (residential),US-CA 37.76847, -121.98817","2026-07-20 22:03",1,37.768474,-121.988167,TRUE,FALSE,TRUE,"S374594916",NA
-"129","brnowl","American Barn Owl","Tyto furcata","L74124852","Umatilla National Forest, Adams US-OR 45.55111, -118.34614","2026-07-20 22:00",1,45.551112,-118.346141,TRUE,FALSE,TRUE,"S374924047",NA
-"130","brnowl","American Barn Owl","Tyto furcata","L1964645","my house, Castro Valley","2026-07-20 21:43",1,37.7111174,-122.0882803,TRUE,FALSE,TRUE,"S374591953",NA
-"131","brnowl","American Barn Owl","Tyto furcata","L74062753","22642 Indian Springs Rd, Salinas US-CA 36.59325, -121.63972","2026-07-20 21:40",1,36.593251,-121.639716,TRUE,FALSE,TRUE,"S374591926",NA
-"132","brnowl","American Barn Owl","Tyto furcata","L40727857","6492 E Tamarind St, Oak Park US-CA 34.16827, -118.75444","2026-07-20 21:21",1,34.168273,-118.754438,TRUE,FALSE,TRUE,"S374589524",NA
-"133","brnowl","American Barn Owl","Tyto furcata","L4399142","Port Townsend--Larry Scott Trail","2026-07-20 20:38",1,48.1013865,-122.7869033,TRUE,FALSE,FALSE,"S374587951",NA
-"134","brnowl","American Barn Owl","Tyto furcata","L6116366","Farmville--Downtown","2026-07-20 20:24",4,37.3010396,-78.3932052,TRUE,TRUE,TRUE,"S374567172",NA
-"135","brnowl","American Barn Owl","Tyto furcata","L1341883","Coyote Hills Regional Park--Visitor Center area","2026-07-20 19:50",1,37.5533565,-122.0907479,TRUE,FALSE,FALSE,"S374602288",NA
-"136","brnowl","American Barn Owl","Tyto furcata","L374047","Cañada Larga Rd.","2026-07-20 18:30",1,34.3445699,-119.2783928,TRUE,FALSE,FALSE,"S374598920",NA
-"137","brnowl","American Barn Owl","Tyto furcata","L60419543","Bird Trail","2026-07-20 18:28",4,40.961054,-111.925879,TRUE,FALSE,TRUE,"S374585132",NA
-"138","brnowl","American Barn Owl","Tyto furcata","L214134","Pickerington Ponds (Franklin Co.)","2026-07-20 17:45",1,39.8866949,-82.8006077,TRUE,TRUE,FALSE,"S374523846",NA
-"139","brnowl","American Barn Owl","Tyto furcata","L840634","Irvine Regional Park","2026-07-20 17:33",1,33.7968382,-117.7532673,TRUE,FALSE,FALSE,"S374597080",NA
-"140","brnowl","American Barn Owl","Tyto furcata","L66716279","Summer Lake Wildlife Area--Ana River Campground","2026-07-20 14:33",1,42.9498854,-120.7631462,TRUE,FALSE,FALSE,"S374576728",NA
-"141","brnowl","American Barn Owl","Tyto furcata","L12324117","Harder Spring","2026-07-20 10:25",2,46.656515,-118.497262,TRUE,FALSE,FALSE,"S374515178",NA
-"142","brnowl","American Barn Owl","Tyto furcata","L74031744","2585 Acacia Avenue, Sonoma, California, US (38.243, -122.42)","2026-07-20 10:23",1,38.2432385,-122.4197601,TRUE,FALSE,TRUE,"S374444105",NA
-"143","brnowl","American Barn Owl","Tyto furcata","L74060093","Highway 97 about two miles north of Wasco Cemetery","2026-07-20 10:00",1,45.6187995,-120.738266,TRUE,FALSE,TRUE,"S374579412",NA
-"144","brnowl","American Barn Owl","Tyto furcata","L46636531","A-2 Reservoir","2026-07-20 09:35",1,26.470038,-80.697312,TRUE,FALSE,TRUE,"S374516224",NA
-"145","brnowl","American Barn Owl","Tyto furcata","L67901100","S Monterey Ave, Tranquillity US-CA 36.62498, -120.37024","2026-07-20 09:18",1,36.624978,-120.370237,TRUE,FALSE,TRUE,"S374515572",NA
-"146","brnowl","American Barn Owl","Tyto furcata","L454599","Refugio Canyon","2026-07-20 09:00",1,34.4968648,-120.0666796,TRUE,FALSE,FALSE,"S374526517",NA
-"147","brnowl","American Barn Owl","Tyto furcata","L304521","Santa Cruz River--Sasco Rd","2026-07-20 07:43",2,32.544589,-111.406889,TRUE,FALSE,FALSE,"S374528847",NA
-"148","brnowl","American Barn Owl","Tyto furcata","L74027422","3279 Campus Drive, Irvine, California, US (33.66, -117.849)","2026-07-20 06:00",1,33.6602439,-117.8485512,TRUE,FALSE,TRUE,"S374424678",NA
-"149","brnowl","American Barn Owl","Tyto furcata","L54588930","Quarry Lakes BUOW survey","2026-07-20 04:41",NA,37.5783837,-122.0028891,TRUE,FALSE,TRUE,"S374554008",NA
-"150","brnowl","American Barn Owl","Tyto furcata","L69759880","Central Valley Hwy, Corcoran US-CA 36.04417, -119.51777","2026-07-20 04:40",3,36.044168,-119.517767,TRUE,FALSE,TRUE,"S374325847",NA
-"151","brnowl","American Barn Owl","Tyto furcata","L55694086","Irving Lawson Water Access Area (WDFW)","2026-07-20 03:59",1,47.89604,-122.09374,TRUE,FALSE,FALSE,"S374365725",NA
-"152","brnowl","American Barn Owl","Tyto furcata","L74011203","73780–74398 Covelo Rd, Covelo US-CA 39.75813, -123.24835","2026-07-20 02:15",2,39.758126,-123.248352,TRUE,FALSE,TRUE,"S374341141",NA
-"153","brnowl","American Barn Owl","Tyto furcata","L73990153","Traverse Ridge Road and Mike Weir Drive","2026-07-19 21:30",1,40.4847367,-111.8613393,TRUE,FALSE,TRUE,"S374233272",NA
-"154","brnowl","American Barn Owl","Tyto furcata","L30652233","310 E St, Davis US-CA 38.54506, -121.74146","2026-07-19 21:30",2,38.545061,-121.741457,TRUE,FALSE,TRUE,"S374224166",NA
-"155","brnowl","American Barn Owl","Tyto furcata","L2828346","Leonora Curtin Wetland Preserve (Jun - Oct; Fee and Entry through Las Golondrinas)","2026-07-19 21:17",1,35.56763,-106.10687,TRUE,FALSE,FALSE,"S374219653",NA
-"156","brnowl","American Barn Owl","Tyto furcata","L577805","Groveland area","2026-07-19 21:16",1,37.8382589,-120.2318859,TRUE,FALSE,FALSE,"S374420096",NA
-"157","brnowl","American Barn Owl","Tyto furcata","L40518854","Spring Hill Natural Area","2026-07-19 20:10",1,45.457426,-123.122621,TRUE,FALSE,FALSE,"S374225976",NA
-"158","brnowl","American Barn Owl","Tyto furcata","L448520","North Davis Farms greenbelt","2026-07-19 17:51",1,38.5713205,-121.7611313,TRUE,FALSE,FALSE,"S374211737",NA
-"159","brnowl","American Barn Owl","Tyto furcata","L216132","Coyote Hills Regional Park","2026-07-19 17:11",2,37.553764,-122.0875025,TRUE,FALSE,FALSE,"S374222243",NA
-"160","brnowl","American Barn Owl","Tyto furcata","L12433547","Maxwell NWR--Road A-2 Woodlot","2026-07-19 15:30",1,36.5662106,-104.5647552,TRUE,FALSE,FALSE,"S374410752",NA
-"161","brnowl","American Barn Owl","Tyto furcata","L7449780","home","2026-07-19 14:00",1,45.7877264,-119.8956227,TRUE,FALSE,TRUE,"S374839947",NA
-"162","brnowl","American Barn Owl","Tyto furcata","L1024345","Maxwell NWR--Lake 13","2026-07-19 13:40",1,36.5810737,-104.5828056,TRUE,FALSE,FALSE,"S374407110",NA
-"163","brnowl","American Barn Owl","Tyto furcata","L4532902","Sierra Valley--Roberti Ranch (restricted access)","2026-07-19 13:07",2,39.7817858,-120.2833414,TRUE,FALSE,FALSE,"S375138633",NA
-"164","brnowl","American Barn Owl","Tyto furcata","L11765666","Dyson Ln, Beckwourth US-CA 39.76249, -120.26754","2026-07-19 13:07",2,39.76249,-120.26754,TRUE,FALSE,TRUE,"S374894636",NA
-"165","brnowl","American Barn Owl","Tyto furcata","L651250","Mussel Rock Park","2026-07-19 11:50",1,37.6662169,-122.495048,TRUE,FALSE,FALSE,"S374218720",NA
-"166","brnowl","American Barn Owl","Tyto furcata","L73965825","Bloomfield Heights","2026-07-19 11:30",1,40.6038378,-112.0407271,TRUE,FALSE,TRUE,"S374071431",NA
-"167","brnowl","American Barn Owl","Tyto furcata","L1026626","Olompali State Historic Park","2026-07-19 10:30",2,38.1488676,-122.5861359,TRUE,FALSE,FALSE,"S374110817",NA
-"168","brnowl","American Barn Owl","Tyto furcata","L493042","William L. Finley NWR--Cabell Marsh","2026-07-19 09:49",1,44.4152525,-123.319205,TRUE,FALSE,FALSE,"S375248273",NA
-"169","brnowl","American Barn Owl","Tyto furcata","L739006","Ft. Loudoun Dam--Bank Access Overlook (tailwaters)","2026-07-19 09:44",1,35.7912195,-84.2463988,TRUE,FALSE,FALSE,"S374004529",NA
-"170","brnowl","American Barn Owl","Tyto furcata","L375214","Humboldt Bay NWR--Salmon Creek Unit","2026-07-19 08:23",1,40.684888,-124.211354,TRUE,FALSE,FALSE,"S374038450",NA
-"171","brnowl","American Barn Owl","Tyto furcata","L52224492","Carrie's Place","2026-07-19 08:20",1,38.3928589,-121.2371032,TRUE,FALSE,TRUE,"S374090386",NA
-"172","brnowl","American Barn Owl","Tyto furcata","L34068721","Puget Power Trail","2026-07-19 08:14",1,47.4009431,-122.2707104,TRUE,FALSE,FALSE,"S374091443",NA
-"173","brnowl","American Barn Owl","Tyto furcata","L128938","Catalina SP","2026-07-19 08:00",1,32.4244027,-110.9123905,TRUE,FALSE,FALSE,"S374110862",NA
-"174","brnowl","American Barn Owl","Tyto furcata","L459813","Mather Lake","2026-07-19 07:33",1,38.5546093,-121.2561035,TRUE,FALSE,FALSE,"S374203067",NA
-"175","brnowl","American Barn Owl","Tyto furcata","L30524779","95327, Jamestown US-CA (37.7572,-120.4166)","2026-07-19 07:11",1,37.757245,-120.416553,TRUE,FALSE,TRUE,"S374216603",NA
-"176","brnowl","American Barn Owl","Tyto furcata","L26890122","School Bus Road, Frostproof, Florida, US (27.657, -81.393); SR 64 to McLean Cabin","2026-07-19 06:02",1,27.6572799,-81.3929008,TRUE,FALSE,TRUE,"S373924960",NA
-"177","brnowl","American Barn Owl","Tyto furcata","L416332","204th Street, Kent","2026-07-19 05:56",2,47.4190282,-122.2763085,TRUE,FALSE,FALSE,"S374028891",NA
-"178","brnowl","American Barn Owl","Tyto furcata","L16897356","Ousterhout Farm","2026-07-19 05:29",4,42.4517934,-122.831615,TRUE,FALSE,TRUE,"S374001197",NA
-"179","brnowl","American Barn Owl","Tyto furcata","L715412","Higley and Ocotillo Rds. ponds","2026-07-19 05:24",1,33.2533311,-111.7181683,TRUE,FALSE,FALSE,"S374185365",NA
-"180","brnowl","American Barn Owl","Tyto furcata","L128874","Jocelyn Nungaray NWR  (Anahuac) (UTC 049)","2026-07-19 05:08",2,29.6148414,-94.5344353,TRUE,FALSE,FALSE,"S373880465",NA
-"181","brnowl","American Barn Owl","Tyto furcata","L73873981","43200 SH-109, Kim US-CO 37.61928, -103.33735","2026-07-19 01:20",1,37.619281,-103.337351,TRUE,FALSE,TRUE,"S373803565",NA
-"182","brnowl","American Barn Owl","Tyto furcata","L73838441","Kilner Park, Tahoe City","2026-07-19 01:16",1,39.134779,-120.158125,TRUE,FALSE,TRUE,"S373818260",NA
-"183","brnowl","American Barn Owl","Tyto furcata","L73883228","Beulah episcopal","2026-07-19 00:58",3,37.301034,-78.393557,TRUE,TRUE,TRUE,"S373773249",NA
-"184","brnowl","American Barn Owl","Tyto furcata","L372053","Pearson-Arastradero Preserve","2026-07-18 23:55",1,37.3871572,-122.174685,TRUE,FALSE,FALSE,"S375968217",NA
-"185","brnowl","American Barn Owl","Tyto furcata","L475420","4229 E Lk Sammamish Shore Ln","2026-07-18 22:49",1,47.5688459,-122.0623004,TRUE,FALSE,TRUE,"S373788822",NA
-"186","brnowl","American Barn Owl","Tyto furcata","L4234394","Claremont Village--Area","2026-07-18 22:46",1,34.0956539,-117.7186239,TRUE,FALSE,FALSE,"S373781230",NA
-"187","brnowl","American Barn Owl","Tyto furcata","L11625977","5812 Giarde Lane, Bellingham, Washington, US (48.851, -122.325)","2026-07-18 22:15",1,48.850908,-122.3253422,TRUE,FALSE,TRUE,"S373776992",NA
-"188","brnowl","American Barn Owl","Tyto furcata","L47642588","Hat’s House","2026-07-18 22:05",1,48.879733,-122.464353,TRUE,FALSE,TRUE,"S373774584",NA
-"189","brnowl","American Barn Owl","Tyto furcata","L351484","Marymoor Park","2026-07-18 21:57",1,47.6612642,-122.1184109,TRUE,FALSE,FALSE,"S373780644",NA
-"190","brnowl","American Barn Owl","Tyto furcata","L3437558","Norman Rd, Stanwood","2026-07-18 21:57",1,48.2085793,-122.2731113,TRUE,FALSE,FALSE,"S373788075",NA
-"191","brnowl","American Barn Owl","Tyto furcata","L73882906","Kava","2026-07-18 21:46",1,38.79777,-121.290827,TRUE,FALSE,TRUE,"S373771544",NA
-"192","brnowl","American Barn Owl","Tyto furcata","L73882869","Kava","2026-07-18 21:45",1,38.797808,-121.290894,TRUE,FALSE,TRUE,"S373771390",NA
-"193","brnowl","American Barn Owl","Tyto furcata","L53781253","Sacramento River--Benham Way access","2026-07-18 21:38",1,38.507414,-121.555304,TRUE,FALSE,FALSE,"S373786484",NA
-"194","brnowl","American Barn Owl","Tyto furcata","L28167865","Morgan Lake Trailhead Parking Lot","2026-07-18 21:33",1,44.983355,-123.26402,TRUE,FALSE,TRUE,"S373775844",NA
-"195","brnowl","American Barn Owl","Tyto furcata","L5671406","Deschamps Ln. Marsh","2026-07-18 21:31",1,46.925728,-114.14542,TRUE,TRUE,FALSE,"S373767182",NA
-"196","brnowl","American Barn Owl","Tyto furcata","L56937000","Carmel Valley Residential (CA Atlas - Del Mar CW)","2026-07-18 21:15",1,32.9173312,-117.2167523,TRUE,FALSE,TRUE,"S373781102",NA
-"197","brnowl","American Barn Owl","Tyto furcata","L8505070","388 Avenida de Diamante, Arroyo Grande, CA 93420","2026-07-18 21:05",1,35.1302944,-120.5885601,TRUE,FALSE,TRUE,"S373766186",NA
-"198","brnowl","American Barn Owl","Tyto furcata","L1315269","Woodward Reservoir--28 Mile Rd. and bridge","2026-07-18 20:58",1,37.8482564,-120.8311987,TRUE,FALSE,FALSE,"S373772182",NA
-"199","brnowl","American Barn Owl","Tyto furcata","L1315265","28 Mile Rd.--Eastman Rd. to Sonora Rd.","2026-07-18 20:54",1,37.8795026,-120.8420616,TRUE,FALSE,FALSE,"S373772529",NA
-"200","brnowl","American Barn Owl","Tyto furcata","L4099757","Daisy Avenue Flood Control Basin","2026-07-18 20:51",1,33.102719,-117.305418,TRUE,FALSE,FALSE,"S373764427",NA
-"201","brnowl","American Barn Owl","Tyto furcata","L73944513","35613–35891 County Road 27, Woodland US-CA (38.6197,-121.8455)","2026-07-18 20:46",1,38.619674,-121.845496,TRUE,FALSE,TRUE,"S374039310",NA
-"202","brnowl","American Barn Owl","Tyto furcata","L357489","Cibola NF--Tres Pistolas Canyon","2026-07-18 20:45",1,35.0787053,-106.4437115,TRUE,FALSE,FALSE,"S373771789",NA
-"203","brnowl","American Barn Owl","Tyto furcata","L1063610","Peter Strauss Ranch","2026-07-18 18:00",1,34.1130482,-118.778193,TRUE,FALSE,FALSE,"S375137432",NA
-"204","brnowl","American Barn Owl","Tyto furcata","L73844433","80539 Zerba Rd, Athena US-OR 45.86369, -118.49783","2026-07-18 10:32",1,45.863689,-118.497827,TRUE,FALSE,TRUE,"S373626615",NA
-"205","brnowl","American Barn Owl","Tyto furcata","L49566031","Ranch","2026-07-18 09:57",1,40.925121,-112.166441,TRUE,FALSE,TRUE,"S373585531",NA
-"206","brnowl","American Barn Owl","Tyto furcata","L7826108","Willits CalTrans Mitigation transects HARC 4 (restricted access)","2026-07-18 09:28",1,39.4347875,-123.3494784,TRUE,FALSE,TRUE,"S373641634",NA
-"207","brnowl","American Barn Owl","Tyto furcata","L73838195","9256 Tonzi Road, Ione, California, US (38.405, -120.855)","2026-07-18 09:09",1,38.4052465,-120.8552202,TRUE,FALSE,TRUE,"S373603878",NA
-"208","brnowl","American Barn Owl","Tyto furcata","L55648768","Otten Farm","2026-07-18 09:04",5,40.8731501,-93.995339,TRUE,TRUE,TRUE,"S373587750",NA
-"209","brnowl","American Barn Owl","Tyto furcata","L741843","Sky Meadows SP--Rolling Meadow Trail","2026-07-18 08:17",1,38.9916583,-77.9387766,TRUE,FALSE,FALSE,"S373646792",NA
-"210","brnowl","American Barn Owl","Tyto furcata","L24739981","29001-29277 Sales Creek Road, Clovis, California, US (36.933, -119.435)","2026-07-18 08:09",2,36.9326336,-119.434919,TRUE,FALSE,TRUE,"S373576752",NA
-"211","brnowl","American Barn Owl","Tyto furcata","L73809899","2928–2944 FM-1585, Levelland US-TX 33.49939, -102.31265","2026-07-18 07:59",1,33.499391,-102.31265,TRUE,FALSE,TRUE,"S373491576",NA
-"212","brnowl","American Barn Owl","Tyto furcata","L3572935","Swan Lake Nature Study Area (IBA)--Boardwalk","2026-07-18 07:21",1,39.6531916,-119.856496,TRUE,FALSE,FALSE,"S373560807",NA
-"213","brnowl","American Barn Owl","Tyto furcata","L4097687","DeWolf Ave.--Big Dry Creek Reservoir Grasslands","2026-07-18 07:20",2,36.872769,-119.6478462,TRUE,FALSE,FALSE,"S373618673",NA
-"214","brnowl","American Barn Owl","Tyto furcata","L2385110","231 S. Lilac St.","2026-07-18 07:00",1,35.6192446,-117.6455498,TRUE,FALSE,TRUE,"S374197597",NA
-"215","brnowl","American Barn Owl","Tyto furcata","L130597","Babel Slough ","2026-07-18 06:42",2,38.4795151,-121.5519791,TRUE,FALSE,FALSE,"S373591793",NA
-"216","brnowl","American Barn Owl","Tyto furcata","L262792","Iowa Dodd Beef/Tyson Ponds","2026-07-18 06:30",1,46.1288528,-118.8985787,TRUE,FALSE,FALSE,"S373645768",NA
-"217","brnowl","American Barn Owl","Tyto furcata","L73879602","45500 California 1, Big Sur, California, US (36.289, -121.845)","2026-07-18 05:36",1,36.2885354,-121.8446476,TRUE,FALSE,TRUE,"S373758396",NA
-"218","brnowl","American Barn Owl","Tyto furcata","L270282","Inland Sea Shorebird Reserve (restricted access)","2026-07-18 05:32",1,40.7837893,-112.100346,TRUE,FALSE,FALSE,"S373607736",NA
-"219","brnowl","American Barn Owl","Tyto furcata","L3602679","Crystalaire Country Club (private property)","2026-07-18 05:26",1,34.4711394,-117.8460073,TRUE,FALSE,FALSE,"S373690746",NA
-"220","brnowl","American Barn Owl","Tyto furcata","L69559473","Linda Vista Park","2026-07-18 05:11",1,34.169049,-118.177882,TRUE,FALSE,TRUE,"S373463676",NA
-"221","brnowl","American Barn Owl","Tyto furcata","L73803903","3055 Ribera Road, Carmel, California, US (36.529, -121.919)","2026-07-18 05:09",1,36.5291873,-121.9191566,TRUE,FALSE,TRUE,"S373463489",NA
-"222","brnowl","American Barn Owl","Tyto furcata","L41067704","Cabrillo Highway, Santa Cruz, California, US (36.962, -122.085)","2026-07-18 04:15",1,36.9620976,-122.0853269,TRUE,FALSE,TRUE,"S373617537",NA
-"223","brnowl","American Barn Owl","Tyto furcata","L19970536","Comanche National Grassland, La Junta US-CO 37.78261, -103.48468","2026-07-18 01:23",1,37.782608,-103.484678,TRUE,FALSE,TRUE,"S373374567",NA
-"224","brnowl","American Barn Owl","Tyto furcata","L128890","Bentsen-Rio Grande Val. SP WBC (Mission) (LTC 069)","2026-07-18 01:02",1,26.1796748,-98.3842338,TRUE,FALSE,FALSE,"S374305344",NA
-"225","brnowl","American Barn Owl","Tyto furcata","L190743","Antelope Island SP","2026-07-18",1,41.0465405,-112.2383881,TRUE,FALSE,FALSE,"S374168121",NA
-"226","brnowl","American Barn Owl","Tyto furcata","L73773674","Herbert Hoover Dikea, Moore Haven US-FL (26.9787,-81.0890)","2026-07-17 22:50",1,26.978658,-81.089042,TRUE,FALSE,TRUE,"S373331025",NA
-"227","brnowl","American Barn Owl","Tyto furcata","L815222","Woodley Island","2026-07-17 22:01",1,40.809868,-124.161412,TRUE,FALSE,FALSE,"S373341656",NA
-"228","brnowl","American Barn Owl","Tyto furcata","L64741438","Dole Road Myrtle Creek Private Property","2026-07-17 21:34",1,43.071678,-123.360153,TRUE,FALSE,TRUE,"S373338153",NA
-"229","brnowl","American Barn Owl","Tyto furcata","L7362843","Portola Valley Ranch","2026-07-17 21:30",1,37.3654504,-122.2096825,TRUE,FALSE,FALSE,"S374090576",NA
-"230","brnowl","American Barn Owl","Tyto furcata","L6614711","Fremont Park","2026-07-17 21:01",4,38.5711824,-121.4888576,TRUE,FALSE,FALSE,"S373617515",NA
-"231","brnowl","American Barn Owl","Tyto furcata","L15312742","Melmont Rd, Nampa US-ID 43.41576, -116.61884","2026-07-17 20:58",2,43.41576,-116.618837,TRUE,FALSE,TRUE,"S373339313",NA
-"232","brnowl","American Barn Owl","Tyto furcata","L2898459","Greaterville Road--between Hwy 83 and Box Canyon Rd","2026-07-17 20:50",1,31.7767701,-110.7229618,TRUE,FALSE,FALSE,"S373332476",NA
-"233","brnowl","American Barn Owl","Tyto furcata","L5040255","Cole Canyon Trail--Sykes Ranch Park","2026-07-17 20:22",1,33.5605023,-117.2374195,TRUE,FALSE,FALSE,"S373333140",NA
-"234","brnowl","American Barn Owl","Tyto furcata","L466488","Peninsula Open Space Trust--Wavecrest (Smith Field and blufftop area)","2026-07-17 19:41",2,37.4465089,-122.4378368,TRUE,FALSE,FALSE,"S373334540",NA
-"235","brnowl","American Barn Owl","Tyto furcata","L73774697","4492–4498 Willow Creek Rd, Orovada US-NV 41.66059, -117.73742","2026-07-17 19:08",1,41.660587,-117.737417,TRUE,FALSE,TRUE,"S373334944",NA
-"236","brnowl","American Barn Owl","Tyto furcata","L73737735","Larkspur Path, Larkspur US-CA (37.9319,-122.5326)","2026-07-17 10:47",1,37.931891,-122.532577,TRUE,FALSE,TRUE,"S373193571",NA
-"237","brnowl","American Barn Owl","Tyto furcata","L31266277","Waters End Neighborhood (Private Community)","2026-07-17 08:15",1,33.105921,-117.315617,TRUE,FALSE,TRUE,"S373620613",NA
-"238","brnowl","American Barn Owl","Tyto furcata","L931500","South Fork Wildlife Area--Hanning Flat","2026-07-17 08:14",1,35.6701272,-118.3697891,TRUE,FALSE,FALSE,"S373166470",NA
-"239","brnowl","American Barn Owl","Tyto furcata","L815817","Frank G. Bonelli RP/Puddingstone Reservoir and vicinity","2026-07-17 07:10",1,34.0870104,-117.8050125,TRUE,FALSE,FALSE,"S373333080",NA
-"240","brnowl","American Barn Owl","Tyto furcata","L42614248","Mortensen House","2026-07-17 07:00",1,37.245573,-106.0199942,TRUE,TRUE,TRUE,"S373213712",NA
-"241","brnowl","American Barn Owl","Tyto furcata","L697005","Mission Adobe Nursery","2026-07-17 06:47",1,37.5795316,-121.9909537,TRUE,FALSE,FALSE,"S373119066",NA
-"242","brnowl","American Barn Owl","Tyto furcata","L4251878","Southern Sierra Research Station","2026-07-17 05:25",1,35.6869342,-118.2895552,TRUE,FALSE,FALSE,"S373097530",NA
-"243","brnowl","American Barn Owl","Tyto furcata","L69233715","Ladd Marsh WMA — Elk Trap MAPS Banding Station","2026-07-17 05:00",1,45.252618,-117.994767,TRUE,FALSE,TRUE,"S373190852",NA
-"244","brnowl","American Barn Owl","Tyto furcata","L2763979","Via Arroyo","2026-07-17 04:00",1,34.2917929,-119.2077112,TRUE,FALSE,TRUE,"S373616511",NA
-"245","brnowl","American Barn Owl","Tyto furcata","L51886928","765 NW Fifth St, Corvallis OR","2026-07-17 03:32",1,44.571078,-123.259511,TRUE,FALSE,TRUE,"S373170273",NA
-"246","brnowl","American Barn Owl","Tyto furcata","L34747889","US 109","2026-07-17 00:42",1,37.7363326,-103.424285,TRUE,FALSE,TRUE,"S374364702",NA
-"247","brnowl","American Barn Owl","Tyto furcata","L73776694","16213–16345 Wilson River Hwy, Tillamook US-OR 45.48196, -123.69823","2026-07-17 00:35",1,45.481956,-123.698227,TRUE,FALSE,TRUE,"S373344341",NA
-"248","brnowl","American Barn Owl","Tyto furcata","L1108347","736 Cieneguitas Rd, Santa Barbara","2026-07-16 22:56",1,34.4499005,-119.7582078,TRUE,FALSE,TRUE,"S372975339",NA
-"249","brnowl","American Barn Owl","Tyto furcata","L608397","Hayfork WTP","2026-07-16 21:30",1,40.541004,-123.2032156,TRUE,FALSE,FALSE,"S373238355",NA
-"250","brnowl","American Barn Owl","Tyto furcata","L40863223","Fort Maley","2026-07-16 21:15",1,37.7373576,-122.4525121,TRUE,FALSE,TRUE,"S372957669",NA
-"251","brnowl","American Barn Owl","Tyto furcata","L212642","Lafayette Reservoir","2026-07-16 21:13",3,37.881609,-122.1425327,TRUE,FALSE,FALSE,"S372956359",NA
-"252","brnowl","American Barn Owl","Tyto furcata","L1135995","Calavera Lake & Nature Preserve","2026-07-16 20:48",1,33.1704153,-117.2850394,TRUE,FALSE,FALSE,"S372953489",NA
-"253","brnowl","American Barn Owl","Tyto furcata","L73678667","10025 Nebo Rd, Nebo US-KY (37.3813,-87.6648)","2026-07-16 20:06",1,37.381287,-87.664803,TRUE,FALSE,TRUE,"S372933438",NA
-"254","brnowl","American Barn Owl","Tyto furcata","L59189331","Trail","2026-07-16 20:05",5,40.961783,-111.927351,TRUE,TRUE,TRUE,"S372953527",NA
-"255","brnowl","American Barn Owl","Tyto furcata","L128987","High Island (UTC 051)","2026-07-16 19:40",1,29.565224,-94.3963361,TRUE,FALSE,FALSE,"S372932023",NA
-"256","brnowl","American Barn Owl","Tyto furcata","L4157282","Smith Oaks Rookery Count (Houston Audubon Staff)","2026-07-16 18:51",1,29.5758645,-94.3901432,TRUE,FALSE,FALSE,"S372938725",NA
-"257","brnowl","American Barn Owl","Tyto furcata","L55081078","San Elijo Lagoon Ecological Reserve, Encinitas US-CA 33.01205, -117.27106","2026-07-16 18:39",2,33.01205,-117.271059,TRUE,FALSE,TRUE,"S372949235",NA
-"258","brnowl","American Barn Owl","Tyto furcata","L19951004","6406 Sperry Rd, Mount Hood Parkdale US-OR 45.54427, -121.62926","2026-07-16 17:12",1,45.544267,-121.629262,TRUE,FALSE,TRUE,"S374170157",NA
-"259","brnowl","American Barn Owl","Tyto furcata","L59142961","Grisley Woods Land and Water Reserve - Private","2026-07-16 17:08",2,37.7999615,-88.8375473,TRUE,TRUE,TRUE,"S373285141",NA
-"260","brnowl","American Barn Owl","Tyto furcata","L33017115","Ferrari Pond","2026-07-16 13:06",1,38.8493423,-121.2723389,TRUE,FALSE,TRUE,"S374874458",NA
-"261","brnowl","American Barn Owl","Tyto furcata","L1023253","Torrey Pines State Reserve--Extension","2026-07-16 12:45",NA,32.9386565,-117.2527564,TRUE,FALSE,FALSE,"S372938852",NA
-"262","brnowl","American Barn Owl","Tyto furcata","L2164629","Loco Lagoon (formerly Conoco Pond)","2026-07-16 11:58",1,32.8089189,-103.7512779,TRUE,FALSE,FALSE,"S372853923",NA
-"263","brnowl","American Barn Owl","Tyto furcata","L63956565","Yolo Bypass Wildlife Area (CA Atlas - Sacramento West SW)","2026-07-16 10:40",2,38.536186,-121.620405,TRUE,FALSE,FALSE,"S373002196",NA
-"264","brnowl","American Barn Owl","Tyto furcata","L370768","Golden Gate Park--North Lake","2026-07-16 09:37",1,37.7700193,-122.5028801,TRUE,FALSE,FALSE,"S372826567",NA
-"265","brnowl","American Barn Owl","Tyto furcata","L6136749","Carmelite Monastery","2026-07-16 09:30",1,37.347199,-121.953402,TRUE,FALSE,FALSE,"S373299734",NA
-"266","brnowl","American Barn Owl","Tyto furcata","L2399913","Harshaw Rd--Corral Canyon","2026-07-16 09:19",1,31.4590247,-110.6708354,TRUE,FALSE,FALSE,"S372801614",NA
-"267","brnowl","American Barn Owl","Tyto furcata","L60844413","CABBA—Val Verde SE","2026-07-16 09:08",1,34.411073,-118.66961,TRUE,FALSE,TRUE,"S375436846",NA
-"268","brnowl","American Barn Owl","Tyto furcata","L30095745","1500 River Road, Gonzales, California, US (36.484, -121.505)","2026-07-16 09:07",NA,36.484424,-121.5053701,TRUE,FALSE,TRUE,"S372808482",NA
-"269","brnowl","American Barn Owl","Tyto furcata","L73581648","Somis Lemon Orchard","2026-07-16 09:04",1,34.292535,-119.051552,TRUE,FALSE,TRUE,"S372821678",NA
-"270","brnowl","American Barn Owl","Tyto furcata","L4625989","US-Oregon-Summer Lake - 42.946x-120.742 - May 21, 2016 10:17 AM","2026-07-16 08:31",5,42.9461006,-120.7419537,TRUE,FALSE,TRUE,"S372955354",NA
-"271","brnowl","American Barn Owl","Tyto furcata","L46687219","Unnamed Road, Novato, California, US (38.09, -122.537)","2026-07-16 07:16",NA,38.0900217,-122.5367421,TRUE,FALSE,TRUE,"S372867554",NA
-"272","brnowl","American Barn Owl","Tyto furcata","L613438","Klamath Wildlife Area Miller Island Unit","2026-07-16 07:03",1,42.1551736,-121.8082073,TRUE,FALSE,FALSE,"S372822113",NA
-"273","brnowl","American Barn Owl","Tyto furcata","L5219209","BRG4 WEST","2026-07-16 06:30",NA,43.6597641,-116.2791233,TRUE,FALSE,TRUE,"S372777440",NA
-"274","brnowl","American Barn Owl","Tyto furcata","L4200718","Home","2026-07-16 06:22",1,37.9021363,-95.4799891,TRUE,FALSE,TRUE,"S372718295",NA
-"275","brnowl","American Barn Owl","Tyto furcata","L6253754","8221 North Col Rowe Boulevard, McAllen, Texas, US (26.278, -98.208)","2026-07-16 06:10",1,26.2778628,-98.2084179,TRUE,FALSE,TRUE,"S374128595",NA
-"276","brnowl","American Barn Owl","Tyto furcata","L73682509","1295 Rockland Dr, Saint Helena US-CA 38.52000, -122.49668","2026-07-16 05:50",1,38.519997,-122.496677,TRUE,FALSE,TRUE,"S372948404",NA
-"277","brnowl","American Barn Owl","Tyto furcata","L721381","South Fork Wildlife Area--KOA Access","2026-07-16 05:02",1,35.657767,-118.343697,TRUE,FALSE,FALSE,"S373709552",NA
-"278","brnowl","American Barn Owl","Tyto furcata","L57404771","San Elijo Lagoon--east (CA Atlas - Rancho Santa Fe SW)","2026-07-16 05:00",1,33.0096658,-117.2431639,TRUE,FALSE,FALSE,"S372807332",NA
-"279","brnowl","American Barn Owl","Tyto furcata","L60624116","Miami Foley Road, Garibaldi, Oregon, US (45.585, -123.875)","2026-07-16 01:24",1,45.5854951,-123.8753148,TRUE,FALSE,TRUE,"S373224858",NA
-"280","brnowl","American Barn Owl","Tyto furcata","L73603516","University Park","2026-07-15 23:06",1,33.66246,-117.824836,TRUE,FALSE,TRUE,"S372613877",NA
-"281","brnowl","American Barn Owl","Tyto furcata","L14974324","HI: Ouli Gulch (2161' el.) / Lanikepu Valley / Kamuela View Estates","2026-07-15 22:21",1,20.0266318,-155.7182075,TRUE,FALSE,TRUE,"S372645155","N"
-"282","brnowl","American Barn Owl","Tyto furcata","L31157234","Ventura--Flint St.","2026-07-15 22:12",1,34.2935317,-119.2985876,TRUE,FALSE,TRUE,"S372602725",NA
-"283","brnowl","American Barn Owl","Tyto furcata","L725247","Moonlight SB","2026-07-15 22:11",1,33.0480961,-117.2982895,TRUE,FALSE,FALSE,"S372602426",NA
-"284","brnowl","American Barn Owl","Tyto furcata","L74171462","Barnes Canyon Trailhead-Back 40, Caliente US-NV 37.61003, -114.44735","2026-07-15 22:10",1,37.610031,-114.447354,TRUE,FALSE,TRUE,"S375181160",NA
-"285","brnowl","American Barn Owl","Tyto furcata","L2450783","Balboa Park--Marston Canyon","2026-07-15 22:00",1,32.7437654,-117.1523323,TRUE,FALSE,FALSE,"S372620092",NA
-"286","brnowl","American Barn Owl","Tyto furcata","L25551972","Home","2026-07-15 21:59",1,25.6769361,-80.3205319,TRUE,FALSE,TRUE,"S372576763",NA
-"287","brnowl","American Barn Owl","Tyto furcata","L191651","Big Pine","2026-07-15 21:46",2,37.16493,-118.28993,TRUE,FALSE,TRUE,"S372601493",NA
-"288","brnowl","American Barn Owl","Tyto furcata","L73607181","Sheraton Waikīkī","2026-07-15 21:30",1,21.27718,-157.830536,TRUE,FALSE,TRUE,"S372633958","N"
-"289","brnowl","American Barn Owl","Tyto furcata","L373341","Robinson Canyon--mp 8.5 to watershed summit (~mp 5)","2026-07-15 21:17",1,36.4895411,-121.8113422,TRUE,FALSE,FALSE,"S372597232",NA
-"290","brnowl","American Barn Owl","Tyto furcata","L9099944","University of Florida--McCarty Woods","2026-07-15 20:59",1,29.6452949,-82.3445235,TRUE,FALSE,FALSE,"S372568900",NA
-"291","brnowl","American Barn Owl","Tyto furcata","L3065745","Summer Lake Wildlife Area Headquarters","2026-07-15 20:44",1,42.9549463,-120.7868671,TRUE,FALSE,FALSE,"S372590108",NA
-"292","brnowl","American Barn Owl","Tyto furcata","L6244093","Farmington Lakes","2026-07-15 18:40",1,40.975192,-111.8185526,TRUE,FALSE,FALSE,"S372888308",NA
-"293","brnowl","American Barn Owl","Tyto furcata","L629358","Mt. Pisgah Arboretum","2026-07-15 18:30",1,44.006462,-122.9810429,TRUE,FALSE,FALSE,"S372575576",NA
-"294","brnowl","American Barn Owl","Tyto furcata","L1023544","Wellington Environmental Preserve","2026-07-15 18:02",1,26.6293528,-80.3059387,TRUE,FALSE,FALSE,"S372563712",NA
-"295","brnowl","American Barn Owl","Tyto furcata","L212323","Lee Kay Ponds","2026-07-15 17:06",2,40.7397136,-112.0437241,TRUE,FALSE,FALSE,"S372576176",NA
-"296","brnowl","American Barn Owl","Tyto furcata","L887381","Fort Stevens SP--South Jetty/Parking Area C","2026-07-15 10:54",1,46.2286726,-124.0217721,TRUE,FALSE,FALSE,"S372476224",NA
-"297","brnowl","American Barn Owl","Tyto furcata","L14304631","Goose Pond FWA--GP18","2026-07-15 10:03",1,38.9748983,-87.2324248,TRUE,FALSE,FALSE,"S372513231",NA
-"298","brnowl","American Barn Owl","Tyto furcata","L934338","Mangas Springs","2026-07-15 08:17",1,32.8418443,-108.5108471,TRUE,FALSE,FALSE,"S372467121",NA
-"299","brnowl","American Barn Owl","Tyto furcata","L1190482","Turtle Rock Community Park","2026-07-15 08:00",1,33.6329872,-117.8055382,TRUE,FALSE,FALSE,"S372502820",NA
-"300","brnowl","American Barn Owl","Tyto furcata","L855608","Carrizo Plain NM--Visitor Center","2026-07-15 06:37",2,35.1899143,-119.8633606,TRUE,FALSE,FALSE,"S372861223",NA
-"301","brnowl","American Barn Owl","Tyto furcata","L73546550","50830–50908 Babel Slough Rd, Clarksburg US-CA 38.45737, -121.57034","2026-07-15 06:13",1,38.457368,-121.570337,TRUE,FALSE,TRUE,"S372373464",NA
-"302","brnowl","American Barn Owl","Tyto furcata","L686411","Wood River Wetland","2026-07-15 04:20",1,42.58108,-121.9284,TRUE,FALSE,FALSE,"S372432941",NA
-"303","brnowl","American Barn Owl","Tyto furcata","L73536567","11101–13499 CA-46, Paso Robles US-CA 35.65894, -120.47955","2026-07-15 04:13",1,35.658939,-120.479549,TRUE,FALSE,TRUE,"S372323316",NA
-"304","brnowl","American Barn Owl","Tyto furcata","L803734","Inyokern--South of Hwy 178","2026-07-15 03:51",1,35.6356568,-117.8090143,TRUE,FALSE,FALSE,"S372541676",NA
-"305","brnowl","American Barn Owl","Tyto furcata","L65166147","LYMA'S Nest","2026-07-15 02:36",1,31.5161122,-110.2698959,TRUE,FALSE,TRUE,"S372345875",NA
+"","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
+"1","renpha","Red-necked Phalarope","Phalaropus lobatus","L3870984","Snow Passage (S of Sumner Strait)","2026-07-25 19:59",150,56.3099655,-133.0960693,TRUE,FALSE,FALSE,"S376457830"
+"2","renpha","Red-necked Phalarope","Phalaropus lobatus","L32378439","South Kalmer","2026-07-25 19:16",1,44.042341,-92.582101,TRUE,FALSE,TRUE,"S376418015"
+"3","renpha","Red-necked Phalarope","Phalaropus lobatus","L453066","Arroyo Grande Creek mouth","2026-07-25 18:28",9,35.1001785,-120.6287241,TRUE,FALSE,FALSE,"S376453731"
+"4","renpha","Red-necked Phalarope","Phalaropus lobatus","L109309","Pt. Pinos--seawatch only","2026-07-25 14:43",2,36.6373821,-121.9357538,TRUE,FALSE,FALSE,"S376384193"
+"5","renpha","Red-necked Phalarope","Phalaropus lobatus","L256022","Moss Landing Wildlife Area (former salt ponds; some access restricted)","2026-07-25 14:28",1,36.8171904,-121.7794888,TRUE,FALSE,FALSE,"S376391260"
+"6","renpha","Red-necked Phalarope","Phalaropus lobatus","L2182908","North Ottawa Impoundment","2026-07-25 13:34",1,45.9856315,-96.2471008,TRUE,FALSE,FALSE,"S376441906"
+"7","renpha","Red-necked Phalarope","Phalaropus lobatus","L30867246","SE Clifton WMA","2026-07-25 13:33",3,44.3706962,-95.6146923,TRUE,FALSE,FALSE,"S376325669"
+"8","renpha","Red-necked Phalarope","Phalaropus lobatus","L470891","Hayward Regional Shoreline--Winton Ave. access and parking area","2026-07-25 12:00",1,37.6465875,-122.1467042,TRUE,FALSE,FALSE,"S376367288"
+"9","renpha","Red-necked Phalarope","Phalaropus lobatus","L150985","South Landfill Reservoir","2026-07-25 11:44",1,44.0396171,-92.5845122,TRUE,FALSE,FALSE,"S376318659"
+"10","renpha","Red-necked Phalarope","Phalaropus lobatus","L757565","Zuniga Jetty","2026-07-25 11:33",7,32.6790529,-117.22345,TRUE,FALSE,FALSE,"S376370549"
+"11","renpha","Red-necked Phalarope","Phalaropus lobatus","L246035","Famosa Slough","2026-07-25 11:29",1,32.7514463,-117.2287632,TRUE,FALSE,FALSE,"S376309526"
+"12","renpha","Red-necked Phalarope","Phalaropus lobatus","L297806","Santa Clara River Estuary","2026-07-25 11:25",80,34.2316739,-119.2627716,TRUE,FALSE,FALSE,"S376344125"
+"13","renpha","Red-necked Phalarope","Phalaropus lobatus","L2353789","Salt Pond A9","2026-07-25 11:10",1,37.458236,-122.009367,TRUE,FALSE,FALSE,"S376376106"
+"14","renpha","Red-necked Phalarope","Phalaropus lobatus","L484321","Turri Road Tidal Ponds","2026-07-25 10:55",3,35.3354332,-120.8218378,TRUE,FALSE,FALSE,"S376300302"
+"15","renpha","Red-necked Phalarope","Phalaropus lobatus","L594010","Spreckles Ave. Pond (State at Spreckles)","2026-07-25 10:44",2,37.43323,-121.966232,TRUE,FALSE,FALSE,"S376360435"
+"16","renpha","Red-necked Phalarope","Phalaropus lobatus","L2281594","American Falls Reservoir--Silo area","2026-07-25 10:42",1,42.7862163,-112.8645444,TRUE,FALSE,FALSE,"S376279716"
+"17","renpha","Red-necked Phalarope","Phalaropus lobatus","L351584","Ventura Settling Ponds","2026-07-25 09:30",1,34.2381312,-119.2615056,TRUE,FALSE,FALSE,"S376335339"
+"18","renpha","Red-necked Phalarope","Phalaropus lobatus","L74390818","Auto selected 59.91088, -149.48088","2026-07-25 09:29",4,59.910879,-149.480879,TRUE,FALSE,TRUE,"S376398384"
+"19","renpha","Red-necked Phalarope","Phalaropus lobatus","L1567697","Bar Harbor Whale/Pelagic Trip--Little Duck to Mount Desert Rock","2026-07-25 09:17",17,44.0650784,-68.1883621,TRUE,FALSE,FALSE,"S376318561"
+"20","renpha","Red-necked Phalarope","Phalaropus lobatus","L57612239","Piute Ponds (permit required) (CA Atlas - Rosamond Lake SW)","2026-07-25 09:15",3,34.7844594,-118.1182901,TRUE,FALSE,FALSE,"S376412123"
+"21","renpha","Red-necked Phalarope","Phalaropus lobatus","L480911","American Falls Dam to Willow Bay--ISS","2026-07-25 09:15",1,42.8098846,-112.8398895,TRUE,FALSE,FALSE,"S376240349"
+"22","renpha","Red-necked Phalarope","Phalaropus lobatus","L4751440","Newport Beach--nearshore (ORA Co.)","2026-07-25 08:51",3,33.5551278,-117.9141333,TRUE,FALSE,FALSE,"S376360224"
+"23","renpha","Red-necked Phalarope","Phalaropus lobatus","L1573995","San Francisco Bay Trail--Moffett Field","2026-07-25 08:15",4,37.4334763,-122.0617157,TRUE,FALSE,FALSE,"S376387910"
+"24","renpha","Red-necked Phalarope","Phalaropus lobatus","L208487","Oso Flaco Lake (not for beach/ocean)","2026-07-25 08:06",5,35.0302072,-120.6207848,TRUE,FALSE,FALSE,"S376407131"
+"25","renpha","Red-necked Phalarope","Phalaropus lobatus","L725175","Cuvier Park","2026-07-25 07:50",43,32.8430267,-117.2809121,TRUE,FALSE,FALSE,"S376460962"
+"26","renpha","Red-necked Phalarope","Phalaropus lobatus","L151122","Antelope Island SP--Causeway","2026-07-25 07:30",5000,41.08841,-112.186714,TRUE,FALSE,FALSE,"S376336470"
+"27","renpha","Red-necked Phalarope","Phalaropus lobatus","L256021","Moss Landing--Jetty Road, north jetty & State Beach","2026-07-25 07:30",4,36.8151691,-121.7900355,TRUE,FALSE,FALSE,"S376285885"
+"28","renpha","Red-necked Phalarope","Phalaropus lobatus","L73967594","Cayucos Beach","2026-07-25 07:22",1,35.4486095,-120.9057426,TRUE,FALSE,TRUE,"S376223535"
+"29","renpha","Red-necked Phalarope","Phalaropus lobatus","L600887","Rancho Guadalupe Dunes Preserve, including Santa Maria River Estuary (SBA Co.)","2026-07-25 07:06",3,34.9671044,-120.6473815,TRUE,FALSE,FALSE,"S376263138"
+"30","renpha","Red-necked Phalarope","Phalaropus lobatus","L3188299","Lower Otay Reservoir--east arm pullouts (including North Pt. gate)","2026-07-25 07:00",2,32.6341242,-116.9109792,TRUE,FALSE,FALSE,"S376236201"
+"31","renpha","Red-necked Phalarope","Phalaropus lobatus","L357823","Cottonwood WTP","2026-07-25 06:29",2,44.6117954,-95.6582165,TRUE,FALSE,FALSE,"S376121764"
+"32","renpha","Red-necked Phalarope","Phalaropus lobatus","L57035830","Piute Ponds (permit required) (CA Atlas - Rosamond Lake CW)","2026-07-25 06:20",2,34.797161,-118.117435,TRUE,FALSE,FALSE,"S376412366"
+"33","renpha","Red-necked Phalarope","Phalaropus lobatus","L209342","Henderson Bird Viewing Preserve","2026-07-25 06:15",1,36.0749791,-115.0021416,TRUE,FALSE,FALSE,"S376268137"
+"34","renpha","Red-necked Phalarope","Phalaropus lobatus","L966711","Bayshore Bikeway--13th Street (Ponds 22/20)","2026-07-25 05:45",150,32.5880078,-117.1059448,TRUE,FALSE,FALSE,"S376275441"
+"35","renpha","Red-necked Phalarope","Phalaropus lobatus","L599648","St. George Island","2026-07-24 23:04",3,56.5776409,-169.6069336,TRUE,FALSE,FALSE,"S376433257"
+"36","renpha","Red-necked Phalarope","Phalaropus lobatus","L1298816","Beach House","2026-07-24 17:24",25,45.252877,-123.966628,TRUE,FALSE,TRUE,"S375987460"
+"37","renpha","Red-necked Phalarope","Phalaropus lobatus","L3711113","Morro Bay Sandspit","2026-07-24 17:05",1,35.3274087,-120.8670158,TRUE,FALSE,FALSE,"S376042234"
+"38","renpha","Red-necked Phalarope","Phalaropus lobatus","L11364936","Old Chevak","2026-07-24 16:00",7,61.430935,-165.45134,TRUE,FALSE,FALSE,"S376284907"
+"39","renpha","Red-necked Phalarope","Phalaropus lobatus","L3869478","Annette Island--Race Pt.","2026-07-24 15:57",3,55.28503,-131.5698259,TRUE,FALSE,FALSE,"S375998738"
+"40","renpha","Red-necked Phalarope","Phalaropus lobatus","L4573354","Peterson Bay","2026-07-24 14:51",1,59.5743308,-151.2776184,TRUE,FALSE,FALSE,"S375983973"
+"41","renpha","Red-necked Phalarope","Phalaropus lobatus","L159585","Lake Abert","2026-07-24 14:13",NA,42.613,-120.2269,TRUE,FALSE,FALSE,"S375957307"
+"42","renpha","Red-necked Phalarope","Phalaropus lobatus","L9630980","Palos Verdes--nearshore (<2mi)","2026-07-24 12:41",1,33.687353,-118.359151,TRUE,FALSE,FALSE,"S376184878"
+"43","renpha","Red-necked Phalarope","Phalaropus lobatus","L1422055","Antelope Island SP--Marina","2026-07-24 11:40",1000,41.0614917,-112.2390532,TRUE,FALSE,FALSE,"S375870311"
+"44","renpha","Red-necked Phalarope","Phalaropus lobatus","L3545518","Shrine of St. Terese","2026-07-24 11:31",NA,58.4712901,-134.7841573,TRUE,FALSE,FALSE,"S376363178"
+"45","renpha","Red-necked Phalarope","Phalaropus lobatus","L74304706","Landfill Road And Boardwalk, Unalakleet, Alaska, US (63.881, -160.786)","2026-07-24 11:15",3,63.8812809,-160.7856568,TRUE,FALSE,TRUE,"S375932353"
+"46","renpha","Red-necked Phalarope","Phalaropus lobatus","L38465127","Off La Jolla (about 1.5 miles west)","2026-07-24 10:59",3,32.8311948,-117.3091111,TRUE,FALSE,TRUE,"S375957362"
+"47","renpha","Red-necked Phalarope","Phalaropus lobatus","L481023","Los Angeles River--Willow St.","2026-07-24 10:47",1,33.8048977,-118.2059383,TRUE,FALSE,FALSE,"S375891458"
+"48","renpha","Red-necked Phalarope","Phalaropus lobatus","L12348790","Lee Creek","2026-07-24 10:35",50,40.7732582,-112.1603194,TRUE,TRUE,FALSE,"S375935814"
+"49","renpha","Red-necked Phalarope","Phalaropus lobatus","L448084","Woodland WTP","2026-07-24 10:14",5,38.6624345,-121.7173585,TRUE,FALSE,FALSE,"S375884724"
+"50","renpha","Red-necked Phalarope","Phalaropus lobatus","L74310430","Pond A9 north levee - (Mtn View NE)","2026-07-24 09:44",80,37.4625485,-122.0101818,TRUE,FALSE,TRUE,"S375884996"
+"51","renpha","Red-necked Phalarope","Phalaropus lobatus","L12968236","Bolsa Chica Ecological Reserve-Backside (restricted access)","2026-07-24 09:38",9,33.7025628,-118.035571,TRUE,FALSE,FALSE,"S375869796"
+"52","renpha","Red-necked Phalarope","Phalaropus lobatus","L74282067","31st Ave NE, Harvey US-ND 47.89512, -99.91999","2026-07-24 09:31",150,47.895119,-99.91999,TRUE,FALSE,TRUE,"S375815981"
+"53","renpha","Red-necked Phalarope","Phalaropus lobatus","L1532020","San Dieguito Lagoon--Southeast & Dust Devil Trails","2026-07-24 09:25",1,32.9696861,-117.2395813,TRUE,FALSE,FALSE,"S375946361"
+"54","renpha","Red-necked Phalarope","Phalaropus lobatus","L33867856","Off Pacific Beach (about 4 miles west)","2026-07-24 09:22",13,32.7830929,-117.3289303,TRUE,FALSE,TRUE,"S375957411"
+"55","renpha","Red-necked Phalarope","Phalaropus lobatus","L72602847","Weir Camp Pond","2026-07-24 09:18",17,64.496459,-165.219033,TRUE,FALSE,TRUE,"S375972150"
+"56","renpha","Red-necked Phalarope","Phalaropus lobatus","L11677137","Carlsbad, Palomar Rd. Overlook","2026-07-24 08:21",3,33.1230858,-117.3286137,TRUE,FALSE,TRUE,"S375842171"
+"57","renpha","Red-necked Phalarope","Phalaropus lobatus","L74176222","Auto selected 58.47815, -152.23636","2026-07-24 08:03",NA,58.478145,-152.236364,TRUE,FALSE,TRUE,"S376250256"
+"58","renpha","Red-necked Phalarope","Phalaropus lobatus","L2066077","NAS North Island--Navy Lodge, Heritage Park, & beach (restricted access)","2026-07-24 08:00",1,32.6877595,-117.2083229,TRUE,FALSE,FALSE,"S376011490"
+"59","renpha","Red-necked Phalarope","Phalaropus lobatus","L1989101","Los Penasquitos Lagoon--mouth & beach","2026-07-24 06:50",3,32.9339432,-117.2603633,TRUE,FALSE,FALSE,"S375917634"
+"60","renpha","Red-necked Phalarope","Phalaropus lobatus","L299782","Burlington Lake (Goldeneye Reservoir)","2026-07-24 06:50",2,43.019333,-106.7073727,TRUE,FALSE,FALSE,"S375932859"
+"61","renpha","Red-necked Phalarope","Phalaropus lobatus","L233548","Point La Jolla--seawatch","2026-07-24 06:45",8,32.8507576,-117.2735641,TRUE,FALSE,FALSE,"S375929992"
+"62","renpha","Red-necked Phalarope","Phalaropus lobatus","L781318","Gustavus--Forelands","2026-07-24 06:35",15,58.4121436,-135.724411,TRUE,FALSE,FALSE,"S375833804"
+"63","renpha","Red-necked Phalarope","Phalaropus lobatus","L1838049","Santa Ana River at Greenspot Rd.","2026-07-24 06:34",1,34.0985517,-117.1172389,TRUE,TRUE,FALSE,"S375833918"
+"64","renpha","Red-necked Phalarope","Phalaropus lobatus","L1165694","Bolsa Chica--walkbridge/inner bay","2026-07-24 06:22",1,33.6965128,-118.0451372,TRUE,FALSE,FALSE,"S375855277"
+"65","renpha","Red-necked Phalarope","Phalaropus lobatus","L275227","Piute Ponds (permit required)","2026-07-24 06:05",3,34.7901193,-118.1181776,TRUE,FALSE,FALSE,"S375938939"
+"66","renpha","Red-necked Phalarope","Phalaropus lobatus","L716993","Chester Creek and Fish Creek Mouths (Audubon Bench and Fish Creek Bench)","2026-07-23 20:04",1,61.2075708,-149.9289732,TRUE,FALSE,FALSE,"S375846685"
+"67","renpha","Red-necked Phalarope","Phalaropus lobatus","L352554","Fargo--Sewage Settling Ponds","2026-07-23 18:39",2,46.9626441,-96.8402598,TRUE,FALSE,FALSE,"S375614193"
+"68","renpha","Red-necked Phalarope","Phalaropus lobatus","L74252307","Knik Arm, Anchorage US-AK (61.2086,-149.9297)","2026-07-23 18:36",1,61.208552,-149.929744,TRUE,FALSE,TRUE,"S375635622"
+"69","renpha","Red-necked Phalarope","Phalaropus lobatus","L598440","Salinas River NWR","2026-07-23 18:29",32,36.7354169,-121.8033385,TRUE,FALSE,FALSE,"S375636671"
+"70","renpha","Red-necked Phalarope","Phalaropus lobatus","L757539","Wilderness Rd.","2026-07-23 18:02",1,40.7347385,-82.0710897,TRUE,TRUE,FALSE,"S375617673"
+"71","renpha","Red-necked Phalarope","Phalaropus lobatus","L74251261","Pacific ocean, Lane County 2","2026-07-23 17:26",2,44.304927,-126.596244,TRUE,TRUE,TRUE,"S375630610"
+"72","renpha","Red-necked Phalarope","Phalaropus lobatus","L465131","Mission Creek outflow","2026-07-23 17:01",1,34.4127959,-119.6869361,TRUE,FALSE,FALSE,"S375603741"
+"73","renpha","Red-necked Phalarope","Phalaropus lobatus","L5993045","Utqiaġvik--South Salt Lagoons (south beach) & Nathaniel Olemaun Jr. Blvd. (NE end)","2026-07-23 16:51",1,71.3053603,-156.728797,TRUE,FALSE,FALSE,"S375623014"
+"74","renpha","Red-necked Phalarope","Phalaropus lobatus","L74252842","Pintail Loop","2026-07-23 16:43",5,55.301338,-162.73071,TRUE,FALSE,TRUE,"S375638513"
+"75","renpha","Red-necked Phalarope","Phalaropus lobatus","L34820967","Kachemak Bay","2026-07-23 16:00",1,59.5665919,-151.4592546,TRUE,FALSE,TRUE,"S375837860"
+"76","renpha","Red-necked Phalarope","Phalaropus lobatus","L74251099","Pt Mary to Kalinin","2026-07-23 15:50",25,57.151446,-135.936569,TRUE,FALSE,TRUE,"S375629804"
+"77","renpha","Red-necked Phalarope","Phalaropus lobatus","L292324","Homer Spit","2026-07-23 14:00",17,59.6130805,-151.4467049,TRUE,FALSE,FALSE,"S375648852"
+"78","renpha","Red-necked Phalarope","Phalaropus lobatus","L802931","Elkhorn Slough--Estrada & North marsh and/or Kirby Park","2026-07-23 14:00",120,36.8404781,-121.7424688,TRUE,FALSE,FALSE,"S375592593"
+"79","renpha","Red-necked Phalarope","Phalaropus lobatus","L368442","Sham Lake","2026-07-23 13:34",3,44.6188,-95.6597,TRUE,FALSE,FALSE,"S375517818"
+"80","renpha","Red-necked Phalarope","Phalaropus lobatus","L251458","Homer Spit--Mud Bay","2026-07-23 13:24",2,59.635823,-151.4965296,TRUE,FALSE,FALSE,"S375566137"
+"81","renpha","Red-necked Phalarope","Phalaropus lobatus","L74242429","Albert Loop Trail, Anchorage US-AK 61.22500, -149.27381","2026-07-23 12:33",3,61.225004,-149.273811,TRUE,FALSE,TRUE,"S375577704"
+"82","renpha","Red-necked Phalarope","Phalaropus lobatus","L74291361","Utqiagvik-- Nunavaaq Rd Ponds","2026-07-23 11:03",2,71.270228,-156.823182,TRUE,FALSE,TRUE,"S375864647"
+"83","renpha","Red-necked Phalarope","Phalaropus lobatus","L159618","Yaquina Head Outstanding Natural Area","2026-07-23 10:07",59,44.6757053,-124.0724874,TRUE,FALSE,FALSE,"S375557378"
+"84","renpha","Red-necked Phalarope","Phalaropus lobatus","L5810161","Kotzebue (village)","2026-07-23 09:52",26,66.8983909,-162.5873995,TRUE,FALSE,FALSE,"S375517196"
+"85","renpha","Red-necked Phalarope","Phalaropus lobatus","L480831","Mono Lake--Navy Beach","2026-07-23 09:18",5,37.9407623,-119.0213192,TRUE,FALSE,FALSE,"S376441660"
+"86","renpha","Red-necked Phalarope","Phalaropus lobatus","L74222986","Pacific Ocean off Crescent City, California","2026-07-23 08:01",1,41.270468,-125.393378,TRUE,FALSE,TRUE,"S375476437"
+"87","renpha","Red-necked Phalarope","Phalaropus lobatus","L2376387","Los Angeles River--Glendale Narrows Riverwalk area","2026-07-23 07:59",2,34.1564737,-118.2869196,TRUE,FALSE,FALSE,"S375538505"
+"88","renpha","Red-necked Phalarope","Phalaropus lobatus","L23925184","Nichols Passage","2026-07-23 07:53",1,55.288407,-131.594686,TRUE,FALSE,TRUE,"S375512352"
+"89","renpha","Red-necked Phalarope","Phalaropus lobatus","L468385","Kennedy WTP","2026-07-23 07:24",1,48.6486895,-96.9347334,TRUE,FALSE,FALSE,"S375387398"
+"90","renpha","Red-necked Phalarope","Phalaropus lobatus","L109133","Edwin B. Forsythe NWR (formerly Brig)","2026-07-23 07:21",3,39.465,-74.4477778,TRUE,TRUE,FALSE,"S375465833"
+"91","renpha","Red-necked Phalarope","Phalaropus lobatus","L2222747","Utqiaġvik--Eastfield Rd.","2026-07-23 07:10",1,71.2500397,-156.6301918,TRUE,FALSE,FALSE,"S376294630"
+"92","renpha","Red-necked Phalarope","Phalaropus lobatus","L869900","Wild Horse Reservoir","2026-07-22 19:12",150,41.64816,-115.7924652,TRUE,FALSE,FALSE,"S375271738"
+"93","renpha","Red-necked Phalarope","Phalaropus lobatus","L74187960","Ellen Browning Scripps Park, San Diego US-CA (32.8494,-117.2754)","2026-07-22 18:57",2,32.849352,-117.275372,TRUE,FALSE,TRUE,"S375270700"
+"94","renpha","Red-necked Phalarope","Phalaropus lobatus","L6206084","Onondaga Lake Park--Marshy Spits Area","2026-07-22 18:54",1,43.065508,-76.192503,TRUE,TRUE,FALSE,"S375233524"
+"95","renpha","Red-necked Phalarope","Phalaropus lobatus","L74181992","Onondaga Lake Park, Syracuse US-NY (43.0618,-76.1877)","2026-07-22 18:50",1,43.061786,-76.187704,TRUE,TRUE,TRUE,"S375238280"
+"96","renpha","Red-necked Phalarope","Phalaropus lobatus","L218129","Ballona Wetlands Ecological Reserve (salt pan)","2026-07-22 18:30",6,33.9657863,-118.4442902,TRUE,FALSE,FALSE,"S375263149"
+"97","renpha","Red-necked Phalarope","Phalaropus lobatus","L9297170","Second Bridge (lagoon and wetlands)","2026-07-22 18:03",2,66.8949965,-162.566362,TRUE,FALSE,FALSE,"S375268411"
+"98","renpha","Red-necked Phalarope","Phalaropus lobatus","L3717427","Nome-Council Rd.--Safety Sound Bridge to Last Train to Nowhere","2026-07-22 17:36",4,64.5153332,-164.5622527,TRUE,FALSE,FALSE,"S375283194"
+"99","renpha","Red-necked Phalarope","Phalaropus lobatus","L2222152","Denali Hwy.--Oscar Creek Lakes (mm 48 to mm 52)","2026-07-22 17:30",3,63.073173,-146.7022739,TRUE,FALSE,FALSE,"S375300322"
+"100","renpha","Red-necked Phalarope","Phalaropus lobatus","L92448","Edwin B. Forsythe NWR--Wildlife Drive (8-mile auto tour loop only)","2026-07-22 16:27",2,39.464298,-74.417612,TRUE,TRUE,FALSE,"S375229486"
+"101","renpha","Red-necked Phalarope","Phalaropus lobatus","L422817","Coal Oil Point, Devereux Beach, Sands Beach, and bluff trails","2026-07-22 16:05",1,34.4071359,-119.8783064,TRUE,FALSE,FALSE,"S375270157"
+"102","renpha","Red-necked Phalarope","Phalaropus lobatus","L1579238","Utqiaġvik--Cakeeater Rd.","2026-07-22 16:01",3,71.2879072,-156.6631195,TRUE,FALSE,FALSE,"S375623802"
+"103","renpha","Red-necked Phalarope","Phalaropus lobatus","L1579480","Utqiaġvik--Gas Well Rd. (East of New Landfill Rd.)","2026-07-22 14:53",NA,71.2495479,-156.4652919,TRUE,FALSE,FALSE,"S375629383"
+"104","renpha","Red-necked Phalarope","Phalaropus lobatus","L989821","Ocean Beach Park and Santa Ynez River Estuary","2026-07-22 14:30",8,34.6909567,-120.6003785,TRUE,FALSE,FALSE,"S375233339"
+"105","renpha","Red-necked Phalarope","Phalaropus lobatus","L2901555","Utqiaġvik--New Landfill Rd.","2026-07-22 14:30",1,71.2502605,-156.5665054,TRUE,FALSE,FALSE,"S375629571"
+"106","renpha","Red-necked Phalarope","Phalaropus lobatus","L869692","Wells WTP","2026-07-22 12:11",2,41.1306699,-114.9924803,TRUE,FALSE,FALSE,"S375965415"
+"107","renpha","Red-necked Phalarope","Phalaropus lobatus","L3065745","Summer Lake Wildlife Area Headquarters","2026-07-22 11:38",35,42.9549463,-120.7868671,TRUE,FALSE,FALSE,"S375271608"
+"108","renpha","Red-necked Phalarope","Phalaropus lobatus","L3927005","Cook Inlet--Dangerous Cape to Cape Elizabeth","2026-07-22 11:00",2,59.3758005,-152.0043125,TRUE,FALSE,FALSE,"S375483968"
+"109","renpha","Red-necked Phalarope","Phalaropus lobatus","L280205","Santa Rosa Creek mouth","2026-07-22 10:52",1,35.5683274,-121.1102353,TRUE,FALSE,FALSE,"S375223278"
+"110","renpha","Red-necked Phalarope","Phalaropus lobatus","L22137021","Buchli Station Rd wetlands","2026-07-22 10:17",5,38.2141832,-122.3309183,TRUE,FALSE,FALSE,"S375155380"
+"111","renpha","Red-necked Phalarope","Phalaropus lobatus","L190275","Carson Lake","2026-07-22 09:20",1,39.33693,-118.734726,TRUE,FALSE,FALSE,"S375155057"
+"112","renpha","Red-necked Phalarope","Phalaropus lobatus","L497626","Mono Lake--South Tufa area ","2026-07-22 08:49",5,37.9418284,-119.0278316,TRUE,FALSE,FALSE,"S376441553"
+"113","renpha","Red-necked Phalarope","Phalaropus lobatus","L506275","San Diego River mudflats (including Robb Field & Quivira Way)","2026-07-22 08:36",4,32.75684,-117.23911,TRUE,FALSE,FALSE,"S375125922"
+"114","renpha","Red-necked Phalarope","Phalaropus lobatus","L1181258","AK: NOME--Council Rd MP32.6 (Bonanza Channel Bridge)","2026-07-22 08:28",1,64.54483,-164.43668,TRUE,FALSE,TRUE,"S375282768"
+"115","renpha","Red-necked Phalarope","Phalaropus lobatus","L16648065","Rat Farm Road","2026-07-22 08:13",6,41.0903663,-121.4082598,TRUE,TRUE,FALSE,"S375277270"
+"116","renpha","Red-necked Phalarope","Phalaropus lobatus","L1509906","Utah Lake Parkway Trail (North Shore)","2026-07-22 07:10",46,40.3622447,-111.8832118,TRUE,TRUE,FALSE,"S375222288"
+"117","renpha","Red-necked Phalarope","Phalaropus lobatus","L9570564","Utqiaġvik--Emaiksoun Lake","2026-07-22 07:07",2,71.2505591,-156.7731754,TRUE,FALSE,FALSE,"S375110695"
+"118","renpha","Red-necked Phalarope","Phalaropus lobatus","L1646450","Glacier Bay NP--Glacier Bay Visitor Center Trail","2026-07-22 07:02",18,58.4530231,-135.8880564,TRUE,FALSE,FALSE,"S375262726"
+"119","renpha","Red-necked Phalarope","Phalaropus lobatus","L45007342","Hatteras Point","2026-07-22 06:55",1,35.1991783,-75.722874,TRUE,TRUE,TRUE,"S375255194"
+"120","renpha","Red-necked Phalarope","Phalaropus lobatus","L958620","Upper Santa Ana River--Taft Ave. to Lincoln Ave.","2026-07-22 05:51",1,33.8260771,-117.866478,TRUE,FALSE,FALSE,"S375113205"
+"121","renpha","Red-necked Phalarope","Phalaropus lobatus","L8010717","Yukon Delta NWR--Tutakoke Camp","2026-07-21 20:00",3,61.2470011,-165.5824302,TRUE,FALSE,FALSE,"S375633908"
+"122","renpha","Red-necked Phalarope","Phalaropus lobatus","L5876536","Kotzebue--Sewage Ponds and adjacent wetlands","2026-07-21 18:57",350,66.8791539,-162.615037,TRUE,FALSE,FALSE,"S374943793"
+"123","renpha","Red-necked Phalarope","Phalaropus lobatus","L29468978","Copeland WMA","2026-07-21 18:31",1,46.1199083,-96.2309217,TRUE,FALSE,FALSE,"S375880101"
+"124","renpha","Red-necked Phalarope","Phalaropus lobatus","L270792","Shemya Island--Eareckson AS (restricted access)","2026-07-21 18:13",4,52.7207244,174.1123276,TRUE,TRUE,FALSE,"S374938910"
+"125","renpha","Red-necked Phalarope","Phalaropus lobatus","L587721","Hayward Regional Shoreline--Interpretive Center","2026-07-21 18:06",5,37.6233925,-122.1372843,TRUE,FALSE,FALSE,"S374906691"
+"126","renpha","Red-necked Phalarope","Phalaropus lobatus","L3782882","San Pablo Bay NWR--Hwy 37 Pullout/Cullinan Ranch Trail","2026-07-21 17:37",2,38.1353024,-122.3446257,TRUE,FALSE,FALSE,"S374916269"
+"127","renpha","Red-necked Phalarope","Phalaropus lobatus","L8032605","San Francisco Bay Trail--Heron Bay","2026-07-21 16:58",1,37.6816321,-122.1664202,TRUE,FALSE,FALSE,"S374915248"
+"128","renpha","Red-necked Phalarope","Phalaropus lobatus","L74123375","Unnamed Road, McArthur, California, US (41.104, -121.414)","2026-07-21 15:26",7,41.1036013,-121.4141299,TRUE,TRUE,TRUE,"S374917248"
+"129","renpha","Red-necked Phalarope","Phalaropus lobatus","L818223","Cardiff SB","2026-07-21 15:11",1,33.0047227,-117.2785378,TRUE,FALSE,FALSE,"S374888517"
+"130","renpha","Red-necked Phalarope","Phalaropus lobatus","L1071000","Morro Strand State Beach","2026-07-21 14:40",1,35.3982858,-120.8678892,TRUE,FALSE,FALSE,"S374874943"
+"131","renpha","Red-necked Phalarope","Phalaropus lobatus","L2211721","Alaska Maritime NWR--Barren Islands","2026-07-21 14:12",350,58.9459351,-152.1187592,TRUE,TRUE,FALSE,"S375268613"
+"132","renpha","Red-necked Phalarope","Phalaropus lobatus","L62675281","2500 E and 700 N Fluddle","2026-07-21 12:45",1,40.694071,-89.062133,TRUE,TRUE,FALSE,"S374879875"
+"133","renpha","Red-necked Phalarope","Phalaropus lobatus","L1435475","Torrey Pines State Reserve--upper trails & beach","2026-07-21 12:30",NA,32.9182664,-117.2553339,TRUE,FALSE,FALSE,"S375245282"
+"134","renpha","Red-necked Phalarope","Phalaropus lobatus","L1427753","Rangeline Flowage","2026-07-21 12:23",1,44.7024115,-89.964949,TRUE,TRUE,FALSE,"S374821482"
+"135","renpha","Red-necked Phalarope","Phalaropus lobatus","L5987280","Crooked River Wetlands Complex","2026-07-21 11:24",2,44.3165109,-120.897857,TRUE,FALSE,FALSE,"S375204426"
+"136","renpha","Red-necked Phalarope","Phalaropus lobatus","L820867","UCSB North Campus Open Space (formerly Ocean Meadows Golf Course)","2026-07-21 11:00",15,34.4198459,-119.8792197,TRUE,FALSE,FALSE,"S374833817"
+"137","renpha","Red-necked Phalarope","Phalaropus lobatus","L548476","Haystack Rock","2026-07-21 11:00",1,45.8847357,-123.9683104,TRUE,FALSE,FALSE,"S375625791"
+"138","renpha","Red-necked Phalarope","Phalaropus lobatus","L715890","Cardiff SB--lagoon mouth","2026-07-21 10:59",1,33.0157331,-117.2814238,TRUE,FALSE,FALSE,"S375297817"
+"139","renpha","Red-necked Phalarope","Phalaropus lobatus","L256020","Zmudowski SB","2026-07-21 09:54",4,36.8372464,-121.8014572,TRUE,FALSE,FALSE,"S374878137"
+"140","renpha","Red-necked Phalarope","Phalaropus lobatus","L752930","Hotchkiss Ln.--WTP Ponds (restricted access)","2026-07-21 09:11",8,43.5551186,-119.0707684,TRUE,FALSE,FALSE,"S374783520"
+"141","renpha","Red-necked Phalarope","Phalaropus lobatus","L9008720","Foley WTP","2026-07-21 08:35",NA,45.657021,-93.9072838,TRUE,FALSE,FALSE,"S374815187"
+"142","renpha","Red-necked Phalarope","Phalaropus lobatus","L615794","Coal Oil Point Natural Reserve--Devereux Lagoon","2026-07-21 08:27",2,34.4136013,-119.8756027,TRUE,FALSE,FALSE,"S374882083"
+"143","renpha","Red-necked Phalarope","Phalaropus lobatus","L463228","White City Lagoons (Kirtland Rd. Ponds)","2026-07-21 08:15",1,42.4336881,-122.9128075,TRUE,FALSE,FALSE,"S374789503"
+"144","renpha","Red-necked Phalarope","Phalaropus lobatus","L387148","Mojave Narrows Regional Park","2026-07-21 07:49",1,34.5129928,-117.2708559,TRUE,FALSE,FALSE,"S374853376"
+"145","renpha","Red-necked Phalarope","Phalaropus lobatus","L1212588","Utqiaġvik--Fresh Water Lake Rd.","2026-07-21 07:35",1,71.2612449,-156.7718339,TRUE,FALSE,FALSE,"S374792308"
+"146","renpha","Red-necked Phalarope","Phalaropus lobatus","L867556","Windansea Beach","2026-07-21 07:22",2,32.8301465,-117.2807062,TRUE,FALSE,FALSE,"S374741153"
+"147","renpha","Red-necked Phalarope","Phalaropus lobatus","L64435840","Woodland WTP (CA Atlas - Grays Bend CW)","2026-07-21 07:20",5,38.667814,-121.715399,TRUE,FALSE,FALSE,"S374831814"
+"148","renpha","Red-necked Phalarope","Phalaropus lobatus","L1384917","Philomath Sewage Ponds--central pond","2026-07-21 06:21",1,44.5215399,-123.3464885,TRUE,FALSE,TRUE,"S374860789"
+"149","renpha","Red-necked Phalarope","Phalaropus lobatus","L74063154","Serpent Lake, Crosby","2026-07-20 20:03",1,46.47615,-93.950045,TRUE,FALSE,TRUE,"S374594631"
+"150","renpha","Red-necked Phalarope","Phalaropus lobatus","L612903","Erie Marsh Preserve/Gun Club (no access Sep 1-Jan 1)","2026-07-20 20:03",1,41.7642459,-83.4719821,TRUE,TRUE,FALSE,"S374562537"
+"151","renpha","Red-necked Phalarope","Phalaropus lobatus","L109339","IRWD San Joaquin Marsh & Wildlife Sanctuary","2026-07-20 18:51",4,33.6637274,-117.8426814,TRUE,FALSE,FALSE,"S374581718"
+"152","renpha","Red-necked Phalarope","Phalaropus lobatus","L49979311","Nome River-One Grebe Lake loop","2026-07-20 18:43",4,64.493313,-165.221894,TRUE,FALSE,TRUE,"S375971929"
+"153","renpha","Red-necked Phalarope","Phalaropus lobatus","L447435","Hatfield Lake","2026-07-20 18:29",4,44.1232081,-121.198554,TRUE,FALSE,FALSE,"S374578733"
+"154","renpha","Red-necked Phalarope","Phalaropus lobatus","L471741","Villa Creek--Estero Bluffs State Park","2026-07-20 17:23",1,35.4599561,-120.9688341,TRUE,FALSE,FALSE,"S374586155"
+"155","renpha","Red-necked Phalarope","Phalaropus lobatus","L74161925","Noyo Pelagic - 20 July 2026 - Leg 10","2026-07-20 17:20",30,39.456508,-123.933211,TRUE,FALSE,TRUE,"S375133326"
+"156","renpha","Red-necked Phalarope","Phalaropus lobatus","L74161921","Noyo Pelagic - 20 July 2026 - Leg 9","2026-07-20 16:19",200,39.540779,-124.113672,TRUE,FALSE,TRUE,"S375133288"
+"157","renpha","Red-necked Phalarope","Phalaropus lobatus","L262792","Iowa Dodd Beef/Tyson Ponds","2026-07-20 16:16",2,46.1288528,-118.8985787,TRUE,FALSE,FALSE,"S374548502"
+"158","renpha","Red-necked Phalarope","Phalaropus lobatus","L74161909","Noyo Pelagic - 20 July 2026 - Leg 8","2026-07-20 15:17",8,39.620117,-124.281268,TRUE,FALSE,TRUE,"S375133224"
+"159","renpha","Red-necked Phalarope","Phalaropus lobatus","L74161893","Noyo Pelagic - 20 July 2026 - Leg 7","2026-07-20 14:16",15,39.715213,-124.435055,TRUE,FALSE,TRUE,"S375133154"
+"160","renpha","Red-necked Phalarope","Phalaropus lobatus","L500123","Upper Newport Bay Nature Preserve--Muth Interpretive Center area","2026-07-20 13:26",1,33.6529275,-117.8849691,TRUE,FALSE,FALSE,"S374549616"
+"161","renpha","Red-necked Phalarope","Phalaropus lobatus","L74161879","Noyo Pelagic - 20 July 2026 - Leg 6","2026-07-20 13:16",23,39.685942,-124.453064,TRUE,TRUE,TRUE,"S375133109"
+"162","renpha","Red-necked Phalarope","Phalaropus lobatus","L4318634","Bowdoin NWR--third 5 mi. Auto Tour Route","2026-07-20 13:04",177,48.37538,-107.70043,TRUE,TRUE,FALSE,"S374501083"
+"163","renpha","Red-necked Phalarope","Phalaropus lobatus","L164929","Bolsa Chica Ecological Reserve","2026-07-20 12:38",4,33.7026531,-118.050735,TRUE,FALSE,FALSE,"S374522434"
+"164","renpha","Red-necked Phalarope","Phalaropus lobatus","L74161871","Noyo Pelagic - 20 July 2026 - Leg 5","2026-07-20 12:09",8,39.626072,-124.357036,TRUE,FALSE,TRUE,"S375133063"
+"165","renpha","Red-necked Phalarope","Phalaropus lobatus","L74161853","Noyo Pelagic - 20 July 2026 - Leg 4","2026-07-20 11:09",30,39.576087,-124.335205,TRUE,FALSE,TRUE,"S375132987"
+"166","renpha","Red-necked Phalarope","Phalaropus lobatus","L638811","Seaside State Beach (hotel & seawatch)","2026-07-20 10:54",1,36.6113371,-121.8577928,TRUE,FALSE,FALSE,"S374465232"
+"167","renpha","Red-necked Phalarope","Phalaropus lobatus","L2028864","Off Mission Bay (offshore species only)","2026-07-20 10:45",9,32.754544,-117.3785801,TRUE,FALSE,FALSE,"S374482193"
+"168","renpha","Red-necked Phalarope","Phalaropus lobatus","L74061929","traveling","2026-07-20 10:45",1,71.292985,-156.6174838,TRUE,FALSE,TRUE,"S374588443"
+"169","renpha","Red-necked Phalarope","Phalaropus lobatus","L9541525","Blackstone Bay","2026-07-20 10:30",5,60.7470836,-148.5817252,TRUE,FALSE,FALSE,"S374564171"
+"170","renpha","Red-necked Phalarope","Phalaropus lobatus","L73420163","Ugashik Bay, Pilot Point Dago Creek East US-AK (57.6035,-157.5984)","2026-07-20 10:22",1,57.603471,-157.598407,TRUE,FALSE,TRUE,"S374482836"
+"171","renpha","Red-necked Phalarope","Phalaropus lobatus","L739070","Carlsbad Blvd. and Manzano Cliff overlook","2026-07-20 10:10",8,33.1263026,-117.3313236,TRUE,FALSE,FALSE,"S374567793"
+"172","renpha","Red-necked Phalarope","Phalaropus lobatus","L74161841","Noyo Pelagic - 20 July 2026 - Leg 3","2026-07-20 10:09",9,39.57094,-124.200996,TRUE,FALSE,TRUE,"S375132928"
+"173","renpha","Red-necked Phalarope","Phalaropus lobatus","L2263572","San Joaquin Wildlife Sanctuary--Fledgling Loop Trail","2026-07-20 10:03",1,33.6609892,-117.8437141,TRUE,FALSE,FALSE,"S374458925"
+"174","renpha","Red-necked Phalarope","Phalaropus lobatus","L73518412","The Aquarium","2026-07-20 09:39",17,56.4305082,-159.737915,TRUE,FALSE,TRUE,"S376250169"
+"175","renpha","Red-necked Phalarope","Phalaropus lobatus","L4870985","Oso Flaco Creek Mouth/Beach","2026-07-20 09:36",4,35.0334489,-120.6333643,TRUE,FALSE,FALSE,"S374541664"
+"176","renpha","Red-necked Phalarope","Phalaropus lobatus","L713569","Private Property ""S"" No Public Access","2026-07-20 09:20",4,35.7955385,-119.6424866,TRUE,FALSE,FALSE,"S374751331"
+"177","renpha","Red-necked Phalarope","Phalaropus lobatus","L74161826","Noyo Pelagic - 20 July 2026 - Leg 2","2026-07-20 09:08",180,39.529383,-124.024432,TRUE,FALSE,TRUE,"S375132869"
+"178","renpha","Red-necked Phalarope","Phalaropus lobatus","L5403306","Batiquitos Lagoon--Navigator Circle","2026-07-20 09:01",1,33.0896202,-117.3067053,TRUE,FALSE,FALSE,"S374539336"
+"179","renpha","Red-necked Phalarope","Phalaropus lobatus","L375127","Morro Creek mouth","2026-07-20 08:55",2,35.376104,-120.8624411,TRUE,FALSE,FALSE,"S374547264"
+"180","renpha","Red-necked Phalarope","Phalaropus lobatus","L5402521","H Street Viewpoint","2026-07-20 08:31",7,33.040469,-117.296262,TRUE,FALSE,FALSE,"S374567783"
+"181","renpha","Red-necked Phalarope","Phalaropus lobatus","L33665650","Greenwald (GEMS) WTP","2026-07-20 08:28",1,45.612551,-94.862961,TRUE,FALSE,TRUE,"S374370249"
+"182","renpha","Red-necked Phalarope","Phalaropus lobatus","L966918","Santa Catalina Channel (LA Co., offshore species only)","2026-07-20 08:21",23,33.552977,-118.295209,TRUE,FALSE,FALSE,"S374466471"
+"183","renpha","Red-necked Phalarope","Phalaropus lobatus","L74161809","Noyo Pelagic - 20 July 2026 - Leg 1","2026-07-20 08:08",42,39.443501,-123.860541,TRUE,FALSE,TRUE,"S375132806"
+"184","renpha","Red-necked Phalarope","Phalaropus lobatus","L281754","College Lake","2026-07-20 08:00",2,36.946382,-121.7446834,TRUE,FALSE,FALSE,"S374487179"
+"185","renpha","Red-necked Phalarope","Phalaropus lobatus","L49912185","Noyo Pelagic--Within 2 miles of harbor","2026-07-20 07:53",1,39.430274,-123.829261,TRUE,FALSE,TRUE,"S375126266"
+"186","renpha","Red-necked Phalarope","Phalaropus lobatus","L1743855","Lake Elsinore--south levee and back basin","2026-07-20 07:32",35,33.6427729,-117.3317176,TRUE,TRUE,FALSE,"S374441643"
+"187","renpha","Red-necked Phalarope","Phalaropus lobatus","L2906581","Glacier Bay NP--Sittakaday Narrows","2026-07-20 07:30",1000,58.483286,-136.0430145,TRUE,FALSE,FALSE,"S374578100"
+"188","renpha","Red-necked Phalarope","Phalaropus lobatus","L2083999","Seagrove/Powerhouse Parks","2026-07-20 06:30",6,32.9602347,-117.2677152,TRUE,FALSE,FALSE,"S374567762"
+"189","renpha","Red-necked Phalarope","Phalaropus lobatus","L73989955","302 Front Street, Nome, Alaska, US (64.497, -165.397)","2026-07-19 21:30",2,64.4965945,-165.396976,TRUE,FALSE,TRUE,"S374232034"
+"190","renpha","Red-necked Phalarope","Phalaropus lobatus","L578601","Doran Regional Park - entrance pond to jetty","2026-07-19 19:49",1,38.3146057,-123.0438066,TRUE,FALSE,FALSE,"S375556678"
+"191","renpha","Red-necked Phalarope","Phalaropus lobatus","L246772","Machias Seal Island","2026-07-19 19:33",1,44.5017664,-67.1008222,TRUE,FALSE,FALSE,"S374342186"
+"192","renpha","Red-necked Phalarope","Phalaropus lobatus","L1861949","Ormond Beach--Arnold Rd. access","2026-07-19 16:35",7,34.1226943,-119.156529,TRUE,FALSE,FALSE,"S374909214"
+"193","renpha","Red-necked Phalarope","Phalaropus lobatus","L261146","St. Paul Island","2026-07-19 15:50",9,57.17012,-170.296751,TRUE,FALSE,FALSE,"S374282502"
+"194","renpha","Red-necked Phalarope","Phalaropus lobatus","L977081","Continental Shelf SW of SE Farallon Island (SF Co.)","2026-07-19 13:21",3,37.6448477,-123.0684013,TRUE,FALSE,FALSE,"S374582647"
+"195","renpha","Red-necked Phalarope","Phalaropus lobatus","L695979","Disenchantment Bay and Hubbard Glacier","2026-07-19 12:10",4,59.99478,-139.55863,TRUE,FALSE,FALSE,"S374129556"
+"196","renpha","Red-necked Phalarope","Phalaropus lobatus","L73962808","Swampy Lake. Pilot Point, AK (57.5890,-157.5858)","2026-07-19 10:37",56,57.58899,-157.585793,TRUE,FALSE,TRUE,"S374111722"
+"197","renpha","Red-necked Phalarope","Phalaropus lobatus","L2888245","Kotzebue near airport","2026-07-19 10:35",9,66.8924547,-162.6045871,TRUE,FALSE,TRUE,"S374101128"
+"198","renpha","Red-necked Phalarope","Phalaropus lobatus","L695607","Owens Lake--westside delta ponds (T36s)","2026-07-19 09:33",16,36.5135522,-117.9787226,TRUE,FALSE,FALSE,"S374071609"
+"199","renpha","Red-necked Phalarope","Phalaropus lobatus","L1273544","Bliss Road Wetland","2026-07-19 09:29",8,42.2580434,-121.4896703,TRUE,FALSE,FALSE,"S374178228"
+"200","renpha","Red-necked Phalarope","Phalaropus lobatus","L455722","Para/McCain's Ponds","2026-07-19 09:06",6,46.8574296,-119.1854596,TRUE,FALSE,FALSE,"S374053055"
+"201","renpha","Red-necked Phalarope","Phalaropus lobatus","L271476","Pigeon Pt.","2026-07-19 08:10",5,37.182,-122.394,TRUE,FALSE,FALSE,"S374028909"
+"202","renpha","Red-necked Phalarope","Phalaropus lobatus","L715898","Whelan Lake Bird Sanctuary (permission required)","2026-07-19 08:08",1,33.2424922,-117.3364091,TRUE,FALSE,FALSE,"S374123637"
+"203","renpha","Red-necked Phalarope","Phalaropus lobatus","L2277898","Boardman Sewage Ponds (restricted access)","2026-07-19 07:53",2,45.8474044,-119.6485174,TRUE,FALSE,FALSE,"S374177686"
+"204","renpha","Red-necked Phalarope","Phalaropus lobatus","L8062695","Owens Lake--northeast ponds (T29s, T30s) and vicinity","2026-07-19 07:45",48,36.508666,-117.9292846,TRUE,FALSE,FALSE,"S374033493"
+"205","renpha","Red-necked Phalarope","Phalaropus lobatus","L3807444","Baskett Slough NWR--Parvipes Marsh","2026-07-19 07:36",5,44.968191,-123.2679212,TRUE,FALSE,FALSE,"S374111416"
+"206","renpha","Red-necked Phalarope","Phalaropus lobatus","L761524","Bayshore Bikeway--Emory Cove & Pond 11","2026-07-19 07:30",1,32.6018801,-117.1238114,TRUE,FALSE,FALSE,"S374009598"
+"207","renpha","Red-necked Phalarope","Phalaropus lobatus","L3181705","Bolsa Chica--full tidal area","2026-07-19 07:08",2,33.6958158,-118.0368304,TRUE,FALSE,FALSE,"S374035831"
+"208","renpha","Red-necked Phalarope","Phalaropus lobatus","L73980698","Kachemak Bay, Alaska, US (59.492, -151.84)","2026-07-19 07:07",9,59.491847,-151.8404321,TRUE,FALSE,TRUE,"S374189589"
+"209","renpha","Red-necked Phalarope","Phalaropus lobatus","L367627","Salton Sea--Young Rd. (west end)","2026-07-19 06:36",3,33.1330196,-115.6666589,TRUE,FALSE,FALSE,"S373972542"
+"210","renpha","Red-necked Phalarope","Phalaropus lobatus","L247953","Sweetwater Reservoir","2026-07-19 05:40",1,32.6909342,-116.9966808,TRUE,FALSE,FALSE,"S374023507"
+"211","renpha","Red-necked Phalarope","Phalaropus lobatus","L1022449","Bolsa Chica--Interpretive Center/Bolsa Bay","2026-07-19 02:58",1,33.7107751,-118.061657,TRUE,FALSE,FALSE,"S374116744"
+"212","renpha","Red-necked Phalarope","Phalaropus lobatus","L682198","Cross Sound","2026-07-18 20:18",12,58.1846079,-136.5092468,TRUE,FALSE,FALSE,"S374241119"
+"213","renpha","Red-necked Phalarope","Phalaropus lobatus","L49018415","Forrester Island (SW)","2026-07-18 20:08",7,54.691529,-134.029599,TRUE,FALSE,TRUE,"S373771586"
+"214","renpha","Red-necked Phalarope","Phalaropus lobatus","L74103622","Chatham Strait US-AK (56.1007,-134.4625)","2026-07-18 18:15",3,56.100675,-134.4625,TRUE,FALSE,TRUE,"S374812668"
+"215","renpha","Red-necked Phalarope","Phalaropus lobatus","L560458","Monterey Bay Aquarium (outside only)","2026-07-18 18:07",4,36.6183407,-121.9016623,TRUE,FALSE,FALSE,"S373759954"
+"216","renpha","Red-necked Phalarope","Phalaropus lobatus","L73875463","Chatham Strait","2026-07-18 16:03",5,56.105439,-134.479639,TRUE,FALSE,TRUE,"S373742985"
+"217","renpha","Red-necked Phalarope","Phalaropus lobatus","L73982215","North Pacific Ocean US (37.3803,-122.6684)","2026-07-18 15:56",4,37.380264,-122.668425,TRUE,FALSE,TRUE,"S374196705"
+"218","renpha","Red-necked Phalarope","Phalaropus lobatus","L920855","Glacier Bay NP--Bartlett Cove","2026-07-18 15:16",250,58.4547386,-135.9149551,TRUE,FALSE,FALSE,"S374054190"
+"219","renpha","Red-necked Phalarope","Phalaropus lobatus","L429298","Matinicus Rock","2026-07-18 15:10",2,43.7869657,-68.8527148,TRUE,FALSE,FALSE,"S373655124"
+"220","renpha","Red-necked Phalarope","Phalaropus lobatus","L73982207","North Pacific Ocean (37.3103,-122.8451)","2026-07-18 14:55",2,37.310342,-122.845103,TRUE,FALSE,TRUE,"S374196683"
+"221","renpha","Red-necked Phalarope","Phalaropus lobatus","L526581","Lower Nine Mile Bank (SD Co.)","2026-07-18 14:52",4,32.608881,-117.4237032,TRUE,FALSE,FALSE,"S373740161"
+"222","renpha","Red-necked Phalarope","Phalaropus lobatus","L1568785","Bar Harbor Whale/Pelagic Trip--Mount Desert Rock to Ballpark","2026-07-18 14:26",61,44.0292969,-67.9995346,TRUE,FALSE,FALSE,"S376000433"
+"223","renpha","Red-necked Phalarope","Phalaropus lobatus","L6000545","Depoe Bay Whale Watch","2026-07-18 13:59",3,44.8100884,-124.0640867,TRUE,FALSE,TRUE,"S375973914"
+"224","renpha","Red-necked Phalarope","Phalaropus lobatus","L15669069","Glacier Bay NP--Bartlett Cove Campground","2026-07-18 13:57",1000,58.4507812,-135.8944094,TRUE,FALSE,FALSE,"S373755931"
+"225","renpha","Red-necked Phalarope","Phalaropus lobatus","L74175158","Mt Desert Rock to Matinicus Rock, 2nd leg","2026-07-18 13:53",2,43.853,-68.552,TRUE,FALSE,TRUE,"S375200530"
+"226","renpha","Red-necked Phalarope","Phalaropus lobatus","L73910760","US (43.853, -68.552)","2026-07-18 13:53",2,43.8529382,-68.5515286,TRUE,FALSE,TRUE,"S373889525"
+"227","renpha","Red-necked Phalarope","Phalaropus lobatus","L74122323","Between Mt Desert Rock & Matinicus Rock -- Knox Co","2026-07-18 13:53",2,43.8698849,-68.5425293,TRUE,FALSE,TRUE,"S374911707"
+"228","renpha","Red-necked Phalarope","Phalaropus lobatus","L73979593","Gulf of Maine N43.880833, W 67.438056","2026-07-18 13:41",28,43.880833,-67.438056,TRUE,FALSE,TRUE,"S374185560"
+"229","renpha","Red-necked Phalarope","Phalaropus lobatus","L454234","Sunset SB","2026-07-18 13:40",1,36.8897212,-121.8317049,TRUE,FALSE,FALSE,"S373703788"
+"230","renpha","Red-necked Phalarope","Phalaropus lobatus","L1176938","San Diego Trough (south)","2026-07-18 13:40",3,32.6404157,-117.5626726,TRUE,FALSE,FALSE,"S373739965"
+"231","renpha","Red-necked Phalarope","Phalaropus lobatus","L73862519","US (43.874, -68.464)","2026-07-18 13:33",6,43.8742914,-68.4640237,TRUE,FALSE,TRUE,"S373693090"
+"232","renpha","Red-necked Phalarope","Phalaropus lobatus","L73908284","Transect from MDR to Matinicus Rock43.94685, -68.21063","2026-07-18 13:21",75,43.946852,-68.210629,TRUE,FALSE,TRUE,"S373877484"
+"233","renpha","Red-necked Phalarope","Phalaropus lobatus","L74175062","Beyond Mt Desert Rock","2026-07-18 13:17",23,43.958904,-68.172347,TRUE,FALSE,TRUE,"S375199389"
+"234","renpha","Red-necked Phalarope","Phalaropus lobatus","L74122272","Between Mt Desert Rock & Matinicus Rock -- Hancock Co","2026-07-18 13:17",30,43.9380078,-68.2654794,TRUE,FALSE,TRUE,"S374911455"
+"235","renpha","Red-necked Phalarope","Phalaropus lobatus","L73910738","Beyond Mount Desert Rock.","2026-07-18 13:17",30,43.9589044,-68.1723472,TRUE,FALSE,TRUE,"S373889442"
+"236","renpha","Red-necked Phalarope","Phalaropus lobatus","L73841081","Auto selected 43.96755, -68.14052","2026-07-18 13:15",8,43.967546,-68.140517,TRUE,FALSE,TRUE,"S373614664"
+"237","renpha","Red-necked Phalarope","Phalaropus lobatus","L1021477","Mount Desert Rock","2026-07-18 13:11",40,43.9686,-68.1283,TRUE,FALSE,FALSE,"S374183497"
+"238","renpha","Red-necked Phalarope","Phalaropus lobatus","L370676","Moss Landing--marina, town & beach (south jetty southwards)","2026-07-18 13:05",8,36.8013642,-121.7879638,TRUE,FALSE,FALSE,"S373674599"
+"239","renpha","Red-necked Phalarope","Phalaropus lobatus","L73878477","Whittier, Alaska, US (60.797, -148.091)","2026-07-18 12:57",4,60.7974372,-148.090955,TRUE,FALSE,TRUE,"S373754109"
+"240","renpha","Red-necked Phalarope","Phalaropus lobatus","L73924519","Gulf of Maine US (43.9865,-68.0943)","2026-07-18 12:49",35,43.986481,-68.094336,TRUE,FALSE,TRUE,"S373954769"
+"241","renpha","Red-necked Phalarope","Phalaropus lobatus","L73862699","Mount Desert Rock (general vicinity)","2026-07-18 12:47",30,44.0027749,-68.0650906,TRUE,FALSE,TRUE,"S373693668"
+"242","renpha","Red-necked Phalarope","Phalaropus lobatus","L73837095","Auto selected 44.02204, -68.02376","2026-07-18 12:42",80,44.02204,-68.023765,TRUE,FALSE,TRUE,"S373600091"
+"243","renpha","Red-necked Phalarope","Phalaropus lobatus","L73982176","North Pacific Ocean (37.1956,-123.1661)","2026-07-18 12:39",6,37.195583,-123.166114,TRUE,FALSE,TRUE,"S374196514"
+"244","renpha","Red-necked Phalarope","Phalaropus lobatus","L73978008","Gulf of Maine N 44.012778, W 67.44444","2026-07-18 12:31",25,44.012778,-67.44444,TRUE,FALSE,TRUE,"S374177631"
+"245","renpha","Red-necked Phalarope","Phalaropus lobatus","L73977648","Gulf of Maine N 44.133055, W 67.80194","2026-07-18 12:01",60,44.13055,-67.80194,TRUE,FALSE,TRUE,"S374175781"
+"246","renpha","Red-necked Phalarope","Phalaropus lobatus","L1021476","Bar Harbor Whale/Pelagic Trip--The Ballpark","2026-07-18 11:55",24,44.0938114,-67.9069233,TRUE,FALSE,FALSE,"S373715877"
+"247","renpha","Red-necked Phalarope","Phalaropus lobatus","L73863415","Bar Harbor Pelagic Trip 4","2026-07-18 11:45",4,44.1796215,-67.7087957,TRUE,FALSE,TRUE,"S373696054"
+"248","renpha","Red-necked Phalarope","Phalaropus lobatus","L73978656","Bar Harbor Whale Watch Seabird Pelagic Leg 3","2026-07-18 11:38",70,44.132698,-67.801598,TRUE,FALSE,TRUE,"S374180056"
+"249","renpha","Red-necked Phalarope","Phalaropus lobatus","L73982169","North Pacific Ocean (37.3317,-123.1895)","2026-07-18 11:38",19,37.331661,-123.189468,TRUE,FALSE,TRUE,"S374196448"
+"250","renpha","Red-necked Phalarope","Phalaropus lobatus","L73863552","Bar Harbor Pelagic Trip 8","2026-07-18 11:36",6,44.2261768,-67.6248477,TRUE,FALSE,TRUE,"S373696611"
+"251","renpha","Red-necked Phalarope","Phalaropus lobatus","L50093684","Near 
+Ballpark","2026-07-18 11:31",84,44.1401031,-67.772156,TRUE,FALSE,TRUE,"S373889173"
+"252","renpha","Red-necked Phalarope","Phalaropus lobatus","L74174795","Near Ballpark","2026-07-18 11:31",84,44.140103,-67.772156,TRUE,FALSE,TRUE,"S375197999"
+"253","renpha","Red-necked Phalarope","Phalaropus lobatus","L73977218","Gulf of Maine N44.243056, W 67.5975","2026-07-18 11:31",44,44.243056,-67.5975,TRUE,FALSE,TRUE,"S374173970"
+"254","renpha","Red-necked Phalarope","Phalaropus lobatus","L1265263","Monterey Bay pelagic--nearshore Moss Landing (<2 mi off MTY Co.)","2026-07-18 11:30",7,36.8007631,-121.8263912,TRUE,FALSE,FALSE,"S374902474"
+"255","renpha","Red-necked Phalarope","Phalaropus lobatus","L73976504","Gulf of Maine N 44.361667, W 67.38833","2026-07-18 11:01",40,44.361667,-67.38833,TRUE,FALSE,TRUE,"S374171374"
+"256","renpha","Red-necked Phalarope","Phalaropus lobatus","L279300","Younger Lagoon (restricted; access only to the overhang)","2026-07-18 10:57",3,36.9506136,-122.0661477,TRUE,FALSE,FALSE,"S373663296"
+"257","renpha","Red-necked Phalarope","Phalaropus lobatus","L9817505","The Corner (SD Co.)","2026-07-18 10:48",7,32.6349214,-117.8047935,TRUE,FALSE,FALSE,"S373739600"
+"258","renpha","Red-necked Phalarope","Phalaropus lobatus","L74122031","Between Machias Seal Island & Mt Desert Rock -- Washington Co","2026-07-18 10:38",84,44.4223718,-67.2585754,TRUE,FALSE,TRUE,"S374910556"
+"259","renpha","Red-necked Phalarope","Phalaropus lobatus","L73978616","Bar Harbor Whale Watch Seabird Pelagic Leg 2","2026-07-18 10:36",48,44.345978,-67.400149,TRUE,FALSE,TRUE,"S374179871"
+"260","renpha","Red-necked Phalarope","Phalaropus lobatus","L73828724","Auto selected 44.20796, -67.65616","2026-07-18 10:27",9,44.207962,-67.656164,TRUE,FALSE,TRUE,"S373568742"
+"261","renpha","Red-necked Phalarope","Phalaropus lobatus","L5805988","Carpinteria Creek Estuary","2026-07-18 10:23",1,34.3907409,-119.5198238,TRUE,FALSE,FALSE,"S373674299"
+"262","renpha","Red-necked Phalarope","Phalaropus lobatus","L4009736","Husted Rd. detention pond","2026-07-18 09:52",3,39.169628,-122.1341239,TRUE,FALSE,FALSE,"S373603384"
+"263","renpha","Red-necked Phalarope","Phalaropus lobatus","L73982150","North Pacific Ocean (37.4351,-122.9706)","2026-07-18 09:33",52,37.435117,-122.970565,TRUE,FALSE,TRUE,"S374196364"
+"264","renpha","Red-necked Phalarope","Phalaropus lobatus","L4923427","Gull Lake (61.5413,-148.9473)","2026-07-18 09:12",4,61.541323,-148.947281,TRUE,FALSE,TRUE,"S373692095"
+"265","renpha","Red-necked Phalarope","Phalaropus lobatus","L73838532","Denali Highway, Dot Lake, Alaska, US (63.055, -145.8)","2026-07-18 09:03",4,63.0554154,-145.8003858,TRUE,FALSE,TRUE,"S373605137"
+"266","renpha","Red-necked Phalarope","Phalaropus lobatus","L1018792","Boiler Bay State Wayside","2026-07-18 08:38",20,44.8288173,-124.0658998,TRUE,FALSE,FALSE,"S373651101"
+"267","renpha","Red-necked Phalarope","Phalaropus lobatus","L73982142","North Pacific Ocean (37.4317,-122.7791)","2026-07-18 08:34",71,37.431658,-122.779146,TRUE,FALSE,TRUE,"S374196312"
+"268","renpha","Red-necked Phalarope","Phalaropus lobatus","L351481","Monterey Harbor","2026-07-18 08:17",1,36.6063012,-121.8912935,TRUE,FALSE,FALSE,"S373596005"
+"269","renpha","Red-necked Phalarope","Phalaropus lobatus","L711323","Otto Lake","2026-07-18 08:05",3,63.8463098,-149.0364718,TRUE,FALSE,FALSE,"S373593371"
+"270","renpha","Red-necked Phalarope","Phalaropus lobatus","L618528","Monterey Bay pelagic--inshore Monterey Harbor to Pt. Pinos (MTY Co.)","2026-07-18 08:01",15,36.6217017,-121.9037615,TRUE,FALSE,FALSE,"S373721246"
+"271","renpha","Red-necked Phalarope","Phalaropus lobatus","L550954","Marina--Robin Dr. pond","2026-07-18 08:00",1,36.6903033,-121.806322,TRUE,FALSE,FALSE,"S373708656"
+"272","renpha","Red-necked Phalarope","Phalaropus lobatus","L73864238","IRWD San Joaquin Marsh & Wildlife Sanctuary","2026-07-18 07:50",1,33.6586012,-117.8476637,TRUE,FALSE,TRUE,"S373711243"
+"273","renpha","Red-necked Phalarope","Phalaropus lobatus","L73982101","North Pacific Ocean US (37.4614,-122.5953)","2026-07-18 07:34",18,37.461351,-122.595333,TRUE,FALSE,TRUE,"S374196145"
+"274","renpha","Red-necked Phalarope","Phalaropus lobatus","L166589","Big Lake","2026-07-18 07:30",2,45.8852246,-109.0522046,TRUE,FALSE,FALSE,"S373542739"
+"275","renpha","Red-necked Phalarope","Phalaropus lobatus","L6550725","Swan Lake Nature Study Area (IBA)--Fleetwood Dr Pumphouse","2026-07-18 06:21",9,39.6500322,-119.8445847,TRUE,FALSE,FALSE,"S373525168"
+"276","renpha","Red-necked Phalarope","Phalaropus lobatus","L190743","Antelope Island SP","2026-07-18",NA,41.0465405,-112.2383881,TRUE,FALSE,FALSE,"S374168121"
+"277","renpha","Red-necked Phalarope","Phalaropus lobatus","L523657","Potter Marsh--mm 116","2026-07-17 21:32",1,61.0617949,-149.8090553,TRUE,FALSE,FALSE,"S373347852"
+"278","renpha","Red-necked Phalarope","Phalaropus lobatus","L2217402","Kotzebue lagoon and east hills","2026-07-17 20:42",1,66.8867023,-162.5568008,TRUE,FALSE,TRUE,"S373349164"
+"279","renpha","Red-necked Phalarope","Phalaropus lobatus","L3150121","Sand Hill Bluff","2026-07-17 17:53",1,36.9777845,-122.1525859,TRUE,FALSE,FALSE,"S373316951"
+"280","renpha","Red-necked Phalarope","Phalaropus lobatus","L73763104","Auto selected 48.62070, -112.69232","2026-07-17 17:25",4,48.620702,-112.692325,TRUE,FALSE,TRUE,"S373290327"
+"281","renpha","Red-necked Phalarope","Phalaropus lobatus","L1457514","George W. Mead SWA--Rangeline Rd","2026-07-17 14:08",4,44.6997882,-89.9641765,TRUE,TRUE,FALSE,"S373278459"
+"282","renpha","Red-necked Phalarope","Phalaropus lobatus","L73861842","D2609–D2679 Rangeline Rd, Auburndale US-WI 44.70036, -89.96413","2026-07-17 13:51",2,44.70036,-89.964134,TRUE,TRUE,TRUE,"S373690613"
+"283","renpha","Red-necked Phalarope","Phalaropus lobatus","L2888468","Wisdom Pond","2026-07-17 12:36",20,45.6234025,-113.4446526,TRUE,FALSE,FALSE,"S373214989"
+"284","renpha","Red-necked Phalarope","Phalaropus lobatus","L73731058","Rangeline Road, Auburndale, Wisconsin, US (44.7, -89.964)","2026-07-17 11:27",4,44.7004663,-89.9641693,TRUE,TRUE,TRUE,"S373168156"
+"285","renpha","Red-necked Phalarope","Phalaropus lobatus","L560915","Deadhorse (town)","2026-07-17 11:23",2,70.20643,-148.43996,TRUE,FALSE,FALSE,"S374118216"
+"286","renpha","Red-necked Phalarope","Phalaropus lobatus","L279207","Antonelli Pond","2026-07-17 10:49",2,36.955758,-122.0602475,TRUE,FALSE,FALSE,"S373352170"
+"287","renpha","Red-necked Phalarope","Phalaropus lobatus","L730351","Charleston Slough/Coast Casey Forebay","2026-07-17 10:22",4,37.4359191,-122.098918,TRUE,FALSE,FALSE,"S374093006"
+"288","renpha","Red-necked Phalarope","Phalaropus lobatus","L10320742","Eden Landing--kayak launch","2026-07-17 09:50",15,37.618094,-122.122961,TRUE,FALSE,FALSE,"S373287940"
+"289","renpha","Red-necked Phalarope","Phalaropus lobatus","L691421","Terrace Pt. and Coastal Science Campus","2026-07-17 09:43",4,36.9508373,-122.0639798,TRUE,FALSE,FALSE,"S373211873"
+"290","renpha","Red-necked Phalarope","Phalaropus lobatus","L792036","Monterey Bay pelagic--inshore Monterey to Moss Landing (MTY Co.)","2026-07-17 09:36",20,36.7349772,-121.8297386,TRUE,FALSE,FALSE,"S373295546"
+"291","renpha","Red-necked Phalarope","Phalaropus lobatus","L353255","Elkhorn Slough Reserve (NERR)","2026-07-17 09:11",2,36.8182308,-121.7364764,TRUE,FALSE,FALSE,"S374451856"
+"292","renpha","Red-necked Phalarope","Phalaropus lobatus","L590812","Napa-Sonoma Marshes WA--Huichica Creek Unit","2026-07-17 08:45",25,38.2076388,-122.3329353,TRUE,FALSE,FALSE,"S373252984"
+"293","renpha","Red-necked Phalarope","Phalaropus lobatus","L15388729","US-395, Lakeview US-OR 42.62337, -120.18504","2026-07-17 08:25",85,42.623371,-120.185035,TRUE,FALSE,TRUE,"S373220702"
+"294","renpha","Red-necked Phalarope","Phalaropus lobatus","L2897580","Utqiaġvik--Nunavaaq Rd.","2026-07-17 08:13",1,71.2757153,-156.8049967,TRUE,FALSE,FALSE,"S373250547"
+"295","renpha","Red-necked Phalarope","Phalaropus lobatus","L2047403","San Diego Bay NWR--SoCal Saltworks (restricted access)","2026-07-17 07:45",151,32.6049209,-117.1062324,TRUE,FALSE,FALSE,"S373280364"
+"296","renpha","Red-necked Phalarope","Phalaropus lobatus","L493044","Philomath Sewage Ponds (restricted access)","2026-07-17 07:32",1,44.5185755,-123.3444586,TRUE,FALSE,FALSE,"S373156257"
+"297","renpha","Red-necked Phalarope","Phalaropus lobatus","L1210098","Antelope Island SP--Visitor Center & Loop Rd.","2026-07-17 06:57",NA,41.054726,-112.2407765,TRUE,FALSE,FALSE,"S373253855"
+"298","renpha","Red-necked Phalarope","Phalaropus lobatus","L73681256","US-395, Paisley US-OR 42.68259, -120.16256","2026-07-17 06:28",77,42.682592,-120.162562,TRUE,FALSE,TRUE,"S373220197"
+"299","renpha","Red-necked Phalarope","Phalaropus lobatus","L2392592","Freezout Lake WMA - the Dike","2026-07-17 06:05",55,47.6832489,-112.045706,TRUE,FALSE,TRUE,"S373096346"
+"300","renpha","Red-necked Phalarope","Phalaropus lobatus","L73852262","Alaska, US (58.241, -136.098)","2026-07-16 21:21",23,58.2411789,-136.0978379,TRUE,FALSE,TRUE,"S373655837"
+"301","renpha","Red-necked Phalarope","Phalaropus lobatus","L1339539","Kenai Flats--Sea Catch Dr. and Cannery Rd.","2026-07-16 19:20",2,60.5351637,-151.2629414,TRUE,FALSE,FALSE,"S373239672"
+"302","renpha","Red-necked Phalarope","Phalaropus lobatus","L73965131","99723, Barrow US-AK 70.06616, -148.58469","2026-07-16 17:10",3,70.066157,-148.584686,TRUE,FALSE,TRUE,"S374120578"
+"303","renpha","Red-necked Phalarope","Phalaropus lobatus","L845075","San Pablo Bay NWR--""Alco Ponds""/South of Hwy 37","2026-07-16 16:06",1,38.1158902,-122.2976083,TRUE,FALSE,FALSE,"S372939519"
+"304","renpha","Red-necked Phalarope","Phalaropus lobatus","L1545425","Valdez--McKinley St.","2026-07-16 16:00",2,61.1160955,-146.2661391,TRUE,FALSE,FALSE,"S372971199"
+"305","renpha","Red-necked Phalarope","Phalaropus lobatus","L660064","Chincoteague NWR--Wildlife Loop","2026-07-16 15:14",1,37.9045392,-75.3517216,TRUE,TRUE,FALSE,"S372919172"
+"306","renpha","Red-necked Phalarope","Phalaropus lobatus","L2868584","MEN pelagic--nearshore (to 2 miles out)","2026-07-16 13:14",20,39.4296963,-123.8414097,TRUE,FALSE,TRUE,"S372917344"
+"307","renpha","Red-necked Phalarope","Phalaropus lobatus","L1979614","Tule Lake NWR--Auto Tour and Sump 1A","2026-07-16 13:00",1,41.8776136,-121.5273285,TRUE,FALSE,FALSE,"S375219437"
+"308","renpha","Red-necked Phalarope","Phalaropus lobatus","L1173410","Ducks Unlimited Warm Springs Ponds","2026-07-16 12:18",5,46.1809001,-112.8020382,TRUE,FALSE,FALSE,"S372921088"
+"309","renpha","Red-necked Phalarope","Phalaropus lobatus","L73639176","59436, Fairfield US-MT 47.64890, -112.01735","2026-07-16 09:00",12,47.6489,-112.017348,TRUE,FALSE,TRUE,"S372777337"
+"310","renpha","Red-necked Phalarope","Phalaropus lobatus","L742878","Siuslaw River--South Jetty (jetty only)","2026-07-16 08:59",1,44.0155337,-124.1370106,TRUE,FALSE,FALSE,"S372848267"
+"311","renpha","Red-necked Phalarope","Phalaropus lobatus","L5004261","Sunset SB--Palm Beach Unit","2026-07-16 08:54",5,36.8678033,-121.8201697,TRUE,FALSE,FALSE,"S372814871"
+"312","renpha","Red-necked Phalarope","Phalaropus lobatus","L73650776","US (58.373, -137.351)","2026-07-16 08:33",1,58.3734627,-137.3505076,TRUE,FALSE,TRUE,"S372822285"
+"313","renpha","Red-necked Phalarope","Phalaropus lobatus","L682177","Glacier Bay NP--Tarr Inlet","2026-07-16 08:10",14,59.0008815,-136.9730759,TRUE,FALSE,FALSE,"S372866810"
+"314","renpha","Red-necked Phalarope","Phalaropus lobatus","L73732722","Stevenson St, Utqiagvik US-AK (71.3069,-156.7448)","2026-07-16 07:39",8,71.306867,-156.744776,TRUE,FALSE,TRUE,"S373174299"
+"315","renpha","Red-necked Phalarope","Phalaropus lobatus","L249812","Blacks Creek Bird Reserve","2026-07-16 07:30",8,43.4584433,-116.1426544,TRUE,TRUE,FALSE,"S372787806"
+"316","renpha","Red-necked Phalarope","Phalaropus lobatus","L73684234","Cascade Head Marine Reserve","2026-07-16 07:29",24,45.0277464,-124.0253036,TRUE,FALSE,TRUE,"S372956154"
+"317","renpha","Red-necked Phalarope","Phalaropus lobatus","L469984","Kendall-Frost Marsh Reserve","2026-07-16 07:21",1,32.7921946,-117.2309709,TRUE,FALSE,FALSE,"S373791612"
+"318","renpha","Red-necked Phalarope","Phalaropus lobatus","L73636952","Auto selected 58.23810, -136.23778","2026-07-16 06:54",20,58.2381,-136.237782,TRUE,FALSE,TRUE,"S372768197"
+"319","renpha","Red-necked Phalarope","Phalaropus lobatus","L1312278","Arco Ponds","2026-07-16 06:45",2,46.1624744,-112.7791214,TRUE,FALSE,FALSE,"S372918374"
+"320","renpha","Red-necked Phalarope","Phalaropus lobatus","L492468","North Point Natural Area--Morro Bay","2026-07-16 06:25",1,35.407079,-120.8717568,TRUE,FALSE,FALSE,"S372946750"
+"321","renpha","Red-necked Phalarope","Phalaropus lobatus","L1309472","N Brewer Rd (Nicolaus Ave. to W Wise Rd.)","2026-07-16 06:23",7,38.91775,-121.4521408,TRUE,FALSE,FALSE,"S372883322"
+"322","renpha","Red-necked Phalarope","Phalaropus lobatus","L2845785","Glacier Bay NP--Point Gustavus","2026-07-16 06:00",90,58.3793482,-135.9182922,TRUE,FALSE,FALSE,"S372760874"
+"323","renpha","Red-necked Phalarope","Phalaropus lobatus","L865443","Glacier Bay NP--Icy Strait (mouth of Glacier Bay)","2026-07-16 05:23",25,58.349866,-136.005249,TRUE,FALSE,FALSE,"S372760245"
