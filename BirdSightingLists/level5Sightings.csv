@@ -1,4 +1,2 @@
 "","speciesCode","comName","sciName","locId","locName","obsDt","howMany","lat","lng","obsValid","obsReviewed","locationPrivate","subId"
-"1","x00450","Nelson's x Saltmarsh Sparrow (hybrid)","Ammospiza nelsoni x caudacuta","L448189","Scarborough Marsh--Eastern Trail","2026-07-27 09:01",1,43.5649691,-70.3639502,TRUE,FALSE,FALSE,"S377189439"
-"2","x00450","Nelson's x Saltmarsh Sparrow (hybrid)","Ammospiza nelsoni x caudacuta","L19367706","Walsh Preserve, Cousin’s River Marsh","2026-07-27 05:49",1,43.8258201,-70.153672,TRUE,FALSE,FALSE,"S377028645"
-"3","x00450","Nelson's x Saltmarsh Sparrow (hybrid)","Ammospiza nelsoni x caudacuta","L464994","Scarborough Marsh--Dunstan Landing","2026-07-19 08:36",1,43.5657154,-70.3792763,TRUE,FALSE,FALSE,"S373994763"
+"1","sxrgoo1","Snow x Ross's Goose (hybrid)","Anser caerulescens x rossii","L1354057","Lake Woollomes","2026-07-28 14:50",1,35.7457275,-119.1753075,TRUE,FALSE,FALSE,"S377514341"
